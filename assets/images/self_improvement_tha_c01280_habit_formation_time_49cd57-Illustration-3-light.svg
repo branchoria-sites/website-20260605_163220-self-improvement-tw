@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1920 1080" data-theme="light">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #a5b4fc;
+    --accent-2: #34d399;
+    --accent-3: #f472b6;
+    --accent-4: #fbbf24;
+    --accent-5: #38bdf8;
+    --accent-6: #c084fc;
+    --accent-7: #f87171;
+    --accent-8: #2dd4bf;
+    --accent-9: #fb923c;
+    --accent-10: #e879f9;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="90.0" y2="90.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <filter id="svg747a0540-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="svg747a0540-drop-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <linearGradient id="svg747a0540-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--background)"/>
+      <stop offset="100%" stop-color="var(--panel)"/>
+    </linearGradient>
+    <radialGradient id="svg747a0540-core-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="var(--accent-1)" stop-opacity="0.2"/>
+      <stop offset="60%" stop-color="var(--accent-1)" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="var(--accent-1)" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="svg747a0540-dot-grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="var(--muted-text)" opacity="0.1"/>
+    </pattern>
+    <radialGradient id="svg747a0540-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg747a0540-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg747a0540-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="svg747a0540-orbital-rings-art-glow" cx="50%" cy="52%" r="68%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg747a0540-orbital-rings-art-sheen" x1="16%" y1="0%" x2="86%" y2="100%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.22"/>
+      <stop offset="52%" stop-color="var(--inverse-text)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg747a0540-orbital-depth-glow" cx="50%" cy="50%" r="58%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="58%" stop-color="var(--art-glow)" stop-opacity="0.055"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg747a0540-orbital-ring-sweep" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="svg747a0540-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svg747a0540-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svg747a0540-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <ellipse id="ORBITAL-RINGS_ART_GLOW" cx="960" cy="600" rx="650" ry="340" fill="url(#svg747a0540-orbital-rings-art-glow)" opacity="0.84"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg747a0540-universal-edge-vignette)" opacity="0.62"/>
+  <rect width="1920" height="1080" fill="url(#svg747a0540-bg-grad)"/>
+  <rect width="1920" height="1080" fill="url(#svg747a0540-dot-grid)"/>
+  <rect id="TITLE_FRAME" x="134" y="25" width="1652" height="70" fill="none" pointer-events="none"/>
+  <text id="TITLE" x="960.0" y="59" font-size="48" font-weight="700" fill="#0f172a" text-anchor="middle" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Debugging Your Routine</tspan>
+  </text>
+  <g id="DIAGRAM_MAIN">
+    <!-- Center Core Glow -->
+    <circle cx="960.0" cy="540.0" r="280" fill="url(#svg747a0540-core-glow)" pointer-events="none"/>
+    <circle cx="960.0" cy="540.0" r="240.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_240.0" cx="960.0" cy="540.0" r="240.0" fill="none" stroke="url(#svg747a0540-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="295.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_295.0" cx="960.0" cy="540.0" r="295.0" fill="none" stroke="url(#svg747a0540-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="350.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_350.0" cx="960.0" cy="540.0" r="350.0" fill="none" stroke="url(#svg747a0540-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="405.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_405.0" cx="960.0" cy="540.0" r="405.0" fill="none" stroke="url(#svg747a0540-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="460.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_460.0" cx="960.0" cy="540.0" r="460.0" fill="none" stroke="url(#svg747a0540-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <ellipse id="ORBITAL_RINGS_ART_DEPTH_GLOW" cx="960.0" cy="540.0" rx="410" ry="340" fill="url(#svg747a0540-orbital-depth-glow)" opacity="0.92"/>
+    <!-- Central Core Graphic -->
+    <circle cx="960.0" cy="540.0" r="180" fill="var(--panel)" stroke="var(--primary-text)" stroke-width="4" filter="url(#svg747a0540-drop-shadow)"/>
+    <circle cx="960.0" cy="540.0" r="165" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="10 5" opacity="0.3"/>
+    <circle cx="960.0" cy="540.0" r="140" fill="none" stroke="var(--accent-1)" stroke-width="1" stroke-dasharray="4 4" opacity="0.5"/>
+    <circle id="ORBITAL_RINGS_ART_CORE_AURA" cx="960.0" cy="540.0" r="74" fill="url(#svg747a0540-universal-icon-aura)" opacity="0.72"/>
+    <circle cx="960.0" cy="540.0" r="30" fill="var(--primary-text)" opacity="0.1"/>
+    <circle id="ORBITAL_RINGS_ART_CORE_GLINT" cx="938" cy="518" r="11" fill="var(--art-sheen)" opacity="0.34"/>
+    <!-- Standard Top Global Title -->
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_1" cx="1200.0" cy="540.0" r="58" fill="var(--accent-9)" opacity="0.72" fill-opacity="1.0" stroke="var(--accent-9)" stroke-opacity="1.0"/>
+    <circle id="ITEM_1_BORDER" cx="1200.0" cy="540.0" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-9)" filter="url(#svg747a0540-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_1_STROKE" cx="1200.0" cy="540.0" r="34" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_1_PAD" cx="1204.00" cy="544.00" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_1_PAD_INNER" cx="1204.00" cy="544.00" r="34.94" fill="var(--accent-9)" fill-opacity="0.22"/>
+    <g id="ITEM_1_ICON" transform="translate(1176.0, 516.0)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-18.591999999999995,-18.591999999999995) scale(3.8826666666666663)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M4 8h16" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M20 12h-16" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M4 16h16" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M9 4v4" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M14 8v4" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M8 12v4" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M16 12v4" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M11 16v4" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+      </g>
+    </g>
+    <line x1="1248.0" y1="540.0" x2="1260.0" y2="540.0" stroke="var(--accent-1)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="1260.0" cy="540.0" r="3" fill="var(--accent-1)"/>
+    <!-- Node 1 Frames -->
+    <rect id="ITEM_1_HEAD_FRAME" x="1270.0" y="500.0" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_BODY_FRAME" x="1270" y="540.0" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_TEXT_BG" x="1252" y="486" width="416" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_1_HEAD" x="1270.0" y="500.0" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--primary-text)" text-anchor="start" data-bg-id="ITEM_1_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1270.0" dy="28.25px">Identify Friction</tspan>
+    </text>
+    <text id="ITEM_1_BODY" x="1270.0" y="540.0" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="start" data-bg-id="ITEM_1_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1270.0" dy="32.84px">Find obstacles preventing</tspan>
+      <tspan x="1270.0" dy="29.90px">daily repetition of action</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_2" cx="665.0" cy="540.0" r="58" fill="var(--accent-10)" opacity="0.72" fill-opacity="1.0" stroke="var(--accent-10)" stroke-opacity="1.0"/>
+    <circle id="ITEM_2_BORDER" cx="665.0" cy="540.0" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-10)" filter="url(#svg747a0540-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_2_STROKE" cx="665.0" cy="540.0" r="34" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_2_PAD" cx="669.00" cy="544.00" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_2_PAD_INNER" cx="669.00" cy="544.00" r="34.94" fill="var(--accent-10)" fill-opacity="0.22"/>
+    <g id="ITEM_2_ICON" transform="translate(641.0, 516.0)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-11.935999999999993,-11.935999999999995) scale(2.4959999999999996)">
+        <path d="M8 4C8 2.89543 8.89543 2 10 2H22C23.1046 2 24 2.89543 24 4V28C24 29.1046 23.1046 30 22 30H10C8.89543 30 8 29.1046 8 28V4Z" fill="#E19747"/>
+        <path d="M10 5C10 4.44772 10.4477 4 11 4H21C21.5523 4 22 4.44772 22 5V12C22 12.5523 21.5523 13 21 13H11C10.4477 13 10 12.5523 10 12V5Z" fill="#D3883E"/>
+        <path d="M10 17C10 16.4477 10.4477 16 11 16H21C21.5523 16 22 16.4477 22 17V20C22 20.5523 21.5523 21 21 21H11C10.4477 21 10 20.5523 10 20V17Z" fill="#D3883E"/>
+        <path d="M11 23C10.4477 23 10 23.4477 10 24V27C10 27.5523 10.4477 28 11 28H21C21.5523 28 22 27.5523 22 27V24C22 23.4477 21.5523 23 21 23H11Z" fill="#D3883E"/>
+        <path d="M23.25 14.5C23.25 15.0523 22.8023 15.5 22.25 15.5C21.6977 15.5 21.25 15.0523 21.25 14.5C21.25 13.9477 21.6977 13.5 22.25 13.5C22.8023 13.5 23.25 13.9477 23.25 14.5Z" fill="#F9C23C"/>
+      </g>
+    </g>
+    <line x1="617.0" y1="540.0" x2="605.0" y2="540.0" stroke="var(--accent-2)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="605.0" cy="540.0" r="3" fill="var(--accent-2)"/>
+    <!-- Node 2 Frames -->
+    <rect id="ITEM_2_HEAD_FRAME" x="335.0" y="500.0" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_BODY_FRAME" x="215" y="540.0" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_TEXT_BG" x="197" y="486" width="416" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_2_HEAD" x="595.0" y="500.0" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-10)" text-anchor="end" data-bg-id="ITEM_2_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="595.0" dy="28.25px">Stabilize Cues</tspan>
+    </text>
+    <text id="ITEM_2_BODY" x="595.0" y="540.0" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="end" data-bg-id="ITEM_2_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="595.0" dy="32.84px">Link behavior to stable</tspan>
+      <tspan x="595.0" dy="29.90px">context like arriving home</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_3" cx="1184.975663390289" cy="271.8844449083577" r="58" fill="var(--accent-1)" opacity="0.72" fill-opacity="1.0" stroke="var(--accent-1)" stroke-opacity="1.0"/>
+    <circle id="ITEM_3_BORDER" cx="1184.975663390289" cy="271.8844449083577" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-1)" filter="url(#svg747a0540-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_3_STROKE" cx="1184.975663390289" cy="271.8844449083577" r="34" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_3_PAD" cx="1188.98" cy="275.88" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_3_PAD_INNER" cx="1188.98" cy="275.88" r="34.94" fill="var(--accent-1)" fill-opacity="0.22"/>
+    <g id="ITEM_3_ICON" transform="translate(1160.975663390289, 247.8844449083577)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-9.880470588235289,-10.467764705882349) scale(0.14682352941176469)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+        <path fill="#f1f5f9" d="m224 27.027l14.037 110.54l14.807-103.032zm112.71 21.127l-61.58 92.37l88.4-70.518zM125.15 69.012V98.81l77.475 41.715zM319 143.088C364.826 255.36 348.206 384 319 493h174V143.088zm-78.598 11.463q-.85-.01-1.718.02c-12.517.413-26.47 6.774-37.893 17.274c-15.774 14.527-23.843 34.25-20.167 49.3c-45 12.35-76.594 62.683-81.64 102.18c-3.968 37.166 15.322 61.415.558 85.432L40.77 447.54l-20.458 9.997L55.33 496.19h15.686l-17.27-32.17l72.906-38.573c14.698-8.6 16.065-23.74 19.28-41.092c16.147 11.876 33.577 23.202 47.56 32.48c-6.36 27.685-38.544 52.854-58.512 79.356h77.827l-2.905-5.21s-39.03-6.813-43.77-7.498c-.15.01-.29.005-.407-.02c-.327-.076-.082-.05.408.02c8.143-.477 65.126-51.946 63.53-64.54c-13.498-23.115-34.03-44.835-54.974-66.276c1.845-25.475 2.3-52.734 40.75-75.596l110.044-4.566c-.94-22.375-4.53-59.816-10.35-66.018c-9.702 7.54-10.872 30.843-11.628 48.637l-79.463-2.283c-8.445-.63-14.943-7.846-21.15-12.822c13.6 1.556 30.02-4.91 43.218-17.024c20.673-19.002 27.286-45.857 14.77-59.982c-4.795-5.412-11.97-8.365-20.478-8.46z" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <line x1="1215.8294686552429" y1="235.11431163864674" x2="1244.975663390289" y2="271.8844449083577" stroke="var(--accent-3)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="1244.975663390289" cy="271.8844449083577" r="3" fill="var(--accent-3)"/>
+    <!-- Node 3 Frames -->
+    <rect id="ITEM_3_HEAD_FRAME" x="1254.975663390289" y="231.8844449083577" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_BODY_FRAME" x="1255" y="271.8844449083577" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_TEXT_BG" x="1236.975663390289" y="217.8844449083577" width="416.024336609711" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_3_HEAD" x="1254.975663390289" y="231.8844449083577" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-1)" text-anchor="start" data-bg-id="ITEM_3_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1254.975663390289" dy="28.25px">Reduce Effort</tspan>
+    </text>
+    <text id="ITEM_3_BODY" x="1255.0" y="271.8844449083577" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="start" data-bg-id="ITEM_3_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1255.0" dy="32.84px">Make the action easier</tspan>
+      <tspan x="1255.0" dy="29.90px">to start and perform</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_4" cx="699.6710180769516" cy="850.247999463186" r="58" fill="var(--accent-2)" opacity="0.72" fill-opacity="1.0" stroke="var(--accent-2)" stroke-opacity="1.0"/>
+    <circle id="ITEM_4_BORDER" cx="699.6710180769516" cy="850.247999463186" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-2)" filter="url(#svg747a0540-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_4_STROKE" cx="699.6710180769516" cy="850.247999463186" r="34" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_4_PAD" cx="703.67" cy="854.25" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_4_PAD_INNER" cx="703.67" cy="854.25" r="34.94" fill="var(--accent-2)" fill-opacity="0.22"/>
+    <g id="ITEM_4_ICON" transform="translate(675.6710180769516, 826.247999463186)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-11.935999999999995,-11.935999999999993) scale(2.4959999999999996)">
+        <path d="M18.6992 4.62713L20.9469 8.93616C21.288 9.57602 21.9102 10.0259 22.6326 10.1259L27.3788 10.7758C29.9175 11.1257 30.9008 14.255 29.0244 15.9946L25.7733 18.9939C25.2114 19.5138 24.9505 20.2836 25.091 21.0334L25.8837 25.4324C26.3252 27.8819 23.7765 29.7915 21.5389 28.6717L17.0034 26.4222C16.3713 26.1123 15.6287 26.1123 14.9966 26.4222L10.4611 28.6717C8.22347 29.7815 5.67477 27.8819 6.11628 25.4324L6.90898 21.0334C7.04946 20.2836 6.78857 19.5138 6.22665 18.9939L2.97556 15.9946C1.09916 14.265 2.08251 11.1257 4.62118 10.7758L9.36737 10.1259C10.0898 10.0259 10.722 9.58601 11.0531 8.93616L13.3008 4.62713C14.4447 2.45762 17.5653 2.45762 18.6992 4.62713Z" fill="#FCD53F"/>
+      </g>
+    </g>
+    <line x1="668.8172128119977" y1="887.018132732897" x2="639.6710180769516" y2="850.247999463186" stroke="var(--accent-4)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="639.6710180769516" cy="850.247999463186" r="3" fill="var(--accent-4)"/>
+    <!-- Node 4 Frames -->
+    <rect id="ITEM_4_HEAD_FRAME" x="369.67101807695155" y="810.247999463186" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_BODY_FRAME" x="249.7" y="850.247999463186" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_TEXT_BG" x="231.7" y="796.247999463186" width="416" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_4_HEAD" x="629.6710180769516" y="810.247999463186" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--primary-text)" text-anchor="end" data-bg-id="ITEM_4_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="629.6710180769516" dy="28.25px">Increase Reward</tspan>
+    </text>
+    <text id="ITEM_4_BODY" x="629.7" y="850.247999463186" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="end" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="629.7" dy="32.84px">Ensure the action feels useful</tspan>
+      <tspan x="629.7" dy="29.90px">or enjoyable</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_5" cx="1255.6823004558082" cy="892.3804438347299" r="58" fill="var(--accent-3)" opacity="0.72" fill-opacity="1.0" stroke="var(--accent-3)" stroke-opacity="1.0"/>
+    <circle id="ITEM_5_BORDER" cx="1255.6823004558082" cy="892.3804438347299" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-3)" filter="url(#svg747a0540-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_5_STROKE" cx="1255.6823004558082" cy="892.3804438347299" r="34" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_5_PAD" cx="1259.68" cy="896.38" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_5_PAD_INNER" cx="1259.68" cy="896.38" r="34.94" fill="var(--accent-3)" fill-opacity="0.22"/>
+    <g id="ITEM_5_ICON" transform="translate(1231.6823004558082, 868.3804438347299)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-13.415111111111106,-13.415111111111106) scale(3.451259259259259)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M7 10h3v-3l-3.5 -3.5a6 6 0 0 1 8 8l6 6a2 2 0 0 1 -3 3l-6 -6a6 6 0 0 1 -8 -8l3.5 3.5" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+      </g>
+    </g>
+    <line x1="1286.5361057207622" y1="929.1505771044409" x2="1315.6823004558082" y2="892.3804438347299" stroke="var(--accent-5)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="1315.6823004558082" cy="892.3804438347299" r="3" fill="var(--accent-5)"/>
+    <!-- Node 5 Frames -->
+    <rect id="ITEM_5_HEAD_FRAME" x="1325.6823004558082" y="852.3804438347299" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_5_BODY_FRAME" x="1325.7" y="892.3804438347299" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_5_TEXT_BG" x="1307.6823004558082" y="838.3804438347299" width="416.0176995441918" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_5_HEAD" x="1325.6823004558082" y="852.3804438347299" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-3)" text-anchor="start" data-bg-id="ITEM_5_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1325.6823004558082" dy="28.25px">Refine System</tspan>
+    </text>
+    <text id="ITEM_5_BODY" x="1325.7" y="892.3804438347299" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="start" data-bg-id="ITEM_5_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1325.7" dy="32.84px">Treat early weeks as system</tspan>
+      <tspan x="1325.7" dy="29.90px">debugging not failure</tspan>
+    </text>
+  </g>
+</svg>

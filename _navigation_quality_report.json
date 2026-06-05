@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-06-05T15:26:44.395475Z",
+  "summary": {
+    "total_pages_with_permalink": 282,
+    "visible_pages": 241,
+    "hidden_pages": 41,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_accountability_partn_0abd4b",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_action_planning_tire_75638c",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_apologising_before_r_bb5f88",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_behaviour_change_tax_24790f",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_choice_architecture_214f66",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_cycling_to_work_894f2f",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_digital_intervention_a27f6a",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_ego_depletion_debate_45c31f",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_expert_feedback_f08a74",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_goals_vs_systems_2478d2",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_gym_after_work_1077e6",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_habit_automaticity_947f0e",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_health_habit_evidenc_926c38",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_identity_vs_behaviou_8a31bf",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_index",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_low_energy_days_6d646e",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_meaningful_goals_b66445",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_morning_coffee_cue_d08fd8",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_motivation_quality_744dd4",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_phone_out_bedroom_20e47b",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_prompts_and_cues_08d116",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_relapse_missed_days_db0249",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_rewards_reinforcemen_89c68c",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_saving_before_spendi_b6bd97",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_self_help_myths_5ac0eb",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_self_monitoring_416032",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_sleep_before_episode_47ee06",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_social_support_057e53",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_specific_behaviour_g_4d4ee0",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_starting_small_31cbaf",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_study_before_scrolli_78a723",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_walking_after_lunch_d84c67",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_wearables_streaks_315b17",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_weekly_reviews_0ef084",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_willpower_backup_643acf",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280",
+        "type": "parent"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_accountability_partn_0abd4b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_action_planning_tire_75638c",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_apologising_before_r_bb5f88",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_behaviour_change_tax_24790f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_choice_architecture_214f66",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_cycling_to_work_894f2f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_digital_intervention_a27f6a",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_ego_depletion_debate_45c31f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_expert_feedback_f08a74",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_goals_vs_systems_2478d2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_gym_after_work_1077e6",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_habit_automaticity_947f0e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_health_habit_evidenc_926c38",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_identity_vs_behaviou_8a31bf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_low_energy_days_6d646e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_meaningful_goals_b66445",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_morning_coffee_cue_d08fd8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_motivation_quality_744dd4",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_phone_out_bedroom_20e47b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_prompts_and_cues_08d116",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_relapse_missed_days_db0249",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_rewards_reinforcemen_89c68c",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_saving_before_spendi_b6bd97",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_self_help_myths_5ac0eb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_self_monitoring_416032",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_sleep_before_episode_47ee06",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_social_support_057e53",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_specific_behaviour_g_4d4ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_starting_small_31cbaf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_study_before_scrolli_78a723",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_walking_after_lunch_d84c67",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_wearables_streaks_315b17",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_weekly_reviews_0ef084",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_willpower_backup_643acf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2_index",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2_soft_vs_locked_limit_6f7e17",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "to": "self_improvement_tha_c01280",
+        "type": "ancestor"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280",
+        "type": "parent"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_accountability_partn_0abd4b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_action_planning_tire_75638c",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_apologising_before_r_bb5f88",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_behaviour_change_tax_24790f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_choice_architecture_214f66",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_cycling_to_work_894f2f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_digital_intervention_a27f6a",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_ego_depletion_debate_45c31f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_expert_feedback_f08a74",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_goals_vs_systems_2478d2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_gym_after_work_1077e6",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_habit_automaticity_947f0e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_health_habit_evidenc_926c38",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_identity_vs_behaviou_8a31bf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_low_energy_days_6d646e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_meaningful_goals_b66445",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_morning_coffee_cue_d08fd8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_motivation_quality_744dd4",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_phone_out_bedroom_20e47b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_prompts_and_cues_08d116",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_relapse_missed_days_db0249",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_rewards_reinforcemen_89c68c",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_saving_before_spendi_b6bd97",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_self_help_myths_5ac0eb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_self_monitoring_416032",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_sleep_before_episode_47ee06",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_social_support_057e53",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_specific_behaviour_g_4d4ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_starting_small_31cbaf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_study_before_scrolli_78a723",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_walking_after_lunch_d84c67",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_wearables_streaks_315b17",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_weekly_reviews_0ef084",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_willpower_backup_643acf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_index",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_recovery_after_lapse_93cc2e",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280",
+        "type": "ancestor"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280",
+        "type": "parent"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_accountability_partn_0abd4b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_action_planning_tire_75638c",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_apologising_before_r_bb5f88",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_behaviour_change_tax_24790f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_choice_architecture_214f66",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_cycling_to_work_894f2f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_digital_intervention_a27f6a",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_ego_depletion_debate_45c31f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_expert_feedback_f08a74",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_goals_vs_systems_2478d2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_gym_after_work_1077e6",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_habit_automaticity_947f0e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_health_habit_evidenc_926c38",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_identity_vs_behaviou_8a31bf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_low_energy_days_6d646e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_meaningful_goals_b66445",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_morning_coffee_cue_d08fd8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_motivation_quality_744dd4",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_phone_out_bedroom_20e47b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_prompts_and_cues_08d116",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_relapse_missed_days_db0249",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_rewards_reinforcemen_89c68c",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_saving_before_spendi_b6bd97",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_self_help_myths_5ac0eb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_self_monitoring_416032",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_sleep_before_episode_47ee06",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_social_support_057e53",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_specific_behaviour_g_4d4ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_starting_small_31cbaf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_study_before_scrolli_78a723",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_walking_after_lunch_d84c67",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_wearables_streaks_315b17",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_weekly_reviews_0ef084",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_willpower_backup_643acf",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89_index",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89_self_help_prompt_not_de0f56",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "to": "self_improvement_tha_c01280",
+        "type": "ancestor"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280",
+        "type": "parent"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_accountability_partn_0abd4b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_action_planning_tire_75638c",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_apologising_before_r_bb5f88",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_app_blockers_1932a2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_behaviour_change_tax_24790f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_choice_architecture_214f66",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_cycling_to_work_894f2f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_digital_intervention_a27f6a",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_ego_depletion_debate_45c31f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_expert_feedback_f08a74",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_false_progress_cb1a89",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_goals_vs_systems_2478d2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_gym_after_work_1077e6",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_habit_automaticity_947f0e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_feedback_loops_fdc3b7",
+        "to": "self_improvement_tha_c01280_health_habit_evidenc_926c38",
+        "type": "sibling"
+      }
+    ]
+  }
+}
