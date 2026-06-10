@@ -317,7 +317,7 @@ The purpose of an emergency fund is not merely to exist. It is to be available w
 
 ## Signs the default amount is unrealistic
 
-[Automatic saving]({{ 'money-defaults/' | relative_url }}) works because it removes repeated decision-making. Yet automation can hide problems when circumstances change.
+Automatic saving works because it removes repeated decision-making. Yet automation can hide problems when circumstances change.
 
 A transfer amount that worked six months ago may no longer fit after rent increases, childcare costs, reduced hours, higher energy bills or other life changes. Because the transfer happens automatically, people sometimes interpret the resulting strain as a personal discipline problem rather than a system-design problem.
 
@@ -814,111 +814,111 @@ A successful saving habit should leave someone more resilient after ordinary bil
 1. <a id="endnote-1"></a>
    Source: discover.com  
    Title: successfully payoff debt build emergency fund  
-   Link: [https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/](https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/)  
+   Link: <a href="https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pay Off Debt or Save for an Emergency Fund?Feb 17, 2026 — Depending on your personal situation and financial goals, you may not need to c...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: corporate.vanguard.com  
    Title: emergency savings may hold key financial well being  
-   Link: [https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html)  
+   Link: <a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>savings may hold key to financial well-being29 Apr 2025 — “People with emergency savings have a higher level of financial well-being, spe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: debt.org  
    Title: should i empty my savings to pay off credit card  
-   Link: [https://www.debt.org/credit/cards/should-i-empty-my-savings-to-pay-off-credit-card/](https://www.debt.org/credit/cards/should-i-empty-my-savings-to-pay-off-credit-card/)  
+   Link: <a href="https://www.debt.org/credit/cards/should-i-empty-my-savings-to-pay-off-credit-card/" target="_blank" rel="noopener noreferrer nofollow">https://www.debt.org/credit/cards/should-i-empty-my-savings-to-pay-off-credit-card/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Should I Empty My Savings To Pay off My Credit Card?Sep 6, 2024 — We&#x27;ll help you navigate the tough decision of whether to use your savin...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: files.consumerfinance.gov  
-   Link: [https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf](https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf)  
+   Link: <a href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: consumerfinance.gov  
    Title: an essential guide to building an emergency fund  
-   Link: [https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/](https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/)  
+   Link: <a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — An emergency fund is a cash reserve tha...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mutualofomaha.com  
    Title: paying off debt vs saving what to choose  
-   Link: [https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose](https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose)  
+   Link: <a href="https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose" target="_blank" rel="noopener noreferrer nofollow">https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mutual of OmahaPaying Off Debt vs Saving: What to ChooseApr 27, 2026 — Primary factors to weigh when choosing between paying off debt and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: consumerfinance.gov  
-   Link: [https://www.consumerfinance.gov/about-us/blog/servicemembers-immediate-actions-financial-success-pay-down-debt-make-plan-start-early/](https://www.consumerfinance.gov/about-us/blog/servicemembers-immediate-actions-financial-success-pay-down-debt-make-plan-start-early/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/blog/servicemembers-immediate-actions-financial-success-pay-down-debt-make-plan-start-early/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/servicemembers-immediate-actions-financial-success-pay-down-debt-make-plan-start-early/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection Bureaupay down debt, make a plan, start earlyOct 1, 2018 — The immediate actions toward financial freedom i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: moneyhelper.org.uk  
-   Link: [https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough](https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough)  
+   Link: <a href="https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough" target="_blank" rel="noopener noreferrer nofollow">https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MaPSEmergency savings – how much is enough?A good rule of thumb to give yourself a solid financial cushion is to have three to six months...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: consumerfinance.gov  
    Title: how reduce your debt  
-   Link: [https://www.consumerfinance.gov/about-us/blog/how-reduce-your-debt/](https://www.consumerfinance.gov/about-us/blog/how-reduce-your-debt/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/blog/how-reduce-your-debt/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/how-reduce-your-debt/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauHow to reduce your debtJul 16, 2019 — There are two basic strategies that can help you reduce debt: t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: files.consumerfinance.gov  
    Title: Consumer Financial Protection Bureau Debt getting in your way?  
-   Link: [https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf](https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf)  
+   Link: <a href="https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Get a handle on it.Con: If the interest and fees are high on your larger debts, you might pay more overall if you pay off the smaller one...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/pay](https://dictionary.cambridge.org/dictionary/english/pay)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/pay" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/pay</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>something for something How much did you pay for the tickets? I pay my...Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/260526717_Financial_Literacy_and_Emergency_Saving](https://www.researchgate.net/publication/260526717_Financial_Literacy_and_Emergency_Saving)  
+   Link: <a href="https://www.researchgate.net/publication/260526717_Financial_Literacy_and_Emergency_Saving" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260526717_Financial_Literacy_and_Emergency_Saving</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Financial Literacy and Emergency SavingThis paper investigates the correlations between subjectively and objectively assessed measu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: payments.service.gov.uk  
-   Link: [https://www.payments.service.gov.uk/](https://www.payments.service.gov.uk/)  
+   Link: <a href="https://www.payments.service.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.payments.service.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pay has contracts with payment providers so you can take payments quickly and easily. It&#x27;s used across central and local govern...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/markets/funds/how-build-an-emergency-fund-2025-12-16/](https://www.reuters.com/markets/funds/how-build-an-emergency-fund-2025-12-16/)  
+   Link: <a href="https://www.reuters.com/markets/funds/how-build-an-emergency-fund-2025-12-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/funds/how-build-an-emergency-fund-2025-12-16/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its importance, more than 20% of Americans have no emergency savings, and only 46% are prepared to cover three months of expenses...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: paypal.com  
-   Link: [https://www.paypal.com/uk/home](https://www.paypal.com/uk/home)  
+   Link: <a href="https://www.paypal.com/uk/home" target="_blank" rel="noopener noreferrer nofollow">https://www.paypal.com/uk/home</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PayPal UK: PayPal Account | Mobile Wallet and MoreUse your PayPal account to spend, send, and manage your money. Or, create a merchant ac...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wearepay.uk  
-   Link: [https://www.wearepay.uk/what-we-do/overlay-services/request-to-pay/](https://www.wearepay.uk/what-we-do/overlay-services/request-to-pay/)  
+   Link: <a href="https://www.wearepay.uk/what-we-do/overlay-services/request-to-pay/" target="_blank" rel="noopener noreferrer nofollow">https://www.wearepay.uk/what-we-do/overlay-services/request-to-pay/</a>  
 
 17. <a id="endnote-17"></a>
    Source: chase.com  
-   Link: [https://www.chase.com/personal/banking/education/budgeting-saving/rainy-day-fund-vs-emergency-fund](https://www.chase.com/personal/banking/education/budgeting-saving/rainy-day-fund-vs-emergency-fund)  
+   Link: <a href="https://www.chase.com/personal/banking/education/budgeting-saving/rainy-day-fund-vs-emergency-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.chase.com/personal/banking/education/budgeting-saving/rainy-day-fund-vs-emergency-fund</a>  
 
 18. <a id="endnote-18"></a>
    Source: alight.com  
-   Link: [https://www.alight.com/blog/how-emergency-fund-different-from-savings-account](https://www.alight.com/blog/how-emergency-fund-different-from-savings-account)  
+   Link: <a href="https://www.alight.com/blog/how-emergency-fund-different-from-savings-account" target="_blank" rel="noopener noreferrer nofollow">https://www.alight.com/blog/how-emergency-fund-different-from-savings-account</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a separate pool of money designated specifically to cover or offset expenses associated with an...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_xJh2uLRxaw](https://www.youtube.com/watch?v=_xJh2uLRxaw)  
+   Link: <a href="https://www.youtube.com/watch?v=_xJh2uLRxaw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xJh2uLRxaw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn How to Save Money and Pay Off Debt at the Same TimeBuilding your savings while paying off debt is just finding the balance of the r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ithinkfi.org  
    Title: understanding emergency funds savings accounts in 2025  
-   Link: [https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025](https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025)  
+   Link: <a href="https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Emergency Funds &amp; Savings Accounts in...1 Oct 2025 — Understand key differences between emergency funds and savings accoun...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/personalfinance/comments/1q6s5yy/need_advice_on_whether_i_should_save_for_an/](https://www.reddit.com/r/personalfinance/comments/1q6s5yy/need_advice_on_whether_i_should_save_for_an/)  
+   Link: <a href="https://www.reddit.com/r/personalfinance/comments/1q6s5yy/need_advice_on_whether_i_should_save_for_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/personalfinance/comments/1q6s5yy/need_advice_on_whether_i_should_save_for_an/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>500 monthly just on ((interest)), or should I prioritize saving for...Read more...</p></details>

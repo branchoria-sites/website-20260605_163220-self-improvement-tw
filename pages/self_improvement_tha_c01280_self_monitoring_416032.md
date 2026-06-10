@@ -502,11 +502,11 @@ image: /assets/images/self_improvement_tha_c01280_self_monitoring_416032-overvie
 
 ## Introduction
 
-Self-monitoring works when it makes behaviour visible without turning life into a scoreboard. The useful question is not “How can I track everything?” but “What single signal will help me notice, adjust and continue?” In evidence-based [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), tracking is strongest when it records a behaviour you can control, such as writing for 20 minutes, [walking after lunch]({{ 'lunch-walks/' | relative_url }}) or putting your phone away at 9.30 pm. It becomes weaker when it fixates on an outcome that moves slowly or is partly outside your control, such as weight, mood, income, sleep score or follower count.
+Self-monitoring works when it makes behaviour visible without turning life into a scoreboard. The useful question is not “How can I track everything?” but “What single signal will help me notice, adjust and continue?” In evidence-based [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), tracking is strongest when it records a behaviour you can control, such as writing for 20 minutes, walking after lunch or putting your phone away at 9.30 pm. It becomes weaker when it fixates on an outcome that moves slowly or is partly outside your control, such as weight, mood, income, sleep score or follower count.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032-overview.webp" | relative_url }}" alt="Overview image for Tracking" loading="eager" decoding="sync" fetchpriority="high">
-The best tracking system is small, boring and actionable. It should answer three questions: did the behaviour happen, what got in the way, and what should change next time? Research on behaviour change supports self-monitoring as a useful active ingredient, especially when it is paired with goals, [feedback]({{ 'feedback/' | relative_url }}) and practical adjustment rather than self-criticism. But the same tools can become noisy or harmful when they create anxiety, shame, compulsive checking or rigid rules around food, exercise, productivity or health. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIResults of the behaviour change technique synthesis</span></span></span>
+The best tracking system is small, boring and actionable. It should answer three questions: did the behaviour happen, what got in the way, and what should change next time? Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) supports self-monitoring as a useful active ingredient, especially when it is paired with goals, [feedback]({{ 'feedback/' | relative_url }}) and practical adjustment rather than self-criticism. But the same tools can become noisy or harmful when they create anxiety, shame, compulsive checking or rigid rules around food, exercise, productivity or health. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIResults of the behaviour change technique synthesis</span></span></span>
 
 ## Track behaviour before outcomes
 
@@ -514,7 +514,7 @@ A behaviour metric records the action you took. An outcome metric records the re
 
 For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), behaviour metrics usually belong closest to the person. They are immediate, adjustable and fair. “Did I do ten minutes of stretching?” gives clearer feedback than “Is my back pain gone?” “Did I prepare tomorrow’s lunch?” is more actionable than “Did I lose weight today?” “Did I start revising at 7 pm?” is more useful than “Do I feel like a disciplined person?” The Behaviour Change Technique Taxonomy distinguishes between self-monitoring of behaviour and self-monitoring of outcomes: one records what the person does, while the other records the consequences of that behaviour. That distinction matters because people can change actions more directly than results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIResults of the behaviour change technique synthesis</span></span></span>
 
-Outcome metrics are not useless. They help check whether the behaviour is working. A runner may track weekly mileage as a behaviour and race time as an outcome. Someone trying to sleep better may track “[phone out of]({{ 'phone-distance/' | relative_url }}) bedroom by 10 pm” as a behaviour and perceived restfulness as an outcome. The problem comes when the outcome is checked too often and treated as a daily verdict. Many outcomes are noisy: weight fluctuates with water and digestion, sleep scores depend on device algorithms, mood varies with stress and hormones, and creative work may improve before it is recognised externally.
+Outcome metrics are not useless. They help check whether the behaviour is working. A runner may track weekly mileage as a behaviour and race time as an outcome. Someone trying to sleep better may track “phone out of bedroom by 10 pm” as a behaviour and perceived restfulness as an outcome. The problem comes when the outcome is checked too often and treated as a daily verdict. Many outcomes are noisy: weight fluctuates with water and digestion, sleep scores depend on device algorithms, mood varies with stress and hormones, and creative work may improve before it is recognised externally.
 
 A useful rule is to put behaviour metrics on the daily dashboard and outcome metrics on the review calendar. The daily question is “Did I do the action?” The weekly or monthly question is “Is this action moving the result?” That separation protects [motivation]({{ 'motivation/' | relative_url }}). It lets a person keep faith with a good behaviour while waiting for delayed outcomes, and it also creates a planned moment to change strategy if the behaviour is not producing the desired effect.
 
@@ -526,7 +526,7 @@ Self-monitoring helps because it closes the gap between intention and reality. M
 
 A large meta-analysis in *Psychological Bulletin* found that monitoring progress towards goals promotes goal attainment, with stronger effects when progress is physically recorded or reported to someone else. That finding is important because it suggests tracking is not merely motivational decoration. The act of recording can make a goal more concrete and harder to misremember. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The evidence is strongest when monitoring is part of a broader self-regulation system. A meta-review of health behaviour change found self-regulation techniques are widely used but do not operate like magic switches; their effects depend on how they are combined, delivered and linked to a specific behaviour. Reviews of physical activity interventions also suggest that self-monitoring alone can be less effective than self-monitoring paired with added support, such as counselling, feedback or goal adjustment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The evidence is strongest when monitoring is part of a broader self-regulation system. A meta-review of health behaviour change found self-regulation [techniques]({{ 'techniques/' | relative_url }}) are widely used but do not operate like magic switches; their effects depend on how they are combined, delivered and linked to a specific behaviour. Reviews of physical activity interventions also suggest that self-monitoring alone can be less effective than self-monitoring paired with added support, such as counselling, feedback or goal adjustment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 That is the practical lesson: do not track for proof of virtue. Track to create a next move. A missed habit is useful data only if it leads to a better cue, smaller version, earlier preparation or different [environment]({{ 'environment/' | relative_url }}). “I failed three times” is a dead-end interpretation. “The habit fails on days when I leave it until after dinner” is a design insight.
 
@@ -1030,148 +1030,148 @@ The point of tracking is not to become a perfectly measured person. It is to mak
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIResults of the behaviour change technique synthesis  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK580337/](https://www.ncbi.nlm.nih.gov/books/NBK580337/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK580337/</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ng69/chapter/recommendations](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)  
+   Link: <a href="https://www.nice.org.uk/guidance/ng69/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng69/chapter/recommendations</a>  
 
 7. <a id="endnote-7"></a>
    Source: nhs.uk  
    Title: Overview – Eating disorders  
-   Link: [https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/)  
+   Link: <a href="https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/</a>  
 
 8. <a id="endnote-8"></a>
    Source: nhs.uk  
    Title: www.nhs.uk Calorie counting  
-   Link: [https://www.nhs.uk/better-health/lose-weight/calorie-counting/](https://www.nhs.uk/better-health/lose-weight/calorie-counting/)  
+   Link: <a href="https://www.nhs.uk/better-health/lose-weight/calorie-counting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/better-health/lose-weight/calorie-counting/</a>  
 
 9. <a id="endnote-9"></a>
    Source: rightdecisions.scot.nhs.uk  
    Title: scot.nhs.uk Eating Disorders  
-   Link: [https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/mental-health/child-and-adolescent-mental-health-services-camhs/eating-disorders/?UNLID=](https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/mental-health/child-and-adolescent-mental-health-services-camhs/eating-disorders/?UNLID=)  
+   Link: <a href="https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/mental-health/child-and-adolescent-mental-health-services-camhs/eating-disorders/?UNLID=" target="_blank" rel="noopener noreferrer nofollow">https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/mental-health/child-and-adolescent-mental-health-services-camhs/eating-disorders/?UNLID=</a>  
 
 10. <a id="endnote-10"></a>
    Source: mhealth.jmir.org  
-   Link: [https://mhealth.jmir.org/2023/1/e45057](https://mhealth.jmir.org/2023/1/e45057)  
+   Link: <a href="https://mhealth.jmir.org/2023/1/e45057" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2023/1/e45057</a>  
 
 11. <a id="endnote-11"></a>
    Source: formative.jmir.org  
-   Link: [https://formative.jmir.org/2022/2/e33603/](https://formative.jmir.org/2022/2/e33603/)  
+   Link: <a href="https://formative.jmir.org/2022/2/e33603/" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2022/2/e33603/</a>  
 
 12. <a id="endnote-12"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e54978/](https://www.jmir.org/2024/1/e54978/)  
+   Link: <a href="https://www.jmir.org/2024/1/e54978/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54978/</a>  
 
 13. <a id="endnote-13"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2021/9/e25171/citations](https://www.jmir.org/2021/9/e25171/citations)  
+   Link: <a href="https://www.jmir.org/2021/9/e25171/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2021/9/e25171/citations</a>  
 
 14. <a id="endnote-14"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2023/1/e40529/](https://www.jmir.org/2023/1/e40529/)  
+   Link: <a href="https://www.jmir.org/2023/1/e40529/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e40529/</a>  
 
 15. <a id="endnote-15"></a>
    Source: madeinheene.hee.nhs.uk  
-   Link: [https://madeinheene.hee.nhs.uk/Portals/19/Eating%20Disorders-%20C%20Reynolds.pdf](https://madeinheene.hee.nhs.uk/Portals/19/Eating%20Disorders-%20C%20Reynolds.pdf)  
+   Link: <a href="https://madeinheene.hee.nhs.uk/Portals/19/Eating%20Disorders-%20C%20Reynolds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://madeinheene.hee.nhs.uk/Portals/19/Eating%20Disorders-%20C%20Reynolds.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
 
 17. <a id="endnote-17"></a>
    Source: ucl.ac.uk  
    Title: University College London How long does it take to form a habit?  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26616119/](https://pubmed.ncbi.nlm.nih.gov/26616119/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26616119/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26616119/</a>  
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21185970/](https://pubmed.ncbi.nlm.nih.gov/21185970/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21185970/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21185970/</a>  
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28214452/](https://pubmed.ncbi.nlm.nih.gov/28214452/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28214452/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28214452/</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Self](https://en.wikipedia.org/wiki/Self)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
 
 23. <a id="endnote-23"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
-   Link: [https://theoryandtechniquetool.humanbehaviourchange.org/tool](https://theoryandtechniquetool.humanbehaviourchange.org/tool)  
+   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
 
 24. <a id="endnote-24"></a>
    Source: obesityaction.org  
-   Link: [https://www.obesityaction.org/resources/self-monitoring-the-way-to-successful-weight-management/](https://www.obesityaction.org/resources/self-monitoring-the-way-to-successful-weight-management/)  
+   Link: <a href="https://www.obesityaction.org/resources/self-monitoring-the-way-to-successful-weight-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.obesityaction.org/resources/self-monitoring-the-way-to-successful-weight-management/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: 5 Ways to Actually Make Your Habits Stick (Evidence-Based)  
-   Link: [https://www.youtube.com/watch?v=DPRnrZH6weU](https://www.youtube.com/watch?v=DPRnrZH6weU)  
+   Link: <a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DPRnrZH6weU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: The 16 Year Habit-Tracking Flip-Flop By Behavioral Scientists  
-   Link: [https://www.youtube.com/watch?v=KZxxelfslok](https://www.youtube.com/watch?v=KZxxelfslok)  
+   Link: <a href="https://www.youtube.com/watch?v=KZxxelfslok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KZxxelfslok</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Ways to Actually Make Your Habits Stick (Evidence-Based)...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Psychology of People Who Track Their Calories  
-   Link: [https://www.youtube.com/watch?v=XrELaG4Bcyk](https://www.youtube.com/watch?v=XrELaG4Bcyk)  
+   Link: <a href="https://www.youtube.com/watch?v=XrELaG4Bcyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrELaG4Bcyk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 16 Year Habit-Tracking Flip-Flop By Behavioral Scientists...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/gravitas-the-negative-feedback-from-your-fitness-tracker-could-be-affecting-your/1928939890649970/](https://www.facebook.com/WIONews/posts/gravitas-the-negative-feedback-from-your-fitness-tracker-could-be-affecting-your/1928939890649970/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/gravitas-the-negative-feedback-from-your-fitness-tracker-could-be-affecting-your/1928939890649970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/gravitas-the-negative-feedback-from-your-fitness-tracker-could-be-affecting-your/1928939890649970/</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/274008273_Unintended_effects_of_self-tracking](https://www.researchgate.net/publication/274008273_Unintended_effects_of_self-tracking)  
+   Link: <a href="https://www.researchgate.net/publication/274008273_Unintended_effects_of_self-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274008273_Unintended_effects_of_self-tracking</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review](https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review)  
+   Link: <a href="https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review</a>  
 
 31. <a id="endnote-31"></a>
    Source: beateatingdisorders.org.uk  
-   Link: [https://www.beateatingdisorders.org.uk/news/exercise-calorie-labelling/](https://www.beateatingdisorders.org.uk/news/exercise-calorie-labelling/)  
+   Link: <a href="https://www.beateatingdisorders.org.uk/news/exercise-calorie-labelling/" target="_blank" rel="noopener noreferrer nofollow">https://www.beateatingdisorders.org.uk/news/exercise-calorie-labelling/</a>  
 
 32. <a id="endnote-32"></a>
    Source: beateatingdisorders.org.uk  
-   Link: [https://www.beateatingdisorders.org.uk/news/beats-response-government-plan-calorie-count/](https://www.beateatingdisorders.org.uk/news/beats-response-government-plan-calorie-count/)  
+   Link: <a href="https://www.beateatingdisorders.org.uk/news/beats-response-government-plan-calorie-count/" target="_blank" rel="noopener noreferrer nofollow">https://www.beateatingdisorders.org.uk/news/beats-response-government-plan-calorie-count/</a>  
 
 33. <a id="endnote-33"></a>
    Source: europepmc.org  
-   Link: [https://europepmc.org/abstract/MED/32313670](https://europepmc.org/abstract/MED/32313670)  
+   Link: <a href="https://europepmc.org/abstract/MED/32313670" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/abstract/MED/32313670</a>  
 
 34. <a id="endnote-34"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf](https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf</a>  

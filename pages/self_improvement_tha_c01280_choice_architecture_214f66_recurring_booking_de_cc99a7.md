@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:56:59'
 parent_title: How Defaults Quietly Shape Your Day | Better Change
 parent_permalink: /defaults/
 parent_nav_short_title: Defaults
@@ -265,7 +266,6 @@ next_link:
   permalink: /ethical-nudges/
   short_title: Ethical nudges
   heading_title: When is a self nudge still free choice?
-date: '2026-06-05 15:56:59 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7-Illustration-1.webp
@@ -278,7 +278,7 @@ Many habits fail not because people forget what they wanted to do, but because t
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7-Illustration-1-dark.svg" | relative_url }}" alt="Booked habits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is a subtle but powerful form of [choice architecture]({{ 'defaults/' | relative_url }}). A recurring class, therapy session, tutoring appointment or study group converts an intention into a scheduled commitment. Research across healthcare, psychotherapy and fitness settings consistently finds that attendance improves when people move from vague intentions to specific scheduled encounters, especially when those encounters recur at stable times and include simple reminder and cancellation systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/14263529/Using_implementation_intentions_to_increase_attendance_for_cervical_cancer_screening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">M. concept of implementation intentions. Women registered at a medical practice in rural England (N...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jhmhp.amegroups.org/article/view/10215/html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jhmhp.amegroups.org">[Hospital Management Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jhmhp.amegroups.org</span><span class="citation-popover-snippet">Hospital Management JournalA systematic review and meta-analysis of appointment...by M Al-Turbag · 2026 — Conclusions: This review demon...</span></span></span>
+This is a subtle but powerful form of choice architecture. A recurring class, therapy session, tutoring appointment or study group converts an intention into a scheduled commitment. Research across healthcare, psychotherapy and fitness settings consistently finds that attendance improves when people move from vague intentions to specific scheduled encounters, especially when those encounters recur at stable times and include simple reminder and cancellation systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/14263529/Using_implementation_intentions_to_increase_attendance_for_cervical_cancer_screening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">M. concept of implementation intentions. Women registered at a medical practice in rural England (N...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jhmhp.amegroups.org/article/view/10215/html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jhmhp.amegroups.org">[Hospital Management Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jhmhp.amegroups.org</span><span class="citation-popover-snippet">Hospital Management JournalA systematic review and meta-analysis of appointment...by M Al-Turbag · 2026 — Conclusions: This review demon...</span></span></span>
 
 ## The difference between remembering and being scheduled
 
@@ -299,7 +299,7 @@ This mechanism is especially valuable for behaviours with delayed [rewards]({{ '
 
 Not all bookings are equally effective. Evidence from fitness attendance suggests that consistency of timing matters alongside [frequency]({{ 'frequency/' | relative_url }}).
 
-Research examining health-club attendance found that members who developed stable attendance patterns—going at similar times and in similar contexts—were more likely to maintain attendance over subsequent months. Early frequency helped, but stability of the attendance routine also predicted longer-term engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/41762506_Can_the_effects_of_implementation_intentions_on_exercise_be_enhanced_using_text_messages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Can the effects of implementation intentions on exercise be...PDF | Implementation intentions planning in advance the situation in which...</span></span></span>
+Research examining health-club attendance found that members who developed stable attendance patterns—going at similar times and in similar contexts—were more likely to maintain attendance over subsequent months. Early frequency helped, but stability of the attendance routine also predicted longer-term engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/41762506_Can_the_effects_of_implementation_intentions_on_exercise_be_enhanced_using_text_messages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Can the effects of implementation intentions on exercise be...PDF &#124; Implementation intentions planning in advance the situation in which...</span></span></span>
 
 This helps explain why recurring bookings often outperform ad hoc scheduling. A standing Wednesday evening class creates a reliable place in the week. The habit is no longer reconstructed from scratch.
 
@@ -330,7 +330,7 @@ A recurring class creates a stronger behavioural structure than a recurring inte
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7-Illustration-2-dark.svg" | relative_url }}" alt="Booked habits illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Therapy
 
-Psychotherapy provides another useful illustration because attendance itself is often part of the treatment process. Research examining thousands of therapy clients found that missed sessions, particularly early in treatment, were associated with poorer outcomes and slower improvement. Regular attendance is not merely administrative; it affects whether the intervention can work as intended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28263652/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedTherapist effects and the impacts of therapy nonattendanceby H Xiao · 2017 · Cited by 56 — The present study examined impacts of no...</span></span></span>
+Psychotherapy provides another useful illustration because attendance itself is often part of the treatment process. Research examining thousands of therapy clients found that missed sessions, particularly early in treatment, were associated with poorer outcomes and slower improvement. Regular attendance is not merely administrative; it affects whether the intervention can work as intended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28263652/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Therapist effects and the impacts of therapy nonattendanceby H Xiao · 2017 · Cited by 56 — The present study examined impacts of no...</span></span></span>
 
 For this reason, many therapists encourage standing weekly appointments. The recurring slot reduces scheduling uncertainty, preserves continuity and lowers the likelihood that each session must compete with whatever feels most urgent that week.
 
@@ -716,112 +716,112 @@ A reminder asks you to remember your intention. A recurring booking allows yeste
 
 1. <a id="endnote-1"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/14263529/Using_implementation_intentions_to_increase_attendance_for_cervical_cancer_screening](https://www.academia.edu/14263529/Using_implementation_intentions_to_increase_attendance_for_cervical_cancer_screening)  
+   Link: <a href="https://www.academia.edu/14263529/Using_implementation_intentions_to_increase_attendance_for_cervical_cancer_screening" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/14263529/Using_implementation_intentions_to_increase_attendance_for_cervical_cancer_screening</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>M. concept of implementation intentions. Women registered at a medical practice in rural England (N...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2214782918300022](https://www.sciencedirect.com/science/article/pii/S2214782918300022)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2214782918300022" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782918300022</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>•. SMS reminders helped increase appointment attendance and medication adherence. •.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/41762506_Can_the_effects_of_implementation_intentions_on_exercise_be_enhanced_using_text_messages](https://www.researchgate.net/publication/41762506_Can_the_effects_of_implementation_intentions_on_exercise_be_enhanced_using_text_messages)  
+   Link: <a href="https://www.researchgate.net/publication/41762506_Can_the_effects_of_implementation_intentions_on_exercise_be_enhanced_using_text_messages" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/41762506_Can_the_effects_of_implementation_intentions_on_exercise_be_enhanced_using_text_messages</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can the effects of implementation intentions on exercise be...PDF | Implementation intentions planning in advance the situation in which...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/343498810_Why_do_new_members_stop_attending_health_and_fitness_venues_The_importance_of_developing_frequent_and_stable_attendance_behaviour](https://www.researchgate.net/publication/343498810_Why_do_new_members_stop_attending_health_and_fitness_venues_The_importance_of_developing_frequent_and_stable_attendance_behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/343498810_Why_do_new_members_stop_attending_health_and_fitness_venues_The_importance_of_developing_frequent_and_stable_attendance_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343498810_Why_do_new_members_stop_attending_health_and_fitness_venues_The_importance_of_developing_frequent_and_stable_attendance_behaviour</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Why do new members stop attending health and...August 1, 2020 — The findings indicate that new members&#x27; early attendan...</p></details>
    Published: August 1, 2020  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/314271924_Therapist_effects_and_the_impacts_of_therapy_nonattendance](https://www.researchgate.net/publication/314271924_Therapist_effects_and_the_impacts_of_therapy_nonattendance)  
+   Link: <a href="https://www.researchgate.net/publication/314271924_Therapist_effects_and_the_impacts_of_therapy_nonattendance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314271924_Therapist_effects_and_the_impacts_of_therapy_nonattendance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Therapist Effects and the Impacts of Therapy NonattendanceThe present study examined impacts of nonattendance, particularly early in a co...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journalslibrary.nihr.ac.uk  
-   Link: [https://www.journalslibrary.nihr.ac.uk/hsdr/HSDR02340](https://www.journalslibrary.nihr.ac.uk/hsdr/HSDR02340)  
+   Link: <a href="https://www.journalslibrary.nihr.ac.uk/hsdr/HSDR02340" target="_blank" rel="noopener noreferrer nofollow">https://www.journalslibrary.nihr.ac.uk/hsdr/HSDR02340</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Targeting the Use of Reminders and Notifications for...by S McLean · 2014 · Cited by 95 — This project explores the differential effect...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: jhmhp.amegroups.org  
-   Link: [https://jhmhp.amegroups.org/article/view/10215/html](https://jhmhp.amegroups.org/article/view/10215/html)  
+   Link: <a href="https://jhmhp.amegroups.org/article/view/10215/html" target="_blank" rel="noopener noreferrer nofollow">https://jhmhp.amegroups.org/article/view/10215/html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hospital Management JournalA systematic review and meta-analysis of appointment...by M Al-Turbag · 2026 — Conclusions: This review demon...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Health-Club-Attendance%2C-Expectations-and-Garon-Masse/a19d146b1f3ac7a45c68add02fc25ec39a93c236](https://www.semanticscholar.org/paper/Health-Club-Attendance%2C-Expectations-and-Garon-Masse/a19d146b1f3ac7a45c68add02fc25ec39a93c236)  
+   Link: <a href="https://www.semanticscholar.org/paper/Health-Club-Attendance%2C-Expectations-and-Garon-Masse/a19d146b1f3ac7a45c68add02fc25ec39a93c236" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Health-Club-Attendance%2C-Expectations-and-Garon-Masse/a19d146b1f3ac7a45c68add02fc25ec39a93c236</a>  
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28263652/](https://pubmed.ncbi.nlm.nih.gov/28263652/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedTherapist effects and the impacts of therapy nonattendanceby H Xiao · 2017 · Cited by 56 — The present study examined impacts of no...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28263652/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28263652/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Therapist effects and the impacts of therapy nonattendanceby H Xiao · 2017 · Cited by 56 — The present study examined impacts of no...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10594857/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10594857/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10594857/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10594857/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralBehavioural economic interventions to reduce health care...by K Werner · 2023 · Cited by 51 — One study found that telepho...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lunacal.ai  
-   Link: [https://lunacal.ai/fitness-class-booking-scheduling-software/best](https://lunacal.ai/fitness-class-booking-scheduling-software/best)  
+   Link: <a href="https://lunacal.ai/fitness-class-booking-scheduling-software/best" target="_blank" rel="noopener noreferrer nofollow">https://lunacal.ai/fitness-class-booking-scheduling-software/best</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Best Fitness Class Booking System in 2026 (Tested)14 Jan 2026 — Lunacal is fitness class scheduling software that helps studios increas...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2501.01779v2](https://arxiv.org/html/2501.01779v2)  
+   Link: <a href="https://arxiv.org/html/2501.01779v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.01779v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By developing a survival metric based on gym attendance patterns, we pinpoint...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: eprints.whiterose.ac.uk  
    Title: PPA 93046 appointment reminder systems are effective but not optimal 040416  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/97812/1/PPA-93046-appointment-reminder-systems-are-effective-but-not-optimal--_040416.pdf](https://eprints.whiterose.ac.uk/id/eprint/97812/1/PPA-93046-appointment-reminder-systems-are-effective-but-not-optimal--_040416.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/97812/1/PPA-93046-appointment-reminder-systems-are-effective-but-not-optimal--_040416.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/97812/1/PPA-93046-appointment-reminder-systems-are-effective-but-not-optimal--_040416.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineAppointment reminder systems are effective but not optimalby A Booth · 2016 · Cited by 203 — To compare telepho...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: news.simplybook.me  
-   Link: [https://news.simplybook.me/boost-gym-membership-retention-and-attendance-rates-with-smart-fitness-scheduling-solutions/](https://news.simplybook.me/boost-gym-membership-retention-and-attendance-rates-with-smart-fitness-scheduling-solutions/)  
+   Link: <a href="https://news.simplybook.me/boost-gym-membership-retention-and-attendance-rates-with-smart-fitness-scheduling-solutions/" target="_blank" rel="noopener noreferrer nofollow">https://news.simplybook.me/boost-gym-membership-retention-and-attendance-rates-with-smart-fitness-scheduling-solutions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover top gym class scheduling software &amp; smart fitness scheduling tools...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: gymanage.com  
-   Link: [https://www.gymanage.com/blog/best-gym-attendance-tracking-software-with-class-scheduling-and-booking-6/](https://www.gymanage.com/blog/best-gym-attendance-tracking-software-with-class-scheduling-and-booking-6/)  
+   Link: <a href="https://www.gymanage.com/blog/best-gym-attendance-tracking-software-with-class-scheduling-and-booking-6/" target="_blank" rel="noopener noreferrer nofollow">https://www.gymanage.com/blog/best-gym-attendance-tracking-software-with-class-scheduling-and-booking-6/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>icing, demos, and buyer comparisons for growing fitness clubs...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: rhinofit.ca  
    Title: how gym attendance tracking can help your facility grow  
-   Link: [https://rhinofit.ca/how-gym-attendance-tracking-can-help-your-facility-grow/](https://rhinofit.ca/how-gym-attendance-tracking-can-help-your-facility-grow/)  
+   Link: <a href="https://rhinofit.ca/how-gym-attendance-tracking-can-help-your-facility-grow/" target="_blank" rel="noopener noreferrer nofollow">https://rhinofit.ca/how-gym-attendance-tracking-can-help-your-facility-grow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automated billing to ensure consistent revenue. 24/7 door access control to help track attendance...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/00050067.2024.2415066](https://www.tandfonline.com/doi/full/10.1080/00050067.2024.2415066)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00050067.2024.2415066" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00050067.2024.2415066</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Session frequency in routine psychology practice and...by I Keane · 2025 · Cited by 1 — The present study investigated psychologists&#x27; se...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: standrewscounsellingandpsychotherapy.co.uk  
    Title: the importance of cancellation policies in therapy  
-   Link: [https://www.standrewscounsellingandpsychotherapy.co.uk/post/the-importance-of-cancellation-policies-in-therapy](https://www.standrewscounsellingandpsychotherapy.co.uk/post/the-importance-of-cancellation-policies-in-therapy)  
+   Link: <a href="https://www.standrewscounsellingandpsychotherapy.co.uk/post/the-importance-of-cancellation-policies-in-therapy" target="_blank" rel="noopener noreferrer nofollow">https://www.standrewscounsellingandpsychotherapy.co.uk/post/the-importance-of-cancellation-policies-in-therapy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancellation policies encourage clients to treat appointments seriously. Knowing...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ink.library.smu.edu.sg  
    Title: As shown in Figure.Read more  
-   Link: [https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7226&context=lkcsb_research](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7226&context=lkcsb_research)  
+   Link: <a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7226&amp;context=lkcsb_research" target="_blank" rel="noopener noreferrer nofollow">https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7226&amp;context=lkcsb_research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of rescheduling on patient no-show behavior in...by J LIU · 2019 · Cited by 52 — As a result, a patient&#x27;s ultimate attendance ma...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7720513/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7720513/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7720513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7720513/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>systematic review of interventions to increase attendance at...by M Rand · 2020 · Cited by 9 — This systematic review sought to examine...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Science of Why You Keep Failing Your Goals (And How to Fix It)  
-   Link: [https://www.youtube.com/watch?v=kMj6mvOm_wU](https://www.youtube.com/watch?v=kMj6mvOm_wU)  
+   Link: <a href="https://www.youtube.com/watch?v=kMj6mvOm_wU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kMj6mvOm_wU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Change Your Habits | Katy Milkman | Podcast Episode 345...</p></details>

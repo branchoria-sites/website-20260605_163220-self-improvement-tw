@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_de
 
 ## Introduction
 
-Should a self-improvement plan trust [willpower]({{ 'willpower/' | relative_url }})? The safest answer is no—not because willpower is useless, but because the science behind one of its most influential explanations remains contested. For years, the theory of [ego depletion]({{ 'ego-depletion/' | relative_url }}) suggested that self-control draws from a limited resource that becomes exhausted with use. If true, this would mean that every act of restraint leaves less available for the next challenge. Subsequent replication failures, methodological disputes and theoretical revisions have made that simple story much less certain. Yet the practical lesson for behaviour change has barely changed: plans work better when they reduce reliance on moment-by-moment restraint. Whether willpower is literally depleted, temporarily redirected, or simply less reliable under strain, building a system that assumes endless self-control remains a risky design choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
+Should a self-improvement plan trust willpower? The safest answer is no—not because willpower is useless, but because the science behind one of its most influential explanations remains contested. For years, the theory of [ego depletion]({{ 'ego-depletion/' | relative_url }}) suggested that self-control draws from a limited resource that becomes exhausted with use. If true, this would mean that every act of restraint leaves less available for the next challenge. Subsequent replication failures, methodological disputes and theoretical revisions have made that simple story much less certain. Yet the practical lesson for [behaviour change]({{ 'behaviour-change/' | relative_url }}) has barely changed: plans work better when they reduce reliance on moment-by-moment restraint. Whether willpower is literally depleted, temporarily redirected, or simply less reliable under strain, building a system that assumes endless self-control remains a risky design choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-1-dark.svg" | relative_url }}" alt="Depletion Debate illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,14 +282,14 @@ Should a self-improvement plan trust [willpower]({{ 'willpower/' | relative_url 
 
 The question matters because many self-improvement programmes quietly assume that future [motivation]({{ 'motivation/' | relative_url }}) and self-control will appear exactly when needed. Diets depend on resisting snacks at night. Study plans depend on forcing concentration after a tiring day. Budgeting systems depend on repeated spending restraint. The success of the plan is therefore tied to a psychological capacity that may fluctuate.
 
-The [ego depletion debate]({{ 'ego-depletion/' | relative_url }}) is important not because it settles every question about willpower, but because it highlights a broader planning risk: when success depends on repeatedly winning difficult internal battles, small failures can accumulate into large deviations from the intended path. Even if the strongest version of ego depletion is wrong, a plan that repeatedly demands heroic self-control remains vulnerable to fatigue, stress, distraction, competing goals and changing motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSelf-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
+The ego depletion debate is important not because it settles every question about [willpower]({{ 'willpower/' | relative_url }}), but because it highlights a broader planning risk: when success depends on repeatedly winning difficult internal battles, small failures can accumulate into large deviations from the intended path. Even if the strongest version of ego depletion is wrong, a plan that repeatedly demands heroic self-control remains vulnerable to fatigue, stress, distraction, competing goals and changing motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mUNh-YEFGcY" title="What&#x27;s the difference between willpower and habits | Ask the Expert: Mindset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mUNh-YEFGcY" target="_blank" rel="noopener noreferrer">What&#x27;s the difference between willpower and habits | Ask the Expert: Mindset</a></p><p class="youtube-embed-meta">Channel: Simple Online Pharmacy &middot; Views: 25 &middot; Uploaded: April 2026 &middot; Length: 1 minute 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mUNh-YEFGcY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mUNh-YEFGcY">Open on YouTube</a></p></div></div></div>
 
 ## What the Original Theory Claimed
 
-The original strength model of self-control, associated with Roy Baumeister and colleagues, proposed that acts of self-control draw upon a limited psychological resource. According to this model, resisting temptation, regulating emotions, suppressing impulses or forcing attention onto difficult tasks all consumed part of that resource. After enough expenditure, subsequent self-control would become less effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSelf-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span>
+The original strength model of self-control, associated with Roy Baumeister and colleagues, proposed that acts of self-control draw upon a limited psychological resource. According to this model, resisting temptation, regulating emotions, suppressing impulses or forcing attention onto difficult tasks all consumed part of that resource. After enough expenditure, subsequent self-control would become less effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span>
 
 The appeal of the theory was obvious. It explained familiar experiences: the person who overeats after a stressful day, abandons a study session after hours of concentration, or makes impulsive decisions late in the evening. It also generated a large body of experimental research apparently showing that an initial self-control task could impair performance on a later one. Early reviews and meta-analyses suggested a substantial effect, helping ego depletion become one of the most influential ideas in self-control research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speakandregret.michaelinzlicht.com">[Speak and Regret]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speakandregret.michaelinzlicht.com</span><span class="citation-popover-title">Speak and Regret The Collapse of Ego Depletion</span><span class="citation-popover-snippet">Speak and RegretThe Collapse of Ego Depletion - by Michael InzlichtJan 29, 2025 — While an early meta-analysis published in 2010 seemed t...</span></span></span>
 
@@ -304,9 +304,9 @@ The confidence surrounding ego depletion weakened when psychology entered a broa
 
 Researchers then disagreed about what these findings meant. Critics argued that publication bias, selective reporting and methodological weaknesses may have inflated earlier estimates of ego depletion. Michael Inzlicht and other researchers increasingly questioned whether a limited-resource account adequately explained the evidence. Alternative explanations focused on shifts in motivation, attention, effort allocation or task engagement rather than depletion of a mental fuel. Michael Inzlicht <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michael-inzlicht.squarespace.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michael-inzlicht.squarespace.com</span><span class="citation-popover-title">Michael Inzlicht Is Ego Depletion Real?</span><span class="citation-popover-snippet">An Analysis of ArgumentsEgo depletion originally came out of social psychology, but was quickly applied to and investigated in various fi...</span></span></span>
 
-Supporters of the theory did not concede complete defeat. Later work argued that some replication attempts may have used weak procedures and that small depletion effects still appear under certain conditions. A 12-lab replication published after the earlier failures reported a statistically significant effect, but the effect size was very small—far smaller than the original literature had suggested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSix Questions for the Resource Model of Control (and Some...by M Inzlicht · 2015 · Cited by 232 — If it turns out that ego depletion...</span></span></span>
+Supporters of the theory did not concede complete defeat. Later work argued that some replication attempts may have used weak procedures and that small depletion effects still appear under certain conditions. A 12-lab replication published after the earlier failures reported a statistically significant effect, but the effect size was very small—far smaller than the original literature had suggested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Six Questions for the Resource Model of Control (and Some...by M Inzlicht · 2015 · Cited by 232 — If it turns out that ego depletion...</span></span></span>
 
-As a result, the field moved away from simple certainty. The debate today is less about whether self-control ever becomes harder and more about why, when and by how much. The original image of a single depleting resource has become much harder to defend as a complete explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSelf-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
+As a result, the field moved away from simple certainty. The debate today is less about whether self-control ever becomes harder and more about why, when and by how much. The original image of a single depleting resource has become much harder to defend as a complete explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-2-dark.svg" | relative_url }}" alt="Depletion Debate illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -770,110 +770,110 @@ The debate over ego depletion may continue, but the planning lesson is already c
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X24000952](https://www.sciencedirect.com/science/article/pii/S2352250X24000952)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSelf-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X24000952</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Ego Depletion  
-   Link: [https://www.sciencedirect.com/topics/psychology/ego-depletion](https://www.sciencedirect.com/topics/psychology/ego-depletion)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEgo Depletion - an overviewEgo depletion is often described as a state of diminished “strength” or reduced resources that re...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/ego-depletion" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/ego-depletion</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ego Depletion - an overviewEgo depletion is often described as a state of diminished “strength” or reduced resources that re...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSix Questions for the Resource Model of Control (and Some...by M Inzlicht · 2015 · Cited by 232 — If it turns out that ego depletion...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Six Questions for the Resource Model of Control (and Some...by M Inzlicht · 2015 · Cited by 232 — If it turns out that ego depletion...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X2400071X](https://www.sciencedirect.com/science/article/pii/S2352250X2400071X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X2400071X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2400071X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Gross: Writing – review &amp; editing. Declaration of competing interest. The authors declare that they have no...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27474142/](https://pubmed.ncbi.nlm.nih.gov/27474142/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27474142/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: energy model; meta-analysis;...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med What Is Ego Depletion?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26168503/](https://pubmed.ncbi.nlm.nih.gov/26168503/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168503/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1556 — The article highlights evidence in support of this model but a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: speakandregret.michaelinzlicht.com  
    Title: Speak and Regret The Collapse of Ego Depletion  
-   Link: [https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion](https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion)  
+   Link: <a href="https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion" target="_blank" rel="noopener noreferrer nofollow">https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speak and RegretThe Collapse of Ego Depletion - by Michael InzlichtJan 29, 2025 — While an early meta-analysis published in 2010 seemed t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1745691616652873](https://journals.sagepub.com/doi/10.1177/1745691616652873)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1745691616652873</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: michael-inzlicht.squarespace.com  
    Title: Michael Inzlicht Is Ego Depletion Real?  
-   Link: [https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf](https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf)  
+   Link: <a href="https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Analysis of ArgumentsEgo depletion originally came out of social psychology, but was quickly applied to and investigated in various fi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: michaelinzlicht.com  
    Title: the replication crisis is not over  
-   Link: [https://michaelinzlicht.com/getting-better/2020/6/26/the-replication-crisis-is-not-over](https://michaelinzlicht.com/getting-better/2020/6/26/the-replication-crisis-is-not-over)  
+   Link: <a href="https://michaelinzlicht.com/getting-better/2020/6/26/the-replication-crisis-is-not-over" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/getting-better/2020/6/26/the-replication-crisis-is-not-over</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jun 2020 — Ego depletion refers to the idea that self-control relies on a limited store of resources that gets depleted with use, sort...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1948550619887702](https://journals.sagepub.com/doi/10.1177/1948550619887702)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1948550619887702" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1948550619887702</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Multilab Replication of the Ego Depletion Effectby J Dang · 2021 · Cited by 205 — Data from 12 labs across the globe (N =...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med A Multilab Replication of the Ego Depletion Effect  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/34113424/](https://pubmed.ncbi.nlm.nih.gov/34113424/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34113424/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34113424/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multilab Replication of the Ego Depletion Effect - PubMedby J Dang · 2021 · Cited by 200 — A recent preregistered experiment with the Str...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Situational Strategies for Self-Control  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26817725/](https://pubmed.ncbi.nlm.nih.gov/26817725/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26817725/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26817725/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliations. 1 Department of Psychology, University of Pennsylvania duckwort@psych.upenn.edu...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multilab Preregistered Replication of the Ego-Depletion Effect. by Hagger, M. S., and Chatzisarantis, N. L. D. Perspect. Psychol. Sci...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00197/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00197/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00197/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00197/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debate on the Ego-Depletion Effect: Evidence from...by D Blázquez · 2017 · Cited by 66 — We will show that in the ego-depletion case...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00706/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00706/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00706/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00706/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DuckworthA. L.GendlerT. S.GrossJ. J. (2016). Situational strategies...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Again, No Evidence for or Against the Existence of Ego...by C Englert · 2021 · Cited by 39 — In a recent meta-analysis, Dang (2018) repo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: michaelinzlicht.com  
-   Link: [https://michaelinzlicht.com/publications/articles-chapters/tag/ego%2Bdepletion](https://michaelinzlicht.com/publications/articles-chapters/tag/ego%2Bdepletion)  
+   Link: <a href="https://michaelinzlicht.com/publications/articles-chapters/tag/ego%2Bdepletion" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/publications/articles-chapters/tag/ego%2Bdepletion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ego depletion — Articles and Chapters(2019). Personality and Social Psychology Review, 23, 107-131. Tags: ego depletion, self-control, re...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: michael-inzlicht.squarespace.com  
    Title: Integrating models of self regulation  
-   Link: [https://michael-inzlicht.squarespace.com/s/Integrating-models-of-self-regulation.pdf](https://michael-inzlicht.squarespace.com/s/Integrating-models-of-self-regulation.pdf)  
+   Link: <a href="https://michael-inzlicht.squarespace.com/s/Integrating-models-of-self-regulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/Integrating-models-of-self-regulation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2016a. Situational strategies for self-control. Perspect. Psychol. Sci. 11(1):35–55. Duckworth AL, Grant...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: angeladuckworth.com  
-   Link: [https://angeladuckworth.com/tag/self-control/](https://angeladuckworth.com/tag/self-control/)  
+   Link: <a href="https://angeladuckworth.com/tag/self-control/" target="_blank" rel="noopener noreferrer nofollow">https://angeladuckworth.com/tag/self-control/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Angela Duckworth[https://doi.org/10.1177/1745691617690...&quot;](https://doi.org/10.1177/1745691617690...&quot;)...</p></details>
 
 8
@@ -888,50 +888,50 @@ The debate over ego depletion may continue, but the planning lesson is already c
 21. <a id="endnote-21"></a>
    Source: psychologicalscience.org  
    Title: replication project investigates self control as limited resource 2  
-   Link: [https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2](https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2)  
+   Link: <a href="https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Replication Project Investigates Self-Control as Limited...Aug 31, 2016 — The findings are published as part of a Registered Replication...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon](https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon)  
+   Link: <a href="https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ego depletion: A review of criticisms along with new...19 Nov 2025 — The replication crisis in psychology has led to question popu...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: egoprofesional.com.ar  
-   Link: [https://egoprofesional.com.ar/](https://egoprofesional.com.ar/)  
+   Link: <a href="https://egoprofesional.com.ar/" target="_blank" rel="noopener noreferrer nofollow">https://egoprofesional.com.ar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EGO PROFESIONALNUESTROS PRODUCTOS · ACCESORIOS · COSMETOLOGIA · ESPEJOS · MANICURA · MAQUILLAJE · PELUQUERIA · BARBERÍA · TIJERAS · COSME...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sanlab.uoregon.edu  
-   Link: [https://sanlab.uoregon.edu/files/2014/07/Inzlicht-2014-The-neuroscience-of-%E2%80%9Cego-depletion%E2%80%9D-or-How-the-brain-can-help-us-understand-why-self-control-seems-limited-139lek1.pdf](https://sanlab.uoregon.edu/files/2014/07/Inzlicht-2014-The-neuroscience-of-%E2%80%9Cego-depletion%E2%80%9D-or-How-the-brain-can-help-us-understand-why-self-control-seems-limited-139lek1.pdf)  
+   Link: <a href="https://sanlab.uoregon.edu/files/2014/07/Inzlicht-2014-The-neuroscience-of-%E2%80%9Cego-depletion%E2%80%9D-or-How-the-brain-can-help-us-understand-why-self-control-seems-limited-139lek1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sanlab.uoregon.edu/files/2014/07/Inzlicht-2014-The-neuroscience-of-%E2%80%9Cego-depletion%E2%80%9D-or-How-the-brain-can-help-us-understand-why-self-control-seems-limited-139lek1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the brain can help us understand why self- control seems...by M Inzlicht · Cited by 55 — Despite this, this ego depletion effect is real...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cipp.ug.edu.pl  
-   Link: [https://cipp.ug.edu.pl/Regulation-strategies-and-their-impact-on-subsequent-response-inhibition-the-moderating%2C108524%2C0%2C2.html](https://cipp.ug.edu.pl/Regulation-strategies-and-their-impact-on-subsequent-response-inhibition-the-moderating%2C108524%2C0%2C2.html)  
+   Link: <a href="https://cipp.ug.edu.pl/Regulation-strategies-and-their-impact-on-subsequent-response-inhibition-the-moderating%2C108524%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://cipp.ug.edu.pl/Regulation-strategies-and-their-impact-on-subsequent-response-inhibition-the-moderating%2C108524%2C0%2C2.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L., &amp; Gross J. J. (2014). Self-control and grit: Related but separable determinants of success. Current Directions in Psychological Scien...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/replication-crisis](https://thedecisionlab.com/reference-guide/psychology/replication-crisis)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/replication-crisis" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/replication-crisis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Replication CrisisThe replication crisis highlights how psychology studies failing to reproduce have caused doubts in science and prompte...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/situational-strategies-for-self-control-3z3132dks8.pdf](https://scispace.com/pdf/situational-strategies-for-self-control-3z3132dks8.pdf)  
+   Link: <a href="https://scispace.com/pdf/situational-strategies-for-self-control-3z3132dks8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/situational-strategies-for-self-control-3z3132dks8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Situational Strategies for Self-Control.control conflicts, and the full range of self-control strategies can be organized using the proce...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: chadd.org  
-   Link: [https://chadd.org/wp-content/uploads/2016/12/ATTN_12_16_ManagingEmotions.pdf](https://chadd.org/wp-content/uploads/2016/12/ATTN_12_16_ManagingEmotions.pdf)  
+   Link: <a href="https://chadd.org/wp-content/uploads/2016/12/ATTN_12_16_ManagingEmotions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://chadd.org/wp-content/uploads/2016/12/ATTN_12_16_ManagingEmotions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Managing EmotionsA pioneer in the field, Gross views his model as a framework that can be used to think about how emotions...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: lunduniversity.lu.se  
-   Link: [https://www.lunduniversity.lu.se/lup/publication/ad4ce668-51bf-432f-90c4-e3ce03031267](https://www.lunduniversity.lu.se/lup/publication/ad4ce668-51bf-432f-90c4-e3ce03031267)  
+   Link: <a href="https://www.lunduniversity.lu.se/lup/publication/ad4ce668-51bf-432f-90c4-e3ce03031267" target="_blank" rel="noopener noreferrer nofollow">https://www.lunduniversity.lu.se/lup/publication/ad4ce668-51bf-432f-90c4-e3ce03031267</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>multilab preregistered replication of the ego-depletion...Commentary: A multilab preregistered replication of the ego-depletion effect...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: curee.co.uk  
-   Link: [https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf](https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf)  
+   Link: <a href="https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Self-Control in School-Age Children&#x27;. Education Psychologist. 49:3, 2014. pp 199-217. Other reports mentioned...Read more...</p></details>

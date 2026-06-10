@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:36:38'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /coffee-cue/
   short_title: Coffee Cue
   heading_title: How Coffee Can Trigger the First Work Task
-date: '2026-06-05 14:36:38 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b-overview.webp
@@ -506,7 +506,7 @@ Putting the phone outside the bedroom is one of the cleaner examples of [self im
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b-overview.webp" | relative_url }}" alt="Overview image for Bedroom Phone" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is not that every person must ban every device from every bedroom. It is that bedtime phone use is consistently linked with poorer sleep, and experimental restriction studies suggest that cutting phone use near sleep can improve sleep quality, sleep duration and pre-sleep arousal. A phone-free bedroom turns that evidence into a concrete design choice: make sleep the default, not the thing you try to negotiate after one more swipe. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSEffect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 152 — Restricting mobile phone use before bedtim...</span></span></span>
+The evidence is not that every person must ban every device from every bedroom. It is that bedtime phone use is consistently linked with poorer sleep, and experimental restriction studies suggest that cutting phone use near sleep can improve sleep quality, sleep duration and pre-sleep arousal. A phone-free bedroom turns that evidence into a concrete design choice: make sleep the default, not the thing you try to negotiate after one more swipe. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 152 — Restricting mobile phone use before bedtim...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qR9FCkUMBJw" title="Are Electronic Devices Are Ruining Our Sleep? | NBC Nightly News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qR9FCkUMBJw" target="_blank" rel="noopener noreferrer">Are Electronic Devices Are Ruining Our Sleep? | NBC Nightly News</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 25.2K &middot; Uploaded: June 2015 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qR9FCkUMBJw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qR9FCkUMBJw">Open on YouTube</a></p></div></div></div>
@@ -515,7 +515,7 @@ The evidence is not that every person must ban every device from every bedroom. 
 
 The most important feature of the phone is not the screen. It is proximity. A phone on the bedside table turns every weak moment into a fresh decision: check the time, check the message, check the news, check whether the alarm is set, check one short video, check why sleep is not happening yet. Good sleep advice often says to “avoid screens before bed”, but that instruction still leaves the hardest part to the most tired version of the person.
 
-This is why the charging-location rule is stronger than a vague screen-time promise. “Do not use your phone in bed” requires repeated inhibition. “The phone charges in the kitchen” changes the [choice architecture]({{ 'defaults/' | relative_url }}). Behaviour-change research on implementation intentions supports this kind of move: if-then plans work best when they connect a specific situation to a specific response, such as “if I brush my teeth, then I plug the phone in outside the bedroom”. They help bridge the familiar gap between intending to behave well and actually doing it when tired or distracted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why the charging-location rule is stronger than a vague screen-time promise. “Do not use your phone in bed” requires repeated inhibition. “The phone charges in the kitchen” changes the choice architecture. Behaviour-change research on implementation intentions supports this kind of move: if-then plans work best when they connect a specific situation to a specific response, such as “if I brush my teeth, then I plug the phone in outside the bedroom”. They help bridge the familiar gap between intending to behave well and actually doing it when tired or distracted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The bedroom rule also fits the sleep principle known as stimulus control. NHS sleep guidance from Imperial College Healthcare advises avoiding electronic devices such as tablets or phones within an hour of bedtime, turning off electronic devices, and keeping timepieces out of sight at night. It also recommends using the bed or bedroom only for sleep and related activities, because the brain learns associations from repeated context. A bed repeatedly paired with scrolling, arguing online, working, checking messages and watching the time becomes less cleanly associated with sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/respiratory-medicine/sleep-services/a-timetable-for-a-better-nights-sleep.pdf?rev=19327ecef29a4781bd3257883b06383c&amp;sc_lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imperial.nhs.uk">[imperial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imperial.nhs.uk</span><span class="citation-popover-title">Imperial College Healthcare Sleep hygiene patient information leaflet</span><span class="citation-popover-snippet">Imperial College Healthcare Sleep hygiene patient information leaflet</span></span></span> College Healthcare <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/respiratory-medicine/sleep-services/a-timetable-for-a-better-nights-sleep.pdf?rev=19327ecef29a4781bd3257883b06383c&amp;sc_lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imperial.nhs.uk">[Imperial College Healthcare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imperial.nhs.uk</span><span class="citation-popover-title">Imperial College Healthcare Sleep hygiene patient information leaflet</span><span class="citation-popover-snippet">Imperial College Healthcare Sleep hygiene patient information leaflet</span></span></span>
 
@@ -525,9 +525,9 @@ The risk is not only blue light, although light can matter. The phone brings con
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b-Illustration-1-dark.svg" | relative_url }}" alt="Bedroom Phone illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the sleep evidence really supports
 
-The strongest practical claim is modest but useful: bedtime phone restriction is likely to help many people sleep better, especially those who already lose time to scrolling, messages or anxious checking. A 2024 systematic review and meta-analysis covering 55 papers and more than 41,000 participants found electronic media use was significantly associated with poorer sleep quality and more sleep problems, though effects varied across subgroups and cultures. This does not prove that every individual’s phone causes every sleep problem, but it supports treating bedtime media as a credible sleep risk rather than a harmless habit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e48356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRElectronic Media Use and Sleep Qualityby X Han · 2024 · Cited by 92 — The meta-analysis revealed that electronic media use was signif...</span></span></span>
+The strongest practical claim is modest but useful: bedtime phone restriction is likely to help many people sleep better, especially those who already lose time to scrolling, messages or anxious checking. A 2024 systematic review and meta-analysis covering 55 papers and more than 41,000 participants found electronic media use was significantly associated with poorer sleep quality and more sleep problems, though effects varied across subgroups and cultures. This does not prove that every individual’s phone causes every sleep problem, but it supports treating bedtime media as a credible sleep risk rather than a harmless habit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e48356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Electronic Media Use and Sleep Qualityby X Han · 2024 · Cited by 92 — The meta-analysis revealed that electronic media use was signif...</span></span></span>
 
-Intervention evidence is especially relevant for this page because “[phone out of]({{ 'phone-distance/' | relative_url }}) the bedroom” is an intervention, not just a diagnosis. In a randomised pilot trial, restricting mobile phone use before bedtime for four weeks reduced sleep latency and pre-sleep arousal, increased sleep duration, improved sleep quality, and was associated with better positive affect and working memory. A later trial focused on restricting while-in-bed smartphone use among undergraduates with problematic smartphone use also reported improved sleep quality and reduced pre-sleep cognitive arousal, with effects appearing within the intervention period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSEffect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 152 — Restricting mobile phone use before bedtim...</span></span></span>
+Intervention evidence is especially relevant for this page because “phone out of the bedroom” is an intervention, not just a diagnosis. In a randomised pilot trial, restricting mobile phone use before bedtime for four weeks reduced sleep latency and pre-sleep arousal, increased sleep duration, improved sleep quality, and was associated with better positive affect and working memory. A later trial focused on restricting while-in-bed smartphone use among undergraduates with problematic smartphone use also reported improved sleep quality and reduced pre-sleep cognitive arousal, with effects appearing within the intervention period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 152 — Restricting mobile phone use before bedtim...</span></span></span>
 
 The evidence is still uneven. Some studies rely on self-report; many focus on students or younger adults; and “screen use” can mean anything from a quiet audiobook to an emotionally charged argument, a work emergency or an endless video feed. There are also credible cautions against blaming blue light alone. Reporting on the research debate has noted that interaction, alerting content and anxiety may explain a great deal of the sleep disruption sometimes attributed solely to screen colour. That critique strengthens, rather than weakens, the case for moving the phone away: distance reduces content exposure, notification temptation, clock-checking and light all at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/blue-light-smartphone-screen-sleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Smartphones May Affect Sleep-but Not Because of Blue Light</span><span class="citation-popover-snippet">Smartphones May Affect Sleep-but Not Because of Blue Light</span></span></span>
 
@@ -573,7 +573,7 @@ A useful emergency test is this: if the reason for keeping the phone nearby is r
 
 ## Why this small rule often works better than a big promise
 
-“Phone out of the bedroom” works because it is specific, physical and repeatable. It does not ask for a new identity. It asks for a new charging location. That is why it belongs in the practical wing of self improvement: the method changes the contest between tired willpower and optimised devices.
+“Phone out of the bedroom” works because it is specific, physical and repeatable. It does not ask for a new identity. It asks for a new charging location. That is why it belongs in the practical wing of [self improvement]({{ 'self-improvement-that-works/' | relative_url }}): the method changes the contest between tired [willpower]({{ 'willpower/' | relative_url }}) and optimised devices.
 
 It also produces two benefits that people often underestimate. First, it protects the last minutes of the day. Those minutes shape sleep timing, mental arousal and the emotional tone carried into bed. Second, it protects the first minutes of the morning. A phone beside the bed makes the day begin with other people’s demands, algorithmic novelty and unresolved messages. A phone outside the room creates a short buffer in which waking, washing, light, movement or breakfast can happen before the feed arrives.
 
@@ -670,7 +670,7 @@ The deeper lesson is portable. Good self improvement often looks like removing a
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -680,111 +680,36 @@ The deeper lesson is portable. Good self improvement often looks like removing a
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOIMISS Phone Locked Box Phone Safety Lock: Case Electronic Locker Lock Boxes"><img src="https://i.ebayimg.com/images/g/f34AAeSwAxtqEYVQ/s-l225.jpg" alt="Listing image for SOIMISS Phone Locked Box Phone Safety Lock: Case Electronic Locker Lock Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">SOIMISS Phone Locked Box Phone Safety Lock: Case Electronic Locker Lock Boxes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bedside Wall Shelf Wall Mount Floating Nightstand Double Layer Bedside Organizer"><img src="{{ '/assets/images/marketplace-covers/153a9c7d5467d105a2ef.jpg' | relative_url }}" alt="Listing image for Bedside Wall Shelf Wall Mount Floating Nightstand Double Layer Bedside Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bedside Wall Shelf Wall Mount Floating Nightstand Double Layer Bedside Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nightstand organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: nightstand organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -792,15 +717,15 @@ The deeper lesson is portable. Good self improvement often looks like removing a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Cat Glasses Holder – Desk &amp; Nightstand Organizer"><img src="{{ '/assets/images/marketplace-covers/3c1666e9aabea08cca74.jpg' | relative_url }}" alt="Listing image for Cute Cat Glasses Holder – Desk &amp; Nightstand Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android"><img src="https://i.ebayimg.com/images/g/q-wAAeSw0tFpnxCN/s-l225.jpg" alt="Listing image for Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cute Cat Glasses Holder – Desk &amp; Nightstand Organizer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nightstand organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: nightstand organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -808,15 +733,15 @@ The deeper lesson is portable. Good self improvement often looks like removing a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bedside Table Cabinet Side End Table Nightstand Storage Organizer Pair of 2"><img src="{{ '/assets/images/marketplace-covers/479e6a919f9450768a42.jpg' | relative_url }}" alt="Listing image for Bedside Table Cabinet Side End Table Nightstand Storage Organizer Pair of 2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer"><img src="https://i.ebayimg.com/images/g/3wIAAeSwrgZqGBeN/s-l225.jpg" alt="Listing image for Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bedside Table Cabinet Side End Table Nightstand Storage Organizer Pair of 2</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nightstand organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: nightstand organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -824,15 +749,15 @@ The deeper lesson is portable. Good self improvement often looks like removing a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Bedside Table Nightstand 1 Drawer 1 Door Storage Cupboard Bedroom Cabinet"><img src="{{ '/assets/images/marketplace-covers/2716a358355375c2fe4a.jpg' | relative_url }}" alt="Listing image for Wooden Bedside Table Nightstand 1 Drawer 1 Door Storage Cupboard Bedroom Cabinet" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phone Lock Box with Timer Phone Jail | Phone Jail | -Purpose Lock Box Kitchen St"><img src="https://i.ebayimg.com/images/g/wtwAAeSwNaJpZXDo/s-l225.jpg" alt="Listing image for Phone Lock Box with Timer Phone Jail | Phone Jail | -Purpose Lock Box Kitchen St" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wooden Bedside Table Nightstand 1 Drawer 1 Door Storage Cupboard Bedroom Cabinet</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Phone Lock Box with Timer Phone Jail | Phone Jail | -Purpose Lock Box Kitchen St</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nightstand organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: nightstand organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -840,7 +765,7 @@ The deeper lesson is portable. Good self improvement often looks like removing a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nightstand+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-phone-why-the-phone-belongs-outside-the-bedroom-self-improvement-that-works-nightstand-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -917,17 +842,31 @@ The deeper lesson is portable. Good self improvement often looks like removing a
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -940,42 +879,73 @@ The deeper lesson is portable. Good self improvement often looks like removing a
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -990,161 +960,165 @@ The deeper lesson is portable. Good self improvement often looks like removing a
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e48356/](https://www.jmir.org/2024/1/e48356/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRElectronic Media Use and Sleep Qualityby X Han · 2024 · Cited by 92 — The meta-analysis revealed that electronic media use was signif...</p></details>
+   Link: <a href="https://www.jmir.org/2024/1/e48356/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Qualityby X Han · 2024 · Cited by 92 — The meta-analysis revealed that electronic media use was signif...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSEffect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 152 — Restricting mobile phone use before bedtim...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 152 — Restricting mobile phone use before bedtim...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
 4. <a id="endnote-4"></a>
    Source: imperial.nhs.uk  
    Title: Imperial College Healthcare Sleep hygiene patient information leaflet  
-   Link: [https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/respiratory-medicine/sleep-services/a-timetable-for-a-better-nights-sleep.pdf?rev=19327ecef29a4781bd3257883b06383c&sc_lang=en](https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/respiratory-medicine/sleep-services/a-timetable-for-a-better-nights-sleep.pdf?rev=19327ecef29a4781bd3257883b06383c&sc_lang=en)  
+   Link: <a href="https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/respiratory-medicine/sleep-services/a-timetable-for-a-better-nights-sleep.pdf?rev=19327ecef29a4781bd3257883b06383c&amp;sc_lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.imperial.nhs.uk/-/media/website/patient-information-leaflets/respiratory-medicine/sleep-services/a-timetable-for-a-better-nights-sleep.pdf?rev=19327ecef29a4781bd3257883b06383c&amp;sc_lang=en</a>  
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
    Title: Smartphones May Affect Sleep-but Not Because of Blue Light  
-   Link: [https://www.wired.com/story/blue-light-smartphone-screen-sleep](https://www.wired.com/story/blue-light-smartphone-screen-sleep)  
+   Link: <a href="https://www.wired.com/story/blue-light-smartphone-screen-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/blue-light-smartphone-screen-sleep</a>  
 
 6. <a id="endnote-6"></a>
    Source: uhs.nhs.uk  
    Title: Sleep hygiene  
-   Link: [https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Other/Sleep-hygiene-3276-PIL.pdf](https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Other/Sleep-hygiene-3276-PIL.pdf)  
+   Link: <a href="https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Other/Sleep-hygiene-3276-PIL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Other/Sleep-hygiene-3276-PIL.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: nhs.uk  
    Title: www.nhs.uk Sleep problems  
-   Link: [https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/](https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/)  
+   Link: <a href="https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/</a>  
 
 8. <a id="endnote-8"></a>
    Source: oxfordhealth.nhs.uk  
-   Link: [https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/](https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/)  
+   Link: <a href="https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/" target="_blank" rel="noopener noreferrer nofollow">https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/</a>  
 
 9. <a id="endnote-9"></a>
    Source: mental.jmir.org  
-   Link: [https://mental.jmir.org/2025/1/e77796](https://mental.jmir.org/2025/1/e77796)  
+   Link: <a href="https://mental.jmir.org/2025/1/e77796" target="_blank" rel="noopener noreferrer nofollow">https://mental.jmir.org/2025/1/e77796</a>  
 
 10. <a id="endnote-10"></a>
    Source: whittington.nhs.uk  
-   Link: [https://www.whittington.nhs.uk/default.asp?c=46665](https://www.whittington.nhs.uk/default.asp?c=46665)  
+   Link: <a href="https://www.whittington.nhs.uk/default.asp?c=46665" target="_blank" rel="noopener noreferrer nofollow">https://www.whittington.nhs.uk/default.asp?c=46665</a>  
 
 11. <a id="endnote-11"></a>
    Source: rightdecisions.scot.nhs.uk  
-   Link: [https://www.rightdecisions.scot.nhs.uk/media/rnsat0su/sleep-hygiene-nhsggc.pdf](https://www.rightdecisions.scot.nhs.uk/media/rnsat0su/sleep-hygiene-nhsggc.pdf)  
+   Link: <a href="https://www.rightdecisions.scot.nhs.uk/media/rnsat0su/sleep-hygiene-nhsggc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rightdecisions.scot.nhs.uk/media/rnsat0su/sleep-hygiene-nhsggc.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: wwl.nhs.uk  
-   Link: [https://www.wwl.nhs.uk/media/.leaflets/604a0438bfc575.41668856.pdf](https://www.wwl.nhs.uk/media/.leaflets/604a0438bfc575.41668856.pdf)  
+   Link: <a href="https://www.wwl.nhs.uk/media/.leaflets/604a0438bfc575.41668856.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wwl.nhs.uk/media/.leaflets/604a0438bfc575.41668856.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
 
 14. <a id="endnote-14"></a>
    Source: sleepfoundation.org  
    Title: technology in the bedroom  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom](https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
 
 15. <a id="endnote-15"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/physical-activity-education/staying-healthy/sleep.html](https://www.cdc.gov/physical-activity-education/staying-healthy/sleep.html)  
+   Link: <a href="https://www.cdc.gov/physical-activity-education/staying-healthy/sleep.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity-education/staying-healthy/sleep.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: sleepfoundation.org  
    Title: blue light  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/blue-light](https://www.sleepfoundation.org/bedroom-environment/blue-light)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
 
 17. <a id="endnote-17"></a>
    Source: sleepfoundation.org  
    Title: how electronics affect sleep  
-   Link: [https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep](https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
 
 18. <a id="endnote-18"></a>
    Source: sleepfoundation.org  
    Title: how blue light affects kids sleep  
-   Link: [https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep](https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep</a>  
 
 19. <a id="endnote-19"></a>
    Source: kuscholarworks.ku.edu  
-   Link: [https://kuscholarworks.ku.edu/server/api/core/bitstreams/e65c3f01-dbfa-44a0-bc38-a1372264aae4/content](https://kuscholarworks.ku.edu/server/api/core/bitstreams/e65c3f01-dbfa-44a0-bc38-a1372264aae4/content)  
+   Link: <a href="https://kuscholarworks.ku.edu/server/api/core/bitstreams/e65c3f01-dbfa-44a0-bc38-a1372264aae4/content" target="_blank" rel="noopener noreferrer nofollow">https://kuscholarworks.ku.edu/server/api/core/bitstreams/e65c3f01-dbfa-44a0-bc38-a1372264aae4/content</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TaLFBTvB1iQ](https://www.youtube.com/watch?v=TaLFBTvB1iQ)  
+   Link: <a href="https://www.youtube.com/watch?v=TaLFBTvB1iQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TaLFBTvB1iQ</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=x54oLlLw9_s](https://www.youtube.com/watch?v=x54oLlLw9_s)  
+   Link: <a href="https://www.youtube.com/watch?v=x54oLlLw9_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x54oLlLw9_s</a>  
 
 22. <a id="endnote-22"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=iV9K54TE9qk](https://www.youtube.com/watch?v=iV9K54TE9qk)  
+   Link: <a href="https://www.youtube.com/watch?v=iV9K54TE9qk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iV9K54TE9qk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 The 6 things I do at night that lower my morning blood sugar...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Stop Waking Up Tired: 15-Minute Morning Routine for Busy Men  
-   Link: [https://www.youtube.com/watch?v=h_sXiLB8U4E](https://www.youtube.com/watch?v=h_sXiLB8U4E)  
+   Link: <a href="https://www.youtube.com/watch?v=h_sXiLB8U4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h_sXiLB8U4E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 A Magic Alarm Clock That Stops Your Bedroom Doom Scrolling? (He Invented That Product)...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The 6 things I do at night that lower my morning blood sugar  
-   Link: [https://www.youtube.com/watch?v=RAeS52NdkoU](https://www.youtube.com/watch?v=RAeS52NdkoU)  
+   Link: <a href="https://www.youtube.com/watch?v=RAeS52NdkoU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RAeS52NdkoU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Why What You Watch Before Bed Could Disrupt Your Sleep Cycle...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/niosh/work-hour-training-for-nurses/longhours/mod6/02.html](https://www.cdc.gov/niosh/work-hour-training-for-nurses/longhours/mod6/02.html)  
+   Link: <a href="https://www.cdc.gov/niosh/work-hour-training-for-nurses/longhours/mod6/02.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/work-hour-training-for-nurses/longhours/mod6/02.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/104354980/Bedtime_mobile_phone_use_and_sleep_in_adults](https://www.academia.edu/104354980/Bedtime_mobile_phone_use_and_sleep_in_adults)  
+   Link: <a href="https://www.academia.edu/104354980/Bedtime_mobile_phone_use_and_sleep_in_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104354980/Bedtime_mobile_phone_use_and_sleep_in_adults</a>  
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial](https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial)  
+   Link: <a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
 
 29. <a id="endnote-29"></a>
    Source: cureus.com  
-   Link: [https://www.cureus.com/articles/353972-mobile-phone-addiction-and-sleep-quality-among-children-and-adolescents-unraveling-the-health-consequences](https://www.cureus.com/articles/353972-mobile-phone-addiction-and-sleep-quality-among-children-and-adolescents-unraveling-the-health-consequences)  
+   Link: <a href="https://www.cureus.com/articles/353972-mobile-phone-addiction-and-sleep-quality-among-children-and-adolescents-unraveling-the-health-consequences" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/353972-mobile-phone-addiction-and-sleep-quality-among-children-and-adolescents-unraveling-the-health-consequences</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality](https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality)  
+   Link: <a href="https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/388197281_Screen_Time_And_Sleep_Quality_A_Narrative_Review_Of_Digital_Device_Usage_And_Its_Impact_On_Well-Being](https://www.researchgate.net/publication/388197281_Screen_Time_And_Sleep_Quality_A_Narrative_Review_Of_Digital_Device_Usage_And_Its_Impact_On_Well-Being)  
+   Link: <a href="https://www.researchgate.net/publication/388197281_Screen_Time_And_Sleep_Quality_A_Narrative_Review_Of_Digital_Device_Usage_And_Its_Impact_On_Well-Being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388197281_Screen_Time_And_Sleep_Quality_A_Narrative_Review_Of_Digital_Device_Usage_And_Its_Impact_On_Well-Being</a>  
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/4-life-changing-hacks-charging-my-phone-outside-bedroom-briggs-bqvrc](https://www.linkedin.com/pulse/4-life-changing-hacks-charging-my-phone-outside-bedroom-briggs-bqvrc)  
+   Link: <a href="https://www.linkedin.com/pulse/4-life-changing-hacks-charging-my-phone-outside-bedroom-briggs-bqvrc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/4-life-changing-hacks-charging-my-phone-outside-bedroom-briggs-bqvrc</a>  

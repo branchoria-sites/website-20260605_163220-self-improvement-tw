@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:07:26'
 parent_title: How to Apologise Before Resentment Grows | Better Change
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
@@ -265,7 +266,6 @@ next_link:
   permalink: /early-cues/
   short_title: Early Cues
   heading_title: How to Catch Hurt Before It Hardens
-date: '2026-06-05 16:07:26 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1.webp
@@ -278,7 +278,7 @@ An apology can stop resentment from hardening, but it does not by itself repair 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-dark.svg" | relative_url }}" alt="Behaviour Change illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is where many apologies succeed or fail. People often apologise for an outcome while leaving the underlying habit untouched. The result is a cycle of hurt, apology, temporary relief, and recurrence. Effective self-improvement requires breaking that cycle by linking accountability to observable behaviour change rather than treating the apology as the finish line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S014829632100179X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEmployee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</span></span></span>
+This is where many apologies succeed or fail. People often apologise for an outcome while leaving the underlying habit untouched. The result is a cycle of hurt, apology, temporary relief, and recurrence. Effective self-improvement requires breaking that cycle by linking accountability to observable behaviour change rather than treating the apology as the finish line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S014829632100179X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Employee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</span></span></span>
 
 ## Why Words Need a Practical Repair Step
 
@@ -286,7 +286,7 @@ A good apology acknowledges responsibility. A stronger apology also answers an u
 
 Research on apology effectiveness found that acknowledgement of responsibility is the most important element, with an offer of repair ranking immediately behind it. The reason is intuitive. Responsibility shows understanding of the problem; repair shows commitment to solving it. NCMR Larry Ferlazzo's Websites of the Day... <span class="citation-chip-wrap"><a class="citation-chip" href="https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larryferlazzo.edublogs.org">[larryferlazzo.edublogs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larryferlazzo.edublogs.org</span><span class="citation-popover-title">The second most important element was an offer</span><span class="citation-popover-snippet">Larry Ferlazzo&#x27;s Websites of the Day...New Study Highlights Six Components Of An Effective ApologyApr 15, 2016 — “Our findings showed tha...</span></span></span>
 
-Trust research points in the same direction. Apologies can improve perceptions of trustworthiness and encourage people to take another chance on a relationship. However, trust repair is not sustained by language alone. Reviews of trust-repair research distinguish between verbal responses such as apologies and substantive responses involving concrete actions. Action-based responses are especially important when confidence has been damaged by repeated behaviour rather than a one-off mistake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
+Trust research points in the same direction. Apologies can improve perceptions of trustworthiness and encourage people to take another chance on a relationship. However, trust repair is not sustained by language alone. Reviews of trust-repair research distinguish between verbal responses such as apologies and substantive responses involving concrete actions. Action-based responses are especially important when confidence has been damaged by repeated behaviour rather than a one-off mistake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
 
 Consider three common examples:
 
@@ -364,7 +364,7 @@ For example:
 
 Notice what is absent. There is no demand for immediate forgiveness, no lengthy defence, and no attempt to prove moral character. The focus stays on the behaviour that caused harm and the behaviour that will replace it.
 
-Research on restitution and repair suggests that actions intended to remedy harm can independently increase forgiveness, empathy, gratitude, and positive feelings while reducing lingering resentment. The practical lesson is that repair should not merely symbolise regret; it should actively improve the situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
+Research on restitution and repair suggests that actions intended to remedy harm can independently increase forgiveness, empathy, gratitude, and positive feelings while reducing lingering resentment. The practical lesson is that repair should not merely symbolise regret; it should actively improve the situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R7vP01U8qr4" title="The power of the apology | Robert M. Gordon | TEDxLehighRiver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R7vP01U8qr4" target="_blank" rel="noopener noreferrer">The power of the apology | Robert M. Gordon | TEDxLehighRiver</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 131.6K &middot; Uploaded: November 2014 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R7vP01U8qr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R7vP01U8qr4">Open on YouTube</a></p></div></div></div>
@@ -832,139 +832,139 @@ In the broader practice of self-improvement that works, this is the key transiti
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S014829632100179X](https://www.sciencedirect.com/science/article/pii/S014829632100179X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEmployee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S014829632100179X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S014829632100179X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Employee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncmr.lps.library.cmu.edu  
-   Link: [https://ncmr.lps.library.cmu.edu/article/id/264/](https://ncmr.lps.library.cmu.edu/article/id/264/)  
+   Link: <a href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow">https://ncmr.lps.library.cmu.edu/article/id/264/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Six components of an apology were defined from previous research and presented to...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rips-irsp.com  
-   Link: [https://rips-irsp.com/articles/10.5334/irsp.479](https://rips-irsp.com/articles/10.5334/irsp.479)  
+   Link: <a href="https://rips-irsp.com/articles/10.5334/irsp.479" target="_blank" rel="noopener noreferrer nofollow">https://rips-irsp.com/articles/10.5334/irsp.479</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IRSPRepairing Trust Between Individuals and Groupsby CPR Folmer · 2021 · Cited by 27 — We examined how apologies impacted the restoration...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ncmr.lps.library.cmu.edu  
-   Link: [https://ncmr.lps.library.cmu.edu/article/id/817/](https://ncmr.lps.library.cmu.edu/article/id/817/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCMRForced versus Voluntary Apologies: Trust Repair as a Matter...by LA Langlinais · 2025 — We found evidence that a voluntary apology r...</p></details>
+   Link: <a href="https://ncmr.lps.library.cmu.edu/article/id/817/" target="_blank" rel="noopener noreferrer nofollow">https://ncmr.lps.library.cmu.edu/article/id/817/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forced versus Voluntary Apologies: Trust Repair as a Matter...by LA Langlinais · 2025 — We found evidence that a voluntary apology r...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: tammylenski.com  
    Title: 6 ingredients of an effective apology  
-   Link: [https://tammylenski.com/6-ingredients-of-an-effective-apology/](https://tammylenski.com/6-ingredients-of-an-effective-apology/)  
+   Link: <a href="https://tammylenski.com/6-ingredients-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow">https://tammylenski.com/6-ingredients-of-an-effective-apology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 26, 2016 — Explanation of what went wrong; Acknowledgment of responsibility; Declaration of repentance; Offer of repair; Request for...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403](https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How matching apology components to victims&#x27; self...by R Fehr · 2010 · Cited by 511 — The present research begins to address this gap by...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022096517306513](https://www.sciencedirect.com/science/article/abs/pii/S0022096517306513)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096517306513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096517306513</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apologies repair children&#x27;s trust: The mediating role of...by F Ma · 2018 · Cited by 24 — The current study examined whether emotions me...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: However, beliefs about the morality,  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666622725000176](https://www.sciencedirect.com/science/article/pii/S2666622725000176)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666622725000176" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666622725000176</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of apology beliefs for apology tendencies across...by A Kirchner-Häusler · 2025 · Cited by 2 — Apologies serve as crucial tools...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facultyombuds.ncsu.edu  
    Title: Faculty &amp; Staff Ombuds Office Apology Research  
-   Link: [https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/](https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/)  
+   Link: <a href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow">https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Faculty &amp;amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</p></details>
    Published: May 31, 2016  
 
 10. <a id="endnote-10"></a>
    Source: larryferlazzo.edublogs.org  
    Title: The second most important element was an offer  
-   Link: [https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/](https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/)  
+   Link: <a href="https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow">https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Larry Ferlazzo&#x27;s Websites of the Day...New Study Highlights Six Components Of An Effective ApologyApr 15, 2016 — “Our findings showed tha...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralApologies Repair Trust via Perceived Trustworthiness and...by F Ma · 2019 · Cited by 45 — The present study examined the e...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: psy.ox.ac.uk  
    Title: Department of Experimental Psychology Forgiveness  
-   Link: [https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness](https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness)  
+   Link: <a href="https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves intentionally shifting your thoughts, feelings, and motivations from negative...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8096994/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8096994/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8096994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8096994/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralVictim&#x27;s Perspective of Forgiveness Seeking Behaviors After...by P Martinez-Diaz · 2021 · Cited by 35 — This research focu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Effectiveness](https://en.wikipedia.org/wiki/Effectiveness)  
+   Link: <a href="https://en.wikipedia.org/wiki/Effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Effectiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EffectivenessEffectiveness or effectivity [1] is the capability of producing a desired result or the ability to produce desired output...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a](https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a)  
+   Link: <a href="https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective | Vocabulary (video) | VocabularySomething that is effective tends to, or has the quality of making things happen, of making ou...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: abacademies.org  
-   Link: [https://www.abacademies.org/articles/An-integrated-model-of-relationship-repair-reintroducing-the-roles-of-forgiveness-and-trust-1939-4691-21-1-101.pdf](https://www.abacademies.org/articles/An-integrated-model-of-relationship-repair-reintroducing-the-roles-of-forgiveness-and-trust-1939-4691-21-1-101.pdf)  
+   Link: <a href="https://www.abacademies.org/articles/An-integrated-model-of-relationship-repair-reintroducing-the-roles-of-forgiveness-and-trust-1939-4691-21-1-101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.abacademies.org/articles/An-integrated-model-of-relationship-repair-reintroducing-the-roles-of-forgiveness-and-trust-1939-4691-21-1-101.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AN INTEGRATED MODEL OF RELATIONSHIP REPAIRA formal apology, on the other hand, consists of the offender&#x27;s admission of responsibility and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies](https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies)  
+   Link: <a href="https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploration of the Structure of Effective ApologiesEffective apologies often contain multiple components-such as expressions of regret...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/effective](https://www.merriam-webster.com/dictionary/effective)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/effective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTIVE Definition &amp; Meaning1. a: producing a decided, decisive, or desired effect an effective policy b: impressive, striking a gold...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/effective](https://www.dictionary.com/browse/effective)  
+   Link: <a href="https://www.dictionary.com/browse/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/effective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTIVE Definition &amp; Meaningadjective adequate to accomplish a purpose; producing the intended or expected result: effective teaching m...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient](https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient)  
+   Link: <a href="https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Effective and EfficientEffective means &quot;producing a result that is wanted&quot;. Efficient means &quot;capable of producing desired resu...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/737313115/Apologizing-Effectively](https://www.scribd.com/document/737313115/Apologizing-Effectively)  
+   Link: <a href="https://www.scribd.com/document/737313115/Apologizing-Effectively" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/737313115/Apologizing-Effectively</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Structure of Effective Apologies | PDF | PsychologyResearch identifies six key components that make an apology effective: an acknowledgme...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332204013_Apologies_Repair_Trust_via_Perceived_Trustworthiness_and_Negative_Emotions](https://www.researchgate.net/publication/332204013_Apologies_Repair_Trust_via_Perceived_Trustworthiness_and_Negative_Emotions)  
+   Link: <a href="https://www.researchgate.net/publication/332204013_Apologies_Repair_Trust_via_Perceived_Trustworthiness_and_Negative_Emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332204013_Apologies_Repair_Trust_via_Perceived_Trustworthiness_and_Negative_Emotions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apologies Repair Trust via Perceived...3 Apr 2019 — Results revealed that participants who received an apology were more likely to...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mayoclinic.org  
-   Link: [https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692)  
+   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Recognize the value of forgiveness and how it can improve your life. · Find what needs healing and who you want to forgive.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: news.osu.edu  
    Title: the 6 elements of an effective apology according to science  
-   Link: [https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/)  
+   Link: <a href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/effective](https://www.collinsdictionary.com/dictionary/english/effective)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/effective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>productive of or capable of producing a result 2. in effect; operative effective from midnight 3. producing a striking impression; impres...</p></details>

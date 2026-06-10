@@ -520,7 +520,7 @@ A practical conversion looks like this:
 
 Vague intentionSpecific behaviour goal“I need to get fit.”“I will walk briskly for 20 minutes after work on Monday, Wednesday and Friday.”“I should eat better.”“I will add one portion of vegetables to lunch on weekdays.”“I want to be less distracted.”“I will put my phone in another room for the first 30 minutes of deep work.”“I should save money.”“I will transfer £40 to savings every payday before discretionary spending.”“I want to read more.”“I will read five pages after brushing my teeth each night.”
 
-The better version is not merely more detailed. It is easier to begin, easier to notice, easier to repeat and easier to repair. Behaviour-change researchers make a similar distinction when they classify intervention ingredients. The Behaviour Change Technique Taxonomy identifies 93 distinct techniques, including goal setting, action planning, self-monitoring and [feedback]({{ 'feedback/' | relative_url }}), so that interventions can be described by their active components rather than vague labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8637 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
+The better version is not merely more detailed. It is easier to begin, easier to notice, easier to repeat and easier to repair. Behaviour-change researchers make a similar distinction when they classify intervention ingredients. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy identifies 93 distinct techniques, including goal setting, action planning, self-monitoring and feedback, so that interventions can be described by their active components rather than vague labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8637 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-1-dark.svg" | relative_url }}" alt="Goal Setting illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -553,7 +553,7 @@ Specific behaviour goals should not be so easy that they are meaningless. A goal
 
 But “hard” is not the same as punishing. A useful goal sits near the edge of current capacity. It should be demanding enough to matter, but realistic enough that success is plausible on an ordinary week. For a sedentary person, “run five kilometres every morning” may be specific but poorly matched. “Walk for ten minutes after lunch on weekdays” may be a better first goal because it builds continuity before intensity.
 
-This is where popular SMART-goal advice can be both helpful and limiting. The acronym usually points people towards goals that are specific, measurable, achievable, relevant and time-bound, which can prevent vague aspiration. However, researchers in exercise and physical activity have warned against treating SMART goals as a one-size-fits-all formula, especially for people who are new to a [complex behaviour]({{ 'complex-goals/' | relative_url }}) or insufficiently active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This is where popular SMART-goal advice can be both helpful and limiting. The acronym usually points people towards goals that are specific, measurable, achievable, relevant and time-bound, which can prevent vague aspiration. However, researchers in exercise and physical activity have warned against treating SMART goals as a one-size-fits-all formula, especially for people who are new to a complex behaviour or insufficiently active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The important distinction is between a performance goal and a learning goal. A performance goal says, “Hit this number.” A learning goal says, “Learn and practise the process that makes the number possible.” For a beginner, “go to the gym three times this week and learn how to use three machines safely” may be better than “lift a specific weight by Friday”. Locke and Latham themselves note that specific, difficult performance goals can be less useful on new, complex tasks because they can create tunnel vision around the result rather than the skills needed to reach it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[LyondellBasell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">Lyondell Baselluntitled</span><span class="citation-popover-snippet">Lyondell Baselluntitled</span></span></span>
 
@@ -563,7 +563,7 @@ A vague goal often collapses after failure because it gives no diagnostic inform
 
 This is why good behaviour goals should be reviewed, not merely admired. Research on physical activity apps found that popular apps often included goal specificity and timeframes, but much less often included action planning, appropriate goal difficulty or goal re-evaluation. In one content analysis of 40 popular apps, 95% included specific goals and 67.5% included a timeframe, but only 47.5% included action planning, 25% included goal difficulty, and none included goal re-evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation of the goal-setting components in popular physical activity apps: Review and content analysis - PMC...</span></span></span>
 
-That finding is useful beyond fitness apps. A goal can look precise while still being incomplete. “10,000 steps a day” is specific, but if it ignores a person’s current activity level, schedule, pain, weather, caring responsibilities or motivation, it may function more as a judgement than a support. A better system includes a review loop: keep the behaviour if it works, shrink it if it repeatedly fails, move it if the timing is bad, and raise the standard only when the current version is stable.
+That finding is useful beyond fitness apps. A goal can look precise while still being incomplete. “10,000 steps a day” is specific, but if it ignores a person’s current activity level, schedule, pain, weather, caring responsibilities or motivation, it may function more as a judgement than a [support]({{ 'support/' | relative_url }}). A better system includes a review loop: keep the behaviour if it works, shrink it if it repeatedly fails, move it if the timing is bad, and raise the standard only when the current version is stable.
 
 A simple review can use four questions:
 
@@ -582,7 +582,7 @@ A simple review can use four questions:
 The point is not to lower standards forever. It is to keep the behaviour alive long enough for improvement to compound. A goal that can be adjusted is more durable than a goal that only allows success or shame.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Iyi4ngN3O9I" title="What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer">What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?</a></p><p class="youtube-embed-meta">Channel: School of Learning &middot; Views: 1.2K &middot; Uploaded: January 2024 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Iyi4ngN3O9I">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sEOkCxoEoGU" title="The Best Way to Start a New Habit- Mastering Atomic Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sEOkCxoEoGU" target="_blank" rel="noopener noreferrer">The Best Way to Start a New Habit- Mastering Atomic Habits</a></p><p class="youtube-embed-meta">Channel: Books Made Easy Now &middot; Views: 67 &middot; Uploaded: November 2023 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sEOkCxoEoGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sEOkCxoEoGU">Open on YouTube</a></p></div></div></div>
 
 ## Examples that beat vague intention
 
@@ -952,106 +952,106 @@ The final advantage of specific behaviour goals is that they change the emotiona
 
 1. <a id="endnote-1"></a>
    Source: med.stanford.edu  
-   Link: [https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf](https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf)  
+   Link: <a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Medicine...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: research.manchester.ac.uk  
    Title: Research Explorer  
-   Link: [https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/](https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/)  
+   Link: <a href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique Effects of Setting Goals on Behavior Change: Systematic Review and Meta-Analysis - Research Explorer The University of Manchester...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: home.ubalt.edu  
-   Link: [https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf](https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf)  
+   Link: <a href="https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Directions in Goal-Setting TheoryNovember 21, 2006 — by EA Locke · Cited by 4049 — There are four mechanisms or mediators of the rela...</p></details>
    Published: November 21, 2006  
 
 4. <a id="endnote-4"></a>
    Source: cancercontrol.cancer.gov  
    Title: Division of Cancer Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...February 19, 2008 — by PM Gollwitzer · Cited by 136 — The mental links created by implementation intentions facili...</p></details>
    Published: February 19, 2008  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
 
 6. <a id="endnote-6"></a>
    Source: lyondellbasell.com  
    Title: Lyondell Baselluntitled  
-   Link: [https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf](https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf)  
+   Link: <a href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation of the goal-setting components in popular physical activity apps: Review and content analysis - PMC...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8637 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8637 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38560998/](https://pubmed.ncbi.nlm.nih.gov/38560998/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38560998/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38560998/</a>  
 
 10. <a id="endnote-10"></a>
    Source: get-alfred.ai  
    Title: implementation intentions  
-   Link: [https://get-alfred.ai/blog/implementation-intentions](https://get-alfred.ai/blog/implementation-intentions)  
+   Link: <a href="https://get-alfred.ai/blog/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/implementation-intentions</a>  
 
 11. <a id="endnote-11"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Stop letting your goals fizzle out! Why implementation intentions unlock success  
-   Link: [https://www.youtube.com/watch?v=8PrpkJOGsms](https://www.youtube.com/watch?v=8PrpkJOGsms)  
+   Link: <a href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8PrpkJOGsms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Set Goals You&#x27;ll Actually Keep (The Science-Backed System to Achieve Anything)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TwiBZqq9gro](https://www.youtube.com/watch?v=TwiBZqq9gro)  
+   Link: <a href="https://www.youtube.com/watch?v=TwiBZqq9gro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TwiBZqq9gro</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: What are the Key Principles of Locke and Latham's Goal Setting Theory?  
-   Link: [https://www.youtube.com/watch?v=Iyi4ngN3O9I](https://www.youtube.com/watch?v=Iyi4ngN3O9I)  
+   Link: <a href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iyi4ngN3O9I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Way to Start a New Habit- Mastering Atomic Habits...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: samhsa.gov  
-   Link: [https://www.samhsa.gov/sites/default/files/nc-smart-goals-fact-sheet.pdf](https://www.samhsa.gov/sites/default/files/nc-smart-goals-fact-sheet.pdf)  
+   Link: <a href="https://www.samhsa.gov/sites/default/files/nc-smart-goals-fact-sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.samhsa.gov/sites/default/files/nc-smart-goals-fact-sheet.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Best Way to Start a New Habit- Mastering Atomic Habits  
-   Link: [https://www.youtube.com/watch?v=sEOkCxoEoGU](https://www.youtube.com/watch?v=sEOkCxoEoGU)  
+   Link: <a href="https://www.youtube.com/watch?v=sEOkCxoEoGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sEOkCxoEoGU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakthrough: How to Turn Vague Intentions into Progress...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
 18. <a id="endnote-18"></a>
    Source: eclass.uth.gr  
-   Link: [https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf](https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf)  
+   Link: <a href="https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379497574_What_Effect_Do_Goal_Setting_Interventions_Have_on_Physical_Activity_and_Psychological_Outcomes_in_Insufficiently_Active_Adults_A_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/379497574_What_Effect_Do_Goal_Setting_Interventions_Have_on_Physical_Activity_and_Psychological_Outcomes_in_Insufficiently_Active_Adults_A_Systematic_Review_and_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/379497574_What_Effect_Do_Goal_Setting_Interventions_Have_on_Physical_Activity_and_Psychological_Outcomes_in_Insufficiently_Active_Adults_A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379497574_What_Effect_Do_Goal_Setting_Interventions_Have_on_Physical_Activity_and_Psychological_Outcomes_in_Insufficiently_Active_Adults_A_Systematic_Review_and_Meta-Analysis</a>  
 
 21. <a id="endnote-21"></a>
    Source: elgaronline.com  
-   Link: [https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf](https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf)  
+   Link: <a href="https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf</a>  

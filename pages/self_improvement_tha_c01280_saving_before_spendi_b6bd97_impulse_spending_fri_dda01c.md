@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_im
 
 ## Introduction
 
-[Saving]({{ 'saving/' | relative_url }}) before spending works best when saved money is protected from the same forces that encourage unplanned purchases. Modern shopping systems are designed to remove delays: one-click checkout, stored payment cards, digital wallets and personalised recommendations all reduce the time between wanting something and buying it. The result is that a momentary urge can become a completed transaction before reflection has a chance to occur. Research on digital purchasing consistently finds that reducing payment friction increases impulse buying, while deliberate barriers can interrupt that process and restore conscious decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIFrom Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
+[Saving]({{ 'saving/' | relative_url }}) before spending works best when saved money is protected from the same forces that encourage unplanned purchases. Modern shopping systems are designed to remove delays: one-click checkout, stored payment cards, digital wallets and personalised recommendations all reduce the time between wanting something and buying it. The result is that a momentary urge can become a completed transaction before reflection has a chance to occur. Research on digital purchasing consistently finds that reducing payment friction increases impulse buying, while deliberate barriers can interrupt that process and restore conscious decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-dark.svg" | relative_url }}" alt="Spending friction illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,7 +278,7 @@ Friction rules are therefore not punishments. They are small obstacles placed be
 
 The mechanism is simple. Saving plans depend on decisions made in advance, but impulse spending happens in the moment. When retailers remove every obstacle between desire and purchase, the balance shifts toward the momentary decision.
 
-Digital payment systems reduce what behavioural researchers sometimes call the "pain of paying"—the immediate awareness that money is leaving your possession. Credit cards, mobile wallets and one-tap payments create psychological distance from the transaction, making purchases feel easier and less consequential. Studies of online purchasing behaviour repeatedly identify reduced payment friction as a factor that increases impulsive spending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIFrom Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
+Digital payment systems reduce what behavioural researchers sometimes call the "pain of paying"—the immediate awareness that money is leaving your possession. Credit cards, mobile wallets and one-tap payments create psychological distance from the transaction, making purchases feel easier and less consequential. Studies of online purchasing behaviour repeatedly identify reduced payment friction as a factor that increases impulsive spending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
 
 The growth of online commerce has intensified this effect. Research reviews of digital shopping environments note that platform design, social influence, urgency cues and streamlined checkout processes can all encourage unplanned purchases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmsr-online.com">[Journal of Marketing &amp; Social Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmsr-online.com</span><span class="citation-popover-snippet">Journal of Marketing &amp; Social ResearchUnderstanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 7 — Online...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2451958825000910" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Impulse buying in live streaming e-commerce: A systematic...by Y Li · 2025 · Cited by 25 — This paper presents a systematic literature r...</span></span></span>
 
@@ -295,13 +295,13 @@ The most effective friction rules tend to be simple enough to maintain yet incon
 
 Deleting saved card information is one of the clearest examples. A purchase that previously required a single click now requires finding a wallet, locating a card and manually entering details. That short interruption creates a decision point.
 
-Research and behavioural interventions focused on online shopping consistently identify payment friction as a practical way to reduce impulse purchases. Studies of e-commerce behaviour show that convenience accelerates spontaneous buying, while additional checkout steps encourage reconsideration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIFrom Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> ResearchGate The goal is not to make purchases impossible. The goal is to prevent purchases from happening faster than conscious thought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Rein it in. Nudge-based interventions to cope with online...14 Aug 2022 — This research discusses possible nudge-based interventions for...</span></span></span>
+Research and behavioural interventions focused on online shopping consistently identify payment friction as a practical way to reduce impulse purchases. Studies of e-commerce behaviour show that convenience accelerates spontaneous buying, while additional checkout steps encourage reconsideration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> ResearchGate The goal is not to make purchases impossible. The goal is to prevent purchases from happening faster than conscious thought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Rein it in. Nudge-based interventions to cope with online...14 Aug 2022 — This research discusses possible nudge-based interventions for...</span></span></span>
 
 ### The 24-hour rule
 
 A waiting rule creates friction in time rather than effort. Instead of buying immediately, the item is placed on a list or left in the shopping basket for a defined period.
 
-A 24-hour rule works well for routine purchases. More expensive items may justify a 72-hour or seven-day waiting period. Cooling-off periods are widely recommended because emotional excitement tends to fade with time, allowing the purchase to be judged against longer-term priorities rather than immediate desire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alibaba.com">[Alibaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alibaba.com</span><span class="citation-popover-title">During the wait</span><span class="citation-popover-snippet">AlibabaPsychological Tricks To Stop Impulse Buying Online...20 Mar 2026 — This delay leverages a concept known as “cooling-off periods,”...</span></span></span>
+A 24-hour rule works well for routine purchases. More expensive items may justify a 72-hour or seven-day waiting period. Cooling-off periods are widely recommended because emotional excitement tends to fade with time, allowing the purchase to be judged against longer-term priorities rather than immediate desire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alibaba.com">[Alibaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alibaba.com</span><span class="citation-popover-title">During the wait</span><span class="citation-popover-snippet">Psychological Tricks To Stop Impulse Buying Online...20 Mar 2026 — This delay leverages a concept known as “cooling-off periods,”...</span></span></span>
 
 Many purchases lose their appeal surprisingly quickly. If the desire disappears after a day or two, the friction rule has served its purpose.
 
@@ -773,152 +773,152 @@ The strength of spending friction is not that it guarantees perfect decisions. I
 
 1. <a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/0718-1876/20/4/266](https://www.mdpi.com/0718-1876/20/4/266)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIFrom Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</p></details>
+   Link: <a href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/0718-1876/20/4/266</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958825000910](https://www.sciencedirect.com/science/article/pii/S2451958825000910)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958825000910" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825000910</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse buying in live streaming e-commerce: A systematic...by Y Li · 2025 · Cited by 25 — This paper presents a systematic literature r...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825009060](https://www.sciencedirect.com/science/article/pii/S0001691825009060)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825009060" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825009060</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key determinants of online impulse buying behaviorby TTA Ngo · 2025 · Cited by 11 — This study focused on TikTok Shop to examine how fact...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults](https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults)  
+   Link: <a href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rein it in. Nudge-based interventions to cope with online...14 Aug 2022 — This research discusses possible nudge-based interventions for...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: alibaba.com  
    Title: During the wait  
-   Link: [https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html](https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlibabaPsychological Tricks To Stop Impulse Buying Online...20 Mar 2026 — This delay leverages a concept known as “cooling-off periods,”...</p></details>
+   Link: <a href="https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Tricks To Stop Impulse Buying Online...20 Mar 2026 — This delay leverages a concept known as “cooling-off periods,”...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: investopedia.com  
    Title: 'Friction Maxxing' Goes Viral-Here's What It Means For Your Spending  
-   Link: [https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155](https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155)  
+   Link: <a href="https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triggered by easy digital checkout methods such as one-click purchasing, Face ID, and mobile payments, impulse buys have surged, with a L...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: investopedia.com  
-   Link: [https://www.investopedia.com/friction-maxxing-is-going-viral-heres-how-it-could-transform-your-spending-habits-11898285](https://www.investopedia.com/friction-maxxing-is-going-viral-heres-how-it-could-transform-your-spending-habits-11898285)  
+   Link: <a href="https://www.investopedia.com/friction-maxxing-is-going-viral-heres-how-it-could-transform-your-spending-habits-11898285" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/friction-maxxing-is-going-viral-heres-how-it-could-transform-your-spending-habits-11898285</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Originating from digital culture critique, it encourages consumers to slow down, think, and delay purchases, especially in environments w...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theweek.com  
-   Link: [https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying](https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying)  
+   Link: <a href="https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;friction maxxing&#x27; can help you stop impulse buyingApril 24, 2026 — Apr 24, 2026 — Slow down and be more intentional about your finances...</p></details>
    Published: April 24, 2026  
 
 9. <a id="endnote-9"></a>
    Source: slowmoneymovement.com  
-   Link: [https://www.slowmoneymovement.com/blog/stop-impulse-spending](https://www.slowmoneymovement.com/blog/stop-impulse-spending)  
+   Link: <a href="https://www.slowmoneymovement.com/blog/stop-impulse-spending" target="_blank" rel="noopener noreferrer nofollow">https://www.slowmoneymovement.com/blog/stop-impulse-spending</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Impulse Spending - The Slow Money Movement18 Mar 2026 — But by deliberately adding friction back into the process, people can...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lifetips.alibaba.com  
    Title: delete saved payment info to reduce online impulse buyi  
-   Link: [https://lifetips.alibaba.com/tech-efficiency/delete-saved-payment-info-to-reduce-online-impulse-buyi](https://lifetips.alibaba.com/tech-efficiency/delete-saved-payment-info-to-reduce-online-impulse-buyi)  
+   Link: <a href="https://lifetips.alibaba.com/tech-efficiency/delete-saved-payment-info-to-reduce-online-impulse-buyi" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/delete-saved-payment-info-to-reduce-online-impulse-buyi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical evidence from controlled A/B tests (n = 8,432...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844024117744](https://www.sciencedirect.com/science/article/pii/S2405844024117744)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive study on factors influencing online...by TTA Ngo · 2024 · Cited by 138 — This research analyzes the influence of product...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396678555_Click_to_Buy_Behavioral_Insights_into_Impulse_Buying_Triggers_in_E-Commerce_Environments](https://www.researchgate.net/publication/396678555_Click_to_Buy_Behavioral_Insights_into_Impulse_Buying_Triggers_in_E-Commerce_Environments)  
+   Link: <a href="https://www.researchgate.net/publication/396678555_Click_to_Buy_Behavioral_Insights_into_Impulse_Buying_Triggers_in_E-Commerce_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396678555_Click_to_Buy_Behavioral_Insights_into_Impulse_Buying_Triggers_in_E-Commerce_Environments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Click to Buy: Behavioral Insights into Impulse...19 Oct 2025 — This review discusses drivers of impulse buying in online settings...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: acr-journal.com  
-   Link: [https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/](https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/)  
+   Link: <a href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: acr-journal.com  
-   Link: [https://acr-journal.com/article/download/pdf/1857/](https://acr-journal.com/article/download/pdf/1857/)  
+   Link: <a href="https://acr-journal.com/article/download/pdf/1857/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/download/pdf/1857/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...7 Nov 2025 — emotional friction, increase impulse buying...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jmsr-online.com  
-   Link: [https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/](https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/)  
+   Link: <a href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow">https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Marketing &amp; Social ResearchUnderstanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 7 — Online...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: consumerfinance.gov  
    Title: an essential guide to building an emergency fund  
-   Link: [https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/](https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/)  
+   Link: <a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: servicecu.org  
-   Link: [https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/](https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/)  
+   Link: <a href="https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/" target="_blank" rel="noopener noreferrer nofollow">https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Service Credit UnionEmergency Savings: Why Every First Responder Needs a...22 Feb 2024 — Opt for a higher-yield savings account, keeping...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: files.consumerfinance.gov  
-   Link: [https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf](https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf)  
+   Link: <a href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time...Read more...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases](https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases)  
+   Link: <a href="https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Online Impulse Buying for Smarter PurchasesBehavioral science suggests that introducing deliberate friction points into digital...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: studocu.vn  
-   Link: [https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/marketing-research/a-comprehensive-study-on-factors-influencing-online-impulse-buying-behavior-in/124060308](https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/marketing-research/a-comprehensive-study-on-factors-influencing-online-impulse-buying-behavior-in/124060308)  
+   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/marketing-research/a-comprehensive-study-on-factors-influencing-online-impulse-buying-behavior-in/124060308" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/marketing-research/a-comprehensive-study-on-factors-influencing-online-impulse-buying-behavior-in/124060308</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lsive buying behaviors in this demographic, using the Shopee video platform as...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ithinkfi.org  
    Title: understanding emergency funds savings accounts in 2025  
-   Link: [https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025](https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025)  
+   Link: <a href="https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Emergency Funds &amp; Savings Accounts in...1 Oct 2025 — Understand key differences between emergency funds and savings accoun...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: Friction maxxing adds deliberate barriers to spending  
-   Link: [https://www.facebook.com/Investopedia/posts/friction-maxxing-adds-deliberate-barriers-to-spending-learn-how-small-delays-can/1383274273824377/](https://www.facebook.com/Investopedia/posts/friction-maxxing-adds-deliberate-barriers-to-spending-learn-how-small-delays-can/1383274273824377/)  
+   Link: <a href="https://www.facebook.com/Investopedia/posts/friction-maxxing-adds-deliberate-barriers-to-spending-learn-how-small-delays-can/1383274273824377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Investopedia/posts/friction-maxxing-adds-deliberate-barriers-to-spending-learn-how-small-delays-can/1383274273824377/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Postpone purchases, try a no-spend challenge, and remove saved card information to add friction to online buying. Unsubscribe from retail...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: corporate.vanguard.com  
    Title: emergency savings may hold key financial well being  
-   Link: [https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html)  
+   Link: <a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>savings may hold key to financial well-being29 Apr 2025 — Vanguard research highlights the profound impact that emergency savings have on...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/964686622/CASE-STUDY-BEHAVIOUR-ECONOMICS-CEC-1](https://www.scribd.com/document/964686622/CASE-STUDY-BEHAVIOUR-ECONOMICS-CEC-1)  
+   Link: <a href="https://www.scribd.com/document/964686622/CASE-STUDY-BEHAVIOUR-ECONOMICS-CEC-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964686622/CASE-STUDY-BEHAVIOUR-ECONOMICS-CEC-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>izing barriers which typically prompt reconsideration or decision...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: myfsbonline.com  
-   Link: [https://www.myfsbonline.com/education/financial-wellness/what-is-an-emergency-fund](https://www.myfsbonline.com/education/financial-wellness/what-is-an-emergency-fund)  
+   Link: <a href="https://www.myfsbonline.com/education/financial-wellness/what-is-an-emergency-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.myfsbonline.com/education/financial-wellness/what-is-an-emergency-fund</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With the right savings in place, you can cover urgent expenses...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: empeople.com  
    Title: 7 psychology backed ways to curb overspending  
-   Link: [https://empeople.com/learn/empeople-insights/7-psychology-backed-ways-to-curb-overspending/](https://empeople.com/learn/empeople-insights/7-psychology-backed-ways-to-curb-overspending/)  
+   Link: <a href="https://empeople.com/learn/empeople-insights/7-psychology-backed-ways-to-curb-overspending/" target="_blank" rel="noopener noreferrer nofollow">https://empeople.com/learn/empeople-insights/7-psychology-backed-ways-to-curb-overspending/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Psychology-Backed Ways to Curb OverspendingMar 3, 2026 — Understand the psychology behind overspending and learn seven research-backed...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: jpmorganchase.com  
    Title: building financial security and resilience  
-   Link: [https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience)  
+   Link: <a href="https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience" target="_blank" rel="noopener noreferrer nofollow">https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to unexpected...18 Sept 2025 — This report explores how easily households can increase their financial security through saving by answer...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11336989/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11336989/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11336989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11336989/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comprehensive study on factors influencing online impulse...by TTA Ngo · 2024 · Cited by 112 — One-click purchasing options further simp...</p></details>

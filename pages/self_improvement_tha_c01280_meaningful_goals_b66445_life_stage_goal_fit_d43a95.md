@@ -278,11 +278,11 @@ A meaningful goal is not automatically the right goal. In [self improvement that
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-dark.svg" | relative_url }}" alt="Life Fit illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one reason some people mistake misalignment for boredom. They assume they have lost discipline when the deeper problem is that the goal no longer fits their available time, energy, obligations or opportunities. Research on goal adjustment, lifespan development and self-concordant goals suggests that successful goal pursuit is not simply persistence. It also involves repeatedly redesigning goals to fit changing life conditions while staying connected to underlying values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSelection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</span></span></span>
+This is one reason some people mistake misalignment for boredom. They assume they have lost discipline when the deeper problem is that the goal no longer fits their available time, energy, obligations or opportunities. Research on goal adjustment, lifespan development and self-concordant goals suggests that successful goal pursuit is not simply persistence. It also involves repeatedly redesigning goals to fit changing life conditions while staying connected to underlying values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Selection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</span></span></span>
 
 ## How life stage changes the right goal design
 
-The idea that goals should change across life stages is not a modern excuse for lowering standards. It is a long-standing finding in lifespan psychology. People develop under changing constraints and opportunities. Education, work, health, family formation, caregiving, retirement and ageing alter what can realistically be pursued and how much investment a goal requires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.lumenlearning.com">[Lumen Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.lumenlearning.com</span><span class="citation-popover-snippet">Lumen LearningThe Lifespan Perspective | Lifespan DevelopmentLifespan development involves the exploration of biological, cognitive, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.okstate.edu">[Open OKState]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.okstate.edu</span><span class="citation-popover-title">Baltes</span><span class="citation-popover-snippet">Open OKStateChapter 3: Life-Span and Life Course Theories of Agingby A Bishop · 2022 · Cited by 1 — To better represent developmental dyn...</span></span></span>
+The idea that goals should change across life stages is not a modern excuse for lowering standards. It is a long-standing finding in lifespan psychology. People develop under changing constraints and opportunities. Education, work, health, family formation, caregiving, retirement and ageing alter what can realistically be pursued and how much investment a goal requires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.lumenlearning.com">[Lumen Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.lumenlearning.com</span><span class="citation-popover-snippet">Lumen LearningThe Lifespan Perspective &#124; Lifespan DevelopmentLifespan development involves the exploration of biological, cognitive, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.okstate.edu">[Open OKState]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.okstate.edu</span><span class="citation-popover-title">Baltes</span><span class="citation-popover-snippet">Open OKStateChapter 3: Life-Span and Life Course Theories of Agingby A Bishop · 2022 · Cited by 1 — To better represent developmental dyn...</span></span></span>
 
 The same underlying value may therefore require different goal designs at different points in life.
 
@@ -299,7 +299,7 @@ Consider someone who values learning:
 
 The value remains stable. The expression changes.
 
-Research on self-concordance—the degree to which goals fit a person's genuine interests and values—shows that people make better progress and experience greater wellbeing when goals feel personally endorsed rather than externally imposed. But self-concordance is not fixed. As [identity]({{ 'identity/' | relative_url }}) and circumstances evolve, previously [meaningful goals]({{ 'meaning/' | relative_url }}) can lose their fit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-snippet">Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</span><span class="citation-popover-meta">Published: August 9, 2001</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[carleton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span> Longitudinal research following young adults over major life transitions has found that personal goals shift as people move from education into work, relationships and other adult responsibilities. These changes are not necessarily signs of inconsistency. They often reflect adaptation to new developmental tasks and realities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.hku.hk">[HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.hku.hk</span><span class="citation-popover-title">Department of Psychology Personal Goals During Emerging Adulthood</span><span class="citation-popover-snippet">HKU - Department of PsychologyPersonal Goals During Emerging AdulthoodJune 30, 2010 — by K Salmela-Aro · 2007 · Cited by 383 — To examine...</span><span class="citation-popover-meta">Published: June 30, 2010</span></span></span> - Department of Psychology
+Research on self-concordance—the degree to which goals fit a person's genuine interests and values—shows that people make better progress and experience greater wellbeing when goals feel personally endorsed rather than externally imposed. But self-concordance is not fixed. As [identity]({{ 'identity/' | relative_url }}) and circumstances evolve, previously [meaningful goals]({{ 'meaning/' | relative_url }}) can lose their fit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-snippet">Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</span><span class="citation-popover-meta">Published: August 9, 2001</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[carleton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span> Longitudinal research following young adults over major life transitions has found that personal goals shift as people move from education into work, relationships and other adult responsibilities. These changes are not necessarily signs of inconsistency. They often reflect adaptation to new developmental tasks and realities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.hku.hk">[HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.hku.hk</span><span class="citation-popover-title">Department of Psychology Personal Goals During Emerging Adulthood</span><span class="citation-popover-snippet">Department of PsychologyPersonal Goals During Emerging AdulthoodJune 30, 2010 — by K Salmela-Aro · 2007 · Cited by 383 — To examine...</span><span class="citation-popover-meta">Published: June 30, 2010</span></span></span> - Department of Psychology
 
 A useful question is therefore not, “Is this still a good goal?” but, “Is this goal still designed for the life I actually have?”
 
@@ -511,7 +511,7 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -520,78 +520,94 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Home Gym Decor - Large Quote Wall Art"><img src="{{ '/assets/images/marketplace-covers/9e620f814c2182979e08.jpg' | relative_url }}" alt="Listing image for Motivational Home Gym Decor - Large Quote Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa..."><img src="https://i.ebayimg.com/images/g/e2oAAeSwxhNoj77H/s-l225.jpg" alt="Listing image for Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Home Gym Decor - Large Quote Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.com</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kobe Bryant Lock In Motivational Wall Art – Black &amp; White Basketball Poster"><img src="{{ '/assets/images/marketplace-covers/bc7e2fc809557ce723ed.jpg' | relative_url }}" alt="Listing image for Kobe Bryant Lock In Motivational Wall Art – Black &amp; White Basketball Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts"><img src="https://i.ebayimg.com/images/g/hLQAAeSw129p~Yr1/s-l225.jpg" alt="Listing image for 30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kobe Bryant Lock In Motivational Wall Art – Black &amp; White Basketball Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.com</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Success Mindset Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/32e39242372f242900ec.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Success Mindset Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..."><img src="https://i.ebayimg.com/images/g/h-cAAeSwhrZp8V5P/s-l225.jpg" alt="Listing image for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Success Mindset Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.com</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/bf24b18cd7728352aeff.jpg' | relative_url }}" alt="Listing image for Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N"><img src="https://i.ebayimg.com/images/g/TxoAAeSwdHtpcNuP/s-l225.jpg" alt="Listing image for Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.com</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-fit-when-a-good-goal-no-longer-fits-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -667,17 +683,31 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -690,42 +720,73 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -740,164 +801,168 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: carleton.ca  
-   Link: [https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf](https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf)  
+   Link: <a href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</p></details>
    Published: January 29, 2015  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSelection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Selection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: open.library.okstate.edu  
    Title: Baltes (  
-   Link: [https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/](https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/)  
+   Link: <a href="https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open OKStateChapter 3: Life-Span and Life Course Theories of Agingby A Bishop · 2022 · Cited by 1 — To better represent developmental dyn...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordant goals: a longitudinal study on the...by L Cao · 2024 · Cited by 5 — This study investigates the relationship between ego...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: psychology.hku.hk  
    Title: Department of Psychology Personal Goals During Emerging Adulthood  
-   Link: [https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf](https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HKU - Department of PsychologyPersonal Goals During Emerging AdulthoodJune 30, 2010 — by K Salmela-Aro · 2007 · Cited by 383 — To examine...</p></details>
+   Link: <a href="https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyPersonal Goals During Emerging AdulthoodJune 30, 2010 — by K Salmela-Aro · 2007 · Cited by 383 — To examine...</p></details>
    Published: June 30, 2010  
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation](https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation)  
+   Link: <a href="https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Modeling success in lifespan psychologyThis chapter provides an overview on the life-span model selection, optimization, and compen...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-981-287-082-7_130](https://link.springer.com/rwe/10.1007/978-981-287-082-7_130)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-981-287-082-7_130" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-981-287-082-7_130</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management Through Selection, Optimization, and...31 Jan 2017 — Selection, optimization, and compensation as foundation of... Goals as...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adjustment Capacities, Coping, and Subjective Well-Beingby C Wrosch · 2011 · Cited by 170 — This study examined the associations between...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adjustment Capacities, Subjective Well-Being, and...by C Wrosch · 2013 · Cited by 282 — This article addresses how individuals can adjus...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11031-022-09941-6](https://link.springer.com/article/10.1007/s11031-022-09941-6)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11031-022-09941-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11031-022-09941-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for psychological well-being during COVID-19by JM Hamm · 2022 · Cited by 36 — Goal adjustment capacities (ie, goal disengagement and goal...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366542617_Goal_disengagement_and_goal_reengagement_Associations_with_depression_anxiety_and_satisfaction_with_life](https://www.researchgate.net/publication/366542617_Goal_disengagement_and_goal_reengagement_Associations_with_depression_anxiety_and_satisfaction_with_life)  
+   Link: <a href="https://www.researchgate.net/publication/366542617_Goal_disengagement_and_goal_reengagement_Associations_with_depression_anxiety_and_satisfaction_with_life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366542617_Goal_disengagement_and_goal_reengagement_Associations_with_depression_anxiety_and_satisfaction_with_life</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Disengagement and Goal ReengagementThe reviewed literature leads to the conclusion that goal disengagement and goal reengagement cap...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral](https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral)  
+   Link: <a href="https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ned their 1st-semester goals, which in turn predicted increased adjustment and greater...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: psychology.town  
    Title: Optimism supplies the emotional fuel –  
-   Link: [https://psychology.town/developmental/successful-ageing-selective-optimization-optimism-challenge/](https://psychology.town/developmental/successful-ageing-selective-optimization-optimism-challenge/)  
+   Link: <a href="https://psychology.town/developmental/successful-ageing-selective-optimization-optimism-challenge/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/developmental/successful-ageing-selective-optimization-optimism-challenge/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Characteristics of Successful Ageing: Selective...7 Nov 2025 — Selective optimization with compensation provides the practical frame...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cmu.edu  
    Title: GAS article  
-   Link: [https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf](https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf)  
+   Link: <a href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable Goalsby C Wrosch · 2003 · Cited by 1570 — The overall aim of the prese...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: courses.lumenlearning.com  
-   Link: [https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/](https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/)  
+   Link: <a href="https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lumen LearningThe Lifespan Perspective | Lifespan DevelopmentLifespan development involves the exploration of biological, cognitive, and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</p></details>
    Published: August 9, 2001  
 
 17. <a id="endnote-17"></a>
    Source: europepmc.org  
-   Link: [https://europepmc.org/article/med/15018681](https://europepmc.org/article/med/15018681)  
+   Link: <a href="https://europepmc.org/article/med/15018681" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/med/15018681</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Europe PMCgoal disengagement, goal reengagement, and subjective...by C Wrosch · 2003 · Cited by 1568 — The findings confirmed that goal...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: radar.brookes.ac.uk  
-   Link: [https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf](https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf)  
+   Link: <a href="https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-concordance theory and the goal-striving reasons framework both measure the quality of people&#x27;s reasons for their goal pursuits.Read...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mlpp.pressbooks.pub  
    Title: Developmental psychologists are interested in processes related to physical  
-   Link: [https://mlpp.pressbooks.pub/humandevelopment/chapter/module-1-introduction-to-developmental-psychology/](https://mlpp.pressbooks.pub/humandevelopment/chapter/module-1-introduction-to-developmental-psychology/)  
+   Link: <a href="https://mlpp.pressbooks.pub/humandevelopment/chapter/module-1-introduction-to-developmental-psychology/" target="_blank" rel="noopener noreferrer nofollow">https://mlpp.pressbooks.pub/humandevelopment/chapter/module-1-introduction-to-developmental-psychology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1: Introduction to Developmental PsychologyDevelopmental psychology is the scientific study of development across a lifespan...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: repository.londonmet.ac.uk  
    Title: Main Manuscript 2 REVISION 1  
-   Link: [https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf](https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf)  
+   Link: <a href="https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>London Met RepositorySelf-Concordance Theory and the Goal-Striving Reasons...by C Ehrlich · 2024 · Cited by 5 — This paper aims to contr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ionilies.com  
-   Link: [https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf](https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf)  
+   Link: <a href="https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF-CONCORDANCE Core Self-Evaluations and Job and...by TA Judge · Cited by 1910 — Specifically, goal attainment should mediate, at leas...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1774397](https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1774397)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1774397" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1774397</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal adjustment by people living with long-term conditionsby L Scobbie · 2021 · Cited by 26 — Most studies were quantitative (58%), repor...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: uclep.be  
    Title: Verschuren CJBS 2023  
-   Link: [https://www.uclep.be/labs/ECP/publications/Verschuren_CJBS_2023.pdf](https://www.uclep.be/labs/ECP/publications/Verschuren_CJBS_2023.pdf)  
+   Link: <a href="https://www.uclep.be/labs/ECP/publications/Verschuren_CJBS_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclep.be/labs/ECP/publications/Verschuren_CJBS_2023.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Disengagement and Goal Reengagementby A Verschuren · 2022 · Cited by 10 — The main purpose of this study was to examine whether goal...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: careershodh.com  
    Title: soc model of aging  
-   Link: [https://www.careershodh.com/soc-model-of-aging/](https://www.careershodh.com/soc-model-of-aging/)  
+   Link: <a href="https://www.careershodh.com/soc-model-of-aging/" target="_blank" rel="noopener noreferrer nofollow">https://www.careershodh.com/soc-model-of-aging/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its 3 Important Components1 Sept 2025 — The Selection, Optimization, and Compensation (SOC) model provides a powerful framework for u...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Getting Unstuck: How to Trade Goals for a Clear, Personal Vision  
-   Link: [https://www.youtube.com/watch?v=z9U1_hx8v8s](https://www.youtube.com/watch?v=z9U1_hx8v8s)  
+   Link: <a href="https://www.youtube.com/watch?v=z9U1_hx8v8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z9U1_hx8v8s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret to Aging Well - Selective Optimization with Compensation...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886915004523](https://www.sciencedirect.com/science/article/abs/pii/S0191886915004523)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886915004523" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886915004523</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal adjustment ability predicts magnitude of emotional...by B Messay · 2015 · Cited by 24 — Goal disengagement is the ability to evalua...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0959475225000799](https://www.sciencedirect.com/science/article/pii/S0959475225000799)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959475225000799" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475225000799</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of goal self-concordance on emotion regulation...by M Benita · 2025 · Cited by 4 — This study examined how self-concordant go...</p></details>

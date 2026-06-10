@@ -375,7 +375,7 @@ If the answer is unclear, the wins may be measuring participation rather than gr
 
 ## Making progress visible without becoming obsessive
 
-[Visible progress]({{ 'visible-records/' | relative_url }}) supports motivation because it helps people recognise improvement that would otherwise be overlooked. Yet there is a risk of turning measurement into the goal itself.
+Visible progress supports motivation because it helps people recognise improvement that would otherwise be overlooked. Yet there is a risk of turning measurement into the goal itself.
 
 The solution is to track evidence, not everything.
 
@@ -439,7 +439,7 @@ This creates a chain of mastery experiences rather than a collection of isolated
 
 ## Small wins as proof of a chosen direction
 
-Within the broader question of [motivation quality]({{ 'motivation/' | relative_url }}), the value of small wins is that they provide evidence that a chosen goal is becoming reality. They [support]({{ 'support/' | relative_url }}) competence without relying on hype, guilt or constant external pressure.
+Within the broader question of motivation quality, the value of small wins is that they provide evidence that a chosen goal is becoming reality. They [support]({{ 'support/' | relative_url }}) competence without relying on hype, guilt or constant external pressure.
 
 The most powerful small wins are not impressive from the outside. They are the ones that quietly answer a meaningful question: “Am I becoming more capable than I was before?”
 
@@ -867,119 +867,119 @@ When the answer becomes visible day after day, motivation no longer depends enti
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy Do I Feel More Confident?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: teresa.com  
-   Link: [https://www.teresa.com/](https://www.teresa.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TeresaTeresa, who uses only her first name, is a Singer-Songwriter who brings her sunny disposition and positive approach to her music an...</p></details>
+   Link: <a href="https://www.teresa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.teresa.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teresa, who uses only her first name, is a Singer-Songwriter who brings her sunny disposition and positive approach to her music an...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: educational-innovation.sydney.edu.au  
-   Link: [https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf](https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf)  
+   Link: <a href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(1977). Self-EfficacyMarch 8, 2006 — by A Bandura · Cited by 132145 — In the proposed model, expectations of personal efficacy are derive...</p></details>
    Published: March 8, 2006  
 
 4. <a id="endnote-4"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/self-efficacy.html](https://www.simplypsychology.org/self-efficacy.html)  
+   Link: <a href="https://www.simplypsychology.org/self-efficacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-efficacy.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyBandura&#x27;s Self-Efficacy Theory Of Motivation In Psychologyby G Lopez-Garrido · Cited by 180 — Performance Outcomes (Mast...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hbs.edu  
-   Link: [https://www.hbs.edu/faculty/Pages/item.aspx?num=40692](https://www.hbs.edu/faculty/Pages/item.aspx?num=40692)  
+   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=40692" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=40692</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business SchoolThe Progress Principle: Using Small Wins to Ignite Joy...by TM Amabile · 2011 · Cited by 1632 — The book shows h...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: amanet.org  
-   Link: [https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/](https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/)  
+   Link: <a href="https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/" target="_blank" rel="noopener noreferrer nofollow">https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Management AssociationThe Worth of Small Wins: Teresa Amabile and Steven...First, the progress principle provides the key—provi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Teresa](https://en.wikipedia.org/wiki/Teresa)  
+   Link: <a href="https://en.wikipedia.org/wiki/Teresa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Teresa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TeresaArts · Teresa Berganza (1933–2022), Spanish opera singer · Teresa Brewer (1931–2007), American pop and jazz singer · Teresa Came...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: next.co.uk  
-   Link: [https://www.next.co.uk/shop/brand-self-0](https://www.next.co.uk/shop/brand-self-0)  
+   Link: <a href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow">https://www.next.co.uk/shop/brand-self-0</a>  
 
 9. <a id="endnote-9"></a>
    Source: simplypsychology.org  
    Title: self determination theory  
-   Link: [https://www.simplypsychology.org/self-determination-theory.html](https://www.simplypsychology.org/self-determination-theory.html)  
+   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of Motivation1 Apr 2026 — The term self-determination refers to a person&#x27;s own ability to manage themselves, to...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Sources of Self-efficacy  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/sources-of-self-efficacy](https://www.sciencedirect.com/topics/social-sciences/sources-of-self-efficacy)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/sources-of-self-efficacy" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/sources-of-self-efficacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewAccording to Bandura, self-efficacy can arise from four sources—mastery of experiences, vicarious experiences, social or verba...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Teresa Amabile  
-   Link: [https://www.youtube.com/watch?v=-v9c8Q4lfKs](https://www.youtube.com/watch?v=-v9c8Q4lfKs)  
+   Link: <a href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-v9c8Q4lfKs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Progress PrincipleThe Progress Principle: How Small Wins Boost Motivation and Happiness at Work... research on motivation and emotio...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: progressprinciple.com  
    Title: Teresa amabile  
-   Link: [https://progressprinciple.com/](https://progressprinciple.com/)  
+   Link: <a href="https://progressprinciple.com/" target="_blank" rel="noopener noreferrer nofollow">https://progressprinciple.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Her books include Retiring: Creating a Life That Works for You and The Progress Principle: Using Small Wins to Ignite Joy, Engagement, an...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: psychologywriting.com  
-   Link: [https://psychologywriting.com/experiences-to-enhance-self-efficacy/](https://psychologywriting.com/experiences-to-enhance-self-efficacy/)  
+   Link: <a href="https://psychologywriting.com/experiences-to-enhance-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologywriting.com/experiences-to-enhance-self-efficacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences to Enhance Self-EfficacyBandura identified mastery experiences as the most significant motivator of self-efficacy among the f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: helloitsdanielle.com  
-   Link: [https://helloitsdanielle.com/blogs/news/the-power-of-small-wins](https://helloitsdanielle.com/blogs/news/the-power-of-small-wins)  
+   Link: <a href="https://helloitsdanielle.com/blogs/news/the-power-of-small-wins" target="_blank" rel="noopener noreferrer nofollow">https://helloitsdanielle.com/blogs/news/the-power-of-small-wins</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Small WinsHer studies found that making progress, even in tiny increments, is one of the most powerful motivators. This is k...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: open.ncl.ac.uk  
-   Link: [https://open.ncl.ac.uk/academic-theories/30/self-efficacy-theory/](https://open.ncl.ac.uk/academic-theories/30/self-efficacy-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/academic-theories/30/self-efficacy-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/academic-theories/30/self-efficacy-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Efficacy TheoryThe theory posits that self-efficacy is influenced by four primary sources: mastery experiences, vicarious e...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: fuelingcreativitypodcast.com  
-   Link: [https://fuelingcreativitypodcast.com/the-value-of-small-wins-and-the-progress-principle-with-dr-teresa-amabile-part-two](https://fuelingcreativitypodcast.com/the-value-of-small-wins-and-the-progress-principle-with-dr-teresa-amabile-part-two)  
+   Link: <a href="https://fuelingcreativitypodcast.com/the-value-of-small-wins-and-the-progress-principle-with-dr-teresa-amabile-part-two" target="_blank" rel="noopener noreferrer nofollow">https://fuelingcreativitypodcast.com/the-value-of-small-wins-and-the-progress-principle-with-dr-teresa-amabile-part-two</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amabile shares insights from her research involving R&amp;D teams at corporations, revealing how a positive inner work life, driven by progress...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Self-Efficacy Interventions (Chapter 32)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB](https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentSelf-Efficacy Interventions (Chapter 32) - The Handbook of...Bandura posits that guided mastery e...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/11490001_The_theory_and_measurement_of_the_self-efficacy_construct](https://www.researchgate.net/publication/11490001_The_theory_and_measurement_of_the_self-efficacy_construct)  
+   Link: <a href="https://www.researchgate.net/publication/11490001_The_theory_and_measurement_of_the_self-efficacy_construct" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11490001_The_theory_and_measurement_of_the_self-efficacy_construct</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-efficacy is influenced by four important sources of information: performance...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: uvi.edu  
    Title: National Self Determination Richard Ryan and Edward Deci  
-   Link: [https://www.uvi.edu/files/documents/College_of_Liberal_Arts_and_Social_Sciences/social_sciences/OSDCD/National_Self_Determination_Richard_Ryan_and_Edward_Deci.pdf](https://www.uvi.edu/files/documents/College_of_Liberal_Arts_and_Social_Sciences/social_sciences/OSDCD/National_Self_Determination_Richard_Ryan_and_Edward_Deci.pdf)  
+   Link: <a href="https://www.uvi.edu/files/documents/College_of_Liberal_Arts_and_Social_Sciences/social_sciences/OSDCD/National_Self_Determination_Richard_Ryan_and_Edward_Deci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uvi.edu/files/documents/College_of_Liberal_Arts_and_Social_Sciences/social_sciences/OSDCD/National_Self_Determination_Richard_Ryan_and_Edward_Deci.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 88300 — Accumulated research now suggests tha...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381567340_A_systematic_review_and_meta-analysis_of_self-determination-theory-based_interventions_in_the_education_context](https://www.researchgate.net/publication/381567340_A_systematic_review_and_meta-analysis_of_self-determination-theory-based_interventions_in_the_education_context)  
+   Link: <a href="https://www.researchgate.net/publication/381567340_A_systematic_review_and_meta-analysis_of_self-determination-theory-based_interventions_in_the_education_context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381567340_A_systematic_review_and_meta-analysis_of_self-determination-theory-based_interventions_in_the_education_context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>autonomy, competence, and relatedness, which are highly relevant in SRL...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: verywellmind.com  
-   Link: [https://www.verywellmind.com/what-is-self-efficacy-2795954](https://www.verywellmind.com/what-is-self-efficacy-2795954)  
+   Link: <a href="https://www.verywellmind.com/what-is-self-efficacy-2795954" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-efficacy-2795954</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iences,&quot; Bandura explained.1 Performing a task successfully strengthens...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: positivepsychology.com  
    Title: How to Improve Self-Efficacy: 4 Science Based Ways1  
-   Link: [https://positivepsychology.com/3-ways-build-self-efficacy/](https://positivepsychology.com/3-ways-build-self-efficacy/)  
+   Link: <a href="https://positivepsychology.com/3-ways-build-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/3-ways-build-self-efficacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastery Experiences. Among the four sources of self-efficacy, Bandura identified mastery experiences as the most powerful driver of self...</p></details>

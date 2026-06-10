@@ -274,11 +274,11 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of
 
 ## Introduction
 
-If-then plans are one of the most reliable tools in behaviour change, but they solve a specific problem: what to do when a predictable cue appears. They do not solve every problem that blocks progress. An if-then plan can help someone respond to a craving, remember a workout, or avoid a familiar distraction. It cannot create time that does not exist, replace medical treatment, provide childcare, repair chronic sleep deprivation, or remove financial hardship.
+If-then plans are one of the most reliable tools in [behaviour change]({{ 'behaviour-change/' | relative_url }}), but they solve a specific problem: what to do when a predictable cue appears. They do not solve every problem that blocks progress. An if-then plan can help someone respond to a craving, remember a workout, or avoid a familiar distraction. It cannot create time that does not exist, replace medical treatment, provide childcare, repair chronic sleep deprivation, or remove financial hardship.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-1-dark.svg" | relative_url }}" alt="Limits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because self-improvement often fails when people treat all obstacles as [motivation]({{ 'motivation/' | relative_url }}) problems. Evidence from behavioural science suggests that behaviour is shaped not only by intentions and self-control but also by social, economic, environmental, and health-related constraints. Effective self-improvement works best when it identifies which obstacles are cue-based and which are resource-based. The first may respond to planning. The second usually require [support]({{ 'support/' | relative_url }}), changes in circumstances, or additional resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">PMCby D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span>
+This distinction matters because self-improvement often fails when people treat all obstacles as [motivation]({{ 'motivation/' | relative_url }}) problems. Evidence from behavioural science suggests that behaviour is shaped not only by intentions and self-control but also by social, economic, environmental, and health-related constraints. Effective self-improvement works best when it identifies which obstacles are cue-based and which are resource-based. The first may respond to planning. The second usually require [support]({{ 'support/' | relative_url }}), changes in circumstances, or additional resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">by D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span>
 
 ## When Is the Obstacle Bigger Than the Plan?
 
@@ -299,7 +299,7 @@ Consider three different situations:
 
 The first problem contains a clear cue and a potentially controllable response. An if-then plan may help. The second and third involve [real constraints]({{ 'real-constraints/' | relative_url }}). Better planning may contribute at the margins, but the primary obstacle is not a missing decision rule.
 
-One of the recurring findings in behaviour-change research is that environmental and social conditions exert powerful effects on behaviour. Interventions aimed only at individual decision-making often achieve smaller results when structural barriers remain unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">PMCby D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate How can implementation intentions as a behaviour change</span><span class="citation-popover-snippet">A number of potential moderators of the effects of implementation intentions on behaviour were identified (intentions, motivation...Read...</span></span></span>
+One of the recurring findings in behaviour-change research is that environmental and social conditions exert powerful effects on behaviour. Interventions aimed only at individual decision-making often achieve smaller results when structural barriers remain unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">by D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate How can implementation intentions as a behaviour change</span><span class="citation-popover-snippet">A number of potential moderators of the effects of implementation intentions on behaviour were identified (intentions, motivation...Read...</span></span></span>
 
 ## The Difference Between Triggers and Real Constraints
 
@@ -348,7 +348,7 @@ Examples include:
 
 In these cases, the issue is not primarily deciding what to do. The issue is that the desired action may not be realistically available or sustainable under current conditions.
 
-Research examining behavioural determinants increasingly emphasises that social and structural factors influence behaviour alongside beliefs, intentions, and self-regulation. Focusing exclusively on personal planning can therefore misdiagnose the problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">PMCby D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span>
+Research examining behavioural determinants increasingly emphasises that social and structural factors influence behaviour alongside beliefs, intentions, and self-regulation. Focusing exclusively on personal planning can therefore misdiagnose the problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">by D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-2-dark.svg" | relative_url }}" alt="Limits illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -373,7 +373,7 @@ Someone trying to improve health, for example, may benefit from:
 
 These supports do not replace personal responsibility. They make responsible action more feasible.
 
-Modern behaviour-change frameworks increasingly emphasise multiple levels of influence: individual, interpersonal, environmental, and policy-level factors. Interventions tend to work better when they match the true source of the problem rather than assuming that all failures stem from insufficient self-control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s12889-024-19600-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerBehavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 50 — Our study suggests an integr...</span></span></span>
+Modern behaviour-change frameworks increasingly emphasise multiple levels of influence: individual, interpersonal, environmental, and policy-level factors. Interventions tend to work better when they match the true source of the problem rather than assuming that all failures stem from insufficient self-control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s12889-024-19600-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Behavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 50 — Our study suggests an integr...</span></span></span>
 
 This is especially important for people facing persistent stress. Research on poverty and decision-making shows that financial strain can consume attention and cognitive resources, making planning and follow-through more difficult. In such circumstances, asking someone simply to create a better if-then plan risks treating a resource shortage as a character flaw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/business/consulting/assets/documents/how-poverty-affects-peoples-decision-making-processes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">LSEHow poverty affects people&#x27;s decision-making processes</span><span class="citation-popover-snippet">February 2, 2017 — by J Sheehy-Skeffington · 2017 · Cited by 201 — the results of 15 systematic reviews of recent evidence on the relatio...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
@@ -399,7 +399,7 @@ Sometimes that is true. Often it is not.
 
 A person who repeatedly fails to wake up at 5 a.m. may not need a better morning routine. They may need more sleep. A parent who cannot maintain an ambitious exercise schedule may not need more determination. They may need childcare, schedule flexibility, or a less demanding goal.
 
-Behavioural interventions are most effective when they accurately identify barriers. Reviews of behaviour-change theory repeatedly note that barriers can exist at multiple levels and that removing obstacles often matters as much as increasing motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccmt.ca/uploads/media/media/0001/02/1200a0027a05725accd75602cea8ff141b69d31b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccmt.ca">[nccmt.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccmt.ca</span><span class="citation-popover-snippet">Understand, identify and overcome barriers to changeDecember 12, 2007 — Here we focus on barriers that operate at an individual rather th...</span><span class="citation-popover-meta">Published: December 12, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A10c4e9c3-7048-4fdc-b7bc-afdeeea427ad/files/s0g354g15j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Oxford Research ArchiveApplying behaviour change theory to understand the barriers...by HA Bear · 2021 · Cited by 20 — - This study appl...</span></span></span>
+Behavioural interventions are most effective when they accurately identify barriers. Reviews of behaviour-change theory repeatedly note that barriers can exist at multiple levels and that removing obstacles often matters as much as increasing motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccmt.ca/uploads/media/media/0001/02/1200a0027a05725accd75602cea8ff141b69d31b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccmt.ca">[nccmt.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccmt.ca</span><span class="citation-popover-snippet">Understand, identify and overcome barriers to changeDecember 12, 2007 — Here we focus on barriers that operate at an individual rather th...</span><span class="citation-popover-meta">Published: December 12, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A10c4e9c3-7048-4fdc-b7bc-afdeeea427ad/files/s0g354g15j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford Research ArchiveApplying behaviour change theory to understand the barriers...by HA Bear · 2021 · Cited by 20 — - This study appl...</span></span></span>
 
 The practical lesson is simple: repeated failure is information. It is not automatically evidence of weak character.
 
@@ -438,7 +438,7 @@ For example:
 
 </div>
 
-Research on sustainable behaviour change increasingly points toward ongoing support and adaptation rather than one-off planning exercises. Successful change is often nonlinear and requires adjustment as circumstances change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSupporting Sustainable Health Behavior Changeby JA Matthews · 2024 · Cited by 81 — Health and wellness coaching (HWC) is a b...</span></span></span>
+Research on sustainable behaviour change increasingly points toward ongoing support and adaptation rather than one-off planning exercises. Successful change is often nonlinear and requires adjustment as circumstances change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Supporting Sustainable Health Behavior Changeby JA Matthews · 2024 · Cited by 81 — Health and wellness coaching (HWC) is a b...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8PrpkJOGsms" title="Stop letting your goals fizzle out! Why implementation intentions unlock success" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer">Stop letting your goals fizzle out! Why implementation intentions unlock success</a></p><p class="youtube-embed-meta">Channel: Everyday English Podcast &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8PrpkJOGsms">Open on YouTube</a></p></div></div></div>
@@ -449,7 +449,7 @@ If-then plans remain one of the most useful tools for predictable temptations an
 
 When progress stalls, the most productive question is often not, “How can I be more disciplined?” but “What kind of obstacle am I facing?”
 
-If the obstacle is a cue, a plan may help. If the obstacle is a lack of sleep, money, treatment, safety, time, support, or realistic capacity, the solution usually lies beyond planning. Evidence-based self-improvement becomes more effective when it recognises that distinction and responds accordingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">PMCby D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">PMCby D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span>
+If the obstacle is a cue, a plan may help. If the obstacle is a lack of sleep, money, treatment, safety, time, support, or realistic capacity, the solution usually lies beyond planning. Evidence-based self-improvement becomes more effective when it recognises that distinction and responds accordingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">by D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">by D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -782,121 +782,121 @@ If the obstacle is a cue, a plan may help. If the obstacle is a lack of sleep, m
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDeterminants of behaviour and their efficacy as targets  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12889-024-19600-9](https://link.springer.com/article/10.1186/s12889-024-19600-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerBehavioral change interventions, theories, and [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) to...by H El Kirat · 2024 · Cited by 50 — Our study suggests an integr...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s12889-024-19600-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-024-19600-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral change interventions, theories, and [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) to...by H El Kirat · 2024 · Cited by 50 — Our study suggests an integr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate How can implementation intentions as a behaviour change  
-   Link: [https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved](https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved)  
+   Link: <a href="https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A number of potential moderators of the effects of implementation intentions on behaviour were identified (intentions, motivation...Read...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Limits of Simple Implementation Intentions: Evidence from...by M Carrera · 2018 · Cited by 52 — We investigate the effect of a si...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Limits of Simple Implementation Intentions: Evidence from...by M Carrera · 2018 · Cited by 52 — We investigate the effect of a si...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380329032_Determinants_of_behaviour_and_their_efficacy_as_targets_of_behavioural_change_interventions](https://www.researchgate.net/publication/380329032_Determinants_of_behaviour_and_their_efficacy_as_targets_of_behavioural_change_interventions)  
+   Link: <a href="https://www.researchgate.net/publication/380329032_Determinants_of_behaviour_and_their_efficacy_as_targets_of_behavioural_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380329032_Determinants_of_behaviour_and_their_efficacy_as_targets_of_behavioural_change_interventions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants of behaviour and their efficacy as targets of...18 May 2024 — In this Review, we synthesize multidisciplinary meta-analyses...</p></details>
    Published: May 2024  
 
 6. <a id="endnote-6"></a>
    Source: lse.ac.uk  
    Title: LSEHow poverty affects people's decision-making processes  
-   Link: [https://www.lse.ac.uk/business/consulting/assets/documents/how-poverty-affects-peoples-decision-making-processes.pdf](https://www.lse.ac.uk/business/consulting/assets/documents/how-poverty-affects-peoples-decision-making-processes.pdf)  
+   Link: <a href="https://www.lse.ac.uk/business/consulting/assets/documents/how-poverty-affects-peoples-decision-making-processes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/business/consulting/assets/documents/how-poverty-affects-peoples-decision-making-processes.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 2, 2017 — by J Sheehy-Skeffington · 2017 · Cited by 201 — the results of 15 systematic reviews of recent evidence on the relatio...</p></details>
    Published: February 2, 2017  
 
 7. <a id="endnote-7"></a>
    Source: nccmt.ca  
-   Link: [https://www.nccmt.ca/uploads/media/media/0001/02/1200a0027a05725accd75602cea8ff141b69d31b.pdf](https://www.nccmt.ca/uploads/media/media/0001/02/1200a0027a05725accd75602cea8ff141b69d31b.pdf)  
+   Link: <a href="https://www.nccmt.ca/uploads/media/media/0001/02/1200a0027a05725accd75602cea8ff141b69d31b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nccmt.ca/uploads/media/media/0001/02/1200a0027a05725accd75602cea8ff141b69d31b.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understand, identify and overcome barriers to changeDecember 12, 2007 — Here we focus on barriers that operate at an individual rather th...</p></details>
    Published: December 12, 2007  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2542454824000225](https://www.sciencedirect.com/science/article/pii/S2542454824000225)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSupporting Sustainable Health Behavior Changeby JA Matthews · 2024 · Cited by 81 — Health and wellness coaching (HWC) is a b...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2542454824000225</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting Sustainable Health Behavior Changeby JA Matthews · 2024 · Cited by 81 — Health and wellness coaching (HWC) is a b...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/44851819_The_Roles_of_Behavioral_and_Implementation_Intentions_in_Changing_Physical_Activity_in_Young_Children_With_Low_Socioeconomic_Status](https://www.researchgate.net/publication/44851819_The_Roles_of_Behavioral_and_Implementation_Intentions_in_Changing_Physical_Activity_in_Young_Children_With_Low_Socioeconomic_Status)  
+   Link: <a href="https://www.researchgate.net/publication/44851819_The_Roles_of_Behavioral_and_Implementation_Intentions_in_Changing_Physical_Activity_in_Young_Children_With_Low_Socioeconomic_Status" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/44851819_The_Roles_of_Behavioral_and_Implementation_Intentions_in_Changing_Physical_Activity_in_Young_Children_With_Low_Socioeconomic_Status</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ship and the implementation intention intervention significantly increased physical...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X24001003](https://www.sciencedirect.com/science/article/pii/S2352250X24001003)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X24001003" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X24001003</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Trait self-control as a determinant of health behaviorby MS Hagger · 2024 · Cited by 26 — We summarize theory and research testing...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12144-021-02106-7](https://link.springer.com/article/10.1007/s12144-021-02106-7)  
+   Link: <a href="https://link.springer.com/article/10.1007/s12144-021-02106-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12144-021-02106-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comIf-then planning, self-control, and boredom as predictors of...by M Bieleke · 2023 · Cited by 40 — Individual differences in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ora.ox.ac.uk  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3A10c4e9c3-7048-4fdc-b7bc-afdeeea427ad/files/s0g354g15j](https://ora.ox.ac.uk/objects/uuid%3A10c4e9c3-7048-4fdc-b7bc-afdeeea427ad/files/s0g354g15j)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Research ArchiveApplying behaviour change theory to understand the barriers...by HA Bear · 2021 · Cited by 20 — - This study appl...</p></details>
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3A10c4e9c3-7048-4fdc-b7bc-afdeeea427ad/files/s0g354g15j" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A10c4e9c3-7048-4fdc-b7bc-afdeeea427ad/files/s0g354g15j</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Research ArchiveApplying behaviour change theory to understand the barriers...by HA Bear · 2021 · Cited by 20 — - This study appl...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: behaviourchange.net  
-   Link: [https://www.behaviourchange.net/docs/determined-behavior-change.pdf](https://www.behaviourchange.net/docs/determined-behavior-change.pdf)  
+   Link: <a href="https://www.behaviourchange.net/docs/determined-behavior-change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchange.net/docs/determined-behavior-change.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DETERMINED BEHAVIOR CHANGEBarrier Analysis is a methodology for better understanding the underlying determinants or factors that influenc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: papersflow.ai  
-   Link: [https://papersflow.ai/research/topics/behavioral-health-and-interventions/implementation-intentions](https://papersflow.ai/research/topics/behavioral-health-and-interventions/implementation-intentions)  
+   Link: <a href="https://papersflow.ai/research/topics/behavioral-health-and-interventions/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://papersflow.ai/research/topics/behavioral-health-and-interventions/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Research Guide &amp; PapersImplementation intentions are specific if-then plans that link situational cues to goal...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/57a08b4bed915d622c000bfd/BehaviorChangeweb.pdf](https://assets.publishing.service.gov.uk/media/57a08b4bed915d622c000bfd/BehaviorChangeweb.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AssetsTheories of Behavior ChangeSelf-Control. •. — the ability of an individual to control their behaviors. Reinforcements. •. — somethi...</p></details>
+   Link: <a href="https://assets.publishing.service.gov.uk/media/57a08b4bed915d622c000bfd/BehaviorChangeweb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/57a08b4bed915d622c000bfd/BehaviorChangeweb.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of Behavior ChangeSelf-Control. •. — the ability of an individual to control their behaviors. Reinforcements. •. — somethi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instituteofhealthequity.org  
-   Link: [https://www.instituteofhealthequity.org/resources-reports/marmot-review-10-years-on/the-marmot-review-10-years-on-full-report.pdf](https://www.instituteofhealthequity.org/resources-reports/marmot-review-10-years-on/the-marmot-review-10-years-on-full-report.pdf)  
+   Link: <a href="https://www.instituteofhealthequity.org/resources-reports/marmot-review-10-years-on/the-marmot-review-10-years-on-full-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.instituteofhealthequity.org/resources-reports/marmot-review-10-years-on/the-marmot-review-10-years-on-full-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>change. It is of grave concern that such actions to mitigate climate change should not lead to wider socioeconomic inequalities. We need...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kops.uni-konstanz.de  
    Title: de Changes in Psychological Determinants of Behavior  
-   Link: [https://kops.uni-konstanz.de/entities/publication/8ff41d49-2760-4bef-99df-ebc47c890a2d](https://kops.uni-konstanz.de/entities/publication/8ff41d49-2760-4bef-99df-ebc47c890a2d)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KOPSby S Labudek · 2023 · Cited by 11 — This study compares the effects of the individual and group-based LiFE formats on psychological d...</p></details>
+   Link: <a href="https://kops.uni-konstanz.de/entities/publication/8ff41d49-2760-4bef-99df-ebc47c890a2d" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/entities/publication/8ff41d49-2760-4bef-99df-ebc47c890a2d</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Labudek · 2023 · Cited by 11 — This study compares the effects of the individual and group-based LiFE formats on psychological d...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Results demonstrated that not  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 72 — This pilot study demonstrated the use of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: selfdeterminationtheory.org  
    Title: 2020 SheeranWrightEtAl SDTInterventions  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Interventions for Health...by P Sheeran · 2020 · Cited by 228 — Objective: We conducted a meta-analysis of ran...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rsisinternational.org  
-   Link: [https://rsisinternational.org/journals/ijriss/articles/bridging-intention-behavior-gap-through-implementation-intention-conceptual-insight/](https://rsisinternational.org/journals/ijriss/articles/bridging-intention-behavior-gap-through-implementation-intention-conceptual-insight/)  
+   Link: <a href="https://rsisinternational.org/journals/ijriss/articles/bridging-intention-behavior-gap-through-implementation-intention-conceptual-insight/" target="_blank" rel="noopener noreferrer nofollow">https://rsisinternational.org/journals/ijriss/articles/bridging-intention-behavior-gap-through-implementation-intention-conceptual-insight/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging Intention-Behavior Gap through Implementation...In entrepreneurial research, sufficient evidence are available for the gap betw...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/How-can-the-impact-of-implementation-intentions-as-Prestwich-Kellar/e0dea58766a05959861ba4a8d60f74f366890659](https://www.semanticscholar.org/paper/How-can-the-impact-of-implementation-intentions-as-Prestwich-Kellar/e0dea58766a05959861ba4a8d60f74f366890659)  
+   Link: <a href="https://www.semanticscholar.org/paper/How-can-the-impact-of-implementation-intentions-as-Prestwich-Kellar/e0dea58766a05959861ba4a8d60f74f366890659" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/How-can-the-impact-of-implementation-intentions-as-Prestwich-Kellar/e0dea58766a05959861ba4a8d60f74f366890659</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>be improved · 73 Citations · 53 References.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Psychology of People Who Dream Big But Do Nothing (And Why They Stay Stuck)  
-   Link: [https://www.youtube.com/watch?v=XUlkKGU8q8g](https://www.youtube.com/watch?v=XUlkKGU8q8g)  
+   Link: <a href="https://www.youtube.com/watch?v=XUlkKGU8q8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XUlkKGU8q8g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Your New Year&#x27;s Resolutions FAIL &amp; What to Do Instead...</p></details>

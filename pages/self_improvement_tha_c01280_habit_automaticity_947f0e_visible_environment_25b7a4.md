@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_visi
 
 ## Introduction
 
-Making a desired action visible at the moment it can actually be performed is one of the simplest ways to make self-improvement more reliable. Rather than relying on memory, [motivation]({{ 'motivation/' | relative_url }}), or repeated self-reminders, visible cues allow the [environment]({{ 'environment/' | relative_url }}) itself to prompt behaviour. Habit research consistently finds that behaviours become linked to recurring context cues, and that those cues can trigger action automatically over time. The practical implication is straightforward: if an object associated with a behaviour appears exactly where a decision is made, it can function as a reminder at the moment it matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPsychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">Dornsife Psychology of Habit</span><span class="citation-popover-snippet">b) insensitivity to short-term changes in goals (a.k.a., not...Read more...</span></span></span>
+Making a desired action visible at the moment it can actually be performed is one of the simplest ways to make self-improvement more reliable. Rather than relying on memory, [motivation]({{ 'motivation/' | relative_url }}), or repeated self-reminders, visible cues allow the [environment]({{ 'environment/' | relative_url }}) itself to prompt behaviour. Habit research consistently finds that behaviours become linked to recurring context cues, and that those cues can trigger action automatically over time. The practical implication is straightforward: if an object associated with a behaviour appears exactly where a decision is made, it can function as a reminder at the moment it matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">Dornsife Psychology of Habit</span><span class="citation-popover-snippet">b) insensitivity to short-term changes in goals (a.k.a., not...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_visible_environment_25b7a4-Illustration-1-dark.svg" | relative_url }}" alt="Visible Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_visible_environment_25b7a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_visible_environment_25b7a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,7 +278,7 @@ Within stable contexts and habit formation, the goal is not merely to own useful
 
 A common mistake in self-improvement is separating [reminders]({{ 'reminders/' | relative_url }}) from the situations in which action happens. People place a book on a shelf and intend to read more, store exercise equipment in a cupboard and intend to exercise more, or keep vitamins in a drawer and intend to take them daily. The desired behaviour remains mentally important, but physically invisible.
 
-Research on habit formation suggests that context cues matter because repeated behaviours become associated with recurring environments, locations, and objects. Over time, these cues can activate behaviour with less conscious effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPsychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1088868317720362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHabit in Personality and Social Psychology24 Jul 2017 — The context cues that activate habits range from simple elements of...</span></span></span>
+Research on habit formation suggests that context cues matter because repeated behaviours become associated with recurring environments, locations, and objects. Over time, these cues can activate behaviour with less conscious effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1088868317720362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHabit in Personality and Social Psychology24 Jul 2017 — The context cues that activate habits range from simple elements of...</span></span></span>
 
 The practical lesson is that a cue works best when it appears naturally within an existing routine. Instead of asking, “How can I remember?”, a more useful question is, “What will I see immediately before I need to act?”
 
@@ -303,7 +303,7 @@ Several mechanisms make visible cues effective:
 A water bottle left on a desk, a notebook opened on a work surface, or a guitar resting on a stand all communicate a possible action without requiring a conscious planning session. The cue appears exactly when the behaviour can occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalrph.com">[GlobalRPH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalrph.com</span><span class="citation-popover-snippet">Placing a water bottle on the desk prompts hydration, leaving running shoes by...Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uUWGSXJE3sE" title="Struggling with Habits? Your Environment Is the Problem!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uUWGSXJE3sE" target="_blank" rel="noopener noreferrer">Struggling with Habits? Your Environment Is the Problem!</a></p><p class="youtube-embed-meta">Channel: Mariana Kaiser &middot; Views: 548 &middot; Uploaded: March 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uUWGSXJE3sE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uUWGSXJE3sE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fgVYnOBK2ko" title="Build the System: Design Your Future Effortlessly | Goals vs Systems Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fgVYnOBK2ko" target="_blank" rel="noopener noreferrer">Build the System: Design Your Future Effortlessly | Goals vs Systems Explained</a></p><p class="youtube-embed-meta">Channel: Wayyal &middot; Views: 29 &middot; Uploaded: August 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fgVYnOBK2ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fgVYnOBK2ko">Open on YouTube</a></p></div></div></div>
 
 ## Where to Place Cues So They Appear at the Decision Point
 
@@ -335,7 +335,7 @@ Each example places the cue directly before the decision point.
 
 The strongest locations are often those that people already pass through automatically.
 
-A coffee mug beside medication, a journal beside a laptop, or a refillable water bottle beside a work monitor all exploit existing routines. Instead of creating a new reminder system, they attach a cue to a stable part of everyday life. This aligns with evidence showing that habit formation is strengthened when behaviours repeatedly occur in recurring contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPsychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span>
+A coffee mug beside medication, a journal beside a laptop, or a refillable water bottle beside a work monitor all exploit existing routines. Instead of creating a new reminder system, they attach a cue to a stable part of everyday life. This aligns with evidence showing that habit formation is strengthened when behaviours repeatedly occur in recurring contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span>
 
 ### Prioritise visibility over storage
 
@@ -365,7 +365,7 @@ A visible cue is therefore most powerful when it answers a concrete question:
 The closer the cue is to the moment of choice, the less motivation is required.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fgVYnOBK2ko" title="Build the System: Design Your Future Effortlessly | Goals vs Systems Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fgVYnOBK2ko" target="_blank" rel="noopener noreferrer">Build the System: Design Your Future Effortlessly | Goals vs Systems Explained</a></p><p class="youtube-embed-meta">Channel: Wayyal &middot; Views: 29 &middot; Uploaded: August 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fgVYnOBK2ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fgVYnOBK2ko">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jEBA4Gz0c9U" title="The Power of Small Habits: How Tiny Daily Actions Transform Your Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jEBA4Gz0c9U" target="_blank" rel="noopener noreferrer">The Power of Small Habits: How Tiny Daily Actions Transform Your Life</a></p><p class="youtube-embed-meta">Channel: Mathew K Analytics &middot; Views: 28 &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jEBA4Gz0c9U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jEBA4Gz0c9U">Open on YouTube</a></p></div></div></div>
 
 ## When Visible Cues Become Clutter or Get Ignored
 
@@ -397,12 +397,12 @@ A useful rule is that every visible cue should have one primary job. A book shou
 
 The most effective environment cues are often small and unremarkable. They do not depend on inspiration or discipline. They simply appear at the right place and time.
 
-Habit research repeatedly shows that behaviour is shaped by recurring contexts and environmental triggers. People are more likely to act when the environment makes the desired behaviour noticeable, convenient, and easy to begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behavioralscientist.org/good-habits-bad-habits-a-conversation-with-wendy-wood/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioralscientist.org">[Behavioral Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioralscientist.org</span><span class="citation-popover-title">good habits bad habits a conversation with wendy wood</span><span class="citation-popover-snippet">We form habits based on what&#x27;s easy and rewarding, what&#x27;s easy for us to do repeatedly and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPsychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">Dornsife Psychology of Habit</span><span class="citation-popover-snippet">b) insensitivity to short-term changes in goals (a.k.a., not...Read more...</span></span></span>
+Habit research repeatedly shows that behaviour is shaped by recurring contexts and environmental triggers. People are more likely to act when the environment makes the desired behaviour noticeable, convenient, and easy to begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behavioralscientist.org/good-habits-bad-habits-a-conversation-with-wendy-wood/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioralscientist.org">[Behavioral Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioralscientist.org</span><span class="citation-popover-title">good habits bad habits a conversation with wendy wood</span><span class="citation-popover-snippet">We form habits based on what&#x27;s easy and rewarding, what&#x27;s easy for us to do repeatedly and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">Dornsife Psychology of Habit</span><span class="citation-popover-snippet">b) insensitivity to short-term changes in goals (a.k.a., not...Read more...</span></span></span>
 
 For self-improvement, this means treating the environment as part of the habit itself. A visible cue is not merely a reminder. It is part of the behavioural system. When the cue reliably appears at the decision point, the room begins to share the work that motivation once had to do alone.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jEBA4Gz0c9U" title="The Power of Small Habits: How Tiny Daily Actions Transform Your Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jEBA4Gz0c9U" target="_blank" rel="noopener noreferrer">The Power of Small Habits: How Tiny Daily Actions Transform Your Life</a></p><p class="youtube-embed-meta">Channel: Mathew K Analytics &middot; Views: 28 &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jEBA4Gz0c9U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jEBA4Gz0c9U">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rfHRLp0fdb8" title="The Environment That Creates Success | English Listening Practice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rfHRLp0fdb8" target="_blank" rel="noopener noreferrer">The Environment That Creates Success | English Listening Practice</a></p><p class="youtube-embed-meta">Channel: English Owl &middot; Views: 19 &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rfHRLp0fdb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rfHRLp0fdb8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -827,129 +827,129 @@ For self-improvement, this means treating the environment as part of the habit i
 1. <a id="endnote-1"></a>
    Source: dornsife.usc.edu  
    Title: Dornsife Psychology of Habit  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(b) insensitivity to short-term changes in goals (a.k.a., not...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect How do habits guide behavior?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210311100254X](https://www.sciencedirect.com/science/article/abs/pii/S002210311100254X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210311100254X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210311100254X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived and actual...by DT Neal · 2012 · Cited by 668 — Two studies reveal that strong habits are influenced by context cues associate...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2020 — Cue selection was primarily influenced by a desire to minimise effort, eg keeping related objects at hand or in a visibl...</p></details>
    Published: March 30, 2020  
 
 4. <a id="endnote-4"></a>
    Source: globalrph.com  
-   Link: [https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/](https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/)  
+   Link: <a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Placing a water bottle on the desk prompts hydration, leaving running shoes by...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 341 — This review highlights emerging findings and new directions in research on...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation intentions are self-regulating strategies – creat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dornsife.usc.edu  
    Title: It isn't always obvious how to handle change.Read more  
-   Link: [https://dornsife.usc.edu/wendy-wood/good-habits-bad-habits/](https://dornsife.usc.edu/wendy-wood/good-habits-bad-habits/)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/good-habits-bad-habits/" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/good-habits-bad-habits/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits, Bad Habits - Wendy Wood - USC DornsifeHabit science offers a blueprint for how to handle changes in our lives in order to be happ...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: dornsife.usc.edu  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Quinn_.Kashy_.2002_Habits_in_everyday_life.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Quinn_.Kashy_.2002_Habits_in_everyday_life.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Quinn_.Kashy_.2002_Habits_in_everyday_life.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Quinn_.Kashy_.2002_Habits_in_everyday_life.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Everyday Life: Thought, Emotion, and Actionby W Wood · 2002 · Cited by 1669 — Because of the importance of context stability to automa...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26361052/](https://pubmed.ncbi.nlm.nih.gov/26361052/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedPsychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26361052/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Habitby W Wood · 2016 · Cited by 1884 — This review characterizes habits in terms of their cognitive, motivational, a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1088868317720362](https://journals.sagepub.com/doi/10.1177/1088868317720362)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1088868317720362" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1088868317720362</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHabit in Personality and Social Psychology24 Jul 2017 — The context cues that activate habits range from simple elements of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: behavioralscientist.org  
    Title: good habits bad habits a conversation with wendy wood  
-   Link: [https://behavioralscientist.org/good-habits-bad-habits-a-conversation-with-wendy-wood/](https://behavioralscientist.org/good-habits-bad-habits-a-conversation-with-wendy-wood/)  
+   Link: <a href="https://behavioralscientist.org/good-habits-bad-habits-a-conversation-with-wendy-wood/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/good-habits-bad-habits-a-conversation-with-wendy-wood/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We form habits based on what&#x27;s easy and rewarding, what&#x27;s easy for us to do repeatedly and...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: learningcenter.unc.edu  
    Title: changing habits  
-   Link: [https://learningcenter.unc.edu/tips-and-tools/changing-habits/](https://learningcenter.unc.edu/tips-and-tools/changing-habits/)  
+   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/changing-habits/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/changing-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits - The Learning CenterThe first step is cue. It is a trigger that tells your brain to go into automatic mode and prompts the behavi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: readingraphics.com  
-   Link: [https://readingraphics.com/book-summary-review-good-habits-bad-habits/](https://readingraphics.com/book-summary-review-good-habits-bad-habits/)  
+   Link: <a href="https://readingraphics.com/book-summary-review-good-habits-bad-habits/" target="_blank" rel="noopener noreferrer nofollow">https://readingraphics.com/book-summary-review-good-habits-bad-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research tells us that we engage with what is close to us while ignoring what is...Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes](https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Breaking Habits With Implementation IntentionsImplementation intentions specifying the replacement of a habitual response with an a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cultivatewhatmatters.com  
-   Link: [https://cultivatewhatmatters.com/blogs/cwm/achieving-your-goals-by-changing-cues-in-your-environment?srsltid=AfmBOorSY-FVQTIlvT7mWtqpU9vTdLnG3kZnBQMPK7hZZH4uL6PQ3jEM](https://cultivatewhatmatters.com/blogs/cwm/achieving-your-goals-by-changing-cues-in-your-environment?srsltid=AfmBOorSY-FVQTIlvT7mWtqpU9vTdLnG3kZnBQMPK7hZZH4uL6PQ3jEM)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving Your Goals by Changing Environmental CuesWe&#x27;re going to dive into why [environmental cues](&amp;#123;&amp;#123; &#x27;cues-195d40/&#x27; | relative_url &amp;#125;&amp;#125;) are so powerful in habit formation and...</p></details>
+   Link: <a href="https://cultivatewhatmatters.com/blogs/cwm/achieving-your-goals-by-changing-cues-in-your-environment?srsltid=AfmBOorSY-FVQTIlvT7mWtqpU9vTdLnG3kZnBQMPK7hZZH4uL6PQ3jEM" target="_blank" rel="noopener noreferrer nofollow">https://cultivatewhatmatters.com/blogs/cwm/achieving-your-goals-by-changing-cues-in-your-environment?srsltid=AfmBOorSY-FVQTIlvT7mWtqpU9vTdLnG3kZnBQMPK7hZZH4uL6PQ3jEM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving Your Goals by Changing Environmental CuesWe&#x27;re going to dive into why environmental cues are so powerful in habit formation and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: advanced-hindsight.com  
-   Link: [https://advanced-hindsight.com/behavioral-design-podcast/building-habits-with-wendy-wood/](https://advanced-hindsight.com/behavioral-design-podcast/building-habits-with-wendy-wood/)  
+   Link: <a href="https://advanced-hindsight.com/behavioral-design-podcast/building-habits-with-wendy-wood/" target="_blank" rel="noopener noreferrer nofollow">https://advanced-hindsight.com/behavioral-design-podcast/building-habits-with-wendy-wood/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Habits with Wendy WoodIt features a conversation with the world-renowned habit researcher, Wendy Wood. Wendy has devoted the las...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: therapyroute.com  
-   Link: [https://www.therapyroute.com/article/habit-formation-by-therapyroute](https://www.therapyroute.com/article/habit-formation-by-therapyroute)  
+   Link: <a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit FormationContext: The specific environment or circumstances in which the habit occurs.... Visual Cues: Using reminders and prompts...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40the.mindset.project/the-real-reason-you-cant-stick-to-habits-your-environment-wins-33b5a2125aa4](https://medium.com/%40the.mindset.project/the-real-reason-you-cant-stick-to-habits-your-environment-wins-33b5a2125aa4)  
+   Link: <a href="https://medium.com/%40the.mindset.project/the-real-reason-you-cant-stick-to-habits-your-environment-wins-33b5a2125aa4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40the.mindset.project/the-real-reason-you-cant-stick-to-habits-your-environment-wins-33b5a2125aa4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Reason You Can&#x27;t Stick to HabitsResearch on habits consistently points to the power of context cues.... Wendy Wood and colleagu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/visual](https://www.merriam-webster.com/dictionary/visual)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/visual" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/visual</a>  
 
 21. <a id="endnote-21"></a>
    Source: wjarr.com  
-   Link: [https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf](https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf)  
+   Link: <a href="https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The environment significantly influences habit formation through cues and contextual factors that trigger specific behaviors...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: dr wendy wood explains how habits form why they resist change and how small envi  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/dr-wendy-wood-explains-how-habits-form-why-they-resist-change-and-how-small-envi/1280398210788514/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/dr-wendy-wood-explains-how-habits-form-why-they-resist-change-and-how-small-envi/1280398210788514/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/dr-wendy-wood-explains-how-habits-form-why-they-resist-change-and-how-small-envi/1280398210788514/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/dr-wendy-wood-explains-how-habits-form-why-they-resist-change-and-how-small-envi/1280398210788514/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wendy Wood explains how habits form, why they resist...Habits Are Automatic Behaviors Wood explains that habits are automatic responses...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/488808946/Wood-PSPR](https://www.scribd.com/document/488808946/Wood-PSPR)  
+   Link: <a href="https://www.scribd.com/document/488808946/Wood-PSPR" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/488808946/Wood-PSPR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One approach is to target the cues that activate habit perfor- Habits of Cross-Group InteractionRead more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: behaviouralleeway.com  
-   Link: [https://behaviouralleeway.com/behaviour-frameworks-to-[support](https://behaviouralleeway.com/behaviour-frameworks-to-[support)  
+   Link: <a href="https://behaviouralleeway.com/behaviour-frameworks-to-[support" target="_blank" rel="noopener noreferrer nofollow">https://behaviouralleeway.com/behaviour-frameworks-to-[support</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour Frameworks to Support Habit FormationMay 8, 2024 — Using behavioural science strengthens habit formation...</p></details>
    Published: May 8, 2024  

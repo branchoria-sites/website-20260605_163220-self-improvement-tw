@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-walking/
 description: Focused pages that expand on Lunch Walks.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_walking_after_lunch_d84c67
 parent_title: Lunch Walks | Self Improvement That Works

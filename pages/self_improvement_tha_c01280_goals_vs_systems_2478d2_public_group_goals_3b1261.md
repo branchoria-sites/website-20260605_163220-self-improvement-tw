@@ -274,17 +274,17 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public
 
 ## Introduction
 
-Public goals can help, but they are not automatically better than private ones. Research on behaviour change suggests that shared goals often improve follow-through because they create accountability, [feedback]({{ 'feedback/' | relative_url }}) and [social support]({{ 'social-support/' | relative_url }}). At the same time, public commitment can backfire when it turns progress into a performance, creates fear of failure, or encourages people to protect their image rather than improve their habits. The practical question is not whether goals should be public or private. It is how accountability is designed.
+Public goals can help, but they are not automatically better than private ones. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) suggests that shared goals often improve follow-through because they create accountability, feedback and [social support]({{ 'social-support/' | relative_url }}). At the same time, public commitment can backfire when it turns progress into a performance, creates fear of failure, or encourages people to protect their image rather than improve their habits. The practical question is not whether goals should be public or private. It is how accountability is designed.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-1-dark.svg" | relative_url }}" alt="Group Goals illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader debate of [goal setting]({{ 'goal-setting/' | relative_url }}) versus systems design, public and group goals work best when they strengthen the system around a behaviour. They work less well when they become a test of identity, status or [willpower]({{ 'willpower/' | relative_url }}). Evidence suggests that public, challenging and group-based goals can be particularly effective under the right conditions, but the quality of the accountability structure matters as much as the goal itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">unique effects of setting goals on behavior change systematic rev</span><span class="citation-popover-snippet">Research ExplorerUnique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 490 — Objective: Goal setting is a common...</span></span></span>
+Within the broader debate of [goal setting]({{ 'goal-setting/' | relative_url }}) versus systems design, public and group goals work best when they strengthen the system around a behaviour. They work less well when they become a test of identity, status or [willpower]({{ 'willpower/' | relative_url }}). Evidence suggests that public, challenging and group-based goals can be particularly effective under the right conditions, but the quality of the accountability structure matters as much as the goal itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">unique effects of setting goals on behavior change systematic rev</span><span class="citation-popover-snippet">Research ExplorerUnique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 490 — Objective: Goal setting is a common...</span></span></span>
 
 ## Why shared targets can improve follow-through
 
 One reason public and group goals can work is that they change the social [environment]({{ 'environment/' | relative_url }}) around a behaviour. A person who quietly intends to exercise more relies mainly on personal memory and motivation. A person who has agreed to meet friends for a weekly run has added expectation, coordination and support.
 
-A systematic review and meta-analysis of goal-setting interventions found that goal setting produced a positive effect on behaviour change and that effects tended to be stronger when goals were public or group-based. The finding does not mean that publicity guarantees success, but it suggests that social visibility can amplify the motivational impact of a target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span>
+A systematic review and meta-analysis of goal-setting interventions found that goal setting produced a positive effect on behaviour change and that effects tended to be stronger when goals were public or group-based. The finding does not mean that publicity guarantees success, but it suggests that social visibility can amplify the motivational impact of a target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span>
 
 Public commitment can help through several mechanisms:
 
@@ -300,7 +300,7 @@ Public commitment can help through several mechanisms:
 
 The benefits become especially clear when goals involve repeated behaviours rather than one-off achievements. A writing group, study cohort, savings challenge or training club creates recurring moments of accountability. The goal remains visible because it is embedded in ongoing interaction rather than occasional self-reflection.
 
-Research on progress monitoring points in a similar direction. A large meta-analysis found that monitoring progress was more effective when outcomes were reported publicly or shared with others. Accountability appears to strengthen the self-regulation process by making progress harder to ignore and easier to discuss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span>
+Research on progress monitoring points in a similar direction. A large meta-analysis found that monitoring progress was more effective when outcomes were reported publicly or shared with others. Accountability appears to strengthen the self-regulation process by making progress harder to ignore and easier to discuss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span>
 
 ### Why groups often outperform audiences
 
@@ -371,7 +371,7 @@ Counterintuitively, accountability often works best when it is routine rather th
 
 A brief weekly check-in can be more effective than a major public announcement. The goal is to create a stable feedback loop, not an emotional event. Regular reporting reduces the temptation to hide setbacks because setbacks become expected parts of the conversation.
 
-The evidence on progress monitoring suggests that frequent tracking and reporting improve goal attainment. Accountability becomes more useful when it functions as information rather than evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span>
+The evidence on progress monitoring suggests that frequent tracking and reporting improve goal attainment. Accountability becomes more useful when it functions as information rather than evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span>
 
 ### Share obstacles, not just achievements
 
@@ -407,7 +407,7 @@ Public and group goals are most valuable when they strengthen systems rather tha
 
 A useful accountability group increases the likelihood that people monitor progress, notice setbacks early, prioritise important actions and remain engaged during difficult periods. A harmful one turns improvement into a reputation contest.
 
-The evidence therefore points towards a balanced conclusion. Shared goals can improve behaviour change and follow-through, particularly when accountability is built into supportive groups and regular feedback processes. However, the benefits come from constructive accountability, not public pressure itself. The most effective arrangements make progress easier to discuss, easier to measure and easier to recover when things go wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.17887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">unique effects of setting goals on behavior change systematic rev</span><span class="citation-popover-snippet">Research ExplorerUnique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 490 — Objective: Goal setting is a common...</span></span></span>
+The evidence therefore points towards a balanced conclusion. Shared goals can improve behaviour change and follow-through, particularly when accountability is built into supportive groups and regular feedback processes. However, the benefits come from constructive accountability, not public pressure itself. The most effective arrangements make progress easier to discuss, easier to measure and easier to recover when things go wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.17887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">unique effects of setting goals on behavior change systematic rev</span><span class="citation-popover-snippet">Research ExplorerUnique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 490 — Objective: Goal setting is a common...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oOjxKXyZ1Hw" title="Psychological Safety (in the workplace)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oOjxKXyZ1Hw" target="_blank" rel="noopener noreferrer">Psychological Safety (in the workplace)</a></p><p class="youtube-embed-meta">Channel: Bryter Training &middot; Views: 1.8K &middot; Uploaded: March 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oOjxKXyZ1Hw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oOjxKXyZ1Hw">Open on YouTube</a></p></div></div></div>
@@ -834,118 +834,118 @@ The evidence therefore points towards a balanced conclusion. Shared goals can im
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.17887](https://arxiv.org/abs/2603.17887)  
+   Link: <a href="https://arxiv.org/abs/2603.17887" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.17887</a>  
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Goal Setting Interventions (Chapter 38)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6](https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentGoal Setting Interventions (Chapter 38) - The Handbook of...Meta-analyses have found that goal se...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: goal.com  
-   Link: [https://www.goal.com/en-au](https://www.goal.com/en-au)  
+   Link: <a href="https://www.goal.com/en-au" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-au</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, tables and player profiles from around the world, including World Cup...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: goal.com  
-   Link: [https://www.goal.com/en-au/lists/european-player-of-the-year-top-50-footballers-2025-26-season-ranked/bltf1921c49a32aa3b1](https://www.goal.com/en-au/lists/european-player-of-the-year-top-50-footballers-2025-26-season-ranked/bltf1921c49a32aa3b1)  
+   Link: <a href="https://www.goal.com/en-au/lists/european-player-of-the-year-top-50-footballers-2025-26-season-ranked/bltf1921c49a32aa3b1" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-au/lists/european-player-of-the-year-top-50-footballers-2025-26-season-ranked/bltf1921c49a32aa3b1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Player of the Year: Harry Kane, Lamine Yamal and GOAL&#x27;s top 50 footballers of the 2025-26 season - ranked...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2603.17887](https://arxiv.org/pdf/2603.17887)  
+   Link: <a href="https://arxiv.org/pdf/2603.17887" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.17887</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a meta-analysis of the experimental evidence. Psychological Bulletin 142, 198–229. (2016)...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29189034/](https://pubmed.ncbi.nlm.nih.gov/29189034/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29189034/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: research.manchester.ac.uk  
    Title: unique effects of setting goals on behavior change systematic rev  
-   Link: [https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/](https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/)  
+   Link: <a href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research ExplorerUnique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 490 — Objective: Goal setting is a common...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 741 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26445201/](https://pubmed.ncbi.nlm.nih.gov/26445201/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe effectiveness of multi-component goal setting...by D McEwan · 2016 · Cited by 388 — Multi-component goal setting interventions...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26445201/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26445201/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of multi-component goal setting...by D McEwan · 2016 · Cited by 388 — Multi-component goal setting interventions...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 DeciRyan PIWhatWhy  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryThe “What” and “Why” of Goal Pursuits: Human Needs and...by EL Deci · Cited by 63947 — Because various studies...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/17437199.2019.1706616](https://www.tandfonline.com/doi/full/10.1080/17437199.2019.1706616)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2019.1706616" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2019.1706616</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineUpdating goal-setting theory in physical activity promotionby C Swann · 2021 · Cited by 286 — According to goal-se...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40882186/](https://pubmed.ncbi.nlm.nih.gov/40882186/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40882186/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40882186/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goals and Accepting Challenges for Behavior...by K Åsberg · 2025 · Cited by 1 — In a factorial randomized trial, we included goal-settin...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: eclass.uth.gr  
-   Link: [https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf](https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf)  
+   Link: <a href="https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effectiveness of multi-component goal setting...13 Nov 2015 — The purpose of this systematic review was to conduct a meta-analysis of th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/340568128_Performance_Feedback_Goal_Clarity_and_Public_Employees%27_Performance_in_Public_Organizations](https://www.researchgate.net/publication/340568128_Performance_Feedback_Goal_Clarity_and_Public_Employees%27_Performance_in_Public_Organizations)  
+   Link: <a href="https://www.researchgate.net/publication/340568128_Performance_Feedback_Goal_Clarity_and_Public_Employees%27_Performance_in_Public_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340568128_Performance_Feedback_Goal_Clarity_and_Public_Employees%27_Performance_in_Public_Organizations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Performance Feedback, Goal Clarity, and Public...1 Apr 2020 — The findings show that performance feedback is significantly and pos...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wjarr.com  
-   Link: [https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-0221.pdf](https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-0221.pdf)  
+   Link: <a href="https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-0221.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-0221.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Case Study of the Greater Accra Region, GhanaThe study found that intrinsic motivation had a more sustained and enduring influence on j...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: openpublishing.princeton.edu  
-   Link: [https://openpublishing.princeton.edu/read/goals-and-motivation](https://openpublishing.princeton.edu/read/goals-and-motivation)  
+   Link: <a href="https://openpublishing.princeton.edu/read/goals-and-motivation" target="_blank" rel="noopener noreferrer nofollow">https://openpublishing.princeton.edu/read/goals-and-motivation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goals and MotivationWhen people are intrinsically motivated, the experience of goal attainment mentally transfers to pursuing the goal (C...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
 
 18. <a id="endnote-18"></a>
    Source: eleganthack.com  
    Title: the effect of goal setting on group performance a meta analysis  
-   Link: [https://eleganthack.com/the-effect-of-goal-setting-on-group-performance-a-meta-analysis/](https://eleganthack.com/the-effect-of-goal-setting-on-group-performance-a-meta-analysis/)  
+   Link: <a href="https://eleganthack.com/the-effect-of-goal-setting-on-group-performance-a-meta-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://eleganthack.com/the-effect-of-goal-setting-on-group-performance-a-meta-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of goal setting on group performance: A meta-...Apr 16, 2024 — The meta-analysis on goal setting and group performance provid...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ovid.com  
    Title: ccp0000260~unique effects of setting goals on behavior change  
-   Link: [https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change](https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change)  
+   Link: <a href="https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 488 — The aims of this systematic review and meta-analysis...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eprints.whiterose.ac.uk  
    Title: Goal Priority 2 Paper 2nd Revision no track changes final  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/179838/3/Goal%20Priority%202%20Paper%202nd%20Revision%20no%20track%20changes_final.pdf](https://eprints.whiterose.ac.uk/id/eprint/179838/3/Goal%20Priority%202%20Paper%202nd%20Revision%20no%20track%20changes_final.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/179838/3/Goal%20Priority%202%20Paper%202nd%20Revision%20no%20track%20changes_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/179838/3/Goal%20Priority%202%20Paper%202nd%20Revision%20no%20track%20changes_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>prioritization and behavior changeby M Conner · 2022 · Cited by 33 — Results: The prioritization interventions were successful in promoti...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change](https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change)  
+   Link: <a href="https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and goal setting for self-set goals or social goals.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: generativefutures.org  
    Title: goals were challenging, public, and set as group goals.Read more  
-   Link: [https://generativefutures.org/2024/04/05/unique-effects-of-setting-goals-on-behavior-change/](https://generativefutures.org/2024/04/05/unique-effects-of-setting-goals-on-behavior-change/)  
+   Link: <a href="https://generativefutures.org/2024/04/05/unique-effects-of-setting-goals-on-behavior-change/" target="_blank" rel="noopener noreferrer nofollow">https://generativefutures.org/2024/04/05/unique-effects-of-setting-goals-on-behavior-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique Effects of Setting Goals on Behavior ChangeApr 5, 2024 — The analysis showed a small but positive effect of goal setting on behavi...</p></details>

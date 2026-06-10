@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:18:40'
 parent_title: The Weekly Review That Fixes the Plan | Better Change
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
@@ -265,7 +266,6 @@ next_link:
   permalink: /if-then-plans-d74252/
   short_title: If Then Plans
   heading_title: Plan for the Barrier Before It Wins
-date: '2026-06-05 15:18:40 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-1.webp
@@ -278,7 +278,7 @@ A friction audit is a [weekly review]({{ 'weekly-review/' | relative_url }}) too
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-1-dark.svg" | relative_url }}" alt="Friction Audit illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because many failed habits are not failing due to weak commitment. Behaviour change research consistently shows that actions depend not only on [motivation]({{ 'motivation/' | relative_url }}) but also on how easy the behaviour is to perform in the moment. In the Fogg Behavior Model, behaviour occurs when motivation, ability, and a prompt come together. If a behaviour repeatedly does not happen, the problem is often hidden difficulty rather than a lack of desire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
+This distinction matters because many failed habits are not failing due to weak commitment. [Behaviour change]({{ 'behaviour-change/' | relative_url }}) research consistently shows that actions depend not only on [motivation]({{ 'motivation/' | relative_url }}) but also on how easy the behaviour is to perform in the moment. In the Fogg Behavior Model, behaviour occurs when motivation, ability, and a prompt come together. If a behaviour repeatedly does not happen, the problem is often hidden difficulty rather than a lack of desire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
 Within a weekly review, a friction audit helps identify those hidden difficulties so that the next week’s plan is built around reality rather than optimism.
 
@@ -404,7 +404,7 @@ Examples:
 
 </div>
 
-Implementation-intention research suggests that specifying the when, where, and how of an action helps convert intentions into behaviour by reducing the need for in-the-moment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHow do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2017/11/e397/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Human associative memory...Read more...</span></span></span>
+Implementation-intention research suggests that specifying the when, where, and how of an action helps convert intentions into behaviour by reducing the need for in-the-moment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2017/11/e397/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Human associative memory...Read more...</span></span></span>
 
 A habit that requires repeated decision-making remains vulnerable to postponement.
 
@@ -425,7 +425,7 @@ The habit itself may be simple, but the social effort required to perform it may
 A friction audit treats these social realities as genuine constraints rather than excuses.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZ7lDrwYdZc" title="How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer">How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)</a></p><p class="youtube-embed-meta">Channel: Escaping Ordinary (B.C Marx) &middot; Views: 22.0M &middot; Uploaded: October 2021 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZ7lDrwYdZc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGWELW82Eoc" title="How Your Environment Quietly Controls Your Habits | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer">How Your Environment Quietly Controls Your Habits | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 19.8K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGWELW82Eoc">Open on YouTube</a></p></div></div></div>
 
 ## Running a Friction Audit During Your Weekly Review
 
@@ -485,7 +485,7 @@ The behaviour remains the same, but the starting cost drops.
 
 Implementation intentions are useful because they replace repeated choices with predefined responses. Instead of “I will exercise more”, the plan becomes:
 
-“If it is 7:00 a.m. on Monday, Wednesday, or Friday, I will walk for twenty minutes.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHow do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Implementation IntentionsImplementation intentions delegate the control of goal-directed responses to anticipated situational cues...</span></span></span>
+“If it is 7:00 a.m. on Monday, Wednesday, or Friday, I will walk for twenty minutes.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Implementation IntentionsImplementation intentions delegate the control of goal-directed responses to anticipated situational cues...</span></span></span>
 
 The weekly review can reveal exactly which decisions need to disappear.
 
@@ -503,7 +503,7 @@ Examples include:
 These changes look trivial, but they directly increase opportunity and reduce effort, two factors repeatedly identified in behaviour-change frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGWELW82Eoc" title="How Your Environment Quietly Controls Your Habits | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer">How Your Environment Quietly Controls Your Habits | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 19.8K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGWELW82Eoc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZ7lDrwYdZc" title="How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer">How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)</a></p><p class="youtube-embed-meta">Channel: Escaping Ordinary (B.C Marx) &middot; Views: 22.0M &middot; Uploaded: October 2021 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZ7lDrwYdZc">Open on YouTube</a></p></div></div></div>
 
 ### Create a Smaller Version
 
@@ -625,7 +625,7 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -634,78 +634,94 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Storage Cart Basket Organizer Cage Metal Ball Garage Pool Gym Equipment MyGift"><img src="{{ '/assets/images/marketplace-covers/82a9985bcba477f2f641.jpg' | relative_url }}" alt="Listing image for Storage Cart Basket Organizer Cage Metal Ball Garage Pool Gym Equipment MyGift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/0V4AAeSwisJqA6tC/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Storage Cart Basket Organizer Cage Metal Ball Garage Pool Gym Equipment MyGift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym gear organizer">Search <span data-ebay-domain-label>eBay.com</span>: gym gear organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Equipment Organizer for Resistance Bands and Jump Ropes - Space Saver Rack"><img src="{{ '/assets/images/marketplace-covers/6df44ef0a04cccf2ea67.jpg' | relative_url }}" alt="Listing image for Gym Equipment Organizer for Resistance Bands and Jump Ropes - Space Saver Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/Y3UAAeSwjchpsun9/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Equipment Organizer for Resistance Bands and Jump Ropes - Space Saver Rack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym gear organizer">Search <span data-ebay-domain-label>eBay.com</span>: gym gear organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sports Equipment Garage Organizer,Garage Ball Storage for Sports Gear and Toys"><img src="{{ '/assets/images/marketplace-covers/19af2372f9c83dc7b1a7.jpg' | relative_url }}" alt="Listing image for Sports Equipment Garage Organizer,Garage Ball Storage for Sports Gear and Toys" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="https://i.ebayimg.com/images/g/eq8AAeSwPxVpzAyC/s-l225.jpg" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sports Equipment Garage Organizer,Garage Ball Storage for Sports Gear and Toys</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym gear organizer">Search <span data-ebay-domain-label>eBay.com</span>: gym gear organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Gym Wall Rack Workout Gear Organizer Storage Barbells Chairs Lifting Bells"><img src="{{ '/assets/images/marketplace-covers/79eaf72acbd7418dc20f.jpg' | relative_url }}" alt="Listing image for Home Gym Wall Rack Workout Gear Organizer Storage Barbells Chairs Lifting Bells" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="https://i.ebayimg.com/images/g/RVoAAOSwSo9lDgFu/s-l225.jpg" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Home Gym Wall Rack Workout Gear Organizer Storage Barbells Chairs Lifting Bells</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym gear organizer">Search <span data-ebay-domain-label>eBay.com</span>: gym gear organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-the-hidden-steps-breaking-your-habit-self-improvement-that-works-gym-gear-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -781,17 +797,31 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -804,42 +834,73 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -854,162 +915,166 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X](https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHow do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2017/11/e397/](https://www.jmir.org/2017/11/e397/)  
+   Link: <a href="https://www.jmir.org/2017/11/e397/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2017/11/e397/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human associative memory...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation IntentionsImplementation intentions delegate the control of goal-directed responses to anticipated situational cues...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1438887124002619](https://www.sciencedirect.com/org/science/article/pii/S1438887124002619)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887124002619</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661324002663](https://www.sciencedirect.com/science/article/pii/S1364661324002663)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661324002663</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>At its core, habit formation relies on strengthening S–R associations...Read m...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e54375/](https://www.jmir.org/2024/1/e54375/)  
+   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 82 — The results show that the most applied behavior...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 290193001 Implementation Intentions  
-   Link: [https://www.researchgate.net/publication/290193001_Implementation_Intentions](https://www.researchgate.net/publication/290193001_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/290193001_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290193001_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions12 Jan 2016 — Implementation intentions have been used extensively to promote health behaviour change. Res...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381044449_What_is_habit_and_how_can_it_be_used_to_change_real-world_behaviour_Narrowing_the_theory-reality_gap](https://www.researchgate.net/publication/381044449_What_is_habit_and_how_can_it_be_used_to_change_real-world_behaviour_Narrowing_the_theory-reality_gap)  
+   Link: <a href="https://www.researchgate.net/publication/381044449_What_is_habit_and_how_can_it_be_used_to_change_real-world_behaviour_Narrowing_the_theory-reality_gap" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381044449_What_is_habit_and_how_can_it_be_used_to_change_real-world_behaviour_Narrowing_the_theory-reality_gap</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Making &#x27;good&#x27; behaviours habitual—that is, ensuring a behaviour...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change](https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The current pilot study examined the effects of an implementation intention intervention to enhance...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: drpaulmccarthy.com  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...10 Feb 2026 — A powerful scientific framework by Stanford behavior scientist B...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/984100172/Tiny-Habits-summary](https://www.scribd.com/document/984100172/Tiny-Habits-summary)  
+   Link: <a href="https://www.scribd.com/document/984100172/Tiny-Habits-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/984100172/Tiny-Habits-summary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B.J. Fogg&#x27;s &#x27;Tiny Habits&#x27; framework, which emphasizes the importance of Motivation, Ability, and Prompt (MAP) in behavior change.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: behaviormodel.org  
    Title: Fogg Behavior Model  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior to occur: Motivation, Ability, a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: retirementwisdom.com  
    Title: tiny habits can lead to big changes bj fogg  
-   Link: [https://www.retirementwisdom.com/podcasts/tiny-habits-can-lead-to-big-changes-bj-fogg/](https://www.retirementwisdom.com/podcasts/tiny-habits-can-lead-to-big-changes-bj-fogg/)  
+   Link: <a href="https://www.retirementwisdom.com/podcasts/tiny-habits-can-lead-to-big-changes-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.retirementwisdom.com/podcasts/tiny-habits-can-lead-to-big-changes-bj-fogg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Can Lead to Big Changes – BJ Fogg2 Jan 2020 — Behavior change is hard. BJ Fogg, PhD, has built a simple method to build habit...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/com-b-using-behavioural-psychology-in-ux-a850d0d2e7db](https://medium.com/design-bootcamp/com-b-using-behavioural-psychology-in-ux-a850d0d2e7db)  
+   Link: <a href="https://medium.com/design-bootcamp/com-b-using-behavioural-psychology-in-ux-a850d0d2e7db" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/com-b-using-behavioural-psychology-in-ux-a850d0d2e7db</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COM-B: Using behavioural psychology in UXHow you can use behavioural psychology to encourage behavioural changes when designing the exper...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thebettercompany.io  
-   Link: [https://thebettercompany.io/en/tiny-habits-method/](https://thebettercompany.io/en/tiny-habits-method/)  
+   Link: <a href="https://thebettercompany.io/en/tiny-habits-method/" target="_blank" rel="noopener noreferrer nofollow">https://thebettercompany.io/en/tiny-habits-method/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tiny habits methodEvery action occurs when these three elements are present simultaneously: Motivation (motivation), Ability (capabil...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2.1, Monitoring of behavior by others... 2.3, Self-monitoring of behavior; if monitoring is by someone else (without.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=k-TCLz37IPE](https://www.youtube.com/watch?v=k-TCLz37IPE)  
+   Link: <a href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k-TCLz37IPE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fogg Behavior Model: How to Turn Learning into ActionLearning&#x27;s one thing, but genuine behavior change is a whole other kettle of fis...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thecenterforimplementation.com  
    Title: The Center for Implementation The Capability, Opportunity, Motivation  
-   Link: [https://thecenterforimplementation.com/toolbox/com-b](https://thecenterforimplementation.com/toolbox/com-b)  
+   Link: <a href="https://thecenterforimplementation.com/toolbox/com-b" target="_blank" rel="noopener noreferrer nofollow">https://thecenterforimplementation.com/toolbox/com-b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Capability, Opportunity, Motivation - Behavior (COM-B)...26 Sept 2025 — The Capability, Opportunity, Motivation - Behavior (COM-B) t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Planning to break unwanted habits: Habit strength...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: globalrph.com  
-   Link: [https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/](https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/)  
+   Link: <a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lying habit formation and explores evidence-based strategies for behavioral change.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: lifestylemedicine.org.au  
-   Link: [https://lifestylemedicine.org.au/content/behaviour-change-for-health/](https://lifestylemedicine.org.au/content/behaviour-change-for-health/)  
+   Link: <a href="https://lifestylemedicine.org.au/content/behaviour-change-for-health/" target="_blank" rel="noopener noreferrer nofollow">https://lifestylemedicine.org.au/content/behaviour-change-for-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They are specific plans that link actions to triggers — for example, “If...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theartofcharm.com  
-   Link: [https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/](https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/)  
+   Link: <a href="https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg | The Biggest Myth About Habit Formation and 2...In today&#x27;s episode, we cover the breaking and creation of habits with BJ Fogg...</p></details>

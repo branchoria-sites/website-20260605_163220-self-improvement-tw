@@ -282,7 +282,7 @@ The problem is that the same mechanism that motivates one person can quietly pus
 
 ## When comparison gives useful information
 
-Comparison is not automatically harmful. Human beings naturally use other people as reference points. In physical activity settings, seeing what others achieve can help people judge what is realistic, identify role models and discover new habits. Research examining social comparison features in physical activity apps suggests that comparison can [support]({{ 'support/' | relative_url }}) [motivation]({{ 'motivation/' | relative_url }}) and behaviour change, particularly when it provides relevant and attainable information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
+Comparison is not automatically harmful. Human beings naturally use other people as reference points. In physical activity settings, seeing what others achieve can help people judge what is realistic, identify role models and discover new habits. Research examining social comparison features in physical activity apps suggests that comparison can support [motivation]({{ 'motivation/' | relative_url }}) and [behaviour change]({{ 'behaviour-change/' | relative_url }}), particularly when it provides relevant and attainable information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
 
 Leaderboards can be especially useful when they answer practical questions:
 
@@ -298,7 +298,7 @@ Leaderboards can be especially useful when they answer practical questions:
 
 In these cases, comparison functions as [feedback]({{ 'feedback/' | relative_url }}) rather than judgement. The focus remains on learning.
 
-Evidence from fitness-app research also suggests that comparison effects are highly variable. Some users respond positively to competitive environments, while others show weaker responses or react negatively. Studies of Fitbit-style challenges have found substantial differences between individuals in both the direction and size of behaviour changes produced by comparison-based challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-title">Sci Space An Evaluation of Social Comparison of Physical Activity</span><span class="citation-popover-snippet">SciSpaceAn Evaluation of Social Comparison of Physical Activity...July 20, 2022 — 18 Feb 2022 — Results showed that physical activity in...</span><span class="citation-popover-meta">Published: July 20, 2022</span></span></span>
+Evidence from fitness-app research also suggests that comparison effects are highly variable. Some users respond positively to competitive environments, while others show weaker responses or react negatively. Studies of Fitbit-style challenges have found substantial differences between individuals in both the direction and size of [behaviour changes]({{ 'behaviour-change/' | relative_url }}) produced by comparison-based challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-title">Sci Space An Evaluation of Social Comparison of Physical Activity</span><span class="citation-popover-snippet">An Evaluation of Social Comparison of Physical Activity...July 20, 2022 — 18 Feb 2022 — Results showed that physical activity in...</span><span class="citation-popover-meta">Published: July 20, 2022</span></span></span>
 
 That variability is the first warning sign against assuming that a single leaderboard design works for everyone.
 
@@ -322,9 +322,9 @@ The emotional stakes increase further when rankings are persistent and public:
 
 </div>
 
-This creates a subtle shift from behaviour support to social evaluation. Instead of making walking easier, the system begins rewarding status.
+This creates a subtle shift from behaviour [support]({{ 'support/' | relative_url }}) to social evaluation. Instead of making walking easier, the system begins rewarding status.
 
-The risk is not necessarily that participants feel intense shame. More often, they simply disengage. They stop opening the app, stop checking the challenge or stop participating in future competitions. From an organisational perspective, this can be mistaken for lack of motivation when the real problem is the design of the comparison [environment]({{ 'environment/' | relative_url }}).
+The risk is not necessarily that participants feel intense shame. More often, they simply disengage. They stop opening the app, stop checking the challenge or stop participating in future competitions. From an organisational perspective, this can be mistaken for lack of motivation when the real problem is the design of the comparison environment.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T3M0KlVfJec" title="Escaping the &quot;Should&quot; Trap: Mental Health &amp; Social Comparison" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T3M0KlVfJec" target="_blank" rel="noopener noreferrer">Escaping the &quot;Should&quot; Trap: Mental Health &amp; Social Comparison</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 48.9K &middot; Uploaded: April 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T3M0KlVfJec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T3M0KlVfJec">Open on YouTube</a></p></div></div></div>
@@ -796,129 +796,129 @@ The strongest [social support]({{ 'social-support/' | relative_url }}) systems u
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7148546/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7148546/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148546/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, 2 aspects of work that apply social...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972](https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Linking social features of fitness apps with physical activity...by M Sun · 2022 · Cited by 15 — The results provide compelling support...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2020/3/e15642/](https://www.jmir.org/2020/3/e15642/)  
+   Link: <a href="https://www.jmir.org/2020/3/e15642/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2020/3/e15642/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Comparison Features in Physical Activity Promotion...by D Arigo · 2020 · Cited by 83 — The aim of this meta-review was to summari...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scispace.com  
    Title: Sci Space An Evaluation of Social Comparison of Physical Activity  
-   Link: [https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf](https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SciSpaceAn Evaluation of Social Comparison of Physical Activity...July 20, 2022 — 18 Feb 2022 — Results showed that physical activity in...</p></details>
+   Link: <a href="https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Social Comparison of Physical Activity...July 20, 2022 — 18 Feb 2022 — Results showed that physical activity in...</p></details>
    Published: July 20, 2022  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExercise or lie down?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: humanfactors.jmir.org  
-   Link: [https://humanfactors.jmir.org/2023/1/e41239/](https://humanfactors.jmir.org/2023/1/e41239/)  
+   Link: <a href="https://humanfactors.jmir.org/2023/1/e41239/" target="_blank" rel="noopener noreferrer nofollow">https://humanfactors.jmir.org/2023/1/e41239/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR Human FactorsSelection of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10012003/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10012003/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10012003/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10012003/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types of comparison target selectio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6096297/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6096297/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCGamification for health and wellbeing: A systematic review of...by D Johnson · 2016 · Cited by 1799 — The current state of evidence s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6096297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6096297/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification for health and wellbeing: A systematic review of...by D Johnson · 2016 · Cited by 1799 — The current state of evidence s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8767479/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8767479/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8767479/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8767479/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Effectiveness of Gamification on Physical Activityby A Mazeas · 2022 · Cited by 240 — The aim of this systematic review and meta-anal...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0950584922002518](https://www.sciencedirect.com/science/article/abs/pii/S0950584922002518)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectNegative effects of gamification in education softwareby C Almeida · 2023 · Cited by 238 — We found that badges, leaderboard...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922002518" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0950584922002518</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative effects of gamification in education softwareby C Almeida · 2023 · Cited by 238 — We found that badges, leaderboard...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1469029224000013](https://www.sciencedirect.com/science/article/pii/S1469029224000013)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1469029224000013" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029224000013</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A randomized controlled mHealth trial that evaluates social...by B Sañudo · 2024 · Cited by 21 — This study aims to evaluate whether com...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844023062412](https://www.sciencedirect.com/science/article/pii/S2405844023062412)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844023062412" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023062412</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of gamified learning strategies in student&#x27;s...by E Ratinho · 2023 · Cited by 241 — The results suggest a positive influence of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: games.jmir.org  
-   Link: [https://games.jmir.org/2025/1/e68151](https://games.jmir.org/2025/1/e68151)  
+   Link: <a href="https://games.jmir.org/2025/1/e68151" target="_blank" rel="noopener noreferrer nofollow">https://games.jmir.org/2025/1/e68151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Gamification Interventions to Improve Physical...by M Wang · 2025 · Cited by 26 — Our findings showed that the gamification intervent...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/15248399231160152](https://journals.sagepub.com/doi/10.1177/15248399231160152)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/15248399231160152" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15248399231160152</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPhysical Activity and Social Comparison17 Mar 2023 — This study examined the impact of group composition of a 6-week group-b...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: ssa.gov  
-   Link: [https://www.ssa.gov/](https://www.ssa.gov/)  
+   Link: <a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
 
 16. <a id="endnote-16"></a>
    Source: revista-apunts.com  
-   Link: [https://revista-apunts.com/en/benefits-of-gamified-learning-in-physical-education-students-a-systematic-review/](https://revista-apunts.com/en/benefits-of-gamified-learning-in-physical-education-students-a-systematic-review/)  
+   Link: <a href="https://revista-apunts.com/en/benefits-of-gamified-learning-in-physical-education-students-a-systematic-review/" target="_blank" rel="noopener noreferrer nofollow">https://revista-apunts.com/en/benefits-of-gamified-learning-in-physical-education-students-a-systematic-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of Gamified Learning in Physical Education StudentsRegarding the benefits of gamification, the review showed that it was conside...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404881910_Associations_between_leaderboard_usage_in_physical_activity_apps_and_perceived_stress_among_university_students_the_roles_of_social_comparison_and_physical_activity](https://www.researchgate.net/publication/404881910_Associations_between_leaderboard_usage_in_physical_activity_apps_and_perceived_stress_among_university_students_the_roles_of_social_comparison_and_physical_activity)  
+   Link: <a href="https://www.researchgate.net/publication/404881910_Associations_between_leaderboard_usage_in_physical_activity_apps_and_perceived_stress_among_university_students_the_roles_of_social_comparison_and_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404881910_Associations_between_leaderboard_usage_in_physical_activity_apps_and_perceived_stress_among_university_students_the_roles_of_social_comparison_and_physical_activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the roles of social comparison and physical activity17 May 2026 — Leaderboard usage was positively associated with social comparison (β...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: researchwithrowan.com  
    Title: stepping up an evaluation of social comparison of physical activi  
-   Link: [https://www.researchwithrowan.com/en/publications/stepping-up-an-evaluation-of-social-comparison-of-physical-activi/](https://www.researchwithrowan.com/en/publications/stepping-up-an-evaluation-of-social-comparison-of-physical-activi/)  
+   Link: <a href="https://www.researchwithrowan.com/en/publications/stepping-up-an-evaluation-of-social-comparison-of-physical-activi/" target="_blank" rel="noopener noreferrer nofollow">https://www.researchwithrowan.com/en/publications/stepping-up-an-evaluation-of-social-comparison-of-physical-activi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rowan UniversityStepping Up: An Evaluation of Social Comparison of Physical...by JA Nastasi · 2022 · Cited by 9 — Results showed that ph...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: systematic.com  
-   Link: [https://systematic.com/us/](https://systematic.com/us/)  
+   Link: <a href="https://systematic.com/us/" target="_blank" rel="noopener noreferrer nofollow">https://systematic.com/us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Inc.Systematic Inc. is a leading provider of simple and reliable C4I integration software solutions for the Department of Defe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mysportscience.com  
-   Link: [https://www.mysportscience.com/post/can-apps-and-gamification-increase-physical-activity](https://www.mysportscience.com/post/can-apps-and-gamification-increase-physical-activity)  
+   Link: <a href="https://www.mysportscience.com/post/can-apps-and-gamification-increase-physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.mysportscience.com/post/can-apps-and-gamification-increase-physical-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can apps and gamification increase physical activity?Jun 12, 2025 — Some apps use gamification and help to make healthy behaviours more e...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pedro.org.au  
-   Link: [https://pedro.org.au/english/systematic-review-gamified-smartphone-apps/](https://pedro.org.au/english/systematic-review-gamified-smartphone-apps/)  
+   Link: <a href="https://pedro.org.au/english/systematic-review-gamified-smartphone-apps/" target="_blank" rel="noopener noreferrer nofollow">https://pedro.org.au/english/systematic-review-gamified-smartphone-apps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tphone apps have small-to-moderate positive effects on physical activity levels.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Atreyi-Kankanhalli/publication/309557443_Gamification_in_Fitness_Apps_How_do_Leaderboards_influence_Exercise/links/586ca96f08ae8fce4919f096/Gamification-in-Fitness-Apps-How-do-Leaderboards-influence-Exercise.pdf](https://www.researchgate.net/profile/Atreyi-Kankanhalli/publication/309557443_Gamification_in_Fitness_Apps_How_do_Leaderboards_influence_Exercise/links/586ca96f08ae8fce4919f096/Gamification-in-Fitness-Apps-How-do-Leaderboards-influence-Exercise.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Atreyi-Kankanhalli/publication/309557443_Gamification_in_Fitness_Apps_How_do_Leaderboards_influence_Exercise/links/586ca96f08ae8fce4919f096/Gamification-in-Fitness-Apps-How-do-Leaderboards-influence-Exercise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Atreyi-Kankanhalli/publication/309557443_Gamification_in_Fitness_Apps_How_do_Leaderboards_influence_Exercise/links/586ca96f08ae8fce4919f096/Gamification-in-Fitness-Apps-How-do-Leaderboards-influence-Exercise.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ison theory that explains how social comparison via leaderboards influences...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thier.io  
    Title: Social Dynamics in Health and Wellbeing [Part 2 of 2]  
-   Link: [https://www.thier.io/blog/social-dynamics-in-health-and-wellbeing-part-2-of-2](https://www.thier.io/blog/social-dynamics-in-health-and-wellbeing-part-2-of-2)  
+   Link: <a href="https://www.thier.io/blog/social-dynamics-in-health-and-wellbeing-part-2-of-2" target="_blank" rel="noopener noreferrer nofollow">https://www.thier.io/blog/social-dynamics-in-health-and-wellbeing-part-2-of-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>❤️‍🩹2 May 2026 — The negative effects of social comparison are not experienced uniformly by all users. The impact of a social feature is...</p></details>
    Published: May 2026  
 
 24. <a id="endnote-24"></a>
    Source: sparkdayapp.com  
    Title: A Nature study of 1.1M runners proved exercise is causally contagious.Read more  
-   Link: [https://sparkdayapp.com/blog/step-challenge-with-friends](https://sparkdayapp.com/blog/step-challenge-with-friends)  
+   Link: <a href="https://sparkdayapp.com/blog/step-challenge-with-friends" target="_blank" rel="noopener noreferrer nofollow">https://sparkdayapp.com/blog/step-challenge-with-friends</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Step Challenge With Friends: The Fitness Hack That Actually...A Penn RCT found competition produced 90% more exercise attendance than so...</p></details>

@@ -502,11 +502,11 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-ov
 
 ## Introduction
 
-The Behaviour Change Technique Taxonomy, often shortened to BCT Taxonomy or BCTTv1, is a practical way to translate self-improvement advice into testable ingredients. Instead of saying “be more disciplined”, it asks what is actually being used: [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, prompts, self-monitoring, feedback, [social support]({{ 'social-support/' | relative_url }}), rewards, environmental restructuring, or something else. That shift matters because everyday change is easier to improve when it can be named, observed and adjusted.
+The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy, often shortened to BCT Taxonomy or BCTTv1, is a practical way to translate self-improvement advice into testable ingredients. Instead of saying “be more disciplined”, it asks what is actually being used: goal setting, action planning, prompts, self-monitoring, feedback, [social support]({{ 'social-support/' | relative_url }}), rewards, environmental restructuring, or something else. That shift matters because everyday change is easier to improve when it can be named, observed and adjusted.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-overview.webp" | relative_url }}" alt="Overview image for Techniques" loading="eager" decoding="sync" fetchpriority="high">
-For non-specialists, the taxonomy is best understood as a labelled parts list for behaviour change. Its first major version organised 93 behaviour change techniques into 16 groups, giving researchers and practitioners a shared language for describing what an intervention contains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> Used well, it helps people separate the active ingredient from the slogan. Used badly, it can become a long menu of impressive-sounding techniques with no clear diagnosis of the behaviour problem.
+For non-specialists, the taxonomy is best understood as a labelled parts list for behaviour change. Its first major version organised 93 behaviour change techniques into 16 groups, giving researchers and practitioners a shared language for describing what an intervention contains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> Used well, it helps people separate the active ingredient from the slogan. Used badly, it can become a long menu of impressive-sounding techniques with no clear diagnosis of the behaviour problem.
 
 ## Why techniques matter
 
@@ -573,7 +573,7 @@ A better approach is to start with a behavioural diagnosis. Ask what is blocking
 
 </div>
 
-This is where the taxonomy fits naturally with the Behaviour Change Wheel and COM-B model, which frame behaviour as depending on capability, opportunity and motivation. The Behaviour Change Wheel site describes a systematic route from understanding the target behaviour to choosing intervention functions and then [specific behaviour]({{ 'goal-setting/' | relative_url }}) change techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[Behaviour Change Wheel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For self improvement, the plain version is: do not pick a technique because it sounds clever; pick it because it addresses the reason the behaviour is not happening.
+This is where the taxonomy fits naturally with the Behaviour Change Wheel and COM-B model, which frame behaviour as depending on capability, opportunity and [motivation]({{ 'motivation/' | relative_url }}). The Behaviour Change Wheel site describes a systematic route from understanding the target behaviour to choosing intervention functions and then specific behaviour change techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[Behaviour Change Wheel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For self improvement, the plain version is: do not pick a technique because it sounds clever; pick it because it addresses the reason the behaviour is not happening.
 
 A concrete example shows the difference. Suppose someone wants to read before bed but keeps scrolling. A weak plan says: “Be more disciplined.” A taxonomy-informed plan might combine three ingredients: environmental restructuring by charging the phone outside the bedroom, a prompt by placing the book on the pillow, and self-monitoring by marking each successful night on a calendar. If that still fails because the book feels too demanding when tired, the next adjustment might be graded tasks: two pages count as success.
 
@@ -1038,167 +1038,167 @@ This is the practical payoff of the taxonomy for [self improvement that works]({
 
 1. <a id="endnote-1"></a>
    Source: bct-taxonomy.com  
-   Link: [https://www.bct-taxonomy.com/about](https://www.bct-taxonomy.com/about)  
+   Link: <a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour Change Technique TaxonomyThus BCTTv1 offers a generally reliable method for specifying, interpreting and implementing the activ...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ph49](https://www.nice.org.uk/guidance/ph49)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49</a>  
 
 3. <a id="endnote-3"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ph49/chapter/recommendations](https://www.nice.org.uk/guidance/ph49/chapter/recommendations)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/chapter/recommendations</a>  
 
 4. <a id="endnote-4"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: bct-taxonomy.com  
-   Link: [https://www.bct-taxonomy.com/](https://www.bct-taxonomy.com/)  
+   Link: <a href="https://www.bct-taxonomy.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/</a>  
 
 6. <a id="endnote-6"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK77075/](https://www.ncbi.nlm.nih.gov/books/NBK77075/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK77075/</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
 
 8. <a id="endnote-8"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/12/8/e058229](https://bmjopen.bmj.com/content/12/8/e058229)  
+   Link: <a href="https://bmjopen.bmj.com/content/12/8/e058229" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/12/8/e058229</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
 
 10. <a id="endnote-10"></a>
    Source: dhi.ac.uk  
    Title: DHIThe Behavior Change Technique Taxonomy (v1) of 93  
-   Link: [https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf](https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf)  
+   Link: <a href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK327611/](https://www.ncbi.nlm.nih.gov/books/NBK327611/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK327611/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK327611/</a>  
 
 12. <a id="endnote-12"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13142-014-0290-z](https://link.springer.com/article/10.1007/s13142-014-0290-z)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13142-014-0290-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13142-014-0290-z</a>  
 
 13. <a id="endnote-13"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/10/9/e036500](https://bmjopen.bmj.com/content/10/9/e036500)  
+   Link: <a href="https://bmjopen.bmj.com/content/10/9/e036500" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/10/9/e036500</a>  
 
 14. <a id="endnote-14"></a>
    Source: bct-taxonomy.com  
-   Link: [https://www.bct-taxonomy.com/pdf/StarterPack.pdf](https://www.bct-taxonomy.com/pdf/StarterPack.pdf)  
+   Link: <a href="https://www.bct-taxonomy.com/pdf/StarterPack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/pdf/StarterPack.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s13012-020-01015-w](https://link.springer.com/article/10.1186/s13012-020-01015-w)  
+   Link: <a href="https://link.springer.com/article/10.1186/s13012-020-01015-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13012-020-01015-w</a>  
 
 16. <a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s13012-015-0248-7](https://link.springer.com/article/10.1186/s13012-015-0248-7)  
+   Link: <a href="https://link.springer.com/article/10.1186/s13012-015-0248-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13012-015-0248-7</a>  
 
 17. <a id="endnote-17"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-023-01555-6](https://link.springer.com/article/10.1186/s12966-023-01555-6)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
 
 18. <a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-017-0494-y](https://link.springer.com/article/10.1186/s12966-017-0494-y)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-017-0494-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-017-0494-y</a>  
 
 19. <a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-020-01001-x](https://link.springer.com/article/10.1186/s12966-020-01001-x)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: openaccess.city.ac.uk  
-   Link: [https://openaccess.city.ac.uk/id/eprint/3293/](https://openaccess.city.ac.uk/id/eprint/3293/)  
+   Link: <a href="https://openaccess.city.ac.uk/id/eprint/3293/" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/3293/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineThe Behavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8903 — Objectives: The objective o...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: research.manchester.ac.uk  
    Title: which behaviour change techniques are most effective at increasin  
-   Link: [https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin](https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin)  
+   Link: <a href="https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin</a>  
 
 23. <a id="endnote-23"></a>
    Source: behaviourchangewheel.com  
-   Link: [https://www.behaviourchangewheel.com/about-wheel](https://www.behaviourchangewheel.com/about-wheel)  
+   Link: <a href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/about-wheel</a>  
 
 24. <a id="endnote-24"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
-   Link: [https://theoryandtechniquetool.humanbehaviourchange.org/](https://theoryandtechniquetool.humanbehaviourchange.org/)  
+   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/</a>  
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
 26. <a id="endnote-26"></a>
    Source: springermedizin.de  
-   Link: [https://www.springermedizin.de/which-behavior-change-techniques-are-associated-with-changes-in-/9175042](https://www.springermedizin.de/which-behavior-change-techniques-are-associated-with-changes-in-/9175042)  
+   Link: <a href="https://www.springermedizin.de/which-behavior-change-techniques-are-associated-with-changes-in-/9175042" target="_blank" rel="noopener noreferrer nofollow">https://www.springermedizin.de/which-behavior-change-techniques-are-associated-with-changes-in-/9175042</a>  
 
 27. <a id="endnote-27"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_US&id=com.BCTTaxonomy](https://play.google.com/store/apps/details?hl=en_US&id=com.BCTTaxonomy)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.BCTTaxonomy" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.BCTTaxonomy</a>  
 
 28. <a id="endnote-28"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.BCTTaxonomy](https://play.google.com/store/apps/details?hl=en_GB&id=com.BCTTaxonomy)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.BCTTaxonomy" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.BCTTaxonomy</a>  
 
 29. <a id="endnote-29"></a>
    Source: humanbehaviourchange.org  
-   Link: [https://www.humanbehaviourchange.org/training](https://www.humanbehaviourchange.org/training)  
+   Link: <a href="https://www.humanbehaviourchange.org/training" target="_blank" rel="noopener noreferrer nofollow">https://www.humanbehaviourchange.org/training</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TJXUkSPNihc](https://www.youtube.com/watch?v=TJXUkSPNihc)  
+   Link: <a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJXUkSPNihc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 3: Uses of the BCTTv1...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=44YPG97nt_c](https://www.youtube.com/watch?v=44YPG97nt_c)  
+   Link: <a href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=44YPG97nt_c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15-minute Introduction to the Behaviour Change Wheel...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=L7YfgDozRAU](https://www.youtube.com/watch?v=L7YfgDozRAU)  
+   Link: <a href="https://www.youtube.com/watch?v=L7YfgDozRAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L7YfgDozRAU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 2: The Development of the BCTTv1...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361828493_Behaviour_change_techniques_in_cardiovascular_disease_smartphone_apps_to_improve_physical_activity_and_sedentary_behaviour_Systematic_review_and_meta-regression](https://www.researchgate.net/publication/361828493_Behaviour_change_techniques_in_cardiovascular_disease_smartphone_apps_to_improve_physical_activity_and_sedentary_behaviour_Systematic_review_and_meta-regression)  
+   Link: <a href="https://www.researchgate.net/publication/361828493_Behaviour_change_techniques_in_cardiovascular_disease_smartphone_apps_to_improve_physical_activity_and_sedentary_behaviour_Systematic_review_and_meta-regression" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361828493_Behaviour_change_techniques_in_cardiovascular_disease_smartphone_apps_to_improve_physical_activity_and_sedentary_behaviour_Systematic_review_and_meta-regression</a>  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review](https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review)  
+   Link: <a href="https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/367325681_Behaviour_change_techniques_taxonomy_v1_Feedback_to_inform_the_development_of_an_ontology](https://www.researchgate.net/publication/367325681_Behaviour_change_techniques_taxonomy_v1_Feedback_to_inform_the_development_of_an_ontology)  
+   Link: <a href="https://www.researchgate.net/publication/367325681_Behaviour_change_techniques_taxonomy_v1_Feedback_to_inform_the_development_of_an_ontology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367325681_Behaviour_change_techniques_taxonomy_v1_Feedback_to_inform_the_development_of_an_ontology</a>  
 
 37. <a id="endnote-37"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/21027165/Reliability_of_Identification_of_Behavior_Change_Techniques_in_Intervention_Descriptions](https://www.academia.edu/21027165/Reliability_of_Identification_of_Behavior_Change_Techniques_in_Intervention_Descriptions)  
+   Link: <a href="https://www.academia.edu/21027165/Reliability_of_Identification_of_Behavior_Change_Techniques_in_Intervention_Descriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/21027165/Reliability_of_Identification_of_Behavior_Change_Techniques_in_Intervention_Descriptions</a>  
 
 39. <a id="endnote-39"></a>
    Source: iresp.net  
-   Link: [https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf](https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf)  
+   Link: <a href="https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf</a>  

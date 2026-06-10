@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_ha
 
 ## Introduction
 
-[Specific behaviour]({{ 'goal-setting/' | relative_url }}) goals work best when they are challenging enough to require effort but not so difficult that they produce repeated failure. This balance is especially important for beginners. A goal that is too easy may not create meaningful progress, but a goal that is too hard can damage confidence, disrupt consistency and make [abandonment]({{ 'abandonment/' | relative_url }}) more likely. Research on goal-setting consistently finds that specific, difficult goals outperform vague or easy ones, yet that finding comes with an important condition: people must believe the goal is achievable and possess enough skill or knowledge to pursue it effectively. Stanford Medicine PubMed For someone new to a behaviour <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[notion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">NotionWhat&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>, the most effective goal is often not the one that maximises performance immediately. It is the one that creates enough challenge to stimulate growth while allowing enough success to build competence, confidence and continuity.
+Specific behaviour goals work best when they are challenging enough to require effort but not so difficult that they produce repeated failure. This balance is especially important for beginners. A goal that is too easy may not create meaningful progress, but a goal that is too hard can damage confidence, disrupt consistency and make [abandonment]({{ 'abandonment/' | relative_url }}) more likely. Research on goal-setting consistently finds that specific, difficult goals outperform vague or easy ones, yet that finding comes with an important condition: people must believe the goal is achievable and possess enough skill or knowledge to pursue it effectively. Stanford Medicine PubMed For someone new to a behaviour <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[notion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>, the most effective goal is often not the one that maximises performance immediately. It is the one that creates enough challenge to stimulate growth while allowing enough success to build competence, confidence and continuity.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-dark.svg" | relative_url }}" alt="Doable Stretch illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -276,7 +276,7 @@ image: /assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_ha
 
 The phrase “hard but doable” sounds subjective, but it describes a practical principle. Effective beginner goals usually sit near the edge of current ability rather than far beyond it.
 
-Goal-setting research has repeatedly shown that challenging goals tend to produce higher performance than easy goals. However, goals that are perceived as impossible or disconnected from current capability can become demotivating rather than motivating. The value comes from challenge combined with attainability. Stanford Medicine LyondellBasell Consider three people who want to begin exercising: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">LyondellBasellNew Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
+Goal-setting research has repeatedly shown that challenging goals tend to produce higher performance than easy goals. However, goals that are perceived as impossible or disconnected from current capability can become demotivating rather than motivating. The value comes from challenge combined with attainability. Stanford Medicine LyondellBasell Consider three people who want to begin exercising: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -323,11 +323,11 @@ Learning goals focus on acquiring skill and competence:
 
 </div>
 
-Research on achievement goals distinguishes between performance-oriented goals and learning-oriented goals. Learning goals can be especially valuable when a task is unfamiliar or complex because they direct attention toward skill development rather than immediate results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCGoal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</span></span></span>
+Research on achievement goals distinguishes between performance-oriented goals and learning-oriented goals. Learning goals can be especially valuable when a task is unfamiliar or complex because they direct attention toward skill development rather than immediate results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</span></span></span>
 
 A beginner guitarist illustrates the difference well.
 
-A performance goal might be: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">LyondellBasellNew Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
+A performance goal might be: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
 
 > Play a difficult song perfectly within two weeks.
 
@@ -355,7 +355,7 @@ In practice, beginners frequently experience three predictable problems when goa
 
 **The behaviour becomes associated with stress.** Instead of building a positive habit, the person learns to associate the activity with guilt, pressure or exhaustion.
 
-Research on self-efficacy and habit formation suggests that confidence and successful repetition play important roles in sustained behaviour change. People who experience mastery and competence are more likely to continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">We analyzed event sampling data from a habit building app we created</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...May 7, 2021 — by M Stojanovic · 2021 · Cited by 42 — In this paper, we inves...</span><span class="citation-popover-meta">Published: May 7, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCGoal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</span></span></span>
+Research on self-efficacy and habit formation suggests that confidence and successful repetition play important roles in sustained [behaviour change]({{ 'behaviour-change/' | relative_url }}). People who experience mastery and competence are more likely to continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">We analyzed event sampling data from a habit building app we created</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...May 7, 2021 — by M Stojanovic · 2021 · Cited by 42 — In this paper, we inves...</span><span class="citation-popover-meta">Published: May 7, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</span></span></span>
 
 This helps explain why a beginner who reads five pages every evening often progresses further over a year than someone who attempts to read fifty pages daily and quits after two weeks.
 
@@ -399,7 +399,7 @@ Once consistency improves, the goal can be expanded again.
 
 This approach preserves the behaviour while adjusting the demand level. It treats failure as [feedback]({{ 'feedback/' | relative_url }}) rather than proof of inability.
 
-Goal-setting theory identifies feedback as a critical component of effective goals because feedback allows people to compare current performance against the target and modify strategy accordingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[Notion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">NotionWhat&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Goal-setting theory identifies feedback as a critical component of effective goals because feedback allows people to compare current performance against the target and modify strategy accordingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[Notion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The important lesson is that a failed goal does not automatically indicate a weak person. It may indicate an inaccurate estimate of current capacity.
 
@@ -759,118 +759,118 @@ For beginners, the ideal goal is rarely the most ambitious version imaginable. I
 
 1. <a id="endnote-1"></a>
    Source: med.stanford.edu  
-   Link: [https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf](https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf)  
+   Link: <a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MedicineBuilding a Practically Useful Theory of [Goal Setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125;) and...by EA Locke · 2002 · Cited by 15548 — We found that specific...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lyondellbasell.com  
    Title: newdirectioningoalsetting locke et al  
-   Link: [https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf](https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LyondellBasellNew Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</p></details>
+   Link: <a href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: educational-innovation.sydney.edu.au  
-   Link: [https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf](https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf)  
+   Link: <a href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(1977). Self-Efficacyby A Bandura · Cited by 132145 — In the enhancement of previously learned behavior, reinforcement is conceived of ma...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCGoal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: notion.com  
    Title: goal setting theory  
-   Link: [https://www.notion.com/blog/goal-setting-theory](https://www.notion.com/blog/goal-setting-theory)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NotionWhat&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</p></details>
+   Link: <a href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.notion.com/blog/goal-setting-theory</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</p></details>
    Published: May 2023  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Goal Setting Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory](https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Setting Theory - an overviewA key finding from goal-setting research is that difficult, specific goals that are accepted result in b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: frontiersin.org  
    Title: We analyzed event sampling data from a habit building app we created  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersSelf-Efficacy in Habit Building: How General and...May 7, 2021 — by M Stojanovic · 2021 · Cited by 42 — In this paper, we inves...</p></details>
    Published: May 7, 2021  
 
 8. <a id="endnote-8"></a>
    Source: elgaronline.com  
-   Link: [https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf](https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf)  
+   Link: <a href="https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>urging people to do their best. Effect sizes in meta-analyses range...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: get-alfred.ai  
    Title: goal setting theory  
-   Link: [https://get-alfred.ai/blog/goal-setting-theory](https://get-alfred.ai/blog/goal-setting-theory)  
+   Link: <a href="https://get-alfred.ai/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/goal-setting-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Specific, Hard Goals Outperform &#x27;Do...19 Feb 2026 — Locke (1968) showed that specific, difficult goals consistently produce higher p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: positivepsychology.com  
    Title: goal setting theory  
-   Link: [https://positivepsychology.com/goal-setting-theory/](https://positivepsychology.com/goal-setting-theory/)  
+   Link: <a href="https://positivepsychology.com/goal-setting-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/goal-setting-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It suggests...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: au.indeed.com  
    Title: goal setting theory  
-   Link: [https://au.indeed.com/career-advice/career-development/goal-setting-theory](https://au.indeed.com/career-advice/career-development/goal-setting-theory)  
+   Link: <a href="https://au.indeed.com/career-advice/career-development/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://au.indeed.com/career-advice/career-development/goal-setting-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting Theory For Workplace Success13 Nov 2025 — The goal-setting theory of motivation, developed by Locke and Latham, explains how...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory](https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting TheoryGoals must be difficult but attainable – there is a spectrum of goal difficulty... Goals should be set somewhere in t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nobaproject.com  
-   Link: [https://nobaproject.com/modules/self-efficacy](https://nobaproject.com/modules/self-efficacy)  
+   Link: <a href="https://nobaproject.com/modules/self-efficacy" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/self-efficacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-EfficacySelf-efficacy refers to your beliefs about your ability to effectively perform the tasks needed to attain a valued goal.Read...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sk.sagepub.com  
-   Link: [https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions](https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions)  
+   Link: <a href="https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE PublishingGoal Setting Theory: Controversies and ResolutionsConsistent with goal setting theory, specific, high learning goals lead...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: positivepsychology.com  
-   Link: [https://positivepsychology.com/3-ways-build-self-efficacy/](https://positivepsychology.com/3-ways-build-self-efficacy/)  
+   Link: <a href="https://positivepsychology.com/3-ways-build-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/3-ways-build-self-efficacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To build self-efficacy, set achievable goals, break tasks into smaller steps, visualize success, seek positive role models...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: performancemagazine.org  
-   Link: [https://www.performancemagazine.org/an-introduction-to-theory-in-performance-management-goal-setting-theory/](https://www.performancemagazine.org/an-introduction-to-theory-in-performance-management-goal-setting-theory/)  
+   Link: <a href="https://www.performancemagazine.org/an-introduction-to-theory-in-performance-management-goal-setting-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.performancemagazine.org/an-introduction-to-theory-in-performance-management-goal-setting-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to theory in Performance Management12 Feb 2010 — Research by Locke and Latham (1990) showed that specific, difficult goal...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/self-efficacy.html](https://www.simplypsychology.org/self-efficacy.html)  
+   Link: <a href="https://www.simplypsychology.org/self-efficacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-efficacy.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of beliefs that determine how well one can execute a plan of action in prospective situations.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: executivecoachcollege.com  
-   Link: [https://www.executivecoachcollege.com/research-and-publications/science-of-effective-goal-setting.php](https://www.executivecoachcollege.com/research-and-publications/science-of-effective-goal-setting.php)  
+   Link: <a href="https://www.executivecoachcollege.com/research-and-publications/science-of-effective-goal-setting.php" target="_blank" rel="noopener noreferrer nofollow">https://www.executivecoachcollege.com/research-and-publications/science-of-effective-goal-setting.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clear goals are important, but it is also just as important to set challenging goals.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 232501090 A Theory of Goal Setting Task Performance  
-   Link: [https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance](https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance)  
+   Link: <a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Goal Setting &amp; Task PerformanceGoal setting theory (Locke &amp; Latham, 1984, 199Oa) is based on the simplest of introspective ob...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: 3. Expecting a new habit to be easy to install. Change isn't easy.Read more  
-   Link: [https://www.facebook.com/TheAtlantic/posts/forming-new-habits-isnt-impossible-but-its-much-easier-for-some-people-than-othe/983241007008643/](https://www.facebook.com/TheAtlantic/posts/forming-new-habits-isnt-impossible-but-its-much-easier-for-some-people-than-othe/983241007008643/)  
+   Link: <a href="https://www.facebook.com/TheAtlantic/posts/forming-new-habits-isnt-impossible-but-its-much-easier-for-some-people-than-othe/983241007008643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAtlantic/posts/forming-new-habits-isnt-impossible-but-its-much-easier-for-some-people-than-othe/983241007008643/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming new habits isn&#x27;t impossible, but it&#x27;s much easier for...* Seek behavioral changes that are so easy, you don&#x27;t need self-discipline...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: heyplumm.com  
-   Link: [https://www.heyplumm.com/wellbeing/the-psychology-of-goal-setting-lessons-in-success-and-failure](https://www.heyplumm.com/wellbeing/the-psychology-of-goal-setting-lessons-in-success-and-failure)  
+   Link: <a href="https://www.heyplumm.com/wellbeing/the-psychology-of-goal-setting-lessons-in-success-and-failure" target="_blank" rel="noopener noreferrer nofollow">https://www.heyplumm.com/wellbeing/the-psychology-of-goal-setting-lessons-in-success-and-failure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Goal Setting: Lessons in Success and...1 Dec 2023 — Goal setting is a vital process that helps us grow, learn, and sel...</p></details>

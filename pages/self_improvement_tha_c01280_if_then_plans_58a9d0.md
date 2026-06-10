@@ -1062,190 +1062,190 @@ That is why one sentence can sometimes change follow-through. Not because the se
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intention effects are stronger when self-regulatory problems bes...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 136 — The idea is that intention realization can be promoted by forming if-then plans...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Implementation Intentions and Goal Achievement  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — Implementation intentions were effective in promoting...</p></details>
    Published: December 31, 2006  
 
 4. <a id="endnote-4"></a>
    Source: d-nb.info  
    Title: DNBPlanning mediates between intentions and physical activity  
-   Link: [https://d-nb.info/1104173190/34](https://d-nb.info/1104173190/34)  
+   Link: <a href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1104173190/34</a>  
 
 5. <a id="endnote-5"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1103170108](https://www.pnas.org/doi/10.1073/pnas.1103170108)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1103170108" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1103170108</a>  
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2071-1050/15/16/12457](https://www.mdpi.com/2071-1050/15/16/12457)  
+   Link: <a href="https://www.mdpi.com/2071-1050/15/16/12457" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/15/16/12457</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1469029211000264](https://www.sciencedirect.com/science/article/abs/pii/S1469029211000264)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029211000264" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029211000264</a>  
 
 9. <a id="endnote-9"></a>
    Source: phwwhocc.co.uk  
    Title: Identifying and Applying Behaviour Change Techniques  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167629618301991](https://www.sciencedirect.com/science/article/abs/pii/S0167629618301991)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629618301991" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167629618301991</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260](https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0191886920306917](https://www.sciencedirect.com/science/article/pii/S0191886920306917)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0191886920306917" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886920306917</a>  
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X](https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001457514003406](https://www.sciencedirect.com/science/article/abs/pii/S0001457514003406)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001457514003406" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001457514003406</a>  
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048](https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour](https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour</a>  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/51216389_Using_Implementation_Intentions_Prompts_to_Enhance_Influenza_Vaccination_Rates](https://www.researchgate.net/publication/51216389_Using_Implementation_Intentions_Prompts_to_Enhance_Influenza_Vaccination_Rates)  
+   Link: <a href="https://www.researchgate.net/publication/51216389_Using_Implementation_Intentions_Prompts_to_Enhance_Influenza_Vaccination_Rates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51216389_Using_Implementation_Intentions_Prompts_to_Enhance_Influenza_Vaccination_Rates</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students](https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students)  
+   Link: <a href="https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students</a>  
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward](https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward)  
+   Link: <a href="https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward</a>  
 
 24. <a id="endnote-24"></a>
    Source: research.wur.nl  
    Title: identifying the if for if then plans combining implementation int  
-   Link: [https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int](https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int)  
+   Link: <a href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow">https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int</a>  
 
 25. <a id="endnote-25"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
 
 26. <a id="endnote-26"></a>
    Source: hal.science  
-   Link: [https://hal.science/hal-01998148v1/document](https://hal.science/hal-01998148v1/document)  
+   Link: <a href="https://hal.science/hal-01998148v1/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-01998148v1/document</a>  
 
 27. <a id="endnote-27"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1097212408/34](https://d-nb.info/1097212408/34)  
+   Link: <a href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1097212408/34</a>  
 
 28. <a id="endnote-28"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Implementation intention  
-   Link: [https://en.wikipedia.org/wiki/Implementation_intention](https://en.wikipedia.org/wiki/Implementation_intention)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation_intention</a>  
 
 30. <a id="endnote-30"></a>
    Source: get-alfred.ai  
    Title: implementation intentions  
-   Link: [https://get-alfred.ai/blog/implementation-intentions](https://get-alfred.ai/blog/implementation-intentions)  
+   Link: <a href="https://get-alfred.ai/blog/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/implementation-intentions</a>  
 
 31. <a id="endnote-31"></a>
    Source: thebehavioralscientist.com  
    Title: implementation intentions  
-   Link: [https://www.thebehavioralscientist.com/glossary/implementation-intentions](https://www.thebehavioralscientist.com/glossary/implementation-intentions)  
+   Link: <a href="https://www.thebehavioralscientist.com/glossary/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/glossary/implementation-intentions</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“If-then” [action plans](&amp;#123;&amp;#123; &#x27;action-plans/&#x27; | relative_url &amp;#125;&amp;#125;), whereby a link is forged between a cue and a subsequent behavioral response (Gollwitzer &amp; Brandstatter...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: What Is Implementation Intention For Building Habits?  
-   Link: [https://www.youtube.com/watch?v=tKVv5YlUcMI](https://www.youtube.com/watch?v=tKVv5YlUcMI)  
+   Link: <a href="https://www.youtube.com/watch?v=tKVv5YlUcMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tKVv5YlUcMI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Still Grading at 9 PM? The Science-Backed Strategy That Makes Teaching Sustainable...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GafhLu7myt8](https://www.youtube.com/watch?v=GafhLu7myt8)  
+   Link: <a href="https://www.youtube.com/watch?v=GafhLu7myt8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GafhLu7myt8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get Motivated With Implementation Intentions - YouTube...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Stop letting your goals fizzle out! Why implementation intentions unlock success  
-   Link: [https://www.youtube.com/watch?v=8PrpkJOGsms](https://www.youtube.com/watch?v=8PrpkJOGsms)  
+   Link: <a href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8PrpkJOGsms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Neuroscience Tricks That Actually Break Bad Habits...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: 5 Neuroscience Tricks That Actually Break Bad Habits  
-   Link: [https://www.youtube.com/watch?v=pVUzwwGUCZ8](https://www.youtube.com/watch?v=pVUzwwGUCZ8)  
+   Link: <a href="https://www.youtube.com/watch?v=pVUzwwGUCZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pVUzwwGUCZ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Implementation Intention For Building Habits? - The Time Management Pro...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: hbs.edu  
-   Link: [https://www.hbs.edu/ris/download.aspx?name=Rogers+et+al+-+Beyond+good+intentions.pdf](https://www.hbs.edu/ris/download.aspx?name=Rogers+et+al+-+Beyond+good+intentions.pdf)  
+   Link: <a href="https://www.hbs.edu/ris/download.aspx?name=Rogers+et+al+-+Beyond+good+intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/download.aspx?name=Rogers+et+al+-+Beyond+good+intentions.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf](https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: kaitlinwoolley.com  
-   Link: [https://kaitlinwoolley.com/wp-content/uploads/2017/08/fw-handbook-of-self-control-in-health.pdf](https://kaitlinwoolley.com/wp-content/uploads/2017/08/fw-handbook-of-self-control-in-health.pdf)  
+   Link: <a href="https://kaitlinwoolley.com/wp-content/uploads/2017/08/fw-handbook-of-self-control-in-health.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kaitlinwoolley.com/wp-content/uploads/2017/08/fw-handbook-of-self-control-in-health.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/papers/effects-of-temptation-inhibiting-and-task-facilitating-plans-4sla6in1z6](https://scispace.com/papers/effects-of-temptation-inhibiting-and-task-facilitating-plans-4sla6in1z6)  
+   Link: <a href="https://scispace.com/papers/effects-of-temptation-inhibiting-and-task-facilitating-plans-4sla6in1z6" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/effects-of-temptation-inhibiting-and-task-facilitating-plans-4sla6in1z6</a>  
 
 41. <a id="endnote-41"></a>
    Source: prospectivepsych.org  
-   Link: [https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf)  
+   Link: <a href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf</a>  

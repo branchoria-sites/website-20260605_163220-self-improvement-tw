@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-identity/
 description: Focused pages that expand on Identity.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_identity_vs_behaviou_8a31bf
 parent_title: Identity | Self Improvement That Works

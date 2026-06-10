@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:56:38'
 parent_title: How Defaults Quietly Shape Your Day | Better Change
 parent_permalink: /defaults/
 parent_nav_short_title: Defaults
@@ -259,7 +260,6 @@ prev_link:
   permalink: /payday-saving/
   short_title: Payday saving
   heading_title: Can payday defaults make saving less fragile?
-date: '2026-06-05 15:56:38 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_precommitment_choice_a385d5-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_precommitment_choice_a385d5-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_pre
 
 ## Introduction
 
-Pre-commitment is the practice of making a decision today that protects a goal tomorrow. Within [choice architecture]({{ 'defaults/' | relative_url }}), it is one of the most practical ways to reduce the gap between intentions and actions. Rather than relying on [willpower]({{ 'willpower/' | relative_url }}) when tired, stressed, hungry or distracted, a person arranges circumstances in advance so that the desired behaviour becomes easier and the unwanted behaviour becomes harder. Researchers in behavioural economics and psychology refer to these arrangements as commitment devices: voluntary constraints that help people follow through on plans they already endorse. Evidence from studies of saving, food choice, exercise, education and health behaviour suggests that well-designed pre-commitments can improve follow-through, especially when they are chosen freely and matched to predictable moments of weakness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24777472/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedCommitment devices: using initiatives to change behaviorby T Rogers · 2014 · Cited by 248 — Commitment devices: using initiatives t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: houdekpetr.cz">[Petr Houdek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">houdekpetr.cz</span><span class="citation-popover-title">Bryan et al 2010</span><span class="citation-popover-snippet">Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</span></span></span>
+Pre-commitment is the practice of making a decision today that protects a goal tomorrow. Within choice architecture, it is one of the most practical ways to reduce the gap between intentions and actions. Rather than relying on [willpower]({{ 'willpower/' | relative_url }}) when tired, stressed, hungry or distracted, a person arranges circumstances in advance so that the desired behaviour becomes easier and the unwanted behaviour becomes harder. Researchers in behavioural economics and psychology refer to these arrangements as commitment devices: voluntary constraints that help people follow through on plans they already endorse. Evidence from studies of [saving]({{ 'saving/' | relative_url }}), food choice, exercise, education and health behaviour suggests that well-designed pre-commitments can improve follow-through, especially when they are chosen freely and matched to predictable moments of weakness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24777472/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Commitment devices: using initiatives to change behaviorby T Rogers · 2014 · Cited by 248 — Commitment devices: using initiatives t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: houdekpetr.cz">[Petr Houdek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">houdekpetr.cz</span><span class="citation-popover-title">Bryan et al 2010</span><span class="citation-popover-snippet">Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_precommitment_choice_a385d5-Illustration-1-dark.svg" | relative_url }}" alt="Precommitment illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_precommitment_choice_a385d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_precommitment_choice_a385d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,7 +278,7 @@ The key idea is simple: your calmer self often knows more about your long-term i
 
 Many goals fail not because people change their values, but because preferences shift with circumstances. A plan made on Sunday evening can feel sensible and attractive. The same plan may feel inconvenient on Tuesday afternoon after poor sleep, unexpected stress or a demanding day.
 
-Behavioural economists describe this pattern as a form of present bias: immediate comfort or convenience gains weight when the decision moment arrives. Commitment devices exist because people often recognise this pattern in advance and willingly choose constraints to protect themselves from it. The classic logic is not that future selves are irrational, but that they face different incentives and emotions than the self making the original plan. Petr Houdek PubMed Research on precommitment repeatedly finds that people are often willing to restrict their future options when they anticipate a self-control <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Ulysses pact | Commitment Device</span><span class="citation-popover-snippet">Behavioural Economics - Commitment Contracts...</span></span></span> problem. Experimental studies suggest that offering a precommitment option can improve persistence on effortful tasks and help people align behaviour with longer-term goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Conquering the inner couch potato: precommitment is</span><span class="citation-popover-snippet">PMCby B Studer · 2018 · Cited by 28 — Our findings show that offering precommitment is effective in helping individuals optimize their mo...</span></span></span>
+Behavioural economists describe this pattern as a form of present bias: immediate comfort or convenience gains weight when the decision moment arrives. Commitment devices exist because people often recognise this pattern in advance and willingly choose constraints to protect themselves from it. The classic logic is not that future selves are irrational, but that they face different incentives and emotions than the self making the original plan. Petr Houdek PubMed Research on precommitment repeatedly finds that people are often willing to restrict their future options when they anticipate a self-control <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Ulysses pact &#124; Commitment Device</span><span class="citation-popover-snippet">Behavioural Economics - Commitment Contracts...</span></span></span> problem. Experimental studies suggest that offering a precommitment option can improve persistence on effortful tasks and help people align behaviour with longer-term goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Conquering the inner couch potato: precommitment is</span><span class="citation-popover-snippet">by B Studer · 2018 · Cited by 28 — Our findings show that offering precommitment is effective in helping individuals optimize their mo...</span></span></span>
 
 A useful test is to ask: “What decision do I repeatedly regret making in the moment?” That question often reveals where pre-commitment can be more effective than [motivation]({{ 'motivation/' | relative_url }}).
 
@@ -290,7 +290,7 @@ The most useful pre-commitments are often ordinary and low drama. They do not re
 
 Food choices illustrate the principle well. Hunger changes preferences. A shopping trip made without preparation can easily produce purchases that conflict with longer-term health goals.
 
-Studies of grocery-shopping commitment devices have found that people can improve purchasing patterns by making choices in advance and attaching consequences to deviations. Research on voluntary precommitment in grocery shopping showed that households could use commitment arrangements to encourage healthier purchasing behaviour. Other research suggests that predetermined shopping lists can reduce impulsive purchases and improve diet-related outcomes. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[PubMed In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Ulysses pact | Commitment Device</span><span class="citation-popover-snippet">Behavioural Economics - Commitment Contracts...</span></span></span>, this can mean:
+Studies of grocery-shopping commitment devices have found that people can improve purchasing patterns by making choices in advance and attaching consequences to deviations. Research on voluntary precommitment in grocery shopping showed that households could use commitment arrangements to encourage healthier purchasing behaviour. Other research suggests that predetermined shopping lists can reduce impulsive purchases and improve diet-related outcomes. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[PubMed In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Ulysses pact &#124; Commitment Device</span><span class="citation-popover-snippet">Behavioural Economics - Commitment Contracts...</span></span></span>, this can mean:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -348,7 +348,7 @@ Not all pre-commitments are equally strong. They exist on a spectrum.
 
 **Moderate pre-commitments** create meaningful friction:
 
-* [Website blockers]({{ 'blockers/' | relative_url }}).
+* Website [blockers]({{ 'blockers/' | relative_url }}).
 * App [limits]({{ 'limits/' | relative_url }}).
 * Automatic savings transfers.
 * Pre-booked appointments.
@@ -507,7 +507,7 @@ This approach reflects a broader principle of self-improvement that works: make 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -517,111 +517,36 @@ This approach reflects a broader principle of self-improvement that works: make 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for self-improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/bmIAAeSw2Cpp2SCe/s-l225.jpg" alt="Listing image for self-improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">self-improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor"><img src="{{ '/assets/images/marketplace-covers/52187ef8dec8406613eb.jpg' | relative_url }}" alt="Listing image for Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -629,15 +554,15 @@ This approach reflects a broader principle of self-improvement that works: make 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Door sign Motivation Believe wall art - Inspirational - Believe"><img src="{{ '/assets/images/marketplace-covers/4b71aef576e2e7d39c10.jpg' | relative_url }}" alt="Listing image for Door sign Motivation Believe wall art - Inspirational - Believe" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ipEAAeSwAURo2BWF/s-l225.jpg" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Door sign Motivation Believe wall art - Inspirational - Believe</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -645,15 +570,15 @@ This approach reflects a broader principle of self-improvement that works: make 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational"><img src="{{ '/assets/images/marketplace-covers/cebd065b81dcca9ed53e.jpg' | relative_url }}" alt="Listing image for Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Hack Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lCMAAeSwLwhpiOC6/s-l225.jpg" alt="Listing image for Self Improvement Hack Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Hack Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -661,15 +586,15 @@ This approach reflects a broader principle of self-improvement that works: make 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Wooden Wall Decor Bible Verse Plaques Hanging Christian Sign"><img src="{{ '/assets/images/marketplace-covers/aa8b82863a40bb1df681.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Wooden Wall Decor Bible Verse Plaques Hanging Christian Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/e38AAeSw~F5p2SCc/s-l225.jpg" alt="Listing image for Self Improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Wooden Wall Decor Bible Verse Plaques Hanging Christian Sign</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -677,7 +602,7 @@ This approach reflects a broader principle of self-improvement that works: make 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=precommitment-let-your-calmer-self-choose-first-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="let-your-calmer-self-choose-first-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -754,17 +679,31 @@ This approach reflects a broader principle of self-improvement that works: make 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -777,42 +716,73 @@ This approach reflects a broader principle of self-improvement that works: make 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -827,132 +797,136 @@ This approach reflects a broader principle of self-improvement that works: make 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: economics.yale.edu  
    Title: Department of Economics When Commitment Fails – Evidence from a Field Experiment  
-   Link: [https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf](https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf)  
+   Link: <a href="https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale Department of EconomicsWhen Commitment Fails – Evidence from a Field ExperimentApril 1, 2018 — by A JOHN · 2018 · Cited by 138 — Emp...</p></details>
    Published: April 1, 2018  
 
 2. <a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/scan/article/19/1/nsae093/7919776](https://academic.oup.com/scan/article/19/1/nsae093/7919776)  
+   Link: <a href="https://academic.oup.com/scan/article/19/1/nsae093/7919776" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/scan/article/19/1/nsae093/7919776</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicThe effectiveness of revocable precommitment strategies in...by D Wang · 2024 · Cited by 2 — This study aimed to explore the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/qopen/article/5/2/qoaf028/8293232](https://academic.oup.com/qopen/article/5/2/qoaf028/8293232)  
+   Link: <a href="https://academic.oup.com/qopen/article/5/2/qoaf028/8293232" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/qopen/article/5/2/qoaf028/8293232</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>incentivized study in online grocery shopping | Q Openby LZH Jansen · 2025 — Precommitment to a health goal makes consumers more cognitiv...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Ulysses pact | Commitment Device  
-   Link: [https://www.youtube.com/watch?v=HFcqu7ai69Y](https://www.youtube.com/watch?v=HFcqu7ai69Y)  
+   Link: <a href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFcqu7ai69Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Commitment Contracts...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Behavioural Economics  
-   Link: [https://www.youtube.com/watch?v=bRbJtvg9AzI](https://www.youtube.com/watch?v=bRbJtvg9AzI)  
+   Link: <a href="https://www.youtube.com/watch?v=bRbJtvg9AzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bRbJtvg9AzI</a>  
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24777472/](https://pubmed.ncbi.nlm.nih.gov/24777472/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedCommitment devices: using initiatives to change behaviorby T Rogers · 2014 · Cited by 248 — Commitment devices: using initiatives t...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24777472/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24777472/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment devices: using initiatives to change behaviorby T Rogers · 2014 · Cited by 248 — Commitment devices: using initiatives t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: houdekpetr.cz  
    Title: Bryan et al 2010  
-   Link: [https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf](https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf)  
+   Link: <a href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: repository.upenn.edu  
    Title: For health professionals and patients to get  
-   Link: [https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download](https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download)  
+   Link: <a href="https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download" target="_blank" rel="noopener noreferrer nofollow">https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Penn RepositoryCommitment Devices Using Initiatives to Change Behaviorby T Rogers · 2014 · Cited by 242 — Commitment devices may be power...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Conquering the inner couch potato: precommitment is  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Studer · 2018 · Cited by 28 — Our findings show that offering precommitment is effective in helping individuals optimize their mo...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Studer · 2018 · Cited by 28 — Our findings show that offering precommitment is effective in helping individuals optimize their mo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24390824/](https://pubmed.ncbi.nlm.nih.gov/24390824/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24390824/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24390824/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by Precommitmentby J Schwartz · 2014 · Cited by 199 — We tested a voluntary self-control commitment device to help grocery shoppers make...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aeaweb.org  
-   Link: [https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288](https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288)  
+   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationSoft Commitments, Reminders, and Academic Performanceby O Himmler · 2019 · Cited by 104 — We provide first e...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: ncn.gov.pl  
-   Link: [https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/649594-en.pdf](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/649594-en.pdf)  
+   Link: <a href="https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/649594-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/649594-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral economics of commitment devicesWe will examine two types of commitment devices.... The results will be shared through scienti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/behavior-design-hub/your-commitment-devices-database-35a54df3a64f](https://medium.com/behavior-design-hub/your-commitment-devices-database-35a54df3a64f)  
+   Link: <a href="https://medium.com/behavior-design-hub/your-commitment-devices-database-35a54df3a64f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/behavior-design-hub/your-commitment-devices-database-35a54df3a64f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment Devices — Your Ultimate GuideCommitment Devices has two main components. Firstly, it&#x27;s a voluntary choice you make in the pres...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/precommitment](https://thedecisionlab.com/reference-guide/psychology/precommitment)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/precommitment" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/precommitment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PrecommitmentPrecommitment is a strategy to ensure we reach the goals we set out for ourselves. It is employed by various businesses to e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: povertyactionlab.org  
-   Link: [https://www.povertyactionlab.org/sites/default/files/research-paper/WP6340_Appointments-a-more-effective-commitment-device-for-health-behaviors-in-Malawi_Kerwin-et-al_Feb2024.pdf](https://www.povertyactionlab.org/sites/default/files/research-paper/WP6340_Appointments-a-more-effective-commitment-device-for-health-behaviors-in-Malawi_Kerwin-et-al_Feb2024.pdf)  
+   Link: <a href="https://www.povertyactionlab.org/sites/default/files/research-paper/WP6340_Appointments-a-more-effective-commitment-device-for-health-behaviors-in-Malawi_Kerwin-et-al_Feb2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.povertyactionlab.org/sites/default/files/research-paper/WP6340_Appointments-a-more-effective-commitment-device-for-health-behaviors-in-Malawi_Kerwin-et-al_Feb2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We show that ordinary appointments can act as effective substitutes for hard com- mitment devices and increase demand for a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: data4impactproject.org  
    Title: They are ways to 'lock ourselves' into a behavior, often by selecting a penalty  
-   Link: [https://www.data4impactproject.org/blog/from-intentions-to-actions-using-commitment-devices-for-evidence-use/](https://www.data4impactproject.org/blog/from-intentions-to-actions-using-commitment-devices-for-evidence-use/)  
+   Link: <a href="https://www.data4impactproject.org/blog/from-intentions-to-actions-using-commitment-devices-for-evidence-use/" target="_blank" rel="noopener noreferrer nofollow">https://www.data4impactproject.org/blog/from-intentions-to-actions-using-commitment-devices-for-evidence-use/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Intentions to Actions – Using Commitment Devices for...Commitment devices help us stick to a goal, even when it is tempting not to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
    Title: We conduct a field experiment to evaluate the effectiveness of different  
-   Link: [https://www.researchgate.net/publication/386308436_People_do_not_demand_commitment_devices_because_they_might_not_work](https://www.researchgate.net/publication/386308436_People_do_not_demand_commitment_devices_because_they_might_not_work)  
+   Link: <a href="https://www.researchgate.net/publication/386308436_People_do_not_demand_commitment_devices_because_they_might_not_work" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386308436_People_do_not_demand_commitment_devices_because_they_might_not_work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>People do not demand commitment devices because they...Behavioral economics offers a tool to solve such problems: commitment devices...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hsag.co.za  
-   Link: [https://hsag.co.za/index.php/hsag/article/view/2750/5404](https://hsag.co.za/index.php/hsag/article/view/2750/5404)  
+   Link: <a href="https://hsag.co.za/index.php/hsag/article/view/2750/5404" target="_blank" rel="noopener noreferrer nofollow">https://hsag.co.za/index.php/hsag/article/view/2750/5404</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-reported meal planning practices among households...by LJ Ncube · 2024 — The study aims to assess meal planning practices in househ...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: behavioraleconomics.com  
    Title: Behavioral Economics.com | The BE Hub Commitment  
-   Link: [https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/commitment/](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/commitment/)  
+   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/commitment/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/commitment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubCommitment - BehavioralEconomics.com | The BE HubDec 4, 2024 — Commitments (see also precommitment) are often used as a tool to...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/commitment-devices-that-help-you-stick-to-goals/](https://goalsandprogress.com/commitment-devices-that-help-you-stick-to-goals/)  
+   Link: <a href="https://goalsandprogress.com/commitment-devices-that-help-you-stick-to-goals/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/commitment-devices-that-help-you-stick-to-goals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You set a goal, you mean it, and for a few weeks you follow...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: workmate.com  
    Title: Accountability partnerships: activate social  
-   Link: [https://www.workmate.com/blog/commitment-devices-vs-accountability-partners-which-works](https://www.workmate.com/blog/commitment-devices-vs-accountability-partners-which-works)  
+   Link: <a href="https://www.workmate.com/blog/commitment-devices-vs-accountability-partners-which-works" target="_blank" rel="noopener noreferrer nofollow">https://www.workmate.com/blog/commitment-devices-vs-accountability-partners-which-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment Devices vs Accountability Partners: Which Works?Commitment devices: leverage pre-commitment, loss aversion, and friction to pr...</p></details>

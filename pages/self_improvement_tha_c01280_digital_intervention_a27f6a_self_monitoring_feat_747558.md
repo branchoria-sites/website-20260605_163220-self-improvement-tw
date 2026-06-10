@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:12:15'
 parent_title: What Makes a Self Improvement App Useful? | Better Change
 parent_permalink: /digital-tools/
 parent_nav_short_title: Digital Tools
@@ -259,7 +260,6 @@ prev_link:
   permalink: /streaks-78cd9d/
   short_title: Streaks
   heading_title: Do streaks motivate or set you up to quit?
-date: '2026-06-05 16:12:15 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-1.webp
@@ -276,9 +276,9 @@ For self-improvement, this distinction matters. The question is not whether trac
 
 ## When does tracking actually change a habit?
 
-Self-monitoring works through awareness. People are often poor judges of their own behaviour patterns. Someone may believe they study regularly, exercise enough, or spend only occasionally on impulse purchases until a record reveals what is actually happening. Tracking makes invisible behaviour visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIA Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 38 — Users can track their own behavior...</span></span></span>
+Self-monitoring works through awareness. People are often poor judges of their own behaviour patterns. Someone may believe they study regularly, exercise enough, or spend only occasionally on impulse purchases until a record reveals what is actually happening. Tracking makes invisible behaviour visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 38 — Users can track their own behavior...</span></span></span>
 
-However, awareness alone is only the first step. Habit formation depends on repeated behaviour in consistent contexts over time. Tracking becomes useful when it helps people identify where repetition is succeeding or failing and why. Research on digital habit-formation interventions shows that self-monitoring is commonly paired with goal setting, prompts, cues, and [feedback]({{ 'feedback/' | relative_url }}) because these components help convert awareness into action. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+However, awareness alone is only the first step. Habit formation depends on repeated behaviour in consistent contexts over time. Tracking becomes useful when it helps people identify where repetition is succeeding or failing and why. Research on digital habit-formation interventions shows that self-monitoring is commonly paired with goal setting, prompts, cues, and [feedback]({{ 'feedback/' | relative_url }}) because these components help convert awareness into action. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 Consider three versions of the same walking app:
 
@@ -291,9 +291,9 @@ Consider three versions of the same walking app:
 
 </div>
 
-Only the third version clearly links observation to behaviour change. The data points toward a specific adjustment rather than merely documenting performance.
+Only the third version clearly links observation to [behaviour change]({{ 'behaviour-change/' | relative_url }}). The data points toward a specific adjustment rather than merely documenting performance.
 
-This pattern appears repeatedly across reviews of [digital interventions]({{ 'digital-tools/' | relative_url }}). Self-monitoring is most useful when combined with feedback that helps users interpret their data and decide what to do next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerImpact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+This pattern appears repeatedly across reviews of digital interventions. Self-monitoring is most useful when combined with feedback that helps users interpret their data and decide what to do next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 ## What self-monitoring can reveal
 
@@ -315,16 +315,16 @@ A daily total often tells less than the circumstances surrounding it. For exampl
 
 These observations create opportunities for targeted changes. Rather than trying to improve everything at once, the user can focus on a recurring trigger, barrier, or opportunity.
 
-Digital interventions increasingly use automatic monitoring through sensors, [wearables]({{ 'wearables/' | relative_url }}), timers, and passive data collection because reducing the effort required to track behaviour increases the likelihood that monitoring continues long enough to reveal useful patterns. Reviews of habit-focused digital interventions identify automatic monitoring as one of the most commonly used implementation methods. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+Digital interventions increasingly use automatic monitoring through sensors, [wearables]({{ 'wearables/' | relative_url }}), timers, and passive data collection because reducing the effort required to track behaviour increases the likelihood that monitoring continues long enough to reveal useful patterns. Reviews of habit-focused digital interventions identify automatic monitoring as one of the most commonly used implementation methods. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DPRnrZH6weU" title="5 Ways to Actually Make Your Habits Stick (Evidence-Based)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer">5 Ways to Actually Make Your Habits Stick (Evidence-Based)</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 136.3K &middot; Uploaded: January 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DPRnrZH6weU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uUbHGWQYCPg" title="Self Monitoring Technique | Cognitive Behavioral Therapy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uUbHGWQYCPg" target="_blank" rel="noopener noreferrer">Self Monitoring Technique | Cognitive Behavioral Therapy</a></p><p class="youtube-embed-meta">Channel: Treasure Of Psychology &middot; Views: 282 &middot; Uploaded: December 2024 &middot; Length: 2 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uUbHGWQYCPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uUbHGWQYCPg">Open on YouTube</a></p></div></div></div>
 
 ### Progress before results
 
-Many habits produce delayed [rewards]({{ 'rewards/' | relative_url }}). Exercise may not change appearance quickly. Saving money may not feel immediately rewarding. Learning a language may show little [visible progress]({{ 'visible-records/' | relative_url }}) for weeks.
+Many habits produce delayed [rewards]({{ 'rewards/' | relative_url }}). Exercise may not change appearance quickly. [Saving]({{ 'saving/' | relative_url }}) money may not feel immediately rewarding. Learning a language may show little visible progress for weeks.
 
-Tracking can provide evidence that the process is working even when the ultimate outcome has not yet arrived. Recording completed workouts, study sessions, savings deposits, or sleep consistency creates a visible record of repetition. This matters because habit formation typically develops gradually over months rather than days. Recent reviews suggest that automaticity often takes substantially longer than popular "21-day habit" claims imply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+Tracking can provide evidence that the process is working even when the ultimate outcome has not yet arrived. Recording completed workouts, study sessions, savings deposits, or sleep consistency creates a visible record of repetition. This matters because habit formation typically develops gradually over months rather than days. Recent reviews suggest that automaticity often takes substantially longer than popular "21-day habit" claims imply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 In this role, tracking acts less like a scorecard and more like a reminder that the behaviour is occurring consistently enough for habit formation to develop.
 
@@ -354,7 +354,7 @@ A useful rule is that every tracked metric should answer a practical question. I
 
 The strongest self-monitoring features do not stop at measurement. They shorten the distance between observation and action.
 
-Research reviews examining feedback systems consistently highlight the importance of how feedback is generated and presented. Feedback is not merely additional information. It is the mechanism that helps users interpret self-monitoring data and choose a response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerImpact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span>
+Research reviews examining feedback systems consistently highlight the importance of how feedback is generated and presented. Feedback is not merely additional information. It is the mechanism that helps users interpret self-monitoring data and choose a response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span>
 
 The most useful designs typically answer one of three questions:
 
@@ -367,7 +367,7 @@ Example:
 "Your average bedtime moved 45 minutes later this week."
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uUbHGWQYCPg" title="Self Monitoring Technique | Cognitive Behavioral Therapy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uUbHGWQYCPg" target="_blank" rel="noopener noreferrer">Self Monitoring Technique | Cognitive Behavioral Therapy</a></p><p class="youtube-embed-meta">Channel: Treasure Of Psychology &middot; Views: 282 &middot; Uploaded: December 2024 &middot; Length: 2 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uUbHGWQYCPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uUbHGWQYCPg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ud2r4InG4K0" title="Developing A Behaviour Change App | Case Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ud2r4InG4K0" target="_blank" rel="noopener noreferrer">Developing A Behaviour Change App | Case Study</a></p><p class="youtube-embed-meta">Channel: SmartDev - AI Powered Software Development &middot; Views: 49 &middot; Uploaded: March 2025 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ud2r4InG4K0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ud2r4InG4K0">Open on YouTube</a></p></div></div></div>
 
 ### Why might it have happened?
 
@@ -401,12 +401,12 @@ Across digital behaviour-change research, several self-monitoring features appea
 * **Personalised feedback** that interprets data instead of simply displaying it.
 * **Goal-linked monitoring** that shows progress toward a meaningful target.
 * **Context-sensitive summaries** that identify when and where behaviours occur.
-* **Action suggestions** that translate insights into the next repeatable step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> [3MDPI 3JMIR]
+* **Action suggestions** that translate insights into the next repeatable step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> [3MDPI 3JMIR]
 
 Notably, none of these features depend on collecting the maximum possible amount of information. Their value comes from reducing uncertainty about what to do next.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yhLHfPZEKgU" title="360 ‒ How to change your habits: why they form and how to build or break them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer">360 ‒ How to change your habits: why they form and how to build or break them</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 85.5K &middot; Uploaded: August 2025 &middot; Length: 2 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yhLHfPZEKgU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O8AP3EkOohk" title="The Best Tools for Behavior Change and Healthy Lifestyle Tracking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O8AP3EkOohk" target="_blank" rel="noopener noreferrer">The Best Tools for Behavior Change and Healthy Lifestyle Tracking</a></p><p class="youtube-embed-meta">Channel: MD Newsline &middot; Views: 22 &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O8AP3EkOohk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O8AP3EkOohk">Open on YouTube</a></p></div></div></div>
 
 ## The practical lesson
 
@@ -414,7 +414,7 @@ Tracking changes habits when it supports self-regulation rather than surveillanc
 
 A step count becomes useful when it reveals inactive days that need a walking cue. A spending log becomes useful when it exposes a recurring trigger for impulse purchases. A study tracker becomes useful when it identifies the conditions under which learning actually happens.
 
-The strongest self-monitoring systems therefore act less like archives and more like mirrors. They reflect behaviour clearly enough that a person can recognise a pattern, understand its significance, and take the next small action that keeps a habit moving forward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIImplementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 4 — Examples of these practical strategies that can be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerImpact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span>
+The strongest self-monitoring systems therefore act less like archives and more like mirrors. They reflect behaviour clearly enough that a person can recognise a pattern, understand its significance, and take the next small action that keeps a habit moving forward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 4 — Examples of these practical strategies that can be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -502,228 +502,450 @@ The strongest self-monitoring systems therefore act less like archives and more 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open habit tracker board on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20habit%20tracker%20board%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EHabit%20Tracker%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EBoard%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EHabit%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETracker%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EBoard%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for habit tracker board on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">habit tracker board</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Habit</span><span class="fr-search-tag">Tracker</span><span class="fr-search-tag">Board</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Hero A4 Tear Off Pad"><img src="https://i.ebayimg.com/images/g/SrkAAeSwBUJo0Se7/s-l225.jpg" alt="Listing image for Habit Tracker Hero A4 Tear Off Pad" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Hero A4 Tear Off Pad</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-when-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open when poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20when%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWhen%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWhen%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for when poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">when poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">When</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-when-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List"><img src="https://i.ebayimg.com/images/g/P-cAAOSwFExkVm3h/s-l225.jpg" alt="Listing image for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-when-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open when memorabilia on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20when%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWhen%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWhen%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for when memorabilia on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">when memorabilia</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">When</span><span class="fr-search-tag">Memorabilia</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-when-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review"><img src="https://i.ebayimg.com/images/g/eBAAAeSwAS9omOvh/s-l225.jpg" alt="Listing image for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=does+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-does-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open does poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20does%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDoes%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDoes%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for does poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">does poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Does</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=does+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-does-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sugar And Sloth | Self care Bundle | X2 Pins + Habit Tracker + letter paper"><img src="https://i.ebayimg.com/images/g/DlsAAeSwaERqEDbo/s-l225.jpg" alt="Listing image for Sugar And Sloth | Self care Bundle | X2 Pins + Habit Tracker + letter paper" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Sugar And Sloth | Self care Bundle | X2 Pins + Habit Tracker + letter paper</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-b66496-when-does-tracking-actually-change-a-habit-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
     </div>
   </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e54375/](https://www.jmir.org/2024/1/e54375/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 58 — The results show that the most applied beha...</p></details>
+   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 58 — The results show that the most applied beha...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1424-8220/24/8/2429](https://www.mdpi.com/1424-8220/24/8/2429)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIA Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 38 — Users can track their own behavior...</p></details>
+   Link: <a href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/8/2429</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 38 — Users can track their own behavior...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1660-4601/22/7/1133](https://www.mdpi.com/1660-4601/22/7/1133)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIImplementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 4 — Examples of these practical strategies that can be...</p></details>
+   Link: <a href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/22/7/1133</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 4 — Examples of these practical strategies that can be...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-023-01555-6](https://link.springer.com/article/10.1186/s12966-023-01555-6)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerImpact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 5 — The most common behavior change techniques were 2.2 fee...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 67 — The meta-analysis showed significant...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 67 — The meta-analysis showed significant...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants](https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants)  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSmall changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit f...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit f...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-9032/12/23/2488](https://www.mdpi.com/2227-9032/12/23/2488)  
+   Link: <a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 68 — Practitioners should counsel patients on the exte...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: Digital Behavior Change Intervention Designs for Habit  
-   Link: [https://www.researchgate.net/publication/380854529_Digital_Behavior_Change_Intervention_Designs_for_Habit_Formation_Systematic_Review](https://www.researchgate.net/publication/380854529_Digital_Behavior_Change_Intervention_Designs_for_Habit_Formation_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/380854529_Digital_Behavior_Change_Intervention_Designs_for_Habit_Formation_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380854529_Digital_Behavior_Change_Intervention_Designs_for_Habit_Formation_Systematic_Review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2024 — The results show that the most applied behavior change techniques were the self-monitoring of behavior, goal setting, and...</p></details>
    Published: May 24, 2024  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change](https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change)  
+   Link: <a href="https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nge interventions, drawing on the most methodologically and...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391233961_The_Impact_of_Dedicated_Mobile_Apps_on_Habit_Formation_A_Systematic_Review](https://www.researchgate.net/publication/391233961_The_Impact_of_Dedicated_Mobile_Apps_on_Habit_Formation_A_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/391233961_The_Impact_of_Dedicated_Mobile_Apps_on_Habit_Formation_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391233961_The_Impact_of_Dedicated_Mobile_Apps_on_Habit_Formation_A_Systematic_Review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Dedicated Mobile Apps on Habit Formation28 Apr 2025 — The results show that the most applied behavior change techniques wer...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e54375/citations](https://www.jmir.org/2024/1/e54375/citations)  
+   Link: <a href="https://www.jmir.org/2024/1/e54375/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/citations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...24 May 2024 — Digital Behavior Change Intervention Designs for Habit Formation...</p></details>
    Published: May 2024  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38787601/](https://pubmed.ncbi.nlm.nih.gov/38787601/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38787601/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 70 — The aim of this systematic review was t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39088817/](https://pubmed.ncbi.nlm.nih.gov/39088817/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39088817/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39088817/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques Within Digital Interventions...by PC Thomas · 2024 · Cited by 14 — This study aims to define the BCTs within digital s...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts](https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change and Habit Formation in Health ContextsBehaviour change and habit formation lie at the heart of promoting and sustaining h...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/digital](https://www.merriam-webster.com/dictionary/digital)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/digital" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/digital</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DIGITAL Definition &amp; Meaning6 days ago — The [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of DIGITAL is of, relating to, or utilizing devices constructed or working by the me...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: healthline.com  
-   Link: [https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit](https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit)  
+   Link: <a href="https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: How Long It Takes and How to Start NowIt can take anywhere from 18 to 254 days for a person to form a new habit and an a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ijsmsjournal.org  
-   Link: [https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf](https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf)  
+   Link: <a href="https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: research.polyu.edu.hk  
    Title: digital behavior change intervention designs for habit formation  
-   Link: [https://research.polyu.edu.hk/en/publications/digital-behavior-change-intervention-designs-for-habit-formation-/](https://research.polyu.edu.hk/en/publications/digital-behavior-change-intervention-designs-for-habit-formation-/)  
+   Link: <a href="https://research.polyu.edu.hk/en/publications/digital-behavior-change-intervention-designs-for-habit-formation-/" target="_blank" rel="noopener noreferrer nofollow">https://research.polyu.edu.hk/en/publications/digital-behavior-change-intervention-designs-for-habit-formation-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PolyU Scholars HubDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 57 — The results show that the mos...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: success.com  
-   Link: [https://www.success.com/success-edge/the-identity-trap](https://www.success.com/success-edge/the-identity-trap)  
+   Link: <a href="https://www.success.com/success-edge/the-identity-trap" target="_blank" rel="noopener noreferrer nofollow">https://www.success.com/success-edge/the-identity-trap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Identity Trap: Why Your Brain Won&#x27;t Let You Build...1 day ago — Implementation intentions must bridge the gap between identity and a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S027795362500930X](https://www.sciencedirect.com/science/article/pii/S027795362500930X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362500930X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362500930X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating behavioural change: insights from prompts self...by ES Collier · 2025 — Do automated digital health behaviour change interven...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/13153395](https://pmc.ncbi.nlm.nih.gov/articles/13153395)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/13153395" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/13153395</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques in Digital Health Interventions...A systematic review of internet-based self-help therapeutic interventions to improve...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Digital-Behavior-Change-Intervention-Designs-for-Zhu-Long/31fd298628af87ecfa1cfe1b9e952ff62cf38450](https://www.semanticscholar.org/paper/Digital-Behavior-Change-Intervention-Designs-for-Zhu-Long/31fd298628af87ecfa1cfe1b9e952ff62cf38450)  
+   Link: <a href="https://www.semanticscholar.org/paper/Digital-Behavior-Change-Intervention-Designs-for-Zhu-Long/31fd298628af87ecfa1cfe1b9e952ff62cf38450" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Digital-Behavior-Change-Intervention-Designs-for-Zhu-Long/31fd298628af87ecfa1cfe1b9e952ff62cf38450</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r change techniques, types of habit formation techniques...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2026.2626493](https://www.tandfonline.com/doi/full/10.1080/08870446.2026.2626493)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2026.2626493" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2026.2626493</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants and strategies of self-reported habit...by R Edgren · 2026 · Cited by 1 — Theorised person related determinants of habit fo...</p></details>

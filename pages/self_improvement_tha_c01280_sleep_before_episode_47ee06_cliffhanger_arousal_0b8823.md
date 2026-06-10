@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_cl
 
 ## Introduction
 
-The most sleep-disruptive part of late-night viewing is often not the screen itself but the story that continues running in your mind after the screen is off. A cliffhanger creates an unfinished cognitive task: the mystery is unresolved, the danger is not over, and the brain has not received a satisfying stopping point. Research on binge viewing suggests that this mental activation—known as cognitive pre-sleep arousal—is one of the main pathways linking late-night viewing with poorer sleep quality, fatigue and insomnia symptoms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">JCSMBinge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
+The most sleep-disruptive part of late-night viewing is often not the screen itself but the story that continues running in your mind after the screen is off. A cliffhanger creates an unfinished cognitive task: the mystery is unresolved, the danger is not over, and the brain has not received a satisfying stopping point. Research on binge viewing suggests that this mental activation—known as cognitive pre-sleep arousal—is one of the main pathways linking late-night viewing with poorer sleep quality, fatigue and insomnia symptoms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_cliffhanger_arousal_0b8823-Illustration-1-dark.svg" | relative_url }}" alt="Cliffhangers illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_cliffhanger_arousal_0b8823-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_cliffhanger_arousal_0b8823-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,10 +296,10 @@ Cognitive pre-sleep arousal refers to heightened mental activity when you are tr
 
 These are not necessarily stressful thoughts, but they are engaging thoughts. The brain remains involved in the narrative rather than transitioning into the low-demand mental state that supports sleep.
 
-The influential 2017 study on binge viewing and sleep found that cognitive pre-sleep arousal helped explain why frequent binge viewers reported poorer sleep quality, more fatigue and more insomnia symptoms. Importantly, ordinary television viewing did not show the same pattern. The issue appeared to be the highly engaging, immersive style of viewing rather than television as a medium. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">JCSMBinge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
+The influential 2017 study on binge viewing and sleep found that cognitive pre-sleep arousal helped explain why frequent binge viewers reported poorer sleep quality, more fatigue and more insomnia symptoms. Importantly, ordinary television viewing did not show the same pattern. The issue appeared to be the highly engaging, immersive style of viewing rather than television as a medium. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_2fHG8Icuw" title="How binge watching TV affects your sleep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer">How binge watching TV affects your sleep</a></p><p class="youtube-embed-meta">Channel: Quartz &middot; Views: 10.4K &middot; Uploaded: September 2017 &middot; Length: 3 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_2fHG8Icuw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/750CoCKG94I" title="Can&#x27;t Sleep Through The Night? Dr. Oz And Dr. Breus Share a 10 Day Reset | Oz Wellness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=750CoCKG94I" target="_blank" rel="noopener noreferrer">Can&#x27;t Sleep Through The Night? Dr. Oz And Dr. Breus Share a 10 Day Reset | Oz Wellness</a></p><p class="youtube-embed-meta">Channel: DoctorOz &middot; Views: 1.6K &middot; Uploaded: March 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=750CoCKG94I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=750CoCKG94I">Open on YouTube</a></p></div></div></div>
 
 ## Why Suspense Differs From Calm Viewing
 
@@ -329,7 +329,7 @@ This differs from passive entertainment consumption. A cliffhanger recruits anti
 
 The relationship between cliffhangers and sleep is more nuanced than popular advice sometimes suggests.
 
-The 2017 binge-viewing research found meaningful associations between binge viewing, poorer sleep and cognitive pre-sleep arousal. Those findings helped establish mental activation as a plausible mechanism linking viewing habits to sleep difficulties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">JCSMBinge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
+The 2017 binge-viewing research found meaningful associations between binge viewing, poorer sleep and cognitive pre-sleep arousal. Those findings helped establish mental activation as a plausible mechanism linking viewing habits to sleep difficulties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
 
 However, a 2023 sleep-laboratory study produced a more qualified result. Researchers found that watching suspenseful television and cliffhanger endings before bed had only minor effects on objective sleep architecture in healthy young adults. The participants did not experience dramatic deterioration in measurable sleep stages. Nevertheless, the study still detected subtler changes in sleep-related brain activity associated with suspenseful viewing. ScienceDirect PubMed This distinction is important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span>
 
@@ -340,7 +340,7 @@ The evidence does not [support]({{ 'support/' | relative_url }}) a simplistic cl
 If protecting sleep is the goal, the most effective change may be selecting a better stopping point rather than abandoning evening viewing altogether.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/750CoCKG94I" title="Can&#x27;t Sleep Through The Night? Dr. Oz And Dr. Breus Share a 10 Day Reset | Oz Wellness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=750CoCKG94I" target="_blank" rel="noopener noreferrer">Can&#x27;t Sleep Through The Night? Dr. Oz And Dr. Breus Share a 10 Day Reset | Oz Wellness</a></p><p class="youtube-embed-meta">Channel: DoctorOz &middot; Views: 1.6K &middot; Uploaded: March 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=750CoCKG94I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=750CoCKG94I">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_2fHG8Icuw" title="How binge watching TV affects your sleep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer">How binge watching TV affects your sleep</a></p><p class="youtube-embed-meta">Channel: Quartz &middot; Views: 10.4K &middot; Uploaded: September 2017 &middot; Length: 3 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_2fHG8Icuw">Open on YouTube</a></p></div></div></div>
 
 ### Stop Before the Cliffhanger, Not After It
 
@@ -376,7 +376,7 @@ A short buffer between viewing and sleep allows the mind to shift away from the 
 
 The strongest clue is often personal experience.
 
-If you regularly find yourself replaying plot twists, imagining future episodes or feeling compelled to search for explanations after turning off the television, you are probably experiencing exactly the kind of cognitive pre-sleep arousal that sleep researchers describe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Furthermore, a higher frequency of binge</span><span class="citation-popover-snippet">ScienceDirectPre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — In a recent survey by Exelmans a...</span></span></span>
+If you regularly find yourself replaying plot twists, imagining future episodes or feeling compelled to search for explanations after turning off the television, you are probably experiencing exactly the kind of cognitive pre-sleep arousal that sleep researchers describe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Furthermore, a higher frequency of binge</span><span class="citation-popover-snippet">Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — In a recent survey by Exelmans a...</span></span></span>
 
 For those viewers, the practical lesson is simple: the safest final episode is usually not the most exciting one. It is the one that lets the story end before your attempt to sleep begins.
 
@@ -805,154 +805,154 @@ For those viewers, the practical lesson is simple: the safest final episode is u
 
 1. <a id="endnote-1"></a>
    Source: jcsm.aasm.org  
-   Link: [https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704](https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JCSMBinge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) was assoc...</p></details>
+   Link: <a href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow">https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) was assoc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: Furthermore, a higher frequency of binge  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1389945723000072](https://www.sciencedirect.com/science/article/pii/S1389945723000072)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectPre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — In a recent survey by Exelmans a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945723000072</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — In a recent survey by Exelmans a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010440X21000493](https://www.sciencedirect.com/science/article/pii/S0010440X21000493)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010440X21000493" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010440X21000493</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating racing thoughts in insomnia: A neglected...by L Weiner · 2021 · Cited by 21 — Racing thoughts, not only rumination and wor...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1389945724005057](https://www.sciencedirect.com/science/article/abs/pii/S1389945724005057)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1389945724005057" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1389945724005057</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insomnia with objective short sleep duration appears to have higher 24-h cortical arousal level.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S1389945723000072](https://www.sciencedirect.com/science/article/am/pii/S1389945723000072)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S1389945723000072</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — Following Exelmans and Van den Bulck (2017)...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28728618/](https://pubmed.ncbi.nlm.nih.gov/28728618/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28728618/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28728618/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing frequency was associated with a poorer sleep quality, increased fat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Sleep-Related Arousal Versus General Cognitive  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3407262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3407262/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby K Spiegelhalder · 2012 · Cited by 57 — Compared to healthy controls, primary insomnia patients showed both more sleep-related...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3407262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3407262/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby K Spiegelhalder · 2012 · Cited by 57 — Compared to healthy controls, primary insomnia patients showed both more sleep-related...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32247571/](https://pubmed.ncbi.nlm.nih.gov/32247571/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32247571/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32247571/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive arousal is associated with objective sleep...by DA Kalmbach · 2020 · Cited by 109 — Heightened cognitive arousal at night is l...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36701833/](https://pubmed.ncbi.nlm.nih.gov/36701833/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36701833/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36701833/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, watching suspenseful TV series before sleep is not recommended as they increase arousal...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia](https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia)  
+   Link: <a href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sleepfoundation.org  
    Title: anxiety and sleep  
-   Link: [https://www.sleepfoundation.org/mental-health/anxiety-and-sleep](https://www.sleepfoundation.org/mental-health/anxiety-and-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/mental-health/anxiety-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/mental-health/anxiety-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationAnxiety and Sleep9 Oct 2025 — Common symptoms include racing thoughts at night, difficulty relaxing, frequent awakenings...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Sleep](https://en.wikipedia.org/wiki/Sleep)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sleep" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SleepSleep is a state of reduced mental and physical activity in which consciousness is altered and certain sensory activity is inhibi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sleepfoundation.org  
    Title: stress and insomnia  
-   Link: [https://www.sleepfoundation.org/insomnia/stress-and-insomnia](https://www.sleepfoundation.org/insomnia/stress-and-insomnia)  
+   Link: <a href="https://www.sleepfoundation.org/insomnia/stress-and-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/stress-and-insomnia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jul 2025 — Stress and anxiety often lead to insomnia and sleep problems. Insomnia symptoms may begin to dissipate once the stressful s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sleepfoundation.org  
    Title: psychophysiological insomnia  
-   Link: [https://www.sleepfoundation.org/insomnia/psychophysiological-insomnia](https://www.sleepfoundation.org/insomnia/psychophysiological-insomnia)  
+   Link: <a href="https://www.sleepfoundation.org/insomnia/psychophysiological-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/psychophysiological-insomnia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Symptoms, Causes...10 Jul 2025 — Psychophysiological insomnia is a medical term used to describe insomnia linked to excessive worry abou...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sleepfoundation.org  
    Title: lack of sleep and cognitive impairment  
-   Link: [https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment](https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Lack of Sleep Affect Cognitive Impairment?29 Jul 2025 — Improving sleep quality can boost cognitive performance, promote sharper...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/mental-health/adhd-and-sleep](https://www.sleepfoundation.org/mental-health/adhd-and-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/mental-health/adhd-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/mental-health/adhd-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADHD and Sleep Problems: How Are They Related?9 Oct 2025 — Difficulty falling or staying asleep is one of the most common sleep issues li...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41163441/](https://pubmed.ncbi.nlm.nih.gov/41163441/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41163441/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41163441/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Pre-Sleep Arousal on Bedtime Procrastinationby S Miyagawa · Cited by 3 — In this study, we examined whether difficulty falling...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e](https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e)  
+   Link: <a href="https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing frequency was associated with a poorer sleep quality, increas...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: consultant360.com  
-   Link: [https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep](https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep)  
+   Link: <a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Watching Linked to Poorer SleepBinge watching is associated with poorer sleep quality, fatigue, and symptoms of insomnia, according...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bohonsleep.com  
-   Link: [https://bohonsleep.com/blog/how-stress-impacts-your-sleep-and-what-you-can-do-about-it/](https://bohonsleep.com/blog/how-stress-impacts-your-sleep-and-what-you-can-do-about-it/)  
+   Link: <a href="https://bohonsleep.com/blog/how-stress-impacts-your-sleep-and-what-you-can-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://bohonsleep.com/blog/how-stress-impacts-your-sleep-and-what-you-can-do-about-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Stress Impacts Sleep &amp; What to Do About ItChronic stress and the resulting hyperarousal lead to more frequent awakenings throughout t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: authentictherapy.nl  
-   Link: [https://www.authentictherapy.nl/insomnia-cbt-i](https://www.authentictherapy.nl/insomnia-cbt-i)  
+   Link: <a href="https://www.authentictherapy.nl/insomnia-cbt-i" target="_blank" rel="noopener noreferrer nofollow">https://www.authentictherapy.nl/insomnia-cbt-i</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InsomniaRacing thoughts worries about tomorrow, unfinished tasks, or sleeplessness trigger anticipatory anxiety, boosting cortisol and re...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sleephealthfoundation.org.au  
-   Link: [https://www.sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i](https://www.sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i)  
+   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Behavioural Therapy for Insomnia (CBT-I)CBT-I is a way to help people with insomnia sleep better. It is a proven method that wo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: connectedpapers.com  
    Title: Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal.Liese Exelmans, J  
-   Link: [https://www.connectedpapers.com/main/ca2b38584efd1a80c613f4edad291d7c7ef0625e/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre%20Sleep-Arousal./graph](https://www.connectedpapers.com/main/ca2b38584efd1a80c613f4edad291d7c7ef0625e/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre%20Sleep-Arousal./graph)  
+   Link: <a href="https://www.connectedpapers.com/main/ca2b38584efd1a80c613f4edad291d7c7ef0625e/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre%20Sleep-Arousal./graph" target="_blank" rel="noopener noreferrer nofollow">https://www.connectedpapers.com/main/ca2b38584efd1a80c613f4edad291d7c7ef0625e/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre%20Sleep-Arousal./graph</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Van den Bulck. 2017, Journal of clinical sleep medicine: JCSM: official publication of the American Academy of Sleep Medicine. S2 logo...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 318641198 Binge Viewing Sleep and the Role of Pre Sleep Arousal  
-   Link: [https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal](https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal)  
+   Link: <a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep ArousalAug 16, 2017 — Higher binge viewing frequency was associated with a poorer sleep q...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: animosanopsychiatry.com  
    Title: mind racing at midnight the link between anxiety and insomnia  
-   Link: [https://animosanopsychiatry.com/blog/mind-racing-at-midnight-the-link-between-anxiety-and-insomnia/](https://animosanopsychiatry.com/blog/mind-racing-at-midnight-the-link-between-anxiety-and-insomnia/)  
+   Link: <a href="https://animosanopsychiatry.com/blog/mind-racing-at-midnight-the-link-between-anxiety-and-insomnia/" target="_blank" rel="noopener noreferrer nofollow">https://animosanopsychiatry.com/blog/mind-racing-at-midnight-the-link-between-anxiety-and-insomnia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mind Racing at Midnight: The Link Between Anxiety and...19 Nov 2025 — Learn how anxiety and insomnia trigger each other, why racing thou...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: unifr.ch  
    Title: University of Fribourg Can Netflix keep you awake at night?  
-   Link: [https://www.unifr.ch/psycho/en/news-and-events/news/28602/can-netflix-keep-you-awake-at-night/](https://www.unifr.ch/psycho/en/news-and-events/news/28602/can-netflix-keep-you-awake-at-night/)  
+   Link: <a href="https://www.unifr.ch/psycho/en/news-and-events/news/28602/can-netflix-keep-you-awake-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.unifr.ch/psycho/en/news-and-events/news/28602/can-netflix-keep-you-awake-at-night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Netflix keep you awake at night? - News21 Feb 2023 — Binge-watching suspenseful TV series with cliffhangers before sleep has only min...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scispace.com  
    Title: Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: [https://scispace.com/papers/binge-viewing-sleep-and-the-role-of-pre-sleep-arousal-3pwehet1g0](https://scispace.com/papers/binge-viewing-sleep-and-the-role-of-pre-sleep-arousal-3pwehet1g0)  
+   Link: <a href="https://scispace.com/papers/binge-viewing-sleep-and-the-role-of-pre-sleep-arousal-3pwehet1g0" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/binge-viewing-sleep-and-the-role-of-pre-sleep-arousal-3pwehet1g0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Study Objectives:To investigate the prevalence of binge viewing, its association with sleep and examine arousal as an underlyin...</p></details>

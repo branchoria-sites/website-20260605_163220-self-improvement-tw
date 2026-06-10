@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:21:10'
 parent_title: Why the Habit Starts the Night Before | Better Change
 parent_permalink: /cycle-commute/
 parent_nav_short_title: Cycle Commute
@@ -265,7 +266,6 @@ next_link:
   permalink: /route-backup/
   short_title: Route Backup
   heading_title: Why the Shortest Bike Route May Fail
-date: '2026-06-05 15:21:10 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-1.webp
@@ -278,7 +278,7 @@ The easiest [cycle commute]({{ 'cycle-commute/' | relative_url }}) to maintain i
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-1-dark.svg" | relative_url }}" alt="Ride Days illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Cycle commuting is a habit-building exercise as much as a transport choice. Research on implementation intentions and action planning shows that people are more likely to follow through when they decide in advance exactly when and under what conditions they will act. Consistent, realistic plans outperform vague ambitions. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">PMCby MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span>
+Cycle commuting is a habit-building exercise as much as a transport choice. Research on implementation intentions and action planning shows that people are more likely to follow through when they decide in advance exactly when and under what conditions they will act. Consistent, realistic plans outperform vague ambitions. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span>
 
 When night-before preparation is part of the system, the next decision is selecting ride days that can withstand the interruptions of ordinary work life: meetings, deadlines, poor weather, tired mornings and unexpected schedule changes.
 
@@ -286,7 +286,7 @@ When night-before preparation is part of the system, the next decision is select
 
 A common mistake is treating cycle commuting as an all-or-nothing challenge. Five days per week sounds impressive, but it leaves no margin for disruption. One difficult day can make the entire effort feel like a failure.
 
-Behaviour researchers studying physical activity consistently find that sustainable behaviour change depends on repeatable actions rather than maximum effort. Implementation-intention research shows that specific, achievable plans help bridge the gap between intention and behaviour. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">PMCby MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span>
+Behaviour researchers studying physical activity consistently find that sustainable [behaviour change]({{ 'behaviour-change/' | relative_url }}) depends on repeatable actions rather than maximum effort. Implementation-intention research shows that specific, achievable plans help bridge the gap between intention and behaviour. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span>
 
 For a beginner, two successful commute days every week often create a stronger foundation than an unsuccessful attempt at five. Cycling UK explicitly advises that commuting does not need to be an everyday activity and suggests starting with two or three days per week or using mixed-mode travel when needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cyclinguk.org/cycle-magazine/knowhow-commuting-bike" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Cycling UKKnowhow: Commuting by bikeMaybe commute by bike two or three days a week? Or try mixed-mode commuting, making part of the journ...</span></span></span>
 
@@ -332,7 +332,7 @@ Pay attention to your personal rhythm:
 
 </div>
 
-This approach aligns with broader evidence on exercise adherence, which suggests that behaviours are maintained more successfully when they fit existing routines and recovery patterns rather than competing against them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">PMCby MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span>
+This approach aligns with broader evidence on exercise adherence, which suggests that behaviours are maintained more successfully when they fit existing routines and recovery patterns rather than competing against them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-2-dark.svg" | relative_url }}" alt="Ride Days illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -392,7 +392,7 @@ Many people find that two non-consecutive days work better than two back-to-back
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-3-dark.svg" | relative_url }}" alt="Ride Days illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Stage 3: The Stable Pattern
 
-After several weeks, commuting starts to feel less like a decision and more like a normal part of the week. Research on commuting habits suggests that repeated performance in stable contexts helps behaviours become more automatic over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">PMCby MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed At this point]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedImplementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</span></span></span>, adding a third day becomes easier because the supporting systems already exist.
+After several weeks, commuting starts to feel less like a decision and more like a normal part of the week. Research on commuting habits suggests that repeated performance in stable contexts helps behaviours become more automatic over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed At this point]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</span></span></span>, adding a third day becomes easier because the supporting systems already exist.
 
 ### Stage 4: Expansion Only When It Feels Boring
 
@@ -404,7 +404,7 @@ If two days still require substantial effort and planning, keep two days. If two
 
 The strongest cycle commuting schedule is not the one with the most ride days on paper. It is the one that still happens during a difficult week.
 
-A rider who successfully cycles every Tuesday and Thursday for six months builds a far more durable habit than someone who attempts five days per week, struggles for three weeks and stops. Commuting behaviour is highly habitual, and long-term change depends on repeatedly executing a realistic plan until it becomes part of normal life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">PMCby MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed When choosing workdays to cycle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedImplementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</span></span></span>, the question is not, “How many days can I manage at my most motivated?” The better question is, “Which days will I still ride when work becomes complicated?” That answer usually marks the beginning of a commuting habit that lasts.
+A rider who successfully cycles every Tuesday and Thursday for six months builds a far more durable habit than someone who attempts five days per week, struggles for three weeks and stops. Commuting behaviour is highly habitual, and long-term change depends on repeatedly executing a realistic plan until it becomes part of normal life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed When choosing workdays to cycle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</span></span></span>, the question is not, “How many days can I manage at my most motivated?” The better question is, “Which days will I still ride when work becomes complicated?” That answer usually marks the beginning of a commuting habit that lasts.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6XCmzUTtdY" title="10 cycle commuting mistakes, and how to fix them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6XCmzUTtdY" target="_blank" rel="noopener noreferrer">10 cycle commuting mistakes, and how to fix them</a></p><p class="youtube-embed-meta">Channel: road.cc &middot; Views: 34.2K &middot; Uploaded: November 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6XCmzUTtdY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6XCmzUTtdY">Open on YouTube</a></p></div></div></div>
@@ -740,138 +740,138 @@ A rider who successfully cycles every Tuesday and Thursday for six months builds
 
 1. <a id="endnote-1"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/cycle-magazine/knowhow-commuting-bike](https://www.cyclinguk.org/cycle-magazine/knowhow-commuting-bike)  
+   Link: <a href="https://www.cyclinguk.org/cycle-magazine/knowhow-commuting-bike" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/cycle-magazine/knowhow-commuting-bike</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling UKKnowhow: Commuting by bikeMaybe commute by bike two or three days a week? Or try mixed-mode commuting, making part of the journ...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/guide-cycling-work](https://www.cyclinguk.org/article/guide-cycling-work)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling UKGuide to cycling to workGuide to [cycling to work](&amp;#123;&amp;#123; &#x27;cycle-commute/&#x27; | relative_url &amp;#125;&amp;#125;) · Make an agreement to start later and don&#x27;t book meetings first thing · Try t...</p></details>
+   Link: <a href="https://www.cyclinguk.org/article/guide-cycling-work" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/guide-cycling-work</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling UKGuide to cycling to workGuide to cycling to work · Make an agreement to start later and don&#x27;t book meetings first thing · Try t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31923898/](https://pubmed.ncbi.nlm.nih.gov/31923898/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedImplementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Impact of implementation intentions on physical activity  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 72 — The study employed rep...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11102891/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11102891/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11102891/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11102891/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, current models fail to predict behavioral change...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Habit [substitution](&#123;&#123; 'substitution/' | relative_url &#125;&#125;) toward more active commuting  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11683171/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11683171/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11683171/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11683171/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralHabit substitution toward more active commuting - PMC - NIHby S Di Maio · 2024 · Cited by 7 — This study investigated habit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21192741/](https://pubmed.ncbi.nlm.nih.gov/21192741/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedActive commuting and habit strengthby GJ de Bruijn · 2011 · Cited by 96 — Conclusions: Stronger active commuting habits are associa...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21192741/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21192741/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Active commuting and habit strengthby GJ de Bruijn · 2011 · Cited by 96 — Conclusions: Stronger active commuting habits are associa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cyclingweekly.com  
    Title: Cycling Weekly How often should I ride my bike to get fit?  
-   Link: [https://www.cyclingweekly.com/fitness/training/often-cycle-get-fit-331996](https://www.cyclingweekly.com/fitness/training/often-cycle-get-fit-331996)  
+   Link: <a href="https://www.cyclingweekly.com/fitness/training/often-cycle-get-fit-331996" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclingweekly.com/fitness/training/often-cycle-get-fit-331996</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This could be as simple as two shorter sessions during the week (about one hour or even 30 minutes each for beginners) and a longer weeke...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/beginners-guide-commuting](https://www.cyclinguk.org/article/beginners-guide-commuting)  
+   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-commuting" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-commuting</a>  
 
 11. <a id="endnote-11"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/cycle-magazine/a-z-cycle-commuting](https://www.cyclinguk.org/cycle-magazine/a-z-cycle-commuting)  
+   Link: <a href="https://www.cyclinguk.org/cycle-magazine/a-z-cycle-commuting" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/cycle-magazine/a-z-cycle-commuting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An A-Z of cycle commutingReflective details on your clothing or the bike help you stand out at night, while a brightly coloured jacket or...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/campaigns-guide/cycle-work-%E2%80%94-school-%E2%80%94-confidence](https://www.cyclinguk.org/article/campaigns-guide/cycle-work-%E2%80%94-school-%E2%80%94-confidence)  
+   Link: <a href="https://www.cyclinguk.org/article/campaigns-guide/cycle-work-%E2%80%94-school-%E2%80%94-confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/campaigns-guide/cycle-work-%E2%80%94-school-%E2%80%94-confidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to cycle to work – or school – with confidenceHow to cycle to work – or school – with confidence · Pick your route · Take control · S...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with imagery increases...by A Divine · 2025 · Cited by 7 — Reinforcing implementation intentions with mental i...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30596272/](https://pubmed.ncbi.nlm.nih.gov/30596272/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30596272/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30596272/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions to promote physical activity in...by SA Robinson · 2019 · Cited by 72 — The current pilot study examined the e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3842498/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3842498/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3842498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3842498/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and predictors of changes in active commuting over...by J Panter · 2013 · Cited by 79 — To assess the predictors of uptake and maintenan...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cyclingweekly.com  
    Title: many rest days cyclist take week 406350  
-   Link: [https://www.cyclingweekly.com/fitness/training/many-rest-days-cyclist-take-week-406350](https://www.cyclingweekly.com/fitness/training/many-rest-days-cyclist-take-week-406350)  
+   Link: <a href="https://www.cyclingweekly.com/fitness/training/many-rest-days-cyclist-take-week-406350" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclingweekly.com/fitness/training/many-rest-days-cyclist-take-week-406350</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How many rest days should a cyclist take each week?25 Nov 2025 — For most riders, especially at this time of year, when training involves...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...Apr 27, 2025 — This mini-review explores the science of habit formation, e...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: britishcycling.org.uk  
-   Link: [https://www.britishcycling.org.uk/coaching/article/coa20110608-Make-The-Most-Of-Your-Daily-Commute-0](https://www.britishcycling.org.uk/coaching/article/coa20110608-Make-The-Most-Of-Your-Daily-Commute-0)  
+   Link: <a href="https://www.britishcycling.org.uk/coaching/article/coa20110608-Make-The-Most-Of-Your-Daily-Commute-0" target="_blank" rel="noopener noreferrer nofollow">https://www.britishcycling.org.uk/coaching/article/coa20110608-Make-The-Most-Of-Your-Daily-Commute-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British CyclingMake The Most Of Your Daily CommuteThink about varying your effort between days. For example, if you ride hard one day, ta...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/270208086_Cycling_Habits_and_Other_Psychological_Variables_Affecting_Commuting_by_Bicycle_in_Madrid_Spain](https://www.researchgate.net/publication/270208086_Cycling_Habits_and_Other_Psychological_Variables_Affecting_Commuting_by_Bicycle_in_Madrid_Spain)  
+   Link: <a href="https://www.researchgate.net/publication/270208086_Cycling_Habits_and_Other_Psychological_Variables_Affecting_Commuting_by_Bicycle_in_Madrid_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270208086_Cycling_Habits_and_Other_Psychological_Variables_Affecting_Commuting_by_Bicycle_in_Madrid_Spain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Cycling Habits and Other Psychological Variables...6 Aug 2025 — In the case study of Madrid, Spain, the decision to cycle to work...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ovid.com  
-   Link: [https://www.ovid.com/journals/psyse/fulltext/10.1016/j.psychsport.2018.12.007~habit-and-physical-activity-theoretical-advances-practical](https://www.ovid.com/journals/psyse/fulltext/10.1016/j.psychsport.2018.12.007~habit-and-physical-activity-theoretical-advances-practical)  
+   Link: <a href="https://www.ovid.com/journals/psyse/fulltext/10.1016/j.psychsport.2018.12.007~habit-and-physical-activity-theoretical-advances-practical" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/psyse/fulltext/10.1016/j.psychsport.2018.12.007~habit-and-physical-activity-theoretical-advances-practical</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit and physical activity: Theoretical...by MS Hagger · 2019 · Cited by 380 — Objective: Understanding habits may inform intervention d...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: triagemethod.com  
-   Link: [https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/](https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/)  
+   Link: <a href="https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Engineer your [environment](&amp;#123;&amp;#123; &#x27;environment/&#x27; | relative_url &amp;#125;&amp;#125;). Work on [identity](&amp;#123;&amp;#123; &#x27;identity/&#x27; | relative_url &amp;#125;&amp;#125;). Use implementation intentions. Practice self-compassion when you mess...Read...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bmjgroup.com  
    Title: active commuting linked to lower risks of mental and physical ill health  
-   Link: [https://bmjgroup.com/active-commuting-linked-to-lower-risks-of-mental-and-physical-ill-health/](https://bmjgroup.com/active-commuting-linked-to-lower-risks-of-mental-and-physical-ill-health/)  
+   Link: <a href="https://bmjgroup.com/active-commuting-linked-to-lower-risks-of-mental-and-physical-ill-health/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/active-commuting-linked-to-lower-risks-of-mental-and-physical-ill-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Active commuting linked to lower risks of mental and...17 Jul 2024 — Commuters who cycle or walk to and from work or study may have lowe...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — with the goal to exercise more frequently (&#x27;I intend to exer...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: britishcycling.org.uk  
-   Link: [https://www.britishcycling.org.uk/commuter-ebook](https://www.britishcycling.org.uk/commuter-ebook)  
+   Link: <a href="https://www.britishcycling.org.uk/commuter-ebook" target="_blank" rel="noopener noreferrer nofollow">https://www.britishcycling.org.uk/commuter-ebook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether you&#x27;re looking for an alternative to public transport, can&#x27;t bear going...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>king to our goals, whether it&#x27;s writing down the exact time and date of when...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: blog.nasm.org  
    Title: how to make habits work for your good intentions  
-   Link: [https://blog.nasm.org/how-to-make-habits-work-for-your-good-intentions](https://blog.nasm.org/how-to-make-habits-work-for-your-good-intentions)  
+   Link: <a href="https://blog.nasm.org/how-to-make-habits-work-for-your-good-intentions" target="_blank" rel="noopener noreferrer nofollow">https://blog.nasm.org/how-to-make-habits-work-for-your-good-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Make Habits Work for Your Good IntentionsHabits are behavioral shortcuts; intentions are formed from beliefs about the outcomes of a b...</p></details>

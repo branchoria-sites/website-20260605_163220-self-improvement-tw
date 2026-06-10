@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:58:29'
 parent_title: What to Do After You Miss a Day | Better Change
 parent_permalink: /missed-days/
 parent_nav_short_title: Missed Days
@@ -265,7 +266,6 @@ next_link:
   permalink: /lapse-vs-relapse/
   short_title: Lapse vs relapse
   heading_title: Is One Missed Day Really a Relapse?
-date: '2026-06-05 15:58:29 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-1.webp
@@ -274,13 +274,13 @@ image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abs
 
 ## Introduction
 
-The abstinence violation effect is a psychological trap that turns a small slip into a larger setback. The missed workout, skipped study session, unplanned takeaway, or lost evening of productive work is rarely the main problem. The bigger risk is the interpretation: “I have blown it”, “I have no discipline”, or “I am back where I started.” Research on relapse prevention suggests that these thoughts can create guilt, shame, and a loss of confidence that make another lapse more likely. In other words, the damage often comes less from the missed action and more from the [meaning]({{ 'meaning/' | relative_url }}) attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">PMCby ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For everyday self-improvement goals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">ScienceDirectAbstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>, understanding this mechanism matters because consistency is not usually destroyed by one mistake. It is destroyed when one mistake is treated as evidence of permanent failure.
+The abstinence violation effect is a psychological trap that turns a small slip into a larger setback. The missed workout, skipped study session, unplanned takeaway, or lost evening of productive work is rarely the main problem. The bigger risk is the interpretation: “I have blown it”, “I have no discipline”, or “I am back where I started.” Research on relapse prevention suggests that these thoughts can create guilt, shame, and a loss of confidence that make another lapse more likely. In other words, the damage often comes less from the missed action and more from the [meaning]({{ 'meaning/' | relative_url }}) attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For everyday self-improvement goals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>, understanding this mechanism matters because consistency is not usually destroyed by one mistake. It is destroyed when one mistake is treated as evidence of permanent failure.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-1-dark.svg" | relative_url }}" alt="Guilt spiral illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why One Slip Can Become a Spiral
 
-The abstinence violation effect (AVE) emerged from psychologist G. Alan Marlatt's work on relapse prevention. The core idea is simple: after a lapse, people may respond with self-blame, guilt, shame, and a sense that they have lost control. Those reactions reduce confidence and increase the chance that the lapse becomes a wider relapse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">PMCby ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect In practical self-improvement]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">ScienceDirectAbstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>, the sequence often looks like this:
+The abstinence violation effect (AVE) emerged from psychologist G. Alan Marlatt's work on relapse prevention. The core idea is simple: after a lapse, people may respond with self-blame, guilt, shame, and a sense that they have lost control. Those reactions reduce confidence and increase the chance that the lapse becomes a wider relapse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect In practical self-improvement]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>, the sequence often looks like this:
 
 1. A person misses a planned behaviour.
 2. They interpret the miss as a personal failure.
@@ -318,7 +318,7 @@ When self-improvement becomes a test of self-worth, every setback feels larger t
 
 ## The What-the-Hell Pattern Beyond Dieting
 
-The abstinence violation effect is closely related to what researchers and psychologists often call the “what-the-hell effect”. This phenomenon was first studied extensively in dieting. Restrained eaters who believed they had broken their diet sometimes responded by eating substantially more than they otherwise would have. The reasoning was not logical nutrition management but psychological surrender: “The diet is already ruined, so it does not matter anymore.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">Psychology Today Why Dieters Fail?</span><span class="citation-popover-snippet">Psychology TodayWhy Dieters Fail?May 29, 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by...</span><span class="citation-popover-meta">Published: May 29, 2015</span></span></span> ScienceDirect The same pattern appears far beyond food. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">ScienceDirectAbstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>
+The abstinence violation effect is closely related to what researchers and psychologists often call the “what-the-hell effect”. This phenomenon was first studied extensively in dieting. Restrained eaters who believed they had broken their diet sometimes responded by eating substantially more than they otherwise would have. The reasoning was not logical nutrition management but psychological surrender: “The diet is already ruined, so it does not matter anymore.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">Psychology Today Why Dieters Fail?</span><span class="citation-popover-snippet">Psychology TodayWhy Dieters Fail?May 29, 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by...</span><span class="citation-popover-meta">Published: May 29, 2015</span></span></span> ScienceDirect The same pattern appears far beyond food. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>
 
 A person aiming to read daily misses one evening and then skips the rest of the week.
 
@@ -326,7 +326,7 @@ Someone trying to reduce social media use spends twenty minutes scrolling, decid
 
 A new exerciser misses Monday's session and unconsciously postpones restarting until the following week.
 
-The common feature is all-or-nothing thinking. Once the ideal standard has been violated, the goal is treated as invalid. Researchers studying self-regulation setbacks describe similar processes in which people catastrophise an initial violation and conclude that further effort is pointless. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kinsalecbt.com">[PubMed Central| Kinsale CBT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kinsalecbt.com</span><span class="citation-popover-title">how to combat the what the hell effect</span><span class="citation-popover-snippet">How to combat the what-the-hell effectApr 4, 2024 — The what-the-hell effect refers to the tendency for people to abandon self-control ef...</span></span></span>
+The common feature is all-or-nothing thinking. Once the ideal standard has been violated, the goal is treated as invalid. Researchers studying self-regulation setbacks describe similar processes in which people catastrophise an initial violation and conclude that further effort is pointless. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kinsalecbt.com">[PubMed Central&#124; Kinsale CBT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kinsalecbt.com</span><span class="citation-popover-title">how to combat the what the hell effect</span><span class="citation-popover-snippet">How to combat the what-the-hell effectApr 4, 2024 — The what-the-hell effect refers to the tendency for people to abandon self-control ef...</span></span></span>
 
 This is one reason highly rigid rules can be surprisingly fragile. If success is defined as perfection, then ordinary human inconsistency creates repeated opportunities for perceived failure.
 
@@ -350,7 +350,7 @@ Common examples include:
 
 The irony is that ambitious people are often especially vulnerable. High standards can improve performance, but when standards become absolute, they increase the risk that a minor deviation will be interpreted as complete failure.
 
-Research on relapse prevention consistently emphasises that a lapse and a relapse are not the same event. The distinction matters because treating them as identical encourages the very spiral people are trying to avoid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">PMCby ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span>
+Research on relapse prevention consistently emphasises that a lapse and a relapse are not the same event. The distinction matters because treating them as identical encourages the very spiral people are trying to avoid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jkafQlNX3eE" title="All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jkafQlNX3eE" target="_blank" rel="noopener noreferrer">All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell &middot; Views: 260.6K &middot; Uploaded: July 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jkafQlNX3eE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jkafQlNX3eE">Open on YouTube</a></p></div></div></div>
@@ -367,7 +367,7 @@ Instead of saying, “I am inconsistent,” say, “I missed yesterday's workout
 
 The first statement attacks the self. The second analyses the situation.
 
-Research on the AVE suggests that viewing lapses as temporary setbacks rather than proof of failure helps protect confidence and reduces the likelihood of further relapse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">ScienceDirectAbstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lagunatreatment.com/relapse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagunatreatment.com">[Laguna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagunatreatment.com</span><span class="citation-popover-snippet">Laguna Treatment CenterAbstinence Violation Effect &amp; Relapse Rates By DrugApr 9, 2025 — Marlatt considered the abstinence violation affec...</span></span></span>
+Research on the AVE suggests that viewing lapses as temporary setbacks rather than proof of failure helps protect confidence and reduces the likelihood of further relapse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lagunatreatment.com/relapse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagunatreatment.com">[Laguna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagunatreatment.com</span><span class="citation-popover-snippet">Laguna Treatment CenterAbstinence Violation Effect &amp; Relapse Rates By DrugApr 9, 2025 — Marlatt considered the abstinence violation affec...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-3-dark.svg" | relative_url }}" alt="Guilt spiral illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -407,7 +407,7 @@ Self-efficacy is one of the most important predictors of persistence across beha
 
 The abstinence violation effect exposes a weakness in many popular ideas about discipline. People often assume that failure comes from insufficient commitment. In reality, many spirals begin because commitment is interpreted too rigidly.
 
-A missed day does not automatically become a relapse. The turning point is the story that follows. When a lapse is treated as evidence of permanent failure, guilt and lowered confidence can create the conditions for another lapse. When it is treated as a specific, temporary error, recovery becomes much easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">ScienceDirectAbstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guilford.com">[guilford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guilford.com</span><span class="citation-popover-snippet">Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</span></span></span> For self-improvement that works, the critical skill is not avoiding every slip. It is preventing one slip from becoming two. The person who recovers quickly after an imperfect day often makes more long-term progress than the person who demands perfection and collapses when it inevitably fails.
+A missed day does not automatically become a relapse. The turning point is the story that follows. When a lapse is treated as evidence of permanent failure, guilt and lowered confidence can create the conditions for another lapse. When it is treated as a specific, temporary error, recovery becomes much easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guilford.com">[guilford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guilford.com</span><span class="citation-popover-snippet">Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</span></span></span> For self-improvement that works, the critical skill is not avoiding every slip. It is preventing one slip from becoming two. The person who recovers quickly after an imperfect day often makes more long-term progress than the person who demands perfection and collapses when it inevitably fails.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -831,204 +831,204 @@ A missed day does not automatically become a relapse. The turning point is the s
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Abstinence Violation  
-   Link: [https://www.sciencedirect.com/topics/psychology/abstinence-violation](https://www.sciencedirect.com/topics/psychology/abstinence-violation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAbstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/abstinence-violation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: guilford.com  
-   Link: [https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN](https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN)  
+   Link: <a href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow">https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect](https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect)  
+   Link: <a href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1023/A%3A1021853301255](https://link.springer.com/article/10.1023/A%3A1021853301255)  
+   Link: <a href="https://link.springer.com/article/10.1023/A%3A1021853301255" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1023/A%3A1021853301255</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkThe Abstinence Violation Effect Following Smoking Lapses...by S Shiffman · 1997 · Cited by 70 — Lapses resulted in i...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mayo.edu  
-   Link: [https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942](https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942)  
+   Link: <a href="https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942" target="_blank" rel="noopener noreferrer nofollow">https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicRelapse Prevention and Follow-UpAbstinence Violation Effect (AVE). • Lapse creates dissonance with self imposed rule (abstinen...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
    Title: Nature Link Relapse prevention for addictive behaviors  
-   Link: [https://link.springer.com/article/10.1186/1747-597X-6-17](https://link.springer.com/article/10.1186/1747-597X-6-17)  
+   Link: <a href="https://link.springer.com/article/10.1186/1747-597X-6-17" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1747-597X-6-17</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>prevention for addictive behaviors - Springer Natureby CS Hendershot · 2011 · Cited by 644 — In these analyses, CBT/RP-based self-help in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0195666304001230](https://www.sciencedirect.com/science/article/abs/pii/S0195666304001230)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0195666304001230" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0195666304001230</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal investigations of abstinence violation effect in binge eaters..Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: kinsalecbt.com  
    Title: how to combat the what the hell effect  
-   Link: [https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/](https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/)  
+   Link: <a href="https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to combat the what-the-hell effectApr 4, 2024 — The what-the-hell effect refers to the tendency for people to abandon self-control ef...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Research Gate Understanding the setback effect in everyday self‐regulation  
-   Link: [https://www.researchgate.net/publication/366813117_Understanding_the_setback_effect_in_everyday_self-regulation](https://www.researchgate.net/publication/366813117_Understanding_the_setback_effect_in_everyday_self-regulation)  
+   Link: <a href="https://www.researchgate.net/publication/366813117_Understanding_the_setback_effect_in_everyday_self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366813117_Understanding_the_setback_effect_in_everyday_self-regulation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>what-the-hell effect (Herman. &amp;Mack,1975), suggesting that after a diet violation people perceive. future self-regulation to have become...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Susan-Collins-6/publication/281298055_Abstinence_Violation_Effect/links/5600d24e08aeafc8ac8c7a55/Abstinence-Violation-Effect.pdf](https://www.researchgate.net/profile/Susan-Collins-6/publication/281298055_Abstinence_Violation_Effect/links/5600d24e08aeafc8ac8c7a55/Abstinence-Violation-Effect.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Susan-Collins-6/publication/281298055_Abstinence_Violation_Effect/links/5600d24e08aeafc8ac8c7a55/Abstinence-Violation-Effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Susan-Collins-6/publication/281298055_Abstinence_Violation_Effect/links/5600d24e08aeafc8ac8c7a55/Abstinence-Violation-Effect.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation EffectThe term relapse may be used to describe a prolonged return to substance use, whereas lapse may be used to des...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_623](https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_623)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_623" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_623</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkAbstinence Violation Effect | Springer Nature LinkThe term relapse may be used to describe a prolonged return to subs...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1471015300000052](https://www.sciencedirect.com/science/article/abs/pii/S1471015300000052)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1471015300000052" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1471015300000052</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary restraint, attributional styles for eating, and...by KJ Rotenberg · 2000 · Cited by 42 — Herman and Polivy (1984) referred to th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
    Title: Additionally, outcome was moderated by several variables.Read more  
-   Link: [https://www.researchgate.net/publication/12848483_Efficacy_of_relapse_prevention_A_meta-analytic_review](https://www.researchgate.net/publication/12848483_Efficacy_of_relapse_prevention_A_meta-analytic_review)  
+   Link: <a href="https://www.researchgate.net/publication/12848483_Efficacy_of_relapse_prevention_A_meta-analytic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12848483_Efficacy_of_relapse_prevention_A_meta-analytic_review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Efficacy of Relapse Prevention: A Meta-Analytic ReviewResults indicated that RP was generally effective, particularly for alcohol problems...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397709191_The_Psychological_Architecture_of_Binge_Eating_Disorder_A_Psychobehavioral_Analysis_of_Core_Symptoms_Comorbidities_and_Underlying_Mechanisms](https://www.researchgate.net/publication/397709191_The_Psychological_Architecture_of_Binge_Eating_Disorder_A_Psychobehavioral_Analysis_of_Core_Symptoms_Comorbidities_and_Underlying_Mechanisms)  
+   Link: <a href="https://www.researchgate.net/publication/397709191_The_Psychological_Architecture_of_Binge_Eating_Disorder_A_Psychobehavioral_Analysis_of_Core_Symptoms_Comorbidities_and_Underlying_Mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397709191_The_Psychological_Architecture_of_Binge_Eating_Disorder_A_Psychobehavioral_Analysis_of_Core_Symptoms_Comorbidities_and_Underlying_Mechanisms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Architecture of Binge Eating DisorderNov 20, 2025 — This &quot;abstinence violation effect&quot; is a powerful cognitive driver of...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/289037779_The_Abstinence_Violation_Effect_Investigating_Lapse_and_Relapse_Phenomena_using_the_Relapse_Prevention_Model_with_Domestically_Violent_Men](https://www.researchgate.net/publication/289037779_The_Abstinence_Violation_Effect_Investigating_Lapse_and_Relapse_Phenomena_using_the_Relapse_Prevention_Model_with_Domestically_Violent_Men)  
+   Link: <a href="https://www.researchgate.net/publication/289037779_The_Abstinence_Violation_Effect_Investigating_Lapse_and_Relapse_Phenomena_using_the_Relapse_Prevention_Model_with_Domestically_Violent_Men" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289037779_The_Abstinence_Violation_Effect_Investigating_Lapse_and_Relapse_Phenomena_using_the_Relapse_Prevention_Model_with_Domestically_Violent_Men</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abstinence Violation Effect: Investigating Lapse and...6 Aug 2025 — The Abstinence Violation Effect: Investigating Lapse and Relapse...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Relapse Prevention: An Overview of Marlatt's Cognitive  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: amactraining.co.uk  
-   Link: [https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/](https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/)  
+   Link: <a href="https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/" target="_blank" rel="noopener noreferrer nofollow">https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Models and theories of health behaviour (10): Relapse...There are two main components to the abstinence violation effect: When the cause...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: psychologytoday.com  
    Title: Psychology Today Why Dieters Fail?  
-   Link: [https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail](https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayWhy Dieters Fail?May 29, 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by...</p></details>
    Published: May 29, 2015  
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Beyond prevention: Regulating responses to self  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9291624/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9291624/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MA Adriaanse · 2021 · Cited by 16 —... dieters violate their dieting goals once, they experience a “what the hell effect”: They ca...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9291624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9291624/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MA Adriaanse · 2021 · Cited by 16 —... dieters violate their dieting goals once, they experience a “what the hell effect”: They ca...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: lagunatreatment.com  
-   Link: [https://lagunatreatment.com/relapse/](https://lagunatreatment.com/relapse/)  
+   Link: <a href="https://lagunatreatment.com/relapse/" target="_blank" rel="noopener noreferrer nofollow">https://lagunatreatment.com/relapse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laguna Treatment CenterAbstinence Violation Effect &amp; Relapse Rates By DrugApr 9, 2025 — Marlatt considered the abstinence violation affec...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: figshare.le.ac.uk  
    Title: Figshare IS THERE AN ABSTINENCE MAINTENANCE EFFECT?  
-   Link: [https://figshare.le.ac.uk/ndownloader/files/18252980](https://figshare.le.ac.uk/ndownloader/files/18252980)  
+   Link: <a href="https://figshare.le.ac.uk/ndownloader/files/18252980" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/ndownloader/files/18252980</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by A DZIALDOWSKI — Successful coping is thought to increase self-efficacy at remaining abstinent in the future, and to decrease the likel...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Abstinence](https://en.wikipedia.org/wiki/Abstinence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Abstinence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abstinence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AbstinenceAbstinence is the practice of self-enforced restraint from indulging in bodily activities that are widely experienced as giv...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>prevention - PMC - NIHby J Menon · 2018 · Cited by 152 — Relapse prevention (RP) is a strategy for reducing the likelihood and severity o...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: psychologytoday.com  
    Title: the abstinence violation effect and overcoming it  
-   Link: [https://www.psychologytoday.com/ca/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it](https://www.psychologytoday.com/ca/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it)  
+   Link: <a href="https://www.psychologytoday.com/ca/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 2, 2024 — AVE occurs when someone who is striving for abstinence from a particular behavior or substance experiences a setback, such...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: psychologytoday.com  
    Title: why dieters fail  
-   Link: [https://www.psychologytoday.com/ie/blog/science-of-choice/201505/why-dieters-fail](https://www.psychologytoday.com/ie/blog/science-of-choice/201505/why-dieters-fail)  
+   Link: <a href="https://www.psychologytoday.com/ie/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ie/blog/science-of-choice/201505/why-dieters-fail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?29 May 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by Polivy and Herman (1985). Once t...</p></details>
    Published: May 2015  
 
 26. <a id="endnote-26"></a>
    Source: rehabcenter.net  
    Title: abstinence violation effect  
-   Link: [https://www.rehabcenter.net/abstinence-violation-effect/](https://www.rehabcenter.net/abstinence-violation-effect/)  
+   Link: <a href="https://www.rehabcenter.net/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.rehabcenter.net/abstinence-violation-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Abstinence Violation Effect?Feb 4, 2019 — The abstinence violation effect (AVE) describes the detrimental reaction a person h...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: integritytogetherllc.com  
    Title: abstinence violation effect  
-   Link: [https://integritytogetherllc.com/addiction/abstinence-violation-effect/](https://integritytogetherllc.com/addiction/abstinence-violation-effect/)  
+   Link: <a href="https://integritytogetherllc.com/addiction/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://integritytogetherllc.com/addiction/abstinence-violation-effect/</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/abstinence](https://www.merriam-webster.com/dictionary/abstinence)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/abstinence" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/abstinence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTINENCE Definition &amp; Meaning1. The practice of abstaining from something: the practice of not doing or having something that is wante...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: rakefetcohenbenarye.com  
-   Link: [https://rakefetcohenbenarye.com/2023/10/12/the-abstinence-violation-effect-and-the-project-of-plant-based-meals-for-soldiers/](https://rakefetcohenbenarye.com/2023/10/12/the-abstinence-violation-effect-and-the-project-of-plant-based-meals-for-soldiers/)  
+   Link: <a href="https://rakefetcohenbenarye.com/2023/10/12/the-abstinence-violation-effect-and-the-project-of-plant-based-meals-for-soldiers/" target="_blank" rel="noopener noreferrer nofollow">https://rakefetcohenbenarye.com/2023/10/12/the-abstinence-violation-effect-and-the-project-of-plant-based-meals-for-soldiers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abstinence Violation Effect and the project of plant-...12 Oct 2023 — The Abstinence Violation Effect, Fresh Start Effect, and the &quot;...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: prairieviewpsychology.ca  
    Title: abstinence violation effect understanding its impact on addiction recovery  
-   Link: [https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery](https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery)  
+   Link: <a href="https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery" target="_blank" rel="noopener noreferrer nofollow">https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does the Abstinence Violation Effect Impact Addiction...Aug 27, 2025 — The Abstinence Violation Effect is characterized by intense f...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LwTfZmFgMjs](https://www.youtube.com/watch?v=LwTfZmFgMjs)  
+   Link: <a href="https://www.youtube.com/watch?v=LwTfZmFgMjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LwTfZmFgMjs</a>  
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWvV2gTiMyH/?hl=en](https://www.instagram.com/reel/DWvV2gTiMyH/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DWvV2gTiMyH/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWvV2gTiMyH/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>overeating after small deviations... extended periods off routine... increased guilt → decreased adherence...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: craigleetherapy.co.uk  
    Title: how the abstinence violation effect fuels bing eating and how to stop  
-   Link: [https://www.craigleetherapy.co.uk/blog-1/how-the-abstinence-violation-effect-fuels-bing-eating-and-how-to-stop](https://www.craigleetherapy.co.uk/blog-1/how-the-abstinence-violation-effect-fuels-bing-eating-and-how-to-stop)  
+   Link: <a href="https://www.craigleetherapy.co.uk/blog-1/how-the-abstinence-violation-effect-fuels-bing-eating-and-how-to-stop" target="_blank" rel="noopener noreferrer nofollow">https://www.craigleetherapy.co.uk/blog-1/how-the-abstinence-violation-effect-fuels-bing-eating-and-how-to-stop</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How The Abstinence Violation Effect Fuels Binge Eating (And...Apr 17, 2025 — You then decide to stop off at the shops on the way home be...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: jstor.org  
    Title: Journal of. Consulting and Clinical Psychology, 55(2), 145-149.Rea  
-   Link: [https://www.jstor.org/stable/45091962](https://www.jstor.org/stable/45091962)  
+   Link: <a href="https://www.jstor.org/stable/45091962" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/45091962</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relapse Prevention Model of Behavioral Maintenanceby M ROSE-COLLEY · 1992 · Cited by 14 — Abstinence violation effect: Validation of an a...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: alturarecovery.com  
-   Link: [https://alturarecovery.com/abstinence-violation-effect/](https://alturarecovery.com/abstinence-violation-effect/)  
+   Link: <a href="https://alturarecovery.com/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://alturarecovery.com/abstinence-violation-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As the visual below shows, a simple lapse can quickly snowball into a full relapse...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: forbes.com  
    Title: 3 ways to overcome the what the hell effect by a psychologist  
-   Link: [https://www.forbes.com/sites/traversmark/2024/06/06/3-ways-to-overcome-the-what-the-hell-effect-by-a-psychologist/](https://www.forbes.com/sites/traversmark/2024/06/06/3-ways-to-overcome-the-what-the-hell-effect-by-a-psychologist/)  
+   Link: <a href="https://www.forbes.com/sites/traversmark/2024/06/06/3-ways-to-overcome-the-what-the-hell-effect-by-a-psychologist/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/traversmark/2024/06/06/3-ways-to-overcome-the-what-the-hell-effect-by-a-psychologist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Ways To Overcome The &#x27;What-The-Hell&#x27; Effect—By A...Jun 6, 2024 — The “what-the-hell effect” occurs when people abandon their initial g...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: magazine.utoronto.ca  
    Title: does dieting affect how you think janet polivy psychologist  
-   Link: [https://magazine.utoronto.ca/research-ideas/health/does-dieting-affect-how-you-think-janet-polivy-psychologist/](https://magazine.utoronto.ca/research-ideas/health/does-dieting-affect-how-you-think-janet-polivy-psychologist/)  
+   Link: <a href="https://magazine.utoronto.ca/research-ideas/health/does-dieting-affect-how-you-think-janet-polivy-psychologist/" target="_blank" rel="noopener noreferrer nofollow">https://magazine.utoronto.ca/research-ideas/health/does-dieting-affect-how-you-think-janet-polivy-psychologist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dieting Affect How You Think?Aug 18, 2010 — But dieters ate significantly more. Polivy thinks it has to do with what she calls the “what...</p></details>

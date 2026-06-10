@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:40:15'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /digital-tools/
   short_title: Digital Tools
   heading_title: What Makes a Self Improvement App Useful?
-date: '2026-06-05 14:40:15 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66-overview.webp
@@ -506,7 +506,7 @@ Defaults are the quiet settings that decide what happens when you do nothing. In
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-overview.webp" | relative_url }}" alt="Overview image for Defaults" loading="eager" decoding="sync" fetchpriority="high">
-The strongest everyday use of defaults is not manipulation or life-hacking theatre. It is practical self-governance: arranging transfers, bookings, [reminders]({{ 'reminders/' | relative_url }}), subscriptions, devices, rooms and calendars so that yesterday’s clearer intention has some authority over today’s tired self. Evidence from pension auto-enrolment, [automatic saving]({{ 'money-defaults/' | relative_url }}), commitment devices, appointment reminders and wider nudge research suggests that defaults can have real effects, especially when the desired behaviour is already endorsed, easy to exit and not hidden from the person being nudged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poverty-action.org">[Innovations for Poverty Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poverty-action.org</span><span class="citation-popover-title">Innovations for Poverty Action Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</span></span></span>
+The strongest everyday use of defaults is not manipulation or life-hacking theatre. It is practical self-governance: arranging transfers, bookings, [reminders]({{ 'reminders/' | relative_url }}), subscriptions, devices, rooms and calendars so that yesterday’s clearer intention has some authority over today’s tired self. Evidence from pension auto-enrolment, automatic [saving]({{ 'saving/' | relative_url }}), commitment devices, appointment reminders and wider nudge research suggests that defaults can have real effects, especially when the desired behaviour is already endorsed, easy to exit and not hidden from the person being nudged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poverty-action.org">[Innovations for Poverty Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poverty-action.org</span><span class="citation-popover-title">Innovations for Poverty Action Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</span></span></span>
 
 ## Why defaults work when motivation fades
 
@@ -553,11 +553,11 @@ Defaults are strongest when they are paired with pre-commitment: a decision made
 
 The classic financial example is Save More Tomorrow, developed by Richard Thaler and Shlomo Benartzi. The programme invited employees to commit in advance to increasing retirement contributions when they received future pay rises, reducing the immediate pain of lower take-home pay. The original paper describes it as a behavioural approach to low saving, built around bounded rationality and self-control problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anderson.ucla.edu">[ucla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anderson.ucla.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Anderson School of Management The broader lesson is not limited to pensions: if a beneficial choice feels costly now but acceptable later, link it to a future moment when the cost is easier to absorb.
 
-Pre-commitment also appears in health and education research. A 2026 study of snack choices found high demand for pre-commitment, with 68.5% of participants wanting to pre-commit to their snack choice for the next day; the study also showed that overriding people’s own pre-commitment choices could change outcomes in asymmetric ways, which underlines the importance of respecting autonomy rather than treating nudges as tricks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167487026000139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Among middle school students, a field experiment found that some students wanted commitment devices for behaviour change, showing that even young people may understand the gap between intention and later action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Pre-commitment also appears in health and education research. A 2026 study of snack choices found high demand for pre-commitment, with 68.5% of participants wanting to pre-commit to their snack choice for the next day; the study also showed that overriding people’s own pre-commitment choices could change outcomes in asymmetric ways, which underlines the importance of respecting autonomy rather than treating nudges as tricks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167487026000139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Among middle school students, a field experiment found that some students wanted commitment devices for [behaviour change]({{ 'behaviour-change/' | relative_url }}), showing that even young people may understand the gap between intention and later action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For everyday self improvement, pre-commitment can be very concrete. Book the morning class before the week starts. Put the distracting app behind a delay or blocker during work hours. Order groceries when you are not hungry. Set a standing meeting with a study partner. Choose tomorrow’s first task before opening email. Lay out running clothes before bed. The value is not that any one of these actions is profound. The value is that they remove a predictable future negotiation.
 
-A useful pre-commitment has to be proportionate. Too weak, and it becomes a decorative intention. Too harsh, and it becomes brittle. Financial penalties, public promises and hard blockers can work for some people, but they can also create shame, avoidance or workarounds. A [recurring booking]({{ 'booked-habits/' | relative_url }}), a calendar block, a default transfer or a prepared environment is often more humane because it adds structure without turning ordinary failure into a crisis.
+A useful pre-commitment has to be proportionate. Too weak, and it becomes a decorative intention. Too harsh, and it becomes brittle. Financial penalties, public promises and hard blockers can work for some people, but they can also create shame, avoidance or workarounds. A recurring booking, a calendar block, a default transfer or a prepared environment is often more humane because it adds structure without turning ordinary failure into a crisis.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-2-dark.svg" | relative_url }}" alt="Defaults illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1040,171 +1040,171 @@ The most defensible defaults are chosen by the person they affect, transparent i
 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2024](https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2024)  
+   Link: <a href="https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 2025 — 31 Jul 2025 — The overall workplace pension participation rate of all employees in Great Britain continued to be around 8...</p></details>
    Published: July 31, 2025  
 
 2. <a id="endnote-2"></a>
    Source: poverty-action.org  
    Title: Innovations for Poverty Action Why Do Defaults Affect Behavior?  
-   Link: [https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf](https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf)  
+   Link: <a href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2107346118](https://www.pnas.org/doi/10.1073/pnas.2107346118)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2107346118</a>  
 
 4. <a id="endnote-4"></a>
    Source: ons.gov.uk  
-   Link: [https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults)  
+   Link: <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults</a>  
 
 5. <a id="endnote-5"></a>
    Source: anderson.ucla.edu  
-   Link: [https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf](https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf)  
+   Link: <a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167487026000139](https://www.sciencedirect.com/science/article/pii/S0167487026000139)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167487026000139" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167487026000139</a>  
 
 7. <a id="endnote-7"></a>
    Source: pure.mpg.de  
    Title: Pu Re Self-Nudging and the Citizen Choice Architect  
-   Link: [https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content](https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content)  
+   Link: <a href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content</a>  
 
 8. <a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027](https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027)  
+   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744](https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0168851022001853](https://www.sciencedirect.com/science/article/pii/S0168851022001853)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0168851022001853" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0168851022001853</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167629622000881](https://www.sciencedirect.com/science/article/pii/S0167629622000881)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167629622000881" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167629622000881</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1057740811000775](https://www.sciencedirect.com/science/article/abs/pii/S1057740811000775)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1057740811000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1057740811000775</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167268124004736](https://www.sciencedirect.com/science/article/abs/pii/S0167268124004736)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268124004736" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268124004736</a>  
 
 14. <a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7c4c5ced915d338141de0b/WP109.pdf](https://assets.publishing.service.gov.uk/media/5a7c4c5ced915d338141de0b/WP109.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c4c5ced915d338141de0b/WP109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4c5ced915d338141de0b/WP109.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a820539e5274a2e8ab57141/automatic-enrolment-evaluation-strategy.pdf](https://assets.publishing.service.gov.uk/media/5a820539e5274a2e8ab57141/automatic-enrolment-evaluation-strategy.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a820539e5274a2e8ab57141/automatic-enrolment-evaluation-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a820539e5274a2e8ab57141/automatic-enrolment-evaluation-strategy.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a75b86140f0b67f59fcf17f/opt-out-research-large-employers-ad_hoc.pdf](https://assets.publishing.service.gov.uk/media/5a75b86140f0b67f59fcf17f/opt-out-research-large-employers-ad_hoc.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75b86140f0b67f59fcf17f/opt-out-research-large-employers-ad_hoc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75b86140f0b67f59fcf17f/opt-out-research-large-employers-ad_hoc.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: default.com  
-   Link: [https://www.default.com/](https://www.default.com/)  
+   Link: <a href="https://www.default.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.default.com/</a>  
 
 18. <a id="endnote-18"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: [https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out](https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out)  
+   Link: <a href="https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out</a>  
 
 19. <a id="endnote-19"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: [https://www.thepensionsregulator.gov.uk/en/document-library/research-and-analysis](https://www.thepensionsregulator.gov.uk/en/document-library/research-and-analysis)  
+   Link: <a href="https://www.thepensionsregulator.gov.uk/en/document-library/research-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/document-library/research-and-analysis</a>  
 
 20. <a id="endnote-20"></a>
    Source: GOV.UK  
    Title: workplace pension participation and savings trends  
-   Link: [https://www.gov.uk/government/collections/workplace-pension-participation-and-savings-trends](https://www.gov.uk/government/collections/workplace-pension-participation-and-savings-trends)  
+   Link: <a href="https://www.gov.uk/government/collections/workplace-pension-participation-and-savings-trends" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/workplace-pension-participation-and-savings-trends</a>  
 
 21. <a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/default](https://dictionary.cambridge.org/us/dictionary/english/default)  
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/default" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/default</a>  
 
 22. <a id="endnote-22"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/journal-of-social-policy/article/understanding-default-behaviour-in-workplace-pensions-automatic-enrolment-in-the-uk/0FF521D34BC932CAA89D9A8EE724C03A](https://www.cambridge.org/core/journals/journal-of-social-policy/article/understanding-default-behaviour-in-workplace-pensions-automatic-enrolment-in-the-uk/0FF521D34BC932CAA89D9A8EE724C03A)  
+   Link: <a href="https://www.cambridge.org/core/journals/journal-of-social-policy/article/understanding-default-behaviour-in-workplace-pensions-automatic-enrolment-in-the-uk/0FF521D34BC932CAA89D9A8EE724C03A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-social-policy/article/understanding-default-behaviour-in-workplace-pensions-automatic-enrolment-in-the-uk/0FF521D34BC932CAA89D9A8EE724C03A</a>  
 
 23. <a id="endnote-23"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/retirement-choice-architecture-insights-from-indias-national-pension-system/B326C14A540CD5A4AF7D2EE7F0024999](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/retirement-choice-architecture-insights-from-indias-national-pension-system/B326C14A540CD5A4AF7D2EE7F0024999)  
+   Link: <a href="https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/retirement-choice-architecture-insights-from-indias-national-pension-system/B326C14A540CD5A4AF7D2EE7F0024999" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/retirement-choice-architecture-insights-from-indias-national-pension-system/B326C14A540CD5A4AF7D2EE7F0024999</a>  
 
 24. <a id="endnote-24"></a>
    Source: ifs.org.uk  
    Title: automatic enrolment too successful nudge boost pension saving  
-   Link: [https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving](https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving)  
+   Link: <a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
 
 25. <a id="endnote-25"></a>
    Source: moneyhelper.org.uk  
-   Link: [https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders](https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders)  
+   Link: <a href="https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders" target="_blank" rel="noopener noreferrer nofollow">https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders</a>  
 
 26. <a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/</a>  
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5835880/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5835880/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5835880/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5835880/</a>  
 
 28. <a id="endnote-28"></a>
    Source: chicagobooth.edu  
-   Link: [https://www.chicagobooth.edu/review/save-more-tomorrow](https://www.chicagobooth.edu/review/save-more-tomorrow)  
+   Link: <a href="https://www.chicagobooth.edu/review/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/save-more-tomorrow</a>  
 
 29. <a id="endnote-29"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/default](https://www.vocabulary.com/dictionary/default)  
+   Link: <a href="https://www.vocabulary.com/dictionary/default" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/default</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Shaping Choices: the Role of Choice Architecture in How We Make Decisions  
-   Link: [https://www.youtube.com/watch?v=mdPRY167rSQ](https://www.youtube.com/watch?v=mdPRY167rSQ)  
+   Link: <a href="https://www.youtube.com/watch?v=mdPRY167rSQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mdPRY167rSQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Set Up Your Space to Build Good Habits Without Willpower...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Behavioural Economics  
-   Link: [https://www.youtube.com/watch?v=ZJHS_PFCJug](https://www.youtube.com/watch?v=ZJHS_PFCJug)  
+   Link: <a href="https://www.youtube.com/watch?v=ZJHS_PFCJug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZJHS_PFCJug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Choices: the Role of Choice Architecture in How We Make Decisions...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: ssa.gov  
-   Link: [https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html](https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html)  
+   Link: <a href="https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: clear.dol.gov  
-   Link: [https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004](https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004)  
+   Link: <a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Behavioural Economics: The Power of Default Choices  
-   Link: [https://www.youtube.com/watch?v=-zMWJw0dK7g](https://www.youtube.com/watch?v=-zMWJw0dK7g)  
+   Link: <a href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-zMWJw0dK7g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Choice Architecture &amp; Nudging...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: piu.org.pl  
-   Link: [https://www.piu.org.pl/public/upload/ibrowser/WU/4%202014/WU%204-2014%2011%20en%20sieczkowski.pdf](https://www.piu.org.pl/public/upload/ibrowser/WU/4%202014/WU%204-2014%2011%20en%20sieczkowski.pdf)  
+   Link: <a href="https://www.piu.org.pl/public/upload/ibrowser/WU/4%202014/WU%204-2014%2011%20en%20sieczkowski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.piu.org.pl/public/upload/ibrowser/WU/4%202014/WU%204-2014%2011%20en%20sieczkowski.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/269517913_Choice_Architecture](https://www.researchgate.net/publication/269517913_Choice_Architecture)  
+   Link: <a href="https://www.researchgate.net/publication/269517913_Choice_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269517913_Choice_Architecture</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/299977517_Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles](https://www.researchgate.net/publication/299977517_Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles)  
+   Link: <a href="https://www.researchgate.net/publication/299977517_Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299977517_Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles</a>  
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/356550966_Options_to_design_more_ethical_and_still_successful_default_nudges_a_review_and_recommendations](https://www.researchgate.net/publication/356550966_Options_to_design_more_ethical_and_still_successful_default_nudges_a_review_and_recommendations)  
+   Link: <a href="https://www.researchgate.net/publication/356550966_Options_to_design_more_ethical_and_still_successful_default_nudges_a_review_and_recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356550966_Options_to_design_more_ethical_and_still_successful_default_nudges_a_review_and_recommendations</a>  
 
 39. <a id="endnote-39"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/122442441/Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles](https://www.academia.edu/122442441/Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles)  
+   Link: <a href="https://www.academia.edu/122442441/Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/122442441/Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles</a>  

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:17:15'
 parent_title: What Health Habits Teach About Change | Better Change
 parent_permalink: /health-habits/
 parent_nav_short_title: Health Habits
@@ -265,7 +266,6 @@ next_link:
   permalink: /stable-cues/
   short_title: Stable Cues
   heading_title: The cue that makes a habit easier
-date: '2026-06-05 16:17:15 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_mi
 
 ## Introduction
 
-Does missing one day ruin a habit? The evidence says no. One of the most persistent mistakes in self-improvement is treating a habit as a fragile streak that must remain unbroken. In reality, [health habits]({{ 'health-habits/' | relative_url }}) are built through repeated returns to the same cue and behaviour over time, not through flawless execution. The research that helped popularise the modern understanding of habit formation found that missing a single opportunity to perform a behaviour did not significantly disrupt the habit-building process. What mattered was the larger pattern of repetition. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? | UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span>
+Does missing one day ruin a habit? The evidence says no. One of the most persistent mistakes in self-improvement is treating a habit as a fragile streak that must remain unbroken. In reality, [health habits]({{ 'health-habits/' | relative_url }}) are built through repeated returns to the same cue and behaviour over time, not through flawless execution. The research that helped popularise the modern understanding of habit formation found that missing a single opportunity to perform a behaviour did not significantly disrupt the habit-building process. What mattered was the larger pattern of repetition. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? &#124; UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-1-dark.svg" | relative_url }}" alt="Missed Days illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,11 +282,11 @@ This distinction matters because many people abandon habits not when they fail r
 
 ## Why flawless streaks are a weak standard
 
-Streaks are appealing because they provide a simple score. Consecutive days of success create [visible progress]({{ 'visible-records/' | relative_url }}), immediate [feedback]({{ 'feedback/' | relative_url }}), and a sense of momentum. Many habit-tracking tools are built around this principle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">They are built when behavior is performed for a series of consecutive days - the number of days is the streak.Read more...</span></span></span>
+Streaks are appealing because they provide a simple score. Consecutive days of success create visible progress, immediate [feedback]({{ 'feedback/' | relative_url }}), and a sense of momentum. Many habit-tracking tools are built around this principle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">They are built when behavior is performed for a series of consecutive days - the number of days is the streak.Read more...</span></span></span>
 
 The problem is that streaks measure uninterrupted performance, while habit formation is about increasing [automaticity]({{ 'automaticity/' | relative_url }})—the extent to which a behaviour becomes easier to initiate in response to a cue. These are related but not identical goals. Someone can maintain a streak through intense effort and still not have a deeply established habit. Conversely, someone can miss an occasional day while steadily strengthening a cue-behaviour association. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Missing the occasio...</span></span></span>
 
-The streak mindset also creates a psychological cliff edge. Progress appears binary: either the streak survives or it is lost. When that happens, the emotional response is often disproportionate to the behavioural lapse. A single missed day becomes interpreted as evidence of failure rather than a normal interruption. Community discussions around habit tracking repeatedly show this pattern, with people reporting that [motivation]({{ 'motivation/' | relative_url }}) collapses after breaking a long streak even when their overall adherence remains high. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/getdisciplined/comments/1s0um3d/habit_trackers_always_work_for_me_until_i_miss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHabit trackers always work for me until I miss one day....I&#x27;ve been trying to build better habits for years (exercise, reading, jo...</span></span></span>
+The streak mindset also creates a psychological cliff edge. Progress appears binary: either the streak survives or it is lost. When that happens, the emotional response is often disproportionate to the behavioural lapse. A single missed day becomes interpreted as evidence of failure rather than a normal interruption. Community discussions around habit tracking repeatedly show this pattern, with people reporting that [motivation]({{ 'motivation/' | relative_url }}) collapses after breaking a long streak even when their overall adherence remains high. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/getdisciplined/comments/1s0um3d/habit_trackers_always_work_for_me_until_i_miss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Habit trackers always work for me until I miss one day....I&#x27;ve been trying to build better habits for years (exercise, reading, jo...</span></span></span>
 
 For health habits, this is especially unhelpful because illness, travel, family obligations, poor sleep, work deadlines, and unexpected events are inevitable. A system that assumes uninterrupted performance is often less realistic than the life it is supposed to improve.
 
@@ -295,7 +295,7 @@ For health habits, this is especially unhelpful because illness, travel, family 
 
 ## How stable repetition absorbs imperfect days
 
-The strongest evidence against the [streak trap]({{ 'streak-trap/' | relative_url }}) comes from habit formation research itself. In the influential real-world study led by Phillippa Lally and colleagues, participants repeated health-related behaviours in consistent contexts over time. The researchers observed that habit strength generally increased gradually and that missing one opportunity to perform the behaviour did not materially affect the overall trajectory of habit formation. Automaticity resumed increasing when the behaviour resumed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) How are habits formed: Modelling habit formation in...Missing one opportunity to perform the behavior did not significantl...</span></span></span> 3PubMed Central 3University College London(#endnote-5 "Snippet: How long does it take <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? | UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span> to form a habit? | UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...")
+The strongest evidence against the [streak trap]({{ 'streak-trap/' | relative_url }}) comes from habit formation research itself. In the influential real-world study led by Phillippa Lally and colleagues, participants repeated health-related behaviours in consistent contexts over time. The researchers observed that habit strength generally increased gradually and that missing one opportunity to perform the behaviour did not materially affect the overall trajectory of habit formation. Automaticity resumed increasing when the behaviour resumed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) How are habits formed: Modelling habit formation in...Missing one opportunity to perform the behavior did not significantl...</span></span></span> 3PubMed Central 3University College London(#endnote-5 "Snippet: How long does it take <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? &#124; UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span> to form a habit? | UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...")
 
 This finding makes sense when viewed as a learning process rather than a scorekeeping exercise.
 
@@ -369,13 +369,13 @@ Consider two people trying to establish a daily walking habit:
 
 The second person has the stronger habit-building process despite having the shorter streak.
 
-This illustrates a broader principle in evidence-based self-improvement: resilience of repetition matters more than perfection of repetition. Habit formation occurs in the real world, where interruptions are unavoidable. The individuals who succeed are often not those who never miss a day, but those who treat missed days as temporary deviations rather than evidence that the project has failed. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? | UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span>
+This illustrates a broader principle in evidence-based self-improvement: resilience of repetition matters more than perfection of repetition. Habit formation occurs in the real world, where interruptions are unavoidable. The individuals who succeed are often not those who never miss a day, but those who treat missed days as temporary deviations rather than evidence that the project has failed. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? &#124; UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-3-dark.svg" | relative_url }}" alt="Missed Days illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway
 
-The habit streak trap confuses uninterrupted performance with successful habit formation. Research suggests that missing a single opportunity to perform a health behaviour does not significantly damage the habit-building process. What matters is returning to the same cue and behaviour often enough for the overall repetition pattern to continue. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? | UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span>
+The habit streak trap confuses uninterrupted performance with successful habit formation. Research suggests that missing a single opportunity to perform a health behaviour does not significantly damage the habit-building process. What matters is returning to the same cue and behaviour often enough for the overall repetition pattern to continue. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? &#124; UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span>
 
 For health habits, the most useful standard is not “never miss”. It is “never let one miss become the reason you stop”. In imperfect weeks, recovery is not a backup strategy. It is part of the habit itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Missing the occasio...</span></span></span>
 
@@ -469,193 +469,415 @@ For health habits, the most useful standard is not “never miss”. It is “ne
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open habit tracker board on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20habit%20tracker%20board%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EHabit%20Tracker%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EBoard%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EHabit%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETracker%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EBoard%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for habit tracker board on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">habit tracker board</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Habit</span><span class="fr-search-tag">Tracker</span><span class="fr-search-tag">Board</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="https://i.ebayimg.com/images/g/xEIAAeSwfyppqhG~/s-l225.jpg" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open habit tracker on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20habit%20tracker%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EHabit%20Tracker%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EHabit%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETracker%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for habit tracker on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">habit tracker</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Habit</span><span class="fr-search-tag">Tracker</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun"><img src="https://i.ebayimg.com/images/g/FskAAeSwncVpaL0F/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open habit tracker journal on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20habit%20tracker%20journal%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EHabit%20Tracker%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EJournal%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EHabit%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETracker%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EJournal%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for habit tracker journal on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">habit tracker journal</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Habit</span><span class="fr-search-tag">Tracker</span><span class="fr-search-tag">Journal</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun"><img src="https://i.ebayimg.com/images/g/cOEAAeSw5jFppzlq/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=does+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-does-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open does poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20does%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDoes%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDoes%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for does poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">does poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Does</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=does+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-does-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound"><img src="https://i.ebayimg.com/images/g/WrEAAeSwMX9pTtTw/s-l225.jpg" alt="Listing image for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-00854b-does-missing-one-day-ruin-a-habit-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
     </div>
   </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/getdisciplined/comments/1s0um3d/habit_trackers_always_work_for_me_until_i_miss/](https://www.reddit.com/r/getdisciplined/comments/1s0um3d/habit_trackers_always_work_for_me_until_i_miss/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHabit trackers always work for me until I miss one day....I&#x27;ve been trying to build better habits for years (exercise, reading, jo...</p></details>
+   Link: <a href="https://www.reddit.com/r/getdisciplined/comments/1s0um3d/habit_trackers_always_work_for_me_until_i_miss/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/getdisciplined/comments/1s0um3d/habit_trackers_always_work_for_me_until_i_miss/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit trackers always work for me until I miss one day....I&#x27;ve been trying to build better habits for years (exercise, reading, jo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Habits/comments/1tk5apf/habits_form_in_an_average_of_66_days_not_21_and/](https://www.reddit.com/r/Habits/comments/1tk5apf/habits_form_in_an_average_of_66_days_not_21_and/)  
+   Link: <a href="https://www.reddit.com/r/Habits/comments/1tk5apf/habits_form_in_an_average_of_66_days_not_21_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Habits/comments/1tk5apf/habits_form_in_an_average_of_66_days_not_21_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and missing a day doesn&#x27;t reset the clock (Lally et al., 2010)Habits form in an average of [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;), not 21 — and missing a day doesn&#x27;t re...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world](https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) How are habits formed: Modelling habit formation in...Missing one opportunity to perform the behavior did not significantl...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Missing the occasio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ucl.ac.uk  
    Title: University College London How long does it take to form a habit?  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How long does it take to form a habit? | UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — While habits can start for...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online How does habit form?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277](https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 106 — This paper proposes methodological criteria for studies tracki...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf](https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They are built when behavior is performed for a series of consecutive days - the number of days is the streak.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: neuroregulation.org  
-   Link: [https://www.neuroregulation.org/article/view/23416](https://www.neuroregulation.org/article/view/23416)  
+   Link: <a href="https://www.neuroregulation.org/article/view/23416" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroregulation.org/article/view/23416</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation and Automaticity: Psychoneurobiological...by C Leaf · 2024 · Cited by 4 — The current pilot study seeks to contribute to...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review Examining the Relationship Between...by K Feil · 2021 · Cited by 98 — The aim of this review was to examine the rela...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants](https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants)  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — 21 Habit formation typically requires repeated exposure over time, wi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf](https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: repositorio.ispa.pt  
-   Link: [https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688](https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688)  
+   Link: <a href="https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688" target="_blank" rel="noopener noreferrer nofollow">https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>habit formation in the real worldMissing one opportunity to perform the behaviour did not materially affect the habit formation process...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: surrey.ac.uk  
    Title: does it really take 66 days form habit we asked expert dr pippa lally  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?Jan 21, 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/habit-tracker](https://jamesclear.com/habit-tracker)  
+   Link: <a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most basic format is to get a calendar and cross off each day you stick with your...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: neenjames.com  
    Title: Notes from Neen: It takes 21 days to form a new habit?  
-   Link: [https://neenjames.com/notes-from-neen-it-takes-21-days-to-form-a-new-habit-thats-rubbish/](https://neenjames.com/notes-from-neen-it-takes-21-days-to-form-a-new-habit-thats-rubbish/)  
+   Link: <a href="https://neenjames.com/notes-from-neen-it-takes-21-days-to-form-a-new-habit-thats-rubbish/" target="_blank" rel="noopener noreferrer nofollow">https://neenjames.com/notes-from-neen-it-takes-21-days-to-form-a-new-habit-thats-rubbish/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2024 — (The study also found that “missing one opportunity to perform the behavior did not materially affect the habit formation pr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jamesclear.com  
    Title: James Clear How Long Does it Take to Form a Habit?  
-   Link: [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit)  
+   Link: <a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Backed by Science.Interestingly, the researchers also found that “missing one opportunity to perform the behavior did not materially affe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scienceofselfhelp.org  
-   Link: [https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a](https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a)  
+   Link: <a href="https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a" target="_blank" rel="noopener noreferrer nofollow">https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit26 Jul 2013 — The study suggests that some tasks take less time and some tasks more time before they are considered a habit, but the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DRSmsDGgc_2/?__d=1%25252F](https://www.instagram.com/p/DRSmsDGgc_2/?__d=1%25252F)  
+   Link: <a href="https://www.instagram.com/p/DRSmsDGgc_2/?__d=1%25252F" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRSmsDGgc_2/?__d=1%25252F</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>asurable effect. But two missed days starts a new trajectory.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/](https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/)  
+   Link: <a href="https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd that it did not affect the habit formation process (2). 1.Read more...</p></details>

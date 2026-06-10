@@ -506,7 +506,7 @@ Starting small works when it is used as an entry point, not as a permanent ceili
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-overview.webp" | relative_url }}" alt="Overview image for Small Starts" loading="eager" decoding="sync" fetchpriority="high">
-The evidence behind this is practical rather than glamorous. Habit studies show that simple repeated actions in stable contexts can become more automatic over time, but [complex behaviours]({{ 'complex-goals/' | relative_url }}) usually need longer, clearer support and ongoing adjustment. Behaviour-change research also separates active ingredients such as goal setting, action planning, self-monitoring, prompts, feedback and graded progression, rather than treating [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) as a single burst of motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositorio.ispa.pt">[Repositório ISPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositorio.ispa.pt</span><span class="citation-popover-snippet">Repositório ISPAModelling habit formation in the real worldTo investigate the process of habit formation in everyday life, 96 volunteers...</span></span></span>
+The evidence behind this is practical rather than glamorous. Habit studies show that simple repeated actions in stable contexts can become more automatic over time, but complex behaviours usually need longer, clearer support and ongoing adjustment. Behaviour-change research also separates active ingredients such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, self-monitoring, prompts, feedback and graded progression, rather than treating [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) as a single burst of motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositorio.ispa.pt">[Repositório ISPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositorio.ispa.pt</span><span class="citation-popover-snippet">Repositório ISPAModelling habit formation in the real worldTo investigate the process of habit formation in everyday life, 96 volunteers...</span></span></span>
 
 ## Why Small Starts Work
 
@@ -558,7 +558,7 @@ For example:
 
 </div>
 
-This is where self-monitoring matters. The Behaviour Change Technique Taxonomy classifies techniques such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, self-monitoring, feedback and prompts as distinct active components of behaviour-change interventions. Reviews of digital behaviour-change work also find that self-monitoring, goal setting, prompts and feedback are among the most commonly used techniques for habit-related interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</span></span></span>
+This is where self-monitoring matters. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy classifies techniques such as goal setting, action planning, self-monitoring, feedback and prompts as distinct active components of behaviour-change interventions. Reviews of digital behaviour-change work also find that self-monitoring, goal setting, prompts and feedback are among the most commonly used techniques for habit-related interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</span></span></span>
 
 Progression without overload means using that feedback to raise the bar when the current step has become ordinary, not when guilt spikes. A person who completes a five-minute habit on 18 of 21 days may be ready to increase. A person who completes it twice and then disappears probably needs a better cue, a smaller first step or a more realistic setting before adding difficulty.
 
@@ -592,7 +592,7 @@ A practical rule is to increase only one variable at a time. Add duration, frequ
 
 “Start small” can quietly become avoidance when the first version no longer matches the goal. This happens in several common ways.
 
-One is **identity comfort**: the person likes being someone who has a habit, even if the habit is too small to change the outcome. Another is **[streak protection]({{ 'streak-trap/' | relative_url }})**: the person avoids harder versions because they might break the perfect run. A third is **planning substitution**: the person keeps refining the tiny action instead of confronting the real skill, conversation, application, workout or creative risk.
+One is **identity comfort**: the person likes being someone who has a habit, even if the habit is too small to change the outcome. Another is **streak protection**: the person avoids harder versions because they might break the perfect run. A third is **planning [substitution]({{ 'substitution/' | relative_url }})**: the person keeps refining the tiny action instead of confronting the real skill, conversation, application, workout or creative risk.
 
 There is also a genuine evidence-based caution: goal setting alone is not always enough. Behaviour-change studies often treat goals as one ingredient among others, and reviews of self-regulatory techniques suggest that no single technique works uniformly across every context. A small goal becomes more useful when paired with action planning, feedback, prompts, review and adjustment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehaviour change techniques that constitute effective</span><span class="citation-popover-snippet">PMCBehaviour change techniques that constitute effective</span></span></span>
 
@@ -1049,126 +1049,126 @@ This is why small starts are powerful but incomplete. They are excellent for red
 
 1. <a id="endnote-1"></a>
    Source: repositorio.ispa.pt  
-   Link: [https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688](https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688)  
+   Link: <a href="https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688" target="_blank" rel="noopener noreferrer nofollow">https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
 
 4. <a id="endnote-4"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M. Gollwitzer New York  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: tourniquets.org  
-   Link: [https://tourniquets.org/wp-content/uploads/PDFs/ACSM-Progression-models-in-resistance-training-for-healthy-adults-2009.pdf](https://tourniquets.org/wp-content/uploads/PDFs/ACSM-Progression-models-in-resistance-training-for-healthy-adults-2009.pdf)  
+   Link: <a href="https://tourniquets.org/wp-content/uploads/PDFs/ACSM-Progression-models-in-resistance-training-for-healthy-adults-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tourniquets.org/wp-content/uploads/PDFs/ACSM-Progression-models-in-resistance-training-for-healthy-adults-2009.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: health.gov  
-   Link: [https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf](https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf)  
+   Link: <a href="https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: whatworks.site  
    Title: What Works.site  
-   Link: [https://whatworks.site/habit-automaticity/](https://whatworks.site/habit-automaticity/)  
+   Link: <a href="https://whatworks.site/habit-automaticity/" target="_blank" rel="noopener noreferrer nofollow">https://whatworks.site/habit-automaticity/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBehaviour change techniques that constitute effective  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/</a>  
 
 10. <a id="endnote-10"></a>
    Source: repositorio.ispa.pt  
    Title: IJSP 998 1009  
-   Link: [https://repositorio.ispa.pt/bitstream/10400.12/3364/1/IJSP_998-1009.pdf](https://repositorio.ispa.pt/bitstream/10400.12/3364/1/IJSP_998-1009.pdf)  
+   Link: <a href="https://repositorio.ispa.pt/bitstream/10400.12/3364/1/IJSP_998-1009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repositorio.ispa.pt/bitstream/10400.12/3364/1/IJSP_998-1009.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: cci.health.wa.gov.au  
-   Link: [https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Back-from-The-Bluez/Back-from-the-Bluez---02---Behavioural-Strategies.pdf](https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Back-from-The-Bluez/Back-from-the-Bluez---02---Behavioural-Strategies.pdf)  
+   Link: <a href="https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Back-from-The-Bluez/Back-from-the-Bluez---02---Behavioural-Strategies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Back-from-The-Bluez/Back-from-the-Bluez---02---Behavioural-Strategies.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: openaccess.city.ac.uk  
    Title: Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1  
-   Link: [https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf](https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Progressive overload  
-   Link: [https://en.wikipedia.org/wiki/Progressive_overload](https://en.wikipedia.org/wiki/Progressive_overload)  
+   Link: <a href="https://en.wikipedia.org/wiki/Progressive_overload" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Progressive_overload</a>  
 
 15. <a id="endnote-15"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
 16. <a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1324007/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1324007/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1324007/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1324007/full</a>  
 
 17. <a id="endnote-17"></a>
    Source: ssoar.info  
-   Link: [https://www.ssoar.info/ssoar/handle/document/102385](https://www.ssoar.info/ssoar/handle/document/102385)  
+   Link: <a href="https://www.ssoar.info/ssoar/handle/document/102385" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/handle/document/102385</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Tiny Habits: Small Changes Change Everything with BJ Fogg  
-   Link: [https://www.youtube.com/watch?v=uTawbZA7odY](https://www.youtube.com/watch?v=uTawbZA7odY)  
+   Link: <a href="https://www.youtube.com/watch?v=uTawbZA7odY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uTawbZA7odY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Is What People With Iron Discipline Do Every Day (And Most of Us Forgot All of It)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Fogg Behavior Model for Startups  
-   Link: [https://www.youtube.com/watch?v=y6iJ0TaVtXc](https://www.youtube.com/watch?v=y6iJ0TaVtXc)  
+   Link: <a href="https://www.youtube.com/watch?v=y6iJ0TaVtXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y6iJ0TaVtXc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TINY HABITS by B.J. Fogg – Animated Book Summary...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: BJ Fogg: Why Big Change Starts With Tiny Habits  
-   Link: [https://www.youtube.com/watch?v=eXM2lIRCjc0](https://www.youtube.com/watch?v=eXM2lIRCjc0)  
+   Link: <a href="https://www.youtube.com/watch?v=eXM2lIRCjc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eXM2lIRCjc0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model for Startups - SaaS Customer Behavior [Open Office Hours]...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: TINY HABITS by B.J. Fogg – Animated Book  
-   Link: [https://www.youtube.com/watch?v=ijInaXZy0pU](https://www.youtube.com/watch?v=ijInaXZy0pU)  
+   Link: <a href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ijInaXZy0pU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: Small Changes Change Everything with BJ Fogg...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/316174359_FACILITATING_SUCCESSFUL_BEHAVIOR_CHANGE_BEYOND_GOAL_SETTING_TO_GOAL_FLOURISHING](https://www.researchgate.net/publication/316174359_FACILITATING_SUCCESSFUL_BEHAVIOR_CHANGE_BEYOND_GOAL_SETTING_TO_GOAL_FLOURISHING)  
+   Link: <a href="https://www.researchgate.net/publication/316174359_FACILITATING_SUCCESSFUL_BEHAVIOR_CHANGE_BEYOND_GOAL_SETTING_TO_GOAL_FLOURISHING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316174359_FACILITATING_SUCCESSFUL_BEHAVIOR_CHANGE_BEYOND_GOAL_SETTING_TO_GOAL_FLOURISHING</a>  
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change](https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change)  
+   Link: <a href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/235653976_Progression_models_in_resistance_training_for_healthy_adults_ACSM_position_stand](https://www.researchgate.net/publication/235653976_Progression_models_in_resistance_training_for_healthy_adults_ACSM_position_stand)  
+   Link: <a href="https://www.researchgate.net/publication/235653976_Progression_models_in_resistance_training_for_healthy_adults_ACSM_position_stand" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235653976_Progression_models_in_resistance_training_for_healthy_adults_ACSM_position_stand</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371138601_Self-Regulated_Learning](https://www.researchgate.net/publication/371138601_Self-Regulated_Learning)  
+   Link: <a href="https://www.researchgate.net/publication/371138601_Self-Regulated_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371138601_Self-Regulated_Learning</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  

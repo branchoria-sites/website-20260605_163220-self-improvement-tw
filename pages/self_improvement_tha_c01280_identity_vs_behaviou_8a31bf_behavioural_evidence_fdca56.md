@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_be
 
 ## Introduction
 
-In the debate between [identity]({{ 'identity/' | relative_url }}) change and behaviour design, one principle repeatedly emerges from psychology and habit research: self-image becomes more believable when it is supported by evidence. Rather than starting with a declaration such as “I am disciplined” or “I am a runner”, lasting change is often built by accumulating small actions that make those statements increasingly true. Behaviour comes first; identity becomes a summary of repeated behaviour later. Research on self-perception, habits and identity formation suggests that people frequently learn who they are by observing what they consistently do, not merely by deciding what they wish to be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/self-perception-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSelf Perception TheorySelf perception theory argues that people become aware of certain attitudes by observing their own...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/health-and-medicine/self-perception-theory-spt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Self-perception theory (SPT) | Health and MedicineSelf-perception theory (SPT) is a concept in social psychology introduced by Daryl Bem...</span></span></span> This does not mean identity is unimportant. It means that identity claims are strongest when they rest on observable proof. A new self-imagegains credibility when it can survive contact with ordinary days, competing priorities and imperfect [motivation]({{ 'motivation/' | relative_url }}).
+In the debate between [identity]({{ 'identity/' | relative_url }}) change and behaviour design, one principle repeatedly emerges from psychology and habit research: self-image becomes more believable when it is supported by evidence. Rather than starting with a declaration such as “I am disciplined” or “I am a runner”, lasting change is often built by accumulating small actions that make those statements increasingly true. Behaviour comes first; identity becomes a summary of repeated behaviour later. Research on self-perception, habits and identity formation suggests that people frequently learn who they are by observing what they consistently do, not merely by deciding what they wish to be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/self-perception-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSelf Perception TheorySelf perception theory argues that people become aware of certain attitudes by observing their own...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/health-and-medicine/self-perception-theory-spt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Self-perception theory (SPT) &#124; Health and MedicineSelf-perception theory (SPT) is a concept in social psychology introduced by Daryl Bem...</span></span></span> This does not mean identity is unimportant. It means that identity claims are strongest when they rest on observable proof. A new self-imagegains credibility when it can survive contact with ordinary days, competing priorities and imperfect [motivation]({{ 'motivation/' | relative_url }}).
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-1-dark.svg" | relative_url }}" alt="Proof first illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -308,14 +308,14 @@ Popular habit literature often describes actions as “votes” for a particular
 
 People often overestimate the importance of intentions because intentions are emotionally vivid. Behavioural evidence is less dramatic but more reliable.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Consider two people:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Consider two people:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</span></span></span>
 
 * Person A says they are committed to fitness and talks about it frequently.
 * Person B quietly walks for twenty minutes every weekday.
 
 After three months, Person B possesses a stronger factual basis for a fitness-related identity. The repeated action provides visible proof that can be observed by both the individual and others.
 
-This distinction matters because habits are not merely behaviours that happen often. Strong habits become integrated into a person's sense of self. Research examining habit and identity found that habits can become connected to what people regard as their “true self”, particularly when behaviours are repeated and personally meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedHabit and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 150 — When habits relate to feelings of i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</span></span></span>
+This distinction matters because habits are not merely behaviours that happen often. Strong habits become integrated into a person's sense of self. Research examining habit and identity found that habits can become connected to what people regard as their “true self”, particularly when behaviours are repeated and personally meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 150 — When habits relate to feelings of i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</span></span></span>
 
 ### Small actions reduce the credibility gap
 
@@ -355,7 +355,7 @@ Statements such as “I feel more motivated” or “I think differently now” 
 
 A single action proves almost nothing.
 
-Identity grows from patterns rather than isolated events. Research on habits consistently emphasises repetition because recurring behaviour is what gradually becomes automatic and integrated into self-concept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedHabit and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 150 — When habits relate to feelings of i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap-journals.onlinelibrary.wiley.com">[IAAP Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap-journals.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">IAAP JournalsThe relationship between habit and identity in health...19 Mar 2025 — In sum, this meta-analytic review provides evidence t...</span></span></span>
+Identity grows from patterns rather than isolated events. Research on habits consistently emphasises repetition because recurring behaviour is what gradually becomes automatic and integrated into self-concept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 150 — When habits relate to feelings of i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap-journals.onlinelibrary.wiley.com">[IAAP Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap-journals.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">IAAP JournalsThe relationship between habit and identity in health...19 Mar 2025 — In sum, this meta-analytic review provides evidence t...</span></span></span>
 
 The critical question is not whether a behaviour happened once but whether it continues under ordinary conditions.
 
@@ -371,7 +371,7 @@ A person who writes only when inspired has evidence of occasional writing. A per
 The difference is important because identity becomes believable when behaviour remains stable across different situations. Evidence gathered only under ideal conditions is weaker than evidence gathered under real-life constraints.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8dHEG7WxR4c" title="The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer">The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 1.8M &middot; Uploaded: January 2026 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8dHEG7WxR4c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_WI57kpiVg" title="Daryl Bem&#x27;s Self Perception Theory | Social Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_WI57kpiVg" target="_blank" rel="noopener noreferrer">Daryl Bem&#x27;s Self Perception Theory | Social Psychology</a></p><p class="youtube-embed-meta">Channel: Sociologylearners &middot; Views: 224 &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_WI57kpiVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_WI57kpiVg">Open on YouTube</a></p></div></div></div>
 
 ## Proof first, identity second
 
@@ -404,7 +404,7 @@ Within self-improvement that works, the most reliable approach is often to treat
 
 The person who has exercised fifty times possesses stronger grounds for seeing themselves as active than the person who merely adopted the label. The person who has written regularly for months has more reason to identify as a writer than the person who has only imagined becoming one.
 
-Identity is not irrelevant. It can provide direction, meaning and persistence. But behaviour supplies the proof. When small actions are repeated long enough to form a visible pattern, self-image stops being a hopeful claim and starts becoming a reasonable conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0272494423000440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect From attitude to identity?</span><span class="citation-popover-snippet">A field experiment on...by L Randers · 2023 · Cited by 25 — Self-perception theory suggests that a person&#x27;s behavioural history matters...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedHabit and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 150 — When habits relate to feelings of i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</span></span></span>
+Identity is not irrelevant. It can provide direction, meaning and persistence. But behaviour supplies the proof. When small actions are repeated long enough to form a visible pattern, self-image stops being a hopeful claim and starts becoming a reasonable conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0272494423000440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect From attitude to identity?</span><span class="citation-popover-snippet">A field experiment on...by L Randers · 2023 · Cited by 25 — Self-perception theory suggests that a person&#x27;s behavioural history matters...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 150 — When habits relate to feelings of i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -827,127 +827,127 @@ Identity is not irrelevant. It can provide direction, meaning and persistence. B
 
 1. <a id="endnote-1"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/health-and-medicine/self-perception-theory-spt](https://www.ebsco.com/research-starters/health-and-medicine/self-perception-theory-spt)  
+   Link: <a href="https://www.ebsco.com/research-starters/health-and-medicine/self-perception-theory-spt" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/health-and-medicine/self-perception-theory-spt</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect From attitude to identity?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0272494423000440](https://www.sciencedirect.com/science/article/pii/S0272494423000440)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0272494423000440" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0272494423000440</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A field experiment on...by L Randers · 2023 · Cited by 25 — Self-perception theory suggests that a person&#x27;s behavioural history matters...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108600246](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108600246)  
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108600246" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108600246</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It discusses some...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: psychology.town  
    Title: self perception theory attitudes understanding  
-   Link: [https://psychology.town/social/self-perception-theory-attitudes-understanding/](https://psychology.town/social/self-perception-theory-attitudes-understanding/)  
+   Link: <a href="https://psychology.town/social/self-perception-theory-attitudes-understanding/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/self-perception-theory-attitudes-understanding/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Attitudes Through Self-Perception Theory9 Oct 2025 — Self-perception theory proposes that individuals learn about their own...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: psychology.town  
    Title: self understanding social comparison self perception  
-   Link: [https://psychology.town/advanced-social/self-understanding-social-comparison-self-perception/](https://psychology.town/advanced-social/self-understanding-social-comparison-self-perception/)  
+   Link: <a href="https://psychology.town/advanced-social/self-understanding-social-comparison-self-perception/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/advanced-social/self-understanding-social-comparison-self-perception/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Understanding Through Social Comparison and...24 Sept 2025 — Explore how social comparison, self-perception, and cognitive dissonan...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/self-perception-theory](https://thedecisionlab.com/reference-guide/psychology/self-perception-theory)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/self-perception-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/self-perception-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabSelf Perception TheorySelf perception theory argues that people become aware of certain attitudes by observing their own...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/identity-votes](https://jamesclear.com/identity-votes)  
+   Link: <a href="https://jamesclear.com/identity-votes" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/identity-votes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearHow to Change Your Beliefs and Stick to Your Goals for...The best way to stick to your goals is to build identity-based habit...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31354563/](https://pubmed.ncbi.nlm.nih.gov/31354563/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedHabit and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 150 — When habits relate to feelings of i...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31354563/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 150 — When habits relate to feelings of i...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: annualreviews.org  
    Title: annurev psych 020821 011744  
-   Link: [https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-011744](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-011744)  
+   Link: <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-011744" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-011744</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReviewsAttitudes, Habits, and Behavior Changeby B Verplanken · 2022 · Cited by 547 — Efforts to guide peoples&#x27; behavior toward env...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: annualreviews.org  
    Title: annurev psych 020821 011744  
-   Link: [https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&checksum=25BC0568471D2B3B1729FC0D8A37C3FC&expires=1734081569&id=id](https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&checksum=25BC0568471D2B3B1729FC0D8A37C3FC&expires=1734081569&id=id)  
+   Link: <a href="https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Attitudes, Habits, and Behavior Change4 Jan 2022 — Attitudes, Habits, and Behavior Change. Bas Verplanken1 and Sheina Orbell2. View Affil...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: [https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70017](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70017)  
+   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70017" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70017</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IAAP JournalsThe relationship between habit and identity in health...19 Mar 2025 — In sum, this meta-analytic review provides evidence t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/identity-based-habits](https://jamesclear.com/identity-based-habits)  
+   Link: <a href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/identity-based-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new identity f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: study.com  
    Title: Self-Perception Theory | Definition & Examples  
-   Link: [https://study.com/academy/lesson/self-perception-theory-definition-and-examples.html](https://study.com/academy/lesson/self-perception-theory-definition-and-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/self-perception-theory-definition-and-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/self-perception-theory-definition-and-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LessonSelf-perception theory says that people learn about their own attitudes and character traits by observing their own behavior.Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/334372119_Habit_and_Identity_Behavioral_Cognitive_Affective_and_Motivational_Facets_of_an_Integrated_Self](https://www.researchgate.net/publication/334372119_Habit_and_Identity_Behavioral_Cognitive_Affective_and_Motivational_Facets_of_an_Integrated_Self)  
+   Link: <a href="https://www.researchgate.net/publication/334372119_Habit_and_Identity_Behavioral_Cognitive_Affective_and_Motivational_Facets_of_an_Integrated_Self" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334372119_Habit_and_Identity_Behavioral_Cognitive_Affective_and_Motivational_Facets_of_an_Integrated_Self</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit and Identity: Behavioral, Cognitive, Affective...10 Jul 2019 — Two studies investigated associations between habits and iden...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: goodlifeproject.com  
-   Link: [https://www.goodlifeproject.com/podcast/atomic-habits-identity-habits-behavior-change-james-clear/](https://www.goodlifeproject.com/podcast/atomic-habits-identity-habits-behavior-change-james-clear/)  
+   Link: <a href="https://www.goodlifeproject.com/podcast/atomic-habits-identity-habits-behavior-change-james-clear/" target="_blank" rel="noopener noreferrer nofollow">https://www.goodlifeproject.com/podcast/atomic-habits-identity-habits-behavior-change-james-clear/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Build Habits That Stick | James Clear [Best of]You know, I talk about this in chapter two of the book about this idea of like iden...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tumcso.com  
-   Link: [https://www.tumcso.com/teaching/courses/courses/work-and-life-skills-ss-23/work-life-skills-23/habits-page-by-eva-schroeder/drive-change/identity-based-habits](https://www.tumcso.com/teaching/courses/courses/work-and-life-skills-ss-23/work-life-skills-23/habits-page-by-eva-schroeder/drive-change/identity-based-habits)  
+   Link: <a href="https://www.tumcso.com/teaching/courses/courses/work-and-life-skills-ss-23/work-life-skills-23/habits-page-by-eva-schroeder/drive-change/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.tumcso.com/teaching/courses/courses/work-and-life-skills-ss-23/work-life-skills-23/habits-page-by-eva-schroeder/drive-change/identity-based-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-Based HabitsA helpful framework by James Clear helps you to quickly define an identity-based habit, by defining the person you w...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: litcharts.com  
-   Link: [https://www.litcharts.com/lit/atomic-habits/themes/identity-based-habits](https://www.litcharts.com/lit/atomic-habits/themes/identity-based-habits)  
+   Link: <a href="https://www.litcharts.com/lit/atomic-habits/themes/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.litcharts.com/lit/atomic-habits/themes/identity-based-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-Based Habits Theme in Atomic HabitsClear contends that lasting behavioral change depends not on what you want to achieve, but on...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: itsacademic.co.uk  
-   Link: [https://itsacademic.co.uk/self-perception-theory-1](https://itsacademic.co.uk/self-perception-theory-1)  
+   Link: <a href="https://itsacademic.co.uk/self-perception-theory-1" target="_blank" rel="noopener noreferrer nofollow">https://itsacademic.co.uk/self-perception-theory-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Perception TheorySELF-PERCEPTION THEORY · Behavioural Cues: The theory asserts that people infer their attitudes from observing thei...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/277682193_Self-Perception_Theory](https://www.researchgate.net/publication/277682193_Self-Perception_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/277682193_Self-Perception_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277682193_Self-Perception_Theory</a>  
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/identity-based-habits-secret-lasting-change-eric-michiels-bwndf](https://www.linkedin.com/pulse/identity-based-habits-secret-lasting-change-eric-michiels-bwndf)  
+   Link: <a href="https://www.linkedin.com/pulse/identity-based-habits-secret-lasting-change-eric-michiels-bwndf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/identity-based-habits-secret-lasting-change-eric-michiels-bwndf</a>  
 
 22. <a id="endnote-22"></a>
    Source: spiegeloog.amsterdam  
    Title: identity fractures the impact of manipulation on morality and self perception  
-   Link: [https://www.spiegeloog.amsterdam/identity-fractures-the-impact-of-manipulation-on-morality-and-self-perception/](https://www.spiegeloog.amsterdam/identity-fractures-the-impact-of-manipulation-on-morality-and-self-perception/)  
+   Link: <a href="https://www.spiegeloog.amsterdam/identity-fractures-the-impact-of-manipulation-on-morality-and-self-perception/" target="_blank" rel="noopener noreferrer nofollow">https://www.spiegeloog.amsterdam/identity-fractures-the-impact-of-manipulation-on-morality-and-self-perception/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity Fractures: The Impact of Manipulation on Morality...3 Jan 2025 — Manipulative behaviour profoundly affects an individual&#x27;s perc...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: strongbodygreenplanet.com  
-   Link: [https://strongbodygreenplanet.com/james-clear-and-atomic-habits-true-behaviour-change-is-identity-change/](https://strongbodygreenplanet.com/james-clear-and-atomic-habits-true-behaviour-change-is-identity-change/)  
+   Link: <a href="https://strongbodygreenplanet.com/james-clear-and-atomic-habits-true-behaviour-change-is-identity-change/" target="_blank" rel="noopener noreferrer nofollow">https://strongbodygreenplanet.com/james-clear-and-atomic-habits-true-behaviour-change-is-identity-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It can be this simple. It gives you a sense of clarity, control and confidence.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: renascence.io  
    Title: self perception theory inferring attitudes from behavior  
-   Link: [https://www.renascence.io/journal/self-perception-theory-inferring-attitudes-from-behavior](https://www.renascence.io/journal/self-perception-theory-inferring-attitudes-from-behavior)  
+   Link: <a href="https://www.renascence.io/journal/self-perception-theory-inferring-attitudes-from-behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.renascence.io/journal/self-perception-theory-inferring-attitudes-from-behavior</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Perception Theory: Inferring Attitudes from Behavior8 Aug 2024 — Self-Perception Theory is a cognitive bias where individuals infer...</p></details>

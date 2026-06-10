@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_mo
 
 ## Introduction
 
-Why does temptation often feel stronger after a period of intense self-control? One influential answer in the [ego depletion debate]({{ 'ego-depletion/' | relative_url }}) is that people do not necessarily “run out” of willpower. Instead, effortful control may temporarily change what the mind prioritises. After spending time resisting impulses, concentrating, suppressing emotions, or forcing attention onto difficult tasks, [motivation]({{ 'motivation/' | relative_url }}) can shift away from further control and towards relief, reward, and immediate satisfaction. At the same time, attention may become more sensitive to tempting cues and less focused on long-term goals. This perspective, known as the process model or shifting-priorities account of self-control, has become one of the most important alternatives to the classic resource-depletion explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
+Why does temptation often feel stronger after a period of intense self-control? One influential answer in the ego [depletion debate]({{ 'depletion-debate/' | relative_url }}) is that people do not necessarily “run out” of willpower. Instead, effortful control may temporarily change what the mind prioritises. After spending time resisting impulses, concentrating, suppressing emotions, or forcing attention onto difficult tasks, [motivation]({{ 'motivation/' | relative_url }}) can shift away from further control and towards relief, reward, and immediate satisfaction. At the same time, attention may become more sensitive to tempting cues and less focused on long-term goals. This perspective, known as the process model or shifting-priorities account of self-control, has become one of the most important alternatives to the classic resource-depletion explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-dark.svg" | relative_url }}" alt="Attention Shift illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -287,9 +287,9 @@ These shifts are thought to reinforce one another. If rewards become more appeal
 
 ## Why Rewards Become More Salient After Strain
 
-A central idea in the newer models is that self-control is often experienced as effortful and somewhat aversive. After sustained effort, the mind may begin to assign greater value to rewarding alternatives and less value to continued restraint. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerAfter-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span> This does not mean that every difficult task automatically produces indulgence. Rather, the balance of motivation can shift. The person who spent the afternoon focusing on demanding work may find social media more attractive than usual. The dieter who resisted snacks all day may notice dessert more readily. The student who concentrated intensely may become unusually drawn to entertainment. The tempting option has not necessarily changed; its subjective attractiveness has. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Inzlicht and Schmeichel (2012) proposed a process model of ego...Read more...</span></span></span>
+A central idea in the newer models is that self-control is often experienced as effortful and somewhat aversive. After sustained effort, the mind may begin to assign greater value to rewarding alternatives and less value to continued restraint. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span> This does not mean that every difficult task automatically produces indulgence. Rather, the balance of motivation can shift. The person who spent the afternoon focusing on demanding work may find social media more attractive than usual. The dieter who resisted snacks all day may notice dessert more readily. The student who concentrated intensely may become unusually drawn to entertainment. The tempting option has not necessarily changed; its subjective attractiveness has. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Inzlicht and Schmeichel (2012) proposed a process model of ego...Read more...</span></span></span>
 
-Researchers have referred to this idea as the **reward responsivity hypothesis**. It suggests that exercising self-control can temporarily increase responsiveness to rewarding stimuli, including food, money, positive images, risk-taking opportunities, or other sources of immediate gratification. Evidence across behavioural and neuroscience studies has provided support for the possibility that reward processing becomes more prominent following effortful control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerAfter-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">increase local knowledge—Exploring the hidden...by CD Wiesner · 2021 · Cited by 6 — The reward responsivity hypothesis proposes that peo...</span></span></span>
+Researchers have referred to this idea as the **reward responsivity hypothesis**. It suggests that exercising self-control can temporarily increase responsiveness to rewarding stimuli, including food, money, positive images, risk-taking opportunities, or other sources of immediate gratification. Evidence across behavioural and neuroscience studies has provided support for the possibility that reward processing becomes more prominent following effortful control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">increase local knowledge—Exploring the hidden...by CD Wiesner · 2021 · Cited by 6 — The reward responsivity hypothesis proposes that peo...</span></span></span>
 
 Importantly, this mechanism predicts outcomes that a simple resource model struggles to explain. If the issue were only reduced control capacity, people should mainly perform worse on later control tasks. But some studies suggest that prior self-control can also increase approach-oriented reactions, positive emotional responses to rewarding stimuli, and willingness to pursue attractive opportunities. These outcomes are easier to understand if motivation itself has shifted. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Trait approach motivation moderates the aftereffects of self-...by A Crowell · 2014 · Cited by 30 — Based on a process model proposing t...</span></span></span>
 
@@ -384,7 +384,7 @@ The objective is not to generate more effort but to make the desired goal visibl
 
 ## What the Mechanism Explains—and What It Does Not
 
-The motivation-and-attention account has become influential because it offers a more detailed explanation than a simple resource metaphor. It explains why incentives matter, why rewards can feel unusually attractive after strain, and why environmental cues become so important during vulnerable moments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span>, it does not solve every question in the ego depletion debate. Researchers continue to discuss how large these effects are, when they occur, and how they interact with fatigue, habits, emotions, and beliefs. Some findings support shifting-priority explanations, while other results remain mixed or difficult to replicate consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[University of California Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-snippet">University of California PressSelf-Control Following Prior Exertion: An Empirical Test of the...Jan 30, 2025 — Instead, it has been argu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</span></span></span>
+The motivation-and-attention account has become influential because it offers a more detailed explanation than a simple resource metaphor. It explains why incentives matter, why rewards can feel unusually attractive after strain, and why environmental cues become so important during vulnerable moments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span>, it does not solve every question in the ego depletion debate. Researchers continue to discuss how large these effects are, when they occur, and how they interact with fatigue, habits, emotions, and beliefs. Some findings support shifting-priority explanations, while other results remain mixed or difficult to replicate consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[University of California Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-snippet">University of California PressSelf-Control Following Prior Exertion: An Empirical Test of the...Jan 30, 2025 — Instead, it has been argu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</span></span></span>
 
 For everyday self-improvement, however, the core insight remains valuable: after effortful control, the biggest threat may not be a depleted reservoir of willpower. It may be a temporary change in what the mind notices and what it wants. When rewards become more salient and goals become less prominent, temptation feels louder—not necessarily because control has vanished, but because attention and motivation have moved elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
 
@@ -810,158 +810,158 @@ For everyday self-improvement, however, the core insight remains valuable: after
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(Inzlicht & Schmeichel)  
-   Link: [https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432](https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432)  
+   Link: <a href="https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process model of self-control...Self-control failure tends to occur after initial self-control exertions because of shifts in motiva...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: rcgd.isr.umich.edu  
    Title: Inzlicht Berkman in press  
-   Link: [https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf](https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf)  
+   Link: <a href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schmeichel, et al., 2014), self-control wanes over time not because people have no energy but because people experience a shift in...Rea...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13415-019-00694-3](https://link.springer.com/article/10.3758/s13415-019-00694-3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerAfter-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</p></details>
+   Link: <a href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13415-019-00694-3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inzlicht and Schmeichel (2012) proposed a process model of ego...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>increase local knowledge—Exploring the hidden...by CD Wiesner · 2021 · Cited by 6 — The reward responsivity hypothesis proposes that peo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: (Inzlicht & Schmeichel)  
-   Link: [https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig1_259200658](https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig1_259200658)  
+   Link: <a href="https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig1_259200658" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig1_259200658</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process model of self-control...Instead of self-control failure stemming from depletion of finite energetic resources, the process m...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 386084974 Harnessing Opportunity Cost Salience for Effortless Self Control  
-   Link: [https://www.researchgate.net/publication/386084974_Harnessing_Opportunity_Cost_Salience_for_Effortless_Self-Control](https://www.researchgate.net/publication/386084974_Harnessing_Opportunity_Cost_Salience_for_Effortless_Self-Control)  
+   Link: <a href="https://www.researchgate.net/publication/386084974_Harnessing_Opportunity_Cost_Salience_for_Effortless_Self-Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386084974_Harnessing_Opportunity_Cost_Salience_for_Effortless_Self-Control</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing Opportunity Cost Salience for Effortless Self-...23 Nov 2024 — Drawing on behavioral economics literature, we investigate opp...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med What Is Ego Depletion?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26168503/](https://pubmed.ncbi.nlm.nih.gov/26168503/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168503/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals What Is Ego Depletion?  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1745691612454134](https://journals.sagepub.com/doi/abs/10.1177/1745691612454134)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1745691612454134</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24439530/](https://pubmed.ncbi.nlm.nih.gov/24439530/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedWhy self-control seems (but may not be) limitedby M Inzlicht · 2014 · Cited by 1272 — Self-control refers to the mental processes t...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24439530/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24439530/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why self-control seems (but may not be) limitedby M Inzlicht · 2014 · Cited by 1272 — Self-control refers to the mental processes t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: michael-inzlicht.squarespace.com  
-   Link: [https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf](https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf)  
+   Link: <a href="https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael InzlichtAttentional and Motivational Mechanisms of Self-ControlThis explanation for the refractory period has been called the pro...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: michaelinzlicht.com  
    Title: what is ego depletion  
-   Link: [https://michaelinzlicht.com/s/what-is-ego-depletion.pdf](https://michaelinzlicht.com/s/what-is-ego-depletion.pdf)  
+   Link: <a href="https://michaelinzlicht.com/s/what-is-ego-depletion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/s/what-is-ego-depletion.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-control exertion at Time 1 leads to self-control failure at. Time 2 by inducing shifts in motivation away from self-...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: psychologicalscience.org  
    Title: self control may not be a limited resource after all  
-   Link: [https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html](https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html)  
+   Link: <a href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trait approach motivation moderates the aftereffects of self-...by A Crowell · 2014 · Cited by 30 — Based on a process model proposing t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0146167218802836](https://journals.sagepub.com/doi/10.1177/0146167218802836)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0146167218802836" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0146167218802836</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAftereffects of Self-Control on Positive Emotional Reactivity7 Nov 2018 — The process model proposes that exercising self-co...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: online.ucpress.edu  
-   Link: [https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical](https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical)  
+   Link: <a href="https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of California PressSelf-Control Following Prior Exertion: An Empirical Test of the...Jan 30, 2025 — Instead, it has been argu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00079/full](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00079/full)  
+   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00079/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00079/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Integrative Model of Effortful Controlby N André · 2019 · Cited by 107 — This article presents an integrative model of effortful contr...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: worldsupporter.org  
-   Link: [https://www.worldsupporter.org/en/summary/what-ego-depletion-toward-mechanistic-revision-resource-model-self-control-inzlicht](https://www.worldsupporter.org/en/summary/what-ego-depletion-toward-mechanistic-revision-resource-model-self-control-inzlicht)  
+   Link: <a href="https://www.worldsupporter.org/en/summary/what-ego-depletion-toward-mechanistic-revision-resource-model-self-control-inzlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.worldsupporter.org/en/summary/what-ego-depletion-toward-mechanistic-revision-resource-model-self-control-inzlicht</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-control - Inzlicht &amp; Schmeichel - 2012 - Article.Read more...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1256674230/34](https://d-nb.info/1256674230/34)  
+   Link: <a href="https://d-nb.info/1256674230/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1256674230/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the hidden benefits of self-control failureby CD Wiesner · Cited by 5 — In both cases, we expect that exerting effortful self-c...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: madoc.bib.uni-mannheim.de  
-   Link: [https://madoc.bib.uni-mannheim.de/62513/1/J%20Organ%20Behavior%20-%202022%20-%20Wehrt%20-%20More%20than%20a%20muscle%20How%20self%E2%80%90control%20motivation%20depletion%20and%20self%E2%80%90regulation.pdf](https://madoc.bib.uni-mannheim.de/62513/1/J%20Organ%20Behavior%20-%202022%20-%20Wehrt%20-%20More%20than%20a%20muscle%20How%20self%E2%80%90control%20motivation%20depletion%20and%20self%E2%80%90regulation.pdf)  
+   Link: <a href="https://madoc.bib.uni-mannheim.de/62513/1/J%20Organ%20Behavior%20-%202022%20-%20Wehrt%20-%20More%20than%20a%20muscle%20How%20self%E2%80%90control%20motivation%20depletion%20and%20self%E2%80%90regulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://madoc.bib.uni-mannheim.de/62513/1/J%20Organ%20Behavior%20-%202022%20-%20Wehrt%20-%20More%20than%20a%20muscle%20How%20self%E2%80%90control%20motivation%20depletion%20and%20self%E2%80%90regulation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>than a muscle: How self‐control motivation, depletion...by W Wehrt · 2022 · Cited by 44 — Perceiving oneself as depleted has been interp...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulation Without Force: Can Awareness Leverage...by VU Ludwig · 2020 · Cited by 127 — Attempting to overcome unwanted habit loops...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: journals.sagepub.com  
    Title: In this article, we provide a framework to better  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/0963721414534256](https://journals.sagepub.com/doi/abs/10.1177/0963721414534256)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0963721414534256" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721414534256</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Mechanisms of Self-Control Improvementby M Inzlicht · 2014 · Cited by 240 — Good self-control is central to success across life domai...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: macau.uni-kiel.de  
-   Link: [https://macau.uni-kiel.de/receive/macau_mods_00002669](https://macau.uni-kiel.de/receive/macau_mods_00002669)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MACAUby C Wiesner · 2021 · Cited by 6 — The results showed that participants who exerted a high amount of effortful self-control during t...</p></details>
+   Link: <a href="https://macau.uni-kiel.de/receive/macau_mods_00002669" target="_blank" rel="noopener noreferrer nofollow">https://macau.uni-kiel.de/receive/macau_mods_00002669</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Wiesner · 2021 · Cited by 6 — The results showed that participants who exerted a high amount of effortful self-control during t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: publications.rwth-aachen.de  
-   Link: [https://publications.rwth-aachen.de/record/63200/files/3368.pdf?version=1](https://publications.rwth-aachen.de/record/63200/files/3368.pdf?version=1)  
+   Link: <a href="https://publications.rwth-aachen.de/record/63200/files/3368.pdf?version=1" target="_blank" rel="noopener noreferrer nofollow">https://publications.rwth-aachen.de/record/63200/files/3368.pdf?version=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interestingly, seemingly easy or well-practiced tasks that still require a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: bpb-us-e1.wpmucdn.com  
    Title: Inzlicht, Berkman, & Elkins-Brown, in press2  
-   Link: [https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/1/172/files/2015/06/Inzlicht-Berkman-Elkins-Brown-in-press2-1mc0a6u.pdf](https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/1/172/files/2015/06/Inzlicht-Berkman-Elkins-Brown-in-press2-1mc0a6u.pdf)  
+   Link: <a href="https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/1/172/files/2015/06/Inzlicht-Berkman-Elkins-Brown-in-press2-1mc0a6u.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/1/172/files/2015/06/Inzlicht-Berkman-Elkins-Brown-in-press2-1mc0a6u.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CDNThis is then followed by a discussion of a more mechanistically-informed alternative to the resource account, called the process model...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/02699931.2023.2209711](https://www.tandfonline.com/doi/full/10.1080/02699931.2023.2209711)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02699931.2023.2209711" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02699931.2023.2209711</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roles of recalled parenting experiences and effortful...by J Tammilehto · 2023 · Cited by 19 — Research suggests that both childhood exp...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Science of Ego Depletion: Is Your Willpower Running Out?  
-   Link: [https://www.youtube.com/watch?v=LIERO2mHho0](https://www.youtube.com/watch?v=LIERO2mHho0)  
+   Link: <a href="https://www.youtube.com/watch?v=LIERO2mHho0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LIERO2mHho0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Control: The Top 10 Ways to Resist Impulses, Control Your Choices and be More Mindful...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Ego Depletion: Defined  
-   Link: [https://www.youtube.com/watch?v=NJeZkh87QNE](https://www.youtube.com/watch?v=NJeZkh87QNE)  
+   Link: <a href="https://www.youtube.com/watch?v=NJeZkh87QNE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJeZkh87QNE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The video #298 Michael Inzlicht: Self-Control, Gratification Delay, Ego-Depletion, And The Replication Crisis features the primary archit...</p></details>

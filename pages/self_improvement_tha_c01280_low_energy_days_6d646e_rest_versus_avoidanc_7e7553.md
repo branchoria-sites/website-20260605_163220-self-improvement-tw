@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:25:04'
 parent_title: Build the Plan for Your Worst Day | Better Change
 parent_permalink: /low-energy/
 parent_nav_short_title: Low Energy
@@ -265,7 +266,6 @@ next_link:
   permalink: /minimums/
   short_title: Minimums
   heading_title: What counts as enough on a bad day?
-date: '2026-06-05 15:25:04 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_rest_versus_avoidanc_7e7553-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_rest_versus_avoidanc_7e7553-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_rest_ve
 
 ## Introduction
 
-Low-energy days create a difficult question: do you need genuine rest, or are you avoiding something uncomfortable? A practical self-improvement plan needs a clear answer because the wrong choice causes problems in both directions. Treating real exhaustion as laziness can deepen fatigue, delay recovery and increase the risk of burnout. Treating avoidance as recovery can slowly erode habits, confidence and consistency. Research on recovery, sleep, stress and behaviour change suggests that the distinction is not based on how motivated you feel. It is based on what happens when you test your capacity, the source of the resistance, and whether rest actually restores you. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tu-dresden.de/tu-dresden/universitaetskultur/culture/artikel/wie-erhole-ich-mich-richtig-neue-erkenntnisse-zu-guten-pausen-bei-der-arbeit-erholung-am-feierabend-und-im-urlaub?set_language=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tu-dresden.de">[TU Dresden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tu-dresden.de</span><span class="citation-popover-title">TU Dresden How do I rest and recover properly?</span><span class="citation-popover-snippet">New findings on taking...14 Jun 2023 — In (psychological) recovery studies, recovery refers to processes that work to reset the body in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralProcrastination and Stress: A Conceptual Review of Why...by FM Sirois · 2023 · Cited by 211 — The risk for procrastination...</span></span></span>
+Low-energy days create a difficult question: do you need genuine rest, or are you avoiding something uncomfortable? A practical self-improvement plan needs a clear answer because the wrong choice causes problems in both directions. Treating real exhaustion as laziness can deepen fatigue, delay recovery and increase the risk of burnout. Treating avoidance as recovery can slowly erode habits, confidence and consistency. Research on recovery, sleep, stress and [behaviour change]({{ 'behaviour-change/' | relative_url }}) suggests that the distinction is not based on how motivated you feel. It is based on what happens when you test your capacity, the source of the resistance, and whether rest actually restores you. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tu-dresden.de/tu-dresden/universitaetskultur/culture/artikel/wie-erhole-ich-mich-richtig-neue-erkenntnisse-zu-guten-pausen-bei-der-arbeit-erholung-am-feierabend-und-im-urlaub?set_language=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tu-dresden.de">[TU Dresden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tu-dresden.de</span><span class="citation-popover-title">TU Dresden How do I rest and recover properly?</span><span class="citation-popover-snippet">New findings on taking...14 Jun 2023 — In (psychological) recovery studies, recovery refers to processes that work to reset the body in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralProcrastination and Stress: A Conceptual Review of Why...by FM Sirois · 2023 · Cited by 211 — The risk for procrastination...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_rest_versus_avoidanc_7e7553-Illustration-1-dark.svg" | relative_url }}" alt="Low Energy Days Create A Difficult Question: Do You Need Genuine... illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_rest_versus_avoidanc_7e7553-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_rest_versus_avoidanc_7e7553-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -311,7 +311,7 @@ A minimum action is usually appropriate when:
 
 A practical test is the ten-minute rule. Commit to a tiny version of the activity: one paragraph, five minutes of study, a short walk, one administrative task. If energy remains adequate after ten minutes, continue if desired. If not, stop without guilt.
 
-Interestingly, this approach appears repeatedly in both behavioural science and lived experience. In productivity discussions, people often report that a brief trial period reveals whether they are genuinely depleted or merely reluctant to begin. The act of starting provides information that introspection alone cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/productivity/comments/92nuzi/how_do_i_distinguish_between_procrastination_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHow do I distinguish between procrastination and a need...Because the line gets really blurry sometimes...</span></span></span>
+Interestingly, this approach appears repeatedly in both behavioural science and lived experience. In productivity discussions, people often report that a brief trial period reveals whether they are genuinely depleted or merely reluctant to begin. The act of starting provides information that introspection alone cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/productivity/comments/92nuzi/how_do_i_distinguish_between_procrastination_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">How do I distinguish between procrastination and a need...Because the line gets really blurry sometimes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f1RQZEvjICg" title="It Is NOT Laziness, It Is Something DARKER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f1RQZEvjICg" target="_blank" rel="noopener noreferrer">It Is NOT Laziness, It Is Something DARKER</a></p><p class="youtube-embed-meta">Channel: Psych2Go &middot; Views: 315.7K &middot; Uploaded: March 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f1RQZEvjICg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f1RQZEvjICg">Open on YouTube</a></p></div></div></div>
@@ -330,7 +330,7 @@ Recovery should generally take priority when [low energy]({{ 'low-energy/' | rel
 * A sustained drop in performance across multiple areas.
 * Unusual irritability, emotional exhaustion or cynicism.
 * Persistent soreness, injury risk or signs of overtraining.
-* Feeling worse, not better, after repeated attempts to push through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.webmd.com/fitness-exercise/what-to-know-about-overtraining" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webmd.com">[WebMD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webmd.com</span><span class="citation-popover-title">what to know about overtraining</span><span class="citation-popover-snippet">WebMDWhat to Know About Overtraining19 Feb 2026 — Symptoms include a sustained drop in performance, as well as chronic fatigue, sleep dis...</span></span></span> PureGym The pattern matters more than any single day. A single tired Tuesday is rarely a crisis. Several weeks of worsening fatigue <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.puregym.com/blog/how-much-exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: puregym.com">[puregym.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">puregym.com</span><span class="citation-popover-title">Pure Gym How Much Exercise is Too Much?</span><span class="citation-popover-snippet">Understanding Your Limits16 Sept 2024 — Overtraining causes persistent fatigue, decreased performance, and muscle soreness that doesn&#x27;t g...</span></span></span>, declining performance and poor recovery signal a different problem. Burnout research emphasises that exhaustion develops through prolonged stress and insufficient recovery, not through isolated bad days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/313824823_Stress_Recovery_Sleep_and_Burnout" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Stress, Recovery, Sleep, and BurnoutBurnout is defined as a chronic affective state, comprising emotional exhaustion, c...</span></span></span>
+* Feeling worse, not better, after repeated attempts to push through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.webmd.com/fitness-exercise/what-to-know-about-overtraining" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webmd.com">[WebMD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webmd.com</span><span class="citation-popover-title">what to know about overtraining</span><span class="citation-popover-snippet">What to Know About Overtraining19 Feb 2026 — Symptoms include a sustained drop in performance, as well as chronic fatigue, sleep dis...</span></span></span> PureGym The pattern matters more than any single day. A single tired Tuesday is rarely a crisis. Several weeks of worsening fatigue <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.puregym.com/blog/how-much-exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: puregym.com">[puregym.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">puregym.com</span><span class="citation-popover-title">Pure Gym How Much Exercise is Too Much?</span><span class="citation-popover-snippet">Understanding Your Limits16 Sept 2024 — Overtraining causes persistent fatigue, decreased performance, and muscle soreness that doesn&#x27;t g...</span></span></span>, declining performance and poor recovery signal a different problem. Burnout research emphasises that exhaustion develops through prolonged stress and insufficient recovery, not through isolated bad days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/313824823_Stress_Recovery_Sleep_and_Burnout" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Stress, Recovery, Sleep, and BurnoutBurnout is defined as a chronic affective state, comprising emotional exhaustion, c...</span></span></span>
 
 Another clue is what happens after rest. Genuine recovery needs usually respond positively to appropriate rest, sleep and reduced demands. Avoidance, by contrast, often leaves the underlying task feeling just as threatening tomorrow as it did today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tu-dresden.de/tu-dresden/universitaetskultur/culture/artikel/wie-erhole-ich-mich-richtig-neue-erkenntnisse-zu-guten-pausen-bei-der-arbeit-erholung-am-feierabend-und-im-urlaub?set_language=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tu-dresden.de">[TU Dresden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tu-dresden.de</span><span class="citation-popover-title">TU Dresden How do I rest and recover properly?</span><span class="citation-popover-snippet">New findings on taking...14 Jun 2023 — In (psychological) recovery studies, recovery refers to processes that work to reset the body in...</span></span></span>
 
@@ -806,150 +806,150 @@ The key distinction is intention. Planned recovery protects future performance. 
 1. <a id="endnote-1"></a>
    Source: tu-dresden.de  
    Title: TU Dresden How do I rest and recover properly?  
-   Link: [https://tu-dresden.de/tu-dresden/universitaetskultur/culture/artikel/wie-erhole-ich-mich-richtig-neue-erkenntnisse-zu-guten-pausen-bei-der-arbeit-erholung-am-feierabend-und-im-urlaub?set_language=en](https://tu-dresden.de/tu-dresden/universitaetskultur/culture/artikel/wie-erhole-ich-mich-richtig-neue-erkenntnisse-zu-guten-pausen-bei-der-arbeit-erholung-am-feierabend-und-im-urlaub?set_language=en)  
+   Link: <a href="https://tu-dresden.de/tu-dresden/universitaetskultur/culture/artikel/wie-erhole-ich-mich-richtig-neue-erkenntnisse-zu-guten-pausen-bei-der-arbeit-erholung-am-feierabend-und-im-urlaub?set_language=en" target="_blank" rel="noopener noreferrer nofollow">https://tu-dresden.de/tu-dresden/universitaetskultur/culture/artikel/wie-erhole-ich-mich-richtig-neue-erkenntnisse-zu-guten-pausen-bei-der-arbeit-erholung-am-feierabend-und-im-urlaub?set_language=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New findings on taking...14 Jun 2023 — In (psychological) recovery studies, recovery refers to processes that work to reset the body in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/313824823_Stress_Recovery_Sleep_and_Burnout](https://www.researchgate.net/publication/313824823_Stress_Recovery_Sleep_and_Burnout)  
+   Link: <a href="https://www.researchgate.net/publication/313824823_Stress_Recovery_Sleep_and_Burnout" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313824823_Stress_Recovery_Sleep_and_Burnout</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Stress, Recovery, Sleep, and BurnoutBurnout is defined as a chronic affective state, comprising emotional exhaustion, c...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Avoidance coping  
-   Link: [https://en.wikipedia.org/wiki/Avoidance_coping](https://en.wikipedia.org/wiki/Avoidance_coping)  
+   Link: <a href="https://en.wikipedia.org/wiki/Avoidance_coping" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Avoidance_coping</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/productivity/comments/92nuzi/how_do_i_distinguish_between_procrastination_and/](https://www.reddit.com/r/productivity/comments/92nuzi/how_do_i_distinguish_between_procrastination_and/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHow do I distinguish between procrastination and a need...Because the line gets really blurry sometimes...</p></details>
+   Link: <a href="https://www.reddit.com/r/productivity/comments/92nuzi/how_do_i_distinguish_between_procrastination_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/productivity/comments/92nuzi/how_do_i_distinguish_between_procrastination_and/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How do I distinguish between procrastination and a need...Because the line gets really blurry sometimes...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: webmd.com  
    Title: what to know about overtraining  
-   Link: [https://www.webmd.com/fitness-exercise/what-to-know-about-overtraining](https://www.webmd.com/fitness-exercise/what-to-know-about-overtraining)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WebMDWhat to Know About Overtraining19 Feb 2026 — Symptoms include a sustained drop in performance, as well as chronic fatigue, sleep dis...</p></details>
+   Link: <a href="https://www.webmd.com/fitness-exercise/what-to-know-about-overtraining" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/fitness-exercise/what-to-know-about-overtraining</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About Overtraining19 Feb 2026 — Symptoms include a sustained drop in performance, as well as chronic fatigue, sleep dis...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: puregym.com  
    Title: Pure Gym How Much Exercise is Too Much?  
-   Link: [https://www.puregym.com/blog/how-much-exercise/](https://www.puregym.com/blog/how-much-exercise/)  
+   Link: <a href="https://www.puregym.com/blog/how-much-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://www.puregym.com/blog/how-much-exercise/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Your Limits16 Sept 2024 — Overtraining causes persistent fatigue, decreased performance, and muscle soreness that doesn&#x27;t g...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Overtraining](https://en.wikipedia.org/wiki/Overtraining)  
+   Link: <a href="https://en.wikipedia.org/wiki/Overtraining" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Overtraining</a>  
 
 8. <a id="endnote-8"></a>
    Source: slcjcc.org  
-   Link: [https://www.slcjcc.org/blog/2025/02/04/wellness-weekly/the-power-of-rest-days-avoiding-burnout/](https://www.slcjcc.org/blog/2025/02/04/wellness-weekly/the-power-of-rest-days-avoiding-burnout/)  
+   Link: <a href="https://www.slcjcc.org/blog/2025/02/04/wellness-weekly/the-power-of-rest-days-avoiding-burnout/" target="_blank" rel="noopener noreferrer nofollow">https://www.slcjcc.org/blog/2025/02/04/wellness-weekly/the-power-of-rest-days-avoiding-burnout/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Rest Days: Avoiding Burnout4 Feb 2025 — Rest days are not just a luxury; they are a critical component of any successful fit...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralProcrastination and Stress: A Conceptual Review of Why...by FM Sirois · 2023 · Cited by 211 — The risk for procrastination...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: apa.org  
    Title: seven rest types  
-   Link: [https://www.apa.org/topics/mental-health/seven-rest-types](https://www.apa.org/topics/mental-health/seven-rest-types)  
+   Link: <a href="https://www.apa.org/topics/mental-health/seven-rest-types" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/mental-health/seven-rest-types</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Try diversifying and personalizing your rest to feel more restored...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
    Title: Frontiers Activation vs  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01618/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01618/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01618/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01618/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiential Avoidance as a Transdiagnostic...September 3, 2018 — by C Fernández-Rodríguez · 2018 · Cited by 87 — This study focuses on...</p></details>
    Published: September 3, 2018  
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4911781/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4911781/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4911781/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4911781/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralUnderstanding the burnout experience: recent research and...by C Maslach · 2016 · Cited by 8265 — Research on the burnout...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Sleep and Athletic Performance: Impacts on Physical  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9960533/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9960533/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Charest · 2020 · Cited by 580 — There has been increased attention towards the importance of sleep and its essential role in athl...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9960533/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9960533/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Charest · 2020 · Cited by 580 — There has been increased attention towards the importance of sleep and its essential role in athl...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1544286/full](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1544286/full)  
+   Link: <a href="https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1544286/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1544286/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of sleep deprivation on sports performance and...by Y Kong · 2025 · Cited by 33 — Sleep deprivation leads to a decline in athlet...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: runnersconnect.net  
    Title: Runners Connect -Should You Skip a Workout When You're Tired?  
-   Link: [https://runnersconnect.net/should-you-skip-a-workout-when-youre-tired/](https://runnersconnect.net/should-you-skip-a-workout-when-youre-tired/)  
+   Link: <a href="https://runnersconnect.net/should-you-skip-a-workout-when-youre-tired/" target="_blank" rel="noopener noreferrer nofollow">https://runnersconnect.net/should-you-skip-a-workout-when-youre-tired/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Coach&#x27;s...9 hours ago — Fatigue takes four forms: acute sleep deficit, cumulative training fatigue, life-stress fatigue, and true overr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Sleep and Recovery Practices of Athletes  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8072992/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8072992/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8072992/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8072992/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Sleep and Recovery Practices of Athletes - PMC - NIHby R Doherty · 2021 · Cited by 147 — Athletes maintain a balance be...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6585675/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6585675/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6585675/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6585675/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralComparison of rest‐break interventions during a mentally...by G Blasche · 2018 · Cited by 127 — Rest breaks in general are...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40snrecharge/why-rest-feels-useless-when-its-actually-avoidance-5426a7d404c6](https://medium.com/%40snrecharge/why-rest-feels-useless-when-its-actually-avoidance-5426a7d404c6)  
+   Link: <a href="https://medium.com/%40snrecharge/why-rest-feels-useless-when-its-actually-avoidance-5426a7d404c6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40snrecharge/why-rest-feels-useless-when-its-actually-avoidance-5426a7d404c6</a>  
 
 19. <a id="endnote-19"></a>
    Source: thegameplanpt.com  
    Title: sleep for recovery how sleep affects athletic performance and injury risk  
-   Link: [https://www.thegameplanpt.com/blog/sleep-for-recovery-how-sleep-affects-athletic-performance-and-injury-risk](https://www.thegameplanpt.com/blog/sleep-for-recovery-how-sleep-affects-athletic-performance-and-injury-risk)  
+   Link: <a href="https://www.thegameplanpt.com/blog/sleep-for-recovery-how-sleep-affects-athletic-performance-and-injury-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.thegameplanpt.com/blog/sleep-for-recovery-how-sleep-affects-athletic-performance-and-injury-risk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Sleep Affects Athletic Performance and Injury Risk30 Dec 2024 — This study shows that sleep deprivation can impair glycogen repletion...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nduranz.com  
-   Link: [https://nduranz.com/blogs/blogs/the-science-of-overtraining-syndrome](https://nduranz.com/blogs/blogs/the-science-of-overtraining-syndrome)  
+   Link: <a href="https://nduranz.com/blogs/blogs/the-science-of-overtraining-syndrome" target="_blank" rel="noopener noreferrer nofollow">https://nduranz.com/blogs/blogs/the-science-of-overtraining-syndrome</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ring exercise · Persistent fatigue despite rest · Insomnia or disturbed sleep · Loss...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hw.qld.gov.au  
    Title: Discover top tips to prioritise rest and recovery  
-   Link: [https://hw.qld.gov.au/blog/rest-and-recovery/](https://hw.qld.gov.au/blog/rest-and-recovery/)  
+   Link: <a href="https://hw.qld.gov.au/blog/rest-and-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://hw.qld.gov.au/blog/rest-and-recovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health and Wellbeing QueenslandWhy rest, recovery and sleep matter more than you thinkMay 13, 2025 — 14 May 2025 — Recovery plays a key r...</p></details>
    Published: May 13, 2025  
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/rest-vs-recovery-why-pausing-isnt-enough-prevent-van-someren-6jade](https://www.linkedin.com/pulse/rest-vs-recovery-why-pausing-isnt-enough-prevent-van-someren-6jade)  
+   Link: <a href="https://www.linkedin.com/pulse/rest-vs-recovery-why-pausing-isnt-enough-prevent-van-someren-6jade" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/rest-vs-recovery-why-pausing-isnt-enough-prevent-van-someren-6jade</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ensures you can show up again tomorrow with energy and focus.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tiffany-leung.com  
    Title: procrastination anxiety psychology models  
-   Link: [https://www.tiffany-leung.com/post/procrastination-anxiety-psychology-models](https://www.tiffany-leung.com/post/procrastination-anxiety-psychology-models)  
+   Link: <a href="https://www.tiffany-leung.com/post/procrastination-anxiety-psychology-models" target="_blank" rel="noopener noreferrer nofollow">https://www.tiffany-leung.com/post/procrastination-anxiety-psychology-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Procrastination and Anxiety17 Feb 2026 — Avoidance prevents new learning. It blocks the corrective experience of “I can...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: clarkshealthcare.com  
    Title: Sleeps Impact on Exercise and Recovery  
-   Link: [https://www.clarkshealthcare.com/sleeps-impact-on-exercise-and-recovery/](https://www.clarkshealthcare.com/sleeps-impact-on-exercise-and-recovery/)  
+   Link: <a href="https://www.clarkshealthcare.com/sleeps-impact-on-exercise-and-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.clarkshealthcare.com/sleeps-impact-on-exercise-and-recovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarks Healthcare23 Apr 2024 — Sleep deprivation weakens the immune response, increasing vulnerability to infections and interrupting con...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reshapeapp.ai  
    Title: This guide shows you when to push,  
-   Link: [https://www.reshapeapp.ai/blog/sleep-debt-and-training-adjust-workouts-after-bad-night](https://www.reshapeapp.ai/blog/sleep-debt-and-training-adjust-workouts-after-bad-night)  
+   Link: <a href="https://www.reshapeapp.ai/blog/sleep-debt-and-training-adjust-workouts-after-bad-night" target="_blank" rel="noopener noreferrer nofollow">https://www.reshapeapp.ai/blog/sleep-debt-and-training-adjust-workouts-after-bad-night</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Debt and Training: How to Adjust Workouts After a...9 Dec 2025 — Poor sleep doesn&#x27;t mean you have to skip training—but it does mea...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CRRLgZzszK-/?hl=en](https://www.instagram.com/p/CRRLgZzszK-/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/CRRLgZzszK-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CRRLgZzszK-/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>st. The biggest difference is intention.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: calm.com  
    Title: overtraining and sleep  
-   Link: [https://www.calm.com/blog/overtraining-and-sleep](https://www.calm.com/blog/overtraining-and-sleep)  
+   Link: <a href="https://www.calm.com/blog/overtraining-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.calm.com/blog/overtraining-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The link between sleep and overtraining (and how to recover)21 Jun 2024 — Not getting enough sleep when you&#x27;re training a lot can disrupt...</p></details>

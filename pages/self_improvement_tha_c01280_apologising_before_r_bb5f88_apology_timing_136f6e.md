@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:07:55'
 parent_title: How to Apologise Before Resentment Grows | Better Change
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
@@ -259,7 +260,6 @@ prev_link:
   permalink: /first-sentence/
   short_title: First Sentence
   heading_title: The First Sentence That Makes Repair Easier
-date: '2026-06-05 15:07:55 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-1.webp
@@ -305,7 +305,7 @@ The key distinction is that a quick apology should open the conversation, not cl
 
 Many apologies fail because they arrive before understanding. The speaker becomes uncomfortable, apologises immediately, and then expects the emotional discomfort to disappear.
 
-Research on apology timing found that later apologies were often judged more effective than earlier ones because recipients had a greater opportunity to feel heard and understood. The benefit did not come from delay itself; it came from the experience of being listened to before the apology arrived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBetter late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Better Late Than Early: The Influence of Timing on Apology...The results showed that later apologies were more effective than earlier on...</span></span></span>
+Research on apology timing found that later apologies were often judged more effective than earlier ones because recipients had a greater opportunity to feel heard and understood. The benefit did not come from delay itself; it came from the experience of being listened to before the apology arrived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Better Late Than Early: The Influence of Timing on Apology...The results showed that later apologies were more effective than earlier on...</span></span></span>
 
 This explains why some apologies trigger irritation rather than relief.
 
@@ -373,7 +373,7 @@ A productive sequence often looks like this:
 
 </div>
 
-Research on apology effectiveness repeatedly shows that acknowledgement of harm and demonstrated understanding increase the likelihood that an apology will be accepted. Victims respond more positively when they believe the offender understands what the offence meant to them, not merely that a rule was broken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBetter late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
+Research on apology effectiveness repeatedly shows that acknowledgement of harm and demonstrated understanding increase the likelihood that an apology will be accepted. Victims respond more positively when they believe the offender understands what the offence meant to them, not merely that a rule was broken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
 
 For example:
 
@@ -381,7 +381,7 @@ For example:
 
 Compared with an immediate “Sorry about that,” the second version arrives slightly later but carries much more evidence that the speaker understands the injury.
 
-This is one reason timing can be counterintuitive. A brief period of listening may actually make the eventual apology feel earlier in an emotional sense because it reaches the real wound rather than merely the surface event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBetter late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
+This is one reason timing can be counterintuitive. A brief period of listening may actually make the eventual apology feel earlier in an emotional sense because it reaches the real wound rather than merely the surface event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1xBCYkvoMAg" title="How to Heal and Process a Fight - The Gottmans Act it out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1xBCYkvoMAg" target="_blank" rel="noopener noreferrer">How to Heal and Process a Fight - The Gottmans Act it out</a></p><p class="youtube-embed-meta">Channel: The Gottman Institute &middot; Views: 46.1K &middot; Uploaded: October 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1xBCYkvoMAg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1xBCYkvoMAg">Open on YouTube</a></p></div></div></div>
@@ -405,7 +405,7 @@ This approach avoids the two extremes that commonly damage repair efforts:
 * Waiting so long that the apology feels reluctant.
 * Apologising so quickly that the person feels unheard.
 
-The most effective timing balances urgency with curiosity. It communicates, “I am taking responsibility now, and I am willing to stay long enough to understand the impact.” Research on apology timing, forgiveness, and conflict repair suggests that this combination—accountability plus understanding—is what makes an apology feel like care rather than a strategy for ending discomfort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">make repair attempts partner feels loved</span><span class="citation-popover-snippet">The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBetter late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
+The most effective timing balances urgency with curiosity. It communicates, “I am taking responsibility now, and I am willing to stay long enough to understand the impact.” Research on apology timing, forgiveness, and conflict repair suggests that this combination—accountability plus understanding—is what makes an apology feel like care rather than a strategy for ending discomfort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">make repair attempts partner feels loved</span><span class="citation-popover-snippet">The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-dark.svg" | relative_url }}" alt="Timing illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -831,137 +831,137 @@ The most effective timing balances urgency with curiosity. It communicates, “I
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167](https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBetter late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
    Title: 5 key components of a good apology  
-   Link: [https://time.com/3161274/5-key-components-of-a-good-apology/](https://time.com/3161274/5-key-components-of-a-good-apology/)  
+   Link: <a href="https://time.com/3161274/5-key-components-of-a-good-apology/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3161274/5-key-components-of-a-good-apology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Aug 2014 — Timing is crucial — and faster is not better. People need to feel they are heard and understood so a delayed apology is act...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gottman.com  
    Title: make repair attempts partner feels loved  
-   Link: [https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/](https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/)  
+   Link: <a href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness](https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness)  
+   Link: <a href="https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Better Late Than Early: The Influence of Timing on Apology...The results showed that later apologies were more effective than earlier on...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts](https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts)  
+   Link: <a href="https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of Timing and Sincerity of an Apology on...Mar 4, 2016 — This study examined the effects of apology timing, apology sincer...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403](https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHow matching apology components to victims&#x27; self...by R Fehr · 2010 · Cited by 505 — The present research begins to address...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How matching apology components to victims&#x27; self...by R Fehr · 2010 · Cited by 505 — The present research begins to address...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: gottman.com  
    Title: the art of the mindful apology why sorry is not enough  
-   Link: [https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/](https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/)  
+   Link: <a href="https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a process of compassionate communication that takes two of you, not just the one who messed up.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: gottman.com  
    Title: how we used the aftermath of a fight to repair our relationship  
-   Link: [https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/](https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/)  
+   Link: <a href="https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Used the Aftermath of a Fight to Repair Our...9 Jan 2019 — As John Gottman&#x27;s research has shown, it&#x27;s not you fight about that ma...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: gottman.com  
    Title: r is for repair  
-   Link: [https://www.gottman.com/blog/r-is-for-repair/](https://www.gottman.com/blog/r-is-for-repair/)  
+   Link: <a href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/r-is-for-repair/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Sept 2014 — The Good and Bad of Resilience... Resilience can carry a couple through almost anything. The &quot;almost&quot; matters more than it...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gottman.com  
    Title: its not my fault why defensiveness is damaging  
-   Link: [https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/](https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/)  
+   Link: <a href="https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It&#x27;s Not My Fault!&#x27;: Why Defensiveness is DamagingMar 31, 2022 — Defensiveness is the &quot;horsemen&quot; that escalates conflict. See why it hur...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398326385_Are_Apologies_Always_the_Best_Policy_Apologies_for_Service_Failures_Backfire_When_Consumers_Are_Not_Aware_of_the_Failure](https://www.researchgate.net/publication/398326385_Are_Apologies_Always_the_Best_Policy_Apologies_for_Service_Failures_Backfire_When_Consumers_Are_Not_Aware_of_the_Failure)  
+   Link: <a href="https://www.researchgate.net/publication/398326385_Are_Apologies_Always_the_Best_Policy_Apologies_for_Service_Failures_Backfire_When_Consumers_Are_Not_Aware_of_the_Failure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398326385_Are_Apologies_Always_the_Best_Policy_Apologies_for_Service_Failures_Backfire_When_Consumers_Are_Not_Aware_of_the_Failure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Apologies Always the Best Policy...15 May 2026 — Five experiments, including a large-scale field experiment, demonstrate that apolog...</p></details>
    Published: May 2026  
 
 12. <a id="endnote-12"></a>
    Source: oamonitor.ireland.openaire.eu  
-   Link: [https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160](https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160)  
+   Link: <a href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow">https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralExperimental evidence that apologies promote forgiveness by...by DE Forster · 2021 · Cited by 39 — These interference effe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/](https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteIt’s tough to find the right words after a stressful period of time or after an argument, but repair attempts are ke...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/](https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteMaking amends takes more than an apology, it takes deep listening, emotional attunement, and a commitment to rebuild...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: couplestherapyinc.com  
-   Link: [https://couplestherapyinc.com/gottman-repair-attempts/](https://couplestherapyinc.com/gottman-repair-attempts/)  
+   Link: <a href="https://couplestherapyinc.com/gottman-repair-attempts/" target="_blank" rel="noopener noreferrer nofollow">https://couplestherapyinc.com/gottman-repair-attempts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gottman Repair AttemptsLearning to fight well and repair relationship conflicts before they spiral out of control is a skill. It&#x27;s one of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mylifepsychologists.com.au  
-   Link: [https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/](https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/)  
+   Link: <a href="https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/" target="_blank" rel="noopener noreferrer nofollow">https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Conflict: The Art of RepairAccording to Dr John Gottman, a renowned relationships researcher, repair attempts are the “happy...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/communication/building-trust-with-apologies/the-impact-of-apologizing-thoughtfully/](https://www.linkedin.com/top-content/communication/building-trust-with-apologies/the-impact-of-apologizing-thoughtfully/)  
+   Link: <a href="https://www.linkedin.com/top-content/communication/building-trust-with-apologies/the-impact-of-apologizing-thoughtfully/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/communication/building-trust-with-apologies/the-impact-of-apologizing-thoughtfully/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Apologizing ThoughtfullyWhat happens when apologies never come: → Trust erodes in silence → People stop bringing up problem...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/podcasts/speaking-of-psychology/apologize](https://www.apa.org/news/podcasts/speaking-of-psychology/apologize)  
+   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/apologize" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/apologize</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhy you should apologize even when it&#x27;s hard to, with...Karina Schumann, PhD, discusses why apologies...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: couples who make repair attempts are both willing to admit responsibility for th  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/](https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Couples who make repair attempts are both willing to admit...Couples who make repair attempts are both willing to admit responsibility f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: psychologicalscience.org  
-   Link: [https://www.psychologicalscience.org/news/tact-tone-and-timing-the-power-of-apology.html](https://www.psychologicalscience.org/news/tact-tone-and-timing-the-power-of-apology.html)  
+   Link: <a href="https://www.psychologicalscience.org/news/tact-tone-and-timing-the-power-of-apology.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/tact-tone-and-timing-the-power-of-apology.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tact, Tone And Timing: The Power Of Apology5 Jun 2013 — NPR: An effective apology involves a delicate balance between tact, tone and timing...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bakadesuyo.com  
-   Link: [https://bakadesuyo.com/2012/07/you-screwed-up-what-are-the-four-secrets-to-a/](https://bakadesuyo.com/2012/07/you-screwed-up-what-are-the-four-secrets-to-a/)  
+   Link: <a href="https://bakadesuyo.com/2012/07/you-screwed-up-what-are-the-four-secrets-to-a/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/07/you-screwed-up-what-are-the-four-secrets-to-a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acknowledge that you did it. 2. Explain what happened. 3. Express remorse. 4. Repair the...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: internationalforgiveness.com  
    Title: the role of emotional validation in apologies and forgiveness  
-   Link: [https://internationalforgiveness.com/2025/03/17/the-role-of-emotional-validation-in-apologies-and-forgiveness/](https://internationalforgiveness.com/2025/03/17/the-role-of-emotional-validation-in-apologies-and-forgiveness/)  
+   Link: <a href="https://internationalforgiveness.com/2025/03/17/the-role-of-emotional-validation-in-apologies-and-forgiveness/" target="_blank" rel="noopener noreferrer nofollow">https://internationalforgiveness.com/2025/03/17/the-role-of-emotional-validation-in-apologies-and-forgiveness/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Emotional Validation in Apologies and...17 Mar 2025 — Emotional validation plays an essential role in healing by acknowledgi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: howcommunicationworks.com  
    Title: relationship communication john gottmans repair attempts  
-   Link: [https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts](https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts)  
+   Link: <a href="https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts" target="_blank" rel="noopener noreferrer nofollow">https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Communication: John Gottman&#x27;s Repair...4 Jan 2021 — I&#x27;m going to give you a list of exact phrases you can use to repair the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: lakemichigandates.com  
-   Link: [https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology](https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology)  
+   Link: <a href="https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology" target="_blank" rel="noopener noreferrer nofollow">https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman Apology for Travel: 4 Steps to Repair After Conflict22 Oct 2025 — The Gottman apology is a structured way of repairing after...</p></details>

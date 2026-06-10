@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-phone-out/
 description: Focused pages that expand on Bedroom Phone.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_phone_out_bedroom_20e47b
 parent_title: Bedroom Phone | Self Improvement That Works

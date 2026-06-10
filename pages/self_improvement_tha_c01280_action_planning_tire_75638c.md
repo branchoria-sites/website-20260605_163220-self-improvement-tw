@@ -506,7 +506,7 @@ Action planning is the part of [self improvement]({{ 'self-improvement-that-work
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-overview.webp" | relative_url }}" alt="Overview image for Action Plans" loading="eager" decoding="sync" fetchpriority="high">
-The practical aim is not to remove effort from every worthwhile change. It is to stop wasting effort on deciding, remembering and negotiating with yourself at the worst possible moment. Behaviour-change guidance from NICE treats action plans as part of “goals and planning”: a plan should describe what will happen, in what situation or at what time, how often, for how long and where; it should also be reviewed in light of experience rather than treated as a one-off vow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations | Behaviour change: individual approaches | Guidance | NICE</span><span class="citation-popover-snippet">NICERecommendations | Behaviour change: individual approaches | Guidance | NICE</span></span></span>
+The practical aim is not to remove effort from every worthwhile change. It is to stop wasting effort on deciding, remembering and negotiating with yourself at the worst possible moment. Behaviour-change guidance from NICE treats action plans as part of “goals and planning”: a plan should describe what will happen, in what situation or at what time, how often, for how long and where; it should also be reviewed in light of experience rather than treated as a one-off vow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span><span class="citation-popover-snippet">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span></span></span>
 
 ## Why tired days need a different kind of plan
 
@@ -524,7 +524,7 @@ A goal becomes useful when it passes the next-action test: can a tired person te
 
 “Get fit” fails the test. “Go for a run three times this week” is better, but may still fail at 7.30 pm after a long workday if it requires finding clothes, choosing a route, estimating time and arguing with the weather. “After I shut my laptop on Tuesday, I will put on the trainers by the door and walk round the block for ten minutes” is much stronger. It names the cue, the action, the size and the start point.
 
-The Behaviour Change Technique Taxonomy defines action planning as detailed planning of the performance of a behaviour, including at least one element such as context, [frequency]({{ 'frequency/' | relative_url }}), duration or intensity. It explicitly includes implementation intentions, the familiar “if this situation occurs, then I will do that” format. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">BCTTv1 PDF version</span><span class="citation-popover-snippet">BCTTv1 PDF version</span></span></span> NICE gives a similar operational definition: an action plan should say what will happen, in which situation or at what time, how often, for how long and where. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations | Behaviour change: individual approaches | Guidance | NICE</span><span class="citation-popover-snippet">NICERecommendations | Behaviour change: individual approaches | Guidance | NICE</span></span></span>
+The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy defines action planning as detailed planning of the performance of a behaviour, including at least one element such as context, [frequency]({{ 'frequency/' | relative_url }}), duration or intensity. It explicitly includes implementation intentions, the familiar “if this situation occurs, then I will do that” format. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">BCTTv1 PDF version</span><span class="citation-popover-snippet">BCTTv1 PDF version</span></span></span> NICE gives a similar operational definition: an action plan should say what will happen, in which situation or at what time, how often, for how long and where. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span><span class="citation-popover-snippet">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span></span></span>
 
 A tired-day next action has four useful properties:
 
@@ -579,10 +579,15 @@ That finding fits everyday experience. A person who plans to “exercise after w
 Good shrink rules include:
 
 * **Reduce duration before cancelling.** Ten minutes of reading keeps the reading [identity]({{ 'identity/' | relative_url }}) alive better than a skipped hour.
+
+<div class="content-enhancement content-enhancement--decision" markdown="1">
+
 * **Reduce intensity before abandoning the behaviour.** A walk may preserve the exercise habit on a day when a run is unrealistic.
 * **Reduce quality standards before avoiding the task.** A rough paragraph is better than waiting for the perfect writing mood.
-* **Reduce choice.** Pre-decide the meal, route, playlist, study topic or [first sentence]({{ 'first-sentence/' | relative_url }}) so the tired version of you does not have to choose.
+* **Reduce choice.** Pre-decide the meal, route, playlist, study topic or first sentence so the tired version of you does not have to choose.
 * **Keep the cue stable.** The action can shrink, but the trigger should remain familiar: after dinner, after school drop-off, after brushing teeth.
+
+</div>
 
 The key is to shrink before the plan becomes emotionally loaded. Once a goal turns into a private referendum on your character, it becomes harder to resume after a miss. A small fallback protects the habit from all-or-nothing thinking.
 
@@ -602,7 +607,7 @@ A useful tired-day action plan can be written in five lines. It does not need an
 
 **Review:** On Friday, I will check how many sessions happened and adjust the time, place or size.
 
-This structure works because it separates the goal from the next action, the next action from the setup, and the setup from the fallback. It also includes review, which NICE recommends as part of behaviour goals and planning: goals should be reviewed in light of experience and further plans made according to past progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations | Behaviour change: individual approaches | Guidance | NICE</span><span class="citation-popover-snippet">NICERecommendations | Behaviour change: individual approaches | Guidance | NICE</span></span></span>
+This structure works because it separates the goal from the next action, the next action from the setup, and the setup from the fallback. It also includes review, which NICE recommends as part of behaviour goals and planning: goals should be reviewed in light of experience and further plans made according to past progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span><span class="citation-popover-snippet">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span></span></span>
 
 The same pattern can be adapted:
 
@@ -617,7 +622,7 @@ The same pattern can be adapted:
 The pattern matters more than the domain: cue, action, setup, obstacle plan, review.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VfGRTOIT9Z4" title="How to be productive (even when you’re tired) | tips to stay motivated during a 9-5 work day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer">How to be productive (even when you’re tired) | tips to stay motivated during a 9-5 work day</a></p><p class="youtube-embed-meta">Channel: Rebekah Joy &middot; Views: 46.1K &middot; Uploaded: April 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VfGRTOIT9Z4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LJlLUoRJj88" title="How to Study at Night Without Feeling Sleepy (I Did This for 9 Years)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LJlLUoRJj88" target="_blank" rel="noopener noreferrer">How to Study at Night Without Feeling Sleepy (I Did This for 9 Years)</a></p><p class="youtube-embed-meta">Channel: Michael Dovlo | Study &amp; NSMQ &middot; Views: 835 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LJlLUoRJj88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LJlLUoRJj88">Open on YouTube</a></p></div></div></div>
 
 ## The plan should reduce decisions, not multiply them
 
@@ -648,7 +653,7 @@ Action planning is powerful, but it is not a cure for impossible conditions. It 
 
 This boundary matters. [Self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) should be honest about the difference between poor planning and overloaded life. If a plan keeps failing because the day contains no recovery, no margin and no genuine choice, the humane response is not to make the individual plan harder. It may be to reduce commitments, seek support, change the environment, ask for help, renegotiate expectations or address health needs.
 
-Even within ordinary life, action planning should be treated as adjustable. The evidence around planning suggests it works best as part of a broader self-regulation loop: goal setting, action planning, coping planning, monitoring, feedback and review. NICE recommends combining goals and planning with feedback and monitoring, including self-monitoring and feedback on behaviour and outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations | Behaviour change: individual approaches | Guidance | NICE</span><span class="citation-popover-snippet">NICERecommendations | Behaviour change: individual approaches | Guidance | NICE</span></span></span> The digital intervention trial also found that combinations of techniques mattered, particularly the pairing of planning with coping planning and self-monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Even within ordinary life, action planning should be treated as adjustable. The evidence around planning suggests it works best as part of a broader self-regulation loop: goal setting, action planning, coping planning, monitoring, feedback and review. NICE recommends combining goals and planning with feedback and monitoring, including self-monitoring and feedback on behaviour and outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span><span class="citation-popover-snippet">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span></span></span> The digital intervention trial also found that combinations of techniques mattered, particularly the pairing of planning with coping planning and self-monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The best test is behavioural: did the plan make the desired action more likely on a normal, pressured day? If not, the plan is data, not a verdict. Shrink it, move it, attach it to a better cue, prepare the environment earlier or add a coping plan for the obstacle that actually appeared.
 
@@ -659,7 +664,7 @@ The tired-day standard is simple: design the plan for the day you are most likel
 That is why action planning belongs at the centre of self improvement that works. It turns aspiration into a testable behaviour. It respects the fact that ordinary life is crowded and energy fluctuates. And it gives tired people a fairer chance of doing the next right thing without having to become a different person first.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LJlLUoRJj88" title="How to Study at Night Without Feeling Sleepy (I Did This for 9 Years)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LJlLUoRJj88" target="_blank" rel="noopener noreferrer">How to Study at Night Without Feeling Sleepy (I Did This for 9 Years)</a></p><p class="youtube-embed-meta">Channel: Michael Dovlo | Study &amp; NSMQ &middot; Views: 835 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LJlLUoRJj88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LJlLUoRJj88">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VfGRTOIT9Z4" title="How to be productive (even when you’re tired) | tips to stay motivated during a 9-5 work day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer">How to be productive (even when you’re tired) | tips to stay motivated during a 9-5 work day</a></p><p class="youtube-embed-meta">Channel: Rebekah Joy &middot; Views: 46.1K &middot; Uploaded: April 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VfGRTOIT9Z4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -1084,111 +1089,111 @@ That is why action planning belongs at the centre of self improvement that works
 1. <a id="endnote-1"></a>
    Source: nice.org.uk  
    Title: NICERecommendations | Behaviour change: individual approaches | Guidance | NICE  
-   Link: [https://www.nice.org.uk/guidance/ph49/chapter/recommendations](https://www.nice.org.uk/guidance/ph49/chapter/recommendations)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/chapter/recommendations</a>  
 
 2. <a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
 3. <a id="endnote-3"></a>
    Source: digitalwellbeing.org  
    Title: BCTTv1 PDF version  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: mdedge.com  
-   Link: [https://mdedge.com/jcomjournal/article/147101/endocrinology/brief-action-planning-facilitate-behavior-change-and](https://mdedge.com/jcomjournal/article/147101/endocrinology/brief-action-planning-facilitate-behavior-change-and)  
+   Link: <a href="https://mdedge.com/jcomjournal/article/147101/endocrinology/brief-action-planning-facilitate-behavior-change-and" target="_blank" rel="noopener noreferrer nofollow">https://mdedge.com/jcomjournal/article/147101/endocrinology/brief-action-planning-facilitate-behavior-change-and</a>  
 
 5. <a id="endnote-5"></a>
    Source: abdn.elsevierpure.com  
    Title: Aberdeen Research Portal  
-   Link: [https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/](https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/)  
+   Link: <a href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Action planning and coping planning for long-term lifestyle change: Theory and assessment - The University of Aberdeen Research Portal...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-020-01001-x](https://link.springer.com/article/10.1186/s12966-020-01001-x)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
 
 7. <a id="endnote-7"></a>
    Source: cancercontrol.cancer.gov  
    Title: goal intent attain  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710](https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710</a>  
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00284/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00284/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00284/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00284/full</a>  
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Decision fatigue: A conceptual analysis  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1359105318763510](https://journals.sagepub.com/doi/abs/10.1177/1359105318763510)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1359105318763510" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1359105318763510</a>  
 
 11. <a id="endnote-11"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Method  
-   Link: [https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf](https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: hal.science  
-   Link: [https://hal.science/hal-03561895v1/document](https://hal.science/hal-03561895v1/document)  
+   Link: <a href="https://hal.science/hal-03561895v1/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-03561895v1/document</a>  
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.742557/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.742557/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.742557/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.742557/full</a>  
 
 14. <a id="endnote-14"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
-   Link: [https://theoryandtechniquetool.humanbehaviourchange.org/tool](https://theoryandtechniquetool.humanbehaviourchange.org/tool)  
+   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VfGRTOIT9Z4](https://www.youtube.com/watch?v=VfGRTOIT9Z4)  
+   Link: <a href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VfGRTOIT9Z4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop the Busy-Work Trap: Time Management Strategies | Zhang Yongxi | Humanity Lecture Hall | Full...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: How to Study at Night Without Feeling Sleepy (I Did This for 9 Years)  
-   Link: [https://www.youtube.com/watch?v=LJlLUoRJj88](https://www.youtube.com/watch?v=LJlLUoRJj88)  
+   Link: <a href="https://www.youtube.com/watch?v=LJlLUoRJj88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LJlLUoRJj88</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to be productive (even when you&#x27;re tired) | tips to stay motivated during a 9-5 work day...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: I Finally Figured Out How To Be Consistent (It's Not Discipline)  
-   Link: [https://www.youtube.com/watch?v=K0S9xJwRohI](https://www.youtube.com/watch?v=K0S9xJwRohI)  
+   Link: <a href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K0S9xJwRohI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Study at Night Without Feeling Sleepy (I Did This for 9 Years)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Discipline Secret No One Talks About (Backed by Science)  
-   Link: [https://www.youtube.com/watch?v=tIdLT9xDEF8](https://www.youtube.com/watch?v=tIdLT9xDEF8)  
+   Link: <a href="https://www.youtube.com/watch?v=tIdLT9xDEF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tIdLT9xDEF8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Finally Figured Out How To Be Consistent (It&#x27;s Not Discipline)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/328583846_Effects_of_sleep_deprivation_on_executive_functioning_cognitive_abilities_metacognitive_confidence_and_decision_making](https://www.researchgate.net/publication/328583846_Effects_of_sleep_deprivation_on_executive_functioning_cognitive_abilities_metacognitive_confidence_and_decision_making)  
+   Link: <a href="https://www.researchgate.net/publication/328583846_Effects_of_sleep_deprivation_on_executive_functioning_cognitive_abilities_metacognitive_confidence_and_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328583846_Effects_of_sleep_deprivation_on_executive_functioning_cognitive_abilities_metacognitive_confidence_and_decision_making</a>  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon](https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon)  
+   Link: <a href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon</a>  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review](https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review</a>  
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/378870694_The_When_and_How_of_Planning_Meta-Analysis_of_the_Scope_and_Components_of_Implementation_Intentions_in_642_Tests](https://www.researchgate.net/publication/378870694_The_When_and_How_of_Planning_Meta-Analysis_of_the_Scope_and_Components_of_Implementation_Intentions_in_642_Tests)  
+   Link: <a href="https://www.researchgate.net/publication/378870694_The_When_and_How_of_Planning_Meta-Analysis_of_the_Scope_and_Components_of_Implementation_Intentions_in_642_Tests" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378870694_The_When_and_How_of_Planning_Meta-Analysis_of_the_Scope_and_Components_of_Implementation_Intentions_in_642_Tests</a>  
 
 24. <a id="endnote-24"></a>
    Source: sknmoves.kn  
-   Link: [https://sknmoves.kn/chronic-disease-self-management-tool-action-planning/](https://sknmoves.kn/chronic-disease-self-management-tool-action-planning/)  
+   Link: <a href="https://sknmoves.kn/chronic-disease-self-management-tool-action-planning/" target="_blank" rel="noopener noreferrer nofollow">https://sknmoves.kn/chronic-disease-self-management-tool-action-planning/</a>  

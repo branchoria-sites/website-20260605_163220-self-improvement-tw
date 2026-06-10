@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:44:36'
 parent_title: When Streaks Help and When They Trap You | Better Change
 parent_permalink: /wearables/
 parent_nav_short_title: Wearables
@@ -265,7 +266,6 @@ next_link:
   permalink: /step-counts/
   short_title: Step Counts
   heading_title: What Step Counts Can and Cannot Tell You
-date: '2026-06-05 15:44:36 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1.webp
@@ -280,7 +280,7 @@ A habit does not survive difficult days because of [motivation]({{ 'motivation/'
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-dark.svg" | relative_url }}" alt="Minimums illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This idea matters because habits are most vulnerable during illness, travel, deadlines, family [emergencies]({{ 'emergencies/' | relative_url }}) and periods of [low energy]({{ 'low-energy/' | relative_url }}). Missing occasional days is normal, but repeatedly stopping and restarting can weaken the cues and routines that make habits automatic. Research on habit formation suggests that habits develop through repeated performance in stable contexts, often over many weeks or months rather than a few days. Protecting repetition, even at a very small scale, helps preserve that process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</span></span></span>
 
-Within a system of wearables, streaks and visible feedback, [minimum actions]({{ 'minimums/' | relative_url }}) act as a safety net. They keep the streak attached to the behaviour rather than allowing one difficult day to become a week-long lapse.
+Within a system of [wearables]({{ 'wearables/' | relative_url }}), streaks and visible feedback, minimum actions act as a safety net. They keep the streak attached to the behaviour rather than allowing one difficult day to become a week-long lapse.
 
 ## Why Daily Habits Need a Realistic Floor
 
@@ -865,131 +865,131 @@ When life becomes complicated, the smallest version that still counts can be eno
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Theory-based Habit Modeling for Enhancing Behavior Prediction  
-   Link: [https://arxiv.org/abs/2101.01637](https://arxiv.org/abs/2101.01637)  
+   Link: <a href="https://arxiv.org/abs/2101.01637" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.01637</a>  
 
 2. <a id="endnote-2"></a>
    Source: everyday.app  
    Title: daily habits survive missed days  
-   Link: [https://everyday.app/blog/daily-habits-survive-missed-days/](https://everyday.app/blog/daily-habits-survive-missed-days/)  
+   Link: <a href="https://everyday.app/blog/daily-habits-survive-missed-days/" target="_blank" rel="noopener noreferrer nofollow">https://everyday.app/blog/daily-habits-survive-missed-days/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Habits That Survive When You Miss A Day12 Feb 2026 — Learn how to build daily habits that survive missed days using mini habits, fl...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
    Title: TINY HABITS by B.J. Fogg – Animated Book  
-   Link: [https://www.youtube.com/watch?v=ijInaXZy0pU](https://www.youtube.com/watch?v=ijInaXZy0pU)  
+   Link: <a href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ijInaXZy0pU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral scientist BJ Fogg on building lasting habits...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Atomic Habits Chapter 13: How to Stop Procrastinating with the Two-Minute Rule  
-   Link: [https://www.youtube.com/watch?v=Q8atUEtqVhc](https://www.youtube.com/watch?v=Q8atUEtqVhc)  
+   Link: <a href="https://www.youtube.com/watch?v=Q8atUEtqVhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q8atUEtqVhc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear on building atomic habits that last | Sunrise...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: James Clear on building atomic habits that last | Sunrise  
-   Link: [https://www.youtube.com/watch?v=RGxFbic6oYA](https://www.youtube.com/watch?v=RGxFbic6oYA)  
+   Link: <a href="https://www.youtube.com/watch?v=RGxFbic6oYA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RGxFbic6oYA</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maria ShriverStanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing results. It&#x27;s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: jamesclear.com  
    Title: James Clear The Ultimate Habit Tracker Guide: Why and How to Track  
-   Link: [https://jamesclear.com/habit-tracker](https://jamesclear.com/habit-tracker)  
+   Link: <a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most basic format is to get a calendar and cross off each day you stick with your...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: psychologytoday.com  
    Title: the magic tiny habits  
-   Link: [https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits](https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayThe Magic of Tiny Habits28 Jul 2020 — These little starter steps create a momentum that blooms into consistent, durable...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/small-habits](https://jamesclear.com/small-habits)  
+   Link: <a href="https://jamesclear.com/small-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/small-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearI&#x27;m Using These 3 Simple Steps to Actually Stick with Good...I&#x27;ve been using this simple 3-step strategy to stick with a dail...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/how-to-stop-procrastinating](https://jamesclear.com/how-to-stop-procrastinating)  
+   Link: <a href="https://jamesclear.com/how-to-stop-procrastinating" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/how-to-stop-procrastinating</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearHow to Stop Procrastinating by Using the &quot;2-Minute Rule&quot;The Two-Minute Rule states “When you start a new habit, it should take...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/habit-guide](https://jamesclear.com/habit-guide)  
+   Link: <a href="https://jamesclear.com/habit-guide" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearHow to Build New Habits: This is Your Strategy GuideUnderstanding how to build new habits is essential for making progress. Re...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nehrlich.com  
    Title: tiny habits by bj fogg  
-   Link: [https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/](https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/)  
+   Link: <a href="https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits, by BJ Fogg3 Mar 2020 — Fogg suggests troubleshooting first the prompt, then ability, then motivation. If the prompt isn&#x27;t cl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/habit-stacking](https://jamesclear.com/habit-stacking)  
+   Link: <a href="https://jamesclear.com/habit-stacking" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-stacking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rather than... James Clear writes about habits, decision making, and continuous improvement.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)  
+   Link: <a href="https://jamesclear.com/atomic-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/atomic-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ll changes that will transform your habits and deliver amazing results...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/master-one-thing](https://jamesclear.com/master-one-thing)  
+   Link: <a href="https://jamesclear.com/master-one-thing" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/master-one-thing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has found that implementation intentions do not work if you try to improve multiple habits at the same time.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit)  
+   Link: <a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>omes automatic — [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;) to be exact...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: James (2022 film)  
-   Link: [https://en.wikipedia.org/wiki/James_%282022_film%29](https://en.wikipedia.org/wiki/James_%282022_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/James_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_%282022_film%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James (2022 film)James is a 2022 Indian Kannada-language action thriller film directed by Chethan Kumar and produced by Kishore Pathik...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Atomic Habits: How to Get 1% Better Every Day  
-   Link: [https://www.youtube.com/watch?v=U_nzqnXWvSo](https://www.youtube.com/watch?v=U_nzqnXWvSo)  
+   Link: <a href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_nzqnXWvSo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearJames Clear is an author and speaker focused on habits, decision-making, and continuous improvement. His work has appeared in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7itvByUOxo8](https://www.youtube.com/watch?v=7itvByUOxo8)  
+   Link: <a href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7itvByUOxo8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Will Change Your LifeIt shows how you can achieve life-changing results by starting small really small tiny in fact like putt...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=S_8e-6ZHKLs](https://www.youtube.com/watch?v=S_8e-6ZHKLs)  
+   Link: <a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_8e-6ZHKLs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TINY HABITS by BJ Fogg | Core MessageForget big change, start with a tiny habit: BJ Fogg at TEDxFremont. TEDx Talks &amp;middot; 2.3M views...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sobrief.com  
    Title: Tiny Habits by B.J  
-   Link: [https://sobrief.com/books/tiny-habits](https://sobrief.com/books/tiny-habits)  
+   Link: <a href="https://sobrief.com/books/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://sobrief.com/books/tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg | Summary, Audio, Quotes, FAQ22 Jan 2025 — This approach, called Tiny Habits, allows you to bypass the unreliable nature of motivati...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: bodybrainalliance.com  
    Title: tiny habits a behavior change experts perspective  
-   Link: [https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/](https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/)  
+   Link: <a href="https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: A Behavior Change Expert&#x27;s Perspective29 May 2023 — Are Tiny Habits actually helping you reach your goals? Read to find out...</p></details>
    Published: May 2023  
 
@@ -997,50 +997,50 @@ When life becomes complicated, the smallest version that still counts can be eno
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants](https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants)  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — 21 Habit formation typically requires repeated exposure over time, wi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: prev.shop  
-   Link: [https://prev.shop/blogs/plant-revolution/habits-and-how-to-develop-them](https://prev.shop/blogs/plant-revolution/habits-and-how-to-develop-them)  
+   Link: <a href="https://prev.shop/blogs/plant-revolution/habits-and-how-to-develop-them" target="_blank" rel="noopener noreferrer nofollow">https://prev.shop/blogs/plant-revolution/habits-and-how-to-develop-them</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HABITS AND HOW TO DEVELOP THEMFogg focuses on creating a roadmap for behavior change by starting with small, manageable measures and buil...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/tinyhabitsatomichabitspersonalgrowth/posts/1531636477571482/](https://www.facebook.com/groups/tinyhabitsatomichabitspersonalgrowth/posts/1531636477571482/)  
+   Link: <a href="https://www.facebook.com/groups/tinyhabitsatomichabitspersonalgrowth/posts/1531636477571482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tinyhabitsatomichabitspersonalgrowth/posts/1531636477571482/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation processes beyond usual suspectsJames Clear, one of the world&#x27;s leading experts on habit formation, reveals practical stra...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: oneyoufeed.net  
-   Link: [https://www.oneyoufeed.net/why-[willpower](https://www.oneyoufeed.net/why-[willpower)  
+   Link: <a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Willpower Isn&#x27;t Enough: The Tiny Habits Method...23 Dec 2025 — Eric and Dr. BJ Fogg discuss why willpower isn&#x27;t enough as they explo...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z](https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z)  
+   Link: <a href="https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z</a>  
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/soniastic_the-power-of-systems-over-goals-james-clear-activity-7307400370916311041-G36R](https://www.linkedin.com/posts/soniastic_the-power-of-systems-over-goals-james-clear-activity-7307400370916311041-G36R)  
+   Link: <a href="https://www.linkedin.com/posts/soniastic_the-power-of-systems-over-goals-james-clear-activity-7307400370916311041-G36R" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/soniastic_the-power-of-systems-over-goals-james-clear-activity-7307400370916311041-G36R</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Systems Over Goals | Sonia TiwariThe Power of Systems Over Goals James Clear famously said in his book Atomic Habits - “You...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Fogg-behavior-model-Tiny-Habits-The-Small-Changes-That-Change-Everything-BJ-Fogg_fig2_341381122](https://www.researchgate.net/figure/Fogg-behavior-model-Tiny-Habits-The-Small-Changes-That-Change-Everything-BJ-Fogg_fig2_341381122)  
+   Link: <a href="https://www.researchgate.net/figure/Fogg-behavior-model-Tiny-Habits-The-Small-Changes-That-Change-Everything-BJ-Fogg_fig2_341381122" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Fogg-behavior-model-Tiny-Habits-The-Small-Changes-That-Change-Everything-BJ-Fogg_fig2_341381122</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2) recognises these elements and highlights the importance of using prompts appropriately to help remind and encourage people to...Read...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: medium.com  
-   Link: [https://medium.com/illumination/the-2-minute-rule-the-simple-habit-that-helped-me-beat-procrastination-b0a24422c6b8](https://medium.com/illumination/the-2-minute-rule-the-simple-habit-that-helped-me-beat-procrastination-b0a24422c6b8)  
+   Link: <a href="https://medium.com/illumination/the-2-minute-rule-the-simple-habit-that-helped-me-beat-procrastination-b0a24422c6b8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/the-2-minute-rule-the-simple-habit-that-helped-me-beat-procrastination-b0a24422c6b8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to the point that you can step right over it rather than attempting to scale...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: coachpedropinto.com  
    Title: habit formation science backed strategies for leaders  
-   Link: [https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/](https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/)  
+   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Research from the British Psychological Society found that executi...</p></details>

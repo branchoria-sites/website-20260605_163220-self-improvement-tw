@@ -278,7 +278,7 @@ A lunch walk is deliberately small. The tracking system should be small as well.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_simple_lunch_walk_tr_38751a-Illustration-1-dark.svg" | relative_url }}" alt="Simple Tracking illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_simple_lunch_walk_tr_38751a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_simple_lunch_walk_tr_38751a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That approach follows a useful principle from behaviour-change research. Self-monitoring can help habits stick because it keeps behaviour visible, but habit formation depends primarily on repeating an action in a consistent context rather than collecting large amounts of data. Tracking works best when it supports repetition; it becomes less useful when the tracking itself turns into a second project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+That approach follows a useful principle from behaviour-change research. Self-monitoring can help habits stick because it keeps behaviour visible, but habit formation depends primarily on repeating an action in a consistent context rather than collecting large amounts of data. Tracking works best when it supports repetition; it becomes less useful when the tracking itself turns into a second project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 For a lunch-walk habit, the goal is not to create a perfect record of steps, pace, distance, heart rate, route variation, weather conditions, or streak statistics. The goal is to make it slightly harder to forget the walk and slightly easier to notice that you are becoming the sort of person who takes one.
 
@@ -290,7 +290,7 @@ A useful governance rule is simple:
 
 > The tracker exists to record compliance with the habit, not to judge the quality of the person.
 
-That distinction matters because habit research emphasises consistency in response to a cue. For the lunch-walk habit, the critical event is completing the walk after lunch. Whether it was eight minutes or twelve minutes is usually a secondary concern during the early stages of habit formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+That distinction matters because habit research emphasises consistency in response to a cue. For the lunch-walk habit, the critical event is completing the walk after lunch. Whether it was eight minutes or twelve minutes is usually a secondary concern during the early stages of habit formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 A tracker should therefore answer a narrow operational question:
 
@@ -301,7 +301,7 @@ Everything else is optional.
 
 ## Yes-or-no tracking for the first month
 
-The first month is usually about establishing repetition rather than optimisation. A yes-or-no system creates the lowest administrative burden while still providing the benefits of self-monitoring. Research reviews of behaviour-change interventions consistently identify self-monitoring as one of the most common and useful [techniques]({{ 'techniques/' | relative_url }}) for supporting behaviour change, but they do not require complex measurement to provide value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 82 — A systematic review was conducted to invest...</span></span></span>
+The first month is usually about establishing repetition rather than optimisation. A yes-or-no system creates the lowest administrative burden while still providing the benefits of self-monitoring. Research reviews of behaviour-change interventions consistently identify self-monitoring as one of the most common and useful [techniques]({{ 'techniques/' | relative_url }}) for supporting [behaviour change]({{ 'behaviour-change/' | relative_url }}), but they do not require complex measurement to provide value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 82 — A systematic review was conducted to invest...</span></span></span>
 
 A practical first-month tracker might be:
 
@@ -332,7 +332,7 @@ A useful policy is to log the walk immediately after returning. Delayed recordin
 
 People often assume that more information automatically produces better behaviour change. In practice, every additional metric creates another decision, another interpretation, and another opportunity to feel behind.
 
-Behavioural research suggests that cues, repetition, and self-monitoring can [support]({{ 'support/' | relative_url }}) habit development. The simplest systems often succeed because they reduce cognitive load rather than increasing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the science behind habit tracking</span><span class="citation-popover-snippet">14 Dec 2025 — Tracking behavior increases goal success because self-monitoring itself drives change. Checkmarks trigger dopamine rewards...</span></span></span>
+Behavioural research suggests that cues, repetition, and self-monitoring can [support]({{ 'support/' | relative_url }}) habit development. The simplest systems often succeed because they reduce cognitive load rather than increasing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the science behind habit tracking</span><span class="citation-popover-snippet">14 Dec 2025 — Tracking behavior increases goal success because self-monitoring itself drives change. Checkmarks trigger dopamine rewards...</span></span></span>
 
 Consider two lunch-walk trackers.
 
@@ -394,7 +394,7 @@ Or:
 * Walking shoes were upstairs.
 * Solution: leave them near the lunch area.
 
-This keeps attention on system design rather than [motivation]({{ 'motivation/' | relative_url }}). Habit researchers repeatedly note the importance of stable contexts and cues. Removing practical barriers strengthens the link between lunch and walking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit formation and changeby L Carden · 2018 · Cited by 355 — This review highlights emerging findings and new directions in research on...</span></span></span>
+This keeps attention on system design rather than [motivation]({{ 'motivation/' | relative_url }}). Habit researchers repeatedly note the importance of stable contexts and cues. Removing practical barriers strengthens the link between lunch and walking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit formation and changeby L Carden · 2018 · Cited by 355 — This review highlights emerging findings and new directions in research on...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ccd2FNpg1LQ" title="How I Stick To My Habits (Without Discipline)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ccd2FNpg1LQ" target="_blank" rel="noopener noreferrer">How I Stick To My Habits (Without Discipline)</a></p><p class="youtube-embed-meta">Channel: Olly Staniland &middot; Views: 643.3K &middot; Uploaded: November 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ccd2FNpg1LQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ccd2FNpg1LQ">Open on YouTube</a></p></div></div></div>
@@ -405,12 +405,12 @@ During the early stages, several measurements are usually better left alone.
 
 Avoid tracking:
 
-* Calories burned.
-* Weight changes.
-* Exact [step counts]({{ 'step-counts/' | relative_url }}).
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
+* Calories burned.
+* Weight changes.
+* Exact step counts.
 * Average speed.
 * Daily performance rankings.
 * Multiple health metrics simultaneously.
@@ -453,7 +453,7 @@ A more resilient rule is:
 
 The record should reveal reality, not punish it.
 
-Research on self-monitoring highlights both benefits and costs. Tracking can increase awareness and support behaviour change, but excessive tracking can create burden and reduce long-term engagement if the process becomes cumbersome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+Research on self-monitoring highlights both benefits and costs. Tracking can increase awareness and support behaviour change, but excessive tracking can create burden and reduce long-term engagement if the process becomes cumbersome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FQqArLyW35E" title="How to Use a Habit Tracker to Track Habits Effectively" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FQqArLyW35E" target="_blank" rel="noopener noreferrer">How to Use a Habit Tracker to Track Habits Effectively</a></p><p class="youtube-embed-meta">Channel: Clever Fox Planner &middot; Views: 3.4K &middot; Uploaded: January 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FQqArLyW35E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FQqArLyW35E">Open on YouTube</a></p></div></div></div>
@@ -650,127 +650,127 @@ The strongest lunch-walk tracker is often the least impressive one. A row of qui
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 879 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 879 — Psychological theory and evide...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 94 — Furthermore, the habit formation process thri...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e54375/](https://www.jmir.org/2024/1/e54375/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 82 — A systematic review was conducted to invest...</p></details>
+   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 82 — A systematic review was conducted to invest...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-monitoring often involves self-evaluation...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 355 — This review highlights emerging findings and new directions in research on...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1438887124002619](https://www.sciencedirect.com/org/science/article/pii/S1438887124002619)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887124002619</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563215302946](https://www.sciencedirect.com/science/article/abs/pii/S0747563215302946)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563215302946" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563215302946</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using [feedback](&amp;#123;&amp;#123; &#x27;feedback/&#x27; | relative_url &amp;#125;&amp;#125;) through digital technology to disrupt and...by S Hermsen · 2016 · Cited by 333 — This review shows that in the 72 studies...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661324002663](https://www.sciencedirect.com/science/article/pii/S1364661324002663)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661324002663</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 46 — In real-life settings, habit formation typically...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X](https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 560 — Implementation intentions are plans that s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: psychologytoday.com  
    Title: the science behind habit tracking  
-   Link: [https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking](https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Dec 2025 — Tracking behavior increases goal success because self-monitoring itself drives change. Checkmarks trigger dopamine rewards...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: psychologytoday.com  
    Title: the science behind habit tracking  
-   Link: [https://www.psychologytoday.com/sg/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking](https://www.psychologytoday.com/sg/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking)  
+   Link: <a href="https://www.psychologytoday.com/sg/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/sg/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply tracking a behavior—whether it&#x27;s...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: psychologytoday.com  
    Title: the science behind habit tracking  
-   Link: [https://www.psychologytoday.com/za/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking](https://www.psychologytoday.com/za/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking)  
+   Link: <a href="https://www.psychologytoday.com/za/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/za/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Dec 2025 — Tracking behavior increases goal success because self-monitoring itself drives change. Checkmarks trigger dopamine rewards...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: psychologytoday.com  
    Title: habit tracking a primer  
-   Link: [https://www.psychologytoday.com/sg/blog/parenting-from-a-neuroscience-perspective/202601/habit-tracking-a-primer](https://www.psychologytoday.com/sg/blog/parenting-from-a-neuroscience-perspective/202601/habit-tracking-a-primer)  
+   Link: <a href="https://www.psychologytoday.com/sg/blog/parenting-from-a-neuroscience-perspective/202601/habit-tracking-a-primer" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/sg/blog/parenting-from-a-neuroscience-perspective/202601/habit-tracking-a-primer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Tracking: A Primer7 Jan 2026 — Tracking behavior increases goal success because self-monitoring itself drives change.Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/336406914_The_Importance_of_Self-Monitoring_for_Behavior_Change_in_Youth_Findings_from_the_SWITCH_R_School_Wellness_Feasibility_Study](https://www.researchgate.net/publication/336406914_The_Importance_of_Self-Monitoring_for_Behavior_Change_in_Youth_Findings_from_the_SWITCH_R_School_Wellness_Feasibility_Study)  
+   Link: <a href="https://www.researchgate.net/publication/336406914_The_Importance_of_Self-Monitoring_for_Behavior_Change_in_Youth_Findings_from_the_SWITCH_R_School_Wellness_Feasibility_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336406914_The_Importance_of_Self-Monitoring_for_Behavior_Change_in_Youth_Findings_from_the_SWITCH_R_School_Wellness_Feasibility_Study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Self-Monitoring for Behavior Change in...10 Oct 2019 — For example, self-monitoring-where individuals track and observ...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/habit](https://www.merriam-webster.com/dictionary/habit)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning7 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nesslabs.com  
-   Link: [https://nesslabs.com/habit-trackers](https://nesslabs.com/habit-trackers)  
+   Link: <a href="https://nesslabs.com/habit-trackers" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/habit-trackers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit trackers: does tracking your habits actually work?They found that apps are most likely to successfully support habit formation if t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: fastercapital.com  
-   Link: [https://fastercapital.com/content/Self-management-Techniques--Habit-Tracking-Systems--Measure-Progress--The-Benefits-of-Habit-Tracking-Systems.html](https://fastercapital.com/content/Self-management-Techniques--Habit-Tracking-Systems--Measure-Progress--The-Benefits-of-Habit-Tracking-Systems.html)  
+   Link: <a href="https://fastercapital.com/content/Self-management-Techniques--Habit-Tracking-Systems--Measure-Progress--The-Benefits-of-Habit-Tracking-Systems.html" target="_blank" rel="noopener noreferrer nofollow">https://fastercapital.com/content/Self-management-Techniques--Habit-Tracking-Systems--Measure-Progress--The-Benefits-of-Habit-Tracking-Systems.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self management Techniques: Habit Tracking Systems3 Apr 2025 — Defining Habit Tracking: At its core, habit tracking is the systematic rec...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/personal-growth/the-scientific-argument-for-mastering-one-thing-at-a-time-d794a983dac1](https://medium.com/personal-growth/the-scientific-argument-for-mastering-one-thing-at-a-time-d794a983dac1)  
+   Link: <a href="https://medium.com/personal-growth/the-scientific-argument-for-mastering-one-thing-at-a-time-d794a983dac1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/personal-growth/the-scientific-argument-for-mastering-one-thing-at-a-time-d794a983dac1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Argument for Mastering One Thing at a TimeFor example, implementation intentions have been found to increase the odds that...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theonlinegp.com  
-   Link: [https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick](https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick)  
+   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...Aug 12, 2025 — The optimal implementation intention formula states: &quot;If [situation]...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchportal.bath.ac.uk  
    Title: good intentions bad habits and effects of forming implementation  
-   Link: [https://researchportal.bath.ac.uk/en/publications/good-intentions-bad-habits-and-effects-of-forming-implementation-/](https://researchportal.bath.ac.uk/en/publications/good-intentions-bad-habits-and-effects-of-forming-implementation-/)  
+   Link: <a href="https://researchportal.bath.ac.uk/en/publications/good-intentions-bad-habits-and-effects-of-forming-implementation-/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.bath.ac.uk/en/publications/good-intentions-bad-habits-and-effects-of-forming-implementation-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>intentions, bad habits, and effects of forming...by B Verplanken · 1999 · Cited by 729 — A field experiment demonstrated that forming im...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wjarr.com  
-   Link: [https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf](https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf)  
+   Link: <a href="https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g the basal ganglia, a group of nuclei in the brain associated with motor control...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>king to our goals, whether it&#x27;s writing down the exact time and date of...Read more...</p></details>

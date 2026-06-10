@@ -502,7 +502,7 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb-over
 
 ## Introduction
 
-Most people assume that behaviour change depends on willpower. If they exercise consistently, eat well, save money or focus on important work, they imagine it is because they are more disciplined. The evidence points in a different direction. Behaviour is heavily shaped by the environments in which it occurs: the objects within reach, the defaults we accept, the cues we encounter and the amount of effort required to act. Small changes to those conditions often produce more reliable results than repeated attempts to summon greater self-control. Research on [choice architecture]({{ 'defaults/' | relative_url }}), habit formation and behaviour design consistently shows that changing the environment can change behaviour without requiring constant [motivation]({{ 'motivation/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">PMCby S Mertens · 2021 · Cited by 1060 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
+Most people assume that [behaviour change]({{ 'behaviour-change/' | relative_url }}) depends on willpower. If they exercise consistently, eat well, save money or focus on important work, they imagine it is because they are more disciplined. The evidence points in a different direction. Behaviour is heavily shaped by the environments in which it occurs: the objects within reach, the defaults we accept, the cues we encounter and the amount of effort required to act. Small changes to those conditions often produce more reliable results than repeated attempts to summon greater self-control. Research on choice architecture, habit formation and behaviour design consistently shows that changing the environment can change behaviour without requiring constant [motivation]({{ 'motivation/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">by S Mertens · 2021 · Cited by 1060 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb-overview.webp" | relative_url }}" alt="Overview image for Environment" loading="eager" decoding="sync" fetchpriority="high">
@@ -524,7 +524,7 @@ A useful critique of willpower-centred thinking is that it confuses personal cha
 
 One of the simplest principles in environment design is reducing friction. Friction is any small cost that makes a behaviour less likely: extra effort, extra decisions, extra time or extra inconvenience.
 
-The reason friction matters is that human behaviour is highly sensitive to ease. Research on habit formation and behaviour design repeatedly finds that behaviours become more likely when they can be performed with less effort and in response to [stable cues]({{ 'stable-cues/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">PMCby S Mertens · 2021 · Cited by 1060 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Habit Interventions (Chapter 41</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...This chapter outlines how developing new cue...</span></span></span>
+The reason friction matters is that human behaviour is highly sensitive to ease. Research on habit formation and behaviour design repeatedly finds that behaviours become more likely when they can be performed with less effort and in response to [stable cues]({{ 'stable-cues/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">by S Mertens · 2021 · Cited by 1060 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Habit Interventions (Chapter 41</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...This chapter outlines how developing new cue...</span></span></span>
 
 Practical examples include:
 
@@ -566,11 +566,11 @@ Examples include:
 * Charging a phone outside the bedroom.
 * Storing unhealthy snacks in inconvenient locations.
 * Removing saved payment details from shopping websites.
-* Using [website blockers]({{ 'blockers/' | relative_url }}) during focused work sessions.
+* Using website [blockers]({{ 'blockers/' | relative_url }}) during focused work sessions.
 
 Each intervention adds a small barrier. None is dramatic. Yet the cumulative effect can be significant because many impulsive actions depend on convenience.
 
-The logic is supported by research on choice architecture and self-nudging. Adjusting accessibility, [defaults]({{ 'defaults/' | relative_url }}) and friction can systematically alter behaviour without eliminating freedom of choice. People can still perform the unwanted behaviour if they choose, but the path is no longer effortless. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/REISAT-16" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">PhilArchiveSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, defa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 210 — Self-deployed changes of accessibility, default...</span></span></span>
+The logic is supported by research on choice architecture and self-nudging. Adjusting accessibility, [defaults]({{ 'defaults/' | relative_url }}) and friction can systematically alter behaviour without eliminating freedom of choice. People can still perform the unwanted behaviour if they choose, but the path is no longer effortless. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/REISAT-16" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">Self-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, defa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 210 — Self-deployed changes of accessibility, default...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb-Illustration-2-dark.svg" | relative_url }}" alt="Environment illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -586,7 +586,7 @@ That pause matters. It introduces a moment in which long-term goals have a chanc
 
 Defaults are among the most powerful features of an environment because many decisions are never actively reconsidered. People often accept what is already set up.
 
-Behavioural science refers to this as choice architecture: the design of the decision environment itself. Research across hundreds of studies shows that choice architecture interventions can meaningfully influence behaviour, with effects comparable to many traditional behaviour-change approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">PMCby S Mertens · 2021 · Cited by 1060 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span>
+Behavioural science refers to this as choice architecture: the design of the decision environment itself. Research across hundreds of studies shows that choice architecture interventions can meaningfully influence behaviour, with effects comparable to many traditional behaviour-change approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">by S Mertens · 2021 · Cited by 1060 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span>
 
 In everyday self-improvement, useful defaults include:
 
@@ -1052,182 +1052,182 @@ That shift changes the focus from heroic effort to practical design. Instead of 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe effectiveness of nudging: A meta-analysis of choice  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Mertens · 2021 · Cited by 1060 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 1060 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 109 — Choice architecture interventions, which...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Psychological theory and evide...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45](https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...This chapter outlines how developing new cue...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — We propose that there is an urgent ne...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — We propose that there is an urgent ne...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: habitweekly.com  
-   Link: [https://www.habitweekly.com/models-frameworks/the-fogg-model](https://www.habitweekly.com/models-frameworks/the-fogg-model)  
+   Link: <a href="https://www.habitweekly.com/models-frameworks/the-fogg-model" target="_blank" rel="noopener noreferrer nofollow">https://www.habitweekly.com/models-frameworks/the-fogg-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the person&#x27;s level of motivation and ability...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: philarchive.org  
-   Link: [https://philarchive.org/archive/REISAT-16](https://philarchive.org/archive/REISAT-16)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilArchiveSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, defa...</p></details>
+   Link: <a href="https://philarchive.org/archive/REISAT-16" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/REISAT-16</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, defa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pure.mpg.de  
-   Link: [https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content](https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content)  
+   Link: <a href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 210 — Self-deployed changes of accessibility, default...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 135 — Implementation intention formation is the mental act of linking an anticipated c...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>39 - Planning and Implementation Intention InterventionsSeveral reviews and meta-analyses have explored the effectiveness of implementati...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76](https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76)  
+   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/selfnudging-and-the-citizen-choice-architect/F526628F7F3C7B436FA2BCBFC1FC3C76</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-nudging and the citizen choice architectby S REIJULA · 2022 · Cited by 214 — Self-deployed changes of accessibility, defaults and fr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ate a single, specific well-learned behavioral response.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/choice-architecture](https://thedecisionlab.com/reference-guide/psychology/choice-architecture)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/prompts](https://www.behaviormodel.org/prompts)  
+   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelPrompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design eff...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/nudge-theory](https://thedecisionlab.com/reference-guide/psychology/nudge-theory)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/nudge-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/nudge-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nudge TheoryA nudge is a concept in behavioral economics that subtly alters the environment or context in which people make decisions wit...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Change - PMC - NIHby AL Duckworth · 2020 · Cited by 139 — We propose the process model of behavior change as a parsimonious framework for...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: productmindset.substack.com  
    Title: fogg behavior model  
-   Link: [https://productmindset.substack.com/p/fogg-behavior-model](https://productmindset.substack.com/p/fogg-behavior-model)  
+   Link: <a href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://productmindset.substack.com/p/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation Intentions are proven strategies helping you achi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: behavior.rare.org  
    Title: choice architecture  
-   Link: [https://behavior.rare.org/science/choice-architecture/](https://behavior.rare.org/science/choice-architecture/)  
+   Link: <a href="https://behavior.rare.org/science/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://behavior.rare.org/science/choice-architecture/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture - Behavior Change for the EnvironmentDesigning the decision-making context through the way we prompt, structure, or frame ch...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/388897398_A_meta-analysis_of_the_effectiveness_of_implementation_intentions_for_pro-environmental_behavior_adoption](https://www.researchgate.net/publication/388897398_A_meta-analysis_of_the_effectiveness_of_implementation_intentions_for_pro-environmental_behavior_adoption)  
+   Link: <a href="https://www.researchgate.net/publication/388897398_A_meta-analysis_of_the_effectiveness_of_implementation_intentions_for_pro-environmental_behavior_adoption" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388897398_A_meta-analysis_of_the_effectiveness_of_implementation_intentions_for_pro-environmental_behavior_adoption</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the effectiveness of implementation...19 Feb 2025 — Implementation intentions are more effective for sustainable beha...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069](https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069)  
+   Link: <a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesHow Understanding Motivation, Ability, and Prompts Can Enhance User Engagement and D...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: digitalcharitylab.org  
-   Link: [https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/](https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/)  
+   Link: <a href="https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior = Motivation + Ability + Prompt: The Fogg...27 Jun 2019 — Three elements must converge at the same moment for a behavior to occ...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...There&#x27;s Motivation to do the behavior, Ability to do the behavior, and a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: promarket.org  
-   Link: [https://www.promarket.org/2024/02/27/what-we-learn-about-the-behavioral-economics-of-defaults-from-the-google-search-monopolization-case/](https://www.promarket.org/2024/02/27/what-we-learn-about-the-behavioral-economics-of-defaults-from-the-google-search-monopolization-case/)  
+   Link: <a href="https://www.promarket.org/2024/02/27/what-we-learn-about-the-behavioral-economics-of-defaults-from-the-google-search-monopolization-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.promarket.org/2024/02/27/what-we-learn-about-the-behavioral-economics-of-defaults-from-the-google-search-monopolization-case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Learn About the Behavioral Economics of Defaults...27 Feb 2024 — The authors review the behavioral economics and empirical evide...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Overall, the evidence for the effectiveness of implementatio...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: leantime.io  
    Title: how to use implementation intentions to reach your goals  
-   Link: [https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/](https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/)  
+   Link: <a href="https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/" target="_blank" rel="noopener noreferrer nofollow">https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: A Tried and True Approach...3 Nov 2024 — Implementation intentions serve as a tried and true approach to acco...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: globalrph.com  
-   Link: [https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/](https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/)  
+   Link: <a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lying habit formation and explores evidence-based strategies for behavioral change...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: sciencedirect.com  
    Title: Although earlier reviews indicated the effectiveness  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 355 — For example, implementation intentions help people to remember to act on in...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: yukaichou.com  
    Title: nudge theory thaler sunstein choice architecture  
-   Link: [https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/](https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/)  
+   Link: <a href="https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nudge Theory: S-Tier Guide to Choice ArchitectureNudge Theory (Thaler &amp; Sunstein, 2008) says that small, non-coercive changes in the envi...</p></details>

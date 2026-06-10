@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-wearables/
 description: Focused pages that expand on Wearables.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_wearables_streaks_315b17
 parent_title: Wearables | Self Improvement That Works

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-study/
 description: Focused pages that expand on Study First.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_study_before_scrolli_78a723
 parent_title: Study First | Self Improvement That Works

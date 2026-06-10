@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:03:46'
 parent_title: What Makes an Accountability Partner Useful? | Better Change
 parent_permalink: /accountability/
 parent_nav_short_title: Accountability
@@ -265,7 +266,6 @@ next_link:
   permalink: /retrieval-groups/
   short_title: Retrieval groups
   heading_title: The study group that actually helps learning
-date: '2026-06-05 16:03:46 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_if_then_recovery_pla_19308a-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_if_then_recovery_pla_19308a-Illustration-1.webp
@@ -278,13 +278,13 @@ Missing a study session, workout or writing block is rarely what destroys a habi
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_if_then_recovery_pla_19308a-Illustration-1-dark.svg" | relative_url }}" alt="If then plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_if_then_recovery_pla_19308a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_if_then_recovery_pla_19308a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Known in psychology as implementation intentions, if-then plans link a specific situation to a pre-decided response: “If X happens, then I will do Y.” Research led by psychologist Peter Gollwitzer has found that implementation intentions help translate intentions into action by specifying exactly how people will respond when obstacles arise. Meta-analyses covering thousands of participants show meaningful improvements in goal attainment across health, learning and behaviour-change settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span> ScienceDirect Within accountability partnerships and study groups <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImplementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5033 — Recent research on goal...</span></span></span>, the most useful if-then plans are not for ideal days. They are for missed sessions. They create a recovery route before a lapse occurs, making it easier to resume quickly rather than spending days deciding whether to restart.
+Known in psychology as implementation intentions, if-then plans link a specific situation to a pre-decided response: “If X happens, then I will do Y.” Research led by psychologist Peter Gollwitzer has found that implementation intentions help translate intentions into action by specifying exactly how people will respond when obstacles arise. Meta-analyses covering thousands of participants show meaningful improvements in goal attainment across health, learning and behaviour-change settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span> ScienceDirect Within accountability partnerships and study groups <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5033 — Recent research on goal...</span></span></span>, the most useful if-then plans are not for ideal days. They are for missed sessions. They create a recovery route before a lapse occurs, making it easier to resume quickly rather than spending days deciding whether to restart.
 
 ## How missed sessions become habit breaks
 
 A missed session creates two different problems. The practical problem is that one planned action did not happen. The psychological problem is the story people tell themselves about that miss.
 
-Behaviour-change research distinguishes between a lapse and a larger relapse. A lapse is a temporary interruption. A relapse is a return to the old pattern. One reason small lapses become larger failures is that people interpret the miss as proof that they lack discipline, rather than as a normal disruption requiring adjustment. Relapse-prevention literature has long identified guilt, shame and all-or-nothing thinking as mechanisms that can turn a small setback into a larger one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span>
+Behaviour-change research distinguishes between a lapse and a larger relapse. A lapse is a temporary interruption. A relapse is a return to the old pattern. One reason small lapses become larger failures is that people interpret the miss as proof that they lack discipline, rather than as a normal disruption requiring adjustment. Relapse-prevention literature has long identified guilt, shame and all-or-nothing thinking as mechanisms that can turn a small setback into a larger one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span>
 
 For accountability partners and [study groups]({{ 'study-groups/' | relative_url }}), this matters because people often avoid reporting a missed session. Instead of attending the next check-in and discussing what happened, they disappear temporarily, creating a second missed commitment. The social accountability system then weakens precisely when it is most needed.
 
@@ -292,7 +292,7 @@ An if-then recovery plan changes the [meaning]({{ 'meaning/' | relative_url }}) 
 
 ## Turning obstacles into if-then recovery plans
 
-Implementation intentions work by connecting a recognised cue with a predetermined response. Rather than relying on [motivation]({{ 'motivation/' | relative_url }}) in the moment, the person has already decided what happens next. Research suggests that this helps bridge the gap between wanting to act and actually acting, particularly when situations are predictable and identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate For missed sessions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span>, the structure is simple:
+Implementation intentions work by connecting a recognised cue with a predetermined response. Rather than relying on [motivation]({{ 'motivation/' | relative_url }}) in the moment, the person has already decided what happens next. Research suggests that this helps bridge the gap between wanting to act and actually acting, particularly when situations are predictable and identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate For missed sessions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span>, the structure is simple:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -304,7 +304,7 @@ Implementation intentions work by connecting a recognised cue with a predetermin
 
 </div>
 
-The strongest recovery plans focus on replacement actions rather than prohibitions. Research on implementation intentions suggests that “If situation X occurs, then I will do behaviour Y” generally works better than plans framed purely as “I will not do X”, especially when strong habits are involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21177875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedironic effects of implementation intentions negating...by MA Adriaanse · 2011 · Cited by 164 — Additionally, it was found that neg...</span></span></span>
+The strongest recovery plans focus on replacement actions rather than prohibitions. Research on implementation intentions suggests that “If situation X occurs, then I will do behaviour Y” generally works better than plans framed purely as “I will not do X”, especially when strong habits are involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21177875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">ironic effects of implementation intentions negating...by MA Adriaanse · 2011 · Cited by 164 — Additionally, it was found that neg...</span></span></span>
 
 Compare these two examples:
 
@@ -373,7 +373,7 @@ More effective plans look like:
 Research on physical-activity lapses suggests that maintaining confidence in one's ability to resume is an important predictor of long-term success. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePredictors of lapse and relapse in physical activity and...by EM Roordink · 2023 · Cited by 42 — We synthesized t...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/51gx3bSQBpg" title="If-then plans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=51gx3bSQBpg" target="_blank" rel="noopener noreferrer">If-then plans</a></p><p class="youtube-embed-meta">Channel: APAPC &middot; Views: 1.6K &middot; Uploaded: May 2016 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=51gx3bSQBpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=51gx3bSQBpg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yhLHfPZEKgU" title="360 ‒ How to change your habits: why they form and how to build or break them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer">360 ‒ How to change your habits: why they form and how to build or break them</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 85.5K &middot; Uploaded: August 2025 &middot; Length: 2 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yhLHfPZEKgU">Open on YouTube</a></p></div></div></div>
 
 ### Writing goals
 
@@ -393,21 +393,21 @@ Recovery plans can focus on restarting rather than catching up:
 Notice that none of these plans attempt to recover every lost minute. They aim to restore continuity.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yhLHfPZEKgU" title="360 ‒ How to change your habits: why they form and how to build or break them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer">360 ‒ How to change your habits: why they form and how to build or break them</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 85.5K &middot; Uploaded: August 2025 &middot; Length: 2 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yhLHfPZEKgU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/51gx3bSQBpg" title="If-then plans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=51gx3bSQBpg" target="_blank" rel="noopener noreferrer">If-then plans</a></p><p class="youtube-embed-meta">Channel: APAPC &middot; Views: 1.6K &middot; Uploaded: May 2016 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=51gx3bSQBpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=51gx3bSQBpg">Open on YouTube</a></p></div></div></div>
 
 ## What makes a recovery plan effective
 
 The best if-then plans share several characteristics.
 
-**They are concrete.** Research on implementation intentions consistently finds that specifying the exact situation and response is more effective than vague intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span>
+**They are concrete.** Research on implementation intentions consistently finds that specifying the exact situation and response is more effective than vague intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span>
 
 **They focus on the next action.** A missed session is already in the past. Effective recovery plans direct attention to the next behaviour that can still be controlled.
 
-**They assume setbacks will happen.** Rather than treating disruptions as exceptional, they treat them as predictable parts of long-term change. This mirrors relapse-prevention approaches that view occasional lapses as opportunities to learn and re-engage rather than evidence that the entire effort has failed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: camh.ca">[CAMH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">camh.ca</span><span class="citation-popover-snippet">CAMHFundamentals of Addiction: Preventing and managing...Lapses are often seen as part of recovery, whereas a true relapse suggests a ne...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span>
+**They assume setbacks will happen.** Rather than treating disruptions as exceptional, they treat them as predictable parts of long-term change. This mirrors relapse-prevention approaches that view occasional lapses as opportunities to learn and re-engage rather than evidence that the entire effort has failed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: camh.ca">[CAMH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">camh.ca</span><span class="citation-popover-snippet">Fundamentals of Addiction: Preventing and managing...Lapses are often seen as part of recovery, whereas a true relapse suggests a ne...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span>
 
 **They reduce decision fatigue.** The recovery choice has already been made. When the lapse occurs, the person executes the script instead of negotiating with themselves.
 
-**They stay realistic.** Large-scale studies suggest implementation intentions are helpful but not magical. Their effects are strongest when the planned response is feasible and the triggering situation is clear. They are less effective against deeply entrenched habits when used in isolation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21177875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedironic effects of implementation intentions negating...by MA Adriaanse · 2011 · Cited by 164 — Additionally, it was found that neg...</span></span></span>
+**They stay realistic.** Large-scale studies suggest implementation intentions are helpful but not magical. Their effects are strongest when the planned response is feasible and the triggering situation is clear. They are less effective against deeply entrenched habits when used in isolation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21177875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">ironic effects of implementation intentions negating...by MA Adriaanse · 2011 · Cited by 164 — Additionally, it was found that neg...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_if_then_recovery_pla_19308a-Illustration-3-dark.svg" | relative_url }}" alt="If then plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_if_then_recovery_pla_19308a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_if_then_recovery_pla_19308a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -749,180 +749,180 @@ That shift turns missed sessions from decision points into rehearsed situations.
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectImplementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5033 — Recent research on goal...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5033 — Recent research on goal...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect](https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect)  
+   Link: <a href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 290193001 Implementation Intentions  
-   Link: [https://www.researchgate.net/publication/290193001_Implementation_Intentions](https://www.researchgate.net/publication/290193001_Implementation_Intentions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions12 Jan 2016 — Implementation intentions have been used extensively to promote health behaviour change. Res...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/290193001_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290193001_Implementation_Intentions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions12 Jan 2016 — Implementation intentions have been used extensively to promote health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;). Res...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation IntentionsImplementation intentions help foster goal-directed behavior by increasing personal commitment to the if-t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: camh.ca  
-   Link: [https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse](https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAMHFundamentals of Addiction: Preventing and managing...Lapses are often seen as part of recovery, whereas a true relapse suggests a ne...</p></details>
+   Link: <a href="https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse" target="_blank" rel="noopener noreferrer nofollow">https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentals of Addiction: Preventing and managing...Lapses are often seen as part of recovery, whereas a true relapse suggests a ne...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/23316230_Planning_to_break_unwanted_habits_Habit_strength_moderates_implementation_intention_effects_on_behaviour_change](https://www.researchgate.net/publication/23316230_Planning_to_break_unwanted_habits_Habit_strength_moderates_implementation_intention_effects_on_behaviour_change)  
+   Link: <a href="https://www.researchgate.net/publication/23316230_Planning_to_break_unwanted_habits_Habit_strength_moderates_implementation_intention_effects_on_behaviour_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23316230_Planning_to_break_unwanted_habits_Habit_strength_moderates_implementation_intention_effects_on_behaviour_change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary, habit strength moderates the effectiveness of if-then plan formation in breaking unwanted habits.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/235326763_Clinical_Guidelines_for_Implementing_Relapse_Prevention_Therapy_A_Guideline_Developed_for_the_Behavioral_Health_Recovery_Management_Project](https://www.researchgate.net/publication/235326763_Clinical_Guidelines_for_Implementing_Relapse_Prevention_Therapy_A_Guideline_Developed_for_the_Behavioral_Health_Recovery_Management_Project)  
+   Link: <a href="https://www.researchgate.net/publication/235326763_Clinical_Guidelines_for_Implementing_Relapse_Prevention_Therapy_A_Guideline_Developed_for_the_Behavioral_Health_Recovery_Management_Project" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235326763_Clinical_Guidelines_for_Implementing_Relapse_Prevention_Therapy_A_Guideline_Developed_for_the_Behavioral_Health_Recovery_Management_Project</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behavioral Health Recovery Management Project is an initiative of Fayette...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitated by forming...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association](https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association)  
+   Link: <a href="https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>engthened cue-behavior associations as the mechanism underlying the effectiveness...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: 360 ‒ How to change your habits: why they form and how to build or break them  
-   Link: [https://www.youtube.com/watch?v=yhLHfPZEKgU](https://www.youtube.com/watch?v=yhLHfPZEKgU)  
+   Link: <a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yhLHfPZEKgU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If-then plans...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: If-then plans  
-   Link: [https://www.youtube.com/watch?v=51gx3bSQBpg](https://www.youtube.com/watch?v=51gx3bSQBpg)  
+   Link: <a href="https://www.youtube.com/watch?v=51gx3bSQBpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=51gx3bSQBpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If / Then | Turney Duff | TEDxHickory...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Promoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — For instance, the meta-analysis by Gollwitzer and Sheeran (2006) involving more than 8,000 partici...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Relapse Prevention and the Five Rules of Recovery  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4553654/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4553654/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4553654/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4553654/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRelapse Prevention and the Five Rules of Recovery - PMC - NIHby SM Melemis · 2015 · Cited by 311 — Third, the main tools of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21177875/](https://pubmed.ncbi.nlm.nih.gov/21177875/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedironic effects of implementation intentions negating...by MA Adriaanse · 2011 · Cited by 164 — Additionally, it was found that neg...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21177875/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21177875/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ironic effects of implementation intentions negating...by MA Adriaanse · 2011 · Cited by 164 — Additionally, it was found that neg...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18851764/](https://pubmed.ncbi.nlm.nih.gov/18851764/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the effect of forming implementation intentions was smaller among...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlinePredictors of lapse and relapse in physical activity and...by EM Roordink · 2023 · Cited by 42 — We synthesized t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Among individuals seeking to change health-related behaviors, relapse is a common experience. Whether it occurs very soon after...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe [Limits](&amp;#123;&amp;#123; &#x27;limits/&#x27; | relative_url &amp;#125;&amp;#125;) of Simple Implementation Intentions: Evidence from...by M Carrera · 2018 · Cited by 52 — We investigate the eff...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10087331/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10087331/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10087331/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10087331/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe effect of forming implementation intentions on alcohol...by R Cooke · 2022 · Cited by 36 — This review identifies boun...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by psychologist Peter Gollwitzer, transforms vague intentions into spe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: adf.org.au  
-   Link: [https://adf.org.au/reducing-risk/relapse/](https://adf.org.au/reducing-risk/relapse/)  
+   Link: <a href="https://adf.org.au/reducing-risk/relapse/" target="_blank" rel="noopener noreferrer nofollow">https://adf.org.au/reducing-risk/relapse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2025 — A relapse happens when a person stops maintaining his or her goal of reducing or avoiding use of alcohol or other drugs and...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translation of goal intentions into ac...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...Dec 23, 2022 — Implementation intentions are self-regulating strategies – crea...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis of the Effects of Mental Contrasting With...by G Wang · 2021 · Cited by 107 — For example, Gollwitzer and Sheeran (2006...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: recoveryanswers.org  
-   Link: [https://www.recoveryanswers.org/resource/relapse-prevention-rp/](https://www.recoveryanswers.org/resource/relapse-prevention-rp/)  
+   Link: <a href="https://www.recoveryanswers.org/resource/relapse-prevention-rp/" target="_blank" rel="noopener noreferrer nofollow">https://www.recoveryanswers.org/resource/relapse-prevention-rp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recovery Research InstituteRelapse Prevention (RP) (MBRP)Relapse Prevention is a skills-based, cognitive-behavioral approach that require...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: kops.uni-konstanz.de  
-   Link: [https://kops.uni-konstanz.de/server/api/core/bitstreams/eb48c8cf-7855-478e-90ec-1ea6d44f8252/content](https://kops.uni-konstanz.de/server/api/core/bitstreams/eb48c8cf-7855-478e-90ec-1ea6d44f8252/content)  
+   Link: <a href="https://kops.uni-konstanz.de/server/api/core/bitstreams/eb48c8cf-7855-478e-90ec-1ea6d44f8252/content" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/server/api/core/bitstreams/eb48c8cf-7855-478e-90ec-1ea6d44f8252/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation: The benefits and costs of IF-THEN...by PM GOLLWITZER — Research has shown that implementation intentions do help indivi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: wp.nyu.edu  
-   Link: [https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf](https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf)  
+   Link: <a href="https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nyu.edu7 If-Then Plans and the Intentional Control of Thoughts...by AL Cohen · Cited by 8 — In these studies, furnishing the ongoing go...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: stpeterswoolwich.church  
-   Link: [https://www.stpeterswoolwich.church/heritage/st-peters-story](https://www.stpeterswoolwich.church/heritage/st-peters-story)  
+   Link: <a href="https://www.stpeterswoolwich.church/heritage/st-peters-story" target="_blank" rel="noopener noreferrer nofollow">https://www.stpeterswoolwich.church/heritage/st-peters-story</a>  
 
 29. <a id="endnote-29"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1097212408/34](https://d-nb.info/1097212408/34)  
+   Link: <a href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1097212408/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ttainment engendered by implementation intentions takes account of the state (strength, activation) of people&#x27;s.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JitQP2neMFk](https://www.youtube.com/watch?v=JitQP2neMFk)  
+   Link: <a href="https://www.youtube.com/watch?v=JitQP2neMFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JitQP2neMFk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Habits &amp; Treat Addiction: The 6 Stages of ChangeLearn the 6 Stages of Change from the Transtheoretical Model of change. The Stages...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: habitdex.com  
-   Link: [https://habitdex.com/methods/implementation-intentions](https://habitdex.com/methods/implementation-intentions)  
+   Link: <a href="https://habitdex.com/methods/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions (If-Then Planning) - HabitDex21 Apr 2026 — Pre-decide exactly when, where, and how you&#x27;ll act...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/live-well/addiction-[support](https://www.nhs.uk/live-well/addiction-[support)  
+   Link: <a href="https://www.nhs.uk/live-well/addiction-[support" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/addiction-[support</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>addiction: getting helpIf you have a problem with drugs, there&#x27;s a wide range of services that can help...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 134 — (2006). Implementation intentions and goal achievement: A meta- analysis of effe...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>king to our goals, whether it&#x27;s writing down the exact time and date of when...Read more...</p></details>

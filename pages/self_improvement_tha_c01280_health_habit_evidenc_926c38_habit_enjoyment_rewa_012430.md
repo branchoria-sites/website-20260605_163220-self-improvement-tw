@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:16:26'
 parent_title: What Health Habits Teach About Change | Better Change
 parent_permalink: /health-habits/
 parent_nav_short_title: Health Habits
@@ -265,7 +266,6 @@ next_link:
   permalink: /missed-days-00854b/
   short_title: Missed Days
   heading_title: Does missing one day ruin a habit?
-date: '2026-06-05 16:16:26 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-1.webp
@@ -278,7 +278,7 @@ Healthy habits are often presented as a test of discipline: endure enough discom
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-1-dark.svg" | relative_url }}" alt="Enjoyment illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on health behaviour suggests that people are more likely to repeat actions that provide some form of intrinsic reward—pleasure, satisfaction, interest, competence, or a sense that the activity fits who they are. Those [rewards]({{ 'rewards/' | relative_url }}) appear to strengthen the link between a behaviour and its context, helping habits develop more efficiently than when actions are performed only out of pressure, guilt, or obligation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceived reward can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">HeldaDeveloping habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
+Research on health behaviour suggests that people are more likely to repeat actions that provide some form of intrinsic reward—pleasure, satisfaction, interest, competence, or a sense that the activity fits who they are. Those [rewards]({{ 'rewards/' | relative_url }}) appear to strengthen the link between a behaviour and its context, helping habits develop more efficiently than when actions are performed only out of pressure, guilt, or obligation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceived reward can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">Developing habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
 
 ## Why enjoyment is not a shortcut around habit formation
 
@@ -316,9 +316,9 @@ Importantly, enjoyment and personal value are not identical. Someone may not lov
 
 ### Why autonomous motivation matters more over time
 
-[External incentives]({{ 'intrinsic-risk/' | relative_url }}) can help people start a behaviour. A challenge, competition, or doctor's warning may trigger initial action. However, evidence suggests that long-term maintenance depends increasingly on self-determined forms of motivation. In exercise research, intrinsic motivation tends to be more strongly associated with sustained adherence than with initial adoption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4504 — The results show co...</span></span></span>
+External incentives can help people start a behaviour. A challenge, competition, or doctor's warning may trigger initial action. However, evidence suggests that long-term maintenance depends increasingly on self-determined forms of motivation. In exercise research, intrinsic motivation tends to be more strongly associated with sustained adherence than with initial adoption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4504 — The results show co...</span></span></span>
 
-This distinction matters for self-improvement. Starting a habit and keeping a habit are not the same problem. External pressure may launch behaviour change, but enjoyment often helps carry it through the months required for habit formation.
+This distinction matters for self-improvement. Starting a habit and keeping a habit are not the same problem. External pressure may launch [behaviour change]({{ 'behaviour-change/' | relative_url }}), but enjoyment often helps carry it through the months required for habit formation.
 
 ## Making exercise and vegetables less punishing
 
@@ -348,7 +348,7 @@ The best exercise habit is frequently not the physiologically optimal workout on
 
 The same principle applies to food. People often attempt dietary improvement through deprivation alone, assuming that unpleasantness proves seriousness.
 
-Habit formation research suggests a more effective strategy: make healthy options easier and more rewarding to consume. Vegetables prepared with flavours, textures, and cooking methods a person actually enjoys are more likely to become routine than vegetables eaten solely out of obligation. The goal is not to eliminate nutritional standards but to increase the probability of repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">HeldaDeveloping habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
+Habit formation research suggests a more effective strategy: make healthy options easier and more rewarding to consume. Vegetables prepared with flavours, textures, and cooking methods a person actually enjoys are more likely to become routine than vegetables eaten solely out of obligation. The goal is not to eliminate nutritional standards but to increase the probability of repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">Developing habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
 
 A vegetable habit built around meals someone likes is usually more durable than a theoretically perfect diet that feels punitive.
 
@@ -363,16 +363,16 @@ Pleasure becomes problematic when it replaces the target behaviour rather than s
 Researchers studying autonomous motivation often describe a process of internalisation. A behaviour that begins as something a person "should" do can gradually become something they value and choose for themselves. As this shift occurs, persistence becomes less dependent on constant self-control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Self-Determination Theory</span><span class="citation-popover-snippet">an overviewSelf-determination theory is defined as a framework that explores the relationship between personality, human motivation, and...</span></span></span> PubMed This is one reason successful long-term exercisers often describe their routines differently from beginners. They may still appreciate health <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Exercise, physical activity, and self-determination theory</span><span class="citation-popover-snippet">PubMed CentralExercise, physical activity, and self-determination theory - PMCby PJ Teixeira · 2012 · Cited by 4451 — This article examin...</span></span></span> benefits, but they also report enjoying the activity, valuing the [identity]({{ 'identity/' | relative_url }}) attached to it, or missing it when it is absent. The behaviour has become rewarding in its own right.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wcs2PFz5q6g" title="The Science of Making &amp; Breaking Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wcs2PFz5q6g" target="_blank" rel="noopener noreferrer">The Science of Making &amp; Breaking Habits</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 5.6M &middot; Uploaded: January 2022 &middot; Length: 1 hour 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wcs2PFz5q6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wcs2PFz5q6g">Open on YouTube</a></p></div></div></div>
 
 ## The self-improvement lesson
 
 The strongest interpretation of the evidence is not that people should only do what feels good. Rather, it is that sustainable health habits are easier to build when they contain some source of intrinsic reward.
 
-A behaviour that is enjoyable, satisfying, meaningful, or competence-building gives the brain a reason to repeat it beyond sheer obligation. Repetition remains essential, but enjoyment helps repetition happen. That makes pleasure not a distraction from habit formation, but one of the mechanisms through which healthy actions become automatic. Springer Nature Link <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceived reward can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">HeldaDeveloping habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
+A behaviour that is enjoyable, satisfying, meaningful, or competence-building gives the brain a reason to repeat it beyond sheer obligation. Repetition remains essential, but enjoyment helps repetition happen. That makes pleasure not a distraction from habit formation, but one of the mechanisms through which healthy actions become automatic. Springer Nature Link <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceived reward can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">Developing habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wcs2PFz5q6g" title="The Science of Making &amp; Breaking Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wcs2PFz5q6g" target="_blank" rel="noopener noreferrer">The Science of Making &amp; Breaking Habits</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 5.6M &middot; Uploaded: January 2022 &middot; Length: 1 hour 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wcs2PFz5q6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wcs2PFz5q6g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ROV36xBFD20" title="Advantages of creating systems and not just setting goals | Peter Attia, M.D. with James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ROV36xBFD20" target="_blank" rel="noopener noreferrer">Advantages of creating systems and not just setting goals | Peter Attia, M.D. with James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 365.7K &middot; Uploaded: December 2022 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ROV36xBFD20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ROV36xBFD20">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -705,195 +705,195 @@ A behaviour that is enjoyable, satisfying, meaningful, or competence-building gi
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228114961_Does_intrinsic_motivation_strengthen_physical_activity_habit_Modeling_relationships_between_self-determination_past_behaviour_and_habit_strength](https://www.researchgate.net/publication/228114961_Does_intrinsic_motivation_strengthen_physical_activity_habit_Modeling_relationships_between_self-determination_past_behaviour_and_habit_strength)  
+   Link: <a href="https://www.researchgate.net/publication/228114961_Does_intrinsic_motivation_strengthen_physical_activity_habit_Modeling_relationships_between_self-determination_past_behaviour_and_habit_strength" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228114961_Does_intrinsic_motivation_strengthen_physical_activity_habit_Modeling_relationships_between_self-determination_past_behaviour_and_habit_strength</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Does intrinsic motivation strengthen physical activity...Results showed that self-determined regulation interacted wit...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/329822565_Exploratory_study_of_the_impact_of_perceived_reward_on_habit_formation](https://www.researchgate.net/publication/329822565_Exploratory_study_of_the_impact_of_perceived_reward_on_habit_formation)  
+   Link: <a href="https://www.researchgate.net/publication/329822565_Exploratory_study_of_the_impact_of_perceived_reward_on_habit_formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329822565_Exploratory_study_of_the_impact_of_perceived_reward_on_habit_formation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/1479-5868-9-78](https://link.springer.com/article/10.1186/1479-5868-9-78)  
+   Link: <a href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479-5868-9-78</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4504 — The results show co...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/1479-5868-9-18](https://link.springer.com/article/10.1186/1479-5868-9-18)  
+   Link: <a href="https://link.springer.com/article/10.1186/1479-5868-9-18" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479-5868-9-18</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkSelf-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 837 — Findings demons...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1469029225000780](https://www.sciencedirect.com/science/article/pii/S1469029225000780)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1469029225000780" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029225000780</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory informed research for promoting...by N Ntoumanis · 2025 · Cited by 33 — In this review we evaluate the applica...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228060567_Exercise_physical_activity_and_self-determination_theory_A_systematic_review](https://www.researchgate.net/publication/228060567_Exercise_physical_activity_and_self-determination_theory_A_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/228060567_Exercise_physical_activity_and_self-determination_theory_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228060567_Exercise_physical_activity_and_self-determination_theory_A_systematic_review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exercise, physical activity, and self-determination theoryThis article examines the empirical literature on the relations between key SDT...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/390998482_Does_Self-Determination_Theory_Associate_With_Physical_Activity_A_Systematic_Review_of_Systematic_Review](https://www.researchgate.net/publication/390998482_Does_Self-Determination_Theory_Associate_With_Physical_Activity_A_Systematic_Review_of_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/390998482_Does_Self-Determination_Theory_Associate_With_Physical_Activity_A_Systematic_Review_of_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390998482_Does_Self-Determination_Theory_Associate_With_Physical_Activity_A_Systematic_Review_of_Systematic_Review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Does Self‐Determination Theory Associate With...23 Apr 2025 — This article aimed to combine the evidence that highlights the relat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf](https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/self-determination-theory](https://www.sciencedirect.com/topics/social-sciences/self-determination-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSelf-determination theory is defined as a framework that explores the relationship between personality, human motivation, and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1469029222001169](https://www.sciencedirect.com/science/article/pii/S1469029222001169)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1469029222001169" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029222001169</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Psychology Review, 13...Read...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10389-022-01766-4](https://link.springer.com/article/10.1007/s10389-022-01766-4)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10389-022-01766-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10389-022-01766-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>habit theory in changing physical activity behaviourby MDH Hawlader · 2023 · Cited by 30 — This study examined the associations of physic...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived reward can...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: helda.helsinki.fi  
-   Link: [https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content](https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HeldaDeveloping habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</p></details>
+   Link: <a href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow">https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Exercise, physical activity, and self-determination theory  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralExercise, physical activity, and self-determination theory - PMCby PJ Teixeira · 2012 · Cited by 4451 — This article examin...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pure.ewha.ac.kr  
    Title: intrinsic motivation and exercise adherence  
-   Link: [https://pure.ewha.ac.kr/en/publications/intrinsic-motivation-and-exercise-adherence/](https://pure.ewha.ac.kr/en/publications/intrinsic-motivation-and-exercise-adherence/)  
+   Link: <a href="https://pure.ewha.ac.kr/en/publications/intrinsic-motivation-and-exercise-adherence/" target="_blank" rel="noopener noreferrer nofollow">https://pure.ewha.ac.kr/en/publications/intrinsic-motivation-and-exercise-adherence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ewha Womans UniversityIntrinsic motivation and exercise adherenceby RM Ryan · 1997 · Cited by 2033 — Results revealed that adherence was...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: selfdeterminationtheory.org  
    Title: 2020 RyanDeci CEP PrePrint  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryIntrinsic and extrinsic motivation from a self-determination...by RM Ryan · Cited by 10389 — Self-determination...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Applying self-determination theory to behavior change  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12685826/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12685826/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby R Gerstenberg · 2025 · Cited by 2 — Autonomous motivation refers to engaging in an activity out of personal choice and genuine inte...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12685826/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12685826/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by R Gerstenberg · 2025 · Cited by 2 — Autonomous motivation refers to engaging in an activity out of personal choice and genuine inte...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: selfdeterminationtheory.org  
    Title: 2020 SheeranWrightEtAl SDTInterventions  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings indicate that interventions have a significant...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40256835/](https://pubmed.ncbi.nlm.nih.gov/40256835/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40256835/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40256835/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Associate With Physical...by Z Xu · 2025 · Cited by 27 — This article aimed to combine the evidence that highl...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: selfdeterminationtheory.org  
    Title: 2016 HalvariOlafsen ScandJMed  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2019/06/2016_HalvariOlafsen_ScandJMed.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2019/06/2016_HalvariOlafsen_ScandJMed.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2019/06/2016_HalvariOlafsen_ScandJMed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2019/06/2016_HalvariOlafsen_ScandJMed.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical activity and motivational predictors of changes in...by H Halvari · 2016 · Cited by 41 — This study tested a physical activity...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: selfdeterminationtheory.org  
    Title: 2012 FortierDudaGuerinTeixeira IJBNPA  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2012_FortierDudaGuerinTeixeira_IJBNPA.pdf](https://selfdeterminationtheory.org/SDT/documents/2012_FortierDudaGuerinTeixeira_IJBNPA.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2012_FortierDudaGuerinTeixeira_IJBNPA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2012_FortierDudaGuerinTeixeira_IJBNPA.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Promoting physical activity: development and testing of self...by MS Fortier · 2012 · Cited by 502 — A growing number of studies have pu...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ijop.70044](https://onlinelibrary.wiley.com/doi/10.1002/ijop.70044)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ijop.70044" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ijop.70044</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self‐Determination Theory Associate With Physical...21 Apr 2025 — Autonomous motivation was positively associated with physical activity...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_juPDoa3GBY](https://www.youtube.com/watch?v=_juPDoa3GBY)  
+   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mdpi.com  
    Title: The aim of this  
-   Link: [https://www.mdpi.com/2673-995X/5/3/98](https://www.mdpi.com/2673-995X/5/3/98)  
+   Link: <a href="https://www.mdpi.com/2673-995X/5/3/98" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-995X/5/3/98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory-Based Interventions to Promote...by D Barbosa Cano · 2025 · Cited by 20 — In this line, Self-Determination The...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: peercommunityjournal.org  
-   Link: [https://peercommunityjournal.org/articles/10.24072/pcjournal.680/](https://peercommunityjournal.org/articles/10.24072/pcjournal.680/)  
+   Link: <a href="https://peercommunityjournal.org/articles/10.24072/pcjournal.680/" target="_blank" rel="noopener noreferrer nofollow">https://peercommunityjournal.org/articles/10.24072/pcjournal.680/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory in physiotherapy practice: A rapid...by J O&#x27;Neil · 2026 · Cited by 2 — Background: The self-determination theo...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/11392867/](https://pubmed.ncbi.nlm.nih.gov/11392867/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soc...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Experiences-of-habit-formation%3A-A-qualitative-study-Lally-Wardle/23700b22ab3a709a95ecbeed357e5b8de6824bcc](https://www.semanticscholar.org/paper/Experiences-of-habit-formation%3A-A-qualitative-study-Lally-Wardle/23700b22ab3a709a95ecbeed357e5b8de6824bcc)  
+   Link: <a href="https://www.semanticscholar.org/paper/Experiences-of-habit-formation%3A-A-qualitative-study-Lally-Wardle/23700b22ab3a709a95ecbeed357e5b8de6824bcc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Experiences-of-habit-formation%3A-A-qualitative-study-Lally-Wardle/23700b22ab3a709a95ecbeed357e5b8de6824bcc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences of habit formation: A qualitative studyPleasure and intrinsic motivation can aid habit formation through promoting greater in...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf](https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsic Motivation Strengthen Physical Activity Habit...forming a habit should shield PA from possible losses in motivation (Lally &amp; G...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: crd.york.ac.uk  
-   Link: [https://www.crd.york.ac.uk/PROSPEROFILES/169235_PROTOCOL_20200226.pdf](https://www.crd.york.ac.uk/PROSPEROFILES/169235_PROTOCOL_20200226.pdf)  
+   Link: <a href="https://www.crd.york.ac.uk/PROSPEROFILES/169235_PROTOCOL_20200226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.crd.york.ac.uk/PROSPEROFILES/169235_PROTOCOL_20200226.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>york.ac.ukTitle: Systematic review of self-determination theory based...by S Simão — Evidence suggests that a poor diet, reduced physica...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
    Title: Lally Gardner 2013 promoting habit formation pdf  
-   Link: [https://www.scribd.com/document/321587645/Lally-Gardner-2013-promoting-habit-formation-pdf](https://www.scribd.com/document/321587645/Lally-Gardner-2013-promoting-habit-formation-pdf)  
+   Link: <a href="https://www.scribd.com/document/321587645/Lally-Gardner-2013-promoting-habit-formation-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/321587645/Lally-Gardner-2013-promoting-habit-formation-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Promoting Habit Formation Strategies | PDF11 Oct 2011 — This document summarizes a research article about promoting habit formation. The...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22726453/](https://pubmed.ncbi.nlm.nih.gov/22726453/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22726453/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22726453/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4451 — This article examines the empiri...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: [https://www.verywellmind.com/what-is-self-determination-theory-2795387](https://www.verywellmind.com/what-is-self-determination-theory-2795387)  
+   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Professor Katherine Milkman on Temptation Bundling  
-   Link: [https://www.youtube.com/watch?v=snHnUc9Yudk](https://www.youtube.com/watch?v=snHnUc9Yudk)  
+   Link: <a href="https://www.youtube.com/watch?v=snHnUc9Yudk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=snHnUc9Yudk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsic motivation health habits enjoyment james clear Advantages of creating systems and not just setting goals | Peter Attia, M.D. wi...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: refubium.fu-berlin.de  
    Title: Dissertation Sally Di Maio  
-   Link: [https://refubium.fu-berlin.de/bitstream/handle/fub188/46784/Dissertation_SallyDiMaio.pdf?isAllowed=y&sequence=3](https://refubium.fu-berlin.de/bitstream/handle/fub188/46784/Dissertation_SallyDiMaio.pdf?isAllowed=y&sequence=3)  
+   Link: <a href="https://refubium.fu-berlin.de/bitstream/handle/fub188/46784/Dissertation_SallyDiMaio.pdf?isAllowed=y&amp;sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://refubium.fu-berlin.de/bitstream/handle/fub188/46784/Dissertation_SallyDiMaio.pdf?isAllowed=y&amp;sequence=3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Habit Strength in Complex Health Behaviors and...by S Di Maio · 2025 — Habits are assumed to form more quickly if the behavior i...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: centaur.reading.ac.uk  
-   Link: [https://centaur.reading.ac.uk/95510/](https://centaur.reading.ac.uk/95510/)  
+   Link: <a href="https://centaur.reading.ac.uk/95510/" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/95510/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>classification of motivation and behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;)...by PJ Texieira · 2020 · Cited by 478 — The aim of the present study was to...</p></details>

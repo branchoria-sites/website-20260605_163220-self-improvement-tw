@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-ego/
 description: Focused pages that expand on Ego Depletion.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_ego_depletion_debate_45c31f
 parent_title: Ego Depletion | Self Improvement That Works

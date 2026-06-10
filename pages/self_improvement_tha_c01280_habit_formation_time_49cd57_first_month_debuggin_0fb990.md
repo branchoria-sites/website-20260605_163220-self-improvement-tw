@@ -299,7 +299,7 @@ Many apparent motivation problems are actually design problems:
 
 </div>
 
-These failures do not necessarily indicate a lack of commitment. They often identify specific points where the system needs adjustment. Behavioural scientists Wendy Wood, Benjamin Gardner and others have emphasised the importance of repeated actions occurring in consistent contexts. Without that consistency, automaticity develops slowly or not at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compass.onlinelibrary.wiley.com">[Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compass.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">CompassWhat is habit and how can it be used to change real‐world...by B Gardner · 2024 · Cited by 85 — Habit formation approaches need n...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cykelvaeksthuset.dk">[2Cykelvæksthuset]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cykelvaeksthuset.dk</span><span class="citation-popover-title">Cykelvæksthuset Promoting habit formation</span><span class="citation-popover-snippet">CykelvæksthusetPromoting habit formationMay 5, 2017 — by P Lally · 2013 · Cited by 1265 — Habits are automatic behavioural responses to e...</span><span class="citation-popover-meta">Published: May 5, 2017</span></span></span>
+These failures do not necessarily indicate a lack of commitment. They often identify specific points where the system needs adjustment. Behavioural scientists Wendy Wood, Benjamin Gardner and others have emphasised the importance of repeated actions occurring in consistent contexts. Without that consistency, automaticity develops slowly or not at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compass.onlinelibrary.wiley.com">[Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compass.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">What is habit and how can it be used to change real‐world...by B Gardner · 2024 · Cited by 85 — Habit formation approaches need n...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cykelvaeksthuset.dk">[2Cykelvæksthuset]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cykelvaeksthuset.dk</span><span class="citation-popover-title">Cykelvæksthuset Promoting habit formation</span><span class="citation-popover-snippet">CykelvæksthusetPromoting habit formationMay 5, 2017 — by P Lally · 2013 · Cited by 1265 — Habits are automatic behavioural responses to e...</span><span class="citation-popover-meta">Published: May 5, 2017</span></span></span>
 
 ## How to Spot Friction in Timing, Tools and Cues
 
@@ -348,7 +348,7 @@ Small environmental changes can dramatically reduce friction:
 
 </div>
 
-Habit researchers describe [environmental cues]({{ 'cues-195d40/' | relative_url }}) as central to habit development because repeated exposure strengthens cue-behaviour associations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cykelvaeksthuset.dk">[Cykelvæksthuset]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cykelvaeksthuset.dk</span><span class="citation-popover-title">Cykelvæksthuset Promoting habit formation</span><span class="citation-popover-snippet">CykelvæksthusetPromoting habit formationMay 5, 2017 — by P Lally · 2013 · Cited by 1265 — Habits are automatic behavioural responses to e...</span><span class="citation-popover-meta">Published: May 5, 2017</span></span></span>
+Habit researchers describe environmental cues as central to habit development because repeated exposure strengthens cue-behaviour associations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cykelvaeksthuset.dk">[Cykelvæksthuset]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cykelvaeksthuset.dk</span><span class="citation-popover-title">Cykelvæksthuset Promoting habit formation</span><span class="citation-popover-snippet">CykelvæksthusetPromoting habit formationMay 5, 2017 — by P Lally · 2013 · Cited by 1265 — Habits are automatic behavioural responses to e...</span><span class="citation-popover-meta">Published: May 5, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_first_month_debuggin_0fb990-Illustration-2-dark.svg" | relative_url }}" alt="Debug Month illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_first_month_debuggin_0fb990-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_first_month_debuggin_0fb990-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -446,7 +446,7 @@ More realistic signs of progress include:
 
 These changes indicate that the habit is becoming easier to perform, even if it still requires conscious effort.
 
-The key insight is that the first month should not answer the question, “Am I capable of this?” It should answer the question, “What makes this behaviour harder than it needs to be?” Once that friction is identified and reduced, the months that follow are far more likely to produce the automaticity that habit formation research describes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cykelvaeksthuset.dk">[Cykelvæksthuset]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cykelvaeksthuset.dk</span><span class="citation-popover-title">Cykelvæksthuset Promoting habit formation</span><span class="citation-popover-snippet">CykelvæksthusetPromoting habit formationMay 5, 2017 — by P Lally · 2013 · Cited by 1265 — Habits are automatic behavioural responses to e...</span><span class="citation-popover-meta">Published: May 5, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 53 — We propose that there is an urgent ne...</span></span></span>
+The key insight is that the first month should not answer the question, “Am I capable of this?” It should answer the question, “What makes this behaviour harder than it needs to be?” Once that friction is identified and reduced, the months that follow are far more likely to produce the automaticity that habit formation research describes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cykelvaeksthuset.dk">[Cykelvæksthuset]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cykelvaeksthuset.dk</span><span class="citation-popover-title">Cykelvæksthuset Promoting habit formation</span><span class="citation-popover-snippet">CykelvæksthusetPromoting habit formationMay 5, 2017 — by P Lally · 2013 · Cited by 1265 — Habits are automatic behavioural responses to e...</span><span class="citation-popover-meta">Published: May 5, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 53 — We propose that there is an urgent ne...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -869,140 +869,140 @@ The key insight is that the first month should not answer the question, “Am I 
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evidence around...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When encountered, cues activate a single, specific well-learned behavioral response.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 53 — We propose that there is an urgent ne...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 53 — We propose that there is an urgent ne...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/habit](https://dictionary.cambridge.org/dictionary/english/habit)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionarysomething that you do often and regularly, sometimes without knowing that you are doing it...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/habit" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/habit</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionarysomething that you do often and regularly, sometimes without knowing that you are doing it...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ucl.ac.uk  
    Title: University College London How long does it take to form a habit?  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonHow long does it take to form a habit?August 4, 2009 — 4 Aug 2009 — It takes an average [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;) to form a new ha...</p></details>
    Published: August 4, 2009  
 
 7. <a id="endnote-7"></a>
    Source: cykelvaeksthuset.dk  
    Title: Cykelvæksthuset Promoting habit formation  
-   Link: [https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf](https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf)  
+   Link: <a href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CykelvæksthusetPromoting habit formationMay 5, 2017 — by P Lally · 2013 · Cited by 1265 — Habits are automatic behavioural responses to e...</p></details>
    Published: May 5, 2017  
 
 8. <a id="endnote-8"></a>
    Source: compass.onlinelibrary.wiley.com  
-   Link: [https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975](https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CompassWhat is habit and how can it be used to change real‐world...by B Gardner · 2024 · Cited by 85 — Habit formation approaches need n...</p></details>
+   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is habit and how can it be used to change real‐world...by B Gardner · 2024 · Cited by 85 — Habit formation approaches need n...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/prompts](https://www.behaviormodel.org/prompts)  
+   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelPrompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design eff...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Habit](https://en.wikipedia.org/wiki/Habit)  
+   Link: <a href="https://en.wikipedia.org/wiki/Habit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HabitA habit is a routine of behavior that is repeated regularly and tends to occur subconsciously. Good Habits Poster. The concept of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: readingraphics.com  
-   Link: [https://readingraphics.com/book-summary-tiny-habits/](https://readingraphics.com/book-summary-tiny-habits/)  
+   Link: <a href="https://readingraphics.com/book-summary-tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://readingraphics.com/book-summary-tiny-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary - Tiny Habits (B.J. Fogg)In this Tiny Habits summary, you&#x27;ll learn Dr. Fogg&#x27;s proven framework to understand human behavior and d...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: productmindset.substack.com  
    Title: fogg behavior model  
-   Link: [https://productmindset.substack.com/p/fogg-behavior-model](https://productmindset.substack.com/p/fogg-behavior-model)  
+   Link: <a href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://productmindset.substack.com/p/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069](https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069)  
+   Link: <a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesHow Understanding Motivation, Ability, and Prompts Can Enhance User Engagement and D...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/habit-psychology](https://www.ebsco.com/research-starters/psychology/habit-psychology)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/habit-psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/habit-psychology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit (psychology) | Psychology | Research StartersA habit is defined as an automatic behavior acquired through repetition, often occurri...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thrivestreetadvisors.com  
-   Link: [https://www.thrivestreetadvisors.com/leadership-library/tiny-habits](https://www.thrivestreetadvisors.com/leadership-library/tiny-habits)  
+   Link: <a href="https://www.thrivestreetadvisors.com/leadership-library/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.thrivestreetadvisors.com/leadership-library/tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsFogg gives a model for how to develop sustainable habits via tiny steps.... The Action Prompt is one way you hack your behavi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavior scientis...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: oneyoufeed.net  
-   Link: [https://www.oneyoufeed.net/why-[willpower](https://www.oneyoufeed.net/why-[willpower)  
+   Link: <a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg shares practical strategies for designing habits that fit individual contexts, explains his behavior model, and discusses how positi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: drpaulmccarthy.com  
    Title: tiny habits the breakthrough method for building life changing behaviors  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...10 Feb 2026 — Use the B=MAP formula: Every behavior needs Motivation, Ability...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: jamesclear.com  
    Title: Habits Guide: How to Build Good Habits and Break Bad Ones How do habits work?  
-   Link: [https://jamesclear.com/habits](https://jamesclear.com/habits)  
+   Link: <a href="https://jamesclear.com/habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you change your habits? How do you hold yourself accountable? This complete habits guide contains everything you need to know...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/home-environment-design-for-better-habits/](https://goalsandprogress.com/home-environment-design-for-better-habits/)  
+   Link: <a href="https://goalsandprogress.com/home-environment-design-for-better-habits/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/home-environment-design-for-better-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Environment Design for Habits: Set Up Your Home for ChangeEnvironment design for habits uses choice architecture, friction, and cue place...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...There&#x27;s Motivation to do the behavior, Ability to do the behavior, and a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scienceofselfhelp.org  
-   Link: [https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a](https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a)  
+   Link: <a href="https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a" target="_blank" rel="noopener noreferrer nofollow">https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit26 Jul 2013 — The study suggests that some tasks take less time and some tasks more time before they are considered a habit, but the...</p></details>

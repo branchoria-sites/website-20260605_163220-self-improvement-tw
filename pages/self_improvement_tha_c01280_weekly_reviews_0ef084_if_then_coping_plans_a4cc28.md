@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:19:11'
 parent_title: The Weekly Review That Fixes the Plan | Better Change
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
@@ -265,7 +266,6 @@ next_link:
   permalink: /miss-reasons/
   short_title: Miss Reasons
   heading_title: What Your Missed Days Are Really Saying
-date: '2026-06-05 15:19:11 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_
 
 ## Introduction
 
-When the same habit fails for the same reason week after week, the problem is often not commitment but a missing response plan. A [weekly review]({{ 'weekly-review/' | relative_url }}) may reveal a predictable pattern: travel disrupts exercise, late meetings disrupt reading, tired evenings disrupt healthy eating. If-then coping plans address this problem by linking a known obstacle to a pre-decided response. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) in the moment, the person decides in advance: “If situation X happens, then I will do Y.” Research on implementation intentions and coping planning suggests that these plans help close the gap between intention and action by creating strong links between specific cues and specific responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+When the same habit fails for the same reason week after week, the problem is often not commitment but a missing response plan. A [weekly review]({{ 'weekly-review/' | relative_url }}) may reveal a predictable pattern: travel disrupts exercise, late meetings disrupt reading, tired evenings disrupt healthy eating. If-then coping plans address this problem by linking a known obstacle to a pre-decided response. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) in the moment, the person decides in advance: “If situation X happens, then I will do Y.” Research on implementation intentions and coping planning suggests that these plans help close the gap between intention and action by creating strong links between specific cues and specific responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-1-dark.svg" | relative_url }}" alt="If Then Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,7 +296,7 @@ Repeated barriers usually appear in one of four forms:
 
 </div>
 
-The key insight is that recurring obstacles are often highly predictable. Coping planning specifically focuses on identifying these risk situations in advance and planning detailed responses before they occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">Action planning and coping planning for long-term lifestyle</span><span class="citation-popover-snippet">D-NBAction planning and coping planning for long-term lifestyle...January 4, 2013 — by FF Sniehotta · Cited by 1291 — Coping planning (S...</span><span class="citation-popover-meta">Published: January 4, 2013</span></span></span>
+The key insight is that recurring obstacles are often highly predictable. Coping planning specifically focuses on identifying these risk situations in advance and planning detailed responses before they occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">Action planning and coping planning for long-term lifestyle</span><span class="citation-popover-snippet">Action planning and coping planning for long-term lifestyle...January 4, 2013 — by FF Sniehotta · Cited by 1291 — Coping planning (S...</span><span class="citation-popover-meta">Published: January 4, 2013</span></span></span>
 
 For example, a review might reveal:
 
@@ -326,7 +326,7 @@ A stronger plan:
 
 > If work runs past 6 p.m., then I will do a 15-minute home workout before dinner.
 
-The effectiveness of implementation intentions appears to depend partly on specifying the situation clearly enough that it becomes easy to recognise when it occurs. Research suggests that if-then planning works by increasing the accessibility of the chosen cue and strengthening the association between that cue and the planned response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</span></span></span>
+The effectiveness of implementation intentions appears to depend partly on specifying the situation clearly enough that it becomes easy to recognise when it occurs. Research suggests that if-then planning works by increasing the accessibility of the chosen cue and strengthening the association between that cue and the planned response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</span></span></span>
 
 Good coping plans generally contain three elements:
 
@@ -351,7 +351,7 @@ The goal is not perfection. The goal is preventing a predictable obstacle from a
 
 People often respond to recurring failures by trying to become more motivated. Weekly reviews usually reveal that [motivation]({{ 'motivation/' | relative_url }}) was rarely the true bottleneck.
 
-Implementation-intention research suggests that pre-deciding a response reduces the need for deliberation at the critical moment. Rather than asking, “Should I still do the habit?” the person simply executes the response linked to the situation. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</span></span></span>
+Implementation-intention research suggests that pre-deciding a response reduces the need for deliberation at the critical moment. Rather than asking, “Should I still do the habit?” the person simply executes the response linked to the situation. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</span></span></span>
 
 This matters because habit barriers often appear when decision quality is lowest:
 
@@ -437,7 +437,7 @@ At the following review, ask:
 
 A failed coping plan is still useful information. Perhaps the cue was unclear. Perhaps the alternative was too demanding. Perhaps a different obstacle was the real problem. Weekly reviews allow these plans to be adjusted repeatedly until the barrier becomes manageable.
 
-The most effective outcome is not that obstacles disappear. It is that familiar obstacles stop causing familiar failures. When the same barrier appears and the same productive response follows automatically, the habit becomes more resilient and less dependent on motivation, making long-term behaviour change far more likely. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[3D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">Action planning and coping planning for long-term lifestyle</span><span class="citation-popover-snippet">D-NBAction planning and coping planning for long-term lifestyle...January 4, 2013 — by FF Sniehotta · Cited by 1291 — Coping planning (S...</span><span class="citation-popover-meta">Published: January 4, 2013</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+The most effective outcome is not that obstacles disappear. It is that familiar obstacles stop causing familiar failures. When the same barrier appears and the same productive response follows automatically, the habit becomes more resilient and less dependent on motivation, making long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}) far more likely. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[3D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">Action planning and coping planning for long-term lifestyle</span><span class="citation-popover-snippet">Action planning and coping planning for long-term lifestyle...January 4, 2013 — by FF Sniehotta · Cited by 1291 — Coping planning (S...</span><span class="citation-popover-meta">Published: January 4, 2013</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -860,134 +860,134 @@ The most effective outcome is not that obstacles disappear. It is that familiar 
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X](https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 564 — Implementation intentions are plans that s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: d-nb.info  
    Title: Action planning and coping planning for long-term lifestyle  
-   Link: [https://d-nb.info/1103027735/34](https://d-nb.info/1103027735/34)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>D-NBAction planning and coping planning for long-term lifestyle...January 4, 2013 — by FF Sniehotta · Cited by 1291 — Coping planning (S...</p></details>
+   Link: <a href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1103027735/34</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Action planning and coping planning for long-term lifestyle...January 4, 2013 — by FF Sniehotta · Cited by 1291 — Coping planning (S...</p></details>
    Published: January 4, 2013  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Coping Planning  
-   Link: [https://www.sciencedirect.com/topics/psychology/coping-planning](https://www.sciencedirect.com/topics/psychology/coping-planning)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/coping-planning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacles that could...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementImplementation intentions were effective in promoting the initiation of g...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 131 — Gollwitzer and Sheeran (2006) found that implementation intention formation had...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 232586066 Implementation Intentions  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation IntentionsImplementation intention theory (Gollwitzer, 1999) provides the most direct mechanism: goal in...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260](https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the effectiveness of implementation...by I Carrero · 2025 · Cited by 7 — Implementation intentions are more effective...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review](https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pting individuals to form coping plans as a technique for promoting health-related...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: What is Implementation Intention | Explained in 2 min  
-   Link: [https://www.youtube.com/watch?v=6JqPF_8BWjw](https://www.youtube.com/watch?v=6JqPF_8BWjw)  
+   Link: <a href="https://www.youtube.com/watch?v=6JqPF_8BWjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6JqPF_8BWjw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions - Increase Goal Completion by 40%...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Implementation Intentions  
-   Link: [https://www.youtube.com/watch?v=S0MEmLGYQS0](https://www.youtube.com/watch?v=S0MEmLGYQS0)  
+   Link: <a href="https://www.youtube.com/watch?v=S0MEmLGYQS0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0MEmLGYQS0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Behaviour Change | Dr. Dom Kwasnicka | 61...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Promoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by psychologist Peter Gollwitzer, transforms vague intentions into spe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation intentions are self-regulating strategies – creat...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: prospectivepsych.org  
-   Link: [https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf)  
+   Link: <a href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (strategic “if-t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: osf.io  
-   Link: [https://osf.io/download/dc39t/](https://osf.io/download/dc39t/)  
+   Link: <a href="https://osf.io/download/dc39t/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/dc39t/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gave a modest but significant boost to performance compared to goal intentions during instrumental learning.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45](https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...This chapter outlines how developing new cue...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>king to our goals, whether it&#x27;s writing down the exact time and date of when...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eprints.gla.ac.uk  
    Title: gla.ac.uk Can a simple plan change a complex behavior?  
-   Link: [https://eprints.gla.ac.uk/289340/1/289340.pdf](https://eprints.gla.ac.uk/289340/1/289340.pdf)  
+   Link: <a href="https://eprints.gla.ac.uk/289340/1/289340.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/289340/1/289340.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Rodger · 2023 · Cited by 24 — Implementation intentions provide a potential, pragmatic solution to reduce the intention-behavior gap...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nationalelfservice.net  
-   Link: [https://www.nationalelfservice.net/social-care/[support](https://www.nationalelfservice.net/social-care/[support)  
+   Link: <a href="https://www.nationalelfservice.net/social-care/[support" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/social-care/[support</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oblems can benefit if they are prompted to form if-then plans, which specify when...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/implementation-intentions-gollwitzer-how-to/](https://goalsandprogress.com/implementation-intentions-gollwitzer-how-to/)  
+   Link: <a href="https://goalsandprogress.com/implementation-intentions-gollwitzer-how-to/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/implementation-intentions-gollwitzer-how-to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Gollwitzer&#x27;s d=0.65 (2026)4 days ago — Implementation intentions are if-then plans. Gollwitzer and Sheeran (20...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: goodmedicine.org.uk  
-   Link: [https://goodmedicine.org.uk/media/files/implementation%20intentions%2C%20background.pdf](https://goodmedicine.org.uk/media/files/implementation%20intentions%2C%20background.pdf)  
+   Link: <a href="https://goodmedicine.org.uk/media/files/implementation%20intentions%2C%20background.pdf" target="_blank" rel="noopener noreferrer nofollow">https://goodmedicine.org.uk/media/files/implementation%20intentions%2C%20background.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n goal striving and increases rates of goal...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: suebehaviouraldesign.com  
    Title: implementation intentions explained  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/implementation-intentions-explained/](https://www.suebehaviouraldesign.com/en/blog/implementation-intentions-explained/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/implementation-intentions-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/implementation-intentions-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are implementation intentions? If-then plans explained20 Feb 2026 — Implementation intentions are specific if-then plans that bridge...</p></details>

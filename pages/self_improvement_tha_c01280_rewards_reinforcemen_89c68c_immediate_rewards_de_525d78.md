@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:20:28'
 parent_title: How to Reward Habits Without Ruining Them | Better Change
 parent_permalink: /rewards/
 parent_nav_short_title: Rewards
@@ -265,7 +266,6 @@ next_link:
   permalink: /intrinsic-risk/
   short_title: Intrinsic Risk
   heading_title: When Rewards Start to Spoil Motivation
-date: '2026-06-05 16:20:28 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-1.webp
@@ -371,7 +371,7 @@ For example:
 
 </div>
 
-Long-term behaviour change is more stable when people gradually internalise the value of the behaviour rather than continuing solely for an external reward. Immediate rewards are most effective when they act as temporary bridges between effort and future benefit, not permanent substitutes for motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psych.wisc.edu/news/rethinking-rewards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psych.wisc.edu">[UW-Madison Psych Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psych.wisc.edu</span><span class="citation-popover-snippet">UW-Madison Psych DepartmentRethinking rewards: Motivating long-term behavior change...Financial incentives are a form of extrinsic motiv...</span></span></span>
+Long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}) is more stable when people gradually internalise the value of the behaviour rather than continuing solely for an external reward. Immediate rewards are most effective when they act as temporary bridges between effort and future benefit, not permanent substitutes for motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psych.wisc.edu/news/rethinking-rewards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psych.wisc.edu">[UW-Madison Psych Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psych.wisc.edu</span><span class="citation-popover-snippet">UW-Madison Psych DepartmentRethinking rewards: Motivating long-term behavior change...Financial incentives are a form of extrinsic motiv...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-3-dark.svg" | relative_url }}" alt="Immediate Rewards illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -818,141 +818,141 @@ The goal is not to trick yourself. It is to solve a real psychological problem: 
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Temporal discounting when outcomes are experienced  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8121536/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8121536/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby VM Patt · 2021 · Cited by 17 — Temporal discounting, or delay discounting, refers to the natural tendency to de-value rewards avail...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8121536/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8121536/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by VM Patt · 2021 · Cited by 17 — Temporal discounting, or delay discounting, refers to the natural tendency to de-value rewards avail...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralDelay discounting of different outcomes: Review and theoryby AL Odum · 2020 · Cited by 254 — Steep delay discounting is cha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11199680/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11199680/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11199680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11199680/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTemporal discounting predicts procrastination in the real worldby PY Zhang · 2024 · Cited by 21 — We found a positive corre...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Does temporal discounting explain unhealthy behavior  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby GW Story · 2014 · Cited by 401 — These studies reveal that high discount rates for money (and in some instances food or drug reward...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by GW Story · 2014 · Cited by 401 — These studies reveal that high discount rates for money (and in some instances food or drug reward...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/rewire/](https://tinyhabits.com/rewire/)  
+   Link: <a href="https://tinyhabits.com/rewire/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/rewire/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsRewire Your BrainIn the Tiny Habits method, you do your celebration right after your new tiny behavior. For example, if you wa...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/purpose/](https://tinyhabits.com/purpose/)  
+   Link: <a href="https://tinyhabits.com/purpose/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/purpose/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsPurpose-Focused Celebrations with BJ Fogg, PhDA celebration is something you think, say, and/or do to make yourself feel a pos...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: psych.wisc.edu  
-   Link: [https://psych.wisc.edu/news/rethinking-rewards/](https://psych.wisc.edu/news/rethinking-rewards/)  
+   Link: <a href="https://psych.wisc.edu/news/rethinking-rewards/" target="_blank" rel="noopener noreferrer nofollow">https://psych.wisc.edu/news/rethinking-rewards/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UW-Madison Psych DepartmentRethinking rewards: Motivating long-term behavior change...Financial incentives are a form of extrinsic motiv...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tinyhabits.com  
    Title: Tell Me More2  
-   Link: [https://tinyhabits.com/tell-me-more2/](https://tinyhabits.com/tell-me-more2/)  
+   Link: <a href="https://tinyhabits.com/tell-me-more2/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/tell-me-more2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsHere&#x27;s one way: Explore different celebrations in your head or aloud. After each option, pause to feel what happens inside. Ce...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Behavior](https://en.wikipedia.org/wiki/Behavior)  
+   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Temporal Discounting  
-   Link: [https://www.sciencedirect.com/topics/psychology/temporal-discounting](https://www.sciencedirect.com/topics/psychology/temporal-discounting)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/temporal-discounting" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/temporal-discounting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewTemporal discounting is defined as the process by which a reward loses value as the delay to its receipt increases, typically...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: learnerd.org  
-   Link: [https://www.learnerd.org/book_summary/psychology/tinyhabits.html](https://www.learnerd.org/book_summary/psychology/tinyhabits.html)  
+   Link: <a href="https://www.learnerd.org/book_summary/psychology/tinyhabits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.learnerd.org/book_summary/psychology/tinyhabits.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsInstant Celebration (Shine): Immediately after doing the tiny behavior, celebrate your success in a way that makes you feel go...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: quizlet.com  
    Title: Tiny Habits  
-   Link: [https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/](https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/)  
+   Link: <a href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theartofcharm.com  
-   Link: [https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/](https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/)  
+   Link: <a href="https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg | The Biggest Myth About Habit Formation and 2...In today&#x27;s episode, we cover the breaking and creation of habits with BJ Fogg...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Cardinal Rule of Behavior Change | Chapter 15 – Atomic Habits by James Clear  
-   Link: [https://www.youtube.com/watch?v=56Yvq4YZXH0](https://www.youtube.com/watch?v=56Yvq4YZXH0)  
+   Link: <a href="https://www.youtube.com/watch?v=56Yvq4YZXH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56Yvq4YZXH0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal Discounting...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Temporal Discounting  
-   Link: [https://www.youtube.com/watch?v=kW6k5avsEqA](https://www.youtube.com/watch?v=kW6k5avsEqA)  
+   Link: <a href="https://www.youtube.com/watch?v=kW6k5avsEqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kW6k5avsEqA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This breakdown of Chapter 15 from James Clear&#x27;s Atomic Habits explains how adding an immediate sense of satisfaction can overcome the hum...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: bjsrestaurants.com  
-   Link: [https://www.bjsrestaurants.com/](https://www.bjsrestaurants.com/)  
+   Link: <a href="https://www.bjsrestaurants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bjsrestaurants.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ&#x27;s Restaurants and BrewhouseDiscover our brewhouse menu featuring deep dish pizza, handcrafted burgers, seasonal specials, popular favo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/behavioral](https://www.merriam-webster.com/dictionary/behavioral)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/behavioral" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavioral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BEHAVIORAL Definition &amp; MeaningThe [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of BEHAVIORAL is of or relating to behavior: pertaining to reactions made in response to soci...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/behavioral](https://www.dictionary.com/browse/behavioral)  
+   Link: <a href="https://www.dictionary.com/browse/behavioral" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/behavioral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BEHAVIORAL Definition &amp; Meaningrelating to a person&#x27;s manner of behaving or acting: The program provides academic and behavioral supports...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: weber.edu  
-   Link: [https://www.weber.edu/academicpeercoaching/blog/forming-habits.html](https://www.weber.edu/academicpeercoaching/blog/forming-habits.html)  
+   Link: <a href="https://www.weber.edu/academicpeercoaching/blog/forming-habits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weber.edu/academicpeercoaching/blog/forming-habits.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming Habits Without Much AdoHabits are created by putting together a cue, a routine, and a reward, and then cultivating a craving that...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/illumination/how-tiny-habits-delivered-surprisingly-big-results-1c351f5f5a55](https://medium.com/illumination/how-tiny-habits-delivered-surprisingly-big-results-1c351f5f5a55)  
+   Link: <a href="https://medium.com/illumination/how-tiny-habits-delivered-surprisingly-big-results-1c351f5f5a55" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/how-tiny-habits-delivered-surprisingly-big-results-1c351f5f5a55</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How BJ Fogg&#x27;s Tiny Habits Deliver Surprisingly Big ResultsBehaviours that naturally caused positive feelings became automatic almost imme...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GneKvncCoDU](https://www.youtube.com/watch?v=GneKvncCoDU)  
+   Link: <a href="https://www.youtube.com/watch?v=GneKvncCoDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GneKvncCoDU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Celebrating [Small Wins](&amp;#123;&amp;#123; &#x27;small-wins/&#x27; | relative_url &amp;#125;&amp;#125;) Can Help Form a Lasting HabitBehavior Scientist BJ Fogg shares proven ways to achieve any goal — and how to un...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 322246786 Temporal Discounting and Health Behavior A Review  
-   Link: [https://www.researchgate.net/publication/322246786_Temporal_Discounting_and_Health_Behavior_A_Review](https://www.researchgate.net/publication/322246786_Temporal_Discounting_and_Health_Behavior_A_Review)  
+   Link: <a href="https://www.researchgate.net/publication/322246786_Temporal_Discounting_and_Health_Behavior_A_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322246786_Temporal_Discounting_and_Health_Behavior_A_Review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal Discounting and Health Behavior: A ReviewJan 16, 2018 — Such temporal discounting may have consequences for health behavior, lea...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/7517399_Temporal_Discounting_When_the_Choice_Is_Between_Two_Delayed_Rewards](https://www.researchgate.net/publication/7517399_Temporal_Discounting_When_the_Choice_Is_Between_Two_Delayed_Rewards)  
+   Link: <a href="https://www.researchgate.net/publication/7517399_Temporal_Discounting_When_the_Choice_Is_Between_Two_Delayed_Rewards" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7517399_Temporal_Discounting_When_the_Choice_Is_Between_Two_Delayed_Rewards</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>en an immediate and a delayed reward to choice between 2 delayed rewards:...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: superbly.education  
-   Link: [https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/](https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/)  
+   Link: <a href="https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>accelerate the formation of habits through repeated behavioural performance.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: academia.edu  
    Title: Does temporal discounting explain unhealthy behavior?  
-   Link: [https://www.academia.edu/34664036/Does_temporal_discounting_explain_unhealthy_behavior_A_systematic_review_and_reinforcement_learning_perspective](https://www.academia.edu/34664036/Does_temporal_discounting_explain_unhealthy_behavior_A_systematic_review_and_reinforcement_learning_perspective)  
+   Link: <a href="https://www.academia.edu/34664036/Does_temporal_discounting_explain_unhealthy_behavior_A_systematic_review_and_reinforcement_learning_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34664036/Does_temporal_discounting_explain_unhealthy_behavior_A_systematic_review_and_reinforcement_learning_perspective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11, 2025 — Under this framework, while discounting of delayed health may contribute to the initiation of unhealthy behavior, wit...</p></details>

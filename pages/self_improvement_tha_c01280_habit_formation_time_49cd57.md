@@ -502,7 +502,7 @@ image: /assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57-ov
 
 ## Introduction
 
-The idea that a habit forms in 21 days is one of the most persistent claims in self-improvement. It is also one of the least supported by evidence. Research on real-world behaviour change suggests that habits often take much longer to become automatic, with timelines varying dramatically depending on the person, the behaviour and the [environment]({{ 'environment/' | relative_url }}). Rather than asking, “Have I succeeded after three weeks?”, a more useful question is, “Is this behaviour becoming easier and more automatic over time?”
+The idea that a habit forms in 21 days is one of the most persistent claims in self-improvement. It is also one of the least supported by evidence. Research on real-world [behaviour change]({{ 'behaviour-change/' | relative_url }}) suggests that habits often take much longer to become automatic, with timelines varying dramatically depending on the person, the behaviour and the [environment]({{ 'environment/' | relative_url }}). Rather than asking, “Have I succeeded after three weeks?”, a more useful question is, “Is this behaviour becoming easier and more automatic over time?”
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57-overview.webp" | relative_url }}" alt="Overview image for The Idea That A Habit Forms In 21 Days" loading="eager" decoding="sync" fetchpriority="high">
@@ -512,7 +512,7 @@ For people interested in [self improvement that works]({{ 'self-improvement-that
 
 The famous 21-day claim did not originate from habit research. It is generally traced to observations made by plastic surgeon Maxwell Maltz in the 1950s. Maltz noticed that patients often took around three weeks to adjust psychologically to changes such as surgery or amputation. Over time, this observation was transformed into a much stronger claim: that any habit can be formed in exactly 21 days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drsullivan.ca/does-it-really-take-just-21-days-to-create-a-new-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drsullivan.ca">[Sullivan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drsullivan.ca</span><span class="citation-popover-snippet">Maxwell Maltz in 1960, where he noticed a trend of people adapting to new...Read more...</span></span></span> Associates <span class="citation-chip-wrap"><a class="citation-chip" href="https://assistpt.com/21-days-to-break-a-habit-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assistpt.com">[Assist Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assistpt.com</span><span class="citation-popover-title">Assist Training21 Days to Break a Habit – Myth or Fact?</span><span class="citation-popover-snippet">The Truth Will...The origins of the &#x27;21 days&#x27; claim actually comes from Dr Maxwell Maltz, a plastic surgeon turned psychologist who in t...</span></span></span>
 
-Modern habit research does not [support]({{ 'support/' | relative_url }}) that conclusion. Researchers studying habit formation in everyday settings have repeatedly found that [automaticity]({{ 'automaticity/' | relative_url }}) develops gradually and that there is no universal deadline. The persistence of the myth may be explained by its simplicity. “Three weeks” is memorable, marketable and encouraging. The problem is that it sets expectations that reality often fails to meet. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.ucl.ac.uk/bsh/2012/06/29/busting-the-21-days-habit-formation-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.ucl.ac.uk">[UCL Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.ucl.ac.uk</span><span class="citation-popover-snippet">UCL BlogsBusting the 21 days habit formation myth | UCL &#x27;Health Chatter&#x27;29 Jun 2012 — 21 days is a myth; habit formation typically takes...</span></span></span>
+Modern habit research does not [support]({{ 'support/' | relative_url }}) that conclusion. Researchers studying habit formation in everyday settings have repeatedly found that [automaticity]({{ 'automaticity/' | relative_url }}) develops gradually and that there is no universal deadline. The persistence of the myth may be explained by its simplicity. “Three weeks” is memorable, marketable and encouraging. The problem is that it sets expectations that reality often fails to meet. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.ucl.ac.uk/bsh/2012/06/29/busting-the-21-days-habit-formation-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.ucl.ac.uk">[UCL Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.ucl.ac.uk</span><span class="citation-popover-snippet">UCL BlogsBusting the 21 days habit formation myth &#124; UCL &#x27;Health Chatter&#x27;29 Jun 2012 — 21 days is a myth; habit formation typically takes...</span></span></span>
 
 A person who has exercised consistently for 25 days but still finds it difficult may conclude that something is wrong. In many cases, nothing is wrong at all. They may simply be following the normal timeline of habit development.
 
@@ -534,7 +534,7 @@ Key findings included:
 
 The 66-day figure became famous because it was an average estimate, but the range is arguably more important. A simple habit such as drinking water at lunch may become automatic relatively quickly. A more demanding behaviour such as daily exercise may require months before it feels natural. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">how long does it really take to form a habit</span><span class="citation-popover-snippet">Scientific AmericanHow Long Does It Really Take to Form a Habit?24 Jan 2024 — A hallmark 2009 study on habit creation found that habits d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear How Long Does it Take to Form a Habit?</span><span class="citation-popover-snippet">Backed by Science.Maltz would perform an operation — like a nose job, for example — he found that it would take the patient about 21 days...</span></span></span>
 
-More recent evidence reinforces this picture. A 2024 systematic review and meta-analysis found that brief 21-day programmes are generally insufficient for establishing robust habits and that people should expect longer timelines for durable automatic behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 58 — Brief 21-day challenges or kickstarts...</span></span></span>
+More recent evidence reinforces this picture. A 2024 systematic review and meta-analysis found that brief 21-day programmes are generally insufficient for establishing robust habits and that people should expect longer timelines for durable automatic behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 58 — Brief 21-day challenges or kickstarts...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57-Illustration-1-dark.svg" | relative_url }}" alt="The Idea That A Habit Forms In 21 Days illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -557,13 +557,13 @@ Each behaviour demands different levels of effort, planning, energy and environm
 
 Research and theory point to several factors that influence habit timelines:
 
-**Behaviour complexity.** Simpler actions generally become automatic faster than complicated routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mindspacex.com/post/the-science-of-habit-formation-why-21-days-isn-t-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindspacex.com">[MindSpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindspacex.com</span><span class="citation-popover-snippet">MindSpaceXThe Science of Habit Formation: Why 21 Days Isn&#x27;t Enough3 Apr 2025 — &quot;The idea that habits take 21 days to form has no basis in...</span></span></span>
+**Behaviour complexity.** Simpler actions generally become automatic faster than complicated routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mindspacex.com/post/the-science-of-habit-formation-why-21-days-isn-t-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindspacex.com">[MindSpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindspacex.com</span><span class="citation-popover-snippet">The Science of Habit Formation: Why 21 Days Isn&#x27;t Enough3 Apr 2025 — &quot;The idea that habits take 21 days to form has no basis in...</span></span></span>
 
 **Consistency of cues.** Habits strengthen when they are repeatedly linked to the same context, such as “after breakfast” or “when I arrive home from work”. [Stable cues]({{ 'stable-cues/' | relative_url }}) provide repeated opportunities for the brain to associate context with action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This myth appears to have originated from anecdotal evidence of patients who had received plastic...Read more...</span></span></span>
 
-**Environmental design.** Behaviours that are easy to start, visible and convenient are repeated more often. Habits that depend on overcoming friction usually take longer to stabilise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 58 — Brief 21-day challenges or kickstarts...</span></span></span>
+**Environmental design.** Behaviours that are easy to start, visible and convenient are repeated more often. Habits that depend on overcoming friction usually take longer to stabilise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 58 — Brief 21-day challenges or kickstarts...</span></span></span>
 
-**Reward and satisfaction.** People are more likely to repeat actions that feel useful, enjoyable or meaningful. Recent reviews suggest [enjoyment]({{ 'enjoyment/' | relative_url }}) can influence the speed and persistence of habit development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Their study, published in the journal Healthcare, analyzed data from over 2,500 participants across 20 studies. While some individuals fo...</span></span></span>
+**Reward and satisfaction.** People are more likely to repeat actions that feel useful, enjoyable or meaningful. Recent reviews suggest enjoyment can influence the speed and persistence of habit development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Their study, published in the journal Healthcare, analyzed data from over 2,500 participants across 20 studies. While some individuals fo...</span></span></span>
 
 These factors help explain why there is no meaningful universal timetable.
 
@@ -1041,123 +1041,123 @@ The strongest evidence does not support a fixed habit timeline. Instead, it sugg
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Details are in the caption following the image.Read more  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real worldby P Lally · 2010 · Cited by 3469 — The median time to reach 95% of asympt...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 58 — Brief 21-day challenges or kickstarts...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 58 — Brief 21-day challenges or kickstarts...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This myth appears to have originated from anecdotal evidence of patients who had received plastic...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mindspacex.com  
-   Link: [https://www.mindspacex.com/post/the-science-of-habit-formation-why-21-days-isn-t-enough](https://www.mindspacex.com/post/the-science-of-habit-formation-why-21-days-isn-t-enough)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MindSpaceXThe Science of Habit Formation: Why 21 Days Isn&#x27;t Enough3 Apr 2025 — &quot;The idea that habits take 21 days to form has no basis in...</p></details>
+   Link: <a href="https://www.mindspacex.com/post/the-science-of-habit-formation-why-21-days-isn-t-enough" target="_blank" rel="noopener noreferrer nofollow">https://www.mindspacex.com/post/the-science-of-habit-formation-why-21-days-isn-t-enough</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Habit Formation: Why 21 Days Isn&#x27;t Enough3 Apr 2025 — &quot;The idea that habits take 21 days to form has no basis in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonHow long does it take to form a habit?4 Aug 2009 — 4 August 2009. It takes an average 66 days to form a new habi...</p></details>
    Published: August 2009  
 
 6. <a id="endnote-6"></a>
    Source: drsullivan.ca  
-   Link: [https://drsullivan.ca/does-it-really-take-just-21-days-to-create-a-new-habit/](https://drsullivan.ca/does-it-really-take-just-21-days-to-create-a-new-habit/)  
+   Link: <a href="https://drsullivan.ca/does-it-really-take-just-21-days-to-create-a-new-habit/" target="_blank" rel="noopener noreferrer nofollow">https://drsullivan.ca/does-it-really-take-just-21-days-to-create-a-new-habit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maxwell Maltz in 1960, where he noticed a trend of people adapting to new...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: assistpt.com  
    Title: Assist Training21 Days to Break a Habit – Myth or Fact?  
-   Link: [https://assistpt.com/21-days-to-break-a-habit-myth/](https://assistpt.com/21-days-to-break-a-habit-myth/)  
+   Link: <a href="https://assistpt.com/21-days-to-break-a-habit-myth/" target="_blank" rel="noopener noreferrer nofollow">https://assistpt.com/21-days-to-break-a-habit-myth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Will...The origins of the &#x27;21 days&#x27; claim actually comes from Dr Maxwell Maltz, a plastic surgeon turned psychologist who in t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: blogs.ucl.ac.uk  
-   Link: [https://blogs.ucl.ac.uk/bsh/2012/06/29/busting-the-21-days-habit-formation-myth/](https://blogs.ucl.ac.uk/bsh/2012/06/29/busting-the-21-days-habit-formation-myth/)  
+   Link: <a href="https://blogs.ucl.ac.uk/bsh/2012/06/29/busting-the-21-days-habit-formation-myth/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/bsh/2012/06/29/busting-the-21-days-habit-formation-myth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL BlogsBusting the 21 days habit formation myth | UCL &#x27;Health Chatter&#x27;29 Jun 2012 — 21 days is a myth; habit formation typically takes...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scientificamerican.com  
    Title: how long does it really take to form a habit  
-   Link: [https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/](https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/)  
+   Link: <a href="https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanHow Long Does It Really Take to Form a Habit?24 Jan 2024 — A hallmark 2009 study on habit creation found that habits d...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: jamesclear.com  
    Title: James Clear How Long Does it Take to Form a Habit?  
-   Link: [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit)  
+   Link: <a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Backed by Science.Maltz would perform an operation — like a nose job, for example — he found that it would take the patient about 21 days...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/13548506.2011.555774](https://www.tandfonline.com/doi/abs/10.1080/13548506.2011.555774)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/13548506.2011.555774" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/13548506.2011.555774</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation is an important goal for behaviour change interventions because habitual behaviours are elicited automatically and are th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/](https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/)  
+   Link: <a href="https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Their study, published in the journal Healthcare, analyzed data from over 2,500 participants across 20 studies. While some individuals fo...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: womenshealth.obgyn.msu.edu  
-   Link: [https://womenshealth.obgyn.msu.edu/blog/debunking-21-day-myth-about-bad-habits](https://womenshealth.obgyn.msu.edu/blog/debunking-21-day-myth-about-bad-habits)  
+   Link: <a href="https://womenshealth.obgyn.msu.edu/blog/debunking-21-day-myth-about-bad-habits" target="_blank" rel="noopener noreferrer nofollow">https://womenshealth.obgyn.msu.edu/blog/debunking-21-day-myth-about-bad-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Women&#x27;s Health Research InstituteDebunking the 21 Day Myth about bad habitsMost have heard that it takes 21 days to form a habit, but acc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 32898894 How are habits formed Modeling habit formation in the real world  
-   Link: [https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world](https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFAccording to the literature, it takes an average of 66 days, with a range of 18 t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: surrey.ac.uk  
    Title: does it really take 66 days form habit we asked expert dr pippa lally  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: opendeltas.com  
    Title: Find out how practicing mindfulness benefits in forming good habits  
-   Link: [https://www.opendeltas.com/post/21-days-habit-formation-myth](https://www.opendeltas.com/post/21-days-habit-formation-myth)  
+   Link: <a href="https://www.opendeltas.com/post/21-days-habit-formation-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.opendeltas.com/post/21-days-habit-formation-myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 21 Days Habit Formation Myth and Mindfulness Benefits19 Jun 2019 — How long does it take to create a habit, does it really take 21 days?...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
    Title: Your habit system gets stronger through repetition under the same cue  
-   Link: [https://www.instagram.com/reel/DQXQKehEihv/?hl=en](https://www.instagram.com/reel/DQXQKehEihv/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DQXQKehEihv/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQXQKehEihv/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You&#x27;ve heard it a thousand times, “it takes 21 days to build a...Research shows that it can take weeks, months, or sometimes even years...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: blog.rusirugunaratne.com  
    Title: the real timeline for habit formation af3f623894aa  
-   Link: [https://blog.rusirugunaratne.com/the-real-timeline-for-habit-formation-af3f623894aa](https://blog.rusirugunaratne.com/the-real-timeline-for-habit-formation-af3f623894aa)  
+   Link: <a href="https://blog.rusirugunaratne.com/the-real-timeline-for-habit-formation-af3f623894aa" target="_blank" rel="noopener noreferrer nofollow">https://blog.rusirugunaratne.com/the-real-timeline-for-habit-formation-af3f623894aa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real Timeline for Habit Formation3 Dec 2025 — Median: 66 days for most habits; Longest: 254 days for complex routines like daily exercise...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scienceofselfhelp.org  
-   Link: [https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a](https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a)  
+   Link: <a href="https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a" target="_blank" rel="noopener noreferrer nofollow">https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit26 Jul 2013 — The study suggests that some tasks take less time and some tasks more time before they are considered a habit, but the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d](https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d)  
+   Link: <a href="https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>her research team figured out how long it takes to form a habit.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
    Title: the myth 21 days to change habits 1983c419faf7  
-   Link: [https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7](https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7)  
+   Link: <a href="https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Myth 21 Days to Change Habits | by Mental GardenIn the 1950s, plastic surgeon Maxwell Maltz noticed a pattern in his patients. Maltz...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21749245/](https://pubmed.ncbi.nlm.nih.gov/21749245/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedExperiences of habit formation: a qualitative studyby P Lally · 2011 · Cited by 367 — This study documented experiences of habit de...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences of habit formation: a qualitative studyby P Lally · 2011 · Cited by 367 — This study documented experiences of habit de...</p></details>

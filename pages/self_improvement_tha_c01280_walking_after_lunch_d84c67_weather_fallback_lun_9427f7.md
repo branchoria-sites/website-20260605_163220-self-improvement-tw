@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_wea
 
 ## Introduction
 
-A lunch walk only becomes a reliable habit when it survives ordinary disruptions. Weather is one of the most common reasons walking routines fail, not because rain, wind, heat, or cold make walking impossible, but because many people have no pre-decided alternative. When the forecast turns bad, the decision shifts from “walk after lunch” to “should I walk today at all?” and the habit often loses. Research on physical activity and weather consistently finds that adverse weather reduces outdoor exercise participation, making weather one of the most predictable threats to routine movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6349565/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe impact of weather on summer and winter exercise behaviorsby AL Wagner · 2016 · Cited by 190 — This study examines the association...</span></span></span>
+A lunch walk only becomes a reliable habit when it survives ordinary disruptions. Weather is one of the most common reasons walking routines fail, not because rain, wind, heat, or cold make walking impossible, but because many people have no pre-decided alternative. When the forecast turns bad, the decision shifts from “walk after lunch” to “should I walk today at all?” and the habit often loses. Research on physical activity and weather consistently finds that adverse weather reduces outdoor exercise participation, making weather one of the most predictable threats to routine movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6349565/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of weather on summer and winter exercise behaviorsby AL Wagner · 2016 · Cited by 190 — This study examines the association...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-1-dark.svg" | relative_url }}" alt="Bad Weather illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ Different weather conditions create different risks:
 
 * **Rain** discourages people because of discomfort, wet clothing, and concerns about arriving back at work soaked.
 * **Strong wind** can make [short walks]({{ 'short-walks/' | relative_url }}) feel disproportionately unpleasant and may affect safety around traffic or falling debris.
-* **Extreme heat** can turn a healthy walk into a heat-stress risk, particularly around midday when many lunch breaks occur. Health authorities recommend limiting outdoor activity during the hottest parts of the day and paying attention to heat advisories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">heat and athletes</span><span class="citation-popover-snippet">CDCHeat and Athletes | Heat Health25 Jun 2024 — If you plan to exercise while it&#x27;s hot outside: Limit outdoor activity, especially during...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/heat-health/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCAbout Heat and Your HealthJul 25, 2025 — Use fans, but only if indoor temperatures are less than 90°F. · Use air conditioning or find...</span></span></span>
+* **Extreme heat** can turn a healthy walk into a heat-stress risk, particularly around midday when many lunch breaks occur. Health authorities recommend limiting outdoor activity during the hottest parts of the day and paying attention to heat advisories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">heat and athletes</span><span class="citation-popover-snippet">Heat and Athletes &#124; Heat Health25 Jun 2024 — If you plan to exercise while it&#x27;s hot outside: Limit outdoor activity, especially during...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/heat-health/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">About Heat and Your HealthJul 25, 2025 — Use fans, but only if indoor temperatures are less than 90°F. · Use air conditioning or find...</span></span></span>
 * **Cold, ice, and snow** increase slip risks and can make outdoor routes less accessible. NHS and hospital safety guidance commonly emphasises careful footing and appropriate footwear in icy conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatesheadhealth.nhs.uk/news/stay-safe-and-avoid-hazards-essential-tips-for-winter-walking-from-gateshead-healths-frontline-staff/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatesheadhealth.nhs.uk">[Gateshead Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatesheadhealth.nhs.uk</span><span class="citation-popover-title">Gateshead Health Stay safe and avoid hazards: Essential tips for winter</span><span class="citation-popover-snippet">Gateshead HealthStay safe and avoid hazards: Essential tips for winter...January 18, 2024 — 17 Jan 2024 — One of the most important thin...</span><span class="citation-popover-meta">Published: January 18, 2024</span></span></span>
 
 The mistake is treating all of these conditions as reasons not to move. Most are reasons to change the route, duration, or location rather than abandon the habit.
@@ -509,7 +509,7 @@ This approach recognises an important reality of self-improvement that works: co
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -519,111 +519,36 @@ This approach recognises an important reality of self-improvement that works: co
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal"><img src="{{ '/assets/images/marketplace-covers/2f35d7fbbee14e036f45.jpg' | relative_url }}" alt="Listing image for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law of Attraction Planner – Undated B5 (Undated) 7.2&quot; x 10.1&quot;, [&#x27;Vanilla&#x27;]"><img src="https://i.ebayimg.com/images/g/XeoAAeSwptlpW6E2/s-l225.jpg" alt="Listing image for Law of Attraction Planner – Undated B5 (Undated) 7.2&quot; x 10.1&quot;, [&#x27;Vanilla&#x27;]" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Law of Attraction Planner – Undated B5 (Undated) 7.2&quot; x 10.1&quot;, [&#x27;Vanilla&#x27;]</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer"><img src="{{ '/assets/images/marketplace-covers/3010e87cba76df4a7ce3.jpg' | relative_url }}" alt="Listing image for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook"><img src="{{ '/assets/images/marketplace-covers/656556146176608bf460.jpg' | relative_url }}" alt="Listing image for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover"><img src="{{ '/assets/images/marketplace-covers/37e1fc094899359e87d2.jpg' | relative_url }}" alt="Listing image for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Edmonds Patton Brown Leather Weatherproof Cap-Toe Chukka Boot Size 14"><img src="{{ '/assets/images/marketplace-covers/e27aedd469f12548a63e.jpg' | relative_url }}" alt="Listing image for Allen Edmonds Patton Brown Leather Weatherproof Cap-Toe Chukka Boot Size 14" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Allen Edmonds Patton Brown Leather Weatherproof Cap-Toe Chukka Boot Size 14</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weatherproof cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: weatherproof cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -631,15 +556,15 @@ This approach recognises an important reality of self-improvement that works: co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Attwood 8315-4 Weatherproof 13-Inch Marine Boat Soft-Grip Steering Wheel Cap"><img src="{{ '/assets/images/marketplace-covers/e9af1eee9fafa24d888b.jpg' | relative_url }}" alt="Listing image for Attwood 8315-4 Weatherproof 13-Inch Marine Boat Soft-Grip Steering Wheel Cap" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin..."><img src="https://i.ebayimg.com/images/g/2PYAAeSwdvZodXQF/s-l225.jpg" alt="Listing image for Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Attwood 8315-4 Weatherproof 13-Inch Marine Boat Soft-Grip Steering Wheel Cap</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weatherproof cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: weatherproof cap</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -647,15 +572,15 @@ This approach recognises an important reality of self-improvement that works: co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sterkowski SHELBY Waxed Cotton Peaky Weatherproof Cap Newsboy Vintage"><img src="{{ '/assets/images/marketplace-covers/57ce2822529478605f69.jpg' | relative_url }}" alt="Listing image for Sterkowski SHELBY Waxed Cotton Peaky Weatherproof Cap Newsboy Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro..."><img src="https://i.ebayimg.com/images/g/SS8AAeSw13Zp365g/s-l225.jpg" alt="Listing image for Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sterkowski SHELBY Waxed Cotton Peaky Weatherproof Cap Newsboy Vintage</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weatherproof cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: weatherproof cap</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -663,15 +588,15 @@ This approach recognises an important reality of self-improvement that works: co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for $15 Weatherproof Garment Brown Golf Newsboy Cabbie Vintage Cap Hat L New"><img src="{{ '/assets/images/marketplace-covers/1c00876e8d2d06527804.jpg' | relative_url }}" alt="Listing image for $15 Weatherproof Garment Brown Golf Newsboy Cabbie Vintage Cap Hat L New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adhd Daily Planner - A Self Care Personal Gratitude Journal to Productivity a..."><img src="https://i.ebayimg.com/images/g/9AEAAOSwM4Jmasgh/s-l225.jpg" alt="Listing image for Adhd Daily Planner - A Self Care Personal Gratitude Journal to Productivity a..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">$15 Weatherproof Garment Brown Golf Newsboy Cabbie Vintage Cap Hat L New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Adhd Daily Planner - A Self Care Personal Gratitude Journal to Productivity a...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weatherproof cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: weatherproof cap</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -679,7 +604,7 @@ This approach recognises an important reality of self-improvement that works: co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weatherproof+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-weather-what-happens-when-the-weather-breaks-the-habit-self-improvement-that-works-weatherproof-cap&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -756,17 +681,31 @@ This approach recognises an important reality of self-improvement that works: co
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -779,42 +718,73 @@ This approach recognises an important reality of self-improvement that works: co
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -829,162 +799,166 @@ This approach recognises an important reality of self-improvement that works: co
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6349565/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6349565/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe impact of weather on summer and winter exercise behaviorsby AL Wagner · 2016 · Cited by 190 — This study examines the association...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6349565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6349565/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of weather on summer and winter exercise behaviorsby AL Wagner · 2016 · Cited by 190 — This study examines the association...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cdc.gov  
    Title: heat and athletes  
-   Link: [https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html](https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCHeat and Athletes | Heat Health25 Jun 2024 — If you plan to exercise while it&#x27;s hot outside: Limit outdoor activity, especially during...</p></details>
+   Link: <a href="https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heat and Athletes | Heat Health25 Jun 2024 — If you plan to exercise while it&#x27;s hot outside: Limit outdoor activity, especially during...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/heat-health/about/index.html](https://www.cdc.gov/heat-health/about/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCAbout Heat and Your HealthJul 25, 2025 — Use fans, but only if indoor temperatures are less than 90°F. · Use air conditioning or find...</p></details>
+   Link: <a href="https://www.cdc.gov/heat-health/about/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/heat-health/about/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Heat and Your HealthJul 25, 2025 — Use fans, but only if indoor temperatures are less than 90°F. · Use air conditioning or find...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: heart.org  
    Title: how to stay active in warm weather  
-   Link: [https://www.heart.org/en/healthy-living/exercise-and-physical-activity/getting-active/how-to-stay-active-in-warm-weather](https://www.heart.org/en/healthy-living/exercise-and-physical-activity/getting-active/how-to-stay-active-in-warm-weather)  
+   Link: <a href="https://www.heart.org/en/healthy-living/exercise-and-physical-activity/getting-active/how-to-stay-active-in-warm-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.heart.org/en/healthy-living/exercise-and-physical-activity/getting-active/how-to-stay-active-in-warm-weather</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Try to avoid exercising outside in the early afternoon. · Hydrate. Drink water before, during and after physical activity, even if...Rea...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gatesheadhealth.nhs.uk  
    Title: Gateshead Health Stay safe and avoid hazards: Essential tips for winter  
-   Link: [https://www.gatesheadhealth.nhs.uk/news/stay-safe-and-avoid-hazards-essential-tips-for-winter-walking-from-gateshead-healths-frontline-staff/](https://www.gatesheadhealth.nhs.uk/news/stay-safe-and-avoid-hazards-essential-tips-for-winter-walking-from-gateshead-healths-frontline-staff/)  
+   Link: <a href="https://www.gatesheadhealth.nhs.uk/news/stay-safe-and-avoid-hazards-essential-tips-for-winter-walking-from-gateshead-healths-frontline-staff/" target="_blank" rel="noopener noreferrer nofollow">https://www.gatesheadhealth.nhs.uk/news/stay-safe-and-avoid-hazards-essential-tips-for-winter-walking-from-gateshead-healths-frontline-staff/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gateshead HealthStay safe and avoid hazards: Essential tips for winter...January 18, 2024 — 17 Jan 2024 — One of the most important thin...</p></details>
    Published: January 18, 2024  
 
 6. <a id="endnote-6"></a>
    Source: cdc.gov  
    Title: Tips for Getting More Active Minutes  
-   Link: [https://www.cdc.gov/nccdphp/dnpao/features/getting-more-active-minutes/index.html](https://www.cdc.gov/nccdphp/dnpao/features/getting-more-active-minutes/index.html)  
+   Link: <a href="https://www.cdc.gov/nccdphp/dnpao/features/getting-more-active-minutes/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nccdphp/dnpao/features/getting-more-active-minutes/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep walking shoes... If you normally walk outside but the weather is bad, head to the local mall for a climate-controlled walk.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: heart.org  
    Title: how to stay active in cold weather  
-   Link: [https://www.heart.org/en/healthy-living/exercise-and-physical-activity/getting-active/how-to-stay-active-in-cold-weather](https://www.heart.org/en/healthy-living/exercise-and-physical-activity/getting-active/how-to-stay-active-in-cold-weather)  
+   Link: <a href="https://www.heart.org/en/healthy-living/exercise-and-physical-activity/getting-active/how-to-stay-active-in-cold-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.heart.org/en/healthy-living/exercise-and-physical-activity/getting-active/how-to-stay-active-in-cold-weather</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Stay Active in Cold Weather5 Jan 2024 — Try these indoor activities: · Home workout circuit · Dancing · Active housework such as vacuu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/index.html](https://www.cdc.gov/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC: Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
+   Link: <a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cdc.gov  
    Title: heat and older adults aged 65  
-   Link: [https://www.cdc.gov/heat-health/risk-factors/heat-and-older-adults-aged-65.html](https://www.cdc.gov/heat-health/risk-factors/heat-and-older-adults-aged-65.html)  
+   Link: <a href="https://www.cdc.gov/heat-health/risk-factors/heat-and-older-adults-aged-65.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/heat-health/risk-factors/heat-and-older-adults-aged-65.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heat and Older Adults (Aged 65+) | Heat Health25 Jun 2024 — People aged 65 years or older are more prone to heat-related health problems...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: clch.nhs.uk  
-   Link: [https://clch.nhs.uk/services/walk-in-centres](https://clch.nhs.uk/services/walk-in-centres)  
+   Link: <a href="https://clch.nhs.uk/services/walk-in-centres" target="_blank" rel="noopener noreferrer nofollow">https://clch.nhs.uk/services/walk-in-centres</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walk-in centresThis page provides information about the services currently operating at our walk-in and urgent care centres and how you c...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/live-well/exercise/walking-for-health/](https://www.nhs.uk/live-well/exercise/walking-for-health/)  
+   Link: <a href="https://www.nhs.uk/live-well/exercise/walking-for-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/walking-for-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for healthA guide to walking to improve your health and fitness, including tips on getting started and making walking fun...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: leedsth.nhs.uk  
-   Link: [https://www.leedsth.nhs.uk/patients/staying-well/walking-routes/](https://www.leedsth.nhs.uk/patients/staying-well/walking-routes/)  
+   Link: <a href="https://www.leedsth.nhs.uk/patients/staying-well/walking-routes/" target="_blank" rel="noopener noreferrer nofollow">https://www.leedsth.nhs.uk/patients/staying-well/walking-routes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Patient Walking Routes | Stay Active at St James&#x27;s LeedsExplore safe, accessible walking routes for patients at St James&#x27;s Hospital Leeds...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: londonwinterwellness.nhs.uk  
-   Link: [https://londonwinterwellness.nhs.uk/home/general-health-advice/](https://londonwinterwellness.nhs.uk/home/general-health-advice/)  
+   Link: <a href="https://londonwinterwellness.nhs.uk/home/general-health-advice/" target="_blank" rel="noopener noreferrer nofollow">https://londonwinterwellness.nhs.uk/home/general-health-advice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General health adviceUrgent treatment centres and walk-in centres · No appointment needed · Open every day · NHS 111 can guide you to the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian Bad weather is good for you: take a walk in the wind and rain  
-   Link: [https://www.theguardian.com/lifeandstyle/2022/oct/29/bad-weather-is-good-for-you-take-a-walk-in-the-wind-and-rain](https://www.theguardian.com/lifeandstyle/2022/oct/29/bad-weather-is-good-for-you-take-a-walk-in-the-wind-and-rain)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2022/oct/29/bad-weather-is-good-for-you-take-a-walk-in-the-wind-and-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2022/oct/29/bad-weather-is-good-for-you-take-a-walk-in-the-wind-and-rain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianBad weather is good for you: take a walk in the wind and rainOctober 29, 2022 — 29 Oct 2022 — Don&#x27;t be put off by winter weat...</p></details>
    Published: October 29, 2022  
 
 15. <a id="endnote-15"></a>
    Source: bccdc.ca  
-   Link: [https://www.bccdc.ca/health-info/prevention-public-health/preparing-for-heat-events](https://www.bccdc.ca/health-info/prevention-public-health/preparing-for-heat-events)  
+   Link: <a href="https://www.bccdc.ca/health-info/prevention-public-health/preparing-for-heat-events" target="_blank" rel="noopener noreferrer nofollow">https://www.bccdc.ca/health-info/prevention-public-health/preparing-for-heat-events</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BC Centre for Disease ControlPreparing for Heat EventsIdentify a cooler space in your home and prepare it so you can stay there at night...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: publichealth.georgetown.edu  
    Title: extreme heat  
-   Link: [https://publichealth.georgetown.edu/extreme-heat/](https://publichealth.georgetown.edu/extreme-heat/)  
+   Link: <a href="https://publichealth.georgetown.edu/extreme-heat/" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.georgetown.edu/extreme-heat/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heat Safety Tool. Pay close attention to heat advisories. Consider limiting outdoor activity during high heat index days. Know your perso...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: gennev.com  
-   Link: [https://gennev.com/learn/walking-indoor-workouts-menopause/](https://gennev.com/learn/walking-indoor-workouts-menopause/)  
+   Link: <a href="https://gennev.com/learn/walking-indoor-workouts-menopause/" target="_blank" rel="noopener noreferrer nofollow">https://gennev.com/learn/walking-indoor-workouts-menopause/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Indoor Walking Workouts for Bad Weather DaysTurn to our three indoor workouts that will boost your mood, fight belly fat, give you more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: leeroadsurgery.co.uk  
-   Link: [https://www.leeroadsurgery.co.uk/local-services-in-lewisham](https://www.leeroadsurgery.co.uk/local-services-in-lewisham)  
+   Link: <a href="https://www.leeroadsurgery.co.uk/local-services-in-lewisham" target="_blank" rel="noopener noreferrer nofollow">https://www.leeroadsurgery.co.uk/local-services-in-lewisham</a>  
 
 19. <a id="endnote-19"></a>
    Source: osha.gov  
-   Link: [https://www.osha.gov/heat-exposure](https://www.osha.gov/heat-exposure)  
+   Link: <a href="https://www.osha.gov/heat-exposure" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/heat-exposure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview: Working in Outdoor and Indoor Heat EnvironmentsMost outdoor fatalities, 50% to 70%, occur in the first few days of working in w...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: peacehealth.org  
    Title: Quick Tips: Staying Active in Hot Weather Wear light-colored, breathable clothes  
-   Link: [https://www.peacehealth.org/medical-topics/id/ad1203](https://www.peacehealth.org/medical-topics/id/ad1203)  
+   Link: <a href="https://www.peacehealth.org/medical-topics/id/ad1203" target="_blank" rel="noopener noreferrer nofollow">https://www.peacehealth.org/medical-topics/id/ad1203</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Always wear sunscreen. Watch for signs of dehydration and heat-related illnesses such as heat exhaustion and heatstroke.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: activeagingcanada.ca  
    Title: Hot Weather Safety for Physical Activity Too much heat is not good for anyone  
-   Link: [https://www.activeagingcanada.ca/newsletter/active-aging-network/v01-issue007-2021-06-hot-weather-safety-for-physical-activity.htm](https://www.activeagingcanada.ca/newsletter/active-aging-network/v01-issue007-2021-06-hot-weather-safety-for-physical-activity.htm)  
+   Link: <a href="https://www.activeagingcanada.ca/newsletter/active-aging-network/v01-issue007-2021-06-hot-weather-safety-for-physical-activity.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.activeagingcanada.ca/newsletter/active-aging-network/v01-issue007-2021-06-hot-weather-safety-for-physical-activity.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It can be riskier as we get older. When we are active, our muscles produce heat. This causes a rise in body temperature.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GSTTnhs/posts/stay-safe-and-steady-on-your-feet-this-winter%EF%B8%8Fcold-wet-weather-can-increase-the-/895572722967620/](https://www.facebook.com/GSTTnhs/posts/stay-safe-and-steady-on-your-feet-this-winter%EF%B8%8Fcold-wet-weather-can-increase-the-/895572722967620/)  
+   Link: <a href="https://www.facebook.com/GSTTnhs/posts/stay-safe-and-steady-on-your-feet-this-winter%EF%B8%8Fcold-wet-weather-can-increase-the-/895572722967620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GSTTnhs/posts/stay-safe-and-steady-on-your-feet-this-winter%EF%B8%8Fcold-wet-weather-can-increase-the-/895572722967620/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep your arms out by your side to help you balance. ❄ Walk flat-footed and take short...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: Even as the temperatures rise, it's important to stay active!  
-   Link: [https://www.facebook.com/DelawareDHSS/posts/even-as-the-temperatures-rise-its-important-to-stay-active-just-20-minutes-of-wa/1191453793015731/](https://www.facebook.com/DelawareDHSS/posts/even-as-the-temperatures-rise-its-important-to-stay-active-just-20-minutes-of-wa/1191453793015731/)  
+   Link: <a href="https://www.facebook.com/DelawareDHSS/posts/even-as-the-temperatures-rise-its-important-to-stay-active-just-20-minutes-of-wa/1191453793015731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DelawareDHSS/posts/even-as-the-temperatures-rise-its-important-to-stay-active-just-20-minutes-of-wa/1191453793015731/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Just 20 minutes of walking per day can make a big difference in your health. Be sure to check for heat advisories and consider walking ou...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: woodinvillepediatrics.com  
    Title: hot weather ahead tips preventing heat related illness cdc  
-   Link: [https://woodinvillepediatrics.com/hot-weather-ahead-tips-preventing-heat-related-illness-cdc/](https://woodinvillepediatrics.com/hot-weather-ahead-tips-preventing-heat-related-illness-cdc/)  
+   Link: <a href="https://woodinvillepediatrics.com/hot-weather-ahead-tips-preventing-heat-related-illness-cdc/" target="_blank" rel="noopener noreferrer nofollow">https://woodinvillepediatrics.com/hot-weather-ahead-tips-preventing-heat-related-illness-cdc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for preventing heat related illness from the CDCAug 17, 2016 — Limit your outdoor activity to morning and evening hours. · Cut down...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: standard.co.uk  
    Title: The Standard As freezing temperatures hit London  
-   Link: [https://www.standard.co.uk/news/uk/freezing-temperatures-london-how-walk-safely-penguin-nhs-ice-snow-goretti-b1265333.html](https://www.standard.co.uk/news/uk/freezing-temperatures-london-how-walk-safely-penguin-nhs-ice-snow-goretti-b1265333.html)  
+   Link: <a href="https://www.standard.co.uk/news/uk/freezing-temperatures-london-how-walk-safely-penguin-nhs-ice-snow-goretti-b1265333.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/uk/freezing-temperatures-london-how-walk-safely-penguin-nhs-ice-snow-goretti-b1265333.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As freezing temperatures hit London - how do you walk...7 Jan 2026 — Adopting a penguin walk could help keep you more stable and minimis...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: xylaservices.com  
    Title: adapting physical activity to beat the seasonal weather  
-   Link: [https://xylaservices.com/professionals/news/adapting-physical-activity-to-beat-the-seasonal-weather/](https://xylaservices.com/professionals/news/adapting-physical-activity-to-beat-the-seasonal-weather/)  
+   Link: <a href="https://xylaservices.com/professionals/news/adapting-physical-activity-to-beat-the-seasonal-weather/" target="_blank" rel="noopener noreferrer nofollow">https://xylaservices.com/professionals/news/adapting-physical-activity-to-beat-the-seasonal-weather/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Apr 2024 — Here are some suggestions as to how you might change your routine to overcome the inclement weather.Read more...</p></details>

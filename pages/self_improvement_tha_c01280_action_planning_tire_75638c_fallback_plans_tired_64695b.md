@@ -278,7 +278,7 @@ Busy days rarely destroy a habit because the goal was wrong. More often, they de
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-1-dark.svg" | relative_url }}" alt="Fallback Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key idea is simple: do not wait until you are tired to decide what “counts”. Decide in advance. Behaviour-change research on implementation intentions shows that specific if-then plans help people translate intentions into action by linking predictable situations to predetermined responses. Rather than negotiating with yourself in the moment, you follow a prepared rule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+The key idea is simple: do not wait until you are tired to decide what “counts”. Decide in advance. Behaviour-change research on implementation intentions shows that specific if-then plans help people translate intentions into action by linking predictable situations to predetermined responses. Rather than negotiating with yourself in the moment, you follow a prepared rule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 A good fallback plan is not an excuse to do less forever. It is insurance against doing nothing.
 
@@ -302,7 +302,7 @@ Common examples include:
 
 These are not surprises. They are recurring conditions. If a behaviour repeatedly disappears under the same circumstances, the problem is often not commitment but the absence of a fallback response.
 
-Research on implementation intentions suggests that specifying responses to predictable barriers improves goal pursuit because the decision has already been made before the obstacle appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+Research on implementation intentions suggests that specifying responses to predictable barriers improves goal pursuit because the decision has already been made before the obstacle appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 Instead of:
 
@@ -332,10 +332,10 @@ A full-sized plan often assumes more time, energy and attention than a difficult
 
 Every extra decision increases the chance of [abandonment]({{ 'abandonment/' | relative_url }}).
 
-Implementation-intention research suggests that pre-selecting responses reduces the need for deliberation at the critical moment. The cue triggers the behaviour rather than a fresh round of decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span>
+Implementation-intention research suggests that pre-selecting responses reduces the need for deliberation at the critical moment. The cue triggers the behaviour rather than a fresh round of decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A_u9PQGFC_Q" title="18 habits that (quietly) doubled my output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A_u9PQGFC_Q" target="_blank" rel="noopener noreferrer">18 habits that (quietly) doubled my output</a></p><p class="youtube-embed-meta">Channel: Ideas To Thrive &middot; Views: 255.3K &middot; Uploaded: November 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A_u9PQGFC_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A_u9PQGFC_Q">Open on YouTube</a></p></div></div></div>
 
 ### All-or-nothing thinking
 
@@ -376,7 +376,7 @@ The reduced version should feel almost impossible to fail.
 
 ### The three tests
 
-A [minimum viable habit]({{ 'fallback-habit/' | relative_url }}) usually passes three tests.
+A minimum viable habit usually passes three tests.
 
 **It preserves the direction.**
 
@@ -428,7 +428,7 @@ Fallback plans:
 The purpose is not fitness optimisation. The purpose is preventing the exercise habit from disappearing whenever energy falls below ideal levels.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A_u9PQGFC_Q" title="18 habits that (quietly) doubled my output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A_u9PQGFC_Q" target="_blank" rel="noopener noreferrer">18 habits that (quietly) doubled my output</a></p><p class="youtube-embed-meta">Channel: Ideas To Thrive &middot; Views: 255.3K &middot; Uploaded: November 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A_u9PQGFC_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A_u9PQGFC_Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K0S9xJwRohI" title="I Finally Figured Out How To Be Consistent (It’s Not Discipline)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer">I Finally Figured Out How To Be Consistent (It’s Not Discipline)</a></p><p class="youtube-embed-meta">Channel: Adete Dahiya &middot; Views: 111.4K &middot; Uploaded: February 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K0S9xJwRohI">Open on YouTube</a></p></div></div></div>
 
 ### Writing
 
@@ -481,7 +481,7 @@ Fallback plans:
 A reduced routine still protects the broader sleep habit.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K0S9xJwRohI" title="I Finally Figured Out How To Be Consistent (It’s Not Discipline)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer">I Finally Figured Out How To Be Consistent (It’s Not Discipline)</a></p><p class="youtube-embed-meta">Channel: Adete Dahiya &middot; Views: 111.4K &middot; Uploaded: February 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K0S9xJwRohI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HeLfHo43joo" title="THIS is Where to Spend Your Time &amp; Energy 🧘🏻‍♀️ Life Reset Day 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HeLfHo43joo" target="_blank" rel="noopener noreferrer">THIS is Where to Spend Your Time &amp; Energy 🧘🏻‍♀️ Life Reset Day 5</a></p><p class="youtube-embed-meta">Channel: The Productivity Psychologist &middot; Views: 1.8K &middot; Uploaded: October 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HeLfHo43joo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HeLfHo43joo">Open on YouTube</a></p></div></div></div>
 
 ## Build Fallbacks Around Predictable Obstacles
 
@@ -491,11 +491,11 @@ Instead of one generic backup, create responses for recurring barriers.
 
 ObstacleFallback responseOvertime at workDo the 10-minute versionHeavy rainIndoor alternativeLow moodStart for five minutes onlyTravelHotel-room versionPoor sleepReduced-intensity versionFamily interruptionReschedule to a predefined backup slot
 
-This structure resembles an implementation intention: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+This structure resembles an implementation intention: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 > If obstacle X appears, then I will do behaviour Y.
 
-Research consistently finds that such if-then planning can improve the translation of intentions into action because it links situations directly to responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+Research consistently finds that such if-then planning can improve the translation of intentions into action because it links situations directly to responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 ## The Goal Is Continuity, Not Performance
 
@@ -930,131 +930,131 @@ A practical rule is therefore: never allow a predictable obstacle to force an un
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing results. It&#x27;s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36476147/](https://pubmed.ncbi.nlm.nih.gov/36476147/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36476147/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36476147/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This may be achieved by mentally forming stimulus...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubPromoting new habits at work through implementation intentions9 Aug 2024 — The results indicate that implementation intentio...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thriva - Track and improve your healthImplementation Intentions: The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by ps...</p></details>
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Track and improve your healthImplementation Intentions: The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by ps...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/](https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/)  
+   Link: <a href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nehrlich.com  
    Title: tiny habits by bj fogg  
-   Link: [https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/](https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/)  
+   Link: <a href="https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits, by BJ Fogg3 Mar 2020 — Fogg suggests troubleshooting first the prompt, then ability, then motivation. If the prompt isn&#x27;t cl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english-chinese-traditional/habit](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/habit)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/habit" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge DictionaryHABIT translate: 重複的行爲, 習慣, 壞習慣，毛病, 毒癮, 衣服, （僧侶或修女穿的）衣服，長袍. Learn more in the Cambridge Engl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Implementation intention  
-   Link: [https://en.wikipedia.org/wiki/Implementation_intention](https://en.wikipedia.org/wiki/Implementation_intention)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation_intention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18851764/](https://pubmed.ncbi.nlm.nih.gov/18851764/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the effect of forming implementation intentions was smaller among...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: get-alfred.ai  
    Title: implementation intentions  
-   Link: [https://get-alfred.ai/blog/implementation-intentions](https://get-alfred.ai/blog/implementation-intentions)  
+   Link: <a href="https://get-alfred.ai/blog/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The If-Then Planning Trick That...19 Feb 2026 — Peter Gollwitzer&#x27;s if-then planning format is one of the most robustly validated behavio...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/BettermentBookClub/comments/obdygp/tiny_habits_is_what_i_wanted_atomic_habits_to_be/](https://www.reddit.com/r/BettermentBookClub/comments/obdygp/tiny_habits_is_what_i_wanted_atomic_habits_to_be/)  
+   Link: <a href="https://www.reddit.com/r/BettermentBookClub/comments/obdygp/tiny_habits_is_what_i_wanted_atomic_habits_to_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/BettermentBookClub/comments/obdygp/tiny_habits_is_what_i_wanted_atomic_habits_to_be/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits is what I wanted Atomic Habits to beI&#x27;ve seen a couple of posts here about Atomic Habits by James Clear, but I haven&#x27;t seen a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation intentions are self-regulating strategies – creat...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation IntentionsImplementation intentions link a situational cue to a goal-directed action, typically using an if/when-the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: effectiveselfhelp.org  
-   Link: [https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/](https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: a guide to forming habits you&#x27;ll keepImplementation intentions involve &#x27;specifying the behaviour one will perform in th...</p></details>
+   Link: <a href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow">https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;): a guide to forming habits you&#x27;ll keepImplementation intentions involve &#x27;specifying the behaviour one will perform in th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: norfolk.gov.uk  
-   Link: [https://www.norfolk.gov.uk/article/42206/Set-goals-and-plans-to-change-your-behaviour](https://www.norfolk.gov.uk/article/42206/Set-goals-and-plans-to-change-your-behaviour)  
+   Link: <a href="https://www.norfolk.gov.uk/article/42206/Set-goals-and-plans-to-change-your-behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/42206/Set-goals-and-plans-to-change-your-behaviour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Set goals and plans to change your behaviourSet a goal. It&#x27;s helpful to think about what it is exactly that you want to change. Think fir...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: shortform.com  
-   Link: [https://www.shortform.com/podcast/episode/the-diary-of-a-ceo-with-steven-bartlett-2025-12-11-episode-summary-discipline-expert-the-tiny-habit-that-finally-makes-you-lose-weight-the-2-minute-trick](https://www.shortform.com/podcast/episode/the-diary-of-a-ceo-with-steven-bartlett-2025-12-11-episode-summary-discipline-expert-the-tiny-habit-that-finally-makes-you-lose-weight-the-2-minute-trick)  
+   Link: <a href="https://www.shortform.com/podcast/episode/the-diary-of-a-ceo-with-steven-bartlett-2025-12-11-episode-summary-discipline-expert-the-tiny-habit-that-finally-makes-you-lose-weight-the-2-minute-trick" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/the-diary-of-a-ceo-with-steven-bartlett-2025-12-11-episode-summary-discipline-expert-the-tiny-habit-that-finally-makes-you-lose-weight-the-2-minute-trick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discipline Expert: The Tiny Habit That Finally Makes You...Dec 11, 2025 — The discussion explores practical strategies for habit develop...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ljmu.ac.uk  
-   Link: [https://www.ljmu.ac.uk/microsites/promoting-healthy-weight-in-pre-school-children/modules/behaviour-change-[techniques](https://www.ljmu.ac.uk/microsites/promoting-healthy-weight-in-pre-school-children/modules/behaviour-change-[techniques)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Action PlanningAn action plan is a type of process goal that comprises detailed planning of the exact steps that must be taken in order t...</p></details>
+   Link: <a href="https://www.ljmu.ac.uk/microsites/promoting-healthy-weight-in-pre-school-children/modules/behaviour-change-[techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.ljmu.ac.uk/microsites/promoting-healthy-weight-in-pre-school-children/modules/behaviour-change-[techniques</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>tion PlanningAn action plan is a type of process goal that comprises detailed planning of the exact steps that must be taken in order t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-3-behaviour-change](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-3-behaviour-change)  
+   Link: <a href="https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-3-behaviour-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-3-behaviour-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3: behaviour changeby NHS England — In this chapter, the latest guidance on approaches to supporting individuals to change their health b...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: informme.org.au  
-   Link: [https://informme.org.au/media/ux0huiqb/act-now-toolkit-behaviour-change-plan.pdf](https://informme.org.au/media/ux0huiqb/act-now-toolkit-behaviour-change-plan.pdf)  
+   Link: <a href="https://informme.org.au/media/ux0huiqb/act-now-toolkit-behaviour-change-plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://informme.org.au/media/ux0huiqb/act-now-toolkit-behaviour-change-plan.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40MoneyMiniBlog/how-to-change-every-part-of-your-life-with-tiny-habits-7aba0e009163](https://medium.com/%40MoneyMiniBlog/how-to-change-every-part-of-your-life-with-tiny-habits-7aba0e009163)  
+   Link: <a href="https://medium.com/%40MoneyMiniBlog/how-to-change-every-part-of-your-life-with-tiny-habits-7aba0e009163" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40MoneyMiniBlog/how-to-change-every-part-of-your-life-with-tiny-habits-7aba0e009163</a>  
 
 24. <a id="endnote-24"></a>
    Source: win.wolverhampton.gov.uk  
-   Link: [https://win.wolverhampton.gov.uk/kb5/wolverhampton/directory/advice.page?id=vcDFYTnjTgc](https://win.wolverhampton.gov.uk/kb5/wolverhampton/directory/advice.page?id=vcDFYTnjTgc)  
+   Link: <a href="https://win.wolverhampton.gov.uk/kb5/wolverhampton/directory/advice.page?id=vcDFYTnjTgc" target="_blank" rel="noopener noreferrer nofollow">https://win.wolverhampton.gov.uk/kb5/wolverhampton/directory/advice.page?id=vcDFYTnjTgc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is important that you understand that successful behaviour change is not a smooth process and it takes time and effort.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1097212408/34](https://d-nb.info/1097212408/34)  
+   Link: <a href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1097212408/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ntrol from a conscious effortful mode (action control by goal intentions) to stimulus control of behavior (action...</p></details>

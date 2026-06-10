@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-cycling-to/
 description: Focused pages that expand on Cycle Commute.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_cycling_to_work_894f2f
 parent_title: Cycle Commute | Self Improvement That Works

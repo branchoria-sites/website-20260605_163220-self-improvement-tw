@@ -272,17 +272,17 @@ A scroll break is least harmful when it comes after a clearly completed piece of
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-1-dark.svg" | relative_url }}" alt="Scroll Breaks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because procrastination is strongly linked to task aversiveness and the attraction of [immediate rewards]({{ 'immediate-rewards/' | relative_url }}). When scrolling becomes the first response to discomfort, it reinforces avoidance. When it follows [visible progress]({{ 'visible-records/' | relative_url }}), it can function more like a planned reward attached to productive behaviour. Research on procrastination, habit formation and reward timing suggests that immediate rewards can support difficult tasks, but only when they are linked to task completion rather than replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Nature of Procrastination: A Meta-Analytic and...January 1, 2007 — Strong and consistent predictors of procrastina...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Present_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Present bias</span><span class="citation-popover-snippet">Present bias</span></span></span>
+This distinction matters because procrastination is strongly linked to task aversiveness and the attraction of [immediate rewards]({{ 'immediate-rewards/' | relative_url }}). When scrolling becomes the first response to discomfort, it reinforces avoidance. When it follows visible progress, it can function more like a planned reward attached to productive behaviour. Research on procrastination, habit formation and reward timing suggests that immediate [rewards]({{ 'rewards/' | relative_url }}) can support difficult tasks, but only when they are linked to task completion rather than replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Nature of Procrastination: A Meta-Analytic and...January 1, 2007 — Strong and consistent predictors of procrastina...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Present_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Present bias</span><span class="citation-popover-snippet">Present bias</span></span></span>
 
 ## Why Timing Matters More Than Total Phone Time
 
 Many students focus on how many minutes they spend on their phone. For study performance, the timing of those minutes can be just as important.
 
-A five-minute scroll before studying often becomes the opening move of a distraction cycle. The brain receives an easy reward before any academic effort has occurred. If the study task then feels difficult, boring or uncertain, returning to the phone becomes the path of least resistance. This pattern aligns with major theories of procrastination, which describe how people choose immediate gratification over delayed [rewards]({{ 'rewards/' | relative_url }}) when a task feels unpleasant or effortful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Nature of Procrastination: A Meta-Analytic and...January 1, 2007 — Strong and consistent predictors of procrastina...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span>
+A five-minute scroll before studying often becomes the opening move of a distraction cycle. The brain receives an easy reward before any academic effort has occurred. If the study task then feels difficult, boring or uncertain, returning to the phone becomes the path of least resistance. This pattern aligns with major theories of procrastination, which describe how people choose immediate gratification over delayed rewards when a task feels unpleasant or effortful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Nature of Procrastination: A Meta-Analytic and...January 1, 2007 — Strong and consistent predictors of procrastina...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span>
 
 By contrast, completing a visible work unit first changes the sequence. The reward is no longer attached to avoidance. It is attached to progress. Even a modest achievement—finishing practice questions, reviewing flashcards, completing a reading section or writing a paragraph—creates evidence that studying has already begun.
 
-This matters because habits strengthen through repeated reward in stable contexts. If scrolling consistently follows completed work, the brain learns a different association than if scrolling appears whenever concentration becomes uncomfortable. Habit research suggests that rewarded behaviours become increasingly automatic over time, particularly when the cue and reward pattern remains stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-025-25174-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureSmartphone habits are stronger in spaces chosen out of habitby MQ Ross · 2025 · Cited by 1 — This study investigates spatial and sm...</span></span></span>
+This matters because habits strengthen through repeated reward in stable contexts. If scrolling consistently follows completed work, the brain learns a different association than if scrolling appears whenever concentration becomes uncomfortable. Habit research suggests that rewarded behaviours become increasingly automatic over time, particularly when the cue and reward pattern remains stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-025-25174-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Smartphone habits are stronger in spaces chosen out of habitby MQ Ross · 2025 · Cited by 1 — This study investigates spatial and sm...</span></span></span>
 
 A practical consequence is that two students with identical daily screen time may experience very different outcomes. One scrolls before every study session and repeatedly struggles to start. The other studies first and uses a limited scroll break after visible progress. The total phone use may be similar, but the behavioural training effect is different.
 
@@ -313,7 +313,7 @@ A common mistake is rewarding time spent rather than outcomes achieved.
 
 Imagine two students who both spend thirty minutes at a desk. One actively solves problems and finishes a worksheet section. The other repeatedly switches tabs, rereads the same page and checks notifications. If both receive the same reward simply because thirty minutes passed, the reward does not distinguish productive effort from unproductive effort.
 
-Visible progress creates a clearer [feedback]({{ 'feedback/' | relative_url }}) loop. The brain receives confirmation that a meaningful step was completed before the reward arrives. This increases the perceived value of task completion itself, an important factor because procrastination decreases when future benefits become more psychologically salient and valuable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.21000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivModulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulationJune 26, 2025...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
+Visible progress creates a clearer [feedback]({{ 'feedback/' | relative_url }}) loop. The brain receives confirmation that a meaningful step was completed before the reward arrives. This increases the perceived value of task completion itself, an important factor because procrastination decreases when future benefits become more psychologically salient and valuable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.21000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Modulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulationJune 26, 2025...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
 
 Visible progress also reduces a common student complaint: “I studied for hours but achieved nothing.” A reward system tied to completed units naturally encourages breaking large goals into concrete milestones that can actually be finished.
 
@@ -327,7 +327,7 @@ Not every scroll break helps. Some forms of “reward” quietly retrain avoidan
 
 The most damaging pattern is reaching for the phone whenever confusion, boredom or difficulty appears.
 
-If every hard moment triggers a scroll session, the brain learns that discomfort predicts escape. Academic procrastination research repeatedly identifies avoidance of unpleasant feelings as a central mechanism behind delayed work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe ABC of academic procrastination: Functional analysis of a...by F Svartdal · 2022 · Cited by 60 — This paper aims to describe a st...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Nature of Procrastination: A Meta-Analytic and...January 1, 2007 — Strong and consistent predictors of procrastina...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span>
+If every hard moment triggers a scroll session, the brain learns that discomfort predicts escape. Academic procrastination research repeatedly identifies avoidance of unpleasant feelings as a central mechanism behind delayed work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The ABC of academic procrastination: Functional analysis of a...by F Svartdal · 2022 · Cited by 60 — This paper aims to describe a st...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Nature of Procrastination: A Meta-Analytic and...January 1, 2007 — Strong and consistent predictors of procrastina...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span>
 
 The result is subtle. The student may still spend time studying, but concentration weakens because difficulty itself becomes a cue to leave the task.
 
@@ -344,7 +344,7 @@ The issue is not merely poor discipline. Modern feeds are designed around repeat
 
 ### Letting Rewards Replace Recovery
 
-A study on break behaviour found that using a mobile phone during breaks did not help cognitive recovery as effectively as alternative break activities. In other words, a phone break may feel restful while providing less mental refreshment than expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCReach for your cell phone at your own risk: The cognitive costs...by S Kang · 2019 · Cited by 35 — The results show that using cell p...</span></span></span>
+A study on break behaviour found that using a mobile phone during breaks did not help cognitive recovery as effectively as alternative break activities. In other words, a phone break may feel restful while providing less mental refreshment than expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reach for your cell phone at your own risk: The cognitive costs...by S Kang · 2019 · Cited by 35 — The results show that using cell p...</span></span></span>
 
 This does not mean phone breaks are always harmful. It means they should not be assumed to be the best form of recovery. Sometimes a walk, stretching, water, fresh air or a brief conversation restores attention more effectively.
 
@@ -793,56 +793,56 @@ When scrolling becomes the reward for visible progress, it can coexist with prod
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure](https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure)  
+   Link: <a href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Nature of Procrastination: A Meta-Analytic and...January 1, 2007 — Strong and consistent predictors of procrastina...</p></details>
    Published: January 1, 2007  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Present bias  
-   Link: [https://en.wikipedia.org/wiki/Present_bias](https://en.wikipedia.org/wiki/Present_bias)  
+   Link: <a href="https://en.wikipedia.org/wiki/Present_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Present_bias</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe ABC of academic procrastination: Functional analysis of a...by F Svartdal · 2022 · Cited by 60 — This paper aims to describe a st...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ABC of academic procrastination: Functional analysis of a...by F Svartdal · 2022 · Cited by 60 — This paper aims to describe a st...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-25174-2](https://www.nature.com/articles/s41598-025-25174-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureSmartphone habits are stronger in spaces chosen out of habitby MQ Ross · 2025 · Cited by 1 — This study investigates spatial and sm...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-025-25174-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-25174-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone habits are stronger in spaces chosen out of habitby MQ Ross · 2025 · Cited by 1 — This study investigates spatial and sm...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sproutern.com  
-   Link: [https://www.sproutern.com/blog/how-to-overcome-procrastination-students-guide](https://www.sproutern.com/blog/how-to-overcome-procrastination-students-guide)  
+   Link: <a href="https://www.sproutern.com/blog/how-to-overcome-procrastination-students-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.sproutern.com/blog/how-to-overcome-procrastination-students-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reward Ideas for Students: Task Completed, Reward. Complete one Pomodoro session, 5-minute social media check. Finish a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.21000](https://arxiv.org/abs/2506.21000)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivModulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulationJune 26, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.21000" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.21000</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulationJune 26, 2025...</p></details>
    Published: June 26, 2025  
 
 7. <a id="endnote-7"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A1878112/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A1878112/FULLTEXT01.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1878112/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1878112/FULLTEXT01.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva Portal“I have a five-minute break, I pick up the phone, and then...by T Kind · 2024 — This research aims to investigate how using t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395115230_Reinforcement_Schedule_in_the_Digital_Age](https://www.researchgate.net/publication/395115230_Reinforcement_Schedule_in_the_Digital_Age)  
+   Link: <a href="https://www.researchgate.net/publication/395115230_Reinforcement_Schedule_in_the_Digital_Age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395115230_Reinforcement_Schedule_in_the_Digital_Age</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Reinforcement Schedule in the Digital AgeAugust 30, 2025 — 31 Aug 2025 — This study explores how reinforcement schedule...</p></details>
    Published: August 30, 2025  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCReach for your cell phone at your own risk: The cognitive costs...by S Kang · 2019 · Cited by 35 — The results show that using cell p...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reach for your cell phone at your own risk: The cognitive costs...by S Kang · 2019 · Cited by 35 — The results show that using cell p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nesslabs.com  
    Title: Ness Labs Temptation bundling: stop procrastinating by boosting your  
-   Link: [https://nesslabs.com/temptation-bundling](https://nesslabs.com/temptation-bundling)  
+   Link: <a href="https://nesslabs.com/temptation-bundling" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/temptation-bundling</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ness LabsTemptation bundling: stop procrastinating by boosting your...June 7, 2022 — Temptation bundling is a productivity technique tha...</p></details>
    Published: June 7, 2022  
 
@@ -850,52 +850,52 @@ When scrolling becomes the reward for visible progress, it can coexist with prod
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYj7fpdDMbr/](https://www.instagram.com/reel/DYj7fpdDMbr/)  
+   Link: <a href="https://www.instagram.com/reel/DYj7fpdDMbr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYj7fpdDMbr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How I TRICKED My Brain to Be ADDICTED to StudyingHere&#x27;s how to hijack your dopamine system. Temptation Bundling. Pair studying with somet...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tom.vorselen/posts/your-brain-forgot-how-to-study-heres-how-to-fix-ityour-brain-forgot-how-to-study/4264174483729046/](https://www.facebook.com/tom.vorselen/posts/your-brain-forgot-how-to-study-heres-how-to-fix-ityour-brain-forgot-how-to-study/4264174483729046/)  
+   Link: <a href="https://www.facebook.com/tom.vorselen/posts/your-brain-forgot-how-to-study-heres-how-to-fix-ityour-brain-forgot-how-to-study/4264174483729046/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tom.vorselen/posts/your-brain-forgot-how-to-study-heres-how-to-fix-ityour-brain-forgot-how-to-study/4264174483729046/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom VorselenUSE VARIABLE REWARD SCHEDULING Occasionally reward yourself after study sessions unpredictably.... study session, then check...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2022/07/2021_ShinGrant_AMJ.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2022/07/2021_ShinGrant_AMJ.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2022/07/2021_ShinGrant_AMJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2022/07/2021_ShinGrant_AMJ.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHEN PUTTING WORK OFF PAYS OFFby J SHIN · Cited by 162 — Although it is widely assumed that procrastination is counterproductive, delayin...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dare.uva.nl  
-   Link: [https://dare.uva.nl/document/2/177644](https://dare.uva.nl/document/2/177644)  
+   Link: <a href="https://dare.uva.nl/document/2/177644" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/document/2/177644</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>management and procrastinationby W van Eerde · Cited by 85 — Thus, overall, the studies showed that perceived control improved, and TM tr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: neurable.com  
-   Link: [https://www.neurable.com/blog-posts/the-science-of-habit-formation-how-to-break-bad-habits-and-build-good-ones-with-brain-data](https://www.neurable.com/blog-posts/the-science-of-habit-formation-how-to-break-bad-habits-and-build-good-ones-with-brain-data)  
+   Link: <a href="https://www.neurable.com/blog-posts/the-science-of-habit-formation-how-to-break-bad-habits-and-build-good-ones-with-brain-data" target="_blank" rel="noopener noreferrer nofollow">https://www.neurable.com/blog-posts/the-science-of-habit-formation-how-to-break-bad-habits-and-build-good-ones-with-brain-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Habit Formation: Break Bad Habits With Brain...27 Feb 2025 — For example, checking your phone (routine) during a work break (...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/aliabdaal/posts/there-are-some-studies-that-basically-say-that-instant-gratification-isnt-the-be/1642442153381978/](https://www.facebook.com/aliabdaal/posts/there-are-some-studies-that-basically-say-that-instant-gratification-isnt-the-be/1642442153381978/)  
+   Link: <a href="https://www.facebook.com/aliabdaal/posts/there-are-some-studies-that-basically-say-that-instant-gratification-isnt-the-be/1642442153381978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aliabdaal/posts/there-are-some-studies-that-basically-say-that-instant-gratification-isnt-the-be/1642442153381978/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tom.vorselen/posts/i-used-to-think-i-just-lacked-discipline-or-[motivation](https://www.facebook.com/tom.vorselen/posts/i-used-to-think-i-just-lacked-discipline-or-[motivation)  
+   Link: <a href="https://www.facebook.com/tom.vorselen/posts/i-used-to-think-i-just-lacked-discipline-or-[motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tom.vorselen/posts/i-used-to-think-i-just-lacked-discipline-or-[motivation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>অগ্রদূত_বাংলা (২০২৬) ২. প্রফেসর অফিস সহায়ক (২০২৫) ৩. ফেনোম&#x27;স টপিক ভিত্তিক জব সলিউশন (২০২৬) ৪. অগ্রদূত রিসেন্ট জব সলুশন (২০২৬) ৫.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCI'll Do It – After One More Scroll: The Effects of Boredom  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9298485/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298485/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Sümer · 2022 · Cited by 30 — Thus, the second aim of this study was to investigate the effects of boredom proneness in addition t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9298485/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9298485/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Sümer · 2022 · Cited by 30 — Thus, the second aim of this study was to investigate the effects of boredom proneness in addition t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: Here's how to get your brain addicted to studying  
-   Link: [https://www.facebook.com/tom.vorselen/posts/heres-how-to-get-your-brain-addicted-to-studyingyour-brain-is-wired-to-chase-dop/4184781118335050/](https://www.facebook.com/tom.vorselen/posts/heres-how-to-get-your-brain-addicted-to-studyingyour-brain-is-wired-to-chase-dop/4184781118335050/)  
+   Link: <a href="https://www.facebook.com/tom.vorselen/posts/heres-how-to-get-your-brain-addicted-to-studyingyour-brain-is-wired-to-chase-dop/4184781118335050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tom.vorselen/posts/heres-how-to-get-your-brain-addicted-to-studyingyour-brain-is-wired-to-chase-dop/4184781118335050/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USE TEMPTATION BUNDLING Pair studying with small immediate rewards like good coffee or your favorite study spot. Your brain creates posit...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
    Title: Here's how to get your brain addicted to studying  
-   Link: [https://www.instagram.com/reel/DV4L72kRTlM/](https://www.instagram.com/reel/DV4L72kRTlM/)  
+   Link: <a href="https://www.instagram.com/reel/DV4L72kRTlM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV4L72kRTlM/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your brain...Second, use temptation-bundling. Pair studying with a small immediate reward like a good coffee or a piece of chocolate. Th...</p></details>

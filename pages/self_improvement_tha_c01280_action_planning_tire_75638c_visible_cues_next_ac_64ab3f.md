@@ -303,7 +303,7 @@ Visible cues reduce that competition in several ways.
 
 **They help behaviour start sooner.** Research on implementation intentions suggests that linking behaviour to specific situations increases the likelihood that the planned response will occur when the cue appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — They found that participants with implementatio...</span></span></span>
 
-**They [support]({{ 'support/' | relative_url }}) habit formation.** Habit research suggests that repeated performance in stable contexts allows [environmental cues]({{ 'cues-195d40/' | relative_url }}) to become associated with actions over time. Eventually the cue itself can help initiate behaviour with less conscious effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-snippet">USC DornsifeHabit formation and change - USC Dornsifeby L Carden · 2018 · Cited by 351 — In this way, behavior change apps can facilitate...</span></span></span>
+**They [support]({{ 'support/' | relative_url }}) habit formation.** Habit research suggests that repeated performance in stable contexts allows environmental cues to become associated with actions over time. Eventually the cue itself can help initiate behaviour with less conscious effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-snippet">USC DornsifeHabit formation and change - USC Dornsifeby L Carden · 2018 · Cited by 351 — In this way, behavior change apps can facilitate...</span></span></span>
 
 The practical benefit is that visible cues shift part of the workload from your mind into your surroundings.
 
@@ -497,7 +497,7 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -507,111 +507,36 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer"><img src="{{ '/assets/images/marketplace-covers/3010e87cba76df4a7ce3.jpg' | relative_url }}" alt="Listing image for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..."><img src="https://i.ebayimg.com/images/g/jdsAAeSwNBlp~Ho8/s-l225.jpg" alt="Listing image for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal"><img src="{{ '/assets/images/marketplace-covers/2f35d7fbbee14e036f45.jpg' | relative_url }}" alt="Listing image for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook"><img src="{{ '/assets/images/marketplace-covers/656556146176608bf460.jpg' | relative_url }}" alt="Listing image for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover"><img src="{{ '/assets/images/marketplace-covers/37e1fc094899359e87d2.jpg' | relative_url }}" alt="Listing image for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="{{ '/assets/images/marketplace-covers/2781fd9e9858633c2124.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,15 +544,15 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="{{ '/assets/images/marketplace-covers/f52bec22c2fa875efffc.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation"><img src="https://i.ebayimg.com/images/g/Vc0AAeSwxO5ptcYy/s-l225.jpg" alt="Listing image for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -635,15 +560,15 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Family Planner Weekly Planner+Monthly Planner+Habit Tracker+..."><img src="https://i.ebayimg.com/images/g/5VcAAeSwA7pqEcSp/s-l225.jpg" alt="Listing image for Magnetic Whiteboard Family Planner Weekly Planner+Monthly Planner+Habit Tracker+..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Family Planner Weekly Planner+Monthly Planner+Habit Tracker+...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -651,15 +576,15 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl"><img src="{{ '/assets/images/marketplace-covers/3600932120a919340b81.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/BOYAAeSwxgZpukgY/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -667,7 +592,7 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-cues-18a9c3-can-your-environment-start-the-habit-for-you-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-environment-start-the-habit-for-you-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="can-your-environment-start-the-habit-for-you-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -744,17 +669,31 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -767,42 +706,73 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -817,144 +787,148 @@ A kettle boiling, a notebook left open, a pair of trainers by the door, or a too
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dornsife.usc.edu  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeHabit formation and change - USC Dornsifeby L Carden · 2018 · Cited by 351 — In this way, behavior change apps can facilitate...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: [https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017)  
+   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This means that the cues not...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>new habits at work through implementation intentionsAug 9, 2024 — Various studies show that implementation intentions promote the formati...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/prompts](https://www.behaviormodel.org/prompts)  
+   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelPrompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design eff...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936](https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — They found that participants with implementatio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thebehavioralscientist.com  
-   Link: [https://www.thebehavioralscientist.com/glossary/implementation-intentions](https://www.thebehavioralscientist.com/glossary/implementation-intentions)  
+   Link: <a href="https://www.thebehavioralscientist.com/glossary/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/glossary/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: How If-Then Plans Bridge the Intent...Implementation intentions are specific if-then plans that link a situati...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: vocus.cc  
-   Link: [https://vocus.cc/article/63a096c8fd89780001022028](https://vocus.cc/article/63a096c8fd89780001022028)  
+   Link: <a href="https://vocus.cc/article/63a096c8fd89780001022028" target="_blank" rel="noopener noreferrer nofollow">https://vocus.cc/article/63a096c8fd89780001022028</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>法格行為模型（Fogg Behavior Model）Dec 19, 2022 — 法格行為模型是用來拆解人類行為的一個公式，任何行為都可以拆解成三要素：動機（Motivation）、能力（Ability）、觸發點（Trigger）。 · 可以簡化為公式：行為（...Re...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: productmindset.substack.com  
    Title: fogg behavior model  
-   Link: [https://productmindset.substack.com/p/fogg-behavior-model](https://productmindset.substack.com/p/fogg-behavior-model)  
+   Link: <a href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://productmindset.substack.com/p/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: B J Fogg  
-   Link: [https://www.youtube.com/watch?v=l3KNiPHhB9s](https://www.youtube.com/watch?v=l3KNiPHhB9s)  
+   Link: <a href="https://www.youtube.com/watch?v=l3KNiPHhB9s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l3KNiPHhB9s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg - How To Think Clearly About Behavior Change...BJ Fogg - How To Think Clearly About Behavior Change | Nudgestock 2020... Forget...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069](https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069)  
+   Link: <a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesHow Understanding Motivation, Ability, and Prompts Can Enhance User Engagement and D...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40userpsychologist/theory-of-behavior-foggs-behavior-model-161f879015c8](https://medium.com/%40userpsychologist/theory-of-behavior-foggs-behavior-model-161f879015c8)  
+   Link: <a href="https://medium.com/%40userpsychologist/theory-of-behavior-foggs-behavior-model-161f879015c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40userpsychologist/theory-of-behavior-foggs-behavior-model-161f879015c8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg&#x27;s Behavior Model | by Suleyman OzturkMotivation, ability, and trigger must occur at the same moment, or else the behavior will not h...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: smstoolkit.nz  
-   Link: [https://www.smstoolkit.nz/goal-setting-and-action-planning](https://www.smstoolkit.nz/goal-setting-and-action-planning)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Goal setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; action planningGoal setting is one of the simplest yet most effective [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) you can use to assist b...</p></details>
+   Link: <a href="https://www.smstoolkit.nz/goal-setting-and-action-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.smstoolkit.nz/goal-setting-and-action-planning</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Goal setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; action planningGoal setting is one of the simplest yet most effective techniques you can use to assist [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relat...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: therapyroute.com  
-   Link: [https://www.therapyroute.com/article/habit-formation-by-therapyroute](https://www.therapyroute.com/article/habit-formation-by-therapyroute)  
+   Link: <a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit FormationContext: The specific environment or circumstances in which the habit occurs.... Visual Cues: Using reminders and prompts...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 381290900 PH49 Behaviour change individual approaches NICE Guideline  
-   Link: [https://www.researchgate.net/publication/381290900_PH49_Behaviour_change_individual_approaches_NICE_Guideline](https://www.researchgate.net/publication/381290900_PH49_Behaviour_change_individual_approaches_NICE_Guideline)  
+   Link: <a href="https://www.researchgate.net/publication/381290900_PH49_Behaviour_change_individual_approaches_NICE_Guideline" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381290900_PH49_Behaviour_change_individual_approaches_NICE_Guideline</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) PH49 Behaviour change: individual approaches...11 Jun 2024 — This guideline covers changing health-damaging behaviours among peopl...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: research.birmingham.ac.uk  
    Title: investigating the impact of adding plan reminders on implementati  
-   Link: [https://research.birmingham.ac.uk/en/publications/investigating-the-impact-of-adding-plan-reminders-on-implementati/](https://research.birmingham.ac.uk/en/publications/investigating-the-impact-of-adding-plan-reminders-on-implementati/)  
+   Link: <a href="https://research.birmingham.ac.uk/en/publications/investigating-the-impact-of-adding-plan-reminders-on-implementati/" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/investigating-the-impact-of-adding-plan-reminders-on-implementati/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the impact of adding plan reminders on...by A Wicaksono · 2019 · Cited by 34 — Implementation intentions (if–then plan) have been found...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 45 — Provided that the cue-action link that is formed by the impl...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 351 — For example, implementation intentions help people to remember to act on in...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: clinicaltrial.be  
-   Link: [https://clinicaltrial.be/nl/details/265357?only_eligible=0&only_recruiting=0&per_page=100](https://clinicaltrial.be/nl/details/265357?only_eligible=0&only_recruiting=0&per_page=100)  
+   Link: <a href="https://clinicaltrial.be/nl/details/265357?only_eligible=0&amp;only_recruiting=0&amp;per_page=100" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrial.be/nl/details/265357?only_eligible=0&amp;only_recruiting=0&amp;per_page=100</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n effective means of changing behaviour, and that such changes in behaviour...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nice.org.uk  
    Title: behaviour change individual approaches pdf 1996366337989  
-   Link: [https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989](https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches2 Jan 2014 — This guideline covers changing health-damaging behaviours among people aged 16 and ov...</p></details>

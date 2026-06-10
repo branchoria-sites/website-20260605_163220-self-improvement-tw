@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:23:18'
 parent_title: How to Stop the Next Episode Trap | Better Change
 parent_permalink: /sleep-first/
 parent_nav_short_title: Sleep First
@@ -265,7 +266,6 @@ next_link:
   permalink: /cliffhangers/
   short_title: Cliffhangers
   heading_title: Why Cliffhangers Keep Your Brain Awake
-date: '2026-06-05 16:23:18 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_calm_shutdown_reward_bdf0a6-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_calm_shutdown_reward_bdf0a6-Illustration-1.webp
@@ -824,138 +824,138 @@ That shift may seem minor, but it addresses a central problem of late-night view
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 285 — This study provides init...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Is binge-watching competing with sleep?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7792893/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7792893/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7792893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7792893/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>And winning? - PMCby RD Jindal · 2020 · Cited by 3 — Presleep arousal to be a putative mediator in the association between binge-watching...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived reward can...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sleepfoundation.org  
    Title: reading before bed  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/reading-before-bed](https://www.sleepfoundation.org/sleep-hygiene/reading-before-bed)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/reading-before-bed" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/reading-before-bed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationReading Before Bed24 Jul 2025 — Physical relaxation: When a person reads in bed, their heart slows and their muscles rele...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sleepfoundation.org  
    Title: bedtime routine for adults  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults](https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationHow to Build a Better Bedtime Routine for AdultsJul 22, 2025 — Decide on a Set Bedtime · Put Away Electronics · Have a Li...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sleepfoundation.org  
    Title: Sleep Foundation Can't Sleep?  
-   Link: [https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep](https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Techniques to Try10 Jul 2025 — From progressive muscle relaxation and deep breathing to guided imagery, mindfulness meditation, and mor...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: realsimple.com  
-   Link: [https://www.realsimple.com/nighttime-habits-for-better-sleep-7503563](https://www.realsimple.com/nighttime-habits-for-better-sleep-7503563)  
+   Link: <a href="https://www.realsimple.com/nighttime-habits-for-better-sleep-7503563" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/nighttime-habits-for-better-sleep-7503563</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts suggest having dinner at least 2-3 hours before sleep to avoid issues like heartburn. It&#x27;s also beneficial to limit caffeine, nic...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sleepfoundation.org  
    Title: relaxation exercises to help fall asleep  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/relaxation-exercises-to-help-fall-asleep](https://www.sleepfoundation.org/sleep-hygiene/relaxation-exercises-to-help-fall-asleep)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/relaxation-exercises-to-help-fall-asleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/relaxation-exercises-to-help-fall-asleep</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 24, 2025 — Taking slow, deep breaths is one of the easiest and most basic ways to engage your body&#x27;s natural relaxation response...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sleepfoundation.org  
    Title: sleep hygiene  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene](https://www.sleepfoundation.org/sleep-hygiene)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Sleep Hygiene: Your Path to Quality SleepJul 7, 2025 — Strong sleep hygiene means having both a bedroom [environment](&amp;#123;&amp;#123; &#x27;environment/&#x27; | relative_url &amp;#125;&amp;#125;) and daily r...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sleepfoundation.org  
    Title: healthy sleep tips  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/healthy-sleep-tips](https://www.sleepfoundation.org/sleep-hygiene/healthy-sleep-tips)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/healthy-sleep-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/healthy-sleep-tips</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Sleep BetterOct 31, 2025 — You want a strong mental association between your bed and sleep, so try to keep activities in your bed...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sleepfoundation.org  
    Title: bedtime routine  
-   Link: [https://www.sleepfoundation.org/children-and-sleep/bedtime-routine](https://www.sleepfoundation.org/children-and-sleep/bedtime-routine)  
+   Link: <a href="https://www.sleepfoundation.org/children-and-sleep/bedtime-routine" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/bedtime-routine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perfecting Your Child&#x27;s Bedtime Routine23 Jul 2025 — A bedtime routine for kids usually consists of three or four activities, for example...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sleepfoundation.org  
    Title: how to relieve stress for bedtime  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/how-to-relieve-stress-for-bedtime](https://www.sleepfoundation.org/sleep-hygiene/how-to-relieve-stress-for-bedtime)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/how-to-relieve-stress-for-bedtime" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/how-to-relieve-stress-for-bedtime</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 24, 2025 — Relaxation techniques can help lead to a slower heart rate and breathing pattern, a lower blood pressure, and an overall f...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sleepfoundation.org  
    Title: how to fall asleep fast  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/how-to-fall-asleep-fast](https://www.sleepfoundation.org/sleep-hygiene/how-to-fall-asleep-fast)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/how-to-fall-asleep-fast" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/how-to-fall-asleep-fast</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expert-Backed Strategies22 Jul 2025 — From simple behavioral tweaks to relaxation techniques backed by science, there are plenty of ways...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sleepfoundation.org  
    Title: how to get more deep sleep  
-   Link: [https://www.sleepfoundation.org/stages-of-sleep/how-to-get-more-deep-sleep](https://www.sleepfoundation.org/stages-of-sleep/how-to-get-more-deep-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/stages-of-sleep/how-to-get-more-deep-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/stages-of-sleep/how-to-get-more-deep-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for a Restful Night29 Jul 2025 — We discuss tips to help people get more deep sleep naturally, including the benefits of a consisten...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sleepfoundation.org  
    Title: adhd and sleep  
-   Link: [https://www.sleepfoundation.org/mental-health/adhd-and-sleep](https://www.sleepfoundation.org/mental-health/adhd-and-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/mental-health/adhd-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/mental-health/adhd-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Problems: How Are They Related?9 Oct 2025 — Sleep and ADHD have a bidirectional relationship. Learn how ADHD can cause insomnia, and how...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: consultant360.com  
-   Link: [https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep](https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep)  
+   Link: <a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Watching Linked to Poorer SleepBinge watching is associated with poorer sleep quality, fatigue, and symptoms of insomnia, according...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/949792731/Binge-Watching-and-Sleep-Patterns-in-University-Students-a-Direct-Look-at-Media-s-Impact-on-Health-1](https://www.scribd.com/document/949792731/Binge-Watching-and-Sleep-Patterns-in-University-Students-a-Direct-Look-at-Media-s-Impact-on-Health-1)  
+   Link: <a href="https://www.scribd.com/document/949792731/Binge-Watching-and-Sleep-Patterns-in-University-Students-a-Direct-Look-at-Media-s-Impact-on-Health-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/949792731/Binge-Watching-and-Sleep-Patterns-in-University-Students-a-Direct-Look-at-Media-s-Impact-on-Health-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge-Watching&#x27;s Impact on Student Sleep | PDF16 Nov 2025 — These mechanisms collectively disrupt sleep quality, reinforcing the link bet...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: minihabits.com  
-   Link: [https://minihabits.com/dont-use-rewards-for-[motivation](https://minihabits.com/dont-use-rewards-for-[motivation)  
+   Link: <a href="https://minihabits.com/dont-use-rewards-for-[motivation" target="_blank" rel="noopener noreferrer nofollow">https://minihabits.com/dont-use-rewards-for-[motivation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Use Rewards for MotivationScience agrees, and gives one more reason not to plan rewards for behaviors. “Surprise rewards” are actua...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: weber.edu  
-   Link: [https://www.weber.edu/academicpeercoaching/blog/forming-habits.html](https://www.weber.edu/academicpeercoaching/blog/forming-habits.html)  
+   Link: <a href="https://www.weber.edu/academicpeercoaching/blog/forming-habits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weber.edu/academicpeercoaching/blog/forming-habits.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming Habits Without Much AdoHabits are created by putting together a cue, a routine, and a reward, and then cultivating a craving that...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/three-steps-habit-change](https://jamesclear.com/three-steps-habit-change)  
+   Link: <a href="https://jamesclear.com/three-steps-habit-change" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/three-steps-habit-change</a>  
 
 21. <a id="endnote-21"></a>
    Source: thensf.org  
-   Link: [https://www.thensf.org/sleep-tips/](https://www.thensf.org/sleep-tips/)  
+   Link: <a href="https://www.thensf.org/sleep-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/sleep-tips/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Sleep FoundationSleep TipsIt&#x27;s important for your body to have a regular sleeping schedule. Set a relaxing bedtime routine, such...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: seattleanxiety.com  
-   Link: [https://seattleanxiety.com/sleep-hygiene](https://seattleanxiety.com/sleep-hygiene)  
+   Link: <a href="https://seattleanxiety.com/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow">https://seattleanxiety.com/sleep-hygiene</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep HygieneRegular exercise is a common sleep hygiene recommendation, with the caveat that exercise should be avoided within three hour...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-mission/dont-use-rewards-for-motivation-e88c933e26a3](https://medium.com/the-mission/dont-use-rewards-for-motivation-e88c933e26a3)  
+   Link: <a href="https://medium.com/the-mission/dont-use-rewards-for-motivation-e88c933e26a3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mission/dont-use-rewards-for-motivation-e88c933e26a3</a>  
 
 24. <a id="endnote-24"></a>
    Source: gocivilairpatrol.com  
-   Link: [https://www.gocivilairpatrol.com/media/cms/Sleeping_Tips__Tricks__National_Sle_1A0C3815BCC97.pdf](https://www.gocivilairpatrol.com/media/cms/Sleeping_Tips__Tricks__National_Sle_1A0C3815BCC97.pdf)  
+   Link: <a href="https://www.gocivilairpatrol.com/media/cms/Sleeping_Tips__Tricks__National_Sle_1A0C3815BCC97.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gocivilairpatrol.com/media/cms/Sleeping_Tips__Tricks__National_Sle_1A0C3815BCC97.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A relaxing, routine activity right before bedtime conducted away from bright lights helps separate your sleep time from...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 318641198 Binge Viewing Sleep and the Role of Pre Sleep Arousal  
-   Link: [https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal](https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal)  
+   Link: <a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal16 Aug 2017 — A study provides preliminary evidence that modern viewing styles suc...</p></details>

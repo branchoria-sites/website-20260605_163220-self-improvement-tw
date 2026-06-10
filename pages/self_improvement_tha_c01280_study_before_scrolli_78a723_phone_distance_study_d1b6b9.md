@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_ph
 
 ## Introduction
 
-One of the simplest ways to protect a study session is to move the [phone out of]({{ 'phone-distance/' | relative_url }}) reach before the first page is read, the first problem is attempted, or the first note is written. This matters because the opening minutes of a study block are unusually fragile. If the phone is already on the desk, checking it can become the default behaviour before academic work has gained any momentum. The goal is not permanent phone avoidance. It is to create a short protected window—roughly the first ten minutes—during which studying becomes the activity that gets started first.
+One of the simplest ways to protect a study session is to move the phone out of reach before the first page is read, the first problem is attempted, or the first note is written. This matters because the opening minutes of a study block are unusually fragile. If the phone is already on the desk, checking it can become the default behaviour before academic work has gained any momentum. The goal is not permanent phone avoidance. It is to create a short protected window—roughly the first ten minutes—during which studying becomes the activity that gets started first.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-dark.svg" | relative_url }}" alt="Phone Distance illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,7 +286,7 @@ Many students think distraction begins when they unlock the screen. The evidence
 
 A widely cited series of experiments from the University of Texas found that participants performed best on demanding cognitive tasks when their phones were in another room. Performance was weaker when phones were kept in a pocket, bag, or on the desk. The researchers argued that part of attention may be consumed simply by resisting the urge to check the device. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</span></span></span>
 
-Later research has produced a more mixed picture. Some replication studies have failed to find equally strong effects, while several meta-analyses conclude that the impact of phone presence is generally small rather than overwhelming. Even so, the overall evidence suggests that visible smartphones can impose a measurable attentional cost, particularly during tasks that require working memory and sustained concentration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Technology,]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReexamining the “brain drain” effect: A replication of Ward...by ACR Pardo · 2022 · Cited by 24 — The present study found t...</span></span></span> Mind, and Behavior](#endnote-14 "Snippet: Technology, Mind, and BehaviorThe Effect of Mere Presence of Smartphone on Cognitive...by A Hartanto · 2024 · Cited by 10 — To reconcile")
+Later research has produced a more mixed picture. Some replication studies have failed to find equally strong effects, while several meta-analyses conclude that the impact of phone presence is generally small rather than overwhelming. Even so, the overall evidence suggests that visible smartphones can impose a measurable attentional cost, particularly during tasks that require working memory and sustained concentration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Technology,]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reexamining the “brain drain” effect: A replication of Ward...by ACR Pardo · 2022 · Cited by 24 — The present study found t...</span></span></span> Mind, and Behavior](#endnote-14 "Snippet: Technology, Mind, and BehaviorThe Effect of Mere Presence of Smartphone on Cognitive...by A Hartanto · 2024 · Cited by 10 — To reconcile")
 
 For a student starting a study session, this distinction is important. The first ten minutes are not usually spent solving the hardest problems. They are spent establishing focus. During that stage, even a small attentional drain can be enough to trigger a checking habit before meaningful work has begun.
 
@@ -345,7 +345,7 @@ Useful options include:
 
 </div>
 
-Research on notifications consistently shows that alerts can disrupt attention and cognitive control. Even brief signals can pull attention away from an ongoing task and encourage checking behaviour. Recent work suggests that notifications create immediate attentional shifts, while notification suppression is associated with longer periods of uninterrupted focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study examined the effects of...</span></span></span>
+Research on notifications consistently shows that alerts can disrupt attention and cognitive control. Even brief signals can pull attention away from an ongoing task and encourage checking behaviour. Recent work suggests that notifications create immediate attentional shifts, while notification suppression is associated with longer periods of uninterrupted focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study examined the effects of...</span></span></span>
 
 Another common problem is anxiety about missing something important. For those students, a scheduled check can work better than total restriction. For example, placing the phone across the room and allowing a two-minute check after the first ten minutes preserves the protective barrier while reducing worry about being unreachable.
 
@@ -445,7 +445,7 @@ For students trying to study before scrolling, the first victory is often not an
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -455,111 +455,36 @@ For students trying to study before scrolling, the first victory is often not an
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android"><img src="https://i.ebayimg.com/images/g/gakAAeSw9zpqF9vd/s-l225.jpg" alt="Listing image for Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,"><img src="{{ '/assets/images/marketplace-covers/7dfaf475c242d68e5cc4.jpg' | relative_url }}" alt="Listing image for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +492,15 @@ For students trying to study before scrolling, the first victory is often not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cell Phone Lock Box with Timer, Portable Time Lock and for iphone Box /UK✅"><img src="https://i.ebayimg.com/images/g/1D4AAOSwhl1mYBTn/s-l225.jpg" alt="Listing image for Cell Phone Lock Box with Timer, Portable Time Lock and for iphone Box /UK✅" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Cell Phone Lock Box with Timer, Portable Time Lock and for iphone Box /UK✅</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +508,15 @@ For students trying to study before scrolling, the first victory is often not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box"><img src="https://i.ebayimg.com/images/g/jtAAAeSwcYFoZNDi/s-l225.jpg" alt="Listing image for Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +524,15 @@ For students trying to study before scrolling, the first victory is often not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 48- Slot Mobile Phone Wall-Mountable Deposit Box Lock Box"><img src="https://i.ebayimg.com/images/g/aW0AAeSw~WhqFpTD/s-l225.jpg" alt="Listing image for 48- Slot Mobile Phone Wall-Mountable Deposit Box Lock Box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">48- Slot Mobile Phone Wall-Mountable Deposit Box Lock Box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,7 +540,7 @@ For students trying to study before scrolling, the first victory is often not an
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-4e9bd1-why-the-phone-belongs-across-the-room-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -692,17 +617,31 @@ For students trying to study before scrolling, the first victory is often not an
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -715,42 +654,73 @@ For students trying to study before scrolling, the first victory is often not an
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -765,144 +735,148 @@ For students trying to study before scrolling, the first victory is often not an
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017](https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017)  
+   Link: <a href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691822002323](https://www.sciencedirect.com/science/article/pii/S0001691822002323)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectReexamining the “brain drain” effect: A replication of Ward...by ACR Pardo · 2022 · Cited by 24 — The present study found t...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691822002323" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002323</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reexamining the “brain drain” effect: A replication of Ward...by ACR Pardo · 2022 · Cited by 24 — The present study found t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study examined the effects of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.22657](https://arxiv.org/abs/2605.22657)  
+   Link: <a href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.22657</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>mere presence of a smartphone reduces basal attentional...by J Skowronek · 2023 · Cited by 104 — The smartphone may use limited cognitiv...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563226000233](https://www.sciencedirect.com/science/article/pii/S0747563226000233)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563226000233" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563226000233</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How social media notifications disrupt cognitive processingby H Fournier · 2026 · Cited by 1 — Observational studies show that disabling...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0301051123002454](https://www.sciencedirect.com/science/article/abs/pii/S0301051123002454)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301051123002454" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0301051123002454</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electrophysiological effects of smartphone notifications on...by JD Upshaw · 2024 · Cited by 6 — These results provide evidence supporti...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: Does a smartphone on the desk drain our brain?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975](https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>M Hartmann · 2020 · Cited by 40 — We found no overall effect of smartphone presence on short-term and prospective memory perform...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563222001558](https://www.sciencedirect.com/science/article/abs/pii/S0747563222001558)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222001558" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222001558</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the context of focused work, however, smartphone presence may be problematic.Read...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Can smartphone presence affect cognitive function?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217](https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>G Niu · 2022 · Cited by 52 — This study examines the influence of smartphones on cognitive function and the potential moderatin...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.uchicago.edu  
-   Link: [https://www.journals.uchicago.edu/doi/full/10.1086/691462](https://www.journals.uchicago.edu/doi/full/10.1086/691462)  
+   Link: <a href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/full/10.1086/691462</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: news.utexas.edu  
    Title: the mere presence of your smartphone reduces brain power  
-   Link: [https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/](https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/)  
+   Link: <a href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow">https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tmb.apaopen.org  
-   Link: [https://tmb.apaopen.org/pub/7np97zr5](https://tmb.apaopen.org/pub/7np97zr5)  
+   Link: <a href="https://tmb.apaopen.org/pub/7np97zr5" target="_blank" rel="noopener noreferrer nofollow">https://tmb.apaopen.org/pub/7np97zr5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology, Mind, and BehaviorThe Effect of Mere Presence of Smartphone on Cognitive...by A Hartanto · 2024 · Cited by 10 — To reconcile...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/315966604_Brain_Drain_The_Mere_Presence_of_One%27s_Own_Smartphone_Reduces_Available_Cognitive_Capacity](https://www.researchgate.net/publication/315966604_Brain_Drain_The_Mere_Presence_of_One%27s_Own_Smartphone_Reduces_Available_Cognitive_Capacity)  
+   Link: <a href="https://www.researchgate.net/publication/315966604_Brain_Drain_The_Mere_Presence_of_One%27s_Own_Smartphone_Reduces_Available_Cognitive_Capacity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315966604_Brain_Drain_The_Mere_Presence_of_One%27s_Own_Smartphone_Reduces_Available_Cognitive_Capacity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Drain: The Mere Presence of One&#x27;s Own Smartphone...3 Apr 2017 — In this research, we test the “brain drain” hypothesis that the me...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tandf.figshare.com  
-   Link: [https://tandf.figshare.com/articles/journal_contribution/Does_the_Mere_Presence_of_a_Smartphone_Impact_Cognitive_Performance_A_Meta-Analysis_of_the_Brain_Drain_Effect_/24630852](https://tandf.figshare.com/articles/journal_contribution/Does_the_Mere_Presence_of_a_Smartphone_Impact_Cognitive_Performance_A_Meta-Analysis_of_the_Brain_Drain_Effect_/24630852)  
+   Link: <a href="https://tandf.figshare.com/articles/journal_contribution/Does_the_Mere_Presence_of_a_Smartphone_Impact_Cognitive_Performance_A_Meta-Analysis_of_the_Brain_Drain_Effect_/24630852" target="_blank" rel="noopener noreferrer nofollow">https://tandf.figshare.com/articles/journal_contribution/Does_the_Mere_Presence_of_a_Smartphone_Impact_Cognitive_Performance_A_Meta-Analysis_of_the_Brain_Drain_Effect_/24630852</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Mere Presence of a Smartphone Impact...Nov 24, 2023 — &lt;p&gt;A growing body of research investigates the general possibility that the me...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/364467331_Does_the_mere_presence_of_a_smartphone_impact_cognitive_performance_A_meta-analysis_of_the_brain_drain_effect](https://www.researchgate.net/publication/364467331_Does_the_mere_presence_of_a_smartphone_impact_cognitive_performance_A_meta-analysis_of_the_brain_drain_effect)  
+   Link: <a href="https://www.researchgate.net/publication/364467331_Does_the_mere_presence_of_a_smartphone_impact_cognitive_performance_A_meta-analysis_of_the_brain_drain_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364467331_Does_the_mere_presence_of_a_smartphone_impact_cognitive_performance_A_meta-analysis_of_the_brain_drain_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Does the mere presence of a smartphone impact...Dec 3, 2025 — The meta-analysis provides little evidence to [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) the existence...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: psypost.org  
    Title: new psychology research reveals the cognitive cost of smartphone notifications  
-   Link: [https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/](https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/)  
+   Link: <a href="https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New psychology research reveals the cognitive cost of...18 Mar 2026 — A recent study in Computers in Human Behavior provides evidence th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: lonestarneurology.net  
    Title: the impact of smartphone addiction on cognitive function and attention span  
-   Link: [https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/](https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/)  
+   Link: <a href="https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/" target="_blank" rel="noopener noreferrer nofollow">https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone Addiction: Effects on Cognition &amp; AttentionApr 9, 2025 — Studies have shown that excessive smartphone use can disrupt memory...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eu-jer.com  
    Title: The present experiment sought to better understand this phenomenon  
-   Link: [https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction](https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction)  
+   Link: <a href="https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cell Phone Notifications Harm Attention: An Exploration of...by A Kaminske · 2022 · Cited by 38 — Recent research has found that the pre...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: research.vu.nl  
    Title: does the mere presence of a smartphone impact cognitive performan  
-   Link: [https://research.vu.nl/en/publications/does-the-mere-presence-of-a-smartphone-impact-cognitive-performan/](https://research.vu.nl/en/publications/does-the-mere-presence-of-a-smartphone-impact-cognitive-performan/)  
+   Link: <a href="https://research.vu.nl/en/publications/does-the-mere-presence-of-a-smartphone-impact-cognitive-performan/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/does-the-mere-presence-of-a-smartphone-impact-cognitive-performan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Mere Presence of a Smartphone Impact...by DA Parry · 2024 · Cited by 26 — A growing body of research investigates the general possib...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nowcomment.com  
-   Link: [https://nowcomment.com/documents/169447](https://nowcomment.com/documents/169447)  
+   Link: <a href="https://nowcomment.com/documents/169447" target="_blank" rel="noopener noreferrer nofollow">https://nowcomment.com/documents/169447</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>f one&#x27;s own smartphone may occupy limited-capacity cognitive resources, thereby...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: hbr.org  
    Title: having your smartphone nearby takes a toll on your thinking  
-   Link: [https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)  
+   Link: <a href="https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Having Your Smartphone Nearby Takes a Toll on...20 Mar 2018 — In recent research, we investigated whether merely having one&#x27;s own smartp...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: interruptions.net  
-   Link: [https://interruptions.net/literature/Kushlev-CHI16.pdf](https://interruptions.net/literature/Kushlev-CHI16.pdf)  
+   Link: <a href="https://interruptions.net/literature/Kushlev-CHI16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://interruptions.net/literature/Kushlev-CHI16.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Silence Your Phones”: Smartphone Notifications Increase...by K Kushlev · Cited by 404 — A wealth of basic research and theory documents...</p></details>

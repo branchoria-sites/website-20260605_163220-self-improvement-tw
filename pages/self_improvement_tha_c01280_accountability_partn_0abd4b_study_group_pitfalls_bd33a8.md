@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:04:44'
 parent_title: What Makes an Accountability Partner Useful? | Better Change
 parent_permalink: /accountability/
 parent_nav_short_title: Accountability
@@ -259,7 +260,6 @@ next_link:
   permalink: /check-ins/
   short_title: Check ins
   heading_title: Make check ins specific enough to matter
-date: '2026-06-05 16:04:44 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-1.webp
@@ -272,7 +272,7 @@ A study group becomes ineffective when learning is replaced by dependency. The m
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-1-dark.svg" | relative_url }}" alt="A Study Group illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The solution is usually not to abolish the group. Well-structured peer learning can improve understanding and accountability. The challenge is to redesign the group so that every member arrives with work already done and a visible contribution to make. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cte.tamu.edu/resources/practical-guide-effective-group-work.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cte.tamu.edu">[cte.tamu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cte.tamu.edu</span><span class="citation-popover-snippet">A Practical Guide to Effective Group WorkIndividual Accountability: Each member demonstrates learning and effort. Interaction: Students a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bokcenter.harvard.edu/group-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bokcenter.harvard.edu">[Harvard Bok Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bokcenter.harvard.edu</span><span class="citation-popover-snippet">Harvard Bok CenterGroup Work | The Derek Bok Center for Teaching and LearningThis guide is intended to be short and simply written for st...</span></span></span>
+The solution is usually not to abolish the group. Well-structured peer learning can improve understanding and accountability. The challenge is to redesign the group so that every member arrives with work already done and a visible contribution to make. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cte.tamu.edu/resources/practical-guide-effective-group-work.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cte.tamu.edu">[cte.tamu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cte.tamu.edu</span><span class="citation-popover-snippet">A Practical Guide to Effective Group WorkIndividual Accountability: Each member demonstrates learning and effort. Interaction: Students a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bokcenter.harvard.edu/group-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bokcenter.harvard.edu">[Harvard Bok Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bokcenter.harvard.edu</span><span class="citation-popover-snippet">Harvard Bok CenterGroup Work &#124; The Derek Bok Center for Teaching and LearningThis guide is intended to be short and simply written for st...</span></span></span>
 
 ## The Common Failure Pattern
 
@@ -323,9 +323,9 @@ A practical structure is to require preparation evidence before each session. Fo
 
 The goal is not bureaucracy. It is making preparation observable.
 
-Another useful rule is rotating expertise. Instead of allowing one person to become the permanent explainer, assign topics in advance. If four people attend, four people should arrive responsible for different sections. This prevents knowledge from concentrating in a single member and forces active engagement across the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bokcenter.harvard.edu/group-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bokcenter.harvard.edu">[Harvard Bok Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bokcenter.harvard.edu</span><span class="citation-popover-snippet">Harvard Bok CenterGroup Work | The Derek Bok Center for Teaching and LearningThis guide is intended to be short and simply written for st...</span></span></span>
+Another useful rule is rotating expertise. Instead of allowing one person to become the permanent explainer, assign topics in advance. If four people attend, four people should arrive responsible for different sections. This prevents knowledge from concentrating in a single member and forces active engagement across the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bokcenter.harvard.edu/group-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bokcenter.harvard.edu">[Harvard Bok Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bokcenter.harvard.edu</span><span class="citation-popover-snippet">Harvard Bok CenterGroup Work &#124; The Derek Bok Center for Teaching and LearningThis guide is intended to be short and simply written for st...</span></span></span>
 
-Groups also benefit from replacing passive review with [retrieval practice]({{ 'retrieval-groups/' | relative_url }}). Rather than asking, "Can someone explain chapter five?", members should attempt questions individually before discussion. Research on peer interaction suggests that learning gains are strongest when participants first think independently and then compare reasoning with others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.17302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Groups also benefit from replacing passive review with retrieval practice. Rather than asking, "Can someone explain chapter five?", members should attempt questions individually before discussion. Research on peer interaction suggests that learning gains are strongest when participants first think independently and then compare reasoning with others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.17302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A simple meeting structure often works better than an open-ended discussion:
 
@@ -385,7 +385,7 @@ Repair is most likely when:
 
 </div>
 
-Research on free-riding suggests that perceived fairness matters greatly. When expectations are explicit and workloads are visible, participation often improves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1473837621000150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectExploring antecedents of social loafing in students&#x27; group...by Z Luo · 2021 · Cited by 56 — This study explored antecedent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/14697874221118864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing free-riding in group projects in line with students&#x27;...by TM Benning · 2024 · Cited by 37 — In this study, we meas...</span></span></span>
+Research on free-riding suggests that perceived fairness matters greatly. When expectations are explicit and workloads are visible, participation often improves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1473837621000150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Exploring antecedents of social loafing in students&#x27; group...by Z Luo · 2021 · Cited by 56 — This study explored antecedent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/14697874221118864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing free-riding in group projects in line with students&#x27;...by TM Benning · 2024 · Cited by 37 — In this study, we meas...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-3-dark.svg" | relative_url }}" alt="A Study Group illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -516,121 +516,46 @@ In self-improvement that works, accountability should distribute effort, not con
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kitchen Silent Timer 60 Minute Count-Down Cooking Kids Study Time Management"><img src="https://i.ebayimg.com/images/g/Wt8AAOSwPMdnaefI/s-l225.jpg" alt="Listing image for Kitchen Silent Timer 60 Minute Count-Down Cooking Kids Study Time Management" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Kitchen Silent Timer 60 Minute Count-Down Cooking Kids Study Time Management</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -638,15 +563,15 @@ In self-improvement that works, accountability should distribute effort, not con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational"><img src="{{ '/assets/images/marketplace-covers/d68ce4bacc8af5c19b8a.jpg' | relative_url }}" alt="Listing image for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital 9999-Days Countdown Timer for Retirement Vacation Exam Wedding Study"><img src="https://i.ebayimg.com/images/g/KbEAAeSwkPhpntSv/s-l225.jpg" alt="Listing image for Digital 9999-Days Countdown Timer for Retirement Vacation Exam Wedding Study" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital 9999-Days Countdown Timer for Retirement Vacation Exam Wedding Study</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -654,15 +579,15 @@ In self-improvement that works, accountability should distribute effort, not con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Time Timer Countdown Visual Timer Classroom Kitchen Office Study Timer New"><img src="https://i.ebayimg.com/images/g/S8kAAeSwHRZp1MnF/s-l225.jpg" alt="Listing image for Time Timer Countdown Visual Timer Classroom Kitchen Office Study Timer New" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Time Timer Countdown Visual Timer Classroom Kitchen Office Study Timer New</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -670,15 +595,15 @@ In self-improvement that works, accountability should distribute effort, not con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 TIMES TABLES time table laminated multiplication educational kids Poster"><img src="{{ '/assets/images/marketplace-covers/c3636ebe44d1f0015b5d.jpg' | relative_url }}" alt="Listing image for A3 TIMES TABLES time table laminated multiplication educational kids Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LCD Kitchen Cooking Digital Timer Count Down Up, Alarm Study UK"><img src="https://i.ebayimg.com/images/g/SN4AAeSwqZdpHFAb/s-l225.jpg" alt="Listing image for LCD Kitchen Cooking Digital Timer Count Down Up, Alarm Study UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A3 TIMES TABLES time table laminated multiplication educational kids Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">LCD Kitchen Cooking Digital Timer Count Down Up, Alarm Study UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -686,7 +611,7 @@ In self-improvement that works, accountability should distribute effort, not con
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-study-group-when-study-groups-stop-being-useful-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -763,17 +688,31 @@ In self-improvement that works, accountability should distribute effort, not con
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -786,42 +725,73 @@ In self-improvement that works, accountability should distribute effort, not con
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -836,180 +806,184 @@ In self-improvement that works, accountability should distribute effort, not con
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: irrodl.org  
-   Link: [https://www.irrodl.org/index.php/irrodl/article/view/484/1034/](https://www.irrodl.org/index.php/irrodl/article/view/484/1034/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IRRODLPerceptions of Social Loafing in Online Learning Groupsby SL Piezon · 2008 · Cited by 198 — Free riding occurs when an individual d...</p></details>
+   Link: <a href="https://www.irrodl.org/index.php/irrodl/article/view/484/1034/" target="_blank" rel="noopener noreferrer nofollow">https://www.irrodl.org/index.php/irrodl/article/view/484/1034/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptions of Social Loafing in Online Learning Groupsby SL Piezon · 2008 · Cited by 198 — Free riding occurs when an individual d...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cte.tamu.edu  
-   Link: [https://cte.tamu.edu/resources/practical-guide-effective-group-work.html](https://cte.tamu.edu/resources/practical-guide-effective-group-work.html)  
+   Link: <a href="https://cte.tamu.edu/resources/practical-guide-effective-group-work.html" target="_blank" rel="noopener noreferrer nofollow">https://cte.tamu.edu/resources/practical-guide-effective-group-work.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Effective Group WorkIndividual Accountability: Each member demonstrates learning and effort. Interaction: Students a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bokcenter.harvard.edu  
-   Link: [https://bokcenter.harvard.edu/group-work](https://bokcenter.harvard.edu/group-work)  
+   Link: <a href="https://bokcenter.harvard.edu/group-work" target="_blank" rel="noopener noreferrer nofollow">https://bokcenter.harvard.edu/group-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Bok CenterGroup Work | The Derek Bok Center for Teaching and LearningThis guide is intended to be short and simply written for st...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2311.17302](https://arxiv.org/abs/2311.17302)  
+   Link: <a href="https://arxiv.org/abs/2311.17302" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.17302</a>  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/247753226_Social_Loafing_on_Group_ProjectsStructural_Antecedents_and_Effect_on_Student_Satisfaction](https://www.researchgate.net/publication/247753226_Social_Loafing_on_Group_ProjectsStructural_Antecedents_and_Effect_on_Student_Satisfaction)  
+   Link: <a href="https://www.researchgate.net/publication/247753226_Social_Loafing_on_Group_ProjectsStructural_Antecedents_and_Effect_on_Student_Satisfaction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247753226_Social_Loafing_on_Group_ProjectsStructural_Antecedents_and_Effect_on_Student_Satisfaction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Loafing on Group ProjectsStructural Antecedents...We study the impact of social loafing on students&#x27; satisfaction with group memb...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258124487_The_problem_of_free-riding_in_group_projects_Looking_beyond_social_loafing_as_reason_for_non-contribution](https://www.researchgate.net/publication/258124487_The_problem_of_free-riding_in_group_projects_Looking_beyond_social_loafing_as_reason_for_non-contribution)  
+   Link: <a href="https://www.researchgate.net/publication/258124487_The_problem_of_free-riding_in_group_projects_Looking_beyond_social_loafing_as_reason_for_non-contribution" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258124487_The_problem_of_free-riding_in_group_projects_Looking_beyond_social_loafing_as_reason_for_non-contribution</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The problem of free-riding in group projectsThis study involved surveying students (N = 205) from all faculties of an A...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1473837621000150](https://www.sciencedirect.com/science/article/abs/pii/S1473837621000150)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectExploring antecedents of social loafing in students&#x27; group...by Z Luo · 2021 · Cited by 56 — This study explored antecedent...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1473837621000150" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1473837621000150</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring antecedents of social loafing in students&#x27; group...by Z Luo · 2021 · Cited by 56 — This study explored antecedent...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/259081309_Individual_Accountability_in_Collaborative_Learning](https://www.researchgate.net/publication/259081309_Individual_Accountability_in_Collaborative_Learning)  
+   Link: <a href="https://www.researchgate.net/publication/259081309_Individual_Accountability_in_Collaborative_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259081309_Individual_Accountability_in_Collaborative_Learning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The workload distribution...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/215485932_Social_loafing_and_free_riding_in_online_learning_groups](https://www.researchgate.net/publication/215485932_Social_loafing_and_free_riding_in_online_learning_groups)  
+   Link: <a href="https://www.researchgate.net/publication/215485932_Social_loafing_and_free_riding_in_online_learning_groups" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/215485932_Social_loafing_and_free_riding_in_online_learning_groups</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social loafing and free riding in online learning groupsThis paper presents an overview of the psycho-social aspects of social loafing an...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395501221_Exploring_the_experiences_of_social_loafing_in_group_work_among_online_psychology_students](https://www.researchgate.net/publication/395501221_Exploring_the_experiences_of_social_loafing_in_group_work_among_online_psychology_students)  
+   Link: <a href="https://www.researchgate.net/publication/395501221_Exploring_the_experiences_of_social_loafing_in_group_work_among_online_psychology_students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395501221_Exploring_the_experiences_of_social_loafing_in_group_work_among_online_psychology_students</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Exploring the experiences of social loafing in group...22 Oct 2025 — Through a qualitative approach, this research explores how on...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384659859_Social_Loafing_Understanding_Mitigating_and_Enhancing_Group_Performance](https://www.researchgate.net/publication/384659859_Social_Loafing_Understanding_Mitigating_and_Enhancing_Group_Performance)  
+   Link: <a href="https://www.researchgate.net/publication/384659859_Social_Loafing_Understanding_Mitigating_and_Enhancing_Group_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384659859_Social_Loafing_Understanding_Mitigating_and_Enhancing_Group_Performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Loafing: Understanding, Mitigating, and Enhancing...5 Oct 2024 — Social loafing, a phenomenon in which individuals expend less ef...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hbsp.harvard.edu  
    Title: energize your online course with group work  
-   Link: [https://hbsp.harvard.edu/inspiring-minds/energize-your-online-course-with-group-work](https://hbsp.harvard.edu/inspiring-minds/energize-your-online-course-with-group-work)  
+   Link: <a href="https://hbsp.harvard.edu/inspiring-minds/energize-your-online-course-with-group-work" target="_blank" rel="noopener noreferrer nofollow">https://hbsp.harvard.edu/inspiring-minds/energize-your-online-course-with-group-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing Breakout Groups. If your students are not...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666374020300194](https://www.sciencedirect.com/science/article/pii/S2666374020300194)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666374020300194" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666374020300194</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Individualising teamwork scores based on peer assessmentby HB Shishavan · 2020 · Cited by 18 — Peer evaluation has been recommended as a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/08832320309598613](https://www.tandfonline.com/doi/abs/10.1080/08832320309598613)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08832320309598613" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08832320309598613</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFree Riding in Group Projects and the Effects of Timing...by CM Brooks · 2003 · Cited by 546 — The free-rider pro...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: experts.umn.edu  
-   Link: [https://experts.umn.edu/en/publications/social-loafing-on-group-projects-structural-antecedents-and-effec/](https://experts.umn.edu/en/publications/social-loafing-on-group-projects-structural-antecedents-and-effec/)  
+   Link: <a href="https://experts.umn.edu/en/publications/social-loafing-on-group-projects-structural-antecedents-and-effec/" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/social-loafing-on-group-projects-structural-antecedents-and-effec/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts@MinnesotaSocial loafing on group projects: Structural antecedents...by P Aggarwal · 2008 · Cited by 617 — A common problem with...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.11120/plan.2003.00090007](https://www.tandfonline.com/doi/full/10.11120/plan.2003.00090007)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.11120/plan.2003.00090007" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.11120/plan.2003.00090007</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineRunning group projects: dealing with the free-rider problemby P Levin · 2003 · Cited by 28 — This paper describes...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09639284.2022.2034023](https://www.tandfonline.com/doi/full/10.1080/09639284.2022.2034023)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09639284.2022.2034023" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09639284.2022.2034023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineManaging group work: the impact of peer assessment on...by OO Adesina · 2023 · Cited by 65 — This study investiga...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/14697874221118864](https://journals.sagepub.com/doi/abs/10.1177/14697874221118864)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/14697874221118864" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/14697874221118864</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReducing free-riding in group projects in line with students&#x27;...by TM Benning · 2024 · Cited by 37 — In this study, we meas...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: structural-learning.com  
    Title: social loafing  
-   Link: [https://www.structural-learning.com/post/social-loafing](https://www.structural-learning.com/post/social-loafing)  
+   Link: <a href="https://www.structural-learning.com/post/social-loafing" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/social-loafing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2026 — Research shows that social loafing can reduce learner effort in group tasks. Learners may feel less accountable and think t...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/social](https://dictionary.cambridge.org/us/dictionary/english/social)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| definition in the Cambridge English DictionarySOCIAL [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;): 1. relating to activities in which you meet and spend time with other peo...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/social</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English DictionarySOCIAL [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;): 1. relating to activities in which you meet and spend time with other peo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: learningcenter.unc.edu  
    Title: study partners  
-   Link: [https://learningcenter.unc.edu/tips-and-tools/study-partners/](https://learningcenter.unc.edu/tips-and-tools/study-partners/)  
+   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/study-partners/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/study-partners/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Groups - The Learning CenterThis handout shares tips for how to create effective, productive, positive study partnerships, whether in per...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: ssa.gov  
-   Link: [https://www.ssa.gov/](https://www.ssa.gov/)  
+   Link: <a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The United States Social Security AdministrationWith a secure my Social Security account, you can get services and manage your benefits—a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/us/dictionary/english/social](https://www.collinsdictionary.com/us/dictionary/english/social)  
+   Link: <a href="https://www.collinsdictionary.com/us/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/social</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOCIAL definition in American English1. of or having to do with human beings living together as a group in a situation in which their dea...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: teachingkb.mcgill.ca  
-   Link: [https://teachingkb.mcgill.ca/tlk/peer-assessment-of-contributions-to-teamwork](https://teachingkb.mcgill.ca/tlk/peer-assessment-of-contributions-to-teamwork)  
+   Link: <a href="https://teachingkb.mcgill.ca/tlk/peer-assessment-of-contributions-to-teamwork" target="_blank" rel="noopener noreferrer nofollow">https://teachingkb.mcgill.ca/tlk/peer-assessment-of-contributions-to-teamwork</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>assessment of contributions to teamworkThis article presents a four-stage framework—forming, storming, norming, and performing—for settin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/social](https://www.merriam-webster.com/dictionary/social)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/social" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/social</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOCIAL Definition &amp; MeaningThe meaning of SOCIAL is marked by or passed in pleasant companionship with friends or associates. How to use...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ovid.com  
    Title: edu0000713~taking a free ride how team learning affects social loafing  
-   Link: [https://www.ovid.com/journals/jedup/pdf/10.1037/edu0000713~taking-a-free-ride-how-team-learning-affects-social-loafing](https://www.ovid.com/journals/jedup/pdf/10.1037/edu0000713~taking-a-free-ride-how-team-learning-affects-social-loafing)  
+   Link: <a href="https://www.ovid.com/journals/jedup/pdf/10.1037/edu0000713~taking-a-free-ride-how-team-learning-affects-social-loafing" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jedup/pdf/10.1037/edu0000713~taking-a-free-ride-how-team-learning-affects-social-loafing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Team Learning Affects Social Loafingby C Gabelica · 2022 · Cited by 56 — Both team and collaborative learning research are rooted in...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: timeshighereducation.com  
    Title: use peer assessment give students more accountability group projects  
-   Link: [https://www.timeshighereducation.com/campus/use-peer-assessment-give-students-more-accountability-group-projects](https://www.timeshighereducation.com/campus/use-peer-assessment-give-students-more-accountability-group-projects)  
+   Link: <a href="https://www.timeshighereducation.com/campus/use-peer-assessment-give-students-more-accountability-group-projects" target="_blank" rel="noopener noreferrer nofollow">https://www.timeshighereducation.com/campus/use-peer-assessment-give-students-more-accountability-group-projects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Times Higher Education (THE)Use peer assessment to give students more accountability...22 May 2025 — Structured peer assessment can sign...</p></details>
    Published: May 2025  
 
 29. <a id="endnote-29"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/120722181/Taking_a_free_ride_How_team_learning_affects_social_loafing](https://www.academia.edu/120722181/Taking_a_free_ride_How_team_learning_affects_social_loafing)  
+   Link: <a href="https://www.academia.edu/120722181/Taking_a_free_ride_How_team_learning_affects_social_loafing" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/120722181/Taking_a_free_ride_How_team_learning_affects_social_loafing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social loafing on group projects: Structural antecedents and effect on student satisfaction.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ijopr.com  
    Title: diffusion of responsibility in group work social loafing 9316  
-   Link: [https://www.ijopr.com/article/diffusion-of-responsibility-in-group-work-social-loafing-9316](https://www.ijopr.com/article/diffusion-of-responsibility-in-group-work-social-loafing-9316)  
+   Link: <a href="https://www.ijopr.com/article/diffusion-of-responsibility-in-group-work-social-loafing-9316" target="_blank" rel="noopener noreferrer nofollow">https://www.ijopr.com/article/diffusion-of-responsibility-in-group-work-social-loafing-9316</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diffusion of responsibility in group work: Social loafingby ŞB Tosuntaş · 2020 · Cited by 59 — The aim of this research is to examine the...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/harvardbizedu_make-the-invisible-visible-in-student-group-activity-7361091632307310594-a_3w](https://www.linkedin.com/posts/harvardbizedu_make-the-invisible-visible-in-student-group-activity-7361091632307310594-a_3w)  
+   Link: <a href="https://www.linkedin.com/posts/harvardbizedu_make-the-invisible-visible-in-student-group-activity-7361091632307310594-a_3w" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/harvardbizedu_make-the-invisible-visible-in-student-group-activity-7361091632307310594-a_3w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>View organization page for Harvard Business Impact Education · Harvard Business...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
    Title: Social Security Administration (@socialsecurity)Go Digital!  
-   Link: [https://www.facebook.com/socialsecurity/](https://www.facebook.com/socialsecurity/)  
+   Link: <a href="https://www.facebook.com/socialsecurity/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/socialsecurity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find the answers you need, without the wait. Need information about Social Security? From forms to benefit details to frequently asked qu...</p></details>

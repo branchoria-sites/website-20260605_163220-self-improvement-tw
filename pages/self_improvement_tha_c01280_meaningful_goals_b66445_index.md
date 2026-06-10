@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-meaningful/
 description: Focused pages that expand on Meaning.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_meaningful_goals_b66445
 parent_title: Meaning | Self Improvement That Works

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:08:30'
 parent_title: How to Apologise Before Resentment Grows | Better Change
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
@@ -265,7 +266,6 @@ next_link:
   permalink: /timing/
   short_title: Timing
   heading_title: Should You Apologise Now or Listen First?
-date: '2026-06-05 16:08:30 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-1.webp
@@ -333,7 +333,7 @@ Consider these examples:
 
 Each one shifts attention away from the speaker's behaviour. The problem is not merely wording. The wording signals a deeper message: the speaker is protecting themselves before acknowledging the other person's experience.
 
-Psychologists who study apologies note that defensiveness often appears when people feel their self-image is threatened. A common response is to minimise, explain, or qualify the wrongdoing before recognising its impact. Yet apologies are generally more effective when responsibility is acknowledged directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666622725000176" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe role of apology beliefs for apology tendencies across...by A Kirchner-Häusler · 2025 · Cited by 2 — For instance, indiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">2003 HodginsLeibeskind JESP</span><span class="citation-popover-snippet">Self Determination TheoryApology versus defense: Antecedents and consequencesby HS Hodgins · 2003 · Cited by 273 — Past research has show...</span></span></span>
+Psychologists who study apologies note that defensiveness often appears when people feel their self-image is threatened. A common response is to minimise, explain, or qualify the wrongdoing before recognising its impact. Yet apologies are generally more effective when responsibility is acknowledged directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666622725000176" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The role of apology beliefs for apology tendencies across...by A Kirchner-Häusler · 2025 · Cited by 2 — For instance, indiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">2003 HodginsLeibeskind JESP</span><span class="citation-popover-snippet">Self Determination TheoryApology versus defense: Antecedents and consequencesby HS Hodgins · 2003 · Cited by 273 — Past research has show...</span></span></span>
 
 Certain phrases are especially risky in the first sentence:
 
@@ -858,164 +858,164 @@ That formula is not elegant. It is effective because it makes the other person w
 1. <a id="endnote-1"></a>
    Source: pon.harvard.edu  
    Title: the right way to say im sorry nb  
-   Link: [https://www.pon.harvard.edu/daily/conflict-resolution/the-right-way-to-say-im-sorry-nb/](https://www.pon.harvard.edu/daily/conflict-resolution/the-right-way-to-say-im-sorry-nb/)  
+   Link: <a href="https://www.pon.harvard.edu/daily/conflict-resolution/the-right-way-to-say-im-sorry-nb/" target="_blank" rel="noopener noreferrer nofollow">https://www.pon.harvard.edu/daily/conflict-resolution/the-right-way-to-say-im-sorry-nb/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard PonThe Right Way to Say I&#x27;m Sorry17 Jun 2016 — Of the six components, acknowledgment of responsibility and an offer of repair wer...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: health.harvard.edu  
    Title: the art of a heartfelt apology 2021041322366  
-   Link: [https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366](https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366)  
+   Link: <a href="https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard HealthThe art of a heartfelt apologyDec 21, 2023 — A successful apology validates that the other person felt offended, and acknow...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: hms.harvard.edu  
-   Link: [https://hms.harvard.edu/sites/default/files/Departments/Ombuds%20Office/files/M.Wagner.ColumbiaUniversity.OmbudsOffice.ThePowerofApologies.pdf](https://hms.harvard.edu/sites/default/files/Departments/Ombuds%20Office/files/M.Wagner.ColumbiaUniversity.OmbudsOffice.ThePowerofApologies.pdf)  
+   Link: <a href="https://hms.harvard.edu/sites/default/files/Departments/Ombuds%20Office/files/M.Wagner.ColumbiaUniversity.OmbudsOffice.ThePowerofApologies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hms.harvard.edu/sites/default/files/Departments/Ombuds%20Office/files/M.Wagner.ColumbiaUniversity.OmbudsOffice.ThePowerofApologies.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Medical SchoolThe Power of ApologiesAn apology can often be the first step to better understanding in a damaged relationship. It...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666622725000176](https://www.sciencedirect.com/science/article/pii/S2666622725000176)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe role of apology beliefs for apology tendencies across...by A Kirchner-Häusler · 2025 · Cited by 2 — For instance, indiv...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666622725000176" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666622725000176</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of apology beliefs for apology tendencies across...by A Kirchner-Häusler · 2025 · Cited by 2 — For instance, indiv...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: communiquepr.com  
-   Link: [https://www.communiquepr.com/understanding-trust-part-ii-the-importance-of-an-effective-apology/](https://www.communiquepr.com/understanding-trust-part-ii-the-importance-of-an-effective-apology/)  
+   Link: <a href="https://www.communiquepr.com/understanding-trust-part-ii-the-importance-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow">https://www.communiquepr.com/understanding-trust-part-ii-the-importance-of-an-effective-apology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of an Effective ApologyAccording to research, an effective apology meets three criteria: it&#x27;s credible, it works to restor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hms.harvard.edu  
    Title: M.Wagner.Columbia University.Elements of an Effective Apology  
-   Link: [https://hms.harvard.edu/sites/default/files/Departments/Ombuds%20Office/files/M.Wagner.ColumbiaUniversity.Elements%20of%20an%20Effective%20Apology.pdf](https://hms.harvard.edu/sites/default/files/Departments/Ombuds%20Office/files/M.Wagner.ColumbiaUniversity.Elements%20of%20an%20Effective%20Apology.pdf)  
+   Link: <a href="https://hms.harvard.edu/sites/default/files/Departments/Ombuds%20Office/files/M.Wagner.ColumbiaUniversity.Elements%20of%20an%20Effective%20Apology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hms.harvard.edu/sites/default/files/Departments/Ombuds%20Office/files/M.Wagner.ColumbiaUniversity.Elements%20of%20an%20Effective%20Apology.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of an Effective ApologySome of the most common considerations include the following: 1. A common understanding of the exact substance and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: psychologicalscience.org  
    Title: Association for Psychological Science Effective Apologies Include Six Elements  
-   Link: [https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html](https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html)  
+   Link: <a href="https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEffective Apologies Include Six ElementsMay 24, 2016 — Across two studies Lewicki and colleagues fou...</p></details>
    Published: May 24, 2016  
 
 8. <a id="endnote-8"></a>
    Source: selfdeterminationtheory.org  
    Title: 2003 HodginsLeibeskind JESP  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf](https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryApology versus defense: Antecedents and consequencesby HS Hodgins · 2003 · Cited by 273 — Past research has show...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian How sorry are you?  
-   Link: [https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry](https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry)  
+   Link: <a href="https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why learning to apologise well could save your relationshipsJune 28, 2025 — Apologizing effectively is a nuanced yet vital interpersonal...</p></details>
    Published: June 28, 2025  
 
 10. <a id="endnote-10"></a>
    Source: hbs.edu  
-   Link: [https://www.hbs.edu/faculty/Pages/item.aspx?num=49586](https://www.hbs.edu/faculty/Pages/item.aspx?num=49586)  
+   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=49586" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=49586</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Was it core to our promise or mission? How will the public react? Are we committed to...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: larryferlazzo.edublogs.org  
    Title: new study highlights six components of an effective apology  
-   Link: [https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/](https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/)  
+   Link: <a href="https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow">https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Larry Ferlazzo&#x27;s Websites of the Day...New Study Highlights Six Components Of An Effective Apology15 Apr 2016 — The next three elements w...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: hbr.org  
-   Link: [https://hbr.org/2026/04/when-apologizing-to-customers-hurts-more-than-it-helps](https://hbr.org/2026/04/when-apologizing-to-customers-hurts-more-than-it-helps)  
+   Link: <a href="https://hbr.org/2026/04/when-apologizing-to-customers-hurts-more-than-it-helps" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2026/04/when-apologizing-to-customers-hurts-more-than-it-helps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Apologizing to Customers Hurts More Than It Helps20 Apr 2026 — Some failures, like product defects, require disclosure, making an ap...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hbr.org  
    Title: stop over apologizing at work  
-   Link: [https://hbr.org/2023/08/stop-over-apologizing-at-work](https://hbr.org/2023/08/stop-over-apologizing-at-work)  
+   Link: <a href="https://hbr.org/2023/08/stop-over-apologizing-at-work" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2023/08/stop-over-apologizing-at-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Over-Apologizing at Work21 Aug 2023 — There are a variety of reasons we may feel the need to say sorry at work, even when it&#x27;s not n...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hbr.org  
    Title: the elements of a good company apology  
-   Link: [https://hbr.org/2019/07/the-elements-of-a-good-company-apology](https://hbr.org/2019/07/the-elements-of-a-good-company-apology)  
+   Link: <a href="https://hbr.org/2019/07/the-elements-of-a-good-company-apology" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2019/07/the-elements-of-a-good-company-apology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 23, 2019 — Dennis Muilenburg, CEO of Boeing, faced a near-impossible task: He had to apologize for two 737 Max jet crashes, one in Oc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: hbr.org  
    Title: what a real apology requires  
-   Link: [https://hbr.org/2016/10/what-a-real-apology-requires](https://hbr.org/2016/10/what-a-real-apology-requires)  
+   Link: <a href="https://hbr.org/2016/10/what-a-real-apology-requires" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2016/10/what-a-real-apology-requires</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Oct 2016 — What a Real Apology Requires; Leadership And Managing People. Why Effective Leaders Get Branded as Problems; Personal Gro...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: hbr.org  
    Title: sorry not sorry  
-   Link: [https://hbr.org/podcast/2019/05/sorry-not-sorry](https://hbr.org/podcast/2019/05/sorry-not-sorry)  
+   Link: <a href="https://hbr.org/podcast/2019/05/sorry-not-sorry" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2019/05/sorry-not-sorry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 May 2019 — How minimizing language hurts women&#x27;s careers, how to stop apologizing unnecessarily, and what to say instead...</p></details>
    Published: May 2019  
 
 17. <a id="endnote-17"></a>
    Source: hbr.org  
    Title: Good Leaders Admit Mistakes  
-   Link: [https://hbr.org/video/2228473497001/good-leaders-admit-mistakes](https://hbr.org/video/2228473497001/good-leaders-admit-mistakes)  
+   Link: <a href="https://hbr.org/video/2228473497001/good-leaders-admit-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/video/2228473497001/good-leaders-admit-mistakes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HBR VideoThe best leaders know when they&#x27;ve made a wrong decision. They admit it, apologize, and take swift action to correct the mistake...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hbr.org  
    Title: how to give a meaningful apolo  
-   Link: [https://hbr.org/2013/03/how-to-give-a-meaningful-apolo](https://hbr.org/2013/03/how-to-give-a-meaningful-apolo)  
+   Link: <a href="https://hbr.org/2013/03/how-to-give-a-meaningful-apolo" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2013/03/how-to-give-a-meaningful-apolo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gy11 Mar 2013 — Start by saying, “I was wrong.”...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: hbr.org  
-   Link: [https://hbr.org/2018/01/sorry-is-not-enough](https://hbr.org/2018/01/sorry-is-not-enough)  
+   Link: <a href="https://hbr.org/2018/01/sorry-is-not-enough" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2018/01/sorry-is-not-enough</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Sorry” Is Not EnoughSurprising new research shows that approach can backfire: An apology that extends beyond the first seconds of an int...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/apology](https://www.merriam-webster.com/dictionary/apology)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/apology" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/apology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>APOLOGY Definition &amp; Meaning1. a: an admission of error or discourtesy accompanied by an expression of regret a public apology b apologi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ingramcounseling.com  
-   Link: [https://www.ingramcounseling.com/an-apology-thats-meaningful/](https://www.ingramcounseling.com/an-apology-thats-meaningful/)  
+   Link: <a href="https://www.ingramcounseling.com/an-apology-thats-meaningful/" target="_blank" rel="noopener noreferrer nofollow">https://www.ingramcounseling.com/an-apology-thats-meaningful/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Apology That&#x27;s MeaningfulExpression of regret; Explanation of what went wrong; Acknowledgment of responsibility; Declaration of repent...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies](https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies)  
+   Link: <a href="https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploration of the Structure of Effective ApologiesFor an apology to effectively repair trust, it should incorporate multiple componen...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair](https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair)  
+   Link: <a href="https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of the ApologyThe Structure and Effectiveness...They argue that a maximally effective apology should consist of six components i...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: library.tcdc.or.th  
-   Link: [https://library.tcdc.or.th/record/read/a00044301](https://library.tcdc.or.th/record/read/a00044301)  
+   Link: <a href="https://library.tcdc.or.th/record/read/a00044301" target="_blank" rel="noopener noreferrer nofollow">https://library.tcdc.or.th/record/read/a00044301</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anizational apologyAt some point, every company makes a mistake that requires an apology-to an individual; a group of custom- ers, emp...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thescienceexplorer.com  
    Title: an effective apology must have these 6 elements according to science 1407  
-   Link: [https://www.thescienceexplorer.com/an-effective-apology-must-have-these-6-elements-according-to-science-1407](https://www.thescienceexplorer.com/an-effective-apology-must-have-these-6-elements-according-to-science-1407)  
+   Link: <a href="https://www.thescienceexplorer.com/an-effective-apology-must-have-these-6-elements-according-to-science-1407" target="_blank" rel="noopener noreferrer nofollow">https://www.thescienceexplorer.com/an-effective-apology-must-have-these-6-elements-according-to-science-1407</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lpNH9SCegIE](https://www.youtube.com/watch?v=lpNH9SCegIE)  
+   Link: <a href="https://www.youtube.com/watch?v=lpNH9SCegIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpNH9SCegIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Questions to Answer in an ApologyTrust is not as fragile as people think — it can be rebuilt. And that process starts with a good apolo...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/262192215_An_Affirmed_Self_and_a_Better_Apology_The_Effect_of_Self-Affirmation_on_Transgressors_Responses_to_Victims](https://www.researchgate.net/publication/262192215_An_Affirmed_Self_and_a_Better_Apology_The_Effect_of_Self-Affirmation_on_Transgressors_Responses_to_Victims)  
+   Link: <a href="https://www.researchgate.net/publication/262192215_An_Affirmed_Self_and_a_Better_Apology_The_Effect_of_Self-Affirmation_on_Transgressors_Responses_to_Victims" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262192215_An_Affirmed_Self_and_a_Better_Apology_The_Effect_of_Self-Affirmation_on_Transgressors_Responses_to_Victims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ation reduces defensiveness via self-transcendence, rather than self-integrity...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: news.osu.edu  
    Title: the 6 elements of an effective apology according to science  
-   Link: [https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/)  
+   Link: <a href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: upworthy.com  
-   Link: [https://www.upworthy.com/the-6-elements-of-an-effective-apology-as-shown-by-one-of-the-best-apology-songs-ever/](https://www.upworthy.com/the-6-elements-of-an-effective-apology-as-shown-by-one-of-the-best-apology-songs-ever/)  
+   Link: <a href="https://www.upworthy.com/the-6-elements-of-an-effective-apology-as-shown-by-one-of-the-best-apology-songs-ever/" target="_blank" rel="noopener noreferrer nofollow">https://www.upworthy.com/the-6-elements-of-an-effective-apology-as-shown-by-one-of-the-best-apology-songs-ever/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 6 elements of an effective apology, as shown by one...The 6 elements of an effective apology, as shown by one of the best apology so...</p></details>

@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:42:19'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -487,7 +488,6 @@ next_link:
   permalink: /action-plans/
   short_title: Action Plans
   heading_title: The Plan That Still Works When You Are Tired
-date: '2026-06-05 14:42:19 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b-overview.webp
@@ -500,7 +500,7 @@ An accountability partner or study group is useful when it turns a private inten
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b-overview.webp" | relative_url }}" alt="Overview image for Accountability" loading="eager" decoding="sync" fetchpriority="high">
-[Study groups]({{ 'study-groups/' | relative_url }}) work on the same principle, but with learning as the target behaviour. A good group does more than sit together in a library. It creates a rhythm of preparation, explanation, [retrieval practice]({{ 'retrieval-groups/' | relative_url }}), question-sharing and follow-through. Harvard’s Academic Resource Center describes study groups as a way to strengthen understanding and build accountability into the week, while research on peer assessment and collaborative learning suggests that structured peer interaction can produce measurable, though usually modest, academic gains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academicresourcecenter.harvard.edu">[Academic Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academicresourcecenter.harvard.edu</span><span class="citation-popover-title">Academic Resource Center Study Groups</span><span class="citation-popover-snippet">Academic Resource CenterStudy Groups - Academic Resource Center - Harvard University27 Sept 2023 — Study groups are safe spaces where you...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</span></span></span>
+[Study groups]({{ 'study-groups/' | relative_url }}) work on the same principle, but with learning as the target behaviour. A good group does more than sit together in a library. It creates a rhythm of preparation, explanation, retrieval practice, question-sharing and follow-through. Harvard’s Academic Resource Center describes study groups as a way to strengthen understanding and build accountability into the week, while research on peer assessment and collaborative learning suggests that structured peer interaction can produce measurable, though usually modest, academic gains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academicresourcecenter.harvard.edu">[Academic Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academicresourcecenter.harvard.edu</span><span class="citation-popover-title">Academic Resource Center Study Groups</span><span class="citation-popover-snippet">Academic Resource CenterStudy Groups - Academic Resource Center - Harvard University27 Sept 2023 — Study groups are safe spaces where you...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</span></span></span>
 
 The central rule is simple: accountability should make the desired behaviour easier to do and easier to review, not make the person feel smaller for struggling.
 
@@ -508,9 +508,9 @@ The central rule is simple: accountability should make the desired behaviour eas
 
 Most self-improvement failures are not caused by a lack of belief in the goal. They happen in the gap between intention and action: the workout is planned but not started, the essay is opened but not written, the revision session is scheduled but replaced by easier distractions. Accountability helps because it adds a social checkpoint to that gap. The person is no longer only asking, “Do I feel like doing this?” They are also asking, “What did I agree to report back on?”
 
-Behaviour-change research gives this a clearer shape. The Behaviour Change Technique Taxonomy lists [techniques]({{ 'techniques/' | relative_url }}) such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, reviewing goals, self-monitoring, feedback and social support as distinct ingredients in interventions. An accountability partner can combine several of these in one lightweight routine: “What will you do?”, “When will you do it?”, “How will you record it?”, “What happened?”, and “What needs changing?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Behaviour-change research gives this a clearer shape. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy lists techniques such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, reviewing goals, self-monitoring, feedback and social support as distinct ingredients in interventions. An accountability partner can combine several of these in one lightweight routine: “What will you do?”, “When will you do it?”, “How will you record it?”, “What happened?”, and “What needs changing?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The strongest model for this is “supportive accountability”, developed in research on human support in digital health interventions. The model argues that human support improves adherence when the supporter is seen as trustworthy, benevolent and legitimate, and when expectations are clear and process-oriented rather than vague or punitive. Although the original context was eHealth, the logic transfers well to everyday accountability: people respond better to a credible ally than to a scolding audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2011/1/e30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
+The strongest model for this is “supportive accountability”, developed in research on human [support]({{ 'support/' | relative_url }}) in digital health interventions. The model argues that human support improves adherence when the supporter is seen as trustworthy, benevolent and legitimate, and when expectations are clear and process-oriented rather than vague or punitive. Although the original context was eHealth, the logic transfers well to everyday accountability: people respond better to a credible ally than to a scolding audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2011/1/e30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
 
 A useful accountability partner therefore does three jobs at once. They make the goal visible, make progress reviewable, and make the next attempt feel possible. That is different from motivation theatre, where two people trade big declarations but never define the small action that would prove progress.
 
@@ -1108,204 +1108,204 @@ That is why the best accountability feels calmer than people expect. It is not a
 1. <a id="endnote-1"></a>
    Source: academicresourcecenter.harvard.edu  
    Title: Academic Resource Center Study Groups  
-   Link: [https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/](https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/)  
+   Link: <a href="https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/" target="_blank" rel="noopener noreferrer nofollow">https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academic Resource CenterStudy Groups - Academic Resource Center - Harvard University27 Sept 2023 — Study groups are safe spaces where you...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10648-019-09510-3](https://link.springer.com/article/10.1007/s10648-019-09510-3)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-019-09510-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lifescied.org  
-   Link: [https://www.lifescied.org/doi/10.1187/cbe.16-07-0219](https://www.lifescied.org/doi/10.1187/cbe.16-07-0219)  
+   Link: <a href="https://www.lifescied.org/doi/10.1187/cbe.16-07-0219" target="_blank" rel="noopener noreferrer nofollow">https://www.lifescied.org/doi/10.1187/cbe.16-07-0219</a>  
 
 4. <a id="endnote-4"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2011/1/e30/](https://www.jmir.org/2011/1/e30/)  
+   Link: <a href="https://www.jmir.org/2011/1/e30/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/</a>  
 
 6. <a id="endnote-6"></a>
    Source: ced.au.dk  
    Title: study groups how do we do it at au  
-   Link: [https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au](https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au)  
+   Link: <a href="https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au" target="_blank" rel="noopener noreferrer nofollow">https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1472811723000514](https://www.sciencedirect.com/science/article/pii/S1472811723000514)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1472811723000514" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1472811723000514</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2214782921000397](https://www.sciencedirect.com/science/article/pii/S2214782921000397)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782921000397</a>  
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-023-01555-6](https://link.springer.com/article/10.1186/s12966-023-01555-6)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40iamrahulrao15/the-accountability-effect-why-sharing-your-habits-makes-them-3x-more-likely-to-stick-77c1c84f54d6](https://medium.com/%40iamrahulrao15/the-accountability-effect-why-sharing-your-habits-makes-them-3x-more-likely-to-stick-77c1c84f54d6)  
+   Link: <a href="https://medium.com/%40iamrahulrao15/the-accountability-effect-why-sharing-your-habits-makes-them-3x-more-likely-to-stick-77c1c84f54d6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40iamrahulrao15/the-accountability-effect-why-sharing-your-habits-makes-them-3x-more-likely-to-stick-77c1c84f54d6</a>  
 
 11. <a id="endnote-11"></a>
    Source: doctorkevin.medium.com  
-   Link: [https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6](https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6)  
+   Link: <a href="https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6" target="_blank" rel="noopener noreferrer nofollow">https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6</a>  
 
 12. <a id="endnote-12"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2011/1/e30/authors](https://www.jmir.org/2011/1/e30/authors)  
+   Link: <a href="https://www.jmir.org/2011/1/e30/authors" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/authors</a>  
 
 13. <a id="endnote-13"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2011/1/e30/citations](https://www.jmir.org/2011/1/e30/citations)  
+   Link: <a href="https://www.jmir.org/2011/1/e30/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/citations</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1747938X22000537](https://www.sciencedirect.com/science/article/pii/S1747938X22000537)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1747938X22000537" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1747938X22000537</a>  
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1747938X13000122](https://www.sciencedirect.com/science/article/abs/pii/S1747938X13000122)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1747938X13000122" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1747938X13000122</a>  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2542454824000225](https://www.sciencedirect.com/science/article/pii/S2542454824000225)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2542454824000225</a>  
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260](https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0738399123003178](https://www.sciencedirect.com/science/article/abs/pii/S0738399123003178)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0738399123003178" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0738399123003178</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209](https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209</a>  
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1438887125013159](https://www.sciencedirect.com/org/science/article/pii/S1438887125013159)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887125013159" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887125013159</a>  
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S0738399123004603](https://www.sciencedirect.com/science/article/am/pii/S0738399123004603)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S0738399123004603" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S0738399123004603</a>  
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0272735823000090](https://www.sciencedirect.com/science/article/pii/S0272735823000090)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0272735823000090" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0272735823000090</a>  
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352396424001269](https://www.sciencedirect.com/science/article/pii/S2352396424001269)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352396424001269" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352396424001269</a>  
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
 25. <a id="endnote-25"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/goal-setting-strategies-in-health-behavior-change](https://www.nature.com/nature-index/topics/l4/goal-setting-strategies-in-health-behavior-change)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/goal-setting-strategies-in-health-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/goal-setting-strategies-in-health-behavior-change</a>  
 
 26. <a id="endnote-26"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-025-05766-z](https://www.nature.com/articles/s41599-025-05766-z)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-05766-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05766-z</a>  
 
 27. <a id="endnote-27"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf](https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL Discovery1 The Behavior Change Technique Taxonomy (v1) of 93...December 18, 2015 — by S Michie · 2013 · Cited by 8935 — Consequences...</p></details>
    Published: December 18, 2015  
 
 28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Supportive Accountability Inventory  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8122167/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8122167/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8122167/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8122167/</a>  
 
 30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central A Meta-Analysis of the Effects of Mental Contrasting  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/</a>  
 
 31. <a id="endnote-31"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Study Groups  
-   Link: [https://learningcenter.unc.edu/tips-and-tools/study-partners/](https://learningcenter.unc.edu/tips-and-tools/study-partners/)  
+   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/study-partners/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/study-partners/</a>  
 
 32. <a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/</a>  
 
 33. <a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11948784/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11948784/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11948784/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11948784/</a>  
 
 34. <a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
 
 35. <a id="endnote-35"></a>
    Source: positivepsychology.com  
    Title: social comparison  
-   Link: [https://positivepsychology.com/social-comparison/](https://positivepsychology.com/social-comparison/)  
+   Link: <a href="https://positivepsychology.com/social-comparison/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/social-comparison/</a>  
 
 36. <a id="endnote-36"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/ja/dictionary/english/implementation](https://dictionary.cambridge.org/ja/dictionary/english/implementation)  
+   Link: <a href="https://dictionary.cambridge.org/ja/dictionary/english/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ja/dictionary/english/implementation</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OV6h20ijZas](https://www.youtube.com/watch?v=OV6h20ijZas)  
+   Link: <a href="https://www.youtube.com/watch?v=OV6h20ijZas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OV6h20ijZas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Accountability System That Makes Success Inevitable...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Simon Sinek on How Accountability Partners Keep You Committed  
-   Link: [https://www.youtube.com/watch?v=qd10-f9bzu0](https://www.youtube.com/watch?v=qd10-f9bzu0)  
+   Link: <a href="https://www.youtube.com/watch?v=qd10-f9bzu0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qd10-f9bzu0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter - 17 | How an Accountability Partner Can Change Everything #AtomicHabitsJamesClear...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: The Science of Accountability Partners: What Research Actually Shows  
-   Link: [https://www.youtube.com/watch?v=heEbcOnMlRk](https://www.youtube.com/watch?v=heEbcOnMlRk)  
+   Link: <a href="https://www.youtube.com/watch?v=heEbcOnMlRk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=heEbcOnMlRk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simon Sinek on How Accountability Partners Keep You Committed...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Accountability System That Makes Success Inevitable  
-   Link: [https://www.youtube.com/watch?v=Ej-XE_AkNNY](https://www.youtube.com/watch?v=Ej-XE_AkNNY)  
+   Link: <a href="https://www.youtube.com/watch?v=Ej-XE_AkNNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ej-XE_AkNNY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How an Accountability Partner Can Help You Transform! | Dr. David Hawkins...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
 
 42. <a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/328092148_The_Effect_of_Collaborative_Learning_on_Enhancing_Student_Achievement_A_Meta-Analysis](https://www.researchgate.net/publication/328092148_The_Effect_of_Collaborative_Learning_on_Enhancing_Student_Achievement_A_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/328092148_The_Effect_of_Collaborative_Learning_on_Enhancing_Student_Achievement_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328092148_The_Effect_of_Collaborative_Learning_on_Enhancing_Student_Achievement_A_Meta-Analysis</a>  
 
 43. <a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/333460665_Peer_Support_a_Human_Factor_to_Enhance_Engagement_in_Digital_Health_Behavior_Change_Interventions](https://www.researchgate.net/publication/333460665_Peer_Support_a_Human_Factor_to_Enhance_Engagement_in_Digital_Health_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/333460665_Peer_Support_a_Human_Factor_to_Enhance_Engagement_in_Digital_Health_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333460665_Peer_Support_a_Human_Factor_to_Enhance_Engagement_in_Digital_Health_Behavior_Change_Interventions</a>  
 
 44. <a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review](https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review</a>  
 
 45. <a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
 46. <a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/382446949_The_association_between_social_support_and_prosocial_behavior_A_three-level_meta-analysis](https://www.researchgate.net/publication/382446949_The_association_between_social_support_and_prosocial_behavior_A_three-level_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/382446949_The_association_between_social_support_and_prosocial_behavior_A_three-level_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382446949_The_association_between_social_support_and_prosocial_behavior_A_three-level_meta-analysis</a>  

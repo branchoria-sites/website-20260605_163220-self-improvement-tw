@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:43:22'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /app-blockers/
   short_title: App Blockers
   heading_title: Do App Blockers Actually Help?
-date: '2026-06-05 14:43:22 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88-overview.webp
@@ -522,7 +522,7 @@ A simple cue rule is: when there is a plausible gap between intention and impact
 
 The hardest apology is often the [first sentence]({{ 'first-sentence/' | relative_url }}). People delay because they are trying to produce the perfect explanation, protect their dignity, or wait until they feel less embarrassed. A better approach is to make the opening line small, clear and repeatable. It should reduce the other person’s burden, not require them to drag accountability out of you.
 
-A strong first sentence usually has three parts: a direct apology, the [specific behaviour]({{ 'goal-setting/' | relative_url }}), and the impact or likely impact. For example: “I’m sorry I interrupted you in the meeting; it made it harder for you to finish your point.” Or: “I’m sorry I snapped when you asked about the bill; you were trying to solve a problem and I made it tense.” The specificity matters because vague apologies can sound like emotional housekeeping, while concrete ones show that the speaker has understood what needs repair.
+A strong first sentence usually has three parts: a direct apology, the specific behaviour, and the impact or likely impact. For example: “I’m sorry I interrupted you in the meeting; it made it harder for you to finish your point.” Or: “I’m sorry I snapped when you asked about the bill; you were trying to solve a problem and I made it tense.” The specificity matters because vague apologies can sound like emotional housekeeping, while concrete ones show that the speaker has understood what needs repair.
 
 Research on effective apologies supports this emphasis. The widely cited Lewicki, Polin and Lount studies identified six common components: regret, explanation, responsibility, repentance, offer of repair, and request for forgiveness. Their findings suggest that apologies with more components tend to be rated more effective, but not all components carry equal weight: acknowledging responsibility and offering repair are especially important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.osu.edu">[Ohio State News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.osu.edu</span><span class="citation-popover-title">Ohio State News​The 6 elements of an effective apology, according to science</span><span class="citation-popover-snippet">Expression of regret... 2. Explanation of what went wrong... 3. Acknowledgment of responsibility... 4. Declaration of repentance... 5...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ncmr.12073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -544,7 +544,7 @@ The first sentence should also avoid the classic escape routes. “I’m sorry i
 
 “Apologise early” is useful advice, but it can be misunderstood. Early does not mean blurting out “sorry” to make discomfort stop. It means intervening before a minor rupture grows into a settled grievance, while still leaving room for the other person to feel heard. The best timing is often soon enough to prevent escalation, but slow enough to include attention.
 
-Couples research complicates the simple idea that earlier is always better. A study of 60 romantic couples discussing recurring disagreements found that the effect of [apology timing]({{ 'timing/' | relative_url }}) depended on the shape of the conflict. In shorter conversations, later apologies were associated with greater communication satisfaction; in conflicts that could have continued beyond ten minutes, earlier apologies were associated with greater satisfaction. Sincerity and feeling understood also predicted satisfaction, and more sincere apologies were linked with less anger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Couples research complicates the simple idea that earlier is always better. A study of 60 romantic couples discussing recurring disagreements found that the effect of apology timing depended on the shape of the conflict. In shorter conversations, later apologies were associated with greater communication satisfaction; in conflicts that could have continued beyond ten minutes, earlier apologies were associated with greater satisfaction. Sincerity and feeling understood also predicted satisfaction, and more sincere apologies were linked with less anger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical lesson is that timing should serve understanding. If the harm is obvious — a sharp remark, a broken promise, a careless interruption — a quick apology prevents the other person from wondering whether you noticed. If the issue is tangled or emotionally loaded, a rushed apology can sound like an attempt to close the case before hearing the complaint. In that situation, the first repair move may be: “I can tell I’ve hurt you. I want to understand what landed badly, and I’m sorry for my part in it.”
 
@@ -1068,162 +1068,162 @@ For self improvement, the habit is simple but demanding: notice sooner, apologis
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts](https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts)  
+   Link: <a href="https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Effects of Timing and Sincerity of an Apology on...This study examined the effects of apology timing, apology sincerit...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gottman.com  
    Title: r is for repair  
-   Link: [https://www.gottman.com/blog/r-is-for-repair/](https://www.gottman.com/blog/r-is-for-repair/)  
+   Link: <a href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/r-is-for-repair/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteR is for Repair3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1111/ncmr.12073](https://onlinelibrary.wiley.com/doi/abs/10.1111/ncmr.12073)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ncmr.12073" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/ncmr.12073</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Forgiveness](https://en.wikipedia.org/wiki/Forgiveness)  
+   Link: <a href="https://en.wikipedia.org/wiki/Forgiveness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forgiveness</a>  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/281415188_Repair_During_Marital_Conflict_in_Newlyweds_How_Couples_Move_from_Attack-Defend_to_Collaboration](https://www.researchgate.net/publication/281415188_Repair_During_Marital_Conflict_in_Newlyweds_How_Couples_Move_from_Attack-Defend_to_Collaboration)  
+   Link: <a href="https://www.researchgate.net/publication/281415188_Repair_During_Marital_Conflict_in_Newlyweds_How_Couples_Move_from_Attack-Defend_to_Collaboration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281415188_Repair_During_Marital_Conflict_in_Newlyweds_How_Couples_Move_from_Attack-Defend_to_Collaboration</a>  
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322200871_A_Behavioral_Analysis_of_Apologies_Forgiveness_and_Interpersonal_Conflict](https://www.researchgate.net/publication/322200871_A_Behavioral_Analysis_of_Apologies_Forgiveness_and_Interpersonal_Conflict)  
+   Link: <a href="https://www.researchgate.net/publication/322200871_A_Behavioral_Analysis_of_Apologies_Forgiveness_and_Interpersonal_Conflict" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322200871_A_Behavioral_Analysis_of_Apologies_Forgiveness_and_Interpersonal_Conflict</a>  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394315752_Beyond_apologies_A_systematic_review_of_forgiveness_in_different_relationship_contexts](https://www.researchgate.net/publication/394315752_Beyond_apologies_A_systematic_review_of_forgiveness_in_different_relationship_contexts)  
+   Link: <a href="https://www.researchgate.net/publication/394315752_Beyond_apologies_A_systematic_review_of_forgiveness_in_different_relationship_contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394315752_Beyond_apologies_A_systematic_review_of_forgiveness_in_different_relationship_contexts</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/213679336_The_Longitudinal_Association_Between_Forgiveness_and_Relationship_Closeness_and_Commitment](https://www.researchgate.net/publication/213679336_The_Longitudinal_Association_Between_Forgiveness_and_Relationship_Closeness_and_Commitment)  
+   Link: <a href="https://www.researchgate.net/publication/213679336_The_Longitudinal_Association_Between_Forgiveness_and_Relationship_Closeness_and_Commitment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/213679336_The_Longitudinal_Association_Between_Forgiveness_and_Relationship_Closeness_and_Commitment</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/310478591_What_determines_forgiveness_in_close_relationships_The_role_of_post-transgression_trust](https://www.researchgate.net/publication/310478591_What_determines_forgiveness_in_close_relationships_The_role_of_post-transgression_trust)  
+   Link: <a href="https://www.researchgate.net/publication/310478591_What_determines_forgiveness_in_close_relationships_The_role_of_post-transgression_trust" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/310478591_What_determines_forgiveness_in_close_relationships_The_role_of_post-transgression_trust</a>  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair](https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair)  
+   Link: <a href="https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies](https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies)  
+   Link: <a href="https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies</a>  
 
 12. <a id="endnote-12"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/full/10.1002%2Fjob.2672](https://onlinelibrary.wiley.com/doi/full/10.1002%2Fjob.2672)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002%2Fjob.2672" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002%2Fjob.2672</a>  
 
 13. <a id="endnote-13"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/jftr.12060](https://onlinelibrary.wiley.com/doi/10.1111/jftr.12060)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jftr.12060" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jftr.12060</a>  
 
 14. <a id="endnote-14"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2786](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2786)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2786" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2786</a>  
 
 15. <a id="endnote-15"></a>
    Source: news.osu.edu  
    Title: Ohio State News​The 6 elements of an effective apology, according to science  
-   Link: [https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/)  
+   Link: <a href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expression of regret... 2. Explanation of what went wrong... 3. Acknowledgment of responsibility... 4. Declaration of repentance... 5...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: washingtonpost.com  
    Title: The Washington Post How to let go of grudges  
-   Link: [https://www.washingtonpost.com/health/2026/04/23/forgiveness-grudges-health-research/](https://www.washingtonpost.com/health/2026/04/23/forgiveness-grudges-health-research/)  
+   Link: <a href="https://www.washingtonpost.com/health/2026/04/23/forgiveness-grudges-health-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/health/2026/04/23/forgiveness-grudges-health-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forgiveness is increasingly viewed not just as a moral virtue but a psychological and public health strategy. Programs like Stanford’s Fo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Forgiveness and Relationship Satisfaction: Mediating  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3156929/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3156929/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3156929/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3156929/</a>  
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry](https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry)  
+   Link: <a href="https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry</a>  
 
 19. <a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/10570314.2013.770160](https://www.tandfonline.com/doi/abs/10.1080/10570314.2013.770160)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10570314.2013.770160</a>  
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/</a>  
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/](https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/how-many-times-do-we-try-to-repair-after-a-fight-before-we-admit-its-not-working/1279613770880288/](https://www.facebook.com/GottmanInstitute/posts/how-many-times-do-we-try-to-repair-after-a-fight-before-we-admit-its-not-working/1279613770880288/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/how-many-times-do-we-try-to-repair-after-a-fight-before-we-admit-its-not-working/1279613770880288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/how-many-times-do-we-try-to-repair-after-a-fight-before-we-admit-its-not-working/1279613770880288/</a>  
 
 24. <a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/timing](https://dictionary.cambridge.org/dictionary/english/timing)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/timing" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/timing</a>  
 
 25. <a id="endnote-25"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/timing](https://www.collinsdictionary.com/dictionary/english/timing)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/timing" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/timing</a>  
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02107/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02107/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02107/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02107/full</a>  
 
 27. <a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.656689/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.656689/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.656689/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.656689/full</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: How to Make the Perfect Apology | Learn to Apologize the Right Way  
-   Link: [https://www.youtube.com/watch?v=2-o7BhLcqGw](https://www.youtube.com/watch?v=2-o7BhLcqGw)  
+   Link: <a href="https://www.youtube.com/watch?v=2-o7BhLcqGw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2-o7BhLcqGw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Apologize | 3 Keys to an Effective Apology...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: How Couples Apologize So It Actually Heals  
-   Link: [https://www.youtube.com/watch?v=dK_enRZjj10](https://www.youtube.com/watch?v=dK_enRZjj10)  
+   Link: <a href="https://www.youtube.com/watch?v=dK_enRZjj10" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dK_enRZjj10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make the Perfect Apology | Learn to Apologize the Right Way...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/114258563/An_Exploration_of_the_Structure_of_Effective_Apologies](https://www.academia.edu/114258563/An_Exploration_of_the_Structure_of_Effective_Apologies)  
+   Link: <a href="https://www.academia.edu/114258563/An_Exploration_of_the_Structure_of_Effective_Apologies" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/114258563/An_Exploration_of_the_Structure_of_Effective_Apologies</a>  
 
 31. <a id="endnote-31"></a>
    Source: themarriagerestorationproject.com  
-   Link: [https://themarriagerestorationproject.com/relationship-repair-attempts-what-they-are-why-they-work-10-examples-for-your-own-marriage/?srsltid=AfmBOoqDKYETFKWKmjuH8vdeXiLcYfTnNqIg9SvK8inPtYNbN5rpfw9A](https://themarriagerestorationproject.com/relationship-repair-attempts-what-they-are-why-they-work-10-examples-for-your-own-marriage/?srsltid=AfmBOoqDKYETFKWKmjuH8vdeXiLcYfTnNqIg9SvK8inPtYNbN5rpfw9A)  
+   Link: <a href="https://themarriagerestorationproject.com/relationship-repair-attempts-what-they-are-why-they-work-10-examples-for-your-own-marriage/?srsltid=AfmBOoqDKYETFKWKmjuH8vdeXiLcYfTnNqIg9SvK8inPtYNbN5rpfw9A" target="_blank" rel="noopener noreferrer nofollow">https://themarriagerestorationproject.com/relationship-repair-attempts-what-they-are-why-they-work-10-examples-for-your-own-marriage/?srsltid=AfmBOoqDKYETFKWKmjuH8vdeXiLcYfTnNqIg9SvK8inPtYNbN5rpfw9A</a>  
 
 32. <a id="endnote-32"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/a-behavioral-analysis-of-apologies-forgiveness-and-1mn677s92j.pdf](https://scispace.com/pdf/a-behavioral-analysis-of-apologies-forgiveness-and-1mn677s92j.pdf)  
+   Link: <a href="https://scispace.com/pdf/a-behavioral-analysis-of-apologies-forgiveness-and-1mn677s92j.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/a-behavioral-analysis-of-apologies-forgiveness-and-1mn677s92j.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: cultureally.com  
-   Link: [https://www.cultureally.com/blog/nonviolent-communication-a-guide-to-empathetic-conversation](https://www.cultureally.com/blog/nonviolent-communication-a-guide-to-empathetic-conversation)  
+   Link: <a href="https://www.cultureally.com/blog/nonviolent-communication-a-guide-to-empathetic-conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.cultureally.com/blog/nonviolent-communication-a-guide-to-empathetic-conversation</a>  
 
 34. <a id="endnote-34"></a>
    Source: scilit.com  
-   Link: [https://www.scilit.com/publications/af1c5d017a21eb63d39407a91c06a945](https://www.scilit.com/publications/af1c5d017a21eb63d39407a91c06a945)  
+   Link: <a href="https://www.scilit.com/publications/af1c5d017a21eb63d39407a91c06a945" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/af1c5d017a21eb63d39407a91c06a945</a>  
 
 35. <a id="endnote-35"></a>
    Source: beyondintractability.org  
-   Link: [https://www.beyondintractability.org/essay/apology-forgiveness-reconciliation](https://www.beyondintractability.org/essay/apology-forgiveness-reconciliation)  
+   Link: <a href="https://www.beyondintractability.org/essay/apology-forgiveness-reconciliation" target="_blank" rel="noopener noreferrer nofollow">https://www.beyondintractability.org/essay/apology-forgiveness-reconciliation</a>  
 
 36. <a id="endnote-36"></a>
    Source: psychologywriting.com  
-   Link: [https://psychologywriting.com/conflicts-the-role-of-apology-and-forgiveness/](https://psychologywriting.com/conflicts-the-role-of-apology-and-forgiveness/)  
+   Link: <a href="https://psychologywriting.com/conflicts-the-role-of-apology-and-forgiveness/" target="_blank" rel="noopener noreferrer nofollow">https://psychologywriting.com/conflicts-the-role-of-apology-and-forgiveness/</a>  
 
 37. <a id="endnote-37"></a>
    Source: nonviolentcommunication.com  
-   Link: [https://nonviolentcommunication.com/resources/articles-about-nvc/forgiving-the-past-by-focusing-on-the-present/](https://nonviolentcommunication.com/resources/articles-about-nvc/forgiving-the-past-by-focusing-on-the-present/)  
+   Link: <a href="https://nonviolentcommunication.com/resources/articles-about-nvc/forgiving-the-past-by-focusing-on-the-present/" target="_blank" rel="noopener noreferrer nofollow">https://nonviolentcommunication.com/resources/articles-about-nvc/forgiving-the-past-by-focusing-on-the-present/</a>  

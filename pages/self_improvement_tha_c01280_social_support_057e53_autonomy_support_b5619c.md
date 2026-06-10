@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_social_support_057e53_autonomy
 
 ## Introduction
 
-Accountability helps [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) when it protects a person's ability to choose, learn and continue. It becomes counterproductive when it relies on shame, surveillance or threats to self-worth. The distinction matters because both approaches can increase effort in the short term, yet they create very different forms of [motivation]({{ 'motivation/' | relative_url }}). Autonomy-supportive accountability helps people act for reasons they recognise as their own. Shame-based pressure pushes behaviour through fear of judgement, embarrassment or social exposure. Research based on Self-Determination Theory (SDT) consistently finds that environments supporting autonomy, competence and relatedness are associated with stronger and more sustainable motivation, while controlling forms of pressure tend to undermine the quality of motivation and long-term persistence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span>
+Accountability helps [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) when it protects a person's ability to choose, learn and continue. It becomes counterproductive when it relies on shame, surveillance or threats to self-worth. The distinction matters because both approaches can increase effort in the short term, yet they create very different forms of [motivation]({{ 'motivation/' | relative_url }}). Autonomy-supportive accountability helps people act for reasons they recognise as their own. Shame-based pressure pushes behaviour through fear of judgement, embarrassment or social exposure. Research based on Self-Determination Theory (SDT) consistently finds that environments supporting autonomy, competence and relatedness are associated with stronger and more sustainable motivation, while controlling forms of pressure tend to undermine the quality of motivation and long-term persistence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_autonomy_support_b5619c-Illustration-1-dark.svg" | relative_url }}" alt="Autonomy support illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_autonomy_support_b5619c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_autonomy_support_b5619c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,18 +303,18 @@ Good accountability strengthens all three at once.
 
 ### Autonomy: preserving ownership
 
-Ownership is maintained when support helps a person connect actions to their own goals and values. Offering options, asking questions and acknowledging difficulties all reinforce the sense that the individual remains the author of the change effort. SDT-informed interventions frequently use these [techniques]({{ 'techniques/' | relative_url }}) because they increase autonomous motivation and psychological need satisfaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span>
+Ownership is maintained when support helps a person connect actions to their own goals and values. Offering options, asking questions and acknowledging difficulties all reinforce the sense that the individual remains the author of the change effort. SDT-informed interventions frequently use these [techniques]({{ 'techniques/' | relative_url }}) because they increase autonomous motivation and psychological need satisfaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span>
 
 An accountability partner who asks, "Which option feels realistic this week?" supports autonomy. One who says, "You have to do this if you care about yourself," attempts to replace it.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7KepQX1tBvI" title="How to Stop the SHAME Spiral &quot;Am I a Bad Person?&quot;- Shame vs. Guilt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7KepQX1tBvI" target="_blank" rel="noopener noreferrer">How to Stop the SHAME Spiral &quot;Am I a Bad Person?&quot;- Shame vs. Guilt</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell &middot; Views: 347.1K &middot; Uploaded: January 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7KepQX1tBvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7KepQX1tBvI">Open on YouTube</a></p></div></div></div>
 
 ### Competence: making success feel possible
 
 People persist when they experience progress as achievable. Accountability that highlights effort, strategies and learning strengthens competence. Accountability that focuses on failure, comparison or personal inadequacy weakens it.
 
-Research on autonomy-supportive coaching illustrates this mechanism. Process-focused [feedback]({{ 'feedback/' | relative_url }}) and autonomy-supportive interactions are associated with greater competence satisfaction and healthier development outcomes than controlling approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">PMCby JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
+Research on autonomy-supportive coaching illustrates this mechanism. Process-focused [feedback]({{ 'feedback/' | relative_url }}) and autonomy-supportive interactions are associated with greater competence satisfaction and healthier development outcomes than controlling approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
 
 When someone misses a target, competence-supportive accountability asks, "What obstacle showed up?" rather than, "What's wrong with you?"
 
@@ -322,7 +322,7 @@ When someone misses a target, competence-supportive accountability asks, "What o
 
 Relatedness is not merely social contact. It is the feeling that another person remains supportive even when performance is imperfect.
 
-This is why some accountability groups become powerful while others become exhausting. A group that allows honesty about setbacks increases psychological safety. A group that [rewards]({{ 'rewards/' | relative_url }}) success and punishes struggle encourages concealment. People stop reporting failures because failure has become socially expensive.
+This is why some accountability groups become powerful while others become exhausting. A group that allows honesty about setbacks increases psychological safety. A group that rewards success and punishes struggle encourages concealment. People stop reporting failures because failure has become socially expensive.
 
 The resulting behaviour can look like accountability while actually reducing learning.
 
@@ -332,7 +332,7 @@ Shame and accountability are often confused because both involve evaluation. The
 
 Shame communicates, implicitly or explicitly, that the person is the problem. Accountability evaluates behaviour, decisions or strategies.
 
-Psychological research consistently distinguishes shame from guilt. Guilt is typically linked to a specific action and often promotes repair or corrective effort. Shame is more likely to involve a negative judgement of the self as a whole and is frequently associated with withdrawal, hiding or avoidance. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationWhat&#x27;s the difference between guilt and shame?June Tangney, PhD, talks about the difference between sha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReconsidering the Differences Between Shame and Guilt</span><span class="citation-popover-snippet">PMCby M Miceli · 2018 · Cited by 255 — Shame implies perceived lack of power to meet the standards of one&#x27;s ideal self, whereas guilt imp...</span></span></span>
+Psychological research consistently distinguishes shame from guilt. Guilt is typically linked to a specific action and often promotes repair or corrective effort. Shame is more likely to involve a negative judgement of the self as a whole and is frequently associated with withdrawal, hiding or avoidance. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationWhat&#x27;s the difference between guilt and shame?June Tangney, PhD, talks about the difference between sha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReconsidering the Differences Between Shame and Guilt</span><span class="citation-popover-snippet">by M Miceli · 2018 · Cited by 255 — Shame implies perceived lack of power to meet the standards of one&#x27;s ideal self, whereas guilt imp...</span></span></span>
 
 In self-improvement settings, shame-based pressure often sounds like:
 
@@ -348,7 +348,7 @@ In self-improvement settings, shame-based pressure often sounds like:
 
 These statements do not identify a next step. They create a threat to identity.
 
-A person experiencing shame may work harder for a period, but the motivation frequently becomes defensive. The goal shifts from learning and progress to escaping judgement. Studies examining shame suggest that it can generate desires for self-change, but it is also strongly linked to distancing, withdrawal and concealment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">shame and motivation to change</span><span class="citation-popover-snippet">Jan 29, 2015 — the urge to distance oneself (wanting to hide or remove oneself from a shameful situation). They found that shame &quot;was uni...</span></span></span>
+A person experiencing shame may work harder for a period, but the motivation frequently becomes defensive. The goal shifts from learning and progress to escaping judgement. Studies examining shame suggest that it can generate desires for self-change, but it is also strongly linked to distancing, withdrawal and concealment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">shame and motivation to change</span><span class="citation-popover-snippet">Jan 29, 2015 — the urge to distance oneself (wanting to hide or remove oneself from a shameful situation). They found that shame &quot;was uni...</span></span></span>
 
 This creates a paradox. The more accountability depends on public embarrassment, the more likely people become to hide information that would actually help them improve.
 
@@ -362,18 +362,18 @@ The longer-term costs are less visible:
 
 **Reduced honesty.** People report what protects their image rather than what actually happened.
 
-**All-or-nothing thinking.** One lapse becomes evidence of personal failure instead of a normal part of behaviour change.
+**All-or-nothing thinking.** One lapse becomes evidence of personal failure instead of a normal part of [behaviour change]({{ 'behaviour-change/' | relative_url }}).
 
 **Dependence on external pressure.** Action continues only while scrutiny remains high.
 
 **Avoidance.** Missed goals become emotionally costly, making re-engagement harder.
 
-**Fragile motivation.** The person's effort becomes tied to approval rather than personal values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[Yu-kai Chou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-title">self determination theory guide to ryan and decis motivation framework</span><span class="citation-popover-snippet">Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Instead of an external authority applying pressure, the person applies pressur...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</span></span></span>
+**Fragile motivation.** The person's effort becomes tied to approval rather than personal values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[Yu-kai Chou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-title">self determination theory guide to ryan and decis motivation framework</span><span class="citation-popover-snippet">Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Instead of an external authority applying pressure, the person applies pressur...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</span></span></span>
 
 These effects help explain why highly controlling accountability systems can generate bursts of performance yet struggle to produce lasting habits.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7KepQX1tBvI" title="How to Stop the SHAME Spiral &quot;Am I a Bad Person?&quot;- Shame vs. Guilt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7KepQX1tBvI" target="_blank" rel="noopener noreferrer">How to Stop the SHAME Spiral &quot;Am I a Bad Person?&quot;- Shame vs. Guilt</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell &middot; Views: 347.1K &middot; Uploaded: January 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7KepQX1tBvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7KepQX1tBvI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VGrcets0E6I" title="Promoting Motivation, Health, and Excellence: Ed Deci at TEDxFlourCity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VGrcets0E6I" target="_blank" rel="noopener noreferrer">Promoting Motivation, Health, and Excellence: Ed Deci at TEDxFlourCity</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 266.4K &middot; Uploaded: August 2012 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VGrcets0E6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VGrcets0E6I">Open on YouTube</a></p></div></div></div>
 
 ## Phrases that protect dignity and next action
 
@@ -435,7 +435,7 @@ In practical terms, this means a study partner who asks whether today's work blo
 The central mechanism is simple: accountability works best when it strengthens self-direction rather than replacing it. Support becomes durable when it helps people return to the behaviour after setbacks instead of making them feel that setbacks have exposed a personal flaw. Autonomy-supportive accountability creates structure around action while leaving ownership exactly where it needs to remain—with the person making the change.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VGrcets0E6I" title="Promoting Motivation, Health, and Excellence: Ed Deci at TEDxFlourCity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VGrcets0E6I" target="_blank" rel="noopener noreferrer">Promoting Motivation, Health, and Excellence: Ed Deci at TEDxFlourCity</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 266.4K &middot; Uploaded: August 2012 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VGrcets0E6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VGrcets0E6I">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9BbOvodf-9k" title="Motivation through autonomy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9BbOvodf-9k" target="_blank" rel="noopener noreferrer">Motivation through autonomy</a></p><p class="youtube-embed-meta">Channel: Cambridge English Spain &middot; Views: 4.4K &middot; Uploaded: June 2016 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9BbOvodf-9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9BbOvodf-9k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -768,159 +768,159 @@ The central mechanism is simple: accountability works best when it strengthens s
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/1479-5868-9-78](https://link.springer.com/article/10.1186/1479-5868-9-78)  
+   Link: <a href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479-5868-9-78</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4548 — SDT, however, conceptualize...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Effects of Autonomy-supportive Coaching, Need  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReconsidering the Differences Between Shame and Guilt  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M Miceli · 2018 · Cited by 255 — Shame implies perceived lack of power to meet the standards of one&#x27;s ideal self, whereas guilt imp...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Miceli · 2018 · Cited by 255 — Shame implies perceived lack of power to meet the standards of one&#x27;s ideal self, whereas guilt imp...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCShame Withdraws, Guilt Corrects  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12189037/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12189037/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12189037/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Withdraws, Guilt Corrects - PMC - NIHby RW Semaan · 2025 · Cited by 5 — This research aims to explain how two equally valenced emotions...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/11392867/](https://pubmed.ncbi.nlm.nih.gov/11392867/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529](https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26168470/](https://pubmed.ncbi.nlm.nih.gov/26168470/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSelf-Determination Theory Applied to Health Contextsby JYY Ng · 2012 · Cited by 2943 — A meta-analysis evaluated relations between...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26168470/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168470/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Applied to Health Contextsby JYY Ng · 2012 · Cited by 2943 — A meta-analysis evaluated relations between...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
    Title: In SDT, these needs are conceived as  
-   Link: [https://journals.sagepub.com/doi/10.1177/08295735211055355](https://journals.sagepub.com/doi/10.1177/08295735211055355)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/08295735211055355</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 881 — This theory proposes three psychological ne...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30295176/](https://pubmed.ncbi.nlm.nih.gov/30295176/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedA meta-analysis of techniques to promote motivation for...by FB Gillison · 2019 · Cited by 641 — A systematic review and meta-anal...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30295176/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30295176/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of techniques to promote motivation for...by FB Gillison · 2019 · Cited by 641 — A systematic review and meta-anal...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame](https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame)  
+   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhat&#x27;s the difference between guilt and shame?June Tangney, PhD, talks about the difference between sha...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1678930/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1678930/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1678930/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1678930/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding shame, guilt, embarrassment and prideby D Singh · 2025 · Cited by 2 — For example, guilt is more specific to one&#x27;s actions...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25401288/](https://pubmed.ncbi.nlm.nih.gov/25401288/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedShame and the motivation to change the selfby B Lickel · 2014 · Cited by 264 — We report 2 studies examining people&#x27;s lived experie...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25401288/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shame and the motivation to change the selfby B Lickel · 2014 · Cited by 264 — We report 2 studies examining people&#x27;s lived experie...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: psychologytoday.com  
    Title: shame and motivation to change  
-   Link: [https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change](https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change)  
+   Link: <a href="https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 29, 2015 — the urge to distance oneself (wanting to hide or remove oneself from a shameful situation). They found that shame &quot;was uni...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: [https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/](https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/)  
+   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Instead of an external authority applying pressure, the person applies pressur...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32437175/](https://pubmed.ncbi.nlm.nih.gov/32437175/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32437175/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32437175/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory interventions for health behavior...by P Sheeran · 2020 · Cited by 228 — The present review indicates t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: next.co.uk  
-   Link: [https://www.next.co.uk/shop/brand-self-0](https://www.next.co.uk/shop/brand-self-0)  
+   Link: <a href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow">https://www.next.co.uk/shop/brand-self-0</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/self-determination-theory](https://www.sciencedirect.com/topics/social-sciences/self-determination-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSelf-determination theory is defined as a framework that explores the relationship between personality, human motivation, and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: psychologytoday.com  
    Title: shame and motivation to change  
-   Link: [https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change](https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 29, 2015 — Feeling shame was a stronger predictor than guilt or regret for motivation for positive self-change...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: ukcoaching.org  
-   Link: [https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/](https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/)  
+   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: psychwire.com  
-   Link: [https://psychwire.com/free-resources/q-and-a/f6wzti/the-upside-of-shame](https://psychwire.com/free-resources/q-and-a/f6wzti/the-upside-of-shame)  
+   Link: <a href="https://psychwire.com/free-resources/q-and-a/f6wzti/the-upside-of-shame" target="_blank" rel="noopener noreferrer nofollow">https://psychwire.com/free-resources/q-and-a/f6wzti/the-upside-of-shame</a>  
 
 22. <a id="endnote-22"></a>
    Source: rccs.org.uk  
-   Link: [https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination](https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination)  
+   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — The concept of basic psychological needs is central to Self-Determination Theory...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: socialidentitylab.psych.ubc.ca  
-   Link: [https://socialidentitylab.psych.ubc.ca/research/shame-and-guilt/](https://socialidentitylab.psych.ubc.ca/research/shame-and-guilt/)  
+   Link: <a href="https://socialidentitylab.psych.ubc.ca/research/shame-and-guilt/" target="_blank" rel="noopener noreferrer nofollow">https://socialidentitylab.psych.ubc.ca/research/shame-and-guilt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Guilt | UBC Social Identity LabShame rather than guilt can be a maladaptive emotional reaction because it predicts a desire to avoid...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_juPDoa3GBY](https://www.youtube.com/watch?v=_juPDoa3GBY)  
+   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: experts.umn.edu  
    Title: self determination theory interventions for health behavior chang  
-   Link: [https://experts.umn.edu/en/publications/self-determination-theory-interventions-for-health-behavior-chang/](https://experts.umn.edu/en/publications/self-determination-theory-interventions-for-health-behavior-chang/)  
+   Link: <a href="https://experts.umn.edu/en/publications/self-determination-theory-interventions-for-health-behavior-chang/" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/self-determination-theory-interventions-for-health-behavior-chang/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>umn.eduSelf-determination theory interventions for health behavior...by P Sheeran · 2020 · Cited by 223 — OBJECTIVE: We conducted a meta...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: allactive.co.uk  
    Title: self determination theory and health behaviour change  
-   Link: [https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/](https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/)  
+   Link: <a href="https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/" target="_blank" rel="noopener noreferrer nofollow">https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and health behaviour change19 May 2026 — Interventions that train practitioners in autonomy-supportive techniqu...</p></details>
    Published: May 2026  
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/650804963/9781108677318-008](https://www.scribd.com/document/650804963/9781108677318-008)  
+   Link: <a href="https://www.scribd.com/document/650804963/9781108677318-008" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/650804963/9781108677318-008</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd engagement by encouraging feelings of autonomy, competence, and...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: keithedwards.com  
    Title: guilt vs shame in fostering greater accountability  
-   Link: [https://keithedwards.com/2012/10/30/guilt-vs-shame-in-fostering-greater-accountability/](https://keithedwards.com/2012/10/30/guilt-vs-shame-in-fostering-greater-accountability/)  
+   Link: <a href="https://keithedwards.com/2012/10/30/guilt-vs-shame-in-fostering-greater-accountability/" target="_blank" rel="noopener noreferrer nofollow">https://keithedwards.com/2012/10/30/guilt-vs-shame-in-fostering-greater-accountability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 30, 2012 — Dr Keith Edwards discusses the differences in Guilt vs Shame, and how focus on greater accountability for people&#x27;s inappro...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: [https://www.verywellmind.com/what-is-self-determination-theory-2795387](https://www.verywellmind.com/what-is-self-determination-theory-2795387)  
+   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>

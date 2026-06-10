@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:56:10'
 parent_title: How Defaults Quietly Shape Your Day | Better Change
 parent_permalink: /defaults/
 parent_nav_short_title: Defaults
@@ -265,7 +266,6 @@ next_link:
   permalink: /precommitment/
   short_title: Precommitment
   heading_title: Let your calmer self choose first
-date: '2026-06-05 15:56:10 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-1.webp
@@ -278,11 +278,11 @@ Can payday [defaults]({{ 'defaults/' | relative_url }}) make [saving]({{ 'saving
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-1-dark.svg" | relative_url }}" alt="Payday saving illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader idea of [choice architecture]({{ 'defaults/' | relative_url }}), payday saving is one of the clearest examples of using a default to protect a long-term goal from short-term impulses. The saver still retains control and can change or stop the transfer, but the ordinary path now favours saving rather than spending.
+Within the broader idea of choice architecture, payday saving is one of the clearest examples of using a default to protect a long-term goal from short-term impulses. The saver still retains control and can change or stop the transfer, but the ordinary path now favours saving rather than spending.
 
 ## Why timing changes the saving decision
 
-The most important feature of an [automatic savings]({{ 'money-defaults/' | relative_url }}) system is often not the amount but the timing.
+The most important feature of an automatic savings system is often not the amount but the timing.
 
 When wages arrive, a bank balance temporarily looks larger than usual. That moment creates a mental impression of available money. If saving is delayed for a week or two, everyday spending, subscriptions, meals out and small discretionary purchases begin competing for the same funds. By month end, the original intention to save may remain, but the available cash has shrunk.
 
@@ -315,7 +315,7 @@ Visibility also matters. A savings account that sits beside the current account 
 
 The objective is not to make money inaccessible. It is to create a small pause between wanting to spend and actually spending. That pause often gives long-term intentions a chance to reappear.
 
-Interestingly, evidence from retirement saving suggests that [automatic saving]({{ 'money-defaults/' | relative_url }}) can increase accumulated assets without necessarily causing widespread financial distress or unsustainable borrowing. Studies examining automatic enrolment have found little evidence that higher default saving rates systematically translate into increased financial hardship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">CEPRThe effect of automatic enrolment on debtby W Skimmyhorn — It finds strong evidence against the hypothesis that automatic enrolment i...</span></span></span>
+Interestingly, evidence from retirement saving suggests that automatic saving can increase accumulated assets without necessarily causing widespread financial distress or unsustainable borrowing. Studies examining automatic enrolment have found little evidence that higher default saving rates systematically translate into increased financial hardship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">The effect of automatic enrolment on debtby W Skimmyhorn — It finds strong evidence against the hypothesis that automatic enrolment i...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-2-dark.svg" | relative_url }}" alt="Payday saving illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -701,99 +701,99 @@ When those three conditions are present, saving becomes less dependent on [motiv
 
 1. <a id="endnote-1"></a>
    Source: bi.team  
-   Link: [https://www.bi.team/wp-content/uploads/2022/10/Using-behavioural-science-to-help-employees-save-evaluation-of-a-payroll-savings-scheme.pdf](https://www.bi.team/wp-content/uploads/2022/10/Using-behavioural-science-to-help-employees-save-evaluation-of-a-payroll-savings-scheme.pdf)  
+   Link: <a href="https://www.bi.team/wp-content/uploads/2022/10/Using-behavioural-science-to-help-employees-save-evaluation-of-a-payroll-savings-scheme.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2022/10/Using-behavioural-science-to-help-employees-save-evaluation-of-a-payroll-savings-scheme.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The link with payroll means that the user only...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reba.global  
-   Link: [https://reba.global/resource/helping-employees-turn-earnings-into-savings.html](https://reba.global/resource/helping-employees-turn-earnings-into-savings.html)  
+   Link: <a href="https://reba.global/resource/helping-employees-turn-earnings-into-savings.html" target="_blank" rel="noopener noreferrer nofollow">https://reba.global/resource/helping-employees-turn-earnings-into-savings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to help employees turn earnings into savings9 Dec 2025 — The answer lies in making saving simple, automatic, and achievable...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cepr.org  
-   Link: [https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt](https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEPRThe effect of automatic enrolment on debtby W Skimmyhorn — It finds strong evidence against the hypothesis that automatic enrolment i...</p></details>
+   Link: <a href="https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of automatic enrolment on debtby W Skimmyhorn — It finds strong evidence against the hypothesis that automatic enrolment i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nestinsight.org.uk  
    Title: NEST Insight How does pension automatic enrolment affect savings?  
-   Link: [https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf](https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf)  
+   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</p></details>
    Published: August 5, 2024  
 
 5. <a id="endnote-5"></a>
    Source: cris.maastrichtuniversity.nl  
-   Link: [https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf](https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf)  
+   Link: <a href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ifs.org.uk  
    Title: automatic enrolment too successful nudge boost pension saving  
-   Link: [https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving](https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving)  
+   Link: <a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Fiscal Studiestoo successful a nudge to boost pension saving?18 May 2020 — Automatic enrolment increased pension membership...</p></details>
    Published: May 2020  
 
 7. <a id="endnote-7"></a>
    Source: nestinsight.org.uk  
-   Link: [https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf](https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf)  
+   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Easier to SaveIn the payroll saving model, if employees sign up to save, a portion of their pay is put into an accessible cash-savings ac...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/automatic-vs-manual-savings-what-research-says-millie-wong-a5ihc](https://www.linkedin.com/pulse/automatic-vs-manual-savings-what-research-says-millie-wong-a5ihc)  
+   Link: <a href="https://www.linkedin.com/pulse/automatic-vs-manual-savings-what-research-says-millie-wong-a5ihc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/automatic-vs-manual-savings-what-research-says-millie-wong-a5ihc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic vs Manual Savings — What Research SaysWeek 3: Set up the automatic transfer for 2 days after payday. Start with 50% of your tar...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: vle.actuaries.org.uk  
-   Link: [https://vle.actuaries.org.uk/pluginfile.php/151603/mod_resource/content/2/DC%20PAD%20Participation%20Paper%20%281%29%20-%20disc.pdf](https://vle.actuaries.org.uk/pluginfile.php/151603/mod_resource/content/2/DC%20PAD%20Participation%20Paper%20%281%29%20-%20disc.pdf)  
+   Link: <a href="https://vle.actuaries.org.uk/pluginfile.php/151603/mod_resource/content/2/DC%20PAD%20Participation%20Paper%20%281%29%20-%20disc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vle.actuaries.org.uk/pluginfile.php/151603/mod_resource/content/2/DC%20PAD%20Participation%20Paper%20%281%29%20-%20disc.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Participation Market ResearchPeople saving for longer. Automatic enrolment. 4.1. Automatic enrolment has resulted in many more people sav...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: GOV.UK  
    Title: www.gov.uk Consumer rights Consumer protection and rights for goods and services  
-   Link: [https://www.gov.uk/consumer-protection-rights](https://www.gov.uk/consumer-protection-rights)  
+   Link: <a href="https://www.gov.uk/consumer-protection-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/consumer-protection-rights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rightsConsumer protection and rights for goods and services - returning faulty goods, consumer credit, credit and store cards, refunds...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bi.team  
    Title: While auto-enrolment brought people into the system, it also anchored many  
-   Link: [https://www.bi.team/comment/building-on-auto-enrolment-supporting-people-to-save-for-retirement/](https://www.bi.team/comment/building-on-auto-enrolment-supporting-people-to-save-for-retirement/)  
+   Link: <a href="https://www.bi.team/comment/building-on-auto-enrolment-supporting-people-to-save-for-retirement/" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/comment/building-on-auto-enrolment-supporting-people-to-save-for-retirement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building on auto-enrolment: supporting people to save for...27 Nov 2025 — Yet defaults primarily address participation rather than adequacy...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dol.gov  
    Title: automatic enrollment in retirement savings vehicles  
-   Link: [https://www.dol.gov/sites/dolgov/files/ebsa/pdf_files/automatic-enrollment-in-retirement-savings-vehicles.pdf](https://www.dol.gov/sites/dolgov/files/ebsa/pdf_files/automatic-enrollment-in-retirement-savings-vehicles.pdf)  
+   Link: <a href="https://www.dol.gov/sites/dolgov/files/ebsa/pdf_files/automatic-enrollment-in-retirement-savings-vehicles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dol.gov/sites/dolgov/files/ebsa/pdf_files/automatic-enrollment-in-retirement-savings-vehicles.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Burke · 2015 · Cited by 4 — In this study, we use data from the 2008 and 2010 waves of the HRS to examine how employers&#x27; automatic e...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: maps.org.uk  
    Title: using behavioural science to improve financial wellbeing june 2020  
-   Link: [https://maps.org.uk/content/dam/maps-corporate/en/our-work/using-behavioural-science-to-improve-financial-wellbeing-june-2020.pdf](https://maps.org.uk/content/dam/maps-corporate/en/our-work/using-behavioural-science-to-improve-financial-wellbeing-june-2020.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial wellbeing... [Behavioural Evidence](&amp;#123;&amp;#123; &#x27;proof-first/&#x27; | relative_url &amp;#125;&amp;#125;) Hub97 (B-Hub) and Ideas4298, a US-based non-profit that uses insights from behavioural scienc...</p></details>
+   Link: <a href="https://maps.org.uk/content/dam/maps-corporate/en/our-work/using-behavioural-science-to-improve-financial-wellbeing-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/content/dam/maps-corporate/en/our-work/using-behavioural-science-to-improve-financial-wellbeing-june-2020.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial wellbeing... Behavioural Evidence Hub97 (B-Hub) and Ideas4298, a US-based non-profit that uses insights from behavioural scienc...</p></details>
    Published: june 2020  
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
    Title: the system that makes saving 1 000 month automatic edcf5bccf9ba  
-   Link: [https://medium.com/illumination/the-system-that-makes-saving-1-000-month-automatic-edcf5bccf9ba](https://medium.com/illumination/the-system-that-makes-saving-1-000-month-automatic-edcf5bccf9ba)  
+   Link: <a href="https://medium.com/illumination/the-system-that-makes-saving-1-000-month-automatic-edcf5bccf9ba" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/the-system-that-makes-saving-1-000-month-automatic-edcf5bccf9ba</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The System That Makes Saving $1000/Month AutomaticStep 3 (10 minutes): Set up automatic transfers on your payday. Fixed expenses to Bills...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: understandingsociety.ac.uk  
    Title: How does pension automatic enrolment affect savings?  
-   Link: [https://www.understandingsociety.ac.uk/research/publications/publication-578339/](https://www.understandingsociety.ac.uk/research/publications/publication-578339/)  
+   Link: <a href="https://www.understandingsociety.ac.uk/research/publications/publication-578339/" target="_blank" rel="noopener noreferrer nofollow">https://www.understandingsociety.ac.uk/research/publications/publication-578339/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Firth · 2024 — A broad evidence base has established that the policy substantially increases pension participation rates, leading to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: indexbox.io  
    Title: britains 100 billion grid upgrade consumer costs revealed in 2026  
-   Link: [https://www.indexbox.io/blog/britains-100-billion-grid-upgrade-consumer-costs-revealed-in-2026/](https://www.indexbox.io/blog/britains-100-billion-grid-upgrade-consumer-costs-revealed-in-2026/)  
+   Link: <a href="https://www.indexbox.io/blog/britains-100-billion-grid-upgrade-consumer-costs-revealed-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.indexbox.io/blog/britains-100-billion-grid-upgrade-consumer-costs-revealed-in-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s £100 Billion Grid Upgrade: Consumer Costs Revealed in 2026 | Energy Bills Analysis - News and Statistics...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: disputeresolutionombudsman.org  
-   Link: [https://www.disputeresolutionombudsman.org/articles/who-is-a-consumer-and-why-does-it-matter](https://www.disputeresolutionombudsman.org/articles/who-is-a-consumer-and-why-does-it-matter)  
+   Link: <a href="https://www.disputeresolutionombudsman.org/articles/who-is-a-consumer-and-why-does-it-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.disputeresolutionombudsman.org/articles/who-is-a-consumer-and-why-does-it-matter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>purchasing decisions influenced by sustainability, value for...Read more...</p></details>

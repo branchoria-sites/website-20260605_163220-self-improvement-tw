@@ -512,11 +512,11 @@ This matters because binge-viewing is enjoyable, common and often genuinely rela
 
 The late-night streaming decision is unusually unfair. By the time the credits roll, the viewer is tired, comfortable and already inside the story. The choice is not “sleep or television” in the abstract; it is “leave the warm, rewarding, frictionless thing right now, or let the next thing happen automatically”. That is why advice such as “just be disciplined” usually fails. It asks the weakest part of the evening to do the hardest work.
 
-Research on binge viewing and sleep points to a specific mechanism: cognitive pre-sleep arousal. In a 2017 study of young adults published in the *Journal of Clinical Sleep Medicine*, higher binge-viewing [frequency]({{ 'frequency/' | relative_url }}) was associated with poorer sleep quality, more fatigue and more insomnia symptoms, while ordinary television viewing was not associated in the same way. The authors found that cognitive pre-sleep arousal helped explain the relationship, [meaning]({{ 'meaning/' | relative_url }}) the problem was not only the screen but the mental activation created by continuing an engaging narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PMCby L Exelmans · 2017 · Cited by 287 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</span></span></span>
+Research on binge viewing and sleep points to a specific mechanism: cognitive pre-sleep arousal. In a 2017 study of young adults published in the *Journal of Clinical Sleep Medicine*, higher binge-viewing [frequency]({{ 'frequency/' | relative_url }}) was associated with poorer sleep quality, more fatigue and more insomnia symptoms, while ordinary television viewing was not associated in the same way. The authors found that cognitive pre-sleep arousal helped explain the relationship, [meaning]({{ 'meaning/' | relative_url }}) the problem was not only the screen but the mental activation created by continuing an engaging narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">by L Exelmans · 2017 · Cited by 287 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</span></span></span>
 
 That distinction is useful. Watching a single calm programme at 8.30 pm is not the same behavioural problem as starting a suspenseful series at 10.45 pm with [autoplay]({{ 'autoplay/' | relative_url }}) enabled. The second situation combines several triggers: unresolved plot, low effort to continue, an immediate reward, and a delayed cost that will be paid tomorrow morning. [Self improvement]({{ 'self-improvement-that-works/' | relative_url }}) works here when it changes that situation before it becomes a live negotiation.
 
-The evidence is not one-sided enough to justify panic. A 2023 sleep-laboratory study found that suspenseful series and cliffhangers did not produce large impairments in objective sleep architecture among healthy young adults, although cliffhangers produced subtler changes in sleep-related brain activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectPre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — The association between binge-wa...</span></span></span> The practical conclusion is not “never watch television at night”. It is more precise: do not build your bedtime around the most stimulating, unfinished, automatically continuing content when you are already trying to protect sleep.
+The evidence is not one-sided enough to justify panic. A 2023 sleep-laboratory study found that suspenseful series and cliffhangers did not produce large impairments in objective sleep architecture among healthy young adults, although cliffhangers produced subtler changes in sleep-related brain activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — The association between binge-wa...</span></span></span> The practical conclusion is not “never watch television at night”. It is more precise: do not build your bedtime around the most stimulating, unfinished, automatically continuing content when you are already trying to protect sleep.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-1-dark.svg" | relative_url }}" alt="Sleep First illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -582,7 +582,7 @@ For streaming, the plan should target the exact danger moment. “Sleep earlier�
 
 </div>
 
-The Behaviour Change Technique Taxonomy identifies active ingredients such as action planning, [prompts and cues]({{ 'cues/' | relative_url }}), self-monitoring, environmental restructuring and self-reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A bedtime system can use all of these without becoming complicated:
+The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy identifies active ingredients such as action planning, prompts and cues, self-monitoring, environmental restructuring and self-reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A bedtime system can use all of these without becoming complicated:
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -1058,213 +1058,213 @@ A workable rule is: entertainment is chosen while awake; sleep is protected whil
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby L Exelmans · 2017 · Cited by 287 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Exelmans · 2017 · Cited by 287 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: jcsm.aasm.org  
-   Link: [https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704](https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JCSMBinge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 285 — Higher binge viewing frequency was assoc...</p></details>
+   Link: <a href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow">https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 285 — Higher binge viewing frequency was assoc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1389945723000072](https://www.sciencedirect.com/science/article/pii/S1389945723000072)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectPre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — The association between binge-wa...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945723000072</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — The association between binge-wa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: help.netflix.com  
-   Link: [https://help.netflix.com/en/node/121518](https://help.netflix.com/en/node/121518)  
+   Link: <a href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/121518</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2412.16040](https://arxiv.org/abs/2412.16040)  
+   Link: <a href="https://arxiv.org/abs/2412.16040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.16040</a>  
 
 6. <a id="endnote-6"></a>
    Source: health.harvard.edu  
    Title: blue light has a dark side  
-   Link: [https://www.health.harvard.edu/healthy-aging-and-longevity/blue-light-has-a-dark-side](https://www.health.harvard.edu/healthy-aging-and-longevity/blue-light-has-a-dark-side)  
+   Link: <a href="https://www.health.harvard.edu/healthy-aging-and-longevity/blue-light-has-a-dark-side" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/healthy-aging-and-longevity/blue-light-has-a-dark-side</a>  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Implementation Intentions and Goal Achievement  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
 8. <a id="endnote-8"></a>
    Source: time.com  
    Title: How to Stop Procrastinating at Bedtime and Actually Go to Sleep  
-   Link: [https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/](https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/)  
+   Link: <a href="https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 377270365 Binge Watching Sleep Quality and Fatigue among Emerging Adults  
-   Link: [https://www.researchgate.net/publication/377270365_Binge_Watching_Sleep_Quality_and_Fatigue_among_Emerging_Adults](https://www.researchgate.net/publication/377270365_Binge_Watching_Sleep_Quality_and_Fatigue_among_Emerging_Adults)  
+   Link: <a href="https://www.researchgate.net/publication/377270365_Binge_Watching_Sleep_Quality_and_Fatigue_among_Emerging_Adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377270365_Binge_Watching_Sleep_Quality_and_Fatigue_among_Emerging_Adults</a>  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 318641198 Binge Viewing Sleep and the Role of Pre Sleep Arousal  
-   Link: [https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal](https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal)  
+   Link: <a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/372055333_To_Binge_Watch_TV_Series_How_a_Leisure_Activity_May_Affect_Sleep_Mood_and_Quality_of_Life](https://www.researchgate.net/publication/372055333_To_Binge_Watch_TV_Series_How_a_Leisure_Activity_May_Affect_Sleep_Mood_and_Quality_of_Life)  
+   Link: <a href="https://www.researchgate.net/publication/372055333_To_Binge_Watch_TV_Series_How_a_Leisure_Activity_May_Affect_Sleep_Mood_and_Quality_of_Life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372055333_To_Binge_Watch_TV_Series_How_a_Leisure_Activity_May_Affect_Sleep_Mood_and_Quality_of_Life</a>  
 
 13. <a id="endnote-13"></a>
    Source: help.netflix.com  
-   Link: [https://help.netflix.com/en/node/2102](https://help.netflix.com/en/node/2102)  
+   Link: <a href="https://help.netflix.com/en/node/2102" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/2102</a>  
 
 14. <a id="endnote-14"></a>
    Source: help.netflix.com  
-   Link: [https://help.netflix.com/en/node/100365](https://help.netflix.com/en/node/100365)  
+   Link: <a href="https://help.netflix.com/en/node/100365" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/100365</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9ZXQSvQbBrE&vl=en](https://www.youtube.com/watch?v=9ZXQSvQbBrE&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=9ZXQSvQbBrE&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ZXQSvQbBrE&amp;vl=en</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KZQtsHvd4ss](https://www.youtube.com/watch?v=KZQtsHvd4ss)  
+   Link: <a href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KZQtsHvd4ss</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qJCTE7BXWg4&vl=en-GB](https://www.youtube.com/watch?v=qJCTE7BXWg4&vl=en-GB)  
+   Link: <a href="https://www.youtube.com/watch?v=qJCTE7BXWg4&amp;vl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qJCTE7BXWg4&amp;vl=en-GB</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844024038799](https://www.sciencedirect.com/science/article/pii/S2405844024038799)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024038799" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024038799</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1389945724003186](https://www.sciencedirect.com/science/article/pii/S1389945724003186)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1389945724003186" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945724003186</a>  
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/cognitive-neuroeconomics/you-me-and-autoplay-the-neuroscience-behind-binge-regret-0f41155c58dd](https://medium.com/cognitive-neuroeconomics/you-me-and-autoplay-the-neuroscience-behind-binge-regret-0f41155c58dd)  
+   Link: <a href="https://medium.com/cognitive-neuroeconomics/you-me-and-autoplay-the-neuroscience-behind-binge-regret-0f41155c58dd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/cognitive-neuroeconomics/you-me-and-autoplay-the-neuroscience-behind-binge-regret-0f41155c58dd</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: How binge watching TV affects your sleep  
-   Link: [https://www.youtube.com/watch?v=-_2fHG8Icuw](https://www.youtube.com/watch?v=-_2fHG8Icuw)  
+   Link: <a href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_2fHG8Icuw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Feel Like I&#x27;m Wasting Time: How to Stop Binge-Watching as an Avoidance Technique...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UoyVWdYyONk](https://www.youtube.com/watch?v=UoyVWdYyONk)  
+   Link: <a href="https://www.youtube.com/watch?v=UoyVWdYyONk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UoyVWdYyONk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Binge-Watching Affects Your Health | WebMD...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How Binge-Watching Affects Your Health | Web MD  
-   Link: [https://www.youtube.com/watch?v=s9X-bm6MpPE](https://www.youtube.com/watch?v=s9X-bm6MpPE)  
+   Link: <a href="https://www.youtube.com/watch?v=s9X-bm6MpPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s9X-bm6MpPE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to STOP Binge Watching YouTube (and 2x Productivity)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: How to STOP Binge Watching You Tube (and 2x Productivity)  
-   Link: [https://www.youtube.com/watch?v=NP7xT8NeZ8k](https://www.youtube.com/watch?v=NP7xT8NeZ8k)  
+   Link: <a href="https://www.youtube.com/watch?v=NP7xT8NeZ8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NP7xT8NeZ8k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Life without internet (pros &amp; cons) ·· Learnings from my time offline ·· Digital Minimalism...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Z9_DfuoHcbk](https://www.youtube.com/watch?v=Z9_DfuoHcbk)  
+   Link: <a href="https://www.youtube.com/watch?v=Z9_DfuoHcbk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z9_DfuoHcbk</a>  
 
 26. <a id="endnote-26"></a>
    Source: broadbandtvnews.com  
-   Link: [https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/](https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/)  
+   Link: <a href="https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/" target="_blank" rel="noopener noreferrer nofollow">https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Broadband TV NewsOfcom report uncovers a nation of &#x27;binge viewers&#x27;August 3, 2017 — 3 Aug 2017 — But around a third (32%) of adults admit...</p></details>
    Published: August 3, 2017  
 
 27. <a id="endnote-27"></a>
    Source: thensf.org  
    Title: screen use disrupts precious sleep time  
-   Link: [https://www.thensf.org/screen-use-disrupts-precious-sleep-time/](https://www.thensf.org/screen-use-disrupts-precious-sleep-time/)  
+   Link: <a href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/screen-use-disrupts-precious-sleep-time/</a>  
 
 28. <a id="endnote-28"></a>
    Source: sleephealthfoundation.org.au  
-   Link: [https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep](https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep)  
+   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
 
 29. <a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
 30. <a id="endnote-30"></a>
    Source: sleepfoundation.org  
    Title: Sleep Foundation How to Build a Better Bedtime Routine for Adults  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults](https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults</a>  
 
 31. <a id="endnote-31"></a>
    Source: sleepfoundation.org  
    Title: watching tv before sleep most popular bedtime routine  
-   Link: [https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine](https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine</a>  
 
 32. <a id="endnote-32"></a>
    Source: sleepfoundation.org  
    Title: blue light  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/blue-light](https://www.sleepfoundation.org/bedroom-environment/blue-light)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
 
 33. <a id="endnote-33"></a>
    Source: sleepfoundation.org  
    Title: how blue light affects kids sleep  
-   Link: [https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep](https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep</a>  
 
 34. <a id="endnote-34"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28728618/](https://pubmed.ncbi.nlm.nih.gov/28728618/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28728618/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28728618/</a>  
 
 35. <a id="endnote-35"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
 36. <a id="endnote-36"></a>
    Source: psychopediajournals.com  
-   Link: [https://psychopediajournals.com/index.php/ijiap/article/view/637](https://psychopediajournals.com/index.php/ijiap/article/view/637)  
+   Link: <a href="https://psychopediajournals.com/index.php/ijiap/article/view/637" target="_blank" rel="noopener noreferrer nofollow">https://psychopediajournals.com/index.php/ijiap/article/view/637</a>  
 
 37. <a id="endnote-37"></a>
    Source: chronobiologyinmedicine.org  
-   Link: [https://www.chronobiologyinmedicine.org/journal/view.php?number=167](https://www.chronobiologyinmedicine.org/journal/view.php?number=167)  
+   Link: <a href="https://www.chronobiologyinmedicine.org/journal/view.php?number=167" target="_blank" rel="noopener noreferrer nofollow">https://www.chronobiologyinmedicine.org/journal/view.php?number=167</a>  
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
 39. <a id="endnote-39"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e](https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e)  
+   Link: <a href="https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e</a>  
 
 40. <a id="endnote-40"></a>
    Source: consultant360.com  
-   Link: [https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep](https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep)  
+   Link: <a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
 
 41. <a id="endnote-41"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/893194526/PDF-Binge-Watching-3](https://www.scribd.com/document/893194526/PDF-Binge-Watching-3)  
+   Link: <a href="https://www.scribd.com/document/893194526/PDF-Binge-Watching-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/893194526/PDF-Binge-Watching-3</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ClevelandClinic/posts/binge-watching-can-disrupt-sleep-and-leave-you-feeling-fatigued-the-next-day-lea/1175599401282014/](https://www.facebook.com/ClevelandClinic/posts/binge-watching-can-disrupt-sleep-and-leave-you-feeling-fatigued-the-next-day-lea/1175599401282014/)  
+   Link: <a href="https://www.facebook.com/ClevelandClinic/posts/binge-watching-can-disrupt-sleep-and-leave-you-feeling-fatigued-the-next-day-lea/1175599401282014/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClevelandClinic/posts/binge-watching-can-disrupt-sleep-and-leave-you-feeling-fatigued-the-next-day-lea/1175599401282014/</a>  
 
 43. <a id="endnote-43"></a>
    Source: kidshealth.org  
-   Link: [https://kidshealth.org/en/teens/blue-light.html](https://kidshealth.org/en/teens/blue-light.html)  
+   Link: <a href="https://kidshealth.org/en/teens/blue-light.html" target="_blank" rel="noopener noreferrer nofollow">https://kidshealth.org/en/teens/blue-light.html</a>  
 
 44. <a id="endnote-44"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/](https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/)  
+   Link: <a href="https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/</a>  
 
 45. <a id="endnote-45"></a>
    Source: webmd.com  
-   Link: [https://www.webmd.com/sleep-disorders/sleep-blue-light](https://www.webmd.com/sleep-disorders/sleep-blue-light)  
+   Link: <a href="https://www.webmd.com/sleep-disorders/sleep-blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/sleep-disorders/sleep-blue-light</a>  
 
 46. <a id="endnote-46"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques</a>  
 
 47. <a id="endnote-47"></a>
    Source: nationalelfservice.net  
-   Link: [https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/](https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/)  
+   Link: <a href="https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/</a>  

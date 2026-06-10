@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:51:12'
 parent_title: How Coffee Can Trigger the First Work Task | Better Change
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
@@ -259,7 +260,6 @@ prev_link:
   permalink: /if-then-plan/
   short_title: If Then Plan
   heading_title: Why If Then Coffee Plans Work
-date: '2026-06-05 15:51:12 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1.webp
@@ -272,7 +272,7 @@ A two-minute task review before opening email is one of the smallest productivit
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-dark.svg" | relative_url }}" alt="Tiny Review illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When the first screen of the day is an inbox, attention often begins reactively. Requests, notifications and unanswered messages compete for priority before any deliberate choice has been made. A brief review during a [morning coffee]({{ 'coffee-cue/' | relative_url }}) routine creates a different starting point: identify the most important task, define the first visible action and begin it before checking messages. Research on implementation intentions suggests that specific “when X happens, I will do Y” plans make follow-through more likely by linking behaviour to a concrete cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
+When the first screen of the day is an inbox, attention often begins reactively. Requests, notifications and unanswered messages compete for priority before any deliberate choice has been made. A brief review during a morning coffee routine creates a different starting point: identify the most important task, define the first visible action and begin it before checking messages. Research on implementation intentions suggests that specific “when X happens, I will do Y” plans make follow-through more likely by linking behaviour to a concrete cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
 
 This review is deliberately small. Its value comes from reducing hesitation, not from producing a perfect plan.
 
@@ -778,18 +778,18 @@ That sequence is small enough to repeat every day and specific enough to become 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Implementation intention  
-   Link: [https://en.wikipedia.org/wiki/Implementation_intention](https://en.wikipedia.org/wiki/Implementation_intention)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation_intention</a>  
 
 2. <a id="endnote-2"></a>
    Source: timecraftadvisory.com  
-   Link: [https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus](https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus)  
+   Link: <a href="https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeCraft AdvisoryThe 2-Minute Email Rule Is Ruining Your FocusMarch 26, 2026 — The two-minute rule creates an implicit incentive to chec...</p></details>
    Published: March 26, 2026  
 
 3. <a id="endnote-3"></a>
    Source: cruciallearning.com  
    Title: Crucial Learning The Two-Minute Rule and How to Use It  
-   Link: [https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/](https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/)  
+   Link: <a href="https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/" target="_blank" rel="noopener noreferrer nofollow">https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crucial LearningThe Two-Minute Rule and How to Use ItMay 22, 2019 — 21 May 2019 — When you&#x27;re processing your email or physical in-tray a...</p></details>
    Published: May 22, 2019  
 
@@ -797,56 +797,56 @@ That sequence is small enough to repeat every day and specific enough to become 
 
 4. <a id="endnote-4"></a>
    Source: thinkingdirections.com  
-   Link: [https://www.thinkingdirections.com/tame-email-with-the-2-minute-rule/](https://www.thinkingdirections.com/tame-email-with-the-2-minute-rule/)  
+   Link: <a href="https://www.thinkingdirections.com/tame-email-with-the-2-minute-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkingdirections.com/tame-email-with-the-2-minute-rule/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tame Email with the 2-Minute RuleThe 2-minute rule is a heuristic to use in the first pass to decide whether to take action immediately o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: checklist.com  
-   Link: [https://checklist.com/tips/two-minute-rule](https://checklist.com/tips/two-minute-rule)  
+   Link: <a href="https://checklist.com/tips/two-minute-rule" target="_blank" rel="noopener noreferrer nofollow">https://checklist.com/tips/two-minute-rule</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Two-Minute Rule: Boost Your Productivity InstantlyThe Two-Minute Rule states that if a task will take less than two minutes to comple...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: businessinsider.com  
    Title: I Tried the 2-Minute Productivity Rule for Easy Tasks  
-   Link: [https://www.businessinsider.com/i-tried-two-minute-productivity-rule-getting-tasks-done-quickly-2022-1](https://www.businessinsider.com/i-tried-two-minute-productivity-rule-getting-tasks-done-quickly-2022-1)  
+   Link: <a href="https://www.businessinsider.com/i-tried-two-minute-productivity-rule-getting-tasks-done-quickly-2022-1" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/i-tried-two-minute-productivity-rule-getting-tasks-done-quickly-2022-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2022 — I tried the &#x27;2-minute rule&#x27; for getting simple tasks done quickly to boost productivity. It helped me manage stress and focu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: timely.com  
    Title: The two-minute rule: What it is and how it works  
-   Link: [https://www.timely.com/blog/two-minute-rule/](https://www.timely.com/blog/two-minute-rule/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Timely1 Aug 2022 — “two-minute rule”: the idea that if a task takes less than two minutes, we should do it now. But should we trust its p...</p></details>
+   Link: <a href="https://www.timely.com/blog/two-minute-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.timely.com/blog/two-minute-rule/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2022 — “two-minute rule”: the idea that if a task takes less than two minutes, we should do it now. But should we trust its p...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cannelevate.com.au  
    Title: two minute rule productivity enhancement  
-   Link: [https://www.cannelevate.com.au/article/two-minute-rule-productivity-enhancement/](https://www.cannelevate.com.au/article/two-minute-rule-productivity-enhancement/)  
+   Link: <a href="https://www.cannelevate.com.au/article/two-minute-rule-productivity-enhancement/" target="_blank" rel="noopener noreferrer nofollow">https://www.cannelevate.com.au/article/two-minute-rule-productivity-enhancement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Two-Minute Rule: Understanding Productivity...14 Sept 2025 — Discover how the Two-Minute Rule transforms workplace productivity thro...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/getdisciplined/comments/1mucpnl/the_2minute_rule_destroyed_my_productivity_and/](https://www.reddit.com/r/getdisciplined/comments/1mucpnl/the_2minute_rule_destroyed_my_productivity_and/)  
+   Link: <a href="https://www.reddit.com/r/getdisciplined/comments/1mucpnl/the_2minute_rule_destroyed_my_productivity_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/getdisciplined/comments/1mucpnl/the_2minute_rule_destroyed_my_productivity_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>, you should do it right away. The 2-minute rule assumes that...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: exoplan.io  
    Title: Time Blocking: Does It Actually Work?  
-   Link: [https://exoplan.io/blog/time-blocking-science/](https://exoplan.io/blog/time-blocking-science/)  
+   Link: <a href="https://exoplan.io/blog/time-blocking-science/" target="_blank" rel="noopener noreferrer nofollow">https://exoplan.io/blog/time-blocking-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Research Says11 Feb 2026 — Time blocking is implementation intentions applied to your entire day. Build 10-15 minute buffers bet...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Click Up Morning Routine: How to Start Your Day Without the Chaos  
-   Link: [https://www.youtube.com/watch?v=OSpdBnWxuoQ](https://www.youtube.com/watch?v=OSpdBnWxuoQ)  
+   Link: <a href="https://www.youtube.com/watch?v=OSpdBnWxuoQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OSpdBnWxuoQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Master Email Efficiency: Shift to a Task Mindset for Better Message Prioritization &amp; Productivity...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The SECRET Brain Hack You're Missing When It Comes To Making New Habits Stick  
-   Link: [https://www.youtube.com/watch?v=CrwqYp7rs7Y](https://www.youtube.com/watch?v=CrwqYp7rs7Y)  
+   Link: <a href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CrwqYp7rs7Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to work hard and achieve nothing... using email...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OZWewKyQJn0](https://www.youtube.com/watch?v=OZWewKyQJn0)  
+   Link: <a href="https://www.youtube.com/watch?v=OZWewKyQJn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OZWewKyQJn0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eat That Frog &amp; The ABCDE Method...</p></details>

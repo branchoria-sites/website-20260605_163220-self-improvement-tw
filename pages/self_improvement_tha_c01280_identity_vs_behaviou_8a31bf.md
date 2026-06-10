@@ -506,13 +506,13 @@ Trying to “become a new person” can be motivating, but it can also become a 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-overview.webp" | relative_url }}" alt="Overview image for Identity" loading="eager" decoding="sync" fetchpriority="high">
-The risk is that identity talk feels profound while remaining untestable. “I am becoming a disciplined person” may inspire a journal entry, but “I put my phone outside the bedroom at 10 pm” can be checked tonight. The most useful self-improvement plan treats identity as a supporting story, not as the main mechanism. Behaviour is the evidence. Repetition, context, cues, [feedback]({{ 'feedback/' | relative_url }}) and planning are what make change visible enough to adjust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
+The risk is that identity talk feels profound while remaining untestable. “I am becoming a disciplined person” may inspire a journal entry, but “I put my phone outside the bedroom at 10 pm” can be checked tonight. The most useful self-improvement plan treats identity as a supporting story, not as the main mechanism. Behaviour is the evidence. Repetition, context, cues, [feedback]({{ 'feedback/' | relative_url }}) and planning are what make change visible enough to adjust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
 
 ## Why identity talk is so appealing
 
 Identity-based [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) has an obvious attraction: it goes deeper than a single target. Instead of saying “I want to run three times this week”, a person says “I am a runner.” Instead of “I will write for twenty minutes”, they say “I am a writer.” Popular habit advice often argues that durable change comes from shifting who you believe you are, not merely what outcome you want. James Clear’s widely read account of “identity-based habits”, for example, frames behaviour as a reflection of current identity and encourages people to build habits that provide evidence for a new self-image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</span></span></span>
 
-There is a serious psychological reason this idea lands. Identity is not just decoration around behaviour. Research on habit and identity describes self-identities as mental representations of who people are, including beliefs, motives, self-perceptions and personal narratives. Habits can become tied to identity, and identity can also make repeated action feel more natural. A person who sees exercise as part of “who I am” may need less debate before leaving the house; a person who sees smoking, drinking, overworking or avoidance as part of “how people like me cope” may find change harder because the behaviour is not just a behaviour any more. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
+There is a serious psychological reason this idea lands. Identity is not just decoration around behaviour. Research on habit and identity describes self-identities as mental representations of who people are, including beliefs, motives, self-perceptions and personal narratives. Habits can become tied to identity, and identity can also make repeated action feel more natural. A person who sees exercise as part of “who I am” may need less debate before leaving the house; a person who sees smoking, drinking, overworking or avoidance as part of “how people like me cope” may find change harder because the behaviour is not just a behaviour any more. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
 
 Identity also works socially. A 2024 systematic review and meta-analysis on social identity and health-related behaviour found a small but positive overall association between social identification and health-related behaviour, including actual behaviour as well as intentions and attitudes. The association was stronger when the identity was directly health-related and when the expected link between the group identity and the behaviour was positive. In plain terms, the groups people feel part of can make some behaviours feel normal, admirable or expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -532,7 +532,7 @@ Implementation intentions are one of the clearest examples. They use an if-then 
 
 Action planning shows the same principle in practical health behaviour. A 2022 systematic review in *BMJ Open* described action planning as a brief and effective behaviour change technique for improving physical activity and diet behaviour, especially when combined with other relevant techniques and mechanisms. Again, the useful move is from aspiration to specification: what action, when, where, how often, and with what support? <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/12/8/e058229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Habit research adds another reason to privilege behaviour. Habits form when a behaviour is repeated in a consistent context until the context itself starts to cue the action. Gardner’s review on habit formation recommends simple, sustainable behaviour-change advice built around repetition, context and automaticity. Lally’s UCL research is often summarised by the average figure of 66 days for a new behaviour to become automatic, but the more important lesson is the range: habit formation is variable, context-sensitive and rarely instant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
+Habit research adds another reason to privilege behaviour. Habits form when a behaviour is repeated in a consistent context until the context itself starts to cue the action. Gardner’s review on habit formation recommends simple, sustainable behaviour-change advice built around repetition, context and automaticity. Lally’s UCL research is often summarised by the average figure of 66 days for a new behaviour to become automatic, but the more important lesson is the range: habit formation is variable, context-sensitive and rarely instant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
 
 So the behaviour test is blunt but fair:
 
@@ -553,7 +553,7 @@ This is where behaviour design is kinder than identity judgement. It does not re
 
 ## When identity becomes a distraction
 
-The main risk of identity-first self improvement is premature self-definition. A person declares a new identity before building enough [behavioural evidence]({{ 'proof-first/' | relative_url }}) to support it. For a few days, the label feels energising. Then ordinary life returns. The person misses a workout, spends impulsively, avoids the hard conversation, or scrolls late at night. Now the problem is not only a missed behaviour; it feels like a failed self.
+The main risk of identity-first self improvement is premature self-definition. A person declares a new identity before building enough behavioural evidence to support it. For a few days, the label feels energising. Then ordinary life returns. The person misses a workout, spends impulsively, avoids the hard conversation, or scrolls late at night. Now the problem is not only a missed behaviour; it feels like a failed self.
 
 This can make lapses heavier than they need to be. If the plan is behavioural, a lapse is data: the action did not happen under those conditions. If the plan is identity-heavy, a lapse may feel like exposure: perhaps I am not really disciplined, not really sober, not really creative, not really changing. That emotional load can push people towards avoidance rather than adjustment.
 
@@ -569,7 +569,7 @@ The most useful critique is not that identity is fake. It is that identity is to
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-2-dark.svg" | relative_url }}" alt="Identity illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A better plan beats a bigger self-story
 
-A better plan does not need to be grand. It needs to make the desired behaviour more likely under real conditions. That usually means shrinking the first action, choosing a cue, reducing friction, adding feedback and deciding how to recover from a miss.
+A better plan does not need to be grand. It needs to make the desired behaviour more likely under real conditions. That usually means shrinking the [first action]({{ 'first-action/' | relative_url }}), choosing a cue, reducing friction, adding feedback and deciding how to recover from a miss.
 
 Consider someone who wants to become “a morning exercise person”. The identity version might involve a strong declaration: “From now on, I am the kind of person who trains before work.” The behaviour-design version asks for the smallest reliable chain:
 
@@ -600,7 +600,7 @@ This is also why self-monitoring matters. Tracking is not morally superior; it i
 
 Identity is most useful when it is modest, chosen and behaviour-linked. It should reduce friction, not increase shame. It should help a person notice opportunities for action, not trap them in a rigid self-image.
 
-A careful identity statement has three features. First, it is tied to values rather than status. “I want to be the sort of person who keeps promises” is usually healthier than “I must be exceptional.” Second, it is connected to a [specific behaviour]({{ 'goal-setting/' | relative_url }}). “I am someone who reads before bed” is more useful than “I am intellectual.” Third, it leaves room for lapses. “I return to the plan after missing a day” is a stronger identity than “I never miss.”
+A careful identity statement has three features. First, it is tied to values rather than status. “I want to be the sort of person who keeps promises” is usually healthier than “I must be exceptional.” Second, it is connected to a specific behaviour. “I am someone who reads before bed” is more useful than “I am intellectual.” Third, it leaves room for lapses. “I return to the plan after missing a day” is a stronger identity than “I never miss.”
 
 Self-affirmation research offers a useful related lesson. Health messages can threaten people’s sense of being good or adequate, which may trigger defensive responses. A 2015 meta-analysis found that self-affirmation interventions alongside persuasive health information had positive effects on message acceptance, intentions and subsequent behaviour. The practical point is that people may change more readily when their whole self is not on trial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35995541/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -625,14 +625,14 @@ This sequence keeps identity from floating above real life. It also prevents beh
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-3-dark.svg" | relative_url }}" alt="Identity illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical difference
 
-The difference between identity change and behaviour design is not a choice between meaning and mechanics. It is a choice about order. Identity-first change says: believe you are different, then act differently. Behaviour-first change says: design a small action, repeat it in context, observe the evidence, and allow self-belief to update.
+The difference between identity change and behaviour design is not a choice between [meaning]({{ 'meaning/' | relative_url }}) and mechanics. It is a choice about order. Identity-first change says: believe you are different, then act differently. Behaviour-first change says: design a small action, repeat it in context, observe the evidence, and allow self-belief to update.
 
 The second route is usually safer because it gives the person more handles. If the action fails, the plan can be changed. If the cue is weak, the cue can be moved. If the behaviour is too large, it can be reduced. If the environment keeps defeating the plan, the environment can be redesigned. None of this requires a global verdict on the self.
 
 Identity still has a place. It can make change meaningful, protect motivation and connect behaviour to values and belonging. But it should be treated as a hypothesis that behaviour tests, not as a costume the person must somehow grow into by force of will. In self improvement that works, the question is not “How do I become a completely new person?” It is “What is the next behaviour that would make the better story more true?”
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h35hy4LcVFw" title="Behavioral scientist BJ Fogg on building lasting habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer">Behavioral scientist BJ Fogg on building lasting habits</a></p><p class="youtube-embed-meta">Channel: Stanford &middot; Views: 14.9K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h35hy4LcVFw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mnRywBvjjIs" title="Identity-based Habits | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mnRywBvjjIs" target="_blank" rel="noopener noreferrer">Identity-based Habits | James Clear</a></p><p class="youtube-embed-meta">Channel: Omaid Homayun &middot; Views: 5.0K &middot; Uploaded: March 2024 &middot; Length: 1 minute 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mnRywBvjjIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mnRywBvjjIs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -1056,234 +1056,234 @@ Identity still has a place. It can make change meaningful, protect motivation an
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementImplementation intentions extend the operational side by binding situatio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S027795362400073X](https://www.sciencedirect.com/science/article/pii/S027795362400073X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362400073X</a>  
 
 5. <a id="endnote-5"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/12/8/e058229](https://bmjopen.bmj.com/content/12/8/e058229)  
+   Link: <a href="https://bmjopen.bmj.com/content/12/8/e058229" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/12/8/e058229</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Self-perception theory  
-   Link: [https://en.wikipedia.org/wiki/Self-perception_theory](https://en.wikipedia.org/wiki/Self-perception_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self-perception_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-perception_theory</a>  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/334372119_Habit_and_Identity_Behavioral_Cognitive_Affective_and_Motivational_Facets_of_an_Integrated_Self](https://www.researchgate.net/publication/334372119_Habit_and_Identity_Behavioral_Cognitive_Affective_and_Motivational_Facets_of_an_Integrated_Self)  
+   Link: <a href="https://www.researchgate.net/publication/334372119_Habit_and_Identity_Behavioral_Cognitive_Affective_and_Motivational_Facets_of_an_Integrated_Self" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334372119_Habit_and_Identity_Behavioral_Cognitive_Affective_and_Motivational_Facets_of_an_Integrated_Self</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/277682193_Self-Perception_Theory](https://www.researchgate.net/publication/277682193_Self-Perception_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/277682193_Self-Perception_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277682193_Self-Perception_Theory</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 291356571 Cognitive Dissonance Theory Festinger  
-   Link: [https://www.researchgate.net/publication/291356571_Cognitive_Dissonance_Theory_Festinger](https://www.researchgate.net/publication/291356571_Cognitive_Dissonance_Theory_Festinger)  
+   Link: <a href="https://www.researchgate.net/publication/291356571_Cognitive_Dissonance_Theory_Festinger" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291356571_Cognitive_Dissonance_Theory_Festinger</a>  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/370326927_Self-Affirmation_Theory](https://www.researchgate.net/publication/370326927_Self-Affirmation_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/370326927_Self-Affirmation_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370326927_Self-Affirmation_Theory</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 358786633 How does habit form Guidelines for tracking real world habit formation  
-   Link: [https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation](https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation)  
+   Link: <a href="https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362855090_Behaviour_change_techniques_that_constitute_effective_planning_interventions_to_improve_physical_activity_and_diet_behaviour_for_people_with_chronic_conditions_a_systematic_review](https://www.researchgate.net/publication/362855090_Behaviour_change_techniques_that_constitute_effective_planning_interventions_to_improve_physical_activity_and_diet_behaviour_for_people_with_chronic_conditions_a_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/362855090_Behaviour_change_techniques_that_constitute_effective_planning_interventions_to_improve_physical_activity_and_diet_behaviour_for_people_with_chronic_conditions_a_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362855090_Behaviour_change_techniques_that_constitute_effective_planning_interventions_to_improve_physical_activity_and_diet_behaviour_for_people_with_chronic_conditions_a_systematic_review</a>  
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/370909605_The_Role_of_Identity_in_Human_Behavior_Research_A_Systematic_Scoping_Review](https://www.researchgate.net/publication/370909605_The_Role_of_Identity_in_Human_Behavior_Research_A_Systematic_Scoping_Review)  
+   Link: <a href="https://www.researchgate.net/publication/370909605_The_Role_of_Identity_in_Human_Behavior_Research_A_Systematic_Scoping_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370909605_The_Role_of_Identity_in_Human_Behavior_Research_A_Systematic_Scoping_Review</a>  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/317690916_Self-Determination_Theory](https://www.researchgate.net/publication/317690916_Self-Determination_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/317690916_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317690916_Self-Determination_Theory</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Identity (2003 film)  
-   Link: [https://en.wikipedia.org/wiki/Identity_%282003_film%29](https://en.wikipedia.org/wiki/Identity_%282003_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identity_%282003_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identity_%282003_film%29</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Behavior](https://en.wikipedia.org/wiki/Behavior)  
+   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Cognitive dissonance  
-   Link: [https://en.wikipedia.org/wiki/Cognitive_dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cognitive_dissonance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_dissonance</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108600246](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108600246)  
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108600246" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108600246</a>  
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021)  
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021</a>  
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0277953617305567](https://www.sciencedirect.com/science/article/abs/pii/S0277953617305567)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953617305567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0277953617305567</a>  
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/self-determination-theory](https://www.sciencedirect.com/topics/social-sciences/self-determination-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
 
 23. <a id="endnote-23"></a>
    Source: bmjopen.bmj.com  
    Title: inline supplementary material 3  
-   Link: [https://bmjopen.bmj.com/content/bmjopen/9/10/e031625/DC3/embed/inline-supplementary-material-3.pdf?download=true](https://bmjopen.bmj.com/content/bmjopen/9/10/e031625/DC3/embed/inline-supplementary-material-3.pdf?download=true)  
+   Link: <a href="https://bmjopen.bmj.com/content/bmjopen/9/10/e031625/DC3/embed/inline-supplementary-material-3.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/9/10/e031625/DC3/embed/inline-supplementary-material-3.pdf?download=true</a>  
 
 24. <a id="endnote-24"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/15/10/e107435](https://bmjopen.bmj.com/content/15/10/e107435)  
+   Link: <a href="https://bmjopen.bmj.com/content/15/10/e107435" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/15/10/e107435</a>  
 
 25. <a id="endnote-25"></a>
    Source: identity.digital  
-   Link: [https://identity.digital/](https://identity.digital/)  
+   Link: <a href="https://identity.digital/" target="_blank" rel="noopener noreferrer nofollow">https://identity.digital/</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Self-Concept: Why You Keep Acting Like the Old Version of You  
-   Link: [https://www.youtube.com/watch?v=dArt2w30X6Q](https://www.youtube.com/watch?v=dArt2w30X6Q)  
+   Link: <a href="https://www.youtube.com/watch?v=dArt2w30X6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dArt2w30X6Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-based Habits | James Clear...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Identity-based Habits | James Clear  
-   Link: [https://www.youtube.com/watch?v=mnRywBvjjIs](https://www.youtube.com/watch?v=mnRywBvjjIs)  
+   Link: <a href="https://www.youtube.com/watch?v=mnRywBvjjIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mnRywBvjjIs</a>  
 
 28. <a id="endnote-28"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/identity-based-habits](https://jamesclear.com/identity-based-habits)  
+   Link: <a href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/identity-based-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: openaccess.city.ac.uk  
    Title: Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1  
-   Link: [https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf](https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35995541/](https://pubmed.ncbi.nlm.nih.gov/35995541/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35995541/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35995541/</a>  
 
 33. <a id="endnote-33"></a>
    Source: open.ncl.ac.uk  
    Title: Theory Hub Cognitive Dissonance Theory: A review  
-   Link: [https://open.ncl.ac.uk/theories/7/cognitive-dissonance-theory/](https://open.ncl.ac.uk/theories/7/cognitive-dissonance-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/7/cognitive-dissonance-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/7/cognitive-dissonance-theory/</a>  
 
 34. <a id="endnote-34"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25133846/](https://pubmed.ncbi.nlm.nih.gov/25133846/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25133846/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25133846/</a>  
 
 35. <a id="endnote-35"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/](https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
 
 36. <a id="endnote-36"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
 
 37. <a id="endnote-37"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
 38. <a id="endnote-38"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.962150/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.962150/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.962150/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.962150/full</a>  
 
 39. <a id="endnote-39"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1253525/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1253525/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1253525/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1253525/full</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_juPDoa3GBY](https://www.youtube.com/watch?v=_juPDoa3GBY)  
+   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
 
 41. <a id="endnote-41"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: [https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/](https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/)  
+   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
 
 ### Additional References
 
 42. <a id="endnote-42"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing](https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing)  
+   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, recently unsealed archival materials reveal that Festinger and his team may have influenced the Seekers&#x27; behavior more than prev...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: How to Become Your Ideal Self | James Clear & Dr. Andrew Huberman  
-   Link: [https://www.youtube.com/watch?v=9tOjN8qp3R8](https://www.youtube.com/watch?v=9tOjN8qp3R8)  
+   Link: <a href="https://www.youtube.com/watch?v=9tOjN8qp3R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9tOjN8qp3R8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity vs Behavior: The Real Reason You&#x27;re Not Changing...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Behavioral scientist BJ Fogg on building lasting habits  
-   Link: [https://www.youtube.com/watch?v=h35hy4LcVFw](https://www.youtube.com/watch?v=h35hy4LcVFw)  
+   Link: <a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h35hy4LcVFw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Concept: Why You Keep Acting Like the Old Version of You...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: Identity vs Behavior: The Real Reason You're Not Changing  
-   Link: [https://www.youtube.com/watch?v=Bd05XIRtsbg](https://www.youtube.com/watch?v=Bd05XIRtsbg)  
+   Link: <a href="https://www.youtube.com/watch?v=Bd05XIRtsbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bd05XIRtsbg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral scientist BJ Fogg on building lasting habits...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: visualize.jove.com  
-   Link: [https://visualize.jove.com/40105110-the-relationship-between-habit-and-identity-in-health-behaviors-a-systematic-review-and-three-level-meta-analysis](https://visualize.jove.com/40105110-the-relationship-between-habit-and-identity-in-health-behaviors-a-systematic-review-and-three-level-meta-analysis)  
+   Link: <a href="https://visualize.jove.com/40105110-the-relationship-between-habit-and-identity-in-health-behaviors-a-systematic-review-and-three-level-meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://visualize.jove.com/40105110-the-relationship-between-habit-and-identity-in-health-behaviors-a-systematic-review-and-three-level-meta-analysis</a>  
 
 47. <a id="endnote-47"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/behavior](https://www.merriam-webster.com/dictionary/behavior)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavior</a>  
 
 48. <a id="endnote-48"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/cognitive-dissonance-theory](https://www.ebsco.com/research-starters/social-sciences-and-humanities/cognitive-dissonance-theory)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/cognitive-dissonance-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/cognitive-dissonance-theory</a>  
 
 49. <a id="endnote-49"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/837252289/Bem-D-J-1972-Self-perception-Theory-W-L-Berkowitz-Red-Advances-in-Experimental-Social-Psychology-Tom-6-s-1-62-Academic-Press-Httpsdo](https://www.scribd.com/document/837252289/Bem-D-J-1972-Self-perception-Theory-W-L-Berkowitz-Red-Advances-in-Experimental-Social-Psychology-Tom-6-s-1-62-Academic-Press-Httpsdo)  
+   Link: <a href="https://www.scribd.com/document/837252289/Bem-D-J-1972-Self-perception-Theory-W-L-Berkowitz-Red-Advances-in-Experimental-Social-Psychology-Tom-6-s-1-62-Academic-Press-Httpsdo" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/837252289/Bem-D-J-1972-Self-perception-Theory-W-L-Berkowitz-Red-Advances-in-Experimental-Social-Psychology-Tom-6-s-1-62-Academic-Press-Httpsdo</a>  
 
 50. <a id="endnote-50"></a>
    Source: healthline.com  
-   Link: [https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit](https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit)  
+   Link: <a href="https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/](https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/)  
+   Link: <a href="https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/</a>  

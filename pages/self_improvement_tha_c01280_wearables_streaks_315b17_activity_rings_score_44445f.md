@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:43:39'
 parent_title: When Streaks Help and When They Trap You | Better Change
 parent_permalink: /wearables/
 parent_nav_short_title: Wearables
@@ -259,7 +260,6 @@ next_link:
   permalink: /grace-days/
   short_title: Grace Days
   heading_title: Should Habit Apps Let You Miss a Day?
-date: '2026-06-05 15:43:39 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activity_rings_score_44445f-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activity_rings_score_44445f-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activ
 
 ## Introduction
 
-Activity rings are one of the most effective examples of visible [feedback]({{ 'feedback/' | relative_url }}) in self-improvement. A ring that fills as you move, exercise or stand turns an abstract health goal into something concrete and immediate. Instead of waiting weeks to notice improved fitness, you receive feedback throughout the day. That simplicity is a major reason activity rings have become one of the most popular features of modern [wearables]({{ 'wearables/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apple.com/uk/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apple.com">[Apple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apple.com</span><span class="citation-popover-snippet">AppleApple Watch - Close Your RingsMove. Exercise. Stand. Close the three Activity rings on your Apple Watch every day to live a healthie...</span></span></span>
+Activity rings are one of the most effective examples of visible [feedback]({{ 'feedback/' | relative_url }}) in self-improvement. A ring that fills as you move, exercise or stand turns an abstract health goal into something concrete and immediate. Instead of waiting weeks to notice improved fitness, you receive feedback throughout the day. That simplicity is a major reason activity rings have become one of the most popular features of modern [wearables]({{ 'wearables/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apple.com/uk/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apple.com">[Apple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apple.com</span><span class="citation-popover-snippet">Apple Watch - Close Your RingsMove. Exercise. Stand. Close the three Activity rings on your Apple Watch every day to live a healthie...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activity_rings_score_44445f-Illustration-1-dark.svg" | relative_url }}" alt="Activity Rings illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activity_rings_score_44445f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activity_rings_score_44445f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -757,214 +757,214 @@ For self-improvement that works, the ring should remain a dashboard, not a desti
 
 1. <a id="endnote-1"></a>
    Source: apple.com  
-   Link: [https://www.apple.com/uk/watch/close-your-rings/](https://www.apple.com/uk/watch/close-your-rings/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AppleApple Watch - Close Your RingsMove. Exercise. Stand. Close the three Activity rings on your Apple Watch every day to live a healthie...</p></details>
+   Link: <a href="https://www.apple.com/uk/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/watch/close-your-rings/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch - Close Your RingsMove. Exercise. Stand. Close the three Activity rings on your Apple Watch every day to live a healthie...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: apple.com  
    Title: get active with apple watch  
-   Link: [https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/](https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/)  
+   Link: <a href="https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 2025 — The Activity app is one of the most beloved Apple Watch features, encouraging users to close their three Activity rings — M...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos](https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos)  
+   Link: <a href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos](https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos)  
+   Link: <a href="https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>daily activity with Apple WatchThe blue Stand ring shows how many times in the day you&#x27;ve stood and moved for at least 1 minute per hour...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: apple.com  
-   Link: [https://www.apple.com/watch/close-your-rings/](https://www.apple.com/watch/close-your-rings/)  
+   Link: <a href="https://www.apple.com/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/watch/close-your-rings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Your RingsClose your Exercise ring by completing at least 30 minutes of activity at or above a brisk walk. The Exercise ring shows...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/guide/watch/adjust-your-activity-ring-goals-apd29b30023c/watchos](https://support.apple.com/guide/watch/adjust-your-activity-ring-goals-apd29b30023c/watchos)  
+   Link: <a href="https://support.apple.com/guide/watch/adjust-your-activity-ring-goals-apd29b30023c/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/adjust-your-activity-ring-goals-apd29b30023c/watchos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Turn the Digital Crown to a ring, then tap the Change Goals button. · Tap one of the following: Change for Today:...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/en-my/guide/iphone/iph9a08e004e/ios](https://support.apple.com/en-my/guide/iphone/iph9a08e004e/ios)  
+   Link: <a href="https://support.apple.com/en-my/guide/iphone/iph9a08e004e/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-my/guide/iphone/iph9a08e004e/ios</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap the Activity rings, scroll down, then tap Pause Rings. · Tap a duration, or tap Custom to set a custom duration.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: apple.com  
    Title: watchos 11 brings powerful health and fitness insights  
-   Link: [https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/](https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/)  
+   Link: <a href="https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2024 — watchOS 11 makes Apple Watch an even more essential companion by offering users additional actionable insights into their h...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: apple.com  
-   Link: [https://www.apple.com/uk/](https://www.apple.com/uk/)  
+   Link: <a href="https://www.apple.com/uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple (United Kingdom)Discover the world of Apple and everything iPhone, iPad, Apple Watch, Mac and Apple TV, plus accessories, entertain...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/254880647](https://discussions.apple.com/thread/254880647)  
+   Link: <a href="https://discussions.apple.com/thread/254880647" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/254880647</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to change my watch circle goals?May 22, 2023 — I used to see my step’s quantity in my watch after the last update it disappeared it used...</p></details>
    Published: May 22, 2023  
 
 11. <a id="endnote-11"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/en-gb/118638](https://support.apple.com/en-gb/118638)  
+   Link: <a href="https://support.apple.com/en-gb/118638" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-gb/118638</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find out more about how to share your activity from Apple...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: apple.com  
-   Link: [https://www.apple.com/ie/watch/close-your-rings/](https://www.apple.com/ie/watch/close-your-rings/)  
+   Link: <a href="https://www.apple.com/ie/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/ie/watch/close-your-rings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch - Close Your RingsHow to change your daily Move goal. · Open the Activity app. · Use the Digital Crown to scroll down. · Tap...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/250923213](https://discussions.apple.com/thread/250923213)  
+   Link: <a href="https://discussions.apple.com/thread/250923213" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/250923213</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>exactly does the stand activity workI have been trying to understand the behaviour of the stand activity but am still unable to. Q. How d...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: developer.apple.com  
    Title: activity rings  
-   Link: [https://developer.apple.com/design/human-interface-guidelines/activity-rings](https://developer.apple.com/design/human-interface-guidelines/activity-rings)  
+   Link: <a href="https://developer.apple.com/design/human-interface-guidelines/activity-rings" target="_blank" rel="noopener noreferrer nofollow">https://developer.apple.com/design/human-interface-guidelines/activity-rings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are designed to consistently represent progress in these specific areas.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/255700055](https://discussions.apple.com/thread/255700055)  
+   Link: <a href="https://discussions.apple.com/thread/255700055" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255700055</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rings not working. Move and exe…30 Jul 2024 — The first (and simplest) thing to try if something isn&#x27;t working right is to restart your A...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/255646346](https://discussions.apple.com/thread/255646346)  
+   Link: <a href="https://discussions.apple.com/thread/255646346" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255646346</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are my Apple Watch rings not displaye…17 Jun 2024 — Hi, I’ve been a very active Apple Watch user and I’m currently experiencing an issue...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/253349138](https://discussions.apple.com/thread/253349138)  
+   Link: <a href="https://discussions.apple.com/thread/253349138" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/253349138</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>move ring&#x27;s goal of a past day9 Nov 2021 — Hello everyone is it possible modify the move ring’s goal of a past day? my Apple Watch went o...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Apple Watch Activity Rings Explained  
-   Link: [https://www.youtube.com/watch?v=kZI5_EsgVyU](https://www.youtube.com/watch?v=kZI5_EsgVyU)  
+   Link: <a href="https://www.youtube.com/watch?v=kZI5_EsgVyU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kZI5_EsgVyU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why I Stopped Wearing My Apple Watch After 7 Years...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Things Go South When You Trust DATA Too Much  
-   Link: [https://www.youtube.com/watch?v=OU5W-b_e8a4](https://www.youtube.com/watch?v=OU5W-b_e8a4)  
+   Link: <a href="https://www.youtube.com/watch?v=OU5W-b_e8a4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OU5W-b_e8a4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>APPLE WATCH FITNESS REVIEW (Will it help you reach your goals?)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: APPLE WATCH FITNESS REVIEW (Will it help you reach your goals?)  
-   Link: [https://www.youtube.com/watch?v=zniOTH8CfE8](https://www.youtube.com/watch?v=zniOTH8CfE8)  
+   Link: <a href="https://www.youtube.com/watch?v=zniOTH8CfE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zniOTH8CfE8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing My TOXIC Workout Obsessions...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tomsguide.com  
    Title: Tom's Guide Are you obsessed with filling your Apple Watch rings?  
-   Link: [https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how](https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how)  
+   Link: <a href="https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why you need to break your streakFebruary 5, 2026 — This article from Tom&#x27;s Guide explores the psychological and fitness-related i...</p></details>
    Published: February 5, 2026  
 
 22. <a id="endnote-22"></a>
    Source: conveyorofrandomness.medium.com  
    Title: apple watch activity rings why you should close your rings 76e68b365abc  
-   Link: [https://conveyorofrandomness.medium.com/apple-watch-activity-rings-why-you-should-close-your-rings-76e68b365abc](https://conveyorofrandomness.medium.com/apple-watch-activity-rings-why-you-should-close-your-rings-76e68b365abc)  
+   Link: <a href="https://conveyorofrandomness.medium.com/apple-watch-activity-rings-why-you-should-close-your-rings-76e68b365abc" target="_blank" rel="noopener noreferrer nofollow">https://conveyorofrandomness.medium.com/apple-watch-activity-rings-why-you-should-close-your-rings-76e68b365abc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Activity Rings — Why you should close your rings?I&#x27;m going to share with you, why I think closing your activity rings every day can...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theverge.com  
    Title: Apple agrees to pay i Phone owners $250 million for not delivering AI Siri  
-   Link: [https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement)  
+   Link: <a href="https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2ZiWsnzA9F4](https://www.youtube.com/watch?v=2ZiWsnzA9F4)  
+   Link: <a href="https://www.youtube.com/watch?v=2ZiWsnzA9F4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ZiWsnzA9F4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Set Daily Custom Move, Exercise, and Stand Goals in iOS 18With iOS 18, the Fitness app now allows you to customise your daily move, exerc...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=50-fQwVCIq8](https://www.youtube.com/watch?v=50-fQwVCIq8)  
+   Link: <a href="https://www.youtube.com/watch?v=50-fQwVCIq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=50-fQwVCIq8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch Activity Rings: My Healthy OBSESSION (2025)The activity rings are for everybody. They&#x27;re not only for the triathletes or for...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: tomsguide.com  
-   Link: [https://www.tomsguide.com/phones/iphones/apple-usd250-million-settlement-how-to-get-your-payment-and-when-theyre-going-out](https://www.tomsguide.com/phones/iphones/apple-usd250-million-settlement-how-to-get-your-payment-and-when-theyre-going-out)  
+   Link: <a href="https://www.tomsguide.com/phones/iphones/apple-usd250-million-settlement-how-to-get-your-payment-and-when-theyre-going-out" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/phones/iphones/apple-usd250-million-settlement-how-to-get-your-payment-and-when-theyre-going-out</a>  
 
 27. <a id="endnote-27"></a>
    Source: tomsguide.com  
    Title: apple watch rings what they mean and how to close them  
-   Link: [https://www.tomsguide.com/reference/apple-watch-rings-what-they-mean-and-how-to-close-them](https://www.tomsguide.com/reference/apple-watch-rings-what-they-mean-and-how-to-close-them)  
+   Link: <a href="https://www.tomsguide.com/reference/apple-watch-rings-what-they-mean-and-how-to-close-them" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/reference/apple-watch-rings-what-they-mean-and-how-to-close-them</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open the Activity app on your Apple Watch · 2. Scroll down to the bottom of Activity app home page · 3. Click Change Goals. · 4. Adjust Move...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: marketscreener.com  
    Title: Apple to Let Users Choose Rival AI Models  
-   Link: [https://www.marketscreener.com/news/apple-to-let-users-choose-rival-ai-models-ce7f58d2dd8eff2d](https://www.marketscreener.com/news/apple-to-let-users-choose-rival-ai-models-ce7f58d2dd8eff2d)  
+   Link: <a href="https://www.marketscreener.com/news/apple-to-let-users-choose-rival-ai-models-ce7f58d2dd8eff2d" target="_blank" rel="noopener noreferrer nofollow">https://www.marketscreener.com/news/apple-to-let-users-choose-rival-ai-models-ce7f58d2dd8eff2d</a>  
 
 29. <a id="endnote-29"></a>
    Source: assemblymag.com  
    Title: Apple Manufacturing Academy Accelerates AI Applications  
-   Link: [https://www.assemblymag.com/articles/100051-apple-manufacturing-academy-accelerates-ai-applications](https://www.assemblymag.com/articles/100051-apple-manufacturing-academy-accelerates-ai-applications)  
+   Link: <a href="https://www.assemblymag.com/articles/100051-apple-manufacturing-academy-accelerates-ai-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.assemblymag.com/articles/100051-apple-manufacturing-academy-accelerates-ai-applications</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Apple Inc  
-   Link: [https://en.wikipedia.org/wiki/Apple_Inc](https://en.wikipedia.org/wiki/Apple_Inc)  
+   Link: <a href="https://en.wikipedia.org/wiki/Apple_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apple_Inc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Inc.Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and kn...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395112553_Reprogramming_the_Psychology_of_Success_The_Reflections_of_Wearable_Technologies_in_Athletes%27_Emotional_and_Motivational_Dynamics](https://www.researchgate.net/publication/395112553_Reprogramming_the_Psychology_of_Success_The_Reflections_of_Wearable_Technologies_in_Athletes%27_Emotional_and_Motivational_Dynamics)  
+   Link: <a href="https://www.researchgate.net/publication/395112553_Reprogramming_the_Psychology_of_Success_The_Reflections_of_Wearable_Technologies_in_Athletes%27_Emotional_and_Motivational_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395112553_Reprogramming_the_Psychology_of_Success_The_Reflections_of_Wearable_Technologies_in_Athletes%27_Emotional_and_Motivational_Dynamics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reprogramming the Psychology of Success31 Aug 2025 — This study explores how wearable technologies are integrated into athletes&#x27; em...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AppleWatch/comments/qw4dp8/is_there_any_way_to_fix_move_ring_retroactively/](https://www.reddit.com/r/AppleWatch/comments/qw4dp8/is_there_any_way_to_fix_move_ring_retroactively/)  
+   Link: <a href="https://www.reddit.com/r/AppleWatch/comments/qw4dp8/is_there_any_way_to_fix_move_ring_retroactively/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AppleWatch/comments/qw4dp8/is_there_any_way_to_fix_move_ring_retroactively/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there any way to fix move ring retroactively? Just realized...IMHO it&#x27;s not possible to change the rings after midnight. You still ca...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a9eh-WWqDCU](https://www.youtube.com/watch?v=a9eh-WWqDCU)  
+   Link: <a href="https://www.youtube.com/watch?v=a9eh-WWqDCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9eh-WWqDCU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Change Your Activity Goals On iPhone and Apple...This video tutorial provides a step-by-step guide to changing and customizing yo...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aRKu3NTgrOw](https://www.youtube.com/watch?v=aRKu3NTgrOw)  
+   Link: <a href="https://www.youtube.com/watch?v=aRKu3NTgrOw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aRKu3NTgrOw</a>  
 
 35. <a id="endnote-35"></a>
    Source: idownloadblog.com  
-   Link: [https://www.idownloadblog.com/2020/10/08/change-activity-goals-apple-watch/](https://www.idownloadblog.com/2020/10/08/change-activity-goals-apple-watch/)  
+   Link: <a href="https://www.idownloadblog.com/2020/10/08/change-activity-goals-apple-watch/" target="_blank" rel="noopener noreferrer nofollow">https://www.idownloadblog.com/2020/10/08/change-activity-goals-apple-watch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to change Move, Exercise, and Stand goals on Apple...14 Nov 2025 — Open the Fitness app on iPhone and tap the Activity tile at the top...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: dergipark.org.tr  
-   Link: [https://dergipark.org.tr/en/download/article-file/5198863](https://dergipark.org.tr/en/download/article-file/5198863)  
+   Link: <a href="https://dergipark.org.tr/en/download/article-file/5198863" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/5198863</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>athletes&#x27; emotional and motivational experiences through a qualitative...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: defysportsperformance.com  
-   Link: [https://defysportsperformance.com/blog/closing-your-rings/](https://defysportsperformance.com/blog/closing-your-rings/)  
+   Link: <a href="https://defysportsperformance.com/blog/closing-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://defysportsperformance.com/blog/closing-your-rings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing Your Rings (Apple Watch/Fitness Tracker)The activity rings allow you to set a Move goal, Activity goal and Stand goal...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: kirkville.com  
    Title: change activity goals on the apple watch in watchos 7  
-   Link: [https://kirkville.com/change-activity-goals-on-the-apple-watch-in-watchos-7/](https://kirkville.com/change-activity-goals-on-the-apple-watch-in-watchos-7/)  
+   Link: <a href="https://kirkville.com/change-activity-goals-on-the-apple-watch-in-watchos-7/" target="_blank" rel="noopener noreferrer nofollow">https://kirkville.com/change-activity-goals-on-the-apple-watch-in-watchos-7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Sept 2020 — Open the Activity app on your watch, then scroll to the bottom with the digital crown. Tap Change Goals.Read more...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: medium.com  
-   Link: [https://medium.com/crows-feet/your-fitness-tracker-may-be-teaching-you-the-wrong-health-lesson-after-50-7a93c8c46532](https://medium.com/crows-feet/your-fitness-tracker-may-be-teaching-you-the-wrong-health-lesson-after-50-7a93c8c46532)  
+   Link: <a href="https://medium.com/crows-feet/your-fitness-tracker-may-be-teaching-you-the-wrong-health-lesson-after-50-7a93c8c46532" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/crows-feet/your-fitness-tracker-may-be-teaching-you-the-wrong-health-lesson-after-50-7a93c8c46532</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, reduce their waistline, improve blood pressure, and...Read more...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: fitstraps.co.uk  
    Title: the ultimate move goal apple watch guide  
-   Link: [https://fitstraps.co.uk/blogs/news/the-ultimate-move-goal-apple-watch-guide](https://fitstraps.co.uk/blogs/news/the-ultimate-move-goal-apple-watch-guide)  
+   Link: <a href="https://fitstraps.co.uk/blogs/news/the-ultimate-move-goal-apple-watch-guide" target="_blank" rel="noopener noreferrer nofollow">https://fitstraps.co.uk/blogs/news/the-ultimate-move-goal-apple-watch-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Apr 2025 — The Move goal on your Apple Watch is designed to promote consistent daily activity by setting a personalised target for acti...</p></details>

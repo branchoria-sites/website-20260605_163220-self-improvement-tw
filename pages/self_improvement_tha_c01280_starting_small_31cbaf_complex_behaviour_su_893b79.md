@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_
 
 ## Introduction
 
-[Starting small]({{ 'small-starts/' | relative_url }}) is an effective way to begin a new behaviour, but many important goals cannot be achieved through repetition alone. Writing a book, mastering a subject, building fitness, managing money well, or learning a professional skill all involve multiple abilities, ongoing decisions, and changing challenges. A tiny starter habit can help overcome the barrier to beginning, but it is rarely enough to carry the entire process. Research on behaviour change consistently shows that complex goals benefit from planning, feedback, self-monitoring, prompts, and gradual [progression]({{ 'progression/' | relative_url }}) rather than relying solely on automatic habit formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">or cognitive). • Self-monitoring of behaviour. Establish a method for the person to monitor and record their behaviour(s) as part of a be...</span></span></span>
+Starting small is an effective way to begin a new behaviour, but many important goals cannot be achieved through repetition alone. Writing a book, mastering a subject, building fitness, managing money well, or learning a professional skill all involve multiple abilities, ongoing decisions, and changing challenges. A tiny starter habit can help overcome the barrier to beginning, but it is rarely enough to carry the entire process. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently shows that complex goals benefit from planning, feedback, self-monitoring, prompts, and gradual [progression]({{ 'progression/' | relative_url }}) rather than relying solely on automatic habit formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">or cognitive). • Self-monitoring of behaviour. Establish a method for the person to monitor and record their behaviour(s) as part of a be...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-1-dark.svg" | relative_url }}" alt="Complex Goals illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,7 +294,7 @@ Consider the difference between:
 
 In each case, the starter action is useful because it creates momentum. However, the larger outcome depends on additional processes such as skill acquisition, problem-solving, [feedback]({{ 'feedback/' | relative_url }}), and adaptation.
 
-Research reviews on habit-based interventions repeatedly find that behaviour change works best when habits are supported by techniques such as goal setting, self-monitoring, prompts, and feedback. These elements help people move beyond mere repetition and continue progressing when the task becomes more demanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ira.lib.polyu.edu.hk">[PolyU Institutional Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ira.lib.polyu.edu.hk</span><span class="citation-popover-snippet">PolyU Institutional Research ArchiveDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results...</span></span></span>
+Research reviews on habit-based interventions repeatedly find that behaviour change works best when habits are supported by techniques such as goal setting, self-monitoring, prompts, and feedback. These elements help people move beyond mere repetition and continue progressing when the task becomes more demanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ira.lib.polyu.edu.hk">[PolyU Institutional Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ira.lib.polyu.edu.hk</span><span class="citation-popover-snippet">PolyU Institutional Research ArchiveDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results...</span></span></span>
 
 This is one reason the popular idea of "just make it tiny" can be misunderstood. Tiny habits help people start. They do not automatically teach difficult skills.
 
@@ -315,7 +315,7 @@ The habit opens the door. The learning process does the rest.
 
 When goals become more complex, the most valuable addition is often not more motivation but better support.
 
-Behaviour change frameworks frequently identify a cluster of techniques that improve persistence and performance: self-monitoring, feedback, goal setting, prompts, and structured planning. These techniques appear repeatedly across successful interventions because they help people notice what is working and adjust when it is not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span> Several support structures are especially useful.
+Behaviour change frameworks frequently identify a cluster of techniques that improve persistence and performance: self-monitoring, feedback, goal setting, prompts, and structured planning. These techniques appear repeatedly across successful interventions because they help people notice what is working and adjust when it is not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span> Several support structures are especially useful.
 
 **Clear feedback loops.**
 
@@ -337,7 +337,7 @@ Coaches, teachers, training partners, study groups, and financial advisers provi
 
 Many self-improvement attempts fail because people confuse consistency with progress.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">| Wex | US Law | LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Wex &#124; US Law &#124; LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -351,7 +351,7 @@ Many self-improvement attempts fail because people confuse consistency with prog
 
 The problem is not the starter habit. The problem is treating the starter habit as the complete system.
 
-Habit formation research increasingly emphasises that habits are only one component of sustained behaviour change. Broader interventions often require monitoring, planning, adaptation, and reinforcement mechanisms alongside automatic routines. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 79 — This study presents a systematic review aimed at identifying the design strategies of habit formation...</span></span></span>
+Habit formation research increasingly emphasises that habits are only one component of sustained behaviour change. Broader interventions often require monitoring, planning, adaptation, and reinforcement mechanisms alongside automatic routines. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 79 — This study presents a systematic review aimed at identifying the design strategies of habit formation...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-2-dark.svg" | relative_url }}" alt="Complex Goals illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -398,13 +398,13 @@ Examples include:
 
 </div>
 
-Self-monitoring increases awareness and is one of the most commonly used behaviour-change techniques in successful interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIA Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 47 — Self-Monitoring and Feedback invol...</span></span></span>
+Self-monitoring increases awareness and is one of the most commonly used behaviour-change techniques in successful interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 47 — Self-Monitoring and Feedback invol...</span></span></span>
 
 ### Stage 3: Introduce progression
 
 After consistency and measurement are established, deliberately increase challenge.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">| Wex | US Law | LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Wex &#124; US Law &#124; LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</span></span></span>
 
 * Expand five study minutes into focused learning sessions.
 * Move from one paragraph of writing to a complete draft schedule.
@@ -444,7 +444,7 @@ In every example, the tiny action reduces friction. The support structure create
 
 The most useful way to view a starter habit is not as the goal itself but as a reliable trigger for a larger process.
 
-For simple behaviours, repetition may be enough to create lasting [automaticity]({{ 'automaticity/' | relative_url }}). For complex goals, repetition is only the foundation. Progress depends on adding planning, measurement, feedback, and gradual skill development. Research across behaviour-change interventions repeatedly points to these supporting mechanisms as critical ingredients of sustained improvement. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span> Starting small remains valuable. The mistake is stopping there. A tiny habit succeeds when it becomes the first step in a system that can grow with the demands of the goal.
+For simple behaviours, repetition may be enough to create lasting [automaticity]({{ 'automaticity/' | relative_url }}). For complex goals, repetition is only the foundation. Progress depends on adding planning, measurement, feedback, and gradual skill development. Research across behaviour-change interventions repeatedly points to these supporting mechanisms as critical ingredients of sustained improvement. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span> Starting small remains valuable. The mistake is stopping there. A tiny habit succeeds when it becomes the first step in a system that can grow with the demands of the goal.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -867,169 +867,169 @@ For simple behaviours, repetition may be enough to create lasting [automaticity]
 
 1. <a id="endnote-1"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e54375/](https://www.jmir.org/2024/1/e54375/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</p></details>
+   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>After many repetitions, mental representations of habitual action are formed...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — Psychological theory and evidence around...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1424-8220/24/8/2429](https://www.mdpi.com/1424-8220/24/8/2429)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIA Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 47 — Self-Monitoring and Feedback invol...</p></details>
+   Link: <a href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/8/2429</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 47 — Self-Monitoring and Feedback invol...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290](https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Including these constructs jointly into behavior...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby Y Zhu · 2024 · Cited by 79 — This study presents a systematic review aimed at identifying the design strategies of habit formation...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 79 — This study presents a systematic review aimed at identifying the design strategies of habit formation...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHabit formation and changeby L Carden · 2018 · Cited by 359 — For example, implementation intentions help people to remember...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 359 — For example, implementation intentions help people to remember...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/deliberate](https://dictionary.cambridge.org/dictionary/english/deliberate)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionaryto think or talk seriously and carefully about something: deliberate on The jury took five days t...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/deliberate</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionaryto think or talk seriously and carefully about something: deliberate on The jury took five days t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewThis review offers a glimpse into the mechanisms by which self-management interventions lead to behavior change; however, more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1438887124002619](https://www.sciencedirect.com/org/science/article/pii/S1438887124002619)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887124002619</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-9032/12/23/2488](https://www.mdpi.com/2227-9032/12/23/2488)  
+   Link: <a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 93 — Stage 1: Deciding to take action and translating...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/deliberate](https://www.vocabulary.com/dictionary/deliberate)  
+   Link: <a href="https://www.vocabulary.com/dictionary/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/deliberate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsTo deliberate means to carefully think or talk something through — it also means slow and measured, the pac...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or cognitive). • Self-monitoring of behaviour. Establish a method for the person to monitor and record their behaviour(s) as part of a be...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ira.lib.polyu.edu.hk  
-   Link: [https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf](https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf)  
+   Link: <a href="https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PolyU Institutional Research ArchiveDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pearl.plymouth.ac.uk  
-   Link: [https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&context=psy-research](https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&context=psy-research)  
+   Link: <a href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow">https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777](https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe impact of action plans on habit and intention strength...by AL Rebar · 2025 · Cited by 23 — The aim of this s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review Examining the Relationship Between...by K Feil · 2021 · Cited by 95 — The aim of this review was to examine the rela...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661](https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques | Springer Nature Link20 Oct 2020 — Evaluating the effectiveness of behavior change techniques in health-related behavi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: law.cornell.edu  
-   Link: [https://www.law.cornell.edu/wex/deliberate](https://www.law.cornell.edu/wex/deliberate)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Wex | US Law | LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</p></details>
+   Link: <a href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/deliberate</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wex | US Law | LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/deliberate](https://www.dictionary.com/browse/deliberate)  
+   Link: <a href="https://www.dictionary.com/browse/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/deliberate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Definition &amp; MeaningTo deliberate means to carefully think or talk something through — it also means slow and measured, the pa...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/deliberate](https://www.merriam-webster.com/dictionary/deliberate)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/deliberate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Definition &amp; Meaning1. characterized by or resulting from careful and thorough consideration; a deliberate decision; Ms. Barke...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/habit](https://www.merriam-webster.com/dictionary/habit)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning7 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/deliberate](https://www.collinsdictionary.com/dictionary/english/deliberate)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/deliberate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>carefully thought out and formed, or done on purpose; premeditated · 2. careful in considering, judging, or deciding; not...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Planning to break unwanted habits: Habit strength...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nice.org.uk  
    Title: behaviour change individual approaches pdf 1996366337989  
-   Link: [https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989](https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches2 Jan 2014 — This guideline covers changing health-damaging behaviours among people aged 16 and ov...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf](https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with cue-monitoring targeting...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: oxfordlearnersdictionaries.com  
    Title: The jury deliberated for five days before finding him guilty.Read more  
-   Link: [https://www.oxfordlearnersdictionaries.com/definition/english/deliberate_2](https://www.oxfordlearnersdictionaries.com/definition/english/deliberate_2)  
+   Link: <a href="https://www.oxfordlearnersdictionaries.com/definition/english/deliberate_2" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/deliberate_2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>deliberate verb - Definition, pictures, pronunciation and...to consider something very carefully, usually before making a decision...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: thesaurus.com  
    Title: DELIBERAT E Synonyms & Antonyms  
-   Link: [https://www.thesaurus.com/browse/deliberate](https://www.thesaurus.com/browse/deliberate)  
+   Link: <a href="https://www.thesaurus.com/browse/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/deliberate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Synonyms &amp; Antonyms - 188 wordsFind 188 different ways to say DELIBERATE, along with antonyms, related words, and example sent...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: annualreviews.org  
    Title: annurev psych 020821 011744  
-   Link: [https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&checksum=25BC0568471D2B3B1729FC0D8A37C3FC&expires=1734081569&id=id](https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&checksum=25BC0568471D2B3B1729FC0D8A37C3FC&expires=1734081569&id=id)  
+   Link: <a href="https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Attitudes, Habits, and Behavior Change4 Jan 2022 — Efforts to guide peoples&#x27; behavior toward environmental sustainability, good health, o...</p></details>

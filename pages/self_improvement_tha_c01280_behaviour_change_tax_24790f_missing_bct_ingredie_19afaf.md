@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_mi
 
 ## Introduction
 
-When a habit keeps failing, the default explanation is usually a lack of discipline. Behaviour-change research suggests a different possibility: the habit may be missing the right ingredient. The Behaviour Change Technique Taxonomy was created partly to make these ingredients visible and distinguishable, rather than treating all behaviour problems as [motivation]({{ 'motivation/' | relative_url }}) problems. The practical question is not “How can I try harder?” but “What is stopping this behaviour from happening consistently?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
+When a habit keeps failing, the default explanation is usually a lack of discipline. Behaviour-change research suggests a different possibility: the habit may be missing the right ingredient. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy was created partly to make these ingredients visible and distinguishable, rather than treating all behaviour problems as [motivation]({{ 'motivation/' | relative_url }}) problems. The practical question is not “How can I try harder?” but “What is stopping this behaviour from happening consistently?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-1-dark.svg" | relative_url }}" alt="Missing Ingredient illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ If the answer is “I completely forgot”, the issue is different from “I rem
 The COM-B model, which underpins much modern behaviour-change work, groups obstacles into three broad categories:
 
 * **Capability**: lacking knowledge, skills, confidence, or physical ability.
-* **Opportunity**: lacking time, resources, environmental [support]({{ 'support/' | relative_url }}), or [social support]({{ 'social-support/' | relative_url }}).
+* **Opportunity**: lacking time, resources, environmental support, or [social support]({{ 'social-support/' | relative_url }}).
 * **Motivation**: lacking sufficient desire, value, reward, habit strength, or emotional commitment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe COM-B Model for Behavior ChangeIn the COM-B model, reflective motivation plays a critical role in guiding deliberate...</span></span></span>
 
 Most self-improvement attempts jump directly to motivation. Yet many recurring failures are actually capability or opportunity problems. Someone who intends to cook healthy meals but has no ingredients at home does not need a more inspiring quote. Someone who intends to save money but has one-click purchasing enabled everywhere may not need stronger values. They may need environmental restructuring.
@@ -348,13 +348,13 @@ Relevant techniques include:
 
 </div>
 
-Action planning is one of the most consistently used behaviour-change techniques. Research reviews identify it as an effective component in interventions aimed at improving behaviours such as physical activity and diet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — The present review addresses the physiological correlates of planning effects on behavior. Althoug...</span></span></span>
+Action planning is one of the most consistently used behaviour-change techniques. Research reviews identify it as an effective component in interventions aimed at improving behaviours such as physical activity and diet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — The present review addresses the physiological correlates of planning effects on behavior. Althoug...</span></span></span>
 
 The distinction matters. A goal says what you want. A plan specifies when, where, and how it will happen.
 
 ### “I start strongly and then drift away”
 
-This often reflects weak [feedback loops]({{ 'feedback/' | relative_url }}).
+This often reflects weak [feedback]({{ 'feedback/' | relative_url }}) loops.
 
 Relevant techniques include:
 
@@ -409,8 +409,7 @@ Relevant techniques include:
 The obstacle is not necessarily personal motivation. The behaviour may depend on social opportunity that is absent when acting alone.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJXUkSPNihc" title="BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 6.9K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJXUkSPNihc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-dark.svg" | relative_url }}" alt="Missing Ingredient illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Avoid adding techniques that solve the wrong problem
 
 One of the most common self-improvement mistakes is technique stacking without diagnosis.
@@ -438,10 +437,8 @@ Likewise:
 * More reminders do not solve lack of knowledge.
 * More motivation does not solve excessive friction.
 
-The Behaviour Change Technique Taxonomy is valuable precisely because it separates these ingredients. It encourages matching interventions to causes rather than assuming every problem has the same solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
+The Behaviour Change Technique Taxonomy is valuable precisely because it separates these ingredients. It encourages matching interventions to causes rather than assuming every problem has the same solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
 
-
-<img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-dark.svg" | relative_url }}" alt="Missing Ingredient illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical diagnosis sequence
 
 When a habit repeatedly fails, work through these questions in order:
@@ -863,7 +860,7 @@ When a habit repeatedly fails, work through these questions in order:
 </script>
 </section>
 
-1. **Did I remember at the right moment?** If not, add prompts, cues, or implementation intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Intentions | Springer Nature LinkImplementation intentions and goal achievement: A meta-analysis of effects and processes...</span></span></span>
+1. **Did I remember at the right moment?** If not, add prompts, cues, or implementation intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Intentions &#124; Springer Nature LinkImplementation intentions and goal achievement: A meta-analysis of effects and processes...</span></span></span>
 2. **Did I know exactly what to do?**
 If not, add instruction, practice, or skill development.
 3. **Did I have a specific plan?**
@@ -883,130 +880,130 @@ This sequence prevents a common error in self-improvement: diagnosing every fail
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — The idea is that intention realization can be promoted by forming if-then plans...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — The present review addresses the physiological correlates of planning effects on behavior. Althoug...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — The present review addresses the physiological correlates of planning effects on behavior. Althoug...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBehaviour change techniques that constitute effective  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby H Lin · 2022 · Cited by 44 — Action planning is a brief and effective behaviour change technique (BCT) to improve physical activity...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Lin · 2022 · Cited by 44 — Action planning is a brief and effective behaviour change technique (BCT) to improve physical activity...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cancercontrol.cancer.gov  
    Title: goal intent attain  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 133 — The idea is that intention realization can be promoted by forming if-then plans...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change](https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe COM-B Model for Behavior ChangeIn the COM-B model, reflective motivation plays a critical role in guiding deliberate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936](https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 123 — The self-regulation strategy of forming impleme...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bct-taxonomy.com  
-   Link: [https://www.bct-taxonomy.com/about](https://www.bct-taxonomy.com/about)  
+   Link: <a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour Change Technique TaxonomyThus BCTTv1 offers a generally reliable method for specifying, interpreting and implementing the activ...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710](https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions | Springer Nature LinkImplementation intentions and goal achievement: A meta-analysis of effects and processes...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12889-019-7468-8](https://link.springer.com/article/10.1186/s12889-019-7468-8)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12889-019-7468-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-019-7468-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>barriers: using the behavior change wheel to...by SO Ojo · 2019 · Cited by 161 — The aim of this study was to use the Behaviour Change W...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: goodmedicine.org.uk  
-   Link: [https://goodmedicine.org.uk/media/files/implementation%20intentions%2C%20background.pdf](https://goodmedicine.org.uk/media/files/implementation%20intentions%2C%20background.pdf)  
+   Link: <a href="https://goodmedicine.org.uk/media/files/implementation%20intentions%2C%20background.pdf" target="_blank" rel="noopener noreferrer nofollow">https://goodmedicine.org.uk/media/files/implementation%20intentions%2C%20background.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ctively with self-regulatory problems that...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: psychologytoday.com  
    Title: implementation intentions facilitate action control  
-   Link: [https://www.psychologytoday.com/ie/blog/dont-delay/201001/implementation-intentions-facilitate-action-control](https://www.psychologytoday.com/ie/blog/dont-delay/201001/implementation-intentions-facilitate-action-control)  
+   Link: <a href="https://www.psychologytoday.com/ie/blog/dont-delay/201001/implementation-intentions-facilitate-action-control" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ie/blog/dont-delay/201001/implementation-intentions-facilitate-action-control</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 2010 — I&#x27;m picking up where I left off with a focus on implementation intentions by summarizing the main ideas presented by Frank...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalelfservice.net  
-   Link: [https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/](https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/)  
+   Link: <a href="https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentions: helping people achieve their...by A Underwood — The meta-analysis looked at the effect of if-then intentions...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by psychologist Peter Gollwitzer, transforms vague intentions into spe...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions](https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions)  
+   Link: <a href="https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change Technique Taxonomy (BCTTv1) of...18 Jan 2016 — This work produced the 93-item hierarchically-structured BCT Taxonom...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362855090_Behaviour_change_techniques_that_constitute_effective_planning_interventions_to_improve_physical_activity_and_diet_behaviour_for_people_with_chronic_conditions_a_systematic_review](https://www.researchgate.net/publication/362855090_Behaviour_change_techniques_that_constitute_effective_planning_interventions_to_improve_physical_activity_and_diet_behaviour_for_people_with_chronic_conditions_a_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/362855090_Behaviour_change_techniques_that_constitute_effective_planning_interventions_to_improve_physical_activity_and_diet_behaviour_for_people_with_chronic_conditions_a_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362855090_Behaviour_change_techniques_that_constitute_effective_planning_interventions_to_improve_physical_activity_and_diet_behaviour_for_people_with_chronic_conditions_a_systematic_review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change techniques that constitute effective...22 Aug 2022 — This study aimed to identify critical BCTs and mechanisms of actio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kops.uni-konstanz.de  
-   Link: [https://kops.uni-konstanz.de/server/api/core/bitstreams/d703c468-46e9-47fc-8900-d32d7d19c8d9/content](https://kops.uni-konstanz.de/server/api/core/bitstreams/d703c468-46e9-47fc-8900-d32d7d19c8d9/content)  
+   Link: <a href="https://kops.uni-konstanz.de/server/api/core/bitstreams/d703c468-46e9-47fc-8900-d32d7d19c8d9/content" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/server/api/core/bitstreams/d703c468-46e9-47fc-8900-d32d7d19c8d9/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uni-konstanz.deMeta-analysis of the scope and components of...by P Sheeran · Cited by 67 — Findings corroborated the conclusion that imp...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/1400691/](https://discovery.ucl.ac.uk/1400691/)  
+   Link: <a href="https://discovery.ucl.ac.uk/1400691/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1400691/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Technique Taxonomy (v1) of 93...The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: B...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Note: evidence of action planning does not necessarily imply [goal setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125;), only code latter if sufficient evidence. Encourage a...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: phwwhocc.co.uk  
    Title: Identifying and Applying Behaviour Change Techniques• Action planning  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompt detailed planning of performance of the behaviour (must include at least one of context, frequency, duration and intensity)...Rea...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: research-portal.uea.ac.uk  
    Title: the behavior change technique taxonomy v1 of 93 hierarchically cl  
-   Link: [https://research-portal.uea.ac.uk/en/publications/the-behavior-change-technique-taxonomy-v1-of-93-hierarchically-cl](https://research-portal.uea.ac.uk/en/publications/the-behavior-change-technique-taxonomy-v1-of-93-hierarchically-cl)  
+   Link: <a href="https://research-portal.uea.ac.uk/en/publications/the-behavior-change-technique-taxonomy-v1-of-93-hierarchically-cl" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/the-behavior-change-technique-taxonomy-v1-of-93-hierarchically-cl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8667 — Objectives: The objective of this study is to devel...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: openaccess.city.ac.uk  
    Title: Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1  
-   Link: [https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf](https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Taxonomy (v1) of 93 hierarchic...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf](https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Example BCTs are: 1) Adding objects to the environment, and 2) Action planning...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sbm.org  
-   Link: [https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf](https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf)  
+   Link: <a href="https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>b An additional technique &#x27;Increase positive emotions&#x27; will be included in BCT...Read more...</p></details>

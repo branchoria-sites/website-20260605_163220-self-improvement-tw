@@ -278,20 +278,20 @@ A student who scrolls before studying has not failed. The real risk is what happ
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scroll_first_lapse_r_2e1bd7-Illustration-1-dark.svg" | relative_url }}" alt="Recovery illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scroll_first_lapse_r_2e1bd7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scroll_first_lapse_r_2e1bd7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most useful recovery rule is simple: treat a scroll-first lapse as a small deviation, not as evidence that the study session is lost. Behaviour-change research distinguishes between a lapse and a relapse. A lapse is a single departure from the intended behaviour; a relapse is a pattern that returns someone to their old routine. The goal of recovery is to stop the first from becoming the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPhysical Activity Maintenance: A Critical Narrative Review and...by RE Rhodes · 2021 · Cited by 115 — A relapse is a series of lapses...</span></span></span>
+The most useful recovery rule is simple: treat a scroll-first lapse as a small deviation, not as evidence that the study session is lost. Behaviour-change research distinguishes between a lapse and a relapse. A lapse is a single departure from the intended behaviour; a relapse is a pattern that returns someone to their old routine. The goal of recovery is to stop the first from becoming the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Physical Activity Maintenance: A Critical Narrative Review and...by RE Rhodes · 2021 · Cited by 115 — A relapse is a series of lapses...</span></span></span>
 
 ## Why Failure Needs a Script, Not Shame
 
 Many students assume that the correct response to procrastination is self-criticism. The evidence points in a different direction.
 
-Research on self-compassion and procrastination repeatedly finds that harsh self-judgement can trap people in a cycle of negative emotion and further avoidance, while a more forgiving response is associated with better recovery and less future procrastination. Studies suggest that accepting a mistake without excusing it helps people re-engage with their goals instead of protecting themselves from uncomfortable feelings through more distraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Procrastination and self compassion rev2 FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and self compassion rev2 FINAL.pdfby FM Sirois · 2014 · Cited by 586 — Research demonstrating t...</span></span></span>
+Research on self-compassion and procrastination repeatedly finds that harsh self-judgement can trap people in a cycle of negative emotion and further avoidance, while a more forgiving response is associated with better recovery and less future procrastination. Studies suggest that accepting a mistake without excusing it helps people re-engage with their goals instead of protecting themselves from uncomfortable feelings through more distraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Procrastination and self compassion rev2 FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and self compassion rev2 FINAL.pdfby FM Sirois · 2014 · Cited by 586 — Research demonstrating t...</span></span></span>
 
 This creates an important distinction:
 
 * **Shame response:** “I wasted twenty minutes. I have no discipline.”
 * **Recovery response:** “I started scrolling. That was not the plan. What is the next study action?”
 
-The second response is not softer because standards are lower. It is more effective because it keeps attention on behaviour rather than [identity]({{ 'identity/' | relative_url }}). Research suggests that self-compassion can support self-regulation and [motivation]({{ 'motivation/' | relative_url }}) for improvement after mistakes rather than reducing effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span>
+The second response is not softer because standards are lower. It is more effective because it keeps attention on behaviour rather than [identity]({{ 'identity/' | relative_url }}). Research suggests that self-compassion can support self-regulation and [motivation]({{ 'motivation/' | relative_url }}) for improvement after mistakes rather than reducing effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span>
 
 A practical recovery script can be as short as:
 
@@ -355,7 +355,7 @@ For studying before scrolling, examples include:
 
 </div>
 
-Research on implementation intentions indicates that these plans help translate intentions into action and can reduce the influence of competing habits. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span>
+Research on implementation intentions indicates that these plans help translate intentions into action and can reduce the influence of competing habits. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span>
 
 The key is specificity. “Try harder next time” is not a recovery plan. “If I scroll first, I will read one page before touching my phone again” is.
 
@@ -430,7 +430,7 @@ Examples:
 
 </div>
 
-Research on behaviour change consistently finds that planning for obstacles and restructuring the environment are more reliable than relying on motivation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">action planning and coping planning for long term lifestyle chang</span><span class="citation-popover-snippet">It bridges the gap between behavioural intentions and health behaviour To...Read more...</span></span></span>
+Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently finds that planning for obstacles and restructuring the environment are more reliable than relying on motivation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">action planning and coping planning for long term lifestyle chang</span><span class="citation-popover-snippet">It bridges the gap between behavioural intentions and health behaviour To...Read more...</span></span></span>
 
 A good recovery system therefore has two outputs: resume studying now, and make one change that reduces the chance of the same lapse tomorrow.
 
@@ -445,7 +445,7 @@ The most effective recovery rule is forgiving but demanding:
 
 Students who study before scrolling will occasionally fail to follow the sequence. That is normal. What matters is preventing a brief detour from becoming the defining event of the evening.
 
-The fastest recoveries share the same pattern: acknowledge the lapse without drama, follow a pre-written if-then script, complete a tiny study action, and make one adjustment to the environment. The objective is not perfection. The objective is shortening the distance between noticing the mistake and returning to work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — In the present review, we first summarize studies on the cognitive processes that are central to t...</span></span></span>
+The fastest recoveries share the same pattern: acknowledge the lapse without drama, follow a pre-written if-then script, complete a tiny study action, and make one adjustment to the environment. The objective is not perfection. The objective is shortening the distance between noticing the mistake and returning to work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — In the present review, we first summarize studies on the cognitive processes that are central to t...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -868,156 +868,156 @@ The fastest recoveries share the same pattern: acknowledge the lapse without dra
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPhysical Activity Maintenance: A Critical Narrative Review and...by RE Rhodes · 2021 · Cited by 115 — A relapse is a series of lapses...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Activity Maintenance: A Critical Narrative Review and...by RE Rhodes · 2021 · Cited by 115 — A relapse is a series of lapses...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRelapse on the Road to Recovery: Learning the Lessons of Failure  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract. Among individuals seeking to change health-related behaviors, relapse is a common experience. Whether it occurs very soon after...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — In the present review, we first summarize studies on the cognitive processes that are central to t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — In the present review, we first summarize studies on the cognitive processes that are central to t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: [https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017)  
+   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intention and Action Planning Interventions in...8 Oct 2013 — The purpose of this paper is to provide an overview of the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment7 - Changing Behavior Using the Health Action Process...Behavioral intention bridges the motivati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Exercise through Action and Coping...by ZQC Wee · 2022 · Cited by 19 — A study that examined how two types of planning (Action...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation](https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Cambridge English Dictionary에서의 의미the act of putting a plan into action or of starting to use something: implementation of a change/pol...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge English Dictionary에서의 의미the act of putting a plan into action or of starting to use something: implementation of a change/pol...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/using-implementation-intentions-to-prevent-relapse-after-psychological-treatment-for-depression-the-smart-intervention/98BE5D6BAD7576EBDD7989BF5EA1C69A](https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/using-implementation-intentions-to-prevent-relapse-after-psychological-treatment-for-depression-the-smart-intervention/98BE5D6BAD7576EBDD7989BF5EA1C69A)  
+   Link: <a href="https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/using-implementation-intentions-to-prevent-relapse-after-psychological-treatment-for-depression-the-smart-intervention/98BE5D6BAD7576EBDD7989BF5EA1C69A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/using-implementation-intentions-to-prevent-relapse-after-psychological-treatment-for-depression-the-smart-intervention/98BE5D6BAD7576EBDD7989BF5EA1C69A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Implementation Intentions to Prevent Relapse after...by M Lucock · 2018 · Cited by 10 — The SMArT intervention is a promising appr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>39 - Planning and Implementation Intention InterventionsThus, implementation intentions may be useful to break “bad habits” or undesired...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: self-compassion.org  
-   Link: [https://self-compassion.org/wp-content/uploads/publications/scmotivationprocrastination.pdf](https://self-compassion.org/wp-content/uploads/publications/scmotivationprocrastination.pdf)  
+   Link: <a href="https://self-compassion.org/wp-content/uploads/publications/scmotivationprocrastination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/scmotivationprocrastination.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AMERICAN JOURNAL OF PSYCHOLOGICAL RESEARCHby JG Williams · 2008 — In addition, we will include other factors, such as fear of failure, ac...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: self-compassion.org  
-   Link: [https://self-compassion.org/wp-content/uploads/publications/Procrastination.pdf](https://self-compassion.org/wp-content/uploads/publications/Procrastination.pdf)  
+   Link: <a href="https://self-compassion.org/wp-content/uploads/publications/Procrastination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/Procrastination.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Stress: Exploring the Role of...6 Feb 2013 — Research demonstrating the link between having less self-compassion and fear of failure...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: self-compassion.org  
-   Link: [https://self-compassion.org/wp-content/uploads/2021/11/Yang-et-al.-2021-Perceived-social-[support](https://self-compassion.org/wp-content/uploads/2021/11/Yang-et-al.-2021-Perceived-social-[support)  
+   Link: <a href="https://self-compassion.org/wp-content/uploads/2021/11/Yang-et-al.-2021-Perceived-social-[support" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2021/11/Yang-et-al.-2021-Perceived-social-[support</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nding oneself in face of failure, which consist of three components: self-kindness (versus self-judgment)...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22645164/](https://pubmed.ncbi.nlm.nih.gov/22645164/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSelf-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22645164/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: eprints.whiterose.ac.uk  
    Title: Procrastination and self compassion rev2 FINAL  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf](https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and self compassion rev2 FINAL.pdfby FM Sirois · 2014 · Cited by 586 — Research demonstrating t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thriva - Track and improve your healthImplementation Intentions: The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by ps...</p></details>
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Track and improve your healthImplementation Intentions: The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by ps...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18851764/](https://pubmed.ncbi.nlm.nih.gov/18851764/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the effect of forming implementation intentions was smaller among...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: abdn.elsevierpure.com  
    Title: action planning and coping planning for long term lifestyle chang  
-   Link: [https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/](https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/)  
+   Link: <a href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It bridges the gap between behavioural intentions and health behaviour To...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Keywords: depression; implementation intentions;  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29665889/](https://pubmed.ncbi.nlm.nih.gov/29665889/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29665889/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29665889/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions to Prevent Relapse after...by M Lucock · 2018 · Cited by 10 — Conclusions: Implementation intentions are a pro...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: aura.american.edu  
-   Link: [https://aura.american.edu/articles/thesis/The_Effect_of_Self-Compassion_Writing_Exercises_on_Procrastination_in_College_Students_with_ADHD/28996334](https://aura.american.edu/articles/thesis/The_Effect_of_Self-Compassion_Writing_Exercises_on_Procrastination_in_College_Students_with_ADHD/28996334)  
+   Link: <a href="https://aura.american.edu/articles/thesis/The_Effect_of_Self-Compassion_Writing_Exercises_on_Procrastination_in_College_Students_with_ADHD/28996334" target="_blank" rel="noopener noreferrer nofollow">https://aura.american.edu/articles/thesis/The_Effect_of_Self-Compassion_Writing_Exercises_on_Procrastination_in_College_Students_with_ADHD/28996334</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Self-Compassion Writing Exercises on...by A Fuchs · 2025 — The present study investigated the effect of self-compassion writin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: jfmh.mums.ac.ir  
-   Link: [https://jfmh.mums.ac.ir/m/article_14398.html?lang=en](https://jfmh.mums.ac.ir/m/article_14398.html?lang=en)  
+   Link: <a href="https://jfmh.mums.ac.ir/m/article_14398.html?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://jfmh.mums.ac.ir/m/article_14398.html?lang=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mediating role of shame and guiltThe present study examined the relationship between academic procrastination and self-compassion... rev...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theonlinegp.com  
-   Link: [https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick](https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick)  
+   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...Aug 12, 2025 — The gap between intention and implementation stems from fundamental...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wp.nyu.edu  
-   Link: [https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf](https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf)  
+   Link: <a href="https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oing goal pursuit with imple- mentation intentions protected it from the intrusive influences of the primed competing goals.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dailygood.org  
    Title: the relationship between self compassion and procrastination linda graham  
-   Link: [https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/](https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/)  
+   Link: <a href="https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-evaluations that might result from that failure. Unconsciously... self-forgiving about failures experienced less procrastination la...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: robertchapman.blogspot.com  
    Title: Stacking the Deck for Behavior Change: The Role of Implementation  
-   Link: [https://robertchapman.blogspot.com/2018/01/stacking-deck-for-behavior-change-role.html](https://robertchapman.blogspot.com/2018/01/stacking-deck-for-behavior-change-role.html)  
+   Link: <a href="https://robertchapman.blogspot.com/2018/01/stacking-deck-for-behavior-change-role.html" target="_blank" rel="noopener noreferrer nofollow">https://robertchapman.blogspot.com/2018/01/stacking-deck-for-behavior-change-role.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2018 — Implementation intentions employ a when, where, how reasoning when developing a plan intended to increase the likeliho...</p></details>
    Published: January 31, 2018  
 
 26. <a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/B9780123694294500318](https://www.sciencedirect.com/science/article/abs/pii/B9780123694294500318)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780123694294500318" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/B9780123694294500318</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Relapse PreventionThis chapter provides a concise overview of the original model and specific relapse prevention intervention...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association](https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association)  
+   Link: <a href="https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>engthened cue-behavior associations as the mechanism underlying the effectiveness...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10503307.2021.1959079](https://www.tandfonline.com/doi/full/10.1080/10503307.2021.1959079)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10503307.2021.1959079" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10503307.2021.1959079</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ity of a brief relapse intervention following remission from depression which incorporates...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Stress: A Conceptual Review of Why...by FM Sirois · 2023 · Cited by 203 — Not surprisingly, low mindfulness and self-compassion acco...</p></details>

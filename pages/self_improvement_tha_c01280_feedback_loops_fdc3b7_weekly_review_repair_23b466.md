@@ -272,7 +272,7 @@ A [weekly review]({{ 'weekly-review/' | relative_url }}) is the point where a ha
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-1-dark.svg" | relative_url }}" alt="Weekly Reviews illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because behaviour change is rarely a straight line. Research on self-regulation, relapse and habit formation consistently finds that lapses are common and that monitoring behaviour improves goal attainment when progress is recorded and used to guide adjustments. The value comes not from collecting data but from turning that data into a better plan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 737 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span>
+This distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) is rarely a straight line. Research on self-regulation, relapse and habit formation consistently finds that lapses are common and that monitoring behaviour improves goal attainment when progress is recorded and used to guide adjustments. The value comes not from collecting data but from turning that data into a better plan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 737 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span>
 
 A useful weekly review therefore acts as a repair mechanism. It converts seven days of imperfect execution into one practical experiment for the week ahead.
 
@@ -315,7 +315,7 @@ The most useful records are usually brief:
 
 </div>
 
-Behaviour-change research repeatedly identifies self-monitoring as one of the most effective and widely used behaviour-change [techniques]({{ 'techniques/' | relative_url }}) because it creates the information needed for later adjustment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSelf-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechani...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Moreover, habit</span><span class="citation-popover-snippet">ScienceDirectDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 74 — The results show that the most app...</span></span></span>
+Behaviour-change research repeatedly identifies self-monitoring as one of the most effective and widely used behaviour-change [techniques]({{ 'techniques/' | relative_url }}) because it creates the information needed for later adjustment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSelf-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechani...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Moreover, habit</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 74 — The results show that the most app...</span></span></span>
 
 The review is not an attempt to explain everything. It is an attempt to identify the strongest signal.
 
@@ -328,7 +328,7 @@ When a habit fails, many people immediately modify the goal. They decide to beco
 
 A better review asks whether the goal was actually the problem.
 
-Research on behaviour maintenance distinguishes between a lapse and a collapse of the entire change effort. A lapse is a temporary deviation. Treating every lapse as evidence that the goal itself is wrong often creates unnecessary instability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 78 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0091743514002102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview Why behavior change is difficult to sustainby ME Bouton · 2014 · Cited by 428 — The findings suggest that changing a...</span></span></span>
+Research on behaviour maintenance distinguishes between a lapse and a collapse of the entire change effort. A lapse is a temporary deviation. Treating every lapse as evidence that the goal itself is wrong often creates unnecessary instability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 78 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0091743514002102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Why behavior change is difficult to sustainby ME Bouton · 2014 · Cited by 428 — The findings suggest that changing a...</span></span></span>
 
 Instead, look for the bottleneck.
 
@@ -342,7 +342,7 @@ The habit depended on a trigger that was inconsistent or easy to miss.
 
 The planned behaviour required more time, energy or preparation than the situation allowed.
 
-**The [environment]({{ 'environment/' | relative_url }}) worked against the habit.**
+**The environment worked against the habit.**
 
 Distractions, friction or competing defaults repeatedly interrupted execution.
 
@@ -436,7 +436,7 @@ That statement gives the coming week something concrete to test.
 
 People often assume successful self-improvement comes from finding the perfect system. In practice, effective systems are usually the result of repeated repairs.
 
-Behaviour-maintenance research suggests that long-term change depends partly on managing lapses, adapting to barriers and continually re-establishing behaviour after disruptions. Attempts to sustain change tend to work better when setbacks are treated as information rather than proof of failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImpact of feedback generation and presentation on self</span><span class="citation-popover-snippet">PMCby RA Krukowski · 2024 · Cited by 43 — Self-monitoring of dietary intake, physical activity, and weight is a key strategy in behaviora...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTheoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1800 — Self-regulation involves coping wi...</span></span></span>
+Behaviour-maintenance research suggests that long-term change depends partly on managing lapses, adapting to barriers and continually re-establishing behaviour after disruptions. Attempts to sustain change tend to work better when setbacks are treated as information rather than proof of failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImpact of feedback generation and presentation on self</span><span class="citation-popover-snippet">by RA Krukowski · 2024 · Cited by 43 — Self-monitoring of dietary intake, physical activity, and weight is a key strategy in behaviora...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Theoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1800 — Self-regulation involves coping wi...</span></span></span>
 
 A weekly review supports this process because it prevents two common mistakes:
 
@@ -797,195 +797,195 @@ The purpose is not to grade yourself. It is to improve the design of the habit. 
 1. <a id="endnote-1"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Monitoring Interventions (Chapter 37)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37](https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechani...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby Y Zhu · 2024 · Cited by 78 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 78 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: Moreover, habit  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1438887124002619](https://www.sciencedirect.com/org/science/article/pii/S1438887124002619)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 74 — The results show that the most app...</p></details>
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887124002619</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 74 — The results show that the most app...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCImpact of feedback generation and presentation on self  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby RA Krukowski · 2024 · Cited by 43 — Self-monitoring of dietary intake, physical activity, and weight is a key strategy in behaviora...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Krukowski · 2024 · Cited by 43 — Self-monitoring of dietary intake, physical activity, and weight is a key strategy in behaviora...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTheoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1800 — Self-regulation involves coping wi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Theoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1800 — Self-regulation involves coping wi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0091743514002102](https://www.sciencedirect.com/science/article/abs/pii/S0091743514002102)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectReview Why behavior change is difficult to sustainby ME Bouton · 2014 · Cited by 428 — The findings suggest that changing a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0091743514002102" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0091743514002102</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Why behavior change is difficult to sustainby ME Bouton · 2014 · Cited by 428 — The findings suggest that changing a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 72 — Recent meta-analyses demonstrated [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2017/11/e397/](https://www.jmir.org/2017/11/e397/)  
+   Link: <a href="https://www.jmir.org/2017/11/e397/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2017/11/e397/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human associative memory...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLong-Term Adherence to Health Behavior Change  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4988401/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4988401/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby KR Middleton · 2013 · Cited by 610 — Combining relapse prevention training with extended care regimens, however, appears to b...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4988401/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4988401/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby KR Middleton · 2013 · Cited by 610 — Combining relapse prevention training with extended care regimens, however, appears to b...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Among individuals seeking to change health-related behaviors, relapse is a common experience. Whether it occurs very soon after...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: self.inc  
-   Link: [https://www.self.inc/](https://www.self.inc/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self | Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/self](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/self)  
+   Link: <a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/self" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/self</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;cambridge.org[https://dictionary.cambridge.org/zht/詞典/英語-漢語-繁體/self...&quot;](https://dictionary.cambridge.org/zht/詞典/英語-漢語-繁體/self...&quot;)...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Step-by-step guides are provided in...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0148296322009006](https://www.sciencedirect.com/science/article/pii/S0148296322009006)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0148296322009006" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0148296322009006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation and goal-directed behavior: A systematic...by S Billore · 2023 · Cited by 107 — This article is one of the first to pres...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211266925000775](https://www.sciencedirect.com/science/article/pii/S2211266925000775)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211266925000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211266925000775</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconceptualizing self-regulation in health behaviorsby D Jekauc · 2026 · Cited by 1 — Behavior change and behavior maintenance are found...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475221001195](https://www.sciencedirect.com/science/article/abs/pii/S0959475221001195)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475221001195" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475221001195</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation prompts promote the achievement of...by J Breitwieser · 2022 · Cited by 35 — These results suggest that the beneficial e...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: humanfactors.jmir.org  
-   Link: [https://humanfactors.jmir.org/2025/1/e66208/](https://humanfactors.jmir.org/2025/1/e66208/)  
+   Link: <a href="https://humanfactors.jmir.org/2025/1/e66208/" target="_blank" rel="noopener noreferrer nofollow">https://humanfactors.jmir.org/2025/1/e66208/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goals and Accepting Challenges for Behavior Change...by K Åsberg · 2025 · Cited by 1 — The Buddy intervention aimed to support health be...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 737 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/09637214241246480](https://journals.sagepub.com/doi/10.1177/09637214241246480)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/09637214241246480" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09637214241246480</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHabits, Goals, and Effective Behavior Change3 June 2024 — Although habits can form as people pursue goals, once habits devel...</p></details>
    Published: June 2024  
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936](https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 123 — The self-regulation strategy of forming impleme...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29191800/](https://pubmed.ncbi.nlm.nih.gov/29191800/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention and Reminder Effects on...Nov 30, 2017 — The aim of this experiment was to manipulate the effects of implementation intentions...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25673110/](https://pubmed.ncbi.nlm.nih.gov/25673110/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25673110/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25673110/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentionsby L Mairs · 2015 · Cited by 121 — Conclusion: Both self-monitoring and implementation intentions appear to be p...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: adf.org.au  
-   Link: [https://adf.org.au/reducing-risk/relapse/](https://adf.org.au/reducing-risk/relapse/)  
+   Link: <a href="https://adf.org.au/reducing-risk/relapse/" target="_blank" rel="noopener noreferrer nofollow">https://adf.org.au/reducing-risk/relapse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2025 — A relapse happens when a person stops maintaining his or her goal of reducing or avoiding use of alcohol or other drugs and...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Self](https://en.wikipedia.org/wiki/Self)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710](https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions | Springer Nature Link&#x27;Implementation Intentions&#x27; published in &#x27;Encyclopedia of Behavioral Medicine&#x27;...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: acf.gov  
-   Link: [https://acf.gov/sites/default/files/documents/opre/50020_goals_measurebrief_final_508.pdf](https://acf.gov/sites/default/files/documents/opre/50020_goals_measurebrief_final_508.pdf)  
+   Link: <a href="https://acf.gov/sites/default/files/documents/opre/50020_goals_measurebrief_final_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acf.gov/sites/default/files/documents/opre/50020_goals_measurebrief_final_508.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dsets the program intends to influence (by comparing them before and after participants engage in a program...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/steve-magness_a-new-meta-analysis-on-the-impact-of-goal-activity-7327401380434837504-43li](https://www.linkedin.com/posts/steve-magness_a-new-meta-analysis-on-the-impact-of-goal-activity-7327401380434837504-43li)  
+   Link: <a href="https://www.linkedin.com/posts/steve-magness_a-new-meta-analysis-on-the-impact-of-goal-activity-7327401380434837504-43li" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/steve-magness_a-new-meta-analysis-on-the-impact-of-goal-activity-7327401380434837504-43li</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Goal setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125;) meta-analysis: Process goals boost performanceA new meta-analysis on the impact of goal setting on performance found: 1. Pro...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved](https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved)  
+   Link: <a href="https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A number of potential moderators of the effects of implementation intentions on behaviour were identified (intentions, motivation...Read...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/87431/](https://eprints.whiterose.ac.uk/id/eprint/87431/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 738 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — Planning to break unwanted habits: Habit strength...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 45 — Overall, the evidence for the effectiveness of implementatio...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: ovid.com  
    Title: a0021974~systematic review of maintenance of behavior change  
-   Link: [https://www.ovid.com/journals/hepsy/pdf/10.1037/a0021974~systematic-review-of-maintenance-of-behavior-change](https://www.ovid.com/journals/hepsy/pdf/10.1037/a0021974~systematic-review-of-maintenance-of-behavior-change)  
+   Link: <a href="https://www.ovid.com/journals/hepsy/pdf/10.1037/a0021974~systematic-review-of-maintenance-of-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/hepsy/pdf/10.1037/a0021974~systematic-review-of-maintenance-of-behavior-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Review of Maintenance of Behavior Change...by B Fjeldsoe · 2011 · Cited by 587 — Objective: In the past decade, there has bee...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: camh.ca  
-   Link: [https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse](https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse)  
+   Link: <a href="https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse" target="_blank" rel="noopener noreferrer nofollow">https://www.camh.ca/en/professionals/treating-conditions-and-disorders/fundamentals-of-addiction/f-of-addiction---motivation-and-change/f-of-addiction---preventing-and-managing-relapse</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o take stock, reassess the situation and re-engage with some form of...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change](https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change)  
+   Link: <a href="https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>domains, i.e., self-reported goal progress, behavior [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;)...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: recoveryanswers.org  
-   Link: [https://www.recoveryanswers.org/resource/relapse-prevention-rp/](https://www.recoveryanswers.org/resource/relapse-prevention-rp/)  
+   Link: <a href="https://www.recoveryanswers.org/resource/relapse-prevention-rp/" target="_blank" rel="noopener noreferrer nofollow">https://www.recoveryanswers.org/resource/relapse-prevention-rp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ians to identify situations that place the person at...Read more...</p></details>

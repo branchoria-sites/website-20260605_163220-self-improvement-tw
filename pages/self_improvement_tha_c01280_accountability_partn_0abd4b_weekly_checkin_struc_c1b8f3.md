@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:05:11'
 parent_title: What Makes an Accountability Partner Useful? | Better Change
 parent_permalink: /accountability/
 parent_nav_short_title: Accountability
@@ -265,7 +266,6 @@ next_link:
   permalink: /if-then-plans-cdbb5b/
   short_title: If then plans
   heading_title: What to do after a missed session
-date: '2026-06-05 16:05:11 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_we
 
 ## Introduction
 
-Weekly check-ins are one of the simplest tools in an accountability partnership or study group, yet they often fail because they ask the wrong question. “How is it going?” invites impressions, feelings and optimistic summaries. It does not reliably reveal what was done, what blocked progress, or what should happen next. Effective self-improvement depends on [feedback loops]({{ 'feedback/' | relative_url }}) that turn intentions into observable actions, and behaviour-change research consistently highlights goal review, self-monitoring, [feedback]({{ 'feedback/' | relative_url }}), problem-solving and action planning as important ingredients in successful behaviour change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesweek</span><span class="citation-popover-snippet">1.5. Review behavior goal(s) Review behavior goal(s) jointly with the person and consider modifying goal(s) or behavior change strategy i...</span></span></span> PubMed A useful weekly check-in therefore acts less like a conversation and more like a lightweight review system. It creates enough structure that <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMeda model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> progress can be examined honestly without becoming bureaucratic. The goal is not to judge the past week but to produce a clearer next attempt.
+Weekly check-ins are one of the simplest tools in an accountability partnership or study group, yet they often fail because they ask the wrong question. “How is it going?” invites impressions, feelings and optimistic summaries. It does not reliably reveal what was done, what blocked progress, or what should happen next. Effective self-improvement depends on [feedback]({{ 'feedback/' | relative_url }}) loops that turn intentions into observable actions, and behaviour-change research consistently highlights goal review, self-monitoring, feedback, problem-solving and action planning as important ingredients in successful [behaviour change]({{ 'behaviour-change/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesweek</span><span class="citation-popover-snippet">1.5. Review behavior goal(s) Review behavior goal(s) jointly with the person and consider modifying goal(s) or behavior change strategy i...</span></span></span> PubMed A useful weekly check-in therefore acts less like a conversation and more like a lightweight review system. It creates enough structure that <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> progress can be examined honestly without becoming bureaucratic. The goal is not to judge the past week but to produce a clearer next attempt.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-1-dark.svg" | relative_url }}" alt="Check ins illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -298,7 +298,7 @@ A vague check-in creates several common problems:
 * **Lessons are lost.** A missed week becomes “I need more [motivation]({{ 'motivation/' | relative_url }})” instead of “my study sessions were scheduled during my busiest work hours”.
 * **No next step emerges.** The conversation ends with encouragement rather than a revised plan.
 
-Accountability works best when expectations are clear and process-focused rather than vague. Research on supportive accountability emphasises that adherence improves when people know exactly what they are expected to report and when monitoring is regular and transparent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMeda model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSupportive Accountability: A Model for Providing Human...We argue that human support increases adherence through accountabil...</span></span></span>
+Accountability works best when expectations are clear and process-focused rather than vague. Research on supportive accountability emphasises that adherence improves when people know exactly what they are expected to report and when monitoring is regular and transparent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Supportive Accountability: A Model for Providing Human...We argue that human support increases adherence through accountabil...</span></span></span>
 
 ## The five questions that make progress reviewable
 
@@ -339,7 +339,7 @@ Examples:
 
 </div>
 
-Behaviour-change frameworks place substantial emphasis on self-monitoring and feedback because actions can be measured and reviewed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">Establish a method for the person to monitor and record their behaviour(s) as part of a behaviour change strategy.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMeda model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span>
+Behaviour-change frameworks place substantial emphasis on self-monitoring and feedback because actions can be measured and reviewed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">Establish a method for the person to monitor and record their behaviour(s) as part of a behaviour change strategy.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span>
 
 ### 3. What got in the way?
 
@@ -359,7 +359,7 @@ The purpose is not to excuse failure but to identify friction. Common answers in
 
 </div>
 
-Many planning approaches distinguish between action planning and coping planning. Action planning specifies what to do, while coping planning anticipates obstacles and responses. Progress improves when people identify barriers rather than merely noticing that a goal was missed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</span></span></span> University Press & Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateImplementation Intention and Action Planning Interventions...The purpose of this paper is to provide an overview of the lite...</span></span></span>
+Many planning approaches distinguish between action planning and coping planning. Action planning specifies what to do, while coping planning anticipates obstacles and responses. Progress improves when people identify barriers rather than merely noticing that a goal was missed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</span></span></span> University Press & Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Implementation Intention and Action Planning Interventions...The purpose of this paper is to provide an overview of the lite...</span></span></span>
 
 ### 4. What should change?
 
@@ -470,7 +470,7 @@ For most goals, the entire process can fit on one page:
 4. What did you learn?
 5. What specific action will you take before the next check-in?
 
-This structure aligns closely with established behaviour-change techniques such as self-monitoring, feedback, review of goals, problem-solving and action planning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesweek</span><span class="citation-popover-snippet">1.5. Review behavior goal(s) Review behavior goal(s) jointly with the person and consider modifying goal(s) or behavior change strategy i...</span></span></span> PubMed The result is a check-in that produces evidence rather than impressions. Instead of repeatedly asking whether progress feels like it is happe <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMeda model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> ning, it creates a weekly record of what happened, why it happened, and what will happen next. That is what makes accountability useful rather than merely social.
+This structure aligns closely with established behaviour-change techniques such as self-monitoring, feedback, review of goals, problem-solving and action planning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesweek</span><span class="citation-popover-snippet">1.5. Review behavior goal(s) Review behavior goal(s) jointly with the person and consider modifying goal(s) or behavior change strategy i...</span></span></span> PubMed The result is a check-in that produces evidence rather than impressions. Instead of repeatedly asking whether progress feels like it is happe <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> ning, it creates a weekly record of what happened, why it happened, and what will happen next. That is what makes accountability useful rather than merely social.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -894,113 +894,113 @@ This structure aligns closely with established behaviour-change techniques such 
 1. <a id="endnote-1"></a>
    Source: digitalwellbeing.org  
    Title: i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesweek  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.5. Review behavior goal(s) Review behavior goal(s) jointly with the person and consider modifying goal(s) or behavior change strategy i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions](https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSupportive Accountability: A Model for Providing Human...We argue that human [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) increases adherence through accountabil...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supportive Accountability: A Model for Providing Human...We argue that human [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) increases adherence through accountabil...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward](https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateImplementation Intention and Action Planning Interventions...The purpose of this paper is to provide an overview of the lite...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intention and Action Planning Interventions...The purpose of this paper is to provide an overview of the lite...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly rep...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralApplication of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — The most frequently applied BCTs...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Goal setting is one such st...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21393123/](https://pubmed.ncbi.nlm.nih.gov/21393123/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMeda model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21393123/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Establish a method for the person to monitor and record their behaviour(s) as part of a behaviour change strategy.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: prospectivepsych.org  
-   Link: [https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf)  
+   Link: <a href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prospective PsychologyImplementation IntentionsHow good intentions can be implemented effectively has been analyzed in recent research on...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
-   Link: [https://theoryandtechniquetool.humanbehaviourchange.org/tool](https://theoryandtechniquetool.humanbehaviourchange.org/tool)  
+   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theory and Techniques ToolThe Theory and Techniques ToolExplore the links between 74 Behaviour Change Techniques (BCTs) and 26 Mechanisms...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research.vu.nl  
    Title: Vrije Universiteit Amsterdam Supportive Accountability  
-   Link: [https://research.vu.nl/ws/portalfiles/portal/2936910/2011%2BMohr%2C%2BAccountability%2C%2BJMIR.pdf](https://research.vu.nl/ws/portalfiles/portal/2936910/2011%2BMohr%2C%2BAccountability%2C%2BJMIR.pdf)  
+   Link: <a href="https://research.vu.nl/ws/portalfiles/portal/2936910/2011%2BMohr%2C%2BAccountability%2C%2BJMIR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/ws/portalfiles/portal/2936910/2011%2BMohr%2C%2BAccountability%2C%2BJMIR.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vrije Universiteit AmsterdamSupportive Accountability - VU Research Portal10 Mar 2011 — Our model predicts that adherence to prescribed b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nds.org.au  
-   Link: [https://nds.org.au/images/resources/wa-safer-services/Implementation-Intentions.pdf](https://nds.org.au/images/resources/wa-safer-services/Implementation-Intentions.pdf)  
+   Link: <a href="https://nds.org.au/images/resources/wa-safer-services/Implementation-Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nds.org.au/images/resources/wa-safer-services/Implementation-Intentions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to change their behaviour, and act in the way that is planned. It is...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12144-024-06899-1](https://link.springer.com/article/10.1007/s12144-024-06899-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s12144-024-06899-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12144-024-06899-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkAssessing and exploring self-enacted behavior change...by J Schüler · 2024 · Cited by 3 — Behavior change techniques...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: 5 Secrets to Running Effective Weekly Team Meetings  
-   Link: [https://www.youtube.com/watch?v=EG6muVcHNqM](https://www.youtube.com/watch?v=EG6muVcHNqM)  
+   Link: <a href="https://www.youtube.com/watch?v=EG6muVcHNqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EG6muVcHNqM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Chaos to Clarity: My 4-Step [Weekly Review](&amp;#123;&amp;#123; &#x27;weekly-review/&#x27; | relative_url &amp;#125;&amp;#125;) System...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: How to Do a Weekly Review  
-   Link: [https://www.youtube.com/watch?v=fQAxCmUYqeg](https://www.youtube.com/watch?v=fQAxCmUYqeg)  
+   Link: <a href="https://www.youtube.com/watch?v=fQAxCmUYqeg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fQAxCmUYqeg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to do an accountability check-in with your health coaching clients...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: How to Check-In Effectively  
-   Link: [https://www.youtube.com/watch?v=HrmK6mvQRlw](https://www.youtube.com/watch?v=HrmK6mvQRlw)  
+   Link: <a href="https://www.youtube.com/watch?v=HrmK6mvQRlw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HrmK6mvQRlw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Secrets to Running Effective Weekly Team Meetings...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-020-01001-x](https://link.springer.com/article/10.1186/s12966-020-01001-x)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it should be noted that the sample size in the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: How to do an accountability check-in with your health coaching clients  
-   Link: [https://www.youtube.com/watch?v=x9pm3aciLRg](https://www.youtube.com/watch?v=x9pm3aciLRg)  
+   Link: <a href="https://www.youtube.com/watch?v=x9pm3aciLRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x9pm3aciLRg</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: From Chaos to Clarity: My 4-Step Weekly Review System  
-   Link: [https://www.youtube.com/watch?v=zjKUX7sHEGI](https://www.youtube.com/watch?v=zjKUX7sHEGI)  
+   Link: <a href="https://www.youtube.com/watch?v=zjKUX7sHEGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zjKUX7sHEGI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Do a Weekly Review...</p></details>

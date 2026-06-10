@@ -284,7 +284,7 @@ The distinction matters because self-improvement that works is not merely about 
 
 ## How shame creates urgency but raises emotional cost
 
-Shame is often misunderstood because it can be motivating in the short term. People frequently report making resolutions after feeling embarrassed, judged, unattractive, unsuccessful, or behind their peers. Research has found that shame can indeed create a strong desire for self-change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedShame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span>
+Shame is often misunderstood because it can be motivating in the short term. People frequently report making resolutions after feeling embarrassed, judged, unattractive, unsuccessful, or behind their peers. Research has found that shame can indeed create a strong desire for self-change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Shame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span>
 
 The problem is not that shame never motivates. The problem is the price it charges.
 
@@ -312,7 +312,7 @@ This creates several predictable problems:
 
 **Effort feels emotionally draining.** The person is not only doing the task; they are also carrying the burden of self-judgment while doing it.
 
-**Avoidance becomes tempting.** Shame frequently encourages withdrawal, hiding, or disengagement rather than constructive persistence. Research on shame and self-criticism repeatedly links these experiences to psychological distress and defensive coping patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11916919/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCBreaking the vicious cycles of self-criticism: a qualitative study...by B Šoková · 2025 · Cited by 8 — The psychoanalytic literature...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11745034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby V Zaccari · 2024 · Cited by 9 — High levels of SC lead to emotions of failure, guilt, inferiority, and shame (Blatt &amp; Luyten, 2009...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 1 — This network analysis provides a precise u...</span></span></span>
+**Avoidance becomes tempting.** Shame frequently encourages withdrawal, hiding, or disengagement rather than constructive persistence. Research on shame and self-criticism repeatedly links these experiences to psychological distress and defensive coping patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11916919/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Breaking the vicious cycles of self-criticism: a qualitative study...by B Šoková · 2025 · Cited by 8 — The psychoanalytic literature...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11745034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Zaccari · 2024 · Cited by 9 — High levels of SC lead to emotions of failure, guilt, inferiority, and shame (Blatt &amp; Luyten, 2009...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 1 — This network analysis provides a precise u...</span></span></span>
 
 This helps explain a common self-improvement cycle: harsh self-criticism produces a burst of action, the burst fades, a setback occurs, shame increases, and the person abandons the effort altogether.
 
@@ -339,7 +339,7 @@ Values-based goals sound more like:
 
 The goal is connected to a chosen value rather than an attempt to escape self-rejection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alliancecoaching.co.uk">[alliancecoaching.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alliancecoaching.co.uk</span><span class="citation-popover-title">ICPR Goal Self Concordance</span><span class="citation-popover-snippet">Enhancing goal self-concordance through coachingby D Burke · 2007 · Cited by 120 — (Sheldon &amp; Elliot, 1999) describes self- concordant go...</span></span></span>
 
-Research on self-concordant goals—goals aligned with a person's interests and core values—shows that such goals are associated with greater sustained effort, higher attainment rates, and greater wellbeing benefits when achieved. Frontiers 3Self-Determination Theory PubMed An important feature of values-based motivation is that it does not require constant enjoyment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedShame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span>
+Research on self-concordant goals—goals aligned with a person's interests and core values—shows that such goals are associated with greater sustained effort, higher attainment rates, and greater wellbeing benefits when achieved. Frontiers 3Self-Determination Theory PubMed An important feature of values-based motivation is that it does not require constant enjoyment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Shame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span>
 
 A person may dislike early-morning runs, difficult study sessions, physiotherapy exercises, or tedious financial planning. Yet they can still experience these actions as self-endorsed because the activity serves something they genuinely value. Self-determination theory refers to this as a more autonomous form of motivation: the behaviour has been accepted as personally meaningful rather than merely imposed by pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://peercommunityjournal.org/articles/10.24072/pcjournal.680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peercommunityjournal.org">[Peer Community Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peercommunityjournal.org</span><span class="citation-popover-snippet">Self-determination theory in physiotherapy practice: A rapid...by J O&#x27;Neil · 2026 · Cited by 2 — Controlled motivation refers to behavio...</span></span></span>
 
@@ -384,7 +384,7 @@ The practical consequence is that motivation remains fragile. It depends on main
 If admiration disappears, the reason for effort may disappear with it.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gIosWS8jyMo" title="SELF-DETERMINATION THEORY. EXTRINSEC MOTIVATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gIosWS8jyMo" target="_blank" rel="noopener noreferrer">SELF-DETERMINATION THEORY. EXTRINSEC MOTIVATION</a></p><p class="youtube-embed-meta">Channel: UVa_Online &middot; Views: 23 &middot; Uploaded: September 2025 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gIosWS8jyMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gIosWS8jyMo">Open on YouTube</a></p></div></div></div>
 
 ## Rewriting self-critical goals into chosen goals
 
@@ -434,14 +434,14 @@ Values-based goals create a different interpretation:
 
 The failure remains meaningful, but it does not become a verdict on personal worth.
 
-This distinction helps explain why values-based motivation is often more durable. The person can recover from mistakes because the goal remains connected to something they care about rather than something they are trying to escape. Research on self-concordance suggests that when goals are aligned with core values and interests, people are more likely to sustain effort and derive psychological benefits from the pursuit itself. Frontiers 3Self-Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedShame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span>
+This distinction helps explain why values-based motivation is often more durable. The person can recover from mistakes because the goal remains connected to something they care about rather than something they are trying to escape. Research on self-concordance suggests that when goals are aligned with core values and interests, people are more likely to sustain effort and derive psychological benefits from the pursuit itself. Frontiers 3Self-Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Shame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gIosWS8jyMo" title="SELF-DETERMINATION THEORY. EXTRINSEC MOTIVATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gIosWS8jyMo" target="_blank" rel="noopener noreferrer">SELF-DETERMINATION THEORY. EXTRINSEC MOTIVATION</a></p><p class="youtube-embed-meta">Channel: UVa_Online &middot; Views: 23 &middot; Uploaded: September 2025 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gIosWS8jyMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gIosWS8jyMo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qo95mXidnlQ" title="Ep 26: Why Resolutions Don’t Stick — And How to Set Goals That Last | Relish Podcast (Entreé)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qo95mXidnlQ" target="_blank" rel="noopener noreferrer">Ep 26: Why Resolutions Don’t Stick — And How to Set Goals That Last | Relish Podcast (Entreé)</a></p><p class="youtube-embed-meta">Channel: Alyssia Sheikh &middot; Views: 599 &middot; Uploaded: December 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qo95mXidnlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qo95mXidnlQ">Open on YouTube</a></p></div></div></div>
 
 ## Choosing goals that do not require self-rejection
 
-A common myth in self-improvement is that people need harsh self-criticism to change. The evidence paints a more complicated picture. Shame can generate urgency and may spark a desire for change, but motivations built around avoiding shame, guilt, or worthlessness tend to carry higher emotional costs and are harder to sustain over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://peercommunityjournal.org/articles/10.24072/pcjournal.680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peercommunityjournal.org">[Peer Community Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peercommunityjournal.org</span><span class="citation-popover-snippet">Self-determination theory in physiotherapy practice: A rapid...by J O&#x27;Neil · 2026 · Cited by 2 — Controlled motivation refers to behavio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedShame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">shame and motivation to change</span><span class="citation-popover-snippet">Jan 29, 2015 — Feeling shame was a stronger predictor than guilt or regret for motivation for positive self-change.Read more...</span></span></span>
+A common myth in self-improvement is that people need harsh self-criticism to change. The evidence paints a more complicated picture. Shame can generate urgency and may spark a desire for change, but motivations built around avoiding shame, guilt, or worthlessness tend to carry higher emotional costs and are harder to sustain over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://peercommunityjournal.org/articles/10.24072/pcjournal.680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peercommunityjournal.org">[Peer Community Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peercommunityjournal.org</span><span class="citation-popover-snippet">Self-determination theory in physiotherapy practice: A rapid...by J O&#x27;Neil · 2026 · Cited by 2 — Controlled motivation refers to behavio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Shame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">shame and motivation to change</span><span class="citation-popover-snippet">Jan 29, 2015 — Feeling shame was a stronger predictor than guilt or regret for motivation for positive self-change.Read more...</span></span></span>
 
 Values-based goals offer a different route. They allow a person to acknowledge shortcomings while still acting from choice rather than self-rejection. The resulting effort may not always feel easier, but it is more likely to feel like an expression of who the person wants to be rather than a punishment for who they are.
 
@@ -868,225 +868,225 @@ For long-term self-improvement, that difference is often the difference between 
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001879120300841](https://www.sciencedirect.com/science/article/abs/pii/S0001879120300841)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001879120300841" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001879120300841</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>controlled form motivation. When the pressure is experienced internally (e.g., motivation to avoid shame or guilt), it reflects introject...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11916919/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11916919/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBreaking the vicious cycles of self-criticism: a qualitative study...by B Šoková · 2025 · Cited by 8 — The psychoanalytic literature...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11916919/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11916919/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking the vicious cycles of self-criticism: a qualitative study...by B Šoková · 2025 · Cited by 8 — The psychoanalytic literature...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666915325000204](https://www.sciencedirect.com/science/article/pii/S2666915325000204)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666915325000204</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 1 — This network analysis provides a precise u...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11745034/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745034/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby V Zaccari · 2024 · Cited by 9 — High levels of SC lead to emotions of failure, guilt, inferiority, and shame (Blatt &amp; Luyten, 2009...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11745034/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11745034/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Zaccari · 2024 · Cited by 9 — High levels of SC lead to emotions of failure, guilt, inferiority, and shame (Blatt &amp; Luyten, 2009...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCShame and Self-Esteem: A Meta-Analysis  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8768475/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8768475/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8768475/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8768475/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Self-Esteem: A Meta-Analysis - PMCby Y Budiarto · 2021 · Cited by 145 — Scholars agree that shame has many effects related to psychol...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1462373021000158](https://www.sciencedirect.com/org/science/article/pii/S1462373021000158)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1462373021000158</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-generated person...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Self-determination theory  
-   Link: [https://en.wikipedia.org/wiki/Self-determination_theory](https://en.wikipedia.org/wiki/Self-determination_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Shame (2011 film)  
-   Link: [https://en.wikipedia.org/wiki/Shame_%282011_film%29](https://en.wikipedia.org/wiki/Shame_%282011_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Shame_%282011_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shame_%282011_film%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shame (2011 film)Shame is a 2011 British erotic psychological drama film, set in New York, directed by Steve McQueen, co-written by Mc...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X1400027X](https://www.sciencedirect.com/science/article/abs/pii/S2352250X1400027X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X1400027X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X1400027X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shame, self-criticism, self-stigma, and compassion in...by JB Luoma · 2015 · Cited by 328 — Within the past decade, empirical evidence h...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0191886923002829](https://www.sciencedirect.com/science/article/pii/S0191886923002829)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0191886923002829" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886923002829</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-disgust, and self-hate in patients with anxious attachment and addressing shame and feelings of inadequacy in patients with avoidant...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 —... shame, or the pursuit of self-worth (Deci &amp; Ryan, 2000; Deci &amp; Ryan... mot...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: peercommunityjournal.org  
-   Link: [https://peercommunityjournal.org/articles/10.24072/pcjournal.680/](https://peercommunityjournal.org/articles/10.24072/pcjournal.680/)  
+   Link: <a href="https://peercommunityjournal.org/articles/10.24072/pcjournal.680/" target="_blank" rel="noopener noreferrer nofollow">https://peercommunityjournal.org/articles/10.24072/pcjournal.680/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory in physiotherapy practice: A rapid...by J O&#x27;Neil · 2026 · Cited by 2 — Controlled motivation refers to behavio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25401288/](https://pubmed.ncbi.nlm.nih.gov/25401288/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedShame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25401288/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: psychologytoday.com  
    Title: shame and motivation to change  
-   Link: [https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change](https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 29, 2015 — Feeling shame was a stronger predictor than guilt or regret for motivation for positive self-change.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987582/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987582/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987582/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987582/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-worth, shame or guilt (Assor et al., 2009). According to these authors, introjected approach would be more self-determined than...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: selfdeterminationtheory.org  
    Title: 2024 WangWangEtAl MetaEdu  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2024/06/2024_WangWangEtAl_MetaEdu.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2024/06/2024_WangWangEtAl_MetaEdu.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2024/06/2024_WangWangEtAl_MetaEdu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2024/06/2024_WangWangEtAl_MetaEdu.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024_WangWangEtAl_MetaEdu.pdfby Y Wang · 2024 · Cited by 200 — As this type of motivation is ego-involved and anxiety/guilt/shame-associa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf](https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryGoal Striving, Need Satisfaction, and Longitudinal Well-Beingby KM Sheldon · 1999 · Cited by 4353 — The self-con...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10101878/](https://pubmed.ncbi.nlm.nih.gov/10101878/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4356 — Second, those who attain self-c...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4356 — Second, those who attain self-c...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing self-concordant goals: a longitudinal study on...by L Cao · 2024 · Cited by 5 — Sheldon and Elliot (1999), building on the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: [https://positivepsychology.com/self-determination-theory/](https://positivepsychology.com/self-determination-theory/)  
+   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compete...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: [https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/](https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/)  
+   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Complete Guide (2026)6 May 2026 — Instead of an external authority applying pressure, the person applies press...</p></details>
    Published: May 2026  
 
 22. <a id="endnote-22"></a>
    Source: psychologytoday.com  
    Title: Avoidance That Hides in "Productive" Therapy2 hours ago — Shame  
-   Link: [https://www.psychologytoday.com/nz/blog/psychosensible/202605/avoidance-that-hides-in-productive-therapy](https://www.psychologytoday.com/nz/blog/psychosensible/202605/avoidance-that-hides-in-productive-therapy)  
+   Link: <a href="https://www.psychologytoday.com/nz/blog/psychosensible/202605/avoidance-that-hides-in-productive-therapy" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/nz/blog/psychosensible/202605/avoidance-that-hides-in-productive-therapy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking responsibility requires realistic assessment of ourselves, others, and situations. More from Psychology Today. Therapy.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/](https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory explained: autonomy...1 Mar 2026 — SDT describes a spectrum from amotivation (no motivation) through external...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: alliancecoaching.co.uk  
    Title: ICPR Goal [Self Concordance](&#123;&#123; 'self-concordance/' | relative_url &#125;&#125;)  
-   Link: [https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf](https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf)  
+   Link: <a href="https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing goal self-concordance through coachingby D Burke · 2007 · Cited by 120 — (Sheldon &amp; Elliot, 1999) describes self- concordant go...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pFRlJ87GlIQ](https://www.youtube.com/watch?v=pFRlJ87GlIQ)  
+   Link: <a href="https://www.youtube.com/watch?v=pFRlJ87GlIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pFRlJ87GlIQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprouts &amp;middot; 431K views; Richard Ryan || Self-Determination Theory &amp; Human Motivation. The Psychology Podcast...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_juPDoa3GBY](https://www.youtube.com/watch?v=_juPDoa3GBY)  
+   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gIosWS8jyMo](https://www.youtube.com/watch?v=gIosWS8jyMo)  
+   Link: <a href="https://www.youtube.com/watch?v=gIosWS8jyMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gIosWS8jyMo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF-DETERMINATION THEORY. EXTRINSEC MOTIVATIONSelf-determination theory distinguishes three qualities or types of motivation along a con...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: apa.org  
    Title: self determination theory  
-   Link: [https://www.apa.org/research-practice/conduct-research/self-determination-theory.html](https://www.apa.org/research-practice/conduct-research/self-determination-theory.html)  
+   Link: <a href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/research-practice/conduct-research/self-determination-theory.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory: A quarter century of human...2 Mar 2025 — According to self-determination theory, human motivation relies on...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: simplypsychology.org  
    Title: self determination theory  
-   Link: [https://www.simplypsychology.org/self-determination-theory.html](https://www.simplypsychology.org/self-determination-theory.html)  
+   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of Motivation1 Apr 2026 — The term self-determination refers to a person&#x27;s own ability to manage themselves, to...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: urmc.rochester.edu  
    Title: self determination theory  
-   Link: [https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory](https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory)  
+   Link: <a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rochester.eduSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all humans have three ba...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/self-determination-theory](https://www.ebsco.com/research-starters/social-sciences-and-humanities/self-determination-theory)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/self-determination-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory | Social Sciences and HumanitiesSelf-determination theory is a theory of motivation which posits that humans co...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: actwithcompassion.com  
-   Link: [https://www.actwithcompassion.com/20_science_based_recommendations_for_therapy_with_highly_self_critical_or_shame_prone_clients](https://www.actwithcompassion.com/20_science_based_recommendations_for_therapy_with_highly_self_critical_or_shame_prone_clients)  
+   Link: <a href="https://www.actwithcompassion.com/20_science_based_recommendations_for_therapy_with_highly_self_critical_or_shame_prone_clients" target="_blank" rel="noopener noreferrer nofollow">https://www.actwithcompassion.com/20_science_based_recommendations_for_therapy_with_highly_self_critical_or_shame_prone_clients</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 science-based recommendations for therapy with highly...Jun 9, 2016 — We have pulled together the 20 research findings we feel are mo...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: rallisoncounseling.com  
-   Link: [https://www.rallisoncounseling.com/depression-driven-self-criticism/](https://www.rallisoncounseling.com/depression-driven-self-criticism/)  
+   Link: <a href="https://www.rallisoncounseling.com/depression-driven-self-criticism/" target="_blank" rel="noopener noreferrer nofollow">https://www.rallisoncounseling.com/depression-driven-self-criticism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Depression-Driven Self-CriticismResearch in Clinical Psychology &amp; Psychotherapy demonstrates CFT&#x27;s effectiveness for depression character...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection](https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection)  
+   Link: <a href="https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Concordant Goals and Well-Being | PDF | MotivationalThis document discusses the concept of self-concordant goal selection, which ref...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/240333261_The_self-concordance_model_of_healthy_goal-striving_When_personal_goals_correctly_represent_the_pe](https://www.researchgate.net/publication/240333261_The_self-concordance_model_of_healthy_goal-striving_When_personal_goals_correctly_represent_the_pe)  
+   Link: <a href="https://www.researchgate.net/publication/240333261_The_self-concordance_model_of_healthy_goal-striving_When_personal_goals_correctly_represent_the_pe" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240333261_The_self-concordance_model_of_healthy_goal-striving_When_personal_goals_correctly_represent_the_pe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The self-concordance model of healthy goal-strivingSelf-concordant striving not only affects optimism about goal attainment but also infl...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: healthinfosource.com  
    Title: beyond punishment case compassionate approaches motivating behavioral change  
-   Link: [https://healthinfosource.com/blog/beyond-punishment-case-compassionate-approaches-motivating-behavioral-change](https://healthinfosource.com/blog/beyond-punishment-case-compassionate-approaches-motivating-behavioral-change)  
+   Link: <a href="https://healthinfosource.com/blog/beyond-punishment-case-compassionate-approaches-motivating-behavioral-change" target="_blank" rel="noopener noreferrer nofollow">https://healthinfosource.com/blog/beyond-punishment-case-compassionate-approaches-motivating-behavioral-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond punishment: The case for compassionate approaches...Nov 5, 2024 — The cycle of shame and self-criticism can trap individuals in n...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: bestchoicecounselling.com  
-   Link: [https://bestchoicecounselling.com/shame-vs-guilt-psychology-what-science-reveals-about-your-emotions/](https://bestchoicecounselling.com/shame-vs-guilt-psychology-what-science-reveals-about-your-emotions/)  
+   Link: <a href="https://bestchoicecounselling.com/shame-vs-guilt-psychology-what-science-reveals-about-your-emotions/" target="_blank" rel="noopener noreferrer nofollow">https://bestchoicecounselling.com/shame-vs-guilt-psychology-what-science-reveals-about-your-emotions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research shows that people feel intense discomfort and want to hide when experiencing shame...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
    Title: 258029062 Shame A self determination theory perspective  
-   Link: [https://www.researchgate.net/publication/258029062_Shame_A_self-determination_theory_perspective](https://www.researchgate.net/publication/258029062_Shame_A_self-determination_theory_perspective)  
+   Link: <a href="https://www.researchgate.net/publication/258029062_Shame_A_self-determination_theory_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258029062_Shame_A_self-determination_theory_perspective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Shame: A self-determination theory perspective8 Oct 2019 — This chapter aims to explore the utility of self-determination theory (S...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
    Title: 268449831 Shame and the Motivation to Change the Self  
-   Link: [https://www.researchgate.net/publication/268449831_Shame_and_the_Motivation_to_Change_the_Self](https://www.researchgate.net/publication/268449831_Shame_and_the_Motivation_to_Change_the_Self)  
+   Link: <a href="https://www.researchgate.net/publication/268449831_Shame_and_the_Motivation_to_Change_the_Self" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268449831_Shame_and_the_Motivation_to_Change_the_Self</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shame and the Motivation to Change the SelfOct 9, 2025 — Public shaming has long been thought to promote positive behavioral change. Howe...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/edited-volume/45638/chapter/396161642](https://academic.oup.com/edited-volume/45638/chapter/396161642)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| The Oxford Handbook of Self-Determination Theory23 Feb 2023 — 39 [Autonomy Support](&amp;#123;&amp;#123; &#x27;autonomy-support/&#x27; | relative_url &amp;#125;&amp;#125;) and Autonomous Motivation: Common Factors in Counseli...</p></details>
+   Link: <a href="https://academic.oup.com/edited-volume/45638/chapter/396161642" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/45638/chapter/396161642</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Oxford Handbook of Self-Determination Theory23 Feb 2023 — 39 [Autonomy Support](&amp;#123;&amp;#123; &#x27;autonomy-support/&#x27; | relative_url &amp;#125;&amp;#125;) and Autonomous Motivation: Common Factors in Counseli...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: pure-oai.bham.ac.uk  
    Title: bham.ac.uk Goal Striving, Coping, and Well-Being  
-   Link: [https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Well_Being.pdf](https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Well_Being.pdf)  
+   Link: <a href="https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Well_Being.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Well_Being.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Striving, Coping, and Well-Being - Pureby AL Smith · 2011 · Cited by 239 — Grounded in self-determination theory (SDT; Deci &amp; Ryan, 1985)...</p></details>

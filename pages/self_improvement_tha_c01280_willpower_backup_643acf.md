@@ -506,7 +506,7 @@ This does not mean discipline is fake or irrelevant. It means the common self-he
 
 Willpower is real in the ordinary sense: people can inhibit impulses, stay with difficult tasks, delay gratification and choose actions that serve longer-term goals. The mistake is treating this capacity as if it were a stable fuel supply that can power a whole self-improvement programme on demand. In daily life, self-control is asked to work under bad conditions: tiredness, stress, hunger, distraction, [social pressure]({{ 'social-pressure/' | relative_url }}), emotional discomfort and attractive alternatives.
 
-The scientific debate around “[ego depletion]({{ 'ego-depletion/' | relative_url }})” shows why simple claims about willpower should be treated carefully. The original strength model argued that acts of self-control draw on a limited resource, so one act of restraint can impair later restraint. A large 2010 meta-analysis supported that general pattern, but later replication problems and conceptual criticisms made the field more contested. Recent reviews disagree about how much of the original theory survives: Baumeister and colleagues argue that the theory has been refined rather than overturned, while critics such as Michael Inzlicht have argued that ego depletion became a major example of psychology’s replication problems. A sensible practical conclusion is not “willpower never runs out” or “willpower is always depleted”; it is that a self-improvement plan should not depend on a fragile, disputed, moment-by-moment reserve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39278166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The simple initial theory has been refined to emphasize...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5394171/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby JH Lurquin · 2017 · Cited by 203 — In this article, we outline what we call the conceptual crisis for the ego-depletion literature...</span></span></span>
+The scientific debate around “[ego depletion]({{ 'ego-depletion/' | relative_url }})” shows why simple claims about willpower should be treated carefully. The original strength model argued that acts of self-control draw on a limited resource, so one act of restraint can impair later restraint. A large 2010 meta-analysis supported that general pattern, but later replication problems and conceptual criticisms made the field more contested. Recent reviews disagree about how much of the original theory survives: Baumeister and colleagues argue that the theory has been refined rather than overturned, while critics such as Michael Inzlicht have argued that ego depletion became a major example of psychology’s replication problems. A sensible practical conclusion is not “willpower never runs out” or “willpower is always depleted”; it is that a self-improvement plan should not depend on a fragile, disputed, moment-by-moment reserve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39278166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The simple initial theory has been refined to emphasize...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5394171/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JH Lurquin · 2017 · Cited by 203 — In this article, we outline what we call the conceptual crisis for the ego-depletion literature...</span></span></span>
 
 The more durable finding is that self-control is not only last-second resistance. Duckworth, Gendler and Gross’s process model of self-control organises strategies by when they intervene: choosing situations, modifying situations, directing attention, changing interpretation, and only finally suppressing the response. The later the intervention, the more it resembles a willpower rescue. The earlier interventions are less glamorous but often more powerful because they prevent the impulse from becoming a full contest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39278166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The simple initial theory has been refined to emphasize...</span></span></span>
 
@@ -524,11 +524,16 @@ This is a quiet but important critique of self-improvement culture. Many people 
 
 The practical question becomes: where can the fight be moved earlier? For example:
 
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
 * Instead of relying on willpower not to scroll in bed, charge the phone outside the bedroom.
 * Instead of relying on willpower to cook after a draining day, prepare a default meal that requires little thought.
 * Instead of relying on willpower to exercise after work, put the clothes and shoes where the next step is obvious.
-* Instead of relying on willpower to avoid [impulse spending]({{ 'spending-friction/' | relative_url }}), remove saved card details or use automatic transfers.
+* Instead of relying on willpower to avoid impulse spending, remove saved card details or use automatic transfers.
 * Instead of relying on willpower to start a hard task, define the first two minutes before the moment arrives.
+
+</div>
 
 These changes do not remove responsibility. They relocate responsibility from the weakest moment to a calmer one.
 
@@ -539,7 +544,7 @@ These changes do not remove responsibility. They relocate responsibility from th
 
 A self-improvement plan becomes weaker every time it asks, “What should I do now?” Vague goals create repeated decisions, and repeated decisions create repeated escape routes. “I should exercise more” requires fresh negotiation each day: what kind, when, where, how long, how hard, before or after work, alone or with someone, today or tomorrow? By the time the decision is complete, the opportunity may have passed.
 
-Behaviour-change research has long treated action planning as one of the active ingredients of change. The Behaviour Change Technique Taxonomy defines action planning as detailed planning of the behaviour, including context, frequency, duration or intensity, and explicitly includes implementation intentions. In plain English, a good plan says what will happen, when and where it will happen, and what counts as done. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Behaviour-change research has long treated action planning as one of the active ingredients of change. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy defines action planning as detailed planning of the behaviour, including context, frequency, duration or intensity, and explicitly includes implementation intentions. In plain English, a good plan says what will happen, when and where it will happen, and what counts as done. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Implementation intentions are especially useful because they turn a goal into an if-then rule: “If it is 7.30 am on Monday, Wednesday or Friday, then I put on my running shoes”; “If I finish lunch, then I walk for ten minutes”; “If I open my laptop, then I write the first sentence before checking messages.” Reviews of implementation-intention research find that these plans can help translate intentions into action, particularly when a self-regulatory problem is likely to arise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSituational Strategies for Self-Control</span><span class="citation-popover-snippet">PMCSituational Strategies for Self-Control</span></span></span>
 
@@ -1006,153 +1011,153 @@ This is the practical heart of willpower as backup, not engine. Willpower matter
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5394171/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5394171/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby JH Lurquin · 2017 · Cited by 203 — In this article, we outline what we call the conceptual crisis for the ego-depletion literature...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5394171/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5394171/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JH Lurquin · 2017 · Cited by 203 — In this article, we outline what we call the conceptual crisis for the ego-depletion literature...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSituational Strategies for Self-Control  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339](https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339</a>  
 
 4. <a id="endnote-4"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
 
 7. <a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: [https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X24000952](https://www.sciencedirect.com/science/article/pii/S2352250X24000952)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X24000952</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0749597820303848](https://www.sciencedirect.com/science/article/pii/S0749597820303848)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749597820303848" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597820303848</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0092656618301752](https://www.sciencedirect.com/science/article/abs/pii/S0092656618301752)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0092656618301752" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0092656618301752</a>  
 
 14. <a id="endnote-14"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: [https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.12566](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.12566)  
+   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.12566" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.12566</a>  
 
 15. <a id="endnote-15"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39278166/](https://pubmed.ncbi.nlm.nih.gov/39278166/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39278166/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39278166/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The simple initial theory has been refined to emphasize...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Situational Strategies for Self-Control  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26817725/](https://pubmed.ncbi.nlm.nih.gov/26817725/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26817725/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26817725/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliations. 1 Department of Psychology, University of... Using the process model of self-control, we argue that the full range of...R...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22149456/](https://pubmed.ncbi.nlm.nih.gov/22149456/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22149456/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22149456/</a>  
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21513547/](https://pubmed.ncbi.nlm.nih.gov/21513547/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21513547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21513547/</a>  
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/20565167/](https://pubmed.ncbi.nlm.nih.gov/20565167/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20565167/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20565167/</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Ego depletion  
-   Link: [https://en.wikipedia.org/wiki/Ego_depletion](https://en.wikipedia.org/wiki/Ego_depletion)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ego_depletion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ego_depletion</a>  
 
 22. <a id="endnote-22"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full</a>  
 
 23. <a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02256/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02256/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02256/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02256/full</a>  
 
 24. <a id="endnote-24"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: speakandregret.michaelinzlicht.com  
    Title: Speak and Regret The Collapse of Ego Depletion  
-   Link: [https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion](https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion)  
+   Link: <a href="https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion" target="_blank" rel="noopener noreferrer nofollow">https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speak and RegretThe Collapse of Ego Depletion - by Michael Inzlicht29 Jan 2025 — What began as a compelling theory of self-control has co...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Willpower: Rediscovering the Greatest Human Strength  
-   Link: [https://www.youtube.com/watch?v=dOwrqibhRMQ](https://www.youtube.com/watch?v=dOwrqibhRMQ)  
+   Link: <a href="https://www.youtube.com/watch?v=dOwrqibhRMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dOwrqibhRMQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Willpower likely won&#x27;t save you from your bad habits. Science explains why...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon](https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon)  
+   Link: <a href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon</a>  
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
 
 30. <a id="endnote-30"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/98403389/Trait_self_control_and_the_avoidance_of_temptation](https://www.academia.edu/98403389/Trait_self_control_and_the_avoidance_of_temptation)  
+   Link: <a href="https://www.academia.edu/98403389/Trait_self_control_and_the_avoidance_of_temptation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/98403389/Trait_self_control_and_the_avoidance_of_temptation</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon](https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon)  
+   Link: <a href="https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies](https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies)  
+   Link: <a href="https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies</a>  
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399769490_The_Built_Environment_as_a_Choice_Architecture_Cognitive_Load_Resource_Depletion_and_Decision-Making_in_the_Workplace](https://www.researchgate.net/publication/399769490_The_Built_Environment_as_a_Choice_Architecture_Cognitive_Load_Resource_Depletion_and_Decision-Making_in_the_Workplace)  
+   Link: <a href="https://www.researchgate.net/publication/399769490_The_Built_Environment_as_a_Choice_Architecture_Cognitive_Load_Resource_Depletion_and_Decision-Making_in_the_Workplace" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399769490_The_Built_Environment_as_a_Choice_Architecture_Cognitive_Load_Resource_Depletion_and_Decision-Making_in_the_Workplace</a>  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/51859926_Everyday_temptations_An_experience_sampling_study_of_desire_conflict_and_self-control](https://www.researchgate.net/publication/51859926_Everyday_temptations_An_experience_sampling_study_of_desire_conflict_and_self-control)  
+   Link: <a href="https://www.researchgate.net/publication/51859926_Everyday_temptations_An_experience_sampling_study_of_desire_conflict_and_self-control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51859926_Everyday_temptations_An_experience_sampling_study_of_desire_conflict_and_self-control</a>  

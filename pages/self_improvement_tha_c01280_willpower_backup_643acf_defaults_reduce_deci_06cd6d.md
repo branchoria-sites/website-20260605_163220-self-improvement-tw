@@ -272,15 +272,15 @@ Many self-improvement plans fail because they ask for the same decision over and
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-1-dark.svg" | relative_url }}" alt="Better Defaults illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A more reliable approach is to create defaults: pre-made answers that take effect unless there is a good reason to change them. Defaults reduce the number of decisions that must be made under pressure. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) to win the same argument every day, you decide once and let the decision repeat automatically. Research on [choice architecture]({{ 'defaults/' | relative_url }}) and default effects shows that people strongly tend to follow pre-selected options, making defaults one of the most powerful tools for turning intentions into consistent behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com | The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">default optionsetting</span><span class="citation-popover-snippet">The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</span></span></span>
+A more reliable approach is to create [defaults]({{ 'defaults/' | relative_url }}): pre-made answers that take effect unless there is a good reason to change them. Defaults reduce the number of decisions that must be made under pressure. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) to win the same argument every day, you decide once and let the decision repeat automatically. Research on choice architecture and default effects shows that people strongly tend to follow pre-selected options, making defaults one of the most powerful tools for turning intentions into consistent behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">default optionsetting</span><span class="citation-popover-snippet">The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</span></span></span>
 
 ## Why Repeated Choices Drain Plans
 
-Within the broader idea that willpower should be a backup rather than the main engine of change, [defaults]({{ 'defaults/' | relative_url }}) solve a specific problem: repeated decision-making.
+Within the broader idea that willpower should be a backup rather than the main engine of change, defaults solve a specific problem: repeated decision-making.
 
 Every recurring choice creates an opportunity for delay, bargaining and exceptions. The question is rarely, “Should I abandon this goal forever?” More often it becomes, “Should I skip just today?” That conversation may happen dozens of times a week.
 
-Research on decision fatigue suggests that the quality of decisions can deteriorate after long periods of choosing and evaluating options. Planning, self-regulation and consistent follow-through become harder when mental resources are stretched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">PMCby S Mertens · 2021 · Cited by 1053 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</span></span></span>
+Research on decision fatigue suggests that the quality of decisions can deteriorate after long periods of choosing and evaluating options. Planning, self-regulation and consistent follow-through become harder when mental resources are stretched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">by S Mertens · 2021 · Cited by 1053 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</span></span></span>
 
 The practical consequence is that a habit requiring constant fresh decisions is fragile. A habit supported by defaults is more stable because fewer decisions occur in the first place.
 
@@ -361,7 +361,7 @@ A scheduled study block transforms the question from “Will I study today?” i
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-2-dark.svg" | relative_url }}" alt="Better Defaults illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Defaults Are So Powerful
 
-Defaults are a central concept in behavioural economics because people frequently accept the option that requires the least effort, uncertainty or active intervention. Large-scale research shows that default settings have substantial effects across many domains, from savings and healthcare choices to enrolment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">PMCby GA Pignatiello · 2018 · Cited by 335 — Theoretical evidence suggests the ego depletion experienced by those suffering from decision...</span></span></span>
+Defaults are a central concept in behavioural economics because people frequently accept the option that requires the least effort, uncertainty or active intervention. Large-scale research shows that default settings have substantial effects across many domains, from savings and healthcare choices to enrolment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">by GA Pignatiello · 2018 · Cited by 335 — Theoretical evidence suggests the ego depletion experienced by those suffering from decision...</span></span></span>
 
 Several mechanisms make defaults effective: <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/defaults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">DefaultsIn their book, Thaler and Sunstein explore several real-world cases of where defaults have been hugely effective. One commonly ci...</span></span></span>
 
@@ -371,7 +371,7 @@ Several mechanisms make defaults effective: <span class="citation-chip-wrap"><a 
 
 **They reduce cognitive load.** Fewer decisions leave more attention available for work that actually matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universityxp.com">[University XP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universityxp.com</span><span class="citation-popover-title">what is choice architecture</span><span class="citation-popover-snippet">University XPWhat is Choice Architecture?Jun 27, 2023 — Overall, the goal of choice architecture is to reduce the cognitive load of users...</span></span></span>
 
-**They exploit inertia in a useful direction.** Human beings often stick with existing arrangements. Defaults deliberately place good behaviours on the side of that tendency rather than fighting against it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com | The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">default optionsetting</span><span class="citation-popover-snippet">The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</span></span></span>
+**They exploit inertia in a useful direction.** Human beings often stick with existing arrangements. Defaults deliberately place good behaviours on the side of that tendency rather than fighting against it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">default optionsetting</span><span class="citation-popover-snippet">The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</span></span></span>
 
 The key insight is that inertia exists whether you design for it or not. A default simply gives inertia a destination.
 
@@ -417,16 +417,21 @@ During review, you deliberately evaluate whether the default still serves its pu
 
 For example:
 
-* A monthly review of [automatic savings]({{ 'money-defaults/' | relative_url }}) rates.
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A monthly review of automatic savings rates.
 * A quarterly review of exercise schedules.
 * A periodic reassessment of meal plans.
+
+</div>
 
 Without review, defaults can become outdated. With constant review, they stop being defaults at all.
 
 The balance is to review intentionally but infrequently. The decision should happen at scheduled checkpoints rather than during every moment of temptation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZJHS_PFCJug" title="Behavioural Economics - Choice Architecture &amp; Nudging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZJHS_PFCJug" target="_blank" rel="noopener noreferrer">Behavioural Economics - Choice Architecture &amp; Nudging</a></p><p class="youtube-embed-meta">Channel: tutor2u &middot; Views: 1.1K &middot; Uploaded: January 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZJHS_PFCJug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZJHS_PFCJug">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zQ3TFhKAhig" title="STOP Budgeting - The 3-Account Fix That Actually Works." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zQ3TFhKAhig" target="_blank" rel="noopener noreferrer">STOP Budgeting - The 3-Account Fix That Actually Works.</a></p><p class="youtube-embed-meta">Channel: Harry’s Stealth Wealth &middot; Views: 1.8K &middot; Uploaded: March 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zQ3TFhKAhig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zQ3TFhKAhig">Open on YouTube</a></p></div></div></div>
 
 ## Stop Deciding, Start Designing
 
@@ -858,140 +863,140 @@ In a system where willpower is only a backup, defaults do much of the everyday w
 1. <a id="endnote-1"></a>
    Source: behavioraleconomics.com  
    Title: default optionsetting  
-   Link: [https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/)  
+   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0](https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0)  
+   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe effectiveness of nudging: A meta-analysis of choice  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Mertens · 2021 · Cited by 1053 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 1053 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision Fatigue: A Conceptual Analysis  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby GA Pignatiello · 2018 · Cited by 335 — Theoretical evidence suggests the [ego depletion](&amp;#123;&amp;#123; &#x27;ego-depletion/&#x27; | relative_url &amp;#125;&amp;#125;) experienced by those suffering from decision...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by GA Pignatiello · 2018 · Cited by 335 — Theoretical evidence suggests the [ego depletion](&amp;#123;&amp;#123; &#x27;ego-depletion/&#x27; | relative_url &amp;#125;&amp;#125;) experienced by those suffering from decision...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: anderson.ucla.edu  
-   Link: [https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf](https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf)  
+   Link: <a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA Anderson School of ManagementUsing Behavioral Economics to Increase Employee Saving.by RH Thaler · 2003 · Cited by 4400 — In this pa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Behavioral Foundations of Default Effects  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10735255/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10735255/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10735255/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10735255/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Foundations of Default Effects - PMC - NIHby Z Brot-Goldberg · 2023 · Cited by 71 — We show in two natural experiments that de...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: universityxp.com  
    Title: what is choice architecture  
-   Link: [https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture](https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture)  
+   Link: <a href="https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University XPWhat is Choice Architecture?Jun 27, 2023 — Overall, the goal of choice architecture is to reduce the cognitive load of users...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Behavioral Economics: The Power of Default Choices  
-   Link: [https://www.youtube.com/watch?v=-zMWJw0dK7g](https://www.youtube.com/watch?v=-zMWJw0dK7g)  
+   Link: <a href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-zMWJw0dK7g</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Choice Architecture &amp; Nudging...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Behavioural Economics  
-   Link: [https://www.youtube.com/watch?v=ZJHS_PFCJug](https://www.youtube.com/watch?v=ZJHS_PFCJug)  
+   Link: <a href="https://www.youtube.com/watch?v=ZJHS_PFCJug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZJHS_PFCJug</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Architecture of Autonomy: Why True Freedom Requires Both System 1 and System 2 Nudges...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice](https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: realsimple.com  
-   Link: [https://www.realsimple.com/the-science-behind-decision-fatigue-11926544](https://www.realsimple.com/the-science-behind-decision-fatigue-11926544)  
+   Link: <a href="https://www.realsimple.com/the-science-behind-decision-fatigue-11926544" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/the-science-behind-decision-fatigue-11926544</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental health professionals describe how even simple choices, like what to wear or what to eat, can drain cognitive resources and impair...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/intervention/defaults-improve-savings](https://thedecisionlab.com/intervention/defaults-improve-savings)  
+   Link: <a href="https://thedecisionlab.com/intervention/defaults-improve-savings" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/defaults-improve-savings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabDefaults improve savingsBy defaulting to an automatic 401(k) enrollment, the differences between demographic groups, whic...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/choice-architecture](https://thedecisionlab.com/reference-guide/psychology/choice-architecture)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/defaults](https://thedecisionlab.com/reference-guide/psychology/defaults)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/defaults" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/defaults</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DefaultsIn their book, Thaler and Sunstein explore several real-world cases of where defaults have been hugely effective. One commonly ci...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Choice](https://en.wikipedia.org/wiki/Choice)  
+   Link: <a href="https://en.wikipedia.org/wiki/Choice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Choice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ChoiceA choice is the range of different things from which a being can choose. The arrival at a choice may incorporate motivators and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: insidebe.com  
    Title: Choice Architecture  
-   Link: [https://insidebe.com/articles/choice-architecture/](https://insidebe.com/articles/choice-architecture/)  
+   Link: <a href="https://insidebe.com/articles/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/choice-architecture/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in decision fatigue, sticking to the default option, or even avoiding making a...Read more...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: journals.uchicago.edu  
-   Link: [https://www.journals.uchicago.edu/doi/10.1086/380085](https://www.journals.uchicago.edu/doi/10.1086/380085)  
+   Link: <a href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/10.1086/380085</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40milijanakomad/cognitive-load-saturation-and-decision-fatigue-design-c5ef7c70e474](https://medium.com/%40milijanakomad/cognitive-load-saturation-and-decision-fatigue-design-c5ef7c70e474)  
+   Link: <a href="https://medium.com/%40milijanakomad/cognitive-load-saturation-and-decision-fatigue-design-c5ef7c70e474" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40milijanakomad/cognitive-load-saturation-and-decision-fatigue-design-c5ef7c70e474</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Saturation and Decision Fatigue DesignThis paper examines cognitive load saturation and decision fatigue as system-level d...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: financialplanningassociation.org  
-   Link: [https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN](https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN)  
+   Link: <a href="https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN" target="_blank" rel="noopener noreferrer nofollow">https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of Behavioral Nudges: Using Choice...by SJ Eckert · 2024 · Cited by 2 — In 2017, Thaler built on this proposal by calling f...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/24104390_Save_More_Tomorrow_TM_Using_Behavioral_Economics_to_Increase_Employee_Saving](https://www.researchgate.net/publication/24104390_Save_More_Tomorrow_TM_Using_Behavioral_Economics_to_Increase_Employee_Saving)  
+   Link: <a href="https://www.researchgate.net/publication/24104390_Save_More_Tomorrow_TM_Using_Behavioral_Economics_to_Increase_Employee_Saving" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24104390_Save_More_Tomorrow_TM_Using_Behavioral_Economics_to_Increase_Employee_Saving</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Behavioral Economics to Increase Employee SavingIn this paper, we propose such a prescriptive savings program, called Save More Tom...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/choice](https://www.merriam-webster.com/dictionary/choice)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/choice" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/choice</a>  
 
 22. <a id="endnote-22"></a>
    Source: yukaichou.com  
-   Link: [https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/](https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/)  
+   Link: <a href="https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thaler&#x27;s most famous applied work — the Save More Tomorrow plan with Shlomo Benartzi — is a commitment device wearing a nudge&#x27;s hat...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: zekefranco.medium.com  
    Title: choice architecture  
-   Link: [https://zekefranco.medium.com/choice-architecture-introduction-to-designing-for-decision-making-3c2fd32cbc32](https://zekefranco.medium.com/choice-architecture-introduction-to-designing-for-decision-making-3c2fd32cbc32)  
+   Link: <a href="https://zekefranco.medium.com/choice-architecture-introduction-to-designing-for-decision-making-3c2fd32cbc32" target="_blank" rel="noopener noreferrer nofollow">https://zekefranco.medium.com/choice-architecture-introduction-to-designing-for-decision-making-3c2fd32cbc32</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture: Introduction to Designing for Decision...Choice architecture is the holistic presentation and framing of information throu...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: research.ed.ac.uk  
    Title: RobertsonRose TJSP 2019 UnderstandingDefaultBehaviourWorkplacePensions  
-   Link: [https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf](https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf)  
+   Link: <a href="https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>default behaviour in workplace pensionsby L Robertson-Rose · 2021 · Cited by 21 — This article examines the retirement savings behaviour...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: super-productivity.com  
-   Link: [https://super-productivity.com/blog/decision-fatigue-for-developers/](https://super-productivity.com/blog/decision-fatigue-for-developers/)  
+   Link: <a href="https://super-productivity.com/blog/decision-fatigue-for-developers/" target="_blank" rel="noopener noreferrer nofollow">https://super-productivity.com/blog/decision-fatigue-for-developers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Fatigue for Developers: Why Afternoon Code...Feb 2, 2026 — Decision fatigue silently degrades your code quality...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: marketingsociety.com  
    Title: default settings most powerful tool behavioural scientist’s toolbox  
-   Link: [https://www.marketingsociety.com/the-gym/default-settings-most-powerful-tool-behavioural-scientist%E2%80%99s-toolbox](https://www.marketingsociety.com/the-gym/default-settings-most-powerful-tool-behavioural-scientist%E2%80%99s-toolbox)  
+   Link: <a href="https://www.marketingsociety.com/the-gym/default-settings-most-powerful-tool-behavioural-scientist%E2%80%99s-toolbox" target="_blank" rel="noopener noreferrer nofollow">https://www.marketingsociety.com/the-gym/default-settings-most-powerful-tool-behavioural-scientist%E2%80%99s-toolbox</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Default settings24 Apr 2019 — By defaults, we mean that when people are presented with default options already set, or are automatically...</p></details>

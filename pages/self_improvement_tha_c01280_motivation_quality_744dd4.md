@@ -506,7 +506,7 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-over
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-overview.webp" | relative_url }}" alt="Overview image for Motivation" loading="eager" decoding="sync" fetchpriority="high">
-This is why “motivation quality” belongs near the start of any self-improvement system that works. Specific plans, tracking and habits matter, but they are easier to sustain when the goal is experienced as personally meaningful rather than imposed. Research on self-concordant goals — goals aligned with a person’s interests and values — has found that people put more sustained effort into such goals and are more likely to attain them, with goal attainment then linked to greater need satisfaction and wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4307 — First, those pursuing self-conc...</span></span></span>
+This is why “motivation quality” belongs near the start of any self-improvement system that works. Specific plans, tracking and habits matter, but they are easier to sustain when the goal is experienced as personally meaningful rather than imposed. Research on self-concordant goals — goals aligned with a person’s interests and values — has found that people put more sustained effort into such goals and are more likely to attain them, with goal attainment then linked to greater need satisfaction and wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4307 — First, those pursuing self-conc...</span></span></span>
 
 ## The real difference is not motivation versus discipline
 
@@ -589,7 +589,7 @@ This distinction matters because many self-improvement environments mix help wit
 
 Relatedness-supportive self improvement has a different texture. It sounds like: “What matters to you about this?”, “What version would feel realistic this week?”, “What got in the way?”, “How can I support you without taking over?” This kind of support does not mean lowering standards. It means keeping the person connected to the goal rather than trapped under someone else’s demand.
 
-In health behaviour research, self-determination theory-informed interventions have found that increases in need support and autonomous motivation are associated with positive changes in health behaviour, while controlled motivation and amotivation do not show the same pattern. The effects are not magical or huge, but they are important because they point towards a repeatable principle: people are more likely to sustain change when their social context supports ownership, capability and connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4307 — First, those pursuing self-conc...</span></span></span>
+In health behaviour research, self-determination theory-informed interventions have found that increases in need support and autonomous motivation are associated with positive changes in health behaviour, while controlled motivation and amotivation do not show the same pattern. The effects are not magical or huge, but they are important because they point towards a repeatable principle: people are more likely to sustain change when their social context supports ownership, capability and connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4307 — First, those pursuing self-conc...</span></span></span>
 
 For everyday goals, relatedness can be built in simple ways:
 
@@ -1092,263 +1092,263 @@ The practical lesson is simple but demanding: do not only optimise the routine; 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate A Review of Controlling Motivational Strategies from a Self  
-   Link: [https://www.researchgate.net/profile/Nikos-Ntoumanis/publication/216352314_A_review_of_controlling_motivational_strategies_from_a_self-determination_theory_perspective_Implications_for_sports_coaches/links/0fcfd506c28abd8b9e000000/A-review-of-controlling-motivational-strategies-from-a-self-determination-theory-perspective-Implications-for-sports-coaches.pdf](https://www.researchgate.net/profile/Nikos-Ntoumanis/publication/216352314_A_review_of_controlling_motivational_strategies_from_a_self-determination_theory_perspective_Implications_for_sports_coaches/links/0fcfd506c28abd8b9e000000/A-review-of-controlling-motivational-strategies-from-a-self-determination-theory-perspective-Implications-for-sports-coaches.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Nikos-Ntoumanis/publication/216352314_A_review_of_controlling_motivational_strategies_from_a_self-determination_theory_perspective_Implications_for_sports_coaches/links/0fcfd506c28abd8b9e000000/A-review-of-controlling-motivational-strategies-from-a-self-determination-theory-perspective-Implications-for-sports-coaches.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Nikos-Ntoumanis/publication/216352314_A_review_of_controlling_motivational_strategies_from_a_self-determination_theory_perspective_Implications_for_sports_coaches/links/0fcfd506c28abd8b9e000000/A-review-of-controlling-motivational-strategies-from-a-self-determination-theory-perspective-Implications-for-sports-coaches.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral](https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral)  
+   Link: <a href="https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral</a>  
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Nikos-Ntoumanis/publication/338630390_A_Meta-Analysis_of_Self-Determination_Theory-Informed_Intervention_Studies_in_the_Health_Domain_Effects_on_Motivation_Health_Behavior_Physical_and_Psychological_Health/links/5e2155bd458515ba208df30a/A-Meta-Analysis-of-Self-Determination-Theory-Informed-Intervention-Studies-in-the-Health-Domain-Effects-on-Motivation-Health-Behavior-Physical-and-Psychological-Health.pdf](https://www.researchgate.net/profile/Nikos-Ntoumanis/publication/338630390_A_Meta-Analysis_of_Self-Determination_Theory-Informed_Intervention_Studies_in_the_Health_Domain_Effects_on_Motivation_Health_Behavior_Physical_and_Psychological_Health/links/5e2155bd458515ba208df30a/A-Meta-Analysis-of-Self-Determination-Theory-Informed-Intervention-Studies-in-the-Health-Domain-Effects-on-Motivation-Health-Behavior-Physical-and-Psychological-Health.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Nikos-Ntoumanis/publication/338630390_A_Meta-Analysis_of_Self-Determination_Theory-Informed_Intervention_Studies_in_the_Health_Domain_Effects_on_Motivation_Health_Behavior_Physical_and_Psychological_Health/links/5e2155bd458515ba208df30a/A-Meta-Analysis-of-Self-Determination-Theory-Informed-Intervention-Studies-in-the-Health-Domain-Effects-on-Motivation-Health-Behavior-Physical-and-Psychological-Health.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Nikos-Ntoumanis/publication/338630390_A_Meta-Analysis_of_Self-Determination_Theory-Informed_Intervention_Studies_in_the_Health_Domain_Effects_on_Motivation_Health_Behavior_Physical_and_Psychological_Health/links/5e2155bd458515ba208df30a/A-Meta-Analysis-of-Self-Determination-Theory-Informed-Intervention-Studies-in-the-Health-Domain-Effects-on-Motivation-Health-Behavior-Physical-and-Psychological-Health.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/317690916_Self-Determination_Theory](https://www.researchgate.net/publication/317690916_Self-Determination_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/317690916_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317690916_Self-Determination_Theory</a>  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/23173293_Autonomous_Motivation_Controlled_Motivation_and_Goal_Progress](https://www.researchgate.net/publication/23173293_Autonomous_Motivation_Controlled_Motivation_and_Goal_Progress)  
+   Link: <a href="https://www.researchgate.net/publication/23173293_Autonomous_Motivation_Controlled_Motivation_and_Goal_Progress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23173293_Autonomous_Motivation_Controlled_Motivation_and_Goal_Progress</a>  
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/351719320_Goal_Self-Concordance_Model_What_Have_We_Learned_and_Where_are_We_Going](https://www.researchgate.net/publication/351719320_Goal_Self-Concordance_Model_What_Have_We_Learned_and_Where_are_We_Going)  
+   Link: <a href="https://www.researchgate.net/publication/351719320_Goal_Self-Concordance_Model_What_Have_We_Learned_and_Where_are_We_Going" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351719320_Goal_Self-Concordance_Model_What_Have_We_Learned_and_Where_are_We_Going</a>  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 342380851 SELF DETERMINATION THEORY  
-   Link: [https://www.researchgate.net/publication/342380851_SELF-DETERMINATION_THEORY](https://www.researchgate.net/publication/342380851_SELF-DETERMINATION_THEORY)  
+   Link: <a href="https://www.researchgate.net/publication/342380851_SELF-DETERMINATION_THEORY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342380851_SELF-DETERMINATION_THEORY</a>  
 
 8. <a id="endnote-8"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 DeciRyan PIWhatWhy  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryThe “What” and “Why” of Goal Pursuits: Human Needs and...by EL Deci · Cited by 63947 — Self-determination theor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10101878/](https://pubmed.ncbi.nlm.nih.gov/10101878/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4307 — First, those pursuing self-conc...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4307 — First, those pursuing self-conc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: selfdeterminationtheory.org  
    Title: 1999 SheldonElliot  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf](https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — In contrast...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 RyanDeci IntExtDefs  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/08295735211055355](https://journals.sagepub.com/doi/10.1177/08295735211055355)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/08295735211055355</a>  
 
 13. <a id="endnote-13"></a>
    Source: hbs.edu  
-   Link: [https://www.hbs.edu/faculty/Pages/item.aspx?num=40692](https://www.hbs.edu/faculty/Pages/item.aspx?num=40692)  
+   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=40692" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=40692</a>  
 
 14. <a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/17509840903235330](https://www.tandfonline.com/doi/abs/10.1080/17509840903235330)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17509840903235330" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17509840903235330</a>  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31983293/](https://pubmed.ncbi.nlm.nih.gov/31983293/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31983293/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31983293/</a>  
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529](https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529</a>  
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/00224545.2022.2163610](https://www.tandfonline.com/doi/abs/10.1080/00224545.2022.2163610)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/00224545.2022.2163610" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00224545.2022.2163610</a>  
 
 18. <a id="endnote-18"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 RyanDeci SDT  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: selfdeterminationtheory.org  
    Title: 2020 SheeranWrightEtAl SDTInterventions  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2020/11/2020_SheeranWrightEtAl_SDTInterventions.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: selfdeterminationtheory.org  
    Title: 2022 RyanDeci SDT Encyclopedia  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: selfdeterminationtheory.org  
    Title: 2001 SheldonHouserMarko JHP 1  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: selfdeterminationtheory.org  
    Title: 2021 SlempLeeMossman Interventions  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2021_SlempLeeMossman_Interventions.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2021_SlempLeeMossman_Interventions.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2021_SlempLeeMossman_Interventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2021_SlempLeeMossman_Interventions.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: selfdeterminationtheory.org  
    Title: 2008 KoestnerOtisPowesPelletierGagnon JOP  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2008_KoestnerOtisPowesPelletierGagnon_JOP.pdf](https://selfdeterminationtheory.org/SDT/documents/2008_KoestnerOtisPowesPelletierGagnon_JOP.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2008_KoestnerOtisPowesPelletierGagnon_JOP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2008_KoestnerOtisPowesPelletierGagnon_JOP.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: selfdeterminationtheory.org  
    Title: autonomy supportive practices  
-   Link: [https://selfdeterminationtheory.org/research/autonomy-supportive-practices/](https://selfdeterminationtheory.org/research/autonomy-supportive-practices/)  
+   Link: <a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
 
 25. <a id="endnote-25"></a>
    Source: selfdeterminationtheory.org  
    Title: 2023 RyanDuineveldDiDomenicoEtAl Meta 1  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Motivation](https://en.wikipedia.org/wiki/Motivation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Motivation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Motivation</a>  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Self determination theory  
-   Link: [https://en.wikipedia.org/wiki/Self-determination_theory](https://en.wikipedia.org/wiki/Self-determination_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
 
 28. <a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30295176/](https://pubmed.ncbi.nlm.nih.gov/30295176/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30295176/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30295176/</a>  
 
 29. <a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32437175/](https://pubmed.ncbi.nlm.nih.gov/32437175/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32437175/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32437175/</a>  
 
 30. <a id="endnote-30"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/34881939/](https://pubmed.ncbi.nlm.nih.gov/34881939/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34881939/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34881939/</a>  
 
 31. <a id="endnote-31"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/11392867/](https://pubmed.ncbi.nlm.nih.gov/11392867/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
 
 32. <a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31444802/](https://pubmed.ncbi.nlm.nih.gov/31444802/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31444802/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31444802/</a>  
 
 33. <a id="endnote-33"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/self-determination-theory](https://www.sciencedirect.com/topics/social-sciences/self-determination-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
 
 34. <a id="endnote-34"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/](https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
 
 35. <a id="endnote-35"></a>
    Source: progressfocused.com  
    Title: the progress principle  
-   Link: [https://www.progressfocused.com/2016/02/the-progress-principle.html](https://www.progressfocused.com/2016/02/the-progress-principle.html)  
+   Link: <a href="https://www.progressfocused.com/2016/02/the-progress-principle.html" target="_blank" rel="noopener noreferrer nofollow">https://www.progressfocused.com/2016/02/the-progress-principle.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: rccs.org.uk  
    Title: Self Determination Theory Explained – RCCS  
-   Link: [https://www.rccs.org.uk/post/self-determination-theory](https://www.rccs.org.uk/post/self-determination-theory)  
+   Link: <a href="https://www.rccs.org.uk/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/self-determination-theory</a>  
 
 37. <a id="endnote-37"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/493021/Self_Determination_Theory_Meets_Solution_Focused_Change_Autonomy_Competence_and_Relatedness_Support_in_Action](https://www.academia.edu/493021/Self_Determination_Theory_Meets_Solution_Focused_Change_Autonomy_Competence_and_Relatedness_Support_in_Action)  
+   Link: <a href="https://www.academia.edu/493021/Self_Determination_Theory_Meets_Solution_Focused_Change_Autonomy_Competence_and_Relatedness_Support_in_Action" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/493021/Self_Determination_Theory_Meets_Solution_Focused_Change_Autonomy_Competence_and_Relatedness_Support_in_Action</a>  
 
 38. <a id="endnote-38"></a>
    Source: psychologyfanatic.com  
    Title: the progress principle  
-   Link: [https://psychologyfanatic.com/the-progress-principle/](https://psychologyfanatic.com/the-progress-principle/)  
+   Link: <a href="https://psychologyfanatic.com/the-progress-principle/" target="_blank" rel="noopener noreferrer nofollow">https://psychologyfanatic.com/the-progress-principle/</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_juPDoa3GBY](https://www.youtube.com/watch?v=_juPDoa3GBY)  
+   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Teresa Amabile  
-   Link: [https://www.youtube.com/watch?v=-v9c8Q4lfKs](https://www.youtube.com/watch?v=-v9c8Q4lfKs)  
+   Link: <a href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-v9c8Q4lfKs</a>  
 
 41. <a id="endnote-41"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: [https://positivepsychology.com/self-determination-theory/](https://positivepsychology.com/self-determination-theory/)  
+   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
 
 42. <a id="endnote-42"></a>
    Source: books.google.com  
    Title: The Progress Principle  
-   Link: [https://books.google.com/books/about/The_Progress_Principle.html?id=1j-y_Lv_1MAC](https://books.google.com/books/about/The_Progress_Principle.html?id=1j-y_Lv_1MAC)  
+   Link: <a href="https://books.google.com/books/about/The_Progress_Principle.html?id=1j-y_Lv_1MAC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Progress_Principle.html?id=1j-y_Lv_1MAC</a>  
 
 43. <a id="endnote-43"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
 
 44. <a id="endnote-44"></a>
    Source: urmc.rochester.edu  
    Title: self determination theory  
-   Link: [https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory](https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory)  
+   Link: <a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
 
 45. <a id="endnote-45"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: [https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/](https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/)  
+   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
 
 46. <a id="endnote-46"></a>
    Source: people-shift.com  
-   Link: [https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/](https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/)  
+   Link: <a href="https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/</a>  
 
 47. <a id="endnote-47"></a>
    Source: allactive.co.uk  
-   Link: [https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/](https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/)  
+   Link: <a href="https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/" target="_blank" rel="noopener noreferrer nofollow">https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/</a>  
 
 ### Additional References
 
 48. <a id="endnote-48"></a>
    Source: stial.ie  
    Title: Ryan and Deci 2020 self determination theory  
-   Link: [https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf](https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StialRyan and Deci 2020 self determination theory.pdfby RM Ryan · 2020 · Cited by 10296 — Self-determination theory (SDT) is a broad fram...</p></details>
+   Link: <a href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan and Deci 2020 self determination theory.pdfby RM Ryan · 2020 · Cited by 10296 — Self-determination theory (SDT) is a broad fram...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: Health Promotion | Self-Determination Theory: Intrinsic vs Extrinsic Motivation  
-   Link: [https://www.youtube.com/watch?v=LvMiiBkgCCs](https://www.youtube.com/watch?v=LvMiiBkgCCs)  
+   Link: <a href="https://www.youtube.com/watch?v=LvMiiBkgCCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LvMiiBkgCCs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind Why You&#x27;re Not Reaching Your Goals...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: Are You Driven by Purpose — or Running From Something?  
-   Link: [https://www.youtube.com/watch?v=Nt8jr9XRnF0](https://www.youtube.com/watch?v=Nt8jr9XRnF0)  
+   Link: <a href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nt8jr9XRnF0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Promotion | Self-Determination Theory: Intrinsic vs Extrinsic Motivation...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: carleton.ca  
-   Link: [https://carleton.ca/goallab/wp-content/uploads/Autonomous-v.-Controlled-Personal-Goals-Differentially-Predict-Goal-Progress-and-Well-Being-through-Emotion-Regulation-Styles..pdf](https://carleton.ca/goallab/wp-content/uploads/Autonomous-v.-Controlled-Personal-Goals-Differentially-Predict-Goal-Progress-and-Well-Being-through-Emotion-Regulation-Styles..pdf)  
+   Link: <a href="https://carleton.ca/goallab/wp-content/uploads/Autonomous-v.-Controlled-Personal-Goals-Differentially-Predict-Goal-Progress-and-Well-Being-through-Emotion-Regulation-Styles..pdf" target="_blank" rel="noopener noreferrer nofollow">https://carleton.ca/goallab/wp-content/uploads/Autonomous-v.-Controlled-Personal-Goals-Differentially-Predict-Goal-Progress-and-Well-Being-through-Emotion-Regulation-Styles..pdf</a>  
 
 52. <a id="endnote-52"></a>
    Source: techscience.com  
-   Link: [https://www.techscience.com/IJMHP/v23n2/42430/html](https://www.techscience.com/IJMHP/v23n2/42430/html)  
+   Link: <a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
 
 53. <a id="endnote-53"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection](https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection)  
+   Link: <a href="https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection</a>  
 
 54. <a id="endnote-54"></a>
    Source: hbr.org  
-   Link: [https://hbr.org/2011/05/the-power-of-small-wins](https://hbr.org/2011/05/the-power-of-small-wins)  
+   Link: <a href="https://hbr.org/2011/05/the-power-of-small-wins" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2011/05/the-power-of-small-wins</a>  
 
 55. <a id="endnote-55"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/self-determination-theory-behavior-change-motivation-n1hye](https://www.linkedin.com/pulse/self-determination-theory-behavior-change-motivation-n1hye)  
+   Link: <a href="https://www.linkedin.com/pulse/self-determination-theory-behavior-change-motivation-n1hye" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/self-determination-theory-behavior-change-motivation-n1hye</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/positivepsychologycourses/posts/the-self-concordance-model-of-goal-setting-differentiates-between-four-types-of-/2733865513497704/](https://www.facebook.com/positivepsychologycourses/posts/the-self-concordance-model-of-goal-setting-differentiates-between-four-types-of-/2733865513497704/)  
+   Link: <a href="https://www.facebook.com/positivepsychologycourses/posts/the-self-concordance-model-of-goal-setting-differentiates-between-four-types-of-/2733865513497704/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/positivepsychologycourses/posts/the-self-concordance-model-of-goal-setting-differentiates-between-four-types-of-/2733865513497704/</a>  
 
 57. <a id="endnote-57"></a>
    Source: rccs.org.uk  
-   Link: [https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination](https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination)  
+   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  

@@ -278,7 +278,7 @@ One of the most common mistakes in self-improvement is expecting a single friend
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_support_roles_340174-Illustration-1-dark.svg" | relative_url }}" alt="Support roles illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_support_roles_340174-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_support_roles_340174-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A more effective approach is to separate support into distinct roles. Behaviour change research already distinguishes practical support from emotional support rather than treating “support” as one thing. The evidence suggests that different forms of help solve different problems, and that supportive environments work best when they increase autonomy rather than dependence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbm.org">[Society of Behavioral Medicine (SBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbm.org</span><span class="citation-popover-snippet">Motivational interviewing&#x27; and... Social support (practical) Advise on, arrange, or provide practical help...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIby J Baker · 2022 — Social support (emotional) (behavior change technique 3.3). Advise on, arrange, or provide emotional social suppo...</span></span></span>
+A more effective approach is to separate support into distinct roles. [Behaviour change]({{ 'behaviour-change/' | relative_url }}) research already distinguishes practical support from emotional support rather than treating “support” as one thing. The evidence suggests that different forms of help solve different problems, and that supportive environments work best when they increase autonomy rather than dependence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbm.org">[Society of Behavioral Medicine (SBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbm.org</span><span class="citation-popover-snippet">Motivational interviewing&#x27; and... Social support (practical) Advise on, arrange, or provide practical help...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Social support (emotional) (behavior change technique 3.3). Advise on, arrange, or provide emotional social suppo...</span></span></span>
 
 The goal is not to build a large social network. It is to avoid making one relationship carry every burden. A small group of people, each helping in a specific way, is often more sustainable than a single all-purpose accountability partner.
 
@@ -294,7 +294,7 @@ The first two roles reduce friction around the behaviour itself.
 
 This matters because behaviour-change frameworks explicitly distinguish practical support from other forms of support. Practical help is treated as its own intervention component because removing barriers often changes behaviour more effectively than increasing pressure. UCL Discovery <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">• Social support (practical). Advise on, arrange, or provide practical help (e.g., from friends, relatives, colleagues. &#x27;buddies...Read...</span></span></span>
 
-**The co-doer** performs the activity alongside you. [Walking partners]({{ 'walking-partners/' | relative_url }}), study groups, writing sessions and training partners fall into this category. The benefit is not merely companionship. The activity becomes anchored to a shared time and place.
+**The co-doer** performs the activity alongside you. Walking partners, study groups, writing sessions and training partners fall into this category. The benefit is not merely companionship. The activity becomes anchored to a shared time and place.
 
 Public-health guidance repeatedly highlights buddy systems, walking groups and activity groups as useful social-support structures because they help people start and maintain behaviours through participation rather than surveillance. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecommunityguide.org">[The Community Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecommunityguide.org</span><span class="citation-popover-snippet">The Community GuidePhysical Activity: Social Support Interventions...These social support interventions focus on changing physical activ...</span></span></span>
 
@@ -311,7 +311,7 @@ Sometimes the barrier is discouragement, embarrassment or frustration after setb
 
 **The kind observer** notices effort without turning it into a performance review. They may ask how things are going, celebrate [small wins]({{ 'small-wins/' | relative_url }}) or listen without immediately trying to fix the problem. Their job is not to judge progress but to keep setbacks from becoming identity crises.
 
-Behaviour-change taxonomies identify emotional support as distinct from practical support, recognising that encouragement and emotional steadiness serve a different function from logistical assistance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBehaviour change technique labels and definitions</span><span class="citation-popover-snippet">NCBI3.3 Social support (emotional), Advise on, arrange or provide emotional–social support (e.g. from friends, relatives, colleagues, &#x27;bu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIby J Baker · 2022 — Social support (emotional) (behavior change technique 3.3). Advise on, arrange, or provide emotional social suppo...</span></span></span>
+Behaviour-change taxonomies identify emotional support as distinct from practical support, recognising that encouragement and emotional steadiness serve a different function from logistical assistance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBehaviour change technique labels and definitions</span><span class="citation-popover-snippet">3.3 Social support (emotional), Advise on, arrange or provide emotional–social support (e.g. from friends, relatives, colleagues, &#x27;bu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Social support (emotional) (behavior change technique 3.3). Advise on, arrange, or provide emotional social suppo...</span></span></span>
 
 **The emotional steadying point** is the person who helps you regain perspective when plans fail. Rather than asking, “Why did you quit?”, they ask, “What got in the way?” The conversation shifts from self-criticism to problem understanding.
 
@@ -341,7 +341,7 @@ For example:
 
 The troubleshooter asks what is failing in the process rather than whether the person is trying hard enough.
 
-This role aligns closely with behaviour-change approaches that emphasise problem-solving: identifying barriers and developing strategies to overcome them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBehaviour change technique labels and definitions</span><span class="citation-popover-snippet">NCBI3.3 Social support (emotional), Advise on, arrange or provide emotional–social support (e.g. from friends, relatives, colleagues, &#x27;bu...</span></span></span>
+This role aligns closely with behaviour-change approaches that emphasise problem-solving: identifying barriers and developing strategies to overcome them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBehaviour change technique labels and definitions</span><span class="citation-popover-snippet">3.3 Social support (emotional), Advise on, arrange or provide emotional–social support (e.g. from friends, relatives, colleagues, &#x27;bu...</span></span></span>
 
 Unlike the emotional supporter, the troubleshooter is focused on diagnosis. Unlike the logistics ally, they may never directly help with the task itself.
 
@@ -833,134 +833,134 @@ The most durable social support therefore looks less like having one indispensab
 
 1. <a id="endnote-1"></a>
    Source: sbm.org  
-   Link: [https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf](https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf)  
+   Link: <a href="https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sbm.org/UserFiles/file/Michie-etal2013BCTV193techniquesAddlFileTaxonomy.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Motivational interviewing&#x27; and... Social support (practical) Advise on, arrange, or provide practical help...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIResults of the behaviour change technique synthesis  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK580337/](https://www.ncbi.nlm.nih.gov/books/NBK580337/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIby J Baker · 2022 — Social support (emotional) (behavior change technique 3.3). Advise on, arrange, or provide emotional social suppo...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK580337/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Baker · 2022 — Social support (emotional) (behavior change technique 3.3). Advise on, arrange, or provide emotional social suppo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdc.gov  
    Title: [social supports](&#123;&#123; 'social-support/' | relative_url &#125;&#125;)  
-   Link: [https://www.cdc.gov/physical-activity/php/strategies/social-supports.html](https://www.cdc.gov/physical-activity/php/strategies/social-supports.html)  
+   Link: <a href="https://www.cdc.gov/physical-activity/php/strategies/social-supports.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity/php/strategies/social-supports.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Individuals, organizations, and communities can use social supports...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBehaviour change technique labels and definitions  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK567039/](https://www.ncbi.nlm.nih.gov/books/NBK567039/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBI3.3 Social support (emotional), Advise on, arrange or provide emotional–social support (e.g. from friends, relatives, colleagues, &#x27;bu...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK567039/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>3.3 Social support (emotional), Advise on, arrange or provide emotional–social support (e.g. from friends, relatives, colleagues, &#x27;bu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/active-people-healthy-nation/php/tools/sports-and-fitness.html](https://www.cdc.gov/active-people-healthy-nation/php/tools/sports-and-fitness.html)  
+   Link: <a href="https://www.cdc.gov/active-people-healthy-nation/php/tools/sports-and-fitness.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/active-people-healthy-nation/php/tools/sports-and-fitness.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sports and Fitness | Active People, Healthy NationJan 31, 2025 — Provide social support for physical activity, such as buddy systems and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: odphp.health.gov  
    Title: physical activity social support interventions community settings  
-   Link: [https://odphp.health.gov/healthypeople/tools-action/browse-evidence-based-resources/physical-activity-social-support-interventions-community-settings](https://odphp.health.gov/healthypeople/tools-action/browse-evidence-based-resources/physical-activity-social-support-interventions-community-settings)  
+   Link: <a href="https://odphp.health.gov/healthypeople/tools-action/browse-evidence-based-resources/physical-activity-social-support-interventions-community-settings" target="_blank" rel="noopener noreferrer nofollow">https://odphp.health.gov/healthypeople/tools-action/browse-evidence-based-resources/physical-activity-social-support-interventions-community-settings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Activity: Social Support Interventions in Community...These interventions focus on increasing physical activity by building, strengtheni...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529](https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1469 — To test whether S...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Social support (practical). Advise on, arrange, or provide practical help (e.g., from friends, relatives, colleagues. &#x27;buddies...Read...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thecommunityguide.org  
-   Link: [https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html](https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html)  
+   Link: <a href="https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Community GuidePhysical Activity: Social Support Interventions...These social support interventions focus on changing physical activ...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31983293/](https://pubmed.ncbi.nlm.nih.gov/31983293/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31983293/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31983293/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: swohdh.org  
-   Link: [https://swohdh.org/promisepractice/index/view?pid=4045](https://swohdh.org/promisepractice/index/view?pid=4045)  
+   Link: <a href="https://swohdh.org/promisepractice/index/view?pid=4045" target="_blank" rel="noopener noreferrer nofollow">https://swohdh.org/promisepractice/index/view?pid=4045</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Southwest Ohio DatahubCDC COMMUNITY GUIDE: Behavioral and Social...These social support interventions focus on changing physical activit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/155741/](https://eprints.whiterose.ac.uk/id/eprint/155741/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/155741/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/155741/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineA Meta-Analysis of Self-Determination Theory-Informed...by N Ntoumanis · 2021 · Cited by 1459 — A random-effec...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26168470/](https://pubmed.ncbi.nlm.nih.gov/26168470/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSelf-Determination Theory Applied to Health Contextsby JYY Ng · 2012 · Cited by 2944 — A meta-analysis evaluated relations between...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26168470/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168470/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Applied to Health Contextsby JYY Ng · 2012 · Cited by 2944 — A meta-analysis evaluated relations between...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8859 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy of 93 cons...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32437175/](https://pubmed.ncbi.nlm.nih.gov/32437175/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32437175/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32437175/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory interventions for health behavior...by P Sheeran · 2020 · Cited by 226 — The present review indicates t...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: all4healthfl.org  
-   Link: [https://www.all4healthfl.org/promisepractice/index/view?pid=4045](https://www.all4healthfl.org/promisepractice/index/view?pid=4045)  
+   Link: <a href="https://www.all4healthfl.org/promisepractice/index/view?pid=4045" target="_blank" rel="noopener noreferrer nofollow">https://www.all4healthfl.org/promisepractice/index/view?pid=4045</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC COMMUNITY GUIDE: Behavioral and Social...These social support interventions focus on changing physical activity behavior through bui...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: allin4health.org  
-   Link: [https://www.allin4health.org/promisepractice/index/view?pid=4045](https://www.allin4health.org/promisepractice/index/view?pid=4045)  
+   Link: <a href="https://www.allin4health.org/promisepractice/index/view?pid=4045" target="_blank" rel="noopener noreferrer nofollow">https://www.allin4health.org/promisepractice/index/view?pid=4045</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC COMMUNITY GUIDE: Behavioral and Social: Social...These social support interventions focus on changing physical activity behavior thr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tpchd.org  
-   Link: [https://tpchd.org/wp-content/uploads/2023/12/Create-or-join-a-walking-group.pdf](https://tpchd.org/wp-content/uploads/2023/12/Create-or-join-a-walking-group.pdf)  
+   Link: <a href="https://tpchd.org/wp-content/uploads/2023/12/Create-or-join-a-walking-group.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tpchd.org/wp-content/uploads/2023/12/Create-or-join-a-walking-group.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tacoma-Pierce County Health DepartmentEstablishing a Community-Based Walking Group Program...Typically, participants set up a buddy syst...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: activelivingresearch.org  
-   Link: [https://activelivingresearch.org/worksite-policies-and-supports-physical-activity](https://activelivingresearch.org/worksite-policies-and-supports-physical-activity)  
+   Link: <a href="https://activelivingresearch.org/worksite-policies-and-supports-physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://activelivingresearch.org/worksite-policies-and-supports-physical-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Worksite Policies and Supports for Physical ActivityIndividual behaviors that directly affect energy balance include diet and physical ac...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1438887123005393](https://www.sciencedirect.com/org/science/article/pii/S1438887123005393)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887123005393" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887123005393</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scope, Characteristics, Behavior Change Techniques, and...by X Lin · 2023 · Cited by 30 — The 4 short-term CAs commonly used 1 BCT, 3.3...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: polar.com  
    Title: study shows how self determination theory affects motivation and overall health  
-   Link: [https://www.polar.com/blog/study-shows-how-self-determination-theory-affects-motivation-and-overall-health/?srsltid=AfmBOoq-Vu1_yx65BabKlV-BjYAuv3Vtjgh5zAWwQ6qRBNCwIicnVZG4](https://www.polar.com/blog/study-shows-how-self-determination-theory-affects-motivation-and-overall-health/?srsltid=AfmBOoq-Vu1_yx65BabKlV-BjYAuv3Vtjgh5zAWwQ6qRBNCwIicnVZG4)  
+   Link: <a href="https://www.polar.com/blog/study-shows-how-self-determination-theory-affects-motivation-and-overall-health/?srsltid=AfmBOoq-Vu1_yx65BabKlV-BjYAuv3Vtjgh5zAWwQ6qRBNCwIicnVZG4" target="_blank" rel="noopener noreferrer nofollow">https://www.polar.com/blog/study-shows-how-self-determination-theory-affects-motivation-and-overall-health/?srsltid=AfmBOoq-Vu1_yx65BabKlV-BjYAuv3Vtjgh5zAWwQ6qRBNCwIicnVZG4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Shows How Self-determination theory Affects...Dec 2, 2022 — A random-effects meta-analytic model showed that SDT-based interventio...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thebehavioralscientist.com  
-   Link: [https://www.thebehavioralscientist.com/glossary/bct-taxonomy](https://www.thebehavioralscientist.com/glossary/bct-taxonomy)  
+   Link: <a href="https://www.thebehavioralscientist.com/glossary/bct-taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/glossary/bct-taxonomy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three variants: unspecified (3.1), practical (3.2), and emotional (3.3). Advise on, arrange, or provide social support for the target beh...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pure.ewha.ac.kr  
    Title: self determination theory applied to health contexts a meta analy  
-   Link: [https://pure.ewha.ac.kr/en/publications/self-determination-theory-applied-to-health-contexts-a-meta-analy/](https://pure.ewha.ac.kr/en/publications/self-determination-theory-applied-to-health-contexts-a-meta-analy/)  
+   Link: <a href="https://pure.ewha.ac.kr/en/publications/self-determination-theory-applied-to-health-contexts-a-meta-analy/" target="_blank" rel="noopener noreferrer nofollow">https://pure.ewha.ac.kr/en/publications/self-determination-theory-applied-to-health-contexts-a-meta-analy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ewha Womans UniversitySelf-Determination Theory Applied to Health Contextsby JYY Ng · 2012 · Cited by 2937 — A meta-analysis evaluated re...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sweetinstitute.com  
    Title: the self determination theory in behavior change and motivation  
-   Link: [https://sweetinstitute.com/the-self-determination-theory-in-behavior-change-and-motivation/](https://sweetinstitute.com/the-self-determination-theory-in-behavior-change-and-motivation/)  
+   Link: <a href="https://sweetinstitute.com/the-self-determination-theory-in-behavior-change-and-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://sweetinstitute.com/the-self-determination-theory-in-behavior-change-and-motivation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Determination Theory in Behavior Change and...Sep 17, 2024 — Self-Determination Theory provides a robust framework for understa...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: restoredcdc.org  
-   Link: [https://restoredcdc.org/www.cdc.gov/active-people-healthy-nation/media/pdfs/About-Active-People_factsheet_Jan2024_508.pdf](https://restoredcdc.org/www.cdc.gov/active-people-healthy-nation/media/pdfs/About-Active-People_factsheet_Jan2024_508.pdf)  
+   Link: <a href="https://restoredcdc.org/www.cdc.gov/active-people-healthy-nation/media/pdfs/About-Active-People_factsheet_Jan2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/active-people-healthy-nation/media/pdfs/About-Active-People_factsheet_Jan2024_508.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual Supports. Supports individuals to incorporate physical activity into...Read more...</p></details>

@@ -278,7 +278,7 @@ Within if-then planning, substitution is often the most practical response to re
 
 A craving is usually a signal to act. Telling yourself not to act often creates a struggle between intention and impulse. A substitution plan reduces that struggle by pre-deciding a different behaviour that can be launched automatically when the cue appears.
 
-Behaviour-change researchers describe substitution as replacing an unwanted behaviour with a desired one. The strategy is attractive because it does not ask people to leave the cue, need, or trigger completely unaddressed. Instead, it channels behaviour into a different response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">PMCby I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
+Behaviour-change researchers describe substitution as replacing an unwanted behaviour with a desired one. The strategy is attractive because it does not ask people to leave the cue, need, or trigger completely unaddressed. Instead, it channels behaviour into a different response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
 
 This distinction matters because habits are often triggered automatically. When someone habitually reaches for a snack, cigarette, phone, or online distraction, the brain has learned a cue-response pattern. Research on implementation intentions shows that plans specifying an alternative response in a critical situation can weaken the advantage normally enjoyed by the habitual behaviour. In experimental studies, replacement-focused if-then plans helped participants override established responses and execute the chosen alternative instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</span></span></span>
 
@@ -317,7 +317,7 @@ Health and habit-change guidance often emphasises replacing unhealthy behaviours
 
 People often choose substitutes that are too ambitious. Someone trying to reduce evening snacking may decide that every craving will be answered with a 45-minute workout. Technically this is a substitute, but it is unlikely to happen consistently.
 
-Implementation-intention research repeatedly finds that plans work best when the response is specific, practical, and executable at the moment the cue appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">PMCby I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
+Implementation-intention research repeatedly finds that plans work best when the response is specific, practical, and executable at the moment the cue appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
 
 Good substitutes are usually small:
 
@@ -376,7 +376,7 @@ The substitute should be better than the original behaviour, but only slightly b
 
 If loneliness drives social media use, replacing it with a glass of water may not help much. If exhaustion drives overeating, replacing food with more work may make the problem worse.
 
-Effective substitution begins with identifying what the craving is doing for you. Research on unhealthy snacking and habit disruption highlights the importance of identifying the relevant cue before creating the response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateCombining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</span></span></span>
+Effective substitution begins with identifying what the craving is doing for you. Research on unhealthy snacking and habit disruption highlights the importance of identifying the relevant cue before creating the response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Combining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-dark.svg" | relative_url }}" alt="Substitution illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -398,7 +398,7 @@ The purpose of substitution is not to eliminate cravings. Cravings are normal. T
 
 Implementation-intention research shows that people can use planned cue-response links to interrupt unwanted habits and [support]({{ 'support/' | relative_url }}) goal-directed behaviour. Substitution plans apply that principle to temptations specifically: when the urge arrives, the decision has already been made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">evidence that implementation intentions can overcome the effects</span><span class="citation-popover-snippet">Research ExplorerEvidence that implementation intentions can overcome the...by C Armitage · 2016 · Cited by 82 — CONCLUSION: The finding...</span></span></span>
 
-The most effective replacement is usually not the most impressive one. It is the one that can be performed immediately, repeatedly, and with little debate when temptation appears. Over time, those repeated substitutions can begin to compete with, and sometimes replace, the old habit itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBreaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</span></span></span>
+The most effective replacement is usually not the most impressive one. It is the one that can be performed immediately, repeatedly, and with little debate when temptation appears. Over time, those repeated substitutions can begin to compete with, and sometimes replace, the old habit itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Breaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MVUg6aR7e6A" title="How to Replace BAD HABITS with GOOD HABITS? Learn how to Develop your DISCIPLINE in 7 DAYS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer">How to Replace BAD HABITS with GOOD HABITS? Learn how to Develop your DISCIPLINE in 7 DAYS</a></p><p class="youtube-embed-meta">Channel: DopaMind — Rewire Your Brain &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MVUg6aR7e6A">Open on YouTube</a></p></div></div></div>
@@ -793,140 +793,140 @@ The most effective replacement is usually not the most impressive one. It is the
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356](https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBreaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: heart.org  
    Title: how to break bad habits and change behaviors  
-   Link: [https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors](https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors)  
+   Link: <a href="https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Break Bad Habits and Change Behaviors14 Dec 2023 — Research shows that replacing a bad behavior with a good one is more effective than...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInfluence of a Planning Intervention on Physical Activity  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour](https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateCombining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0195666325003629](https://www.sciencedirect.com/science/article/pii/S0195666325003629)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOnline Mental Contrasting with Implementation Intentions...by R González-González · 2025 — The aim was improving snacking b...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0195666325003629" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0195666325003629</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Mental Contrasting with Implementation Intentions...by R González-González · 2025 — The aim was improving snacking b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evidence around...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/324899309_Implementation_intentions_Can_they_be_used_to_prevent_and_treat_addiction](https://www.researchgate.net/publication/324899309_Implementation_intentions_Can_they_be_used_to_prevent_and_treat_addiction)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ould be employed to successfully link critical [environmental cues](&amp;#123;&amp;#123; &#x27;cues-195d40/&#x27; | relative_url &amp;#125;&amp;#125;) to...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/324899309_Implementation_intentions_Can_they_be_used_to_prevent_and_treat_addiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324899309_Implementation_intentions_Can_they_be_used_to_prevent_and_treat_addiction</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ould be employed to successfully link critical environmental cues to...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S000579672300147X](https://www.sciencedirect.com/science/article/pii/S000579672300147X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S000579672300147X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S000579672300147X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing binge eating through behavioral-focused versus...by J Tanis · 2023 · Cited by 7 — These results demonstrate that three sessions...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Coping Planning  
-   Link: [https://www.sciencedirect.com/topics/psychology/coping-planning](https://www.sciencedirect.com/topics/psychology/coping-planning)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/coping-planning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacles that could get in the way of...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001691816303626](https://www.sciencedirect.com/science/article/abs/pii/S0001691816303626)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691816303626" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691816303626</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental investigation of breaking learnt habits with...by AAC Verhoeven · 2018 · Cited by 18 — Implementation intentions improve...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0146167211399102](https://journals.sagepub.com/doi/10.1177/0146167211399102)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0146167211399102</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mayoclinic.org  
-   Link: [https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342)  
+   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicWeight loss: Gain control of emotional eatingInstead of snacking when you&#x27;re not hungry, distract yourself and substitute a he...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: research.manchester.ac.uk  
    Title: evidence that implementation intentions can overcome the effects  
-   Link: [https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/](https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/)  
+   Link: <a href="https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research ExplorerEvidence that implementation intentions can overcome the...by C Armitage · 2016 · Cited by 82 — CONCLUSION: The finding...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Implementation](https://en.wikipedia.org/wiki/Implementation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Behavior](https://en.wikipedia.org/wiki/Behavior)  
+   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: newsinhealth.nih.gov  
-   Link: [https://newsinhealth.nih.gov/2012/01/breaking-bad-habits](https://newsinhealth.nih.gov/2012/01/breaking-bad-habits)  
+   Link: <a href="https://newsinhealth.nih.gov/2012/01/breaking-bad-habits" target="_blank" rel="noopener noreferrer nofollow">https://newsinhealth.nih.gov/2012/01/breaking-bad-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NIH News in HealthBreaking Bad HabitsReplace unhealthy behaviors with healthy ones. Try exercise, a favorite hobby or spending time with...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ucsfhealth.org  
-   Link: [https://www.ucsfhealth.org/health-articles/behavior-modification-ideas-for-weight-management](https://www.ucsfhealth.org/health-articles/behavior-modification-ideas-for-weight-management)  
+   Link: <a href="https://www.ucsfhealth.org/health-articles/behavior-modification-ideas-for-weight-management" target="_blank" rel="noopener noreferrer nofollow">https://www.ucsfhealth.org/health-articles/behavior-modification-ideas-for-weight-management</a>  
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCkey principles for effective use of Behavior substitution  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10256308/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10256308/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby AM Patey · 2022 · Cited by 11 — In this paper, we discuss Behavior substitution, a strategy whereby an unwanted behavior is replace...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10256308/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10256308/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by AM Patey · 2022 · Cited by 11 — In this paper, we discuss Behavior substitution, a strategy whereby an unwanted behavior is replace...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Planning to break unwanted habits: Habit strength...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: helpguide.org  
    Title: how to break bad habits and change negative behaviors  
-   Link: [https://www.helpguide.org/mental-health/wellbeing/how-to-break-bad-habits-and-change-negative-behaviors](https://www.helpguide.org/mental-health/wellbeing/how-to-break-bad-habits-and-change-negative-behaviors)  
+   Link: <a href="https://www.helpguide.org/mental-health/wellbeing/how-to-break-bad-habits-and-change-negative-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.helpguide.org/mental-health/wellbeing/how-to-break-bad-habits-and-change-negative-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2026 — No matter how ingrained they feel, you can learn how to break bad habits and replace them with healthy, positive alternativ...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/implementation-intention-and-action-planning-interventions-2lyhth0b3a.pdf](https://scispace.com/pdf/implementation-intention-and-action-planning-interventions-2lyhth0b3a.pdf)  
+   Link: <a href="https://scispace.com/pdf/implementation-intention-and-action-planning-interventions-2lyhth0b3a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/implementation-intention-and-action-planning-interventions-2lyhth0b3a.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed at forging a link between a critical, unconditional situation with a goal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: habitdex.com  
    Title: Reward Substitution: How It Works, Pros & Cons  
-   Link: [https://habitdex.com/methods/reward-substitution](https://habitdex.com/methods/reward-substitution)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HabitDex16 May 2026 — Reward Substitution breaks addictive habits by replacing the psychological reward the behavior provides with a heal...</p></details>
+   Link: <a href="https://habitdex.com/methods/reward-substitution" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/reward-substitution</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 May 2026 — Reward Substitution breaks addictive habits by replacing the psychological reward the behavior provides with a heal...</p></details>
    Published: May 2026  
 
 24. <a id="endnote-24"></a>
    Source: sk.sagepub.com  
    Title: implementation intentions can they be used prevent  
-   Link: [https://sk.sagepub.com/hnbk/edvol/hdbk_addiction/chpt/implementation-intentions-can-they-be-used-prevent](https://sk.sagepub.com/hnbk/edvol/hdbk_addiction/chpt/implementation-intentions-can-they-be-used-prevent)  
+   Link: <a href="https://sk.sagepub.com/hnbk/edvol/hdbk_addiction/chpt/implementation-intentions-can-they-be-used-prevent" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/hnbk/edvol/hdbk_addiction/chpt/implementation-intentions-can-they-be-used-prevent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming an implementation intention involves an individual deciding when, where, and how they will perform a behavior...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X370591](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X370591)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X370591" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X370591</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to break unwanted habits: Habit strength moderates...24 Dec 2010 — Implementation intention formation promotes effective goal striving a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MVUg6aR7e6A](https://www.youtube.com/watch?v=MVUg6aR7e6A)  
+   Link: <a href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MVUg6aR7e6A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop letting your goals fizzle out! Why implementation intentions unlock success...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:53:59'
 parent_title: Do App Blockers Actually Help? | Better Change
 parent_permalink: /app-blockers/
 parent_nav_short_title: App Blockers
@@ -265,7 +266,6 @@ next_link:
   permalink: /soft-vs-locked/
   short_title: Soft vs Locked
   heading_title: When app limits need more than a nudge
-date: '2026-06-05 14:53:59 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_ap
 
 ## Introduction
 
-Nightly app blocks work best when they prevent the bedtime scroll before it begins, not when they try to stop it after thirty minutes of scrolling. For many people, the problem is not a conscious decision to sacrifice sleep. It is a sequence of small actions: checking one message, opening one social app, watching one video, then discovering that an hour has disappeared. Research on smartphone use, bedtime procrastination and digital self-control suggests that changing the [environment]({{ 'environment/' | relative_url }}) around this vulnerable time window is often more effective than relying on [willpower]({{ 'willpower/' | relative_url }}) alone. A scheduled evening block creates friction at the moment of temptation and protects the period between “I should start winding down” and “I need to be asleep”. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</span></span></span>
+Nightly app blocks work best when they prevent the bedtime scroll before it begins, not when they try to stop it after thirty minutes of scrolling. For many people, the problem is not a conscious decision to sacrifice sleep. It is a sequence of small actions: checking one message, opening one social app, watching one video, then discovering that an hour has disappeared. Research on smartphone use, bedtime procrastination and digital self-control suggests that changing the [environment]({{ 'environment/' | relative_url }}) around this vulnerable time window is often more effective than relying on [willpower]({{ 'willpower/' | relative_url }}) alone. A scheduled evening block creates friction at the moment of temptation and protects the period between “I should start winding down” and “I need to be asleep”. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-dark.svg" | relative_url }}" alt="Night Blocks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -305,7 +305,7 @@ Night-time self-control is often weaker than daytime self-control. Fatigue, stre
 
 This is where scheduled app blocks have a specific advantage. The decision is made earlier, when [motivation]({{ 'motivation/' | relative_url }}) is stronger. Instead of negotiating with yourself at 11:15 pm, the boundary already exists.
 
-Evidence from the self-nudge app *one sec* illustrates the value of interrupting automatic behaviour. In a large field study, users opened targeted apps substantially less often over six weeks, with actual openings reduced by 57%. The intervention worked by inserting a brief pause and reflection point before access rather than relying on users to stop themselves after entering the app. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — Second, over the course of 6 wk, user...</span></span></span>
+Evidence from the self-nudge app *one sec* illustrates the value of interrupting automatic behaviour. In a large field study, users opened targeted apps substantially less often over six weeks, with actual openings reduced by 57%. The intervention worked by inserting a brief pause and reflection point before access rather than relying on users to stop themselves after entering the app. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — Second, over the course of 6 wk, user...</span></span></span>
 
 The lesson for bedtime routines is straightforward: the first tap is often the most important moment to interrupt. Once someone is immersed in an infinite feed, the effort required to stop becomes much greater.
 
@@ -332,7 +332,7 @@ Examples include:
 
 </div>
 
-This approach aligns with findings from research on digital self-control tools. Users tend to stick with systems that [support]({{ 'support/' | relative_url }}) their actual goals rather than imposing blanket restrictions on every form of phone use. Personal relevance and flexibility matter because the same app can be useful in one context and distracting in another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivSelf-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control ToolsFebruary 1, 2019...</span><span class="citation-popover-meta">Published: February 1, 2019</span></span></span>
+This approach aligns with findings from research on digital self-control tools. Users tend to stick with systems that [support]({{ 'support/' | relative_url }}) their actual goals rather than imposing blanket restrictions on every form of phone use. Personal relevance and flexibility matter because the same app can be useful in one context and distracting in another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control ToolsFebruary 1, 2019...</span><span class="citation-popover-meta">Published: February 1, 2019</span></span></span>
 
 The objective is not to make the phone unusable. It is to remove the pathways most likely to lead into an hour of unplanned scrolling.
 
@@ -344,7 +344,7 @@ App blocks become much more effective when combined with physical distance.
 
 A blocked app remains psychologically present if the phone is still on the pillow beside you. Even unsuccessful attempts to open apps can keep attention focused on the device.
 
-Sleep researchers and clinicians frequently recommend reducing or eliminating phone use in bed. Studies examining restrictions on bedtime smartphone use have found improvements in sleep-related outcomes, including reduced pre-sleep arousal and better sleep quality. Other research suggests that limiting in-bed smartphone use can improve sleep quality by reducing the mental activation that keeps people awake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCan restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</span></span></span>
+Sleep researchers and clinicians frequently recommend reducing or eliminating phone use in bed. Studies examining restrictions on bedtime smartphone use have found improvements in sleep-related outcomes, including reduced pre-sleep arousal and better sleep quality. Other research suggests that limiting in-bed smartphone use can improve sleep quality by reducing the mental activation that keeps people awake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</span></span></span>
 
 Practical combinations include:
 
@@ -831,166 +831,166 @@ This combination works because it addresses the entire late-night sequence. The 
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2213114120](https://www.pnas.org/doi/10.1073/pnas.2213114120)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — Second, over the course of 6 wk, user...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2213114120</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — Second, over the course of 6 wk, user...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1902.00157](https://arxiv.org/abs/1902.00157)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSelf-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control ToolsFebruary 1, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.00157</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control ToolsFebruary 1, 2019...</p></details>
    Published: February 1, 2019  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204](https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCan restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958825002416](https://www.sciencedirect.com/science/article/pii/S2451958825002416)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958825002416" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825002416</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From nighttime and daytime smartphone use to negative...by D Babakhani · 2025 — A growing body of studies indicates that excessive smart...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/abs/10.1073/pnas.2213114120?af=R%2F](https://www.pnas.org/doi/abs/10.1073/pnas.2213114120?af=R%2F)  
+   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2213114120?af=R%2F" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2213114120?af=R%2F</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by 57% after si...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2216115120](https://www.pnas.org/doi/10.1073/pnas.2216115120)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2216115120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2216115120</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What can machine learning teach us about habit formation...by A Buyalskaya · 2023 · Cited by 65 — We introduce a machine learning method...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36795756/](https://pubmed.ncbi.nlm.nih.gov/36795756/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36795756/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sleepfoundation.org  
    Title: sleep hygiene  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene](https://www.sleepfoundation.org/sleep-hygiene)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationMastering Sleep Hygiene: Your Path to Quality Sleep7 Jul 2025 — Budget 30 Minutes For Winding Down: Take advantage of wha...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sleepfoundation.org  
    Title: how electronics affect sleep  
-   Link: [https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep](https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 10, 2025 — Numerous studies have established a link between using devices with screens before bed and increases in sleep latency, or...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 68 — This large study streng...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thetimes.co.uk  
    Title: The Times Staring at a phone before bed doesn't interfere with your sleep  
-   Link: [https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb](https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb)  
+   Link: <a href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7](https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7)  
+   Link: <a href="https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep experts now suggest that the impact of screens depends on individual differences and the type of activity performed. Watching famil...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sleepfoundation.org  
    Title: blue light  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/blue-light](https://www.sleepfoundation.org/bedroom-environment/blue-light)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What It Is and How It Affects Sleep11 Jul 2025 — Blue light is a portion of the visible light spectrum that can influence alertness, horm...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRelationship between Problematic Smartphone Use, Sleep...by S Correa-Iriarte · 2023 · Cited by 57 — The purpose of this in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40081281/](https://pubmed.ncbi.nlm.nih.gov/40081281/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40081281/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40081281/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>randomised pilot trial for bedtime procrastinationby VM Hill · Cited by 4 — This pilot study aimed to examine (1) the acceptability and f...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/37354745/](https://pubmed.ncbi.nlm.nih.gov/37354745/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37354745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37354745/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>randomized controlled trial of a behavioral intervention...by S Jeoung · 2023 · Cited by 29 — This study is a randomized controlled tria...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sleepfoundation.org  
    Title: technology in the bedroom  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom](https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 11, 2025 — Looking at your phone or tablet can create light exposure and trigger your mind to a waking state that may prevent you fro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep](https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Blue Light Affects Kids&#x27; Sleep23 Jul 2025 — Set a technology curfew: Establish a nightly schedule that involves ceasing the use of el...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens](https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens)  
+   Link: <a href="https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By delaying the release of melatonin, screen time lengthens the time it takes to fall asleep.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sleepfoundation.org  
    Title: watching tv before sleep most popular bedtime routine  
-   Link: [https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine](https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do We All Still Watch TV Before Bed?8 Jul 2022 — Watching television is by far the most popular bedtime ritual for US adults, cited a...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial](https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial)  
+   Link: <a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Restricting mobile phone use close to bedtime reduced sleep late...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thensf.org  
-   Link: [https://www.thensf.org/](https://www.thensf.org/)  
+   Link: <a href="https://www.thensf.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Sleep FoundationExercise regularly for better sleep. Aim for 30 minutes a day, 5 days a week. 3. Mealtimes. Eat your meals at co...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sleephealthfoundation.org.au  
-   Link: [https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep](https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep)  
+   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepTechnology use in the evenings may delay bedtime and interfere with sleep. Using a bright screen for 1.5 hours or mor...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/](https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/)  
+   Link: <a href="https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/</a>  
 
 26. <a id="endnote-26"></a>
    Source: nmhs.net  
-   Link: [https://www.nmhs.net/Blog/Avoid-Screentime-90-Minutes-Before-Bed](https://www.nmhs.net/Blog/Avoid-Screentime-90-Minutes-Before-Bed)  
+   Link: <a href="https://www.nmhs.net/Blog/Avoid-Screentime-90-Minutes-Before-Bed" target="_blank" rel="noopener noreferrer nofollow">https://www.nmhs.net/Blog/Avoid-Screentime-90-Minutes-Before-Bed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scrolling on your phone in bed before drifting off may be a very difficult habit...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: However, those under 30 years of age were  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3836340/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836340/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3836340/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3836340/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep and Technology Use of Americans - PMC - NIHby M Gradisar · 2013 · Cited by 783 — Nine of 10 Americans reported using a technologica...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: hcahoustonhealthcare.com  
    Title: screen time before bed how tech affects sleep habits  
-   Link: [https://www.hcahoustonhealthcare.com/healthy-living/blog/screen-time-before-bed-how-tech-affects-sleep-habits](https://www.hcahoustonhealthcare.com/healthy-living/blog/screen-time-before-bed-how-tech-affects-sleep-habits)  
+   Link: <a href="https://www.hcahoustonhealthcare.com/healthy-living/blog/screen-time-before-bed-how-tech-affects-sleep-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.hcahoustonhealthcare.com/healthy-living/blog/screen-time-before-bed-how-tech-affects-sleep-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Screen time before bed: How tech affects sleep habits2 Mar 2025 — Screen time before bed is common. But experts agree it can prevent you...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: sutterhealth.org  
    Title: screens and your sleep the impact of nighttime use  
-   Link: [https://www.sutterhealth.org/health/screens-and-your-sleep-the-impact-of-nighttime-use](https://www.sutterhealth.org/health/screens-and-your-sleep-the-impact-of-nighttime-use)  
+   Link: <a href="https://www.sutterhealth.org/health/screens-and-your-sleep-the-impact-of-nighttime-use" target="_blank" rel="noopener noreferrer nofollow">https://www.sutterhealth.org/health/screens-and-your-sleep-the-impact-of-nighttime-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Screens Affect Your SleepMar 2, 2026 — Studies show that two or more hours of screen time in the evening can seriously disrupt the me...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVq6L2qGtHt/](https://www.instagram.com/p/DVq6L2qGtHt/)  
+   Link: <a href="https://www.instagram.com/p/DVq6L2qGtHt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVq6L2qGtHt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you find yourself scrolling through your phone before...Power down screens: Avoid screens for at least 30-60 minutes before bed...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec](https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec)  
+   Link: <a href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by 57% after si...</p></details>

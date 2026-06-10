@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:37:21'
 parent_title: How Defaults Quietly Shape Your Day | Better Change
 parent_permalink: /defaults/
 parent_nav_short_title: Defaults
@@ -259,7 +260,6 @@ next_link:
   permalink: /booked-habits/
   short_title: Booked habits
   heading_title: Why bookings beat reminders for hard habits
-date: '2026-06-05 15:37:21 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1.webp
@@ -274,7 +274,7 @@ Phone distraction is often treated as a self-control problem: resist the urge, i
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-dark.svg" | relative_url }}" alt="App defaults illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is the logic behind scheduled focus modes, notification filtering, charging locations, app timers and blocked work-hour access. These settings shift decisions from the moment of temptation to a calmer moment of planning. Research consistently finds that notifications and smartphone interruptions impair attention and increase task-switching costs, while tools that suppress or batch interruptions can improve sustained focus for many users. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</span></span></span>
 
-Within [choice architecture]({{ 'defaults/' | relative_url }}), the goal is not to make distraction impossible. It is to make the preferred behaviour the default path and the distracting behaviour the exception.
+Within choice architecture, the goal is not to make distraction impossible. It is to make the preferred behaviour the default path and the distracting behaviour the exception.
 
 ## Why defaults need to act before temptation
 
@@ -363,7 +363,7 @@ The important behavioural effect is not only what happens at night. A phone char
 
 Instead of waking directly into messages, news feeds and social media, the user must physically choose to retrieve the device. That small delay restores a moment of intentionality before digital inputs begin.
 
-Among people interested in digital minimalism, charging phones outside the bedroom is frequently reported as one of the most effective environmental changes because it removes both bedtime scrolling and automatic morning checking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHave you tried leaving your phone outside the bedroom?...I’ve been considering the idea of keeping your phone outside the bedroom...</span></span></span>
+Among people interested in digital minimalism, charging phones outside the bedroom is frequently reported as one of the most effective environmental changes because it removes both bedtime scrolling and automatic morning checking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Have you tried leaving your phone outside the bedroom?...I’ve been considering the idea of keeping your phone outside the bedroom...</span></span></span>
 
 In choice architecture terms, the bedroom setup determines the default morning behaviour before conscious decision-making is fully awake.
 
@@ -823,100 +823,100 @@ This approach reflects a broader lesson from effective self-improvement: the mos
 
 1. <a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630](https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consistent with the research on attention residue.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563219302596?via%3Dihub=](https://www.sciencedirect.com/science/article/pii/S0747563219302596?via%3Dihub=)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBatching smartphone notifications can improve well-beingBy randomly interrupting people in an ongoing activity, smartphone n...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563219302596?via%3Dihub=" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563219302596?via%3Dihub=</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Batching smartphone notifications can improve well-beingBy randomly interrupting people in an ongoing activity, smartphone n...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: [support](&#123;&#123; 'support/' | relative_url &#125;&#125;). google.com  
-   Link: [https://support.google.com/android/answer/9346420?hl=en-GB](https://support.google.com/android/answer/9346420?hl=en-GB)  
+   Link: <a href="https://support.google.com/android/answer/9346420?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9346420?hl=en-GB</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap Digital Wellbeing and parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/](https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHave you tried leaving your phone outside the bedroom?...I’ve been considering the idea of keeping your phone outside the bedroom...</p></details>
+   Link: <a href="https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you tried leaving your phone outside the bedroom?...I’ve been considering the idea of keeping your phone outside the bedroom...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: digital wellbeing android ios facebook instagram  
-   Link: [https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram](https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram)  
+   Link: <a href="https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the lack of scientific evidence proving that reducing screen time directly benefits mental health, these platforms hope to addres...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563226000233](https://www.sciencedirect.com/science/article/pii/S0747563226000233)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563226000233" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563226000233</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How social media notifications disrupt cognitive processingby H Fournier · 2026 — Cell phone notifications harm attention: An exploration...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025](https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBeyond the Buzz: Investigating the Effects of a Notification...by CA Dekker · 2025 · Cited by 42 — Receiving noti...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 80 — Our findings indica...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/291618379_Silence_Your_Phones_Smartphone_Notifications_Increase_Inattention_and_Hyperactivity_Symptoms](https://www.researchgate.net/publication/291618379_Silence_Your_Phones_Smartphone_Notifications_Increase_Inattention_and_Hyperactivity_Symptoms)  
+   Link: <a href="https://www.researchgate.net/publication/291618379_Silence_Your_Phones_Smartphone_Notifications_Increase_Inattention_and_Hyperactivity_Symptoms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291618379_Silence_Your_Phones_Smartphone_Notifications_Increase_Inattention_and_Hyperactivity_Symptoms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Silence Your Phones”: Smartphone Notifications Increase...7 May 2016 — Using both correlational and experimental methods, we explored w...</p></details>
    Published: May 2016  
 
 11. <a id="endnote-11"></a>
    Source: drkristygoodwin.com  
-   Link: [https://drkristygoodwin.com/are-you-suffering-from-attention-residue/](https://drkristygoodwin.com/are-you-suffering-from-attention-residue/)  
+   Link: <a href="https://drkristygoodwin.com/are-you-suffering-from-attention-residue/" target="_blank" rel="noopener noreferrer nofollow">https://drkristygoodwin.com/are-you-suffering-from-attention-residue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are You Suffering from &#x27;Attention Residue&#x27;?Research suggests that batching, not banning notifications is the most effective strategy to d...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: johnryanbydesign.co.uk  
-   Link: [https://johnryanbydesign.co.uk/understanding-beds/how-to-stop-your-smartphone-or-iphone-from-disrupting-your-sleep/](https://johnryanbydesign.co.uk/understanding-beds/how-to-stop-your-smartphone-or-iphone-from-disrupting-your-sleep/)  
+   Link: <a href="https://johnryanbydesign.co.uk/understanding-beds/how-to-stop-your-smartphone-or-iphone-from-disrupting-your-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://johnryanbydesign.co.uk/understanding-beds/how-to-stop-your-smartphone-or-iphone-from-disrupting-your-sleep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop Your Smartphone or iPhone from Disrupting...Charging your phone outside the bedroom can prevent nocturnal distractions &amp; not...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tomsguide.com  
-   Link: [https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts](https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts)  
+   Link: <a href="https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly half of Americans check their phones within 10 minutes of waking, a habit that spikes and then crashes dopamine, increases stress...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theses.liacs.nl  
-   Link: [https://theses.liacs.nl/pdf/2019-2020-SalvodelliF.pdf](https://theses.liacs.nl/pdf/2019-2020-SalvodelliF.pdf)  
+   Link: <a href="https://theses.liacs.nl/pdf/2019-2020-SalvodelliF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.liacs.nl/pdf/2019-2020-SalvodelliF.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Notifications&#x27; Distractions During a Full-attention...by F Savoldelli — The following research question is central in the present resear...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: headspace.com  
-   Link: [https://www.headspace.com/articles/5-reasons-to-kick-your-phone-out-of-the-bedroom](https://www.headspace.com/articles/5-reasons-to-kick-your-phone-out-of-the-bedroom)  
+   Link: <a href="https://www.headspace.com/articles/5-reasons-to-kick-your-phone-out-of-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.headspace.com/articles/5-reasons-to-kick-your-phone-out-of-the-bedroom</a>  
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/drfatmazohraatrous_deepwork-focus-productivity-activity-7436343358010122240-aXcT](https://www.linkedin.com/posts/drfatmazohraatrous_deepwork-focus-productivity-activity-7436343358010122240-aXcT)  
+   Link: <a href="https://www.linkedin.com/posts/drfatmazohraatrous_deepwork-focus-productivity-activity-7436343358010122240-aXcT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/drfatmazohraatrous_deepwork-focus-productivity-activity-7436343358010122240-aXcT</a>  
 
 17. <a id="endnote-17"></a>
    Source: psypost.org  
    Title: new psychology research reveals the cognitive cost of smartphone notifications  
-   Link: [https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/](https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/)  
+   Link: <a href="https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New psychology research reveals the cognitive cost of...18 Mar 2026 — A recent study in Computers in Human Behavior provides evidence th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: apple ios12 screen time apps how much spent phone digital wellbeing  
-   Link: [https://www.theguardian.com/technology/2018/jun/04/apple-ios12-screen-time-apps-how-much-spent-phone-digital-wellbeing](https://www.theguardian.com/technology/2018/jun/04/apple-ios12-screen-time-apps-how-much-spent-phone-digital-wellbeing)  
+   Link: <a href="https://www.theguardian.com/technology/2018/jun/04/apple-ios12-screen-time-apps-how-much-spent-phone-digital-wellbeing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2018/jun/04/apple-ios12-screen-time-apps-how-much-spent-phone-digital-wellbeing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple&#x27;s new &#x27;digital wellbeing&#x27; tools aim to help reduce...4 Jun 2018 — A new app called Screen Time will offer iPhone and iPad users a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: elgazette.com  
    Title: It's essentially about how the brain works. Leroy's findings make  
-   Link: [https://www.elgazette.com/smartphones-and-focus-in-learning-friend-foe-or-false-ally/](https://www.elgazette.com/smartphones-and-focus-in-learning-friend-foe-or-false-ally/)  
+   Link: <a href="https://www.elgazette.com/smartphones-and-focus-in-learning-friend-foe-or-false-ally/" target="_blank" rel="noopener noreferrer nofollow">https://www.elgazette.com/smartphones-and-focus-in-learning-friend-foe-or-false-ally/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphones and focus in learning: Friend, foe, or false ally?4 Feb 2026 — Attention residue reminds us that distraction isn&#x27;t just about...</p></details>

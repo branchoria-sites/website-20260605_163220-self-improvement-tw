@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:52:55'
 parent_title: Build the Plan for Your Worst Day | Better Change
 parent_permalink: /low-energy/
 parent_nav_short_title: Low Energy
@@ -265,7 +266,6 @@ next_link:
   permalink: /low-energy-days-create-a-difficult/
   short_title: 'Low Energy Days Create A Difficult Question: Do You Need Genuine...'
   heading_title: Are you avoiding, or do you need rest?
-date: '2026-06-05 14:52:55 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-1.webp
@@ -435,7 +435,7 @@ Another limitation is that implementation intentions are not magic. Reviews gene
 The solution is to treat tired-day scripts as experiments. Notice where goals repeatedly break down, write a response for that specific moment, and revise the plan if it proves unrealistic.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GafhLu7myt8" title="Still Grading at 9 PM? The Science-Backed Strategy That Makes Teaching Sustainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GafhLu7myt8" target="_blank" rel="noopener noreferrer">Still Grading at 9 PM? The Science-Backed Strategy That Makes Teaching Sustainable</a></p><p class="youtube-embed-meta">Channel: Why Edify | STRONG Framework for Teachers &middot; Views: 10 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GafhLu7myt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GafhLu7myt8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CrwqYp7rs7Y" title="The SECRET Brain Hack You&#x27;re Missing When It Comes To Making New Habits Stick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer">The SECRET Brain Hack You&#x27;re Missing When It Comes To Making New Habits Stick</a></p><p class="youtube-embed-meta">Channel: Friederike Fabritius &middot; Views: 83 &middot; Uploaded: April 2026 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CrwqYp7rs7Y">Open on YouTube</a></p></div></div></div>
 
 ## The tired-day advantage
 
@@ -834,164 +834,164 @@ The most durable self-improvement systems are often built from these simple rule
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Fashioning an if-then plan strategically automates goal striving (Gollwitzer &amp;...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 136 — Overall, forming implementation intentions had a medium-to-large effect on rates...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitated by forming...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2071-1050/15/16/12457](https://www.mdpi.com/2071-1050/15/16/12457)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIMeta-Analysis of Implementation Intentions Interventions in...by S Peng · 2023 · Cited by 4 — This meta-analysis aims to determine t...</p></details>
+   Link: <a href="https://www.mdpi.com/2071-1050/15/16/12457" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/15/16/12457</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of Implementation Intentions Interventions in...by S Peng · 2023 · Cited by 4 — This meta-analysis aims to determine t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: There is,  
-   Link: [https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward](https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateImplementation Intention and Action Planning Interventions...Overall, evidence supports the effectiveness of planning interv...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intention and Action Planning Interventions...Overall, evidence supports the effectiveness of planning interv...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
    Title: However, the variability in finding  
-   Link: [https://www.mdpi.com/2076-328X/15/6/823](https://www.mdpi.com/2076-328X/15/6/823)  
+   Link: <a href="https://www.mdpi.com/2076-328X/15/6/823" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-328X/15/6/823</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Effects of Sleep Deprivation on Decision...by F Agyapong-Opoku · 2025 · Cited by 4 — Sleep deprivation commonly impairs th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation IntentionsGollwitzer&#x27;s work on implementation intentions is especially important because it demonstrates that specif...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/328583846_Effects_of_sleep_deprivation_on_executive_functioning_cognitive_abilities_metacognitive_confidence_and_decision_making](https://www.researchgate.net/publication/328583846_Effects_of_sleep_deprivation_on_executive_functioning_cognitive_abilities_metacognitive_confidence_and_decision_making)  
+   Link: <a href="https://www.researchgate.net/publication/328583846_Effects_of_sleep_deprivation_on_executive_functioning_cognitive_abilities_metacognitive_confidence_and_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328583846_Effects_of_sleep_deprivation_on_executive_functioning_cognitive_abilities_metacognitive_confidence_and_decision_making</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>leading to decline in decision performance.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Role of Sleep and the Effects of Sleep Loss on Cognitive...by A Hyndych · 2025 · Cited by 33 — Executive functions, su...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Sleep Duration and Executive Function in Adults  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10673787/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10673787/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10673787/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10673787/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSleep Duration and Executive Function in Adults - PMC - NIHby A Sen · 2023 · Cited by 118 — A single night of sleep depriva...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Sleep deprivation effects on basic cognitive processes  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8340886/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8340886/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8340886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8340886/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSleep deprivation effects on basic cognitive processes - PMCby A García · 2021 · Cited by 101 — Total sleep deprivation eff...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936](https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — Taken together, implementation intentions allow...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Promoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — The present review addresses the physiological correlates of planning effects on behavior. Althoug...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — The present review addresses the physiological correlates of planning effects on behavior. Althoug...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubPromoting new habits at work through implementation intentionsby N Trenz · 2024 · Cited by 12 — The results indicate that im...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralReinforcing implementation intentions with imagery increases...18 Mar 2025 — Reinforcing implementation intentions with me...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 67 — While habits can start for...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe [Limits](&amp;#123;&amp;#123; &#x27;limits/&#x27; | relative_url &amp;#125;&amp;#125;) of Simple Implementation Intentions: Evidence from...by M Carrera · 2018 · Cited by 52 — Recent large-scale ran...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Sleep](https://en.wikipedia.org/wiki/Sleep)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sleep" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SleepSleep is a state of reduced mental and physical activity in which consciousness is altered and certain sensory activity is inhibi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Implementation intention  
-   Link: [https://en.wikipedia.org/wiki/Implementation_intention](https://en.wikipedia.org/wiki/Implementation_intention)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation_intention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by psychologist Peter Gollwitzer, transforms vague intentions into spe...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: carolinecrotty.ie  
-   Link: [https://carolinecrotty.ie/if-then-plans-implementation-intentions/](https://carolinecrotty.ie/if-then-plans-implementation-intentions/)  
+   Link: <a href="https://carolinecrotty.ie/if-then-plans-implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://carolinecrotty.ie/if-then-plans-implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation IntentionsBy using “if-then” plans, you can simplify decisions, create structure and move from goals to action. Which smal...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: papersflow.ai  
-   Link: [https://papersflow.ai/research/topics/behavioral-health-and-interventions/implementation-intentions](https://papersflow.ai/research/topics/behavioral-health-and-interventions/implementation-intentions)  
+   Link: <a href="https://papersflow.ai/research/topics/behavioral-health-and-interventions/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://papersflow.ai/research/topics/behavioral-health-and-interventions/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Research Guide &amp; PapersImplementation intentions boost goal attainment in clinical settings, with Gollwitzer a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/17470218221147024](https://journals.sagepub.com/doi/10.1177/17470218221147024)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218221147024" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218221147024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo implementation intentions accelerate habit formation?Implementation intentions (strategic “if-then” plans) have been show...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mayoclinic.org  
-   Link: [https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379)  
+   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379</a>  
 
 25. <a id="endnote-25"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — So, we would argue that even if future studies would consist...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: my.clevelandclinic.org  
    Title: You need sleep to function properly. Lack of sleep has  
-   Link: [https://my.clevelandclinic.org/health/body/12148-sleep-basics](https://my.clevelandclinic.org/health/body/12148-sleep-basics)  
+   Link: <a href="https://my.clevelandclinic.org/health/body/12148-sleep-basics" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/body/12148-sleep-basics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.orgSleep: What It Is, Why It&#x27;s Important, Stages, REM &amp; NREM19 Jun 2023 — Sleep is a body process that allows your body t...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ninds.nih.gov  
    Title: brain basics understanding sleep  
-   Link: [https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)  
+   Link: <a href="https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Basics: Understanding Sleep25 Feb 2025 — Sleep is a complex and dynamic process that affects how you function in ways scientists are now...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ementation intention, which is a plan you make beforehand about when and...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: habitdex.com  
    Title: Implementation Intentions (If-Then Planning)  
-   Link: [https://habitdex.com/methods/implementation-intentions](https://habitdex.com/methods/implementation-intentions)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HabitDex10 May 2026 — Gollwitzer and Sheeran&#x27;s 2006 meta-analysis reviewed 94 studies with over 8,000 participants and found a medium-to...</p></details>
+   Link: <a href="https://habitdex.com/methods/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/implementation-intentions</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 May 2026 — Gollwitzer and Sheeran&#x27;s 2006 meta-analysis reviewed 94 studies with over 8,000 participants and found a medium-to...</p></details>
    Published: May 2026  
 
 30. <a id="endnote-30"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/implementation-intentions-gollwitzer-how-to/](https://goalsandprogress.com/implementation-intentions-gollwitzer-how-to/)  
+   Link: <a href="https://goalsandprogress.com/implementation-intentions-gollwitzer-how-to/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/implementation-intentions-gollwitzer-how-to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Gollwitzer&#x27;s d=0.65 (2026)4 days ago — Implementation intentions are if-then plans. Gollwitzer and Sheeran (20...</p></details>

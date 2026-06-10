@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_g
 
 ## Introduction
 
-Many goals fail for a reason that is both frustrating and surprisingly ordinary: the problem is not a lack of determination. People often respond to stalled progress by trying to become more motivated, when the real obstacle is that they lack the capability, opportunity, or [support]({{ 'support/' | relative_url }}) needed to perform the behaviour consistently. The COM-B model was developed precisely to diagnose this problem. It proposes that behaviour depends on three interacting conditions: Capability, Opportunity, and [Motivation]({{ 'motivation/' | relative_url }}). If any of these are missing, the desired behaviour becomes difficult to sustain regardless of how strong the original goal may be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+Many goals fail for a reason that is both frustrating and surprisingly ordinary: the problem is not a lack of determination. People often respond to stalled progress by trying to become more motivated, when the real obstacle is that they lack the capability, opportunity, or [support]({{ 'support/' | relative_url }}) needed to perform the behaviour consistently. The COM-B model was developed precisely to diagnose this problem. It proposes that behaviour depends on three interacting conditions: Capability, Opportunity, and [Motivation]({{ 'motivation/' | relative_url }}). If any of these are missing, the desired behaviour becomes difficult to sustain regardless of how strong the original goal may be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-dark.svg" | relative_url }}" alt="COM B Fixes illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Within a systems-design approach to self-improvement, COM-B shifts attention awa
 
 ## Is Motivation Really the Missing Piece?
 
-The COM-B framework, developed by Susan Michie, Maartje van Stralen and Robert West, argues that behaviour emerges from the interaction of capability, opportunity and motivation. These factors influence one another over time rather than operating independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+The COM-B framework, developed by Susan Michie, Maartje van Stralen and Robert West, argues that behaviour emerges from the interaction of capability, opportunity and motivation. These factors influence one another over time rather than operating independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 This matters because many people diagnose every failure as a motivation problem:
 
@@ -340,7 +340,7 @@ Many “discipline” problems improve when the behaviour is made easier, smalle
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-dark.svg" | relative_url }}" alt="COM B Fixes illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Opportunity Problems in Everyday Environments
 
-Opportunity refers to external conditions that make a behaviour possible. COM-B distinguishes between physical opportunity and social opportunity. Physical opportunity includes time, resources, locations and [environmental cues]({{ 'cues-195d40/' | relative_url }}). Social opportunity includes cultural expectations, social norms and interpersonal influence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behaviourchangewheel.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[behaviourchangewheel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-title">The Behaviour Change Wheel Book</span><span class="citation-popover-snippet">A Guide To Designing...Written by Susan Michie, Lou Atkins &amp; Robert West · Welcome to the Wheel · Psychological Capability · Physical Ca...</span></span></span>
+Opportunity refers to external conditions that make a behaviour possible. COM-B distinguishes between physical opportunity and social opportunity. Physical opportunity includes time, resources, locations and environmental cues. Social opportunity includes cultural expectations, social norms and interpersonal influence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behaviourchangewheel.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[behaviourchangewheel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-title">The Behaviour Change Wheel Book</span><span class="citation-popover-snippet">A Guide To Designing...Written by Susan Michie, Lou Atkins &amp; Robert West · Welcome to the Wheel · Psychological Capability · Physical Ca...</span></span></span>
 
 This category is especially important because people often underestimate how strongly environments shape behaviour.
 
@@ -361,7 +361,7 @@ Opportunity failures commonly appear as:
 
 </div>
 
-The Behaviour Change Wheel framework surrounding COM-B explicitly identifies environmental restructuring as a major intervention strategy because changing surroundings often changes behaviour more reliably than increasing effort alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Wheel framework surrounding COM-B explicitly identifies environmental restructuring as a major intervention strategy because changing surroundings often changes behaviour more reliably than increasing effort alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 For example:
 
@@ -435,7 +435,7 @@ Goal-centred thinking tends to focus on outcomes. COM-B focuses on the condition
 
 The model treats behaviour as part of a dynamic system in which capability, opportunity and motivation influence one another through feedback loops. Success can increase confidence and motivation; improved capability can make behaviours easier; supportive environments can strengthen both. Likewise, poor environments can erode motivation and capability over time. UCL Discovery <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.habitweekly.com/models-frameworks/the-com-b-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habitweekly.com">[2habitweekly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habitweekly.com</span><span class="citation-popover-snippet">The COM-B ModelThe COM-B model of behaviour change suggests that to engage in a behaviour (B), a person needs to have the capability (C)...</span></span></span>
 
-For practical self-improvement, the lesson is straightforward: when a goal keeps failing, resist the temptation to immediately raise motivation. First diagnose the system. The most effective intervention may not be another inspiring target or a stronger commitment. It may be learning a missing skill, removing friction, changing a routine, or redesigning the environment so that the desired behaviour becomes the easier choice. That is often where lasting change begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+For practical self-improvement, the lesson is straightforward: when a goal keeps failing, resist the temptation to immediately raise motivation. First diagnose the system. The most effective intervention may not be another inspiring target or a stronger commitment. It may be learning a missing skill, removing friction, changing a routine, or redesigning the environment so that the desired behaviour becomes the easier choice. That is often where lasting change begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -523,7 +523,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -533,111 +533,36 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco"><img src="{{ '/assets/images/marketplace-covers/ef54b23105145bc0a6ab.jpg' | relative_url }}" alt="Listing image for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Gift Decorative Sign Acrylic for Office Desk Table Shelf employee"><img src="https://i.ebayimg.com/images/g/ifUAAeSwqExqGigG/s-l225.jpg" alt="Listing image for Motivational Gift Decorative Sign Acrylic for Office Desk Table Shelf employee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michael Make It Happen Motivational Unframed Poster Basketball Home Deco</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">Motivational Gift Decorative Sign Acrylic for Office Desk Table Shelf employee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk motivation sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed"><img src="{{ '/assets/images/marketplace-covers/a41a3234d9a13fbd3a7a.jpg' | relative_url }}" alt="Listing image for Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Gym Poster - Inspirational Fitness Wall Art"><img src="{{ '/assets/images/marketplace-covers/bab42bbca8dc07ea2b13.jpg' | relative_url }}" alt="Listing image for Motivational Gym Poster - Inspirational Fitness Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Gym Poster - Inspirational Fitness Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3"><img src="{{ '/assets/images/marketplace-covers/34300078dfe02f7776ef.jpg' | relative_url }}" alt="Listing image for Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/c420d04fa46cf995b7dc.jpg' | relative_url }}" alt="Listing image for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -645,15 +570,15 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/f40c97414ab72f71986c.jpg' | relative_url }}" alt="Listing image for Rocky Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Everything Is Figureoutable Inspirational Motivational Wooden Wall Desk Sign 5x5"><img src="https://i.ebayimg.com/images/g/yrQAAOSweRlmgF8q/s-l225.jpg" alt="Listing image for Everything Is Figureoutable Inspirational Motivational Wooden Wall Desk Sign 5x5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rocky Motivational Quote Canvas Wall Art Picture Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">Everything Is Figureoutable Inspirational Motivational Wooden Wall Desk Sign 5x5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk motivation sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -661,15 +586,15 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor"><img src="{{ '/assets/images/marketplace-covers/3e3353db022f6bf74f7a.jpg' | relative_url }}" alt="Listing image for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Acrylic Desk Decor: Little Reminders Motivational Plaque Sign"><img src="https://i.ebayimg.com/images/g/l4cAAeSw~9BqE~rV/s-l225.jpg" alt="Listing image for Inspirational Acrylic Desk Decor: Little Reminders Motivational Plaque Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">Inspirational Acrylic Desk Decor: Little Reminders Motivational Plaque Sign</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk motivation sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -677,15 +602,15 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Acrylic Desk Sign Positive Quote Gift Office Decor"><img src="https://i.ebayimg.com/images/g/VR4AAeSwCB9p60Ws/s-l225.jpg" alt="Listing image for Motivational Acrylic Desk Sign Positive Quote Gift Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">Motivational Acrylic Desk Sign Positive Quote Gift Office Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk motivation sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -693,7 +618,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=com-b-fixes-is-motivation-really-the-missing-piece-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,17 +695,31 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -793,42 +732,73 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -843,120 +813,124 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: behaviourchangewheel.com  
-   Link: [https://www.behaviourchangewheel.com/about-wheel](https://www.behaviourchangewheel.com/about-wheel)  
+   Link: <a href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/about-wheel</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BCW: from behavioural diagnosis to intervention designIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27; and &#x27;behaviour&#x27;) m...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: habitweekly.com  
-   Link: [https://www.habitweekly.com/models-frameworks/the-com-b-model](https://www.habitweekly.com/models-frameworks/the-com-b-model)  
+   Link: <a href="https://www.habitweekly.com/models-frameworks/the-com-b-model" target="_blank" rel="noopener noreferrer nofollow">https://www.habitweekly.com/models-frameworks/the-com-b-model</a>  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12889-021-11019-w](https://link.springer.com/article/10.1186/s12889-021-11019-w)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-021-11019-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the physical activity model...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: behaviourchangewheel.com  
    Title: The Behaviour Change Wheel Book  
-   Link: [https://www.behaviourchangewheel.com/](https://www.behaviourchangewheel.com/)  
+   Link: <a href="https://www.behaviourchangewheel.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Designing...Written by Susan Michie, Lou Atkins &amp; Robert West · Welcome to the Wheel · Psychological Capability · Physical Ca...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10095640/](https://discovery.ucl.ac.uk/id/eprint/10095640/)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10095640/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10095640/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryA brief introduction to the COM-B Model of behaviour and the...by R West · 2020 · Cited by 635 — It identifies three factor...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change](https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: norfolk.gov.uk  
-   Link: [https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel](https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel)  
+   Link: <a href="https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Norfolk County CouncilCOM-B and the behaviour change wheelSo at the heart of the wheel are the sources of behaviour, which can be broken...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/topics/psychology/com-b-model](https://www.sciencedirect.com/topics/psychology/com-b-model)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/com-b-model" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/com-b-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>COM-B Model - an overview | ScienceDirect TopicsThe behavior change wheel is closely linked to the COM-B model, which stands for Capabili...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thecenterforimplementation.com  
    Title: The Capability, Opportunity, Motivation  
-   Link: [https://thecenterforimplementation.com/toolbox/com-b](https://thecenterforimplementation.com/toolbox/com-b)  
+   Link: <a href="https://thecenterforimplementation.com/toolbox/com-b" target="_blank" rel="noopener noreferrer nofollow">https://thecenterforimplementation.com/toolbox/com-b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior (COM-B)...26 Sept 2025 — The Capability, Opportunity, Motivation - Behavior (COM-B) theory is an individual-level theory of beh...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: modelthinkers.com  
-   Link: [https://modelthinkers.com/mental-model/com-b-behaviour-change-wheel](https://modelthinkers.com/mental-model/com-b-behaviour-change-wheel)  
+   Link: <a href="https://modelthinkers.com/mental-model/com-b-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/com-b-behaviour-change-wheel</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COM-B &amp; Behaviour Change WheelAt its heart is the COM-B behaviour model, which posits that Behaviour occurs as an interaction between Cap...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: netzerogo.org.uk  
-   Link: [https://netzerogo.org.uk/resources/the-behaviour-change-wheel/](https://netzerogo.org.uk/resources/the-behaviour-change-wheel/)  
+   Link: <a href="https://netzerogo.org.uk/resources/the-behaviour-change-wheel/" target="_blank" rel="noopener noreferrer nofollow">https://netzerogo.org.uk/resources/the-behaviour-change-wheel/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change WheelIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27;, and &#x27;behaviour&#x27;) model. This model recognises tha...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: netzerogo.org.uk  
-   Link: [https://netzerogo.org.uk/resources/the-com-b-model-of-behaviour/](https://netzerogo.org.uk/resources/the-com-b-model-of-behaviour/)  
+   Link: <a href="https://netzerogo.org.uk/resources/the-com-b-model-of-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://netzerogo.org.uk/resources/the-com-b-model-of-behaviour/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The COM-B Model of BehaviourThe COM-B model proposes that there are three components to any Behaviour (B): Capability (C), Opportunity (O...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: togetheragency.co.uk  
-   Link: [https://togetheragency.co.uk/news/the-com-b-model-of-behaviour-change-explained](https://togetheragency.co.uk/news/the-com-b-model-of-behaviour-change-explained)  
+   Link: <a href="https://togetheragency.co.uk/news/the-com-b-model-of-behaviour-change-explained" target="_blank" rel="noopener noreferrer nofollow">https://togetheragency.co.uk/news/the-com-b-model-of-behaviour-change-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The COM-B model of behaviour change explainedThe COM-B model of behaviour change suggests that capability (C), opportunity (O) and motiva...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unicef.org  
-   Link: [https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf](https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf)  
+   Link: <a href="https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This theory is known as the. COM-B model (capability, opportunity...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21513547/](https://pubmed.ncbi.nlm.nih.gov/21513547/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21513547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21513547/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>behaviour change wheel: a new method for...by S Michie · 2011 · Cited by 16845 — At the centre of a proposed new framework is a &#x27;behavio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: social-change.co.uk  
-   Link: [https://social-change.co.uk/files/02.09.19_COM-B_and_changing_behaviour_.pdf](https://social-change.co.uk/files/02.09.19_COM-B_and_changing_behaviour_.pdf)  
+   Link: <a href="https://social-change.co.uk/files/02.09.19_COM-B_and_changing_behaviour_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://social-change.co.uk/files/02.09.19_COM-B_and_changing_behaviour_.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>O) and Motivation (M). In order to · perform a...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thinkingaboutbehavior.substack.com  
    Title: the [limits](&#123;&#123; 'limits/' | relative_url &#125;&#125;) of com b and the behaviour  
-   Link: [https://thinkingaboutbehavior.substack.com/p/the-limits-of-com-b-and-the-behaviour](https://thinkingaboutbehavior.substack.com/p/the-limits-of-com-b-and-the-behaviour)  
+   Link: <a href="https://thinkingaboutbehavior.substack.com/p/the-limits-of-com-b-and-the-behaviour" target="_blank" rel="noopener noreferrer nofollow">https://thinkingaboutbehavior.substack.com/p/the-limits-of-com-b-and-the-behaviour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>limits of COM-B and the Behaviour Change WheelCritics argue that by focusing on broad categories like Capability, Opportunity, and Motiva...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4LjuiMymOCs](https://www.youtube.com/watch?v=4LjuiMymOCs)  
+   Link: <a href="https://www.youtube.com/watch?v=4LjuiMymOCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LjuiMymOCs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CHANGE Your Behaviour Using THIS! | Patrick Elliott | #80...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Dr. Susan Michie, The Behaviour Change Wheel  
-   Link: [https://www.youtube.com/watch?v=2-KvaIsb0fM](https://www.youtube.com/watch?v=2-KvaIsb0fM)  
+   Link: <a href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2-KvaIsb0fM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Want LASTING Change? Discover Robert Dilts Logical Levels of Change &amp; COM-B Model of Behavior Change...</p></details>

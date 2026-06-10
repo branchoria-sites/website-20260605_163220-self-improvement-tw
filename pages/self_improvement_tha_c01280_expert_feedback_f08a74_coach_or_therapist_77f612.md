@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:02:57'
 parent_title: When Should You Get Outside Help? | Better Change
 parent_permalink: /expert-help/
 parent_nav_short_title: Expert Help
@@ -265,7 +266,6 @@ next_link:
   permalink: /repeat-failure/
   short_title: Repeat failure
   heading_title: When Repeating the Same Goal Means Get Help
-date: '2026-06-05 15:02:57 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_or_therapist_77f612-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_or_therapist_77f612-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_o
 
 ## Introduction
 
-When people seek outside help for self-improvement, the most important question is not whether they need [support]({{ 'support/' | relative_url }}) but what kind of support fits the problem. Coaching and therapy can both involve conversations, reflection and behaviour change, yet they serve different functions. In general, coaching is most useful when a person is psychologically stable and wants help with goals, performance, habits, accountability or transitions. Therapy is the safer choice when emotional distress, mental health symptoms, trauma, or significant impairment in daily functioning are part of the picture. Professional coaching bodies and mental health organisations consistently emphasise that coaching is not a substitute for diagnosis or treatment of mental health conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[ICF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-snippet">ICFReferring a Client to TherapyThe goal is to help coaches recognize and know how to manage a client who shows up with a mental health i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virahumantraining.com">[Vira Human Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virahumantraining.com</span><span class="citation-popover-snippet">Vira Human TrainingICF Code of Ethics explained | Professional Coaching...When a client&#x27;s needs move beyond the scope of Coaching, ethic...</span></span></span>
+When people seek outside help for self-improvement, the most important question is not whether they need [support]({{ 'support/' | relative_url }}) but what kind of support fits the problem. Coaching and therapy can both involve conversations, reflection and [behaviour change]({{ 'behaviour-change/' | relative_url }}), yet they serve different functions. In general, coaching is most useful when a person is psychologically stable and wants help with goals, performance, habits, accountability or transitions. Therapy is the safer choice when emotional distress, mental health symptoms, trauma, or significant impairment in daily functioning are part of the picture. Professional coaching bodies and mental health organisations consistently emphasise that coaching is not a substitute for diagnosis or treatment of mental health conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[ICF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-snippet">ICFReferring a Client to TherapyThe goal is to help coaches recognize and know how to manage a client who shows up with a mental health i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virahumantraining.com">[Vira Human Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virahumantraining.com</span><span class="citation-popover-snippet">Vira Human TrainingICF Code of Ethics explained &#124; Professional Coaching...When a client&#x27;s needs move beyond the scope of Coaching, ethic...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_or_therapist_77f612-Illustration-1-dark.svg" | relative_url }}" alt="Coach or therapist illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_or_therapist_77f612-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_or_therapist_77f612-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ The distinction matters because choosing the wrong form of support can delay eff
 
 A practical way to decide between coaching and therapy is to ask whether the obstacle is primarily a goal problem or a symptom problem.
 
-A goal problem exists when a person largely knows what they want but struggles with execution. Examples include building a business, improving leadership, developing a fitness routine, changing study habits, managing a career transition or improving professional performance. In these situations, the person is generally functioning in daily life but wants structured accountability, [feedback]({{ 'feedback/' | relative_url }}) and a clearer path to a desired outcome. Coaching is designed for exactly these situations. Its focus is typically future-oriented and action-oriented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virahumantraining.com">[Vira Human Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virahumantraining.com</span><span class="citation-popover-snippet">Vira Human TrainingICF Code of Ethics explained | Professional Coaching...When a client&#x27;s needs move beyond the scope of Coaching, ethic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://selectpsychology.co.uk/blog/relationships/what-is-the-difference-between-coaching-and-counselling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selectpsychology.co.uk">[Select Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selectpsychology.co.uk</span><span class="citation-popover-title">what is the difference between coaching and counselling</span><span class="citation-popover-snippet">Select PsychologyDifference between coaching and counselling22 Aug 2022 — Coaches help you to identify goals, leverage personal strengths...</span></span></span>
+A goal problem exists when a person largely knows what they want but struggles with execution. Examples include building a business, improving leadership, developing a fitness routine, changing study habits, managing a career transition or improving professional performance. In these situations, the person is generally functioning in daily life but wants structured accountability, [feedback]({{ 'feedback/' | relative_url }}) and a clearer path to a desired outcome. Coaching is designed for exactly these situations. Its focus is typically future-oriented and action-oriented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virahumantraining.com">[Vira Human Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virahumantraining.com</span><span class="citation-popover-snippet">Vira Human TrainingICF Code of Ethics explained &#124; Professional Coaching...When a client&#x27;s needs move beyond the scope of Coaching, ethic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://selectpsychology.co.uk/blog/relationships/what-is-the-difference-between-coaching-and-counselling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selectpsychology.co.uk">[Select Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selectpsychology.co.uk</span><span class="citation-popover-title">what is the difference between coaching and counselling</span><span class="citation-popover-snippet">Select PsychologyDifference between coaching and counselling22 Aug 2022 — Coaches help you to identify goals, leverage personal strengths...</span></span></span>
 
 A symptom problem exists when psychological distress itself is becoming the barrier. The person may want to pursue goals but repeatedly finds themselves blocked by anxiety, depression, trauma reactions, panic, compulsive behaviours, persistent low mood or other mental health difficulties. In these cases, the challenge is not simply planning or [motivation]({{ 'motivation/' | relative_url }}). The challenge is that symptoms are interfering with functioning, decision-making or wellbeing. Therapy is specifically designed to address these issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/tests-and-treatments/talking-therapies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">Talking therapiesFor some mental health problems, such as anxiety and depression, you can refer yourself to NHS talking therapies without...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">Open source on nhs.uk.</span></span></span>
 
@@ -329,7 +329,7 @@ For example, someone who spends excessive time worrying about perceived flaws in
 
 ### Safety Risks
 
-Any concerns involving self-harm, suicidal thinking, severe emotional instability, eating-disorder behaviours, substance misuse that is causing harm, or other significant risks should be treated as mental health matters rather than coaching challenges. Coaching organisations themselves generally instruct coaches to refer clients when issues exceed the scope of coaching practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[ICF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-snippet">ICFReferring a Client to TherapyThe goal is to help coaches recognize and know how to manage a client who shows up with a mental health i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virahumantraining.com">[Vira Human Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virahumantraining.com</span><span class="citation-popover-snippet">Vira Human TrainingICF Code of Ethics explained | Professional Coaching...When a client&#x27;s needs move beyond the scope of Coaching, ethic...</span></span></span>
+Any concerns involving self-harm, suicidal thinking, severe emotional instability, eating-disorder behaviours, substance misuse that is causing harm, or other significant risks should be treated as mental health matters rather than coaching challenges. Coaching organisations themselves generally instruct coaches to refer clients when issues exceed the scope of coaching practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[ICF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-snippet">ICFReferring a Client to TherapyThe goal is to help coaches recognize and know how to manage a client who shows up with a mental health i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virahumantraining.com">[Vira Human Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virahumantraining.com</span><span class="citation-popover-snippet">Vira Human TrainingICF Code of Ethics explained &#124; Professional Coaching...When a client&#x27;s needs move beyond the scope of Coaching, ethic...</span></span></span>
 
 ## Why Scope Matters
 
@@ -365,7 +365,7 @@ For self-improvement purposes, a simple rule works surprisingly well:
 * If the main challenge is **emotional distress, psychological symptoms or impaired functioning**, therapy is usually the safer option.
 * If both are present, a combination of therapy and coaching may provide the strongest support, provided each professional stays within their area of competence. Vira Human Training <span class="citation-chip-wrap"><a class="citation-chip" href="https://talk-works.org.uk/2024/06/05/coaching-vs-therapy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talk-works.org.uk">[Talk Works]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talk-works.org.uk</span><span class="citation-popover-title">Talk Works Coaching vs Therapy</span><span class="citation-popover-snippet">Coaching vs Therapy - Talk Works5 Jun 2024 — The main difference is therapy aims to resolve or reduce emotional and psychological distres...</span></span></span>
 
-The key is not to ask whether a person is “strong enough” for coaching or “unwell enough” for therapy. The more useful question is whether the obstacle is primarily one of execution or one of symptoms. That distinction often determines which form of [expert feedback]({{ 'expert-help/' | relative_url }}) is most likely to help—and which is safest.
+The key is not to ask whether a person is “strong enough” for coaching or “unwell enough” for therapy. The more useful question is whether the obstacle is primarily one of execution or one of symptoms. That distinction often determines which form of expert feedback is most likely to help—and which is safest.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_or_therapist_77f612-Illustration-3-dark.svg" | relative_url }}" alt="Coach or therapist illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_or_therapist_77f612-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_coach_or_therapist_77f612-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -791,207 +791,207 @@ The key is not to ask whether a person is “strong enough” for coaching or �
 
 1. <a id="endnote-1"></a>
    Source: coachingfederation.org  
-   Link: [https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf](https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf)  
+   Link: <a href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICFReferring a Client to TherapyThe goal is to help coaches recognize and know how to manage a client who shows up with a mental health i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/tests-and-treatments/talking-therapies/](https://www.nhs.uk/tests-and-treatments/talking-therapies/)  
+   Link: <a href="https://www.nhs.uk/tests-and-treatments/talking-therapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/talking-therapies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Talking therapiesFor some mental health problems, such as anxiety and depression, you can refer yourself to NHS talking therapies without...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/)  
+   Link: <a href="https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/</a>  
 
 4. <a id="endnote-4"></a>
    Source: berkshirehealthcare.nhs.uk  
-   Link: [https://www.berkshirehealthcare.nhs.uk/talking-therapies](https://www.berkshirehealthcare.nhs.uk/talking-therapies)  
+   Link: <a href="https://www.berkshirehealthcare.nhs.uk/talking-therapies" target="_blank" rel="noopener noreferrer nofollow">https://www.berkshirehealthcare.nhs.uk/talking-therapies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NHS Berkshire Talking TherapiesA free and confidential service offering effective treatment for common mental health problems such as low...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: remedy.bnssg.icb.nhs.uk  
    Title: talking therapies iapt  
-   Link: [https://remedy.bnssg.icb.nhs.uk/adults/mental-health/talking-therapies-iapt/](https://remedy.bnssg.icb.nhs.uk/adults/mental-health/talking-therapies-iapt/)  
+   Link: <a href="https://remedy.bnssg.icb.nhs.uk/adults/mental-health/talking-therapies-iapt/" target="_blank" rel="noopener noreferrer nofollow">https://remedy.bnssg.icb.nhs.uk/adults/mental-health/talking-therapies-iapt/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Therapies (IAPT) (Remedy BNSSG ICB)27 Mar 2024 — NHS Talking Therapies provide support for anyone who is struggling with low mood, anxiet...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/mental-health/conditions/body-dysmorphia/](https://www.nhs.uk/mental-health/conditions/body-dysmorphia/)  
+   Link: <a href="https://www.nhs.uk/mental-health/conditions/body-dysmorphia/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/conditions/body-dysmorphia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t of time worrying about flaws in their appearance.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: derbyshirehealthcareft.nhs.uk  
-   Link: [https://www.derbyshirehealthcareft.nhs.uk/perinatal/professionals/trauma-and-loss-maternal-mental-health-professionals/how-refer-maternal-mental-health](https://www.derbyshirehealthcareft.nhs.uk/perinatal/professionals/trauma-and-loss-maternal-mental-health-professionals/how-refer-maternal-mental-health)  
+   Link: <a href="https://www.derbyshirehealthcareft.nhs.uk/perinatal/professionals/trauma-and-loss-maternal-mental-health-professionals/how-refer-maternal-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.derbyshirehealthcareft.nhs.uk/perinatal/professionals/trauma-and-loss-maternal-mental-health-professionals/how-refer-maternal-mental-health</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perinatal red flags. Please consider the...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: rms.cornwall.nhs.uk  
-   Link: [https://rms.cornwall.nhs.uk/primary_care_clinical_referral_criteria/primary_care_clinical_referral_criteria/mental_health/depression_in_adults](https://rms.cornwall.nhs.uk/primary_care_clinical_referral_criteria/primary_care_clinical_referral_criteria/mental_health/depression_in_adults)  
+   Link: <a href="https://rms.cornwall.nhs.uk/primary_care_clinical_referral_criteria/primary_care_clinical_referral_criteria/mental_health/depression_in_adults" target="_blank" rel="noopener noreferrer nofollow">https://rms.cornwall.nhs.uk/primary_care_clinical_referral_criteria/primary_care_clinical_referral_criteria/mental_health/depression_in_adults</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in AdultsIt is a treatable condition, with effective evidence-based treatments, including medication, psychological therapy and social in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: doclibrary-rcht.cornwall.nhs.uk  
-   Link: [https://doclibrary-rcht.cornwall.nhs.uk/DocumentsLibrary/RoyalCornwallHospitalsTrust/Clinical/MidwiferyAndObstetrics/PerinatalMentalHealthClinicalGuidelineForMidwives.pdf](https://doclibrary-rcht.cornwall.nhs.uk/DocumentsLibrary/RoyalCornwallHospitalsTrust/Clinical/MidwiferyAndObstetrics/PerinatalMentalHealthClinicalGuidelineForMidwives.pdf)  
+   Link: <a href="https://doclibrary-rcht.cornwall.nhs.uk/DocumentsLibrary/RoyalCornwallHospitalsTrust/Clinical/MidwiferyAndObstetrics/PerinatalMentalHealthClinicalGuidelineForMidwives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://doclibrary-rcht.cornwall.nhs.uk/DocumentsLibrary/RoyalCornwallHospitalsTrust/Clinical/MidwiferyAndObstetrics/PerinatalMentalHealthClinicalGuidelineForMidwives.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In addition, explore risk factors for anxiety and depression...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: england.nhs.uk  
-   Link: [https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/service-standards/](https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/service-standards/)  
+   Link: <a href="https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/service-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/service-standards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the first part of the national Mental...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: england.nhs.uk  
    Title: Mr B NHS England investigation report Final report 28.10.2025  
-   Link: [https://www.england.nhs.uk/east-of-england/wp-content/uploads/sites/47/2025/11/Mr-B-NHS-England-investigation-report-Final-report-28.10.2025.pdf](https://www.england.nhs.uk/east-of-england/wp-content/uploads/sites/47/2025/11/Mr-B-NHS-England-investigation-report-Final-report-28.10.2025.pdf)  
+   Link: <a href="https://www.england.nhs.uk/east-of-england/wp-content/uploads/sites/47/2025/11/Mr-B-NHS-England-investigation-report-Final-report-28.10.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/east-of-england/wp-content/uploads/sites/47/2025/11/Mr-B-NHS-England-investigation-report-Final-report-28.10.2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The NHS Talking Therapies programme was developed by NHS England to improve the delivery of, and access to...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/worried-about-your-teenager/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/worried-about-your-teenager/)  
+   Link: <a href="https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/worried-about-your-teenager/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/worried-about-your-teenager/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>about your teenager?Advice and information for parents who are worried about their teenage child, including concerns about depression, ea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/nhs-services/mental-health-services/](https://www.nhs.uk/nhs-services/mental-health-services/)  
+   Link: <a href="https://www.nhs.uk/nhs-services/mental-health-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/nhs-services/mental-health-services/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>health servicesFind NHS talking therapies for anxiety and depression. You do not need to have a diagnosed mental health condition to refe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: remedy.bnssg.icb.nhs.uk  
-   Link: [https://remedy.bnssg.icb.nhs.uk/adults/mental-health/depression-adults/](https://remedy.bnssg.icb.nhs.uk/adults/mental-health/depression-adults/)  
+   Link: <a href="https://remedy.bnssg.icb.nhs.uk/adults/mental-health/depression-adults/" target="_blank" rel="noopener noreferrer nofollow">https://remedy.bnssg.icb.nhs.uk/adults/mental-health/depression-adults/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(adults) (Remedy BNSSG ICB)Depressive disorders are very common and are among the leading causes of disability worldwide. In people aged...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: southwest.devonformularyguidance.nhs.uk  
-   Link: [https://southwest.devonformularyguidance.nhs.uk/referral-guidance/western-locality/mental-health/psychological-therapies-plymouth-options-iapt](https://southwest.devonformularyguidance.nhs.uk/referral-guidance/western-locality/mental-health/psychological-therapies-plymouth-options-iapt)  
+   Link: <a href="https://southwest.devonformularyguidance.nhs.uk/referral-guidance/western-locality/mental-health/psychological-therapies-plymouth-options-iapt" target="_blank" rel="noopener noreferrer nofollow">https://southwest.devonformularyguidance.nhs.uk/referral-guidance/western-locality/mental-health/psychological-therapies-plymouth-options-iapt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Therapies – Plymouth Options (IAPT)People experiencing Depression and/or Anxiety Disorders (generalised anxiety disorder, simple phobia...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: southwest.devonformularyguidance.nhs.uk  
-   Link: [https://southwest.devonformularyguidance.nhs.uk/referral-guidance/western-locality/mental-health/accept-clinic-accessing-evidenced-based-psychological-therapies-mindfulness-based-cognitive-therapy](https://southwest.devonformularyguidance.nhs.uk/referral-guidance/western-locality/mental-health/accept-clinic-accessing-evidenced-based-psychological-therapies-mindfulness-based-cognitive-therapy)  
+   Link: <a href="https://southwest.devonformularyguidance.nhs.uk/referral-guidance/western-locality/mental-health/accept-clinic-accessing-evidenced-based-psychological-therapies-mindfulness-based-cognitive-therapy" target="_blank" rel="noopener noreferrer nofollow">https://southwest.devonformularyguidance.nhs.uk/referral-guidance/western-locality/mental-health/accept-clinic-accessing-evidenced-based-psychological-therapies-mindfulness-based-cognitive-therapy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We also offer other treatments which are dependent on the...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: talkingtherapieshiow.nhs.uk  
-   Link: [https://www.talkingtherapieshiow.nhs.uk/hampshire](https://www.talkingtherapieshiow.nhs.uk/hampshire)  
+   Link: <a href="https://www.talkingtherapieshiow.nhs.uk/hampshire" target="_blank" rel="noopener noreferrer nofollow">https://www.talkingtherapieshiow.nhs.uk/hampshire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hampshire and Isle of Wight NHS Foundation TrustWe support people to improve their mental wellbeing through education, guided self-help t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sheffieldtalkingtherapies.nhs.uk  
    Title: what to expect  
-   Link: [https://www.sheffieldtalkingtherapies.nhs.uk/what-to-expect](https://www.sheffieldtalkingtherapies.nhs.uk/what-to-expect)  
+   Link: <a href="https://www.sheffieldtalkingtherapies.nhs.uk/what-to-expect" target="_blank" rel="noopener noreferrer nofollow">https://www.sheffieldtalkingtherapies.nhs.uk/what-to-expect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2024 — The first phone assessment helps us find out what you&#x27;re struggling with right now. We can also share how Sheffield Talkin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: virahumantraining.com  
-   Link: [https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/](https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/)  
+   Link: <a href="https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/" target="_blank" rel="noopener noreferrer nofollow">https://virahumantraining.com/icf-professional-standards/icf-code-of-ethics-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vira Human TrainingICF Code of Ethics explained | Professional Coaching...When a client&#x27;s needs move beyond the scope of Coaching, ethic...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: virahumantraining.com  
-   Link: [https://virahumantraining.com/professional-coaching-worldwide/coaching-vs-therapy/](https://virahumantraining.com/professional-coaching-worldwide/coaching-vs-therapy/)  
+   Link: <a href="https://virahumantraining.com/professional-coaching-worldwide/coaching-vs-therapy/" target="_blank" rel="noopener noreferrer nofollow">https://virahumantraining.com/professional-coaching-worldwide/coaching-vs-therapy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vira Human TrainingCoaching vs Therapy: How to Know Which One You NeedCoaching is a forward-focused, non-directive process that supports...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: talk-works.org.uk  
    Title: Talk Works Coaching vs Therapy  
-   Link: [https://talk-works.org.uk/2024/06/05/coaching-vs-therapy/](https://talk-works.org.uk/2024/06/05/coaching-vs-therapy/)  
+   Link: <a href="https://talk-works.org.uk/2024/06/05/coaching-vs-therapy/" target="_blank" rel="noopener noreferrer nofollow">https://talk-works.org.uk/2024/06/05/coaching-vs-therapy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coaching vs Therapy - Talk Works5 Jun 2024 — The main difference is therapy aims to resolve or reduce emotional and psychological distres...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: selectpsychology.co.uk  
    Title: what is the difference between coaching and counselling  
-   Link: [https://selectpsychology.co.uk/blog/relationships/what-is-the-difference-between-coaching-and-counselling/](https://selectpsychology.co.uk/blog/relationships/what-is-the-difference-between-coaching-and-counselling/)  
+   Link: <a href="https://selectpsychology.co.uk/blog/relationships/what-is-the-difference-between-coaching-and-counselling/" target="_blank" rel="noopener noreferrer nofollow">https://selectpsychology.co.uk/blog/relationships/what-is-the-difference-between-coaching-and-counselling/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Select PsychologyDifference between coaching and counselling22 Aug 2022 — Coaches help you to identify goals, leverage personal strengths...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: realsimple.com  
    Title: Real Simple Life Coach vs  
-   Link: [https://www.realsimple.com/life-coach-vs-therapist-7507898](https://www.realsimple.com/life-coach-vs-therapist-7507898)  
+   Link: <a href="https://www.realsimple.com/life-coach-vs-therapist-7507898" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/life-coach-vs-therapist-7507898</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Therapist: What&#x27;s the Difference?The key distinction between therapy and life coaching lies in their approach and focus. Therapy is typic...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: selectpsychology.co.uk  
-   Link: [https://selectpsychology.co.uk/blog/mental-health/signs-you-may-need-therapy/](https://selectpsychology.co.uk/blog/mental-health/signs-you-may-need-therapy/)  
+   Link: <a href="https://selectpsychology.co.uk/blog/mental-health/signs-you-may-need-therapy/" target="_blank" rel="noopener noreferrer nofollow">https://selectpsychology.co.uk/blog/mental-health/signs-you-may-need-therapy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Select PsychologySigns You May Need Therapy: When to Seek Professional...11 Oct 2024 — If anxiety becomes overwhelming and interferes wi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thepractice.co.uk  
    Title: The Practice Therapy vs. Coaching: What's the Difference?  
-   Link: [https://www.thepractice.co.uk/therapy-vs-coaching.html](https://www.thepractice.co.uk/therapy-vs-coaching.html)  
+   Link: <a href="https://www.thepractice.co.uk/therapy-vs-coaching.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thepractice.co.uk/therapy-vs-coaching.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The PracticeTherapy vs. Coaching: What&#x27;s the Difference? - The Practicetherapy can help you process grief and emotions, while coaching mi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: coachingfederation.org.uk  
-   Link: [https://www.coachingfederation.org.uk/credentialing/icf-code-of-ethics](https://www.coachingfederation.org.uk/credentialing/icf-code-of-ethics)  
+   Link: <a href="https://www.coachingfederation.org.uk/credentialing/icf-code-of-ethics" target="_blank" rel="noopener noreferrer nofollow">https://www.coachingfederation.org.uk/credentialing/icf-code-of-ethics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ICF - Code Of EthicsThe ICF Code of Ethics describes the core values of the International Coaching Federation (ICF Core Values), and ethi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Coaching vs Psychotherapy in health and Wellness  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3833547/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3833547/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3833547/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3833547/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCoaching vs Psychotherapy in health and Wellness - PMC - NIHby M Jordan · 2013 · Cited by 65 — Health coaches and psychothe...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scribd.com  
    Title: Coaching vs  
-   Link: [https://www.scribd.com/document/855597124/icf-ethics-coaching-vs-therapy-boundaries-case-study](https://www.scribd.com/document/855597124/icf-ethics-coaching-vs-therapy-boundaries-case-study)  
+   Link: <a href="https://www.scribd.com/document/855597124/icf-ethics-coaching-vs-therapy-boundaries-case-study" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/855597124/icf-ethics-coaching-vs-therapy-boundaries-case-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Therapy: Role Clarity | PDF | PsychotherapyDiscuss how the ICF Code of Ethics supports coaches in managing dual professional roles when u...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: theinsurancemaze.com  
-   Link: [https://theinsurancemaze.com/coaching/](https://theinsurancemaze.com/coaching/)  
+   Link: <a href="https://theinsurancemaze.com/coaching/" target="_blank" rel="noopener noreferrer nofollow">https://theinsurancemaze.com/coaching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Therapy March 2023Mar 12, 2023 — “According to the ICF, a coach is responsible for discovering, clarifying, and aligning with what th...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jenniferjyoung_im-sharing-this-post-as-i-believe-the-coaching-activity-7431437046130421760-vzD0](https://www.linkedin.com/posts/jenniferjyoung_im-sharing-this-post-as-i-believe-the-coaching-activity-7431437046130421760-vzD0)  
+   Link: <a href="https://www.linkedin.com/posts/jenniferjyoung_im-sharing-this-post-as-i-believe-the-coaching-activity-7431437046130421760-vzD0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jenniferjyoung_im-sharing-this-post-as-i-believe-the-coaching-activity-7431437046130421760-vzD0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coaching Ethics: Importance of Formal Education and ScopeI&#x27;m sharing this post as I believe the coaching industry sometimes gets a bad re...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/lifecoaching/comments/1o2nd5f/coaching_vs_therapy_trying_to_find_my_true_path/](https://www.reddit.com/r/lifecoaching/comments/1o2nd5f/coaching_vs_therapy_trying_to_find_my_true_path/)  
+   Link: <a href="https://www.reddit.com/r/lifecoaching/comments/1o2nd5f/coaching_vs_therapy_trying_to_find_my_true_path/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lifecoaching/comments/1o2nd5f/coaching_vs_therapy_trying_to_find_my_true_path/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coaching vs. Therapy — Trying to Find My True PathWe might say a therapist is &quot;diagnosing and treating trauma,&quot; while a coach is &quot;helping...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: hpso.com  
-   Link: [https://www.hpso.com/Resources/Legal-and-Ethical-Issues/Case-Study-Failure-to-differentiate-between-counseling-and-life-coaching%3B-exceeding-conventional-co](https://www.hpso.com/Resources/Legal-and-Ethical-Issues/Case-Study-Failure-to-differentiate-between-counseling-and-life-coaching%3B-exceeding-conventional-co)  
+   Link: <a href="https://www.hpso.com/Resources/Legal-and-Ethical-Issues/Case-Study-Failure-to-differentiate-between-counseling-and-life-coaching%3B-exceeding-conventional-co" target="_blank" rel="noopener noreferrer nofollow">https://www.hpso.com/Resources/Legal-and-Ethical-Issues/Case-Study-Failure-to-differentiate-between-counseling-and-life-coaching%3B-exceeding-conventional-co</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Failure to differentiate between counseling and life coachingThis counselor license protection case study involves an LPC who failed to o...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: findahelpline.com  
-   Link: [https://findahelpline.com/countries/de](https://findahelpline.com/countries/de)  
+   Link: <a href="https://findahelpline.com/countries/de" target="_blank" rel="noopener noreferrer nofollow">https://findahelpline.com/countries/de</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Germany helplines and hotlinesTalk with a crisis counselor today. Verified global support for anxiety, depression, suicide prevention, do...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/grand-canyon-university/introduction-to-physical-science/icf-guidelines-for-referring-clients-to-therapy-a-comprehensive-guide/151312834](https://www.studocu.com/en-us/document/grand-canyon-university/introduction-to-physical-science/icf-guidelines-for-referring-clients-to-therapy-a-comprehensive-guide/151312834)  
+   Link: <a href="https://www.studocu.com/en-us/document/grand-canyon-university/introduction-to-physical-science/icf-guidelines-for-referring-clients-to-therapy-a-comprehensive-guide/151312834" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/grand-canyon-university/introduction-to-physical-science/icf-guidelines-for-referring-clients-to-therapy-a-comprehensive-guide/151312834</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ICF Guidelines for Referring Clients to TherapyThis guide provides coaches with essential guidelines for referring clients to mental heal...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: coachingfederation.org  
-   Link: [https://coachingfederation.org/credentialing/coaching-ethics/](https://coachingfederation.org/credentialing/coaching-ethics/)  
+   Link: <a href="https://coachingfederation.org/credentialing/coaching-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://coachingfederation.org/credentialing/coaching-ethics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ICFICF Ethical Standards: Upholding Coaching EthicsICF&#x27;s ethical standards ensure that every ICF member and credential-holder acts with i...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jstanleyjr_therapists-are-trained-to-treat-pathology-activity-7427396591524831232-ER6i](https://www.linkedin.com/posts/jstanleyjr_therapists-are-trained-to-treat-pathology-activity-7427396591524831232-ER6i)  
+   Link: <a href="https://www.linkedin.com/posts/jstanleyjr_therapists-are-trained-to-treat-pathology-activity-7427396591524831232-ER6i" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jstanleyjr_therapists-are-trained-to-treat-pathology-activity-7427396591524831232-ER6i</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Therapists vs Coaches: Clarifying Scope and EthicsUnderstanding coaching doesn&#x27;t make someone less of a therapist. It forces you to get c...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: findahelpline.com  
-   Link: [https://findahelpline.com/countries/nl](https://findahelpline.com/countries/nl)  
+   Link: <a href="https://findahelpline.com/countries/nl" target="_blank" rel="noopener noreferrer nofollow">https://findahelpline.com/countries/nl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Netherlands helplines and hotlinesTalk with a crisis counselor today. Verified global support for anxiety, depression, suicide prevention...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: erickson.co.in  
    Title: icf code of ethics 2025 complete guide to ethical standards values ai guidelines  
-   Link: [https://www.erickson.co.in/icf-code-of-ethics-2025-complete-guide-to-ethical-standards-values-ai-guidelines/](https://www.erickson.co.in/icf-code-of-ethics-2025-complete-guide-to-ethical-standards-values-ai-guidelines/)  
+   Link: <a href="https://www.erickson.co.in/icf-code-of-ethics-2025-complete-guide-to-ethical-standards-values-ai-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.erickson.co.in/icf-code-of-ethics-2025-complete-guide-to-ethical-standards-values-ai-guidelines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ICF Code of Ethics 2025 – Complete Guide to...The ICF Code of Ethics — a living document outlining the principles and behavioural expect...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
    Title: 269763341 life and executive coaching some ethical issues of consideration  
-   Link: [https://www.researchgate.net/publication/269763341_life_and_executive_coaching_some_ethical_issues_of_consideration](https://www.researchgate.net/publication/269763341_life_and_executive_coaching_some_ethical_issues_of_consideration)  
+   Link: <a href="https://www.researchgate.net/publication/269763341_life_and_executive_coaching_some_ethical_issues_of_consideration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269763341_life_and_executive_coaching_some_ethical_issues_of_consideration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Life and executive coaching: Some ethical issues for...3 Nov 2015 — Unlike licensed mental health care professionals, a coach is u...</p></details>

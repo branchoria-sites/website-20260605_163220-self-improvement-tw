@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking
 
 ## Introduction
 
-[Feedback loops]({{ 'feedback/' | relative_url }}) are valuable because they make behaviour visible. The problem begins when the [feedback]({{ 'feedback/' | relative_url }}) system stops serving the behaviour and starts competing with it. A tracker that was meant to support exercise, writing, saving money or better sleep can gradually become a separate project: updating dashboards, reviewing graphs, fixing categories, maintaining streaks and analysing metrics. At that point, the person may spend more energy observing improvement than creating it.
+[Feedback]({{ 'feedback/' | relative_url }}) loops are valuable because they make behaviour visible. The problem begins when the feedback system stops serving the behaviour and starts competing with it. A tracker that was meant to [support]({{ 'support/' | relative_url }}) exercise, writing, saving money or better sleep can gradually become a separate project: updating dashboards, reviewing graphs, fixing categories, maintaining streaks and analysing metrics. At that point, the person may spend more energy observing improvement than creating it.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-1-dark.svg" | relative_url }}" alt="Tracking Noise illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -326,17 +326,17 @@ The original goal might be exercising three times per week. The tracker introduc
 
 This pattern resembles a broader management problem often summarised by Goodhart's Law: when a measure becomes a target, it can stop functioning as a good measure. In personal improvement, the distortion is usually psychological rather than deliberate. People begin optimising what is easy to count instead of what they originally cared about.
 
-A writer who tracks daily word counts may produce words simply to protect a streak. A reader may choose shorter books because they increase completion statistics. Someone focused on fitness may chase wearable metrics while ignoring recovery, [enjoyment]({{ 'enjoyment/' | relative_url }}) or injury risk.
+A writer who tracks daily word counts may produce words simply to protect a streak. A reader may choose shorter books because they increase completion statistics. Someone focused on fitness may chase wearable metrics while ignoring recovery, enjoyment or injury risk.
 
 The dashboard starts defining success.
 
 The irony is that the person can appear increasingly successful according to the metrics while drifting away from the real objective.
 
-Research on self-tracking design has highlighted the importance of presenting data in ways that support motivation rather than turning metrics into sources of discouragement or misplaced focus. Poorly designed feedback can produce the opposite of the intended behavioural effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2021/9/e25171/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRHow Self-tracking and the Quantified Self Promote Health...by S Feng · 2021 · Cited by 249 — We have undertaken a systematic literat...</span></span></span>
+Research on self-tracking design has highlighted the importance of presenting data in ways that support motivation rather than turning metrics into sources of discouragement or misplaced focus. Poorly designed feedback can produce the opposite of the intended behavioural effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2021/9/e25171/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">How Self-tracking and the Quantified Self Promote Health...by S Feng · 2021 · Cited by 249 — We have undertaken a systematic literat...</span></span></span>
 
 ## Why More Data Is Not Always Better
 
-The quantified-self movement demonstrated that personal data can reveal useful patterns. People can discover relationships between sleep and mood, exercise and energy, or spending and financial stress. However, self-tracking research has also shown that accumulating data does not automatically create insight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2021/9/e25171/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRHow Self-tracking and the Quantified Self Promote Health...by S Feng · 2021 · Cited by 249 — We have undertaken a systematic literat...</span></span></span>
+The quantified-self movement demonstrated that personal data can reveal useful patterns. People can discover relationships between sleep and mood, exercise and energy, or spending and financial stress. However, self-tracking research has also shown that accumulating data does not automatically create insight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2021/9/e25171/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">How Self-tracking and the Quantified Self Promote Health...by S Feng · 2021 · Cited by 249 — We have undertaken a systematic literat...</span></span></span>
 
 Three mechanisms commonly turn useful tracking into avoidance:
 
@@ -365,7 +365,7 @@ A useful feedback loop should feel lighter over time. If it becomes progressivel
 The solution is rarely abandoning feedback altogether. The solution is reducing the amount of tracking to the minimum needed for learning.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nfRZPf_6a1c" title="The Problem with Habit Trackers (And What to Do Instead)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer">The Problem with Habit Trackers (And What to Do Instead)</a></p><p class="youtube-embed-meta">Channel: Sam Mas &middot; Views: 5.4K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nfRZPf_6a1c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgZA050Zk-A" title="The System That Keeps You Burned Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgZA050Zk-A" target="_blank" rel="noopener noreferrer">The System That Keeps You Burned Out</a></p><p class="youtube-embed-meta">Channel: Beyond Surface Level &middot; Views: 15 &middot; Uploaded: April 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgZA050Zk-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgZA050Zk-A">Open on YouTube</a></p></div></div></div>
 
 ### Track Decisions, Not Everything
 
@@ -387,7 +387,7 @@ If there is no answer, the metric is probably decorative.
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-3-dark.svg" | relative_url }}" alt="Tracking Noise illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Review Less Frequently
 
-Some dashboards are checked far more often than the underlying behaviour changes.
+Some dashboards are checked far more often than the underlying [behaviour changes]({{ 'behaviour-change/' | relative_url }}).
 
 Daily reviews of long-term goals often generate noise. Weekly or monthly reviews may provide clearer signals because meaningful trends have had time to emerge.
 
@@ -410,7 +410,7 @@ For example:
 Supporting metrics can exist, but one measure should dominate attention.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgZA050Zk-A" title="The System That Keeps You Burned Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgZA050Zk-A" target="_blank" rel="noopener noreferrer">The System That Keeps You Burned Out</a></p><p class="youtube-embed-meta">Channel: Beyond Surface Level &middot; Views: 15 &middot; Uploaded: April 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgZA050Zk-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgZA050Zk-A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nfRZPf_6a1c" title="The Problem with Habit Trackers (And What to Do Instead)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer">The Problem with Habit Trackers (And What to Do Instead)</a></p><p class="youtube-embed-meta">Channel: Sam Mas &middot; Views: 5.4K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nfRZPf_6a1c">Open on YouTube</a></p></div></div></div>
 
 ### Allow Imperfection
 
@@ -514,7 +514,7 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -524,111 +524,36 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fundraising Goal Thermometer Chart - 11&quot; x 48&quot; Reusable Dry Erase Goal Tracke..."><img src="{{ '/assets/images/marketplace-covers/620ae00fd0480b4f48e1.jpg' | relative_url }}" alt="Listing image for Fundraising Goal Thermometer Chart - 11&quot; x 48&quot; Reusable Dry Erase Goal Tracke..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/UeIAAeSwsO1pu9zc/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fundraising Goal Thermometer Chart - 11&quot; x 48&quot; Reusable Dry Erase Goal Tracke...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.com</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..."><img src="{{ '/assets/images/marketplace-covers/12b02ee0643ac458f006.jpg' | relative_url }}" alt="Listing image for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.com</span>: goal tracking chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..."><img src="{{ '/assets/images/marketplace-covers/f282d750754c839b1634.jpg' | relative_url }}" alt="Listing image for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.com</span>: goal tracking chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..."><img src="{{ '/assets/images/marketplace-covers/652ad71c359a6abb8e49.jpg' | relative_url }}" alt="Listing image for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.com</span>: goal tracking chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-goal-tracking-chart&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Simple Weekly Planner To Do List Notebook w Habit Tracker 6.5&quot; x 9.25&quot; 60 Sheet"><img src="{{ '/assets/images/marketplace-covers/fb1db159ed9c5f65f7ec.jpg' | relative_url }}" alt="Listing image for Simple Weekly Planner To Do List Notebook w Habit Tracker 6.5&quot; x 9.25&quot; 60 Sheet" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Simple Weekly Planner To Do List Notebook w Habit Tracker 6.5&quot; x 9.25&quot; 60 Sheet</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for simple habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: simple habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -636,15 +561,15 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Non Dated Simple Weekly Planner And To do List Notebook With Habit Tracker"><img src="{{ '/assets/images/marketplace-covers/4d9c9c192cd8f057f680.jpg' | relative_url }}" alt="Listing image for Non Dated Simple Weekly Planner And To do List Notebook With Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor"><img src="https://i.ebayimg.com/images/g/Da0AAeSwUdhp5tYK/s-l225.jpg" alt="Listing image for 2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Non Dated Simple Weekly Planner And To do List Notebook With Habit Tracker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for simple habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: simple habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -652,15 +577,15 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mobile-Friendly Habit Tracker | Simple Daily Habit Tracker | Minimalist Planner"><img src="{{ '/assets/images/marketplace-covers/b6349f88c470d63da647.jpg' | relative_url }}" alt="Listing image for Mobile-Friendly Habit Tracker | Simple Daily Habit Tracker | Minimalist Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/2xQAAeSwgIRp4NGA/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mobile-Friendly Habit Tracker | Simple Daily Habit Tracker | Minimalist Planner</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for simple habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: simple habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -668,15 +593,15 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Simple 2025 Digital Planner - All-in-One/Habit Tracker/Navigation Bar"><img src="{{ '/assets/images/marketplace-covers/c81229e247b48518bfd6.jpg' | relative_url }}" alt="Listing image for Simple 2025 Digital Planner - All-in-One/Habit Tracker/Navigation Bar" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/X2wAAeSwgI9pvtTP/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Simple 2025 Digital Planner - All-in-One/Habit Tracker/Navigation Bar</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for simple habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: simple habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -684,7 +609,7 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-noise-when-the-tracker-becomes-the-problem-self-improvement-that-works-simple-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,17 +686,31 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -784,42 +723,73 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -834,105 +804,109 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-monitoring often involves self-evaluation...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pac.cs.cornell.edu  
-   Link: [https://pac.cs.cornell.edu/pubs/ekchoe_pervasive17.pdf](https://pac.cs.cornell.edu/pubs/ekchoe_pervasive17.pdf)  
+   Link: <a href="https://pac.cs.cornell.edu/pubs/ekchoe_pervasive17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pac.cs.cornell.edu/pubs/ekchoe_pervasive17.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reater awareness of behaviors and can create a reactive effect yielding positive, therapeutic behavior...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-tracking and the Quantified Self Promote Health and...by S Feng · 2021 · Cited by 249 — We have undertaken a systematic literature...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2021/9/e25171/](https://www.jmir.org/2021/9/e25171/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRHow Self-tracking and the Quantified Self Promote Health...by S Feng · 2021 · Cited by 249 — We have undertaken a systematic literat...</p></details>
+   Link: <a href="https://www.jmir.org/2021/9/e25171/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2021/9/e25171/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-tracking and the Quantified Self Promote Health...by S Feng · 2021 · Cited by 249 — We have undertaken a systematic literat...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10589825/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10589825/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMental Health Self-Tracking Preferences of Young Adults With...by ML Beltzer · 2023 · Cited by 10 — This study seeks to assess the ty...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10589825/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10589825/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Health Self-Tracking Preferences of Young Adults With...by ML Beltzer · 2023 · Cited by 10 — This study seeks to assess the ty...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf](https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kinfolk.com  
    Title: The Quantified Self  
-   Link: [https://www.kinfolk.com/stories/the-quantified-self/](https://www.kinfolk.com/stories/the-quantified-self/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KinfolkBut for the 95,000-strong QS community, self-tracking is more than just a casual habit. “It becomes a way of life,” explains Btiha...</p></details>
+   Link: <a href="https://www.kinfolk.com/stories/the-quantified-self/" target="_blank" rel="noopener noreferrer nofollow">https://www.kinfolk.com/stories/the-quantified-self/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>But for the 95,000-strong QS community, self-tracking is more than just a casual habit. “It becomes a way of life,” explains Btiha...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review](https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review)  
+   Link: <a href="https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Self-tracking and the Quantified Self Promote...21 Sept 2021 — We have undertaken a systematic literature review on self-track...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: publica.fraunhofer.de  
-   Link: [https://publica.fraunhofer.de/bitstreams/74cbccfe-97d9-4f82-b06a-1084c7e0d687/download](https://publica.fraunhofer.de/bitstreams/74cbccfe-97d9-4f82-b06a-1084c7e0d687/download)  
+   Link: <a href="https://publica.fraunhofer.de/bitstreams/74cbccfe-97d9-4f82-b06a-1084c7e0d687/download" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/bitstreams/74cbccfe-97d9-4f82-b06a-1084c7e0d687/download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>much do self-trackers care about their data&#x27;s privacy?by A Floris · Cited by 1 — As self-tracking has grown more common, it is crucial th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: [https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence](https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The findings suggest that monitoring goal progress is an effective self-regulation strategy, and that interventions that increase the fre...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cdtm.com  
    Title: reflecting on technologies ii our quantified self  
-   Link: [https://cdtm.com/blog/reflecting-on-technologies-ii-our-quantified-self](https://cdtm.com/blog/reflecting-on-technologies-ii-our-quantified-self)  
+   Link: <a href="https://cdtm.com/blog/reflecting-on-technologies-ii-our-quantified-self" target="_blank" rel="noopener noreferrer nofollow">https://cdtm.com/blog/reflecting-on-technologies-ii-our-quantified-self</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflecting on Technologies II: Our quantified self17 Oct 2023 — From monitoring every step taken to counting every calorie consumed, self...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Self-tracking-for-Mental-Wellness%3A-Understanding-Kelley-Lee/5d32d91acbee7a11b9545ae79486cb67f9a1a3ed](https://www.semanticscholar.org/paper/Self-tracking-for-Mental-Wellness%3A-Understanding-Kelley-Lee/5d32d91acbee7a11b9545ae79486cb67f9a1a3ed)  
+   Link: <a href="https://www.semanticscholar.org/paper/Self-tracking-for-Mental-Wellness%3A-Understanding-Kelley-Lee/5d32d91acbee7a11b9545ae79486cb67f9a1a3ed" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Self-tracking-for-Mental-Wellness%3A-Understanding-Kelley-Lee/5d32d91acbee7a11b9545ae79486cb67f9a1a3ed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and mental wellness in student populations reveal expert perspectives on the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/selfimprovement/comments/1tiettl/habit_tracking_apps_reviewed_for_people_who_are/](https://www.reddit.com/r/selfimprovement/comments/1tiettl/habit_tracking_apps_reviewed_for_people_who_are/)  
+   Link: <a href="https://www.reddit.com/r/selfimprovement/comments/1tiettl/habit_tracking_apps_reviewed_for_people_who_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/selfimprovement/comments/1tiettl/habit_tracking_apps_reviewed_for_people_who_are/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit tracking apps reviewed for people who are done with...Quantified-self tracker that combines habits with mood, sleep, and activity...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: quantifiedself.com  
-   Link: [https://quantifiedself.com/blog/quantified-self-101-make-it-smart/](https://quantifiedself.com/blog/quantified-self-101-make-it-smart/)  
+   Link: <a href="https://quantifiedself.com/blog/quantified-self-101-make-it-smart/" target="_blank" rel="noopener noreferrer nofollow">https://quantifiedself.com/blog/quantified-self-101-make-it-smart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantified Self 101: Make it SMART26 Jan 2012 — Quantified Self is all about using the power of data to help you learn about yourself...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/public-health-nutrition/article/websitebased-eatracker-my-goals-feature-a-qualitative-evaluation/E42D73050D3C90093C86C4733B83D9B1](https://www.cambridge.org/core/journals/public-health-nutrition/article/websitebased-eatracker-my-goals-feature-a-qualitative-evaluation/E42D73050D3C90093C86C4733B83D9B1)  
+   Link: <a href="https://www.cambridge.org/core/journals/public-health-nutrition/article/websitebased-eatracker-my-goals-feature-a-qualitative-evaluation/E42D73050D3C90093C86C4733B83D9B1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/public-health-nutrition/article/websitebased-eatracker-my-goals-feature-a-qualitative-evaluation/E42D73050D3C90093C86C4733B83D9B1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The website-based eaTracker® &#x27;My Goals&#x27; featureby JRL Lieffers · 2017 · Cited by 11 — The purpose of the present study was to document ex...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ris.utwente.nl  
-   Link: [https://ris.utwente.nl/ws/files/213653232/Asbjornsen2019persuasive.pdf](https://ris.utwente.nl/ws/files/213653232/Asbjornsen2019persuasive.pdf)  
+   Link: <a href="https://ris.utwente.nl/ws/files/213653232/Asbjornsen2019persuasive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ris.utwente.nl/ws/files/213653232/Asbjornsen2019persuasive.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>System Design Principles and Behavior Changeby RA Asbjørnsen · 2019 · Cited by 192 — Behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) (BCTs) are observable and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: todoist.com  
-   Link: [https://www.todoist.com/inspiration/quantified-self-apps](https://www.todoist.com/inspiration/quantified-self-apps)  
+   Link: <a href="https://www.todoist.com/inspiration/quantified-self-apps" target="_blank" rel="noopener noreferrer nofollow">https://www.todoist.com/inspiration/quantified-self-apps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Quantified Self Apps: How to Build a Simple Tracking...The quantified self is a movement in which you track aspects of your daily lif...</p></details>

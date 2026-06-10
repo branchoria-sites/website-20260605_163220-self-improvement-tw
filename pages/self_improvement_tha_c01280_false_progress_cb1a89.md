@@ -555,7 +555,7 @@ A fair critique of false progress should not dismiss self-help, books, worksheet
 
 The dividing line is whether the material becomes an input to behaviour or a replacement for behaviour. A book is useful if it produces a changed cue, a changed response, a practised skill, a hard conversation, a completed exposure, a tracked behaviour, or a revised environment. It becomes theatre when the reader collects insight as a substitute for practice.
 
-Digital tools create the same tension. A 2024 systematic review of digital behaviour-change interventions for habit formation found that common techniques included [prompts and cues]({{ 'cues/' | relative_url }}), goal setting, self-monitoring, feedback and social support. Those are potentially useful because they connect intention to repeated behaviour. But another review of self-determination theory in behaviour-change technologies warned that designers may optimise engagement with the technology itself rather than the target behaviour. In plain English: the app can become the habit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-title">Journal of Medical Internet Research</span><span class="citation-popover-snippet">Journal of Medical Internet Research</span></span></span>
+Digital tools create the same tension. A 2024 systematic review of digital behaviour-change interventions for habit formation found that common techniques included prompts and cues, goal setting, self-monitoring, feedback and [social support]({{ 'social-support/' | relative_url }}). Those are potentially useful because they connect intention to repeated behaviour. But another review of self-determination theory in behaviour-change technologies warned that designers may optimise engagement with the technology itself rather than the target behaviour. In plain English: the app can become the habit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-title">Journal of Medical Internet Research</span><span class="citation-popover-snippet">Journal of Medical Internet Research</span></span></span>
 
 That distinction is visible in everyday use. Logging meals can support better eating if the data changes shopping, portioning, timing or meal choices. Logging meals becomes theatre if the person records everything but never reviews patterns or alters the food environment. A habit streak can support consistency if it nudges the next repetition. It becomes theatre if protecting the streak matters more than the behaviour’s purpose. A journal can help if it clarifies triggers and commitments. It becomes theatre if the same reflections repeat for months without a changed response.
 
@@ -598,9 +598,9 @@ A practical rule is to put an “action tax” on self-improvement consumption. 
 
 Another useful rule is to separate design time from doing time. Design time asks, “What behaviour do I want, what cue will trigger it, what might block it, and how will I know it happened?” Doing time asks only, “What is the next rep?” Many people keep redesigning during doing time because redesigning feels safer than confronting the task. A fixed tiny start can break the loop: open the document, put on shoes, begin the timer, wash one plate, write the first sentence.
 
-The strongest plans also include adjustment. The Behaviour Change Technique framework includes reviewing behaviour goals, action planning, problem-solving, self-monitoring and noticing discrepancies between current behaviour and the goal. That matters because real life will expose flaws in any plan. A failed attempt is not proof that the person lacks discipline; it is information about cue, friction, timing, difficulty, support or reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest plans also include adjustment. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique framework includes reviewing behaviour goals, action planning, problem-solving, self-monitoring and noticing discrepancies between current behaviour and the goal. That matters because real life will expose flaws in any plan. A failed attempt is not proof that the person lacks discipline; it is information about cue, friction, timing, difficulty, support or reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A simple [weekly review]({{ 'weekly-review/' | relative_url }}) can keep self improvement honest:
+A simple weekly review can keep self improvement honest:
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-3-dark.svg" | relative_url }}" alt="False Progress illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -713,7 +713,7 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -722,78 +722,94 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-progress-when-self-improvement-feels-productive-but-fails-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -869,17 +885,31 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -892,42 +922,73 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -942,101 +1003,105 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK567039/](https://www.ncbi.nlm.nih.gov/books/NBK567039/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK567039/</a>  
 
 2. <a id="endnote-2"></a>
    Source: jmir.org  
    Title: Journal of Medical Internet Research  
-   Link: [https://www.jmir.org/2024/1/e54375/](https://www.jmir.org/2024/1/e54375/)  
+   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
 
 3. <a id="endnote-3"></a>
    Source: web.mit.edu  
    Title: Massachusetts Institute of Technology  
-   Link: [https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf](https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf)  
+   Link: <a href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: formative.jmir.org  
-   Link: [https://formative.jmir.org/2023/1/e50573](https://formative.jmir.org/2023/1/e50573)  
+   Link: <a href="https://formative.jmir.org/2023/1/e50573" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2023/1/e50573</a>  
 
 5. <a id="endnote-5"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30775782/](https://pubmed.ncbi.nlm.nih.gov/30775782/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30775782/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30775782/</a>  
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/17395062/](https://pubmed.ncbi.nlm.nih.gov/17395062/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17395062/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17395062/</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Planning fallacy  
-   Link: [https://en.wikipedia.org/wiki/Planning_fallacy](https://en.wikipedia.org/wiki/Planning_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planning_fallacy</a>  
 
 9. <a id="endnote-9"></a>
    Source: sk.sagepub.com  
    Title: planning fallacy  
-   Link: [https://sk.sagepub.com/ency/edvol/download/socialpsychology/chpt/planning-fallacy.pdf](https://sk.sagepub.com/ency/edvol/download/socialpsychology/chpt/planning-fallacy.pdf)  
+   Link: <a href="https://sk.sagepub.com/ency/edvol/download/socialpsychology/chpt/planning-fallacy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/socialpsychology/chpt/planning-fallacy.pdf</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Self-Improvement Trap: Why Trying to Fix Yourself Makes Everything Worse  
-   Link: [https://www.youtube.com/watch?v=Lo7dtGrbxf8](https://www.youtube.com/watch?v=Lo7dtGrbxf8)  
+   Link: <a href="https://www.youtube.com/watch?v=Lo7dtGrbxf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lo7dtGrbxf8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of People Who Dream Big But Fake Progress...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Psychology of People Who Dream Big But Fake Progress  
-   Link: [https://www.youtube.com/watch?v=MkgnlM9OPjQ](https://www.youtube.com/watch?v=MkgnlM9OPjQ)  
+   Link: <a href="https://www.youtube.com/watch?v=MkgnlM9OPjQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MkgnlM9OPjQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Help Trap - What 20+ Years of “Optimizing” Has Taught Me...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389169432_Behavior_Change_Support_Systems_for_Self-Treating_Procrastination_Systematic_Search_in_App_Stores_and_Analysis_of_Motivational_Design_Archetypes](https://www.researchgate.net/publication/389169432_Behavior_Change_Support_Systems_for_Self-Treating_Procrastination_Systematic_Search_in_App_Stores_and_Analysis_of_Motivational_Design_Archetypes)  
+   Link: <a href="https://www.researchgate.net/publication/389169432_Behavior_Change_Support_Systems_for_Self-Treating_Procrastination_Systematic_Search_in_App_Stores_and_Analysis_of_Motivational_Design_Archetypes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389169432_Behavior_Change_Support_Systems_for_Self-Treating_Procrastination_Systematic_Search_in_App_Stores_and_Analysis_of_Motivational_Design_Archetypes</a>  
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/251449615_The_Planning_Fallacy](https://www.researchgate.net/publication/251449615_The_Planning_Fallacy)  
+   Link: <a href="https://www.researchgate.net/publication/251449615_The_Planning_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/251449615_The_Planning_Fallacy</a>  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381407301_The_effectiveness_of_self-guided_interventions_in_adults_with_depressive_symptoms_a_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/381407301_The_effectiveness_of_self-guided_interventions_in_adults_with_depressive_symptoms_a_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/381407301_The_effectiveness_of_self-guided_interventions_in_adults_with_depressive_symptoms_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381407301_The_effectiveness_of_self-guided_interventions_in_adults_with_depressive_symptoms_a_systematic_review_and_meta-analysis</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/310506836_Behavior_Change_Techniques](https://www.researchgate.net/publication/310506836_Behavior_Change_Techniques)  
+   Link: <a href="https://www.researchgate.net/publication/310506836_Behavior_Change_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/310506836_Behavior_Change_Techniques</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2788777944712613/posts/4475877269335997/](https://www.facebook.com/groups/2788777944712613/posts/4475877269335997/)  
+   Link: <a href="https://www.facebook.com/groups/2788777944712613/posts/4475877269335997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2788777944712613/posts/4475877269335997/</a>  
 
 17. <a id="endnote-17"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Goal-Setting-and-Action-Planning-for-Health-Change-Bailey/9e7ffac24e8b84289e9abcf71c69271746264c3c](https://www.semanticscholar.org/paper/Goal-Setting-and-Action-Planning-for-Health-Change-Bailey/9e7ffac24e8b84289e9abcf71c69271746264c3c)  
+   Link: <a href="https://www.semanticscholar.org/paper/Goal-Setting-and-Action-Planning-for-Health-Change-Bailey/9e7ffac24e8b84289e9abcf71c69271746264c3c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Goal-Setting-and-Action-Planning-for-Health-Change-Bailey/9e7ffac24e8b84289e9abcf71c69271746264c3c</a>  
 
 18. <a id="endnote-18"></a>
    Source: scilit.com  
-   Link: [https://www.scilit.com/publications/f4303d2ef5c9c3054918bf71f5d046d7](https://www.scilit.com/publications/f4303d2ef5c9c3054918bf71f5d046d7)  
+   Link: <a href="https://www.scilit.com/publications/f4303d2ef5c9c3054918bf71f5d046d7" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/f4303d2ef5c9c3054918bf71f5d046d7</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change](https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change)  
+   Link: <a href="https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change</a>  

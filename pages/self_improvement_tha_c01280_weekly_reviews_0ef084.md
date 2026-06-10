@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:30:56'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /willpower/
   short_title: Willpower
   heading_title: Why Willpower Should Be Your Backup Plan
-date: '2026-06-05 14:30:56 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-overview.webp
@@ -506,13 +506,13 @@ A weekly review is the behaviour-change version of debugging: it turns missed da
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-overview.webp" | relative_url }}" alt="Overview image for Weekly Review" loading="eager" decoding="sync" fetchpriority="high">
-This matters because effective behaviour change is rarely a single burst of motivation. Research on behaviour-change techniques repeatedly points to active ingredients such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, self-monitoring, feedback, reviewing goals, prompts and problem solving. The weekly review is where those ingredients meet: the person checks the data, notices the weakest link, and updates the plan before drift becomes [abandonment]({{ 'abandonment/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — Objectives: The objective of this study i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[2digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesReview outcome goal(s); if feedback is provided, also code 2.2, Feedback on...</span></span></span>
+This matters because effective [behaviour change]({{ 'behaviour-change/' | relative_url }}) is rarely a single burst of motivation. Research on behaviour-change techniques repeatedly points to active ingredients such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, self-monitoring, feedback, reviewing goals, prompts and problem solving. The weekly review is where those ingredients meet: the person checks the data, notices the weakest link, and updates the plan before drift becomes abandonment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — Objectives: The objective of this study i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[2digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesReview outcome goal(s); if feedback is provided, also code 2.2, Feedback on...</span></span></span>
 
 ## Why missed days are data, not a verdict
 
 Most people interpret a broken streak emotionally: “I am not disciplined”, “this always happens”, “I should start again properly on Monday”. A weekly review uses a more useful question: “Under what conditions did the behaviour happen, and under what conditions did it not happen?” That small shift is powerful because behaviour is not only driven by intention. It is shaped by cues, available time, energy, [environment]({{ 'environment/' | relative_url }}), social context and the difficulty of the next action.
 
-The behaviour-change literature supports this less moralistic framing. The Behaviour Change Technique Taxonomy, often shortened to BCTTv1, was developed to describe the active components of interventions with more precision. It includes [techniques]({{ 'techniques/' | relative_url }}) such as self-monitoring of behaviour, feedback on behaviour, goal review, action planning, prompts and problem solving — all of which can be used in a weekly review without turning life into a complicated research project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — Objectives: The objective of this study i...</span></span></span>
+The behaviour-change literature supports this less moralistic framing. The Behaviour Change Technique Taxonomy, often shortened to BCTTv1, was developed to describe the active components of interventions with more precision. It includes [techniques]({{ 'techniques/' | relative_url }}) such as self-monitoring of behaviour, feedback on behaviour, goal review, action planning, prompts and problem solving — all of which can be used in a weekly review without turning life into a complicated research project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — Objectives: The objective of this study i...</span></span></span>
 
 A missed gym session, for example, may reveal that the planned cue was too weak. “Go after work” sounded clear on Sunday, but by Wednesday the person left the office hungry, had no kit packed, and passed a shop on the way home. The useful finding is not “I lack willpower”. It is: the plan depended on a tired person making several extra decisions at the worst moment of the day.
 
@@ -1121,141 +1121,141 @@ The final test of a weekly review is not whether it feels profound. It is whethe
 
 1. <a id="endnote-1"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesReview outcome goal(s); if feedback is provided, also code 2.2, Feedback on...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dornsife.usc.edu  
    Title: Dornsife Psychology of Habit  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.runger.2016.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0153490](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0153490)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0153490" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0153490</a>  
 
 4. <a id="endnote-4"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
 
 5. <a id="endnote-5"></a>
    Source: nice.org.uk  
    Title: behaviour change individual approaches pdf 1996366337989  
-   Link: [https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989](https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2402.00121](https://arxiv.org/abs/2402.00121)  
+   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.06477](https://arxiv.org/abs/2604.06477)  
+   Link: <a href="https://arxiv.org/abs/2604.06477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.06477</a>  
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — Objectives: The objective of this study i...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — Objectives: The objective of this study i...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 116 — Inclusion of 14 self...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSelf-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 248 — Meta-analyses that focused on i...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Behaviour change techniques that constitute effective  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/</a>  
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
 
 14. <a id="endnote-14"></a>
    Source: repository.essex.ac.uk  
    Title: Essex Open Access Research Repositoryattitudes, habits and behavior change  
-   Link: [https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf](https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf)  
+   Link: <a href="https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Digital Behavior Change Intervention Designs for Habit  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
 17. <a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/behavior](https://dictionary.cambridge.org/dictionary/english/behavior)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/behavior" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/behavior</a>  
 
 18. <a id="endnote-18"></a>
    Source: next.co.uk  
-   Link: [https://www.next.co.uk/shop/brand-self-0](https://www.next.co.uk/shop/brand-self-0)  
+   Link: <a href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow">https://www.next.co.uk/shop/brand-self-0</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Behavior](https://en.wikipedia.org/wiki/Behavior)  
+   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
 
 20. <a id="endnote-20"></a>
    Source: bct-taxonomy.com  
-   Link: [https://www.bct-taxonomy.com/pdf/StarterPack.pdf](https://www.bct-taxonomy.com/pdf/StarterPack.pdf)  
+   Link: <a href="https://www.bct-taxonomy.com/pdf/StarterPack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/pdf/StarterPack.pdf</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts](https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: How to Train Yourself to be Less Reactive or Impulsive  
-   Link: [https://www.youtube.com/watch?v=QLgH5_mqX28](https://www.youtube.com/watch?v=QLgH5_mqX28)  
+   Link: <a href="https://www.youtube.com/watch?v=QLgH5_mqX28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QLgH5_mqX28</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Break Up With Your Bad Habits (And Stay Accountable to New Habits)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How to Break Up With Your Bad Habits (And Stay Accountable to New Habits)  
-   Link: [https://www.youtube.com/watch?v=FynhVellcCA](https://www.youtube.com/watch?v=FynhVellcCA)  
+   Link: <a href="https://www.youtube.com/watch?v=FynhVellcCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FynhVellcCA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reset That Made My Productivity Insane...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Cognitive Behavioral Therapy  
-   Link: [https://www.youtube.com/watch?v=uUbHGWQYCPg](https://www.youtube.com/watch?v=uUbHGWQYCPg)  
+   Link: <a href="https://www.youtube.com/watch?v=uUbHGWQYCPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uUbHGWQYCPg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Chaos to Clarity: My 4-Step Weekly Review System...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: From Chaos to Clarity: My 4-Step Weekly Review System  
-   Link: [https://www.youtube.com/watch?v=zjKUX7sHEGI](https://www.youtube.com/watch?v=zjKUX7sHEGI)  
+   Link: <a href="https://www.youtube.com/watch?v=zjKUX7sHEGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zjKUX7sHEGI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Train Yourself to be Less Reactive or Impulsive...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review](https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235652465_Does_planning_how_to_cope_with_anticipated_barriers_facilitate_health-related_behavior_change_A_systematic_review</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions](https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions)  
+   Link: <a href="https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants](https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants)  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  

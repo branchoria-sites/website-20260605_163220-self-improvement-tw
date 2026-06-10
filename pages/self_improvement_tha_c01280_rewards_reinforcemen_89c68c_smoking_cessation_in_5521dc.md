@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:21:00'
 parent_title: How to Reward Habits Without Ruining Them | Better Change
 parent_permalink: /rewards/
 parent_nav_short_title: Rewards
@@ -259,7 +260,6 @@ prev_link:
   permalink: /intrinsic-risk/
   short_title: Intrinsic Risk
   heading_title: When Rewards Start to Spoil Motivation
-date: '2026-06-05 16:21:00 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_smoking_cessation_in_5521dc-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_smoking_cessation_in_5521dc-Illustration-1.webp
@@ -272,11 +272,11 @@ Financial incentives for quitting smoking are one of the clearest real-world tes
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_smoking_cessation_in_5521dc-Illustration-1-dark.svg" | relative_url }}" alt="Quit Incentives illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_smoking_cessation_in_5521dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_smoking_cessation_in_5521dc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The evidence increasingly suggests that the answer is yes. Financial incentives do not work for everyone, and they are not a substitute for [motivation]({{ 'motivation/' | relative_url }}), treatment, or [support]({{ 'support/' | relative_url }}). However, well-designed incentive programmes consistently increase long-term quit rates compared with standard care alone. In the wider discussion of rewards versus bribery, smoking cessation provides one of the strongest examples of rewards acting as a useful bridge between immediate effort and distant benefits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-title">Cochrane Library Incentives for smoking cessation</span><span class="citation-popover-snippet">Cochrane LibraryIncentives for smoking cessation - Notley, C - 2019by C Notley · 2019 · Cited by 613 — Overall there is high‐certainty ev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">CochraneCan rewards help people quit smoking, and do they work...13 Jan 2025 — Financial incentives (money, vouchers, or self-deposits)...</span></span></span>
+The evidence increasingly suggests that the answer is yes. Financial incentives do not work for everyone, and they are not a substitute for [motivation]({{ 'motivation/' | relative_url }}), treatment, or [support]({{ 'support/' | relative_url }}). However, well-designed incentive programmes consistently increase long-term quit rates compared with standard care alone. In the wider discussion of rewards versus bribery, smoking cessation provides one of the strongest examples of rewards acting as a useful bridge between immediate effort and distant benefits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-title">Cochrane Library Incentives for smoking cessation</span><span class="citation-popover-snippet">Cochrane LibraryIncentives for smoking cessation - Notley, C - 2019by C Notley · 2019 · Cited by 613 — Overall there is high‐certainty ev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Can rewards help people quit smoking, and do they work...13 Jan 2025 — Financial incentives (money, vouchers, or self-deposits)...</span></span></span>
 
 ## What Smoking Cessation Incentive Studies Find
 
-Research on smoking cessation incentives has accumulated over decades, culminating in large systematic reviews and meta-analyses. The strongest recent evidence comes from Cochrane reviews, which found high-certainty evidence that financial incentives improve smoking cessation rates at follow-up periods of six months or longer. Importantly, the benefits often persist after the incentives themselves have ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-title">Cochrane Library Incentives for smoking cessation</span><span class="citation-popover-snippet">Cochrane LibraryIncentives for smoking cessation - Notley, C - 2019by C Notley · 2019 · Cited by 613 — Overall there is high‐certainty ev...</span></span></span> PubMed One influential workplace study published in the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIncentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</span></span></span>*New England Journal of Medicine* offered employees financial rewards worth up to $750. Participants receiving incentives were substantially more likely to quit smoking and remain abstinent than those receiving standard information and support alone. The programme increased participation in cessation services as well as successful quitting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmsa0806819~a-randomized-controlled-trial-of-financial-incentives-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">A Randomized, Controlled Trial of Financial Incentives...by KG Volpp · 2009 · Cited by 1085 — The financial incentives were $100 for com...</span></span></span> A later trial compared several incentive structures, including straightforward rewards and deposit contracts in which participants risked losing money they had put forward themselves. All incentive approaches outperformed usual care among those who engaged with them. However, reward-based programmes attracted far more participants than deposit-based schemes, making them more effective in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</span></span></span> PubMed This distinction matters. Behavioural economists often note that people are highly motivated to avoid losses <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIncentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</span></span></span>, yet programmes that require participants to risk their own money may be psychologically powerful but less appealing to join. In real-world settings, a slightly less powerful incentive that many people accept may outperform a theoretically stronger one that few people choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</span></span></span>
+Research on smoking cessation incentives has accumulated over decades, culminating in large systematic reviews and meta-analyses. The strongest recent evidence comes from Cochrane reviews, which found high-certainty evidence that financial incentives improve smoking cessation rates at follow-up periods of six months or longer. Importantly, the benefits often persist after the incentives themselves have ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-title">Cochrane Library Incentives for smoking cessation</span><span class="citation-popover-snippet">Cochrane LibraryIncentives for smoking cessation - Notley, C - 2019by C Notley · 2019 · Cited by 613 — Overall there is high‐certainty ev...</span></span></span> PubMed One influential workplace study published in the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Incentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</span></span></span>*New England Journal of Medicine* offered employees financial rewards worth up to $750. Participants receiving incentives were substantially more likely to quit smoking and remain abstinent than those receiving standard information and support alone. The programme increased participation in cessation services as well as successful quitting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmsa0806819~a-randomized-controlled-trial-of-financial-incentives-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">A Randomized, Controlled Trial of Financial Incentives...by KG Volpp · 2009 · Cited by 1085 — The financial incentives were $100 for com...</span></span></span> A later trial compared several incentive structures, including straightforward rewards and deposit contracts in which participants risked losing money they had put forward themselves. All incentive approaches outperformed usual care among those who engaged with them. However, reward-based programmes attracted far more participants than deposit-based schemes, making them more effective in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</span></span></span> PubMed This distinction matters. Behavioural economists often note that people are highly motivated to avoid losses <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Incentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</span></span></span>, yet programmes that require participants to risk their own money may be psychologically powerful but less appealing to join. In real-world settings, a slightly less powerful incentive that many people accept may outperform a theoretically stronger one that few people choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xTkj-7vwcKg" title="Caitlin Notley &quot;Financial incentives for smoking cessation – A Cochrane review&quot; | TOPS #101 | 2/7/25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xTkj-7vwcKg" target="_blank" rel="noopener noreferrer">Caitlin Notley &quot;Financial incentives for smoking cessation – A Cochrane review&quot; | TOPS #101 | 2/7/25</a></p><p class="youtube-embed-meta">Channel: TOPS Tobacco Online Policy Seminar &middot; Views: 101 &middot; Uploaded: February 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xTkj-7vwcKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xTkj-7vwcKg">Open on YouTube</a></p></div></div></div>
@@ -285,7 +285,7 @@ Research on smoking cessation incentives has accumulated over decades, culminati
 
 The evidence is particularly striking in pregnancy, where smoking carries serious risks for both parent and child. Multiple trials have found that financial incentives increase cessation rates during pregnancy. A large Scottish trial reported substantially higher quit rates among women offered incentives than among those receiving standard support alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/350/bmj.h134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Significantly more smokers offered incentives stopped...Read more...</span></span></span>
 
-Recent reviews have strengthened confidence in these findings. Updated analyses indicate that financial rewards improve smoking cessation outcomes during pregnancy and may contribute to better birth outcomes, including higher birth weights. Researchers now describe the evidence in this area as strong enough to support broader implementation discussions rather than simply further proof-of-concept testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIncentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umass.edu/public-health-sciences/news/financial-incentives-help-people-quit-smoking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umass.edu">[UMass Amherst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umass.edu</span><span class="citation-popover-title">financial incentives help people quit smoking</span><span class="citation-popover-snippet">UMass AmherstFinancial Incentives Found to Help People Quit Smoking...14 Jan 2025 — Rewards and financial incentives are successful met...</span></span></span>
+Recent reviews have strengthened confidence in these findings. Updated analyses indicate that financial rewards improve smoking cessation outcomes during pregnancy and may contribute to better birth outcomes, including higher birth weights. Researchers now describe the evidence in this area as strong enough to support broader implementation discussions rather than simply further proof-of-concept testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Incentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umass.edu/public-health-sciences/news/financial-incentives-help-people-quit-smoking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umass.edu">[UMass Amherst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umass.edu</span><span class="citation-popover-title">financial incentives help people quit smoking</span><span class="citation-popover-snippet">UMass AmherstFinancial Incentives Found to Help People Quit Smoking...14 Jan 2025 — Rewards and financial incentives are successful met...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4pPZu8IMks" title="Stranger pays people $1000 to quit smoking - 1000 Excuses #Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4pPZu8IMks" target="_blank" rel="noopener noreferrer">Stranger pays people $1000 to quit smoking - 1000 Excuses #Documentary</a></p><p class="youtube-embed-meta">Channel: Nick Lamb &middot; Views: 1.1K &middot; Uploaded: February 2021 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4pPZu8IMks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4pPZu8IMks">Open on YouTube</a></p></div></div></div>
@@ -319,13 +319,13 @@ A more practical debate concerns implementation. Successful programmes require v
 
 ## What Quit-Smoking Rewards Teach Self-Improvement Plans
 
-Smoking cessation incentives offer an unusually clear lesson about rewards in behaviour change.
+Smoking cessation incentives offer an unusually clear lesson about rewards in [behaviour change]({{ 'behaviour-change/' | relative_url }}).
 
 First, rewards appear most useful when the behaviour is difficult, the benefits are delayed, and the costs of failure are high. Quitting smoking fits all three conditions. The evidence is stronger here than in many lower-stakes self-improvement contexts because the challenge is substantial and measurable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-title">Cochrane Library Incentives for smoking cessation</span><span class="citation-popover-snippet">Cochrane LibraryIncentives for smoking cessation - Notley, C - 2019by C Notley · 2019 · Cited by 613 — Overall there is high‐certainty ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10873947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A recent Cochrane review by Notley et...Read more...</span></span></span>
 
 Second, rewards work best when they reinforce specific actions or outcomes rather than vaguely encouraging good intentions. Smoking cessation programmes reward verified abstinence, not aspirations. The target is concrete, observable, and time-bound. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmsa0806819~a-randomized-controlled-trial-of-financial-incentives-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">A Randomized, Controlled Trial of Financial Incentives...by KG Volpp · 2009 · Cited by 1085 — The financial incentives were $100 for com...</span></span></span>
 
-Third, incentives are often most effective as temporary scaffolding. They help people persist through the period when a new behaviour has not yet become self-sustaining. Once abstinence becomes normal and the benefits of quitting become personally meaningful, the reward can step back. The goal is not lifelong payment but successful transition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIncentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamanetwork.com">[JAMA Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamanetwork.com</span><span class="citation-popover-snippet">Financial Incentives for Smoking Cessation Among...by DE Kendzor · 2024 · Cited by 17 — A 2019 review concluded that offering incentives...</span></span></span>
+Third, incentives are often most effective as temporary scaffolding. They help people persist through the period when a new behaviour has not yet become self-sustaining. Once abstinence becomes normal and the benefits of quitting become personally meaningful, the reward can step back. The goal is not lifelong payment but successful transition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Incentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamanetwork.com">[JAMA Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamanetwork.com</span><span class="citation-popover-snippet">Financial Incentives for Smoking Cessation Among...by DE Kendzor · 2024 · Cited by 17 — A 2019 review concluded that offering incentives...</span></span></span>
 
 For the broader question of “[self improvement that works]({{ 'self-improvement-that-works/' | relative_url }})”, financial incentives for quitting smoking demonstrate that rewards are neither magical nor inherently corrupting. When carefully targeted, verified, and timed, they can help people overcome one of the most difficult behaviour changes studied in modern health research. That makes smoking cessation one of the strongest pieces of evidence that external rewards can reinforce change without simply becoming a bribe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-title">Cochrane Library Incentives for smoking cessation</span><span class="citation-popover-snippet">Cochrane LibraryIncentives for smoking cessation - Notley, C - 2019by C Notley · 2019 · Cited by 613 — Overall there is high‐certainty ev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">featured review incentives smoking cessation 0</span><span class="citation-popover-snippet">Featured Review: Incentives for smoking cessationJul 17, 2019 — Evidence published in the Cochrane Library provides strong evidence that...</span></span></span>
 
@@ -753,227 +753,227 @@ For the broader question of “[self improvement that works]({{ 'self-improvemen
 
 1. <a id="endnote-1"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term](https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CochraneCan rewards help people quit smoking, and do they work...13 Jan 2025 — Financial incentives (money, vouchers, or self-deposits)...</p></details>
+   Link: <a href="https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can rewards help people quit smoking, and do they work...13 Jan 2025 — Financial incentives (money, vouchers, or self-deposits)...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ovid.com  
-   Link: [https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmsa0806819~a-randomized-controlled-trial-of-financial-incentives-for](https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmsa0806819~a-randomized-controlled-trial-of-financial-incentives-for)  
+   Link: <a href="https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmsa0806819~a-randomized-controlled-trial-of-financial-incentives-for" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmsa0806819~a-randomized-controlled-trial-of-financial-incentives-for</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Randomized, Controlled Trial of Financial Incentives...by KG Volpp · 2009 · Cited by 1085 — The financial incentives were $100 for com...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/350/bmj.h134](https://www.bmj.com/content/350/bmj.h134)  
+   Link: <a href="https://www.bmj.com/content/350/bmj.h134" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/350/bmj.h134</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Significantly more smokers offered incentives stopped...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: umass.edu  
    Title: financial incentives help people quit smoking  
-   Link: [https://www.umass.edu/public-health-sciences/news/financial-incentives-help-people-quit-smoking](https://www.umass.edu/public-health-sciences/news/financial-incentives-help-people-quit-smoking)  
+   Link: <a href="https://www.umass.edu/public-health-sciences/news/financial-incentives-help-people-quit-smoking" target="_blank" rel="noopener noreferrer nofollow">https://www.umass.edu/public-health-sciences/news/financial-incentives-help-people-quit-smoking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UMass AmherstFinancial Incentives Found to Help People Quit Smoking...14 Jan 2025 — Rewards and financial incentives are successful met...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: tobaccocontrol.bmj.com  
-   Link: [https://tobaccocontrol.bmj.com/content/early/2025/12/16/tc-2024-059198](https://tobaccocontrol.bmj.com/content/early/2025/12/16/tc-2024-059198)  
+   Link: <a href="https://tobaccocontrol.bmj.com/content/early/2025/12/16/tc-2024-059198" target="_blank" rel="noopener noreferrer nofollow">https://tobaccocontrol.bmj.com/content/early/2025/12/16/tc-2024-059198</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>incentives for smoking cessation among...by L van der Spek · 2025 · Cited by 3 — This systematic review offers new insights into the cha...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tobaccocontrol.bmj.com  
-   Link: [https://tobaccocontrol.bmj.com/content/early/2026/05/12/tc-2024-059198](https://tobaccocontrol.bmj.com/content/early/2026/05/12/tc-2024-059198)  
+   Link: <a href="https://tobaccocontrol.bmj.com/content/early/2026/05/12/tc-2024-059198" target="_blank" rel="noopener noreferrer nofollow">https://tobaccocontrol.bmj.com/content/early/2026/05/12/tc-2024-059198</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tobacco ControlFinancial incentives for smoking cessation among...by L van der Spek · 2025 · Cited by 3 — This systematic review offers...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cochrane.org  
    Title: featured review incentives smoking cessation 0  
-   Link: [https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0](https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0)  
+   Link: <a href="https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Featured Review: Incentives for smoking cessationJul 17, 2019 — Evidence published in the Cochrane Library provides strong evidence that...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/evidence/CD001055_what-types-psychological-and-social-support-programs-help-women-quit-smoking-during-pregnancy](https://www.cochrane.org/evidence/CD001055_what-types-psychological-and-social-support-programs-help-women-quit-smoking-during-pregnancy)  
+   Link: <a href="https://www.cochrane.org/evidence/CD001055_what-types-psychological-and-social-support-programs-help-women-quit-smoking-during-pregnancy" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD001055_what-types-psychological-and-social-support-programs-help-women-quit-smoking-during-pregnancy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What types of psychological and [social support](&amp;#123;&amp;#123; &#x27;social-support/&#x27; | relative_url &amp;#125;&amp;#125;) programs...21 Apr 2026 — Counseling and programs that offer financial rewards for not smo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cochranelibrary.com  
    Title: Cochrane Library Incentives for smoking cessation  
-   Link: [https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full)  
+   Link: <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub6/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cochrane LibraryIncentives for smoking cessation - Notley, C - 2019by C Notley · 2019 · Cited by 613 — Overall there is high‐certainty ev...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31313293/](https://pubmed.ncbi.nlm.nih.gov/31313293/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedIncentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31313293/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31313293/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incentives for smoking cessationby C Notley · 2019 · Cited by 615 — Overall there is high-certainty evidence that incentives improv...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39799985/](https://pubmed.ncbi.nlm.nih.gov/39799985/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedIncentives for smoking cessationby C Notley · 2025 · Cited by 613 — Financial incentives (money, vouchers, or self-deposits) can be...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39799985/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39799985/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incentives for smoking cessationby C Notley · 2025 · Cited by 613 — Financial incentives (money, vouchers, or self-deposits) can be...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nejm.org  
-   Link: [https://www.nejm.org/doi/full/10.1056/NEJMsa0806819](https://www.nejm.org/doi/full/10.1056/NEJMsa0806819)  
+   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa0806819" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMsa0806819</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineA Randomized, Controlled Trial of Financial Incentives for...by KG Volpp · 2009 · Cited by 1086 — In this...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nejm.org  
-   Link: [https://www.nejm.org/doi/full/10.1056/NEJMoa1414293](https://www.nejm.org/doi/full/10.1056/NEJMoa1414293)  
+   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1414293" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMoa1414293</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineRandomized Trial of Four Financial-Incentive Programs for...by SD Halpern · 2015 · Cited by 506 — Reward...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25970009/](https://pubmed.ncbi.nlm.nih.gov/25970009/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25970009/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25970009/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trial of four financial-incentive programs for...by SD Halpern · 2015 · Cited by 505 — Conclusions: Reward-based programs were much more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nejm.org  
-   Link: [https://www.nejm.org/tobacco-use-reduction](https://www.nejm.org/tobacco-use-reduction)  
+   Link: <a href="https://www.nejm.org/tobacco-use-reduction" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/tobacco-use-reduction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineTobacco Use ReductionIn this randomized trial of financial incentives in smokers, both reward-based and de...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nejm.org  
-   Link: [https://www.nejm.org/doi/full/10.1056/NEJMe1503200](https://www.nejm.org/doi/full/10.1056/NEJMe1503200)  
+   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMe1503200" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMe1503200</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineNudging Smokers13 May 2015 — The first is a “deposit program,” in which smokers deposit $150, which they c...</p></details>
    Published: May 2015  
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/?term=40048164](https://pubmed.ncbi.nlm.nih.gov/?term=40048164)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedFinancial Rewards for Smoking Cessation During Pregnancy...3 Mar 2025 — In this meta-analysis, neonates were significantly heavier...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/?term=40048164" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/?term=40048164</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial Rewards for Smoking Cessation During Pregnancy...3 Mar 2025 — In this meta-analysis, neonates were significantly heavier...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10873947/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10873947/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10873947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10873947/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A recent Cochrane review by Notley et...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Financial incentives to stop smoking: Potential  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11241474/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11241474/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby G Valentelyte · 2024 · Cited by 7 — Financial incentives to stop smoking (FISS) programs have been implemented internationall...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11241474/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11241474/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Valentelyte · 2024 · Cited by 7 — Financial incentives to stop smoking (FISS) programs have been implemented internationall...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Incentives for Smoking Cessation During Pregnancy  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7443604/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7443604/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7443604/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7443604/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But these interventions might have possible adverse effects.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theincidentaleconomist.com  
    Title: paying people to quit smoking  
-   Link: [https://theincidentaleconomist.com/wordpress/paying-people-to-quit-smoking/](https://theincidentaleconomist.com/wordpress/paying-people-to-quit-smoking/)  
+   Link: <a href="https://theincidentaleconomist.com/wordpress/paying-people-to-quit-smoking/" target="_blank" rel="noopener noreferrer nofollow">https://theincidentaleconomist.com/wordpress/paying-people-to-quit-smoking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 May 2015 — “Randomized Trial of Four Financial-Incentive Programs for Smoking Cessation“: BACKGROUND: Financial incentives promote man...</p></details>
    Published: May 2015  
 
 22. <a id="endnote-22"></a>
    Source: jamanetwork.com  
-   Link: [https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820672](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820672)  
+   Link: <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820672" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820672</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial Incentives for Smoking Cessation Among...by DE Kendzor · 2024 · Cited by 17 — A 2019 review concluded that offering incentives...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gov.scot  
    Title: Scottish Government8  
-   Link: [https://www.gov.scot/publications/learning-25-years-preventative-interventions-scotland/pages/17/](https://www.gov.scot/publications/learning-25-years-preventative-interventions-scotland/pages/17/)  
+   Link: <a href="https://www.gov.scot/publications/learning-25-years-preventative-interventions-scotland/pages/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/learning-25-years-preventative-interventions-scotland/pages/17/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial Incentives for Smoking Cessation in Pregnancy19 Jun 2025 — This found that financial incentives were successfully integrated in...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3526393/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3526393/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3526393/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3526393/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>incentives for smoking cessation in low-income...by JF Etter · 2012 · Cited by 20 — A recent study showed that financial incentives of u...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK127011/](https://www.ncbi.nlm.nih.gov/books/NBK127011/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK127011/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK127011/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of providing financial incentives to healthcare...The review concluded that financial incentives for healthcare professionals appeared t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: vouchers ($50 monthly or less) for retail items  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30620306/](https://pubmed.ncbi.nlm.nih.gov/30620306/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30620306/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30620306/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>incentives encourage pregnant women to quit...by S Kwon · 2018 — To take just one example: A 2017 meta-analysis published in the Cochran...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5067821/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5067821/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5067821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5067821/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, deposits were relatively more commonly accepted...Read mor...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/19213683/](https://pubmed.ncbi.nlm.nih.gov/19213683/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19213683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19213683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>randomized, controlled trial of financial incentives for...12 Feb 2009 — The financial incentives were $100 for completion of a smoking...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: chti.upenn.edu  
    Title: financial incentives improve smoking cessation  
-   Link: [https://chti.upenn.edu/financial-incentives-improve-smoking-cessation](https://chti.upenn.edu/financial-incentives-improve-smoking-cessation)  
+   Link: <a href="https://chti.upenn.edu/financial-incentives-improve-smoking-cessation" target="_blank" rel="noopener noreferrer nofollow">https://chti.upenn.edu/financial-incentives-improve-smoking-cessation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incentives to Improve Smoking CessationPrevious studies have shown that financial incentives improve abstinence rates, but questions rema...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: jamanetwork.com  
-   Link: [https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831084](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831084)  
+   Link: <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831084" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831084</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial Incentives for Smoking Cessation in Pregnancy...by C Notley · 2025 · Cited by 1 — A randomized controlled trial of financial i...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchportal.ukhsa.gov.uk  
    Title: ukhsa.gov.uk Incentives for smoking cessation  
-   Link: [https://researchportal.ukhsa.gov.uk/en/publications/incentives-for-smoking-cessation/](https://researchportal.ukhsa.gov.uk/en/publications/incentives-for-smoking-cessation/)  
+   Link: <a href="https://researchportal.ukhsa.gov.uk/en/publications/incentives-for-smoking-cessation/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.ukhsa.gov.uk/en/publications/incentives-for-smoking-cessation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for smoking cessation - UKHSA Research Portalby C Notley · 2019 · Cited by 604 — Authors&#x27; conclusions Overall there is high-certainty evi...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ng209/evidence/i-incentives-during-pregnancy-pdf-10890777859](https://www.nice.org.uk/guidance/ng209/evidence/i-incentives-during-pregnancy-pdf-10890777859)  
+   Link: <a href="https://www.nice.org.uk/guidance/ng209/evidence/i-incentives-during-pregnancy-pdf-10890777859" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng209/evidence/i-incentives-during-pregnancy-pdf-10890777859</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[I] Evidence reviews for incentives during pregnancyNICE guideline PH26 previously considered some evidence (3 randomised controlled tria...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: tobaccopreventioncessation.com  
-   Link: [https://www.tobaccopreventioncessation.com/Financial-incentives-to-stop-smoking-Potential-financial-consequences-of-different%2C190617%2C0%2C2.html](https://www.tobaccopreventioncessation.com/Financial-incentives-to-stop-smoking-Potential-financial-consequences-of-different%2C190617%2C0%2C2.html)  
+   Link: <a href="https://www.tobaccopreventioncessation.com/Financial-incentives-to-stop-smoking-Potential-financial-consequences-of-different%2C190617%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tobaccopreventioncessation.com/Financial-incentives-to-stop-smoking-Potential-financial-consequences-of-different%2C190617%2C0%2C2.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tobacco Prevention &amp; CessationFinancial incentives to stop smokingby G Valentelyte · 2024 · Cited by 7 — Higher incentive amounts do not...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: news-medical.net  
-   Link: [https://www.news-medical.net/news/20250113/Financial-incentives-prove-successful-in-supporting-pregnant-smokers-to-quit.aspx](https://www.news-medical.net/news/20250113/Financial-incentives-prove-successful-in-supporting-pregnant-smokers-to-quit.aspx)  
+   Link: <a href="https://www.news-medical.net/news/20250113/Financial-incentives-prove-successful-in-supporting-pregnant-smokers-to-quit.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20250113/Financial-incentives-prove-successful-in-supporting-pregnant-smokers-to-quit.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial incentives prove successful in supporting...13 Jan 2025 — Rewards and financial incentives are successful methods to help peop...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: ilcn.org  
-   Link: [https://www.ilcn.org/financial-incentives-and-free-treatment-aids-for-smoking-cessation-in-the-workplace/](https://www.ilcn.org/financial-incentives-and-free-treatment-aids-for-smoking-cessation-in-the-workplace/)  
+   Link: <a href="https://www.ilcn.org/financial-incentives-and-free-treatment-aids-for-smoking-cessation-in-the-workplace/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcn.org/financial-incentives-and-free-treatment-aids-for-smoking-cessation-in-the-workplace/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t on biochemically verified quitting, resulted in superior sustained 6-month quit rates (9.4% to 16.0%)...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: newswise.com  
    Title: penn study finds that various financial incentives help smokers quit  
-   Link: [https://www.newswise.com/articles/penn-study-finds-that-various-financial-incentives-help-smokers-quit](https://www.newswise.com/articles/penn-study-finds-that-various-financial-incentives-help-smokers-quit)  
+   Link: <a href="https://www.newswise.com/articles/penn-study-finds-that-various-financial-incentives-help-smokers-quit" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/penn-study-finds-that-various-financial-incentives-help-smokers-quit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Penn Study Finds That Various Financial Incentives Help...11 May 2015 — Four different financial incentive programs, each worth roughly...</p></details>
    Published: May 2015  
 
 37. <a id="endnote-37"></a>
    Source: 2minutemedicine.com  
    Title: financial incentive programs significantly improve smoking cessation  
-   Link: [https://www.2minutemedicine.com/financial-incentive-programs-significantly-improve-smoking-cessation/](https://www.2minutemedicine.com/financial-incentive-programs-significantly-improve-smoking-cessation/)  
+   Link: <a href="https://www.2minutemedicine.com/financial-incentive-programs-significantly-improve-smoking-cessation/" target="_blank" rel="noopener noreferrer nofollow">https://www.2minutemedicine.com/financial-incentive-programs-significantly-improve-smoking-cessation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All four financial incentive programs tested led to significantly higher rates of abstinence from smoking at 6 months compared to usual...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: ldi.upenn.edu  
    Title: Penn LDINEJM Paper on Financial Incentives for Smoking Cessation  
-   Link: [https://ldi.upenn.edu/wp-content/uploads/static-pages/50at50/nejm-paper-financial-incentives-smoking-cessation.html](https://ldi.upenn.edu/wp-content/uploads/static-pages/50at50/nejm-paper-financial-incentives-smoking-cessation.html)  
+   Link: <a href="https://ldi.upenn.edu/wp-content/uploads/static-pages/50at50/nejm-paper-financial-incentives-smoking-cessation.html" target="_blank" rel="noopener noreferrer nofollow">https://ldi.upenn.edu/wp-content/uploads/static-pages/50at50/nejm-paper-financial-incentives-smoking-cessation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>financial incentives. In a randomized trial among GE employees, the group found that a bundle of incentives worth $750 nearly tripled smo...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: davidgratzer.com  
    Title: reading of the week smoking cessation incentives the nejm paper  
-   Link: [https://davidgratzer.com/reading-of-the-week/reading-of-the-week-smoking-cessation-incentives-the-nejm-paper/](https://davidgratzer.com/reading-of-the-week/reading-of-the-week-smoking-cessation-incentives-the-nejm-paper/)  
+   Link: <a href="https://davidgratzer.com/reading-of-the-week/reading-of-the-week-smoking-cessation-incentives-the-nejm-paper/" target="_blank" rel="noopener noreferrer nofollow">https://davidgratzer.com/reading-of-the-week/reading-of-the-week-smoking-cessation-incentives-the-nejm-paper/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading of the Week: Smoking Cessation &amp; Incentives21 Jun 2018 — Among participants in the engaged cohort, the rate of sustained smoking...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: medicalxpress.com  
    Title: 2025 01 financial rewards significantly cessation pregnancy  
-   Link: [https://medicalxpress.com/news/2025-01-financial-rewards-significantly-cessation-pregnancy.html](https://medicalxpress.com/news/2025-01-financial-rewards-significantly-cessation-pregnancy.html)  
+   Link: <a href="https://medicalxpress.com/news/2025-01-financial-rewards-significantly-cessation-pregnancy.html" target="_blank" rel="noopener noreferrer nofollow">https://medicalxpress.com/news/2025-01-financial-rewards-significantly-cessation-pregnancy.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial rewards significantly increase smoking cessation...13 Jan 2025 — For every 100 pregnant persons who received financial incenti...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: pharmaceutical-journal.com  
    Title: paying people to quit smoking promotes sustained abstinence  
-   Link: [https://pharmaceutical-journal.com/article/news/paying-people-to-quit-smoking-promotes-sustained-abstinence](https://pharmaceutical-journal.com/article/news/paying-people-to-quit-smoking-promotes-sustained-abstinence)  
+   Link: <a href="https://pharmaceutical-journal.com/article/news/paying-people-to-quit-smoking-promotes-sustained-abstinence" target="_blank" rel="noopener noreferrer nofollow">https://pharmaceutical-journal.com/article/news/paying-people-to-quit-smoking-promotes-sustained-abstinence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paying people to quit smoking promotes sustained...15 May 2015 — Researchers recruited smokers who had a desire to quit into a randomise...</p></details>
    Published: May 2015  

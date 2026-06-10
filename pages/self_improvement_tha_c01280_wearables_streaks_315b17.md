@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:37:17'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /weekly-review/
   short_title: Weekly Review
   heading_title: The Weekly Review That Fixes the Plan
-date: '2026-06-05 14:37:17 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17-overview.webp
@@ -506,13 +506,13 @@ Wearables, streaks and visible [feedback]({{ 'feedback/' | relative_url }}) can 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17-overview.webp" | relative_url }}" alt="Overview image for Wearables" loading="eager" decoding="sync" fetchpriority="high">
-The useful version is humble: feedback should inform the next action, not judge the whole person. Research on goal monitoring finds that tracking progress can improve goal attainment, especially when progress is physically recorded or made visible; wearable tracker reviews also suggest modest but real gains in physical activity. But the same mechanisms can produce anxiety, all-or-nothing thinking, obsessive checking and demotivation after a missed day. The question is not whether tracking is good or bad. It is whether the metric helps the behaviour survive real life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Control theory and other frameworks for understanding self-regulation suggest that monitoring go...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S258975002200111X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEffectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 590 — Our results suggest that in...</span></span></span>
+The useful version is humble: feedback should inform the next action, not judge the whole person. Research on goal monitoring finds that tracking progress can improve goal attainment, especially when progress is physically recorded or made visible; wearable tracker reviews also suggest modest but real gains in physical activity. But the same mechanisms can produce anxiety, all-or-nothing thinking, obsessive checking and demotivation after a missed day. The question is not whether tracking is good or bad. It is whether the metric helps the behaviour survive real life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Control theory and other frameworks for understanding self-regulation suggest that monitoring go...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S258975002200111X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 590 — Our results suggest that in...</span></span></span>
 
 ## Why visible progress can change behaviour
 
 Visible feedback works because it shortens the distance between action and consequence. Many useful behaviours have delayed [rewards]({{ 'rewards/' | relative_url }}): fitness improves slowly, language ability grows unevenly, savings accumulate quietly, and sleep hygiene pays off over weeks. A tracker gives the behaviour a nearer reward: a ring closes, a line rises, a box is ticked, or a streak continues. That does not replace the deeper reason for the habit, but it can keep attention on the behaviour long enough for repetition to happen.
 
-This fits a broader behaviour-change pattern. The Behaviour Change Technique Taxonomy, a widely used framework in behavioural science, separates [techniques]({{ 'techniques/' | relative_url }}) such as self-monitoring, feedback on behaviour, feedback on outcomes, prompts, rewards and [goal setting]({{ 'goal-setting/' | relative_url }}). Wearables and habit apps bundle several of these together: they record behaviour, compare it with a target, display progress, send reminders and sometimes add badges or social comparison. City Research Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[2digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This fits a broader behaviour-change pattern. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy, a widely used framework in behavioural science, separates techniques such as self-monitoring, feedback on behaviour, feedback on outcomes, prompts, rewards and [goal setting]({{ 'goal-setting/' | relative_url }}). Wearables and habit apps bundle several of these together: they record behaviour, compare it with a target, display progress, send reminders and sometimes add badges or social comparison. City Research Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[2digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The strongest general case for visible tracking comes from progress-monitoring research. A Psychological Bulletin meta-analysis found that interventions encouraging people to monitor goal progress promoted goal attainment, with stronger effects when progress was recorded and when results were reported or made public. That does not mean everyone should make their goals public, but it does explain why a visible chart or daily check-in can feel more compelling than a private intention floating in memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Control theory and other frameworks for understanding self-regulation suggest that monitoring go...</span></span></span>
 
@@ -528,7 +528,7 @@ Wearable activity trackers are strongest when the target behaviour is measurable
 
 More recent reviews keep the same cautious tone. A 2025 systematic review and meta-analysis of wearable tracker interventions in community-dwelling older adults found improvements in physical activity with low to moderate certainty, but no significant effect on body composition or physical function. In other words, wearables can help people move more, especially during or soon after an intervention, but wearing a device is not the same as becoming fit, pain-free or metabolically healthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4917727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The distinction matters because wearables are often sold with a halo of precision and control. A tracker can make behaviour visible, but it cannot decide whether the goal is wise. Ten thousand steps may be motivating for one person and unrealistic, irrelevant or unsafe for another. Heart-rate minutes may be more useful than raw steps for some fitness goals, but can still be discouraging for people whose medication, disability, illness, stress or sleep affects their numbers. Fitbit’s own support material notes that its default Active Zone Minutes goal starts at 150 weekly minutes, while also allowing users to change the goal according to their needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/googlehealth/answer/14236509?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The distinction matters because wearables are often sold with a halo of precision and control. A tracker can make behaviour visible, but it cannot decide whether the goal is wise. Ten thousand steps may be motivating for one person and unrealistic, irrelevant or unsafe for another. Heart-rate minutes may be more useful than raw steps for some fitness goals, but can still be discouraging for people whose medication, disability, illness, stress or sleep affects their numbers. Fitbit’s own [support]({{ 'support/' | relative_url }}) material notes that its default Active Zone Minutes goal starts at 150 weekly minutes, while also allowing users to change the goal according to their needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/googlehealth/answer/14236509?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Wearables also struggle with behaviours where quality matters more than quantity. A watch can record that someone slept for seven hours, but not fully explain whether their evening routine, anxiety, alcohol intake, room temperature or work schedule is driving poor rest. A writing tracker can count words, but not whether the writing is honest, clear or useful. A meditation streak can record that the app was opened, but not whether the person is becoming more patient outside the session.
 
@@ -626,7 +626,7 @@ A person who wants to walk more might discover that step counts rise on days whe
 
 This is the difference between feedback and surveillance. Feedback gives information that supports agency. Surveillance creates pressure without improving choice. A wearable should help the user notice, decide and adjust. A streak should help the user return. A dashboard should answer, “What pattern can I change?” rather than “How can I become the kind of person whose graph never dips?”
 
-The practical rule is to choose metrics that make the desired behaviour more likely next week. Keep the ones that clarify action. Soften the ones that create brittle perfectionism. Delete or hide the ones that turn the tool into the task. In self improvement, [visible progress]({{ 'visible-records/' | relative_url }}) is useful only when it remains a servant of the life being improved.
+The practical rule is to choose metrics that make the desired behaviour more likely next week. Keep the ones that clarify action. Soften the ones that create brittle perfectionism. Delete or hide the ones that turn the tool into the task. In self improvement, visible progress is useful only when it remains a servant of the life being improved.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UfRpji0POco" title="Make every minute count with Active Zone Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UfRpji0POco" target="_blank" rel="noopener noreferrer">Make every minute count with Active Zone Minutes</a></p><p class="youtube-embed-meta">Channel: Fitbit &middot; Views: 15.6K &middot; Uploaded: June 2020 &middot; Length: 1 minute 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UfRpji0POco" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UfRpji0POco">Open on YouTube</a></p></div></div></div>
@@ -1053,188 +1053,188 @@ The practical rule is to choose metrics that make the desired behaviour more lik
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S258975002200111X](https://www.sciencedirect.com/science/article/pii/S258975002200111X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEffectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 590 — Our results suggest that in...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S258975002200111X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S258975002200111X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 590 — Our results suggest that in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: knowledge.insead.edu  
    Title: consumer streaks are motivating key keeping them alive  
-   Link: [https://knowledge.insead.edu/marketing/consumer-streaks-are-motivating-key-keeping-them-alive](https://knowledge.insead.edu/marketing/consumer-streaks-are-motivating-key-keeping-them-alive)  
+   Link: <a href="https://knowledge.insead.edu/marketing/consumer-streaks-are-motivating-key-keeping-them-alive" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.insead.edu/marketing/consumer-streaks-are-motivating-key-keeping-them-alive</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>INSEAD KnowledgeConsumer Streaks Are Motivating – The Key Is Keeping...22 Jun 2022 — We found that participants with an intact logged st...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos](https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos)  
+   Link: <a href="https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos</a>  
 
 5. <a id="endnote-5"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/googlehealth/answer/14236509?hl=en](https://support.google.com/googlehealth/answer/14236509?hl=en)  
+   Link: <a href="https://support.google.com/googlehealth/answer/14236509?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/googlehealth/answer/14236509?hl=en</a>  
 
 6. <a id="endnote-6"></a>
    Source: community.fitbit.com  
    Title: Community Allow to customize Active Zone Minutes Goals  
-   Link: [https://community.fitbit.com/t5/Product-Feedback/Allow-to-customize-Active-Zone-Minutes-Goals/idi-p/4459977/page/4](https://community.fitbit.com/t5/Product-Feedback/Allow-to-customize-Active-Zone-Minutes-Goals/idi-p/4459977/page/4)  
+   Link: <a href="https://community.fitbit.com/t5/Product-Feedback/Allow-to-customize-Active-Zone-Minutes-Goals/idi-p/4459977/page/4" target="_blank" rel="noopener noreferrer nofollow">https://community.fitbit.com/t5/Product-Feedback/Allow-to-customize-Active-Zone-Minutes-Goals/idi-p/4459977/page/4</a>  
 
 7. <a id="endnote-7"></a>
    Source: duolingo.com  
    Title: Help Center  
-   Link: [https://www.duolingo.com/help/what-is-a-streak](https://www.duolingo.com/help/what-is-a-streak)  
+   Link: <a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
 
 8. <a id="endnote-8"></a>
    Source: blog.duolingo.com  
    Title: how duolingo streak builds habit  
-   Link: [https://blog.duolingo.com/how-duolingo-streak-builds-habit/](https://blog.duolingo.com/how-duolingo-streak-builds-habit/)  
+   Link: <a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
 
 9. <a id="endnote-9"></a>
    Source: apple.com  
-   Link: [https://www.apple.com/uk/watch/close-your-rings/](https://www.apple.com/uk/watch/close-your-rings/)  
+   Link: <a href="https://www.apple.com/uk/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/watch/close-your-rings/</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1386505621001131](https://www.sciencedirect.com/science/article/abs/pii/S1386505621001131)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1386505621001131" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1386505621001131</a>  
 
 11. <a id="endnote-11"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/255646346](https://discussions.apple.com/thread/255646346)  
+   Link: <a href="https://discussions.apple.com/thread/255646346" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255646346</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563219300275](https://www.sciencedirect.com/science/article/abs/pii/S0747563219300275)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563219300275" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563219300275</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0749597825000032](https://www.sciencedirect.com/science/article/pii/S0749597825000032)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749597825000032" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597825000032</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 750 — Control theory and other frameworks for understanding self-regulation suggest that monitoring go...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4917727/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4917727/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4917727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4917727/</a>  
 
 17. <a id="endnote-17"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext</a>  
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12006780/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12006780/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12006780/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12006780/</a>  
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/</a>  
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/37318806/](https://pubmed.ncbi.nlm.nih.gov/37318806/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37318806/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37318806/</a>  
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35868813/](https://pubmed.ncbi.nlm.nih.gov/35868813/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35868813/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35868813/</a>  
 
 22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33036635/](https://pubmed.ncbi.nlm.nih.gov/33036635/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33036635/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33036635/</a>  
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f](https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f)  
+   Link: <a href="https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f</a>  
 
 24. <a id="endnote-24"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2824%2900139-0/fulltext](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2824%2900139-0/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2824%2900139-0/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2824%2900139-0/fulltext</a>  
 
 25. <a id="endnote-25"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/cms/10.1016/S2589-7500%2824%2900139-0/attachment/a52b8b0a-c07e-4993-87d3-8e6a6b000b75/mmc1.pdf](https://www.thelancet.com/cms/10.1016/S2589-7500%2824%2900139-0/attachment/a52b8b0a-c07e-4993-87d3-8e6a6b000b75/mmc1.pdf)  
+   Link: <a href="https://www.thelancet.com/cms/10.1016/S2589-7500%2824%2900139-0/attachment/a52b8b0a-c07e-4993-87d3-8e6a6b000b75/mmc1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/cms/10.1016/S2589-7500%2824%2900139-0/attachment/a52b8b0a-c07e-4993-87d3-8e6a6b000b75/mmc1.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: duolingo.fandom.com  
    Title: Streak Society  
-   Link: [https://duolingo.fandom.com/wiki/Streak_Society](https://duolingo.fandom.com/wiki/Streak_Society)  
+   Link: <a href="https://duolingo.fandom.com/wiki/Streak_Society" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak_Society</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=50-fQwVCIq8](https://www.youtube.com/watch?v=50-fQwVCIq8)  
+   Link: <a href="https://www.youtube.com/watch?v=50-fQwVCIq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=50-fQwVCIq8</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UfRpji0POco](https://www.youtube.com/watch?v=UfRpji0POco)  
+   Link: <a href="https://www.youtube.com/watch?v=UfRpji0POco" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfRpji0POco</a>  
 
 29. <a id="endnote-29"></a>
    Source: psychiatry.ucsd.edu  
    Title: goal progress  
-   Link: [https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html](https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html)  
+   Link: <a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: duolingo.deconstructoroffun.com  
-   Link: [https://duolingo.deconstructoroffun.com/mechanics/streaks](https://duolingo.deconstructoroffun.com/mechanics/streaks)  
+   Link: <a href="https://duolingo.deconstructoroffun.com/mechanics/streaks" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.deconstructoroffun.com/mechanics/streaks</a>  
 
 31. <a id="endnote-31"></a>
    Source: scienceforwork.com  
    Title: goal monitoring  
-   Link: [https://scienceforwork.com/blog/goal-monitoring/](https://scienceforwork.com/blog/goal-monitoring/)  
+   Link: <a href="https://scienceforwork.com/blog/goal-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://scienceforwork.com/blog/goal-monitoring/</a>  
 
 32. <a id="endnote-32"></a>
    Source: biancawu.co  
-   Link: [https://biancawu.co/project/duolingo-2](https://biancawu.co/project/duolingo-2)  
+   Link: <a href="https://biancawu.co/project/duolingo-2" target="_blank" rel="noopener noreferrer nofollow">https://biancawu.co/project/duolingo-2</a>  
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Gamification Using “Science of Habit Cycle” to Transform User Behavior  
-   Link: [https://www.youtube.com/watch?v=IK-7mM_I8t8](https://www.youtube.com/watch?v=IK-7mM_I8t8)  
+   Link: <a href="https://www.youtube.com/watch?v=IK-7mM_I8t8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IK-7mM_I8t8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Efficiency Trap - The Algorithmic Script: Habit Formation and the Digital Self Cosmic Runebound · 7 views...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: The Problem with Habit Trackers (And What to Do Instead)  
-   Link: [https://www.youtube.com/watch?v=nfRZPf_6a1c](https://www.youtube.com/watch?v=nfRZPf_6a1c)  
+   Link: <a href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nfRZPf_6a1c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I’ve Been Tracking My Habits Wrong (what I’m changing in 2026)...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Your Fitness Tracker Is Controlling You  
-   Link: [https://www.youtube.com/watch?v=gh2lZrz-Rcs](https://www.youtube.com/watch?v=gh2lZrz-Rcs)  
+   Link: <a href="https://www.youtube.com/watch?v=gh2lZrz-Rcs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gh2lZrz-Rcs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification Using “Science of Habit Cycle” to Transform User Behavior...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/346123100_The_effects_of_step-count_monitoring_interventions_on_physical_activity_Systematic_review_and_meta-analysis_of_community-based_randomised_controlled_trials_in_adults](https://www.researchgate.net/publication/346123100_The_effects_of_step-count_monitoring_interventions_on_physical_activity_Systematic_review_and_meta-analysis_of_community-based_randomised_controlled_trials_in_adults)  
+   Link: <a href="https://www.researchgate.net/publication/346123100_The_effects_of_step-count_monitoring_interventions_on_physical_activity_Systematic_review_and_meta-analysis_of_community-based_randomised_controlled_trials_in_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346123100_The_effects_of_step-count_monitoring_interventions_on_physical_activity_Systematic_review_and_meta-analysis_of_community-based_randomised_controlled_trials_in_adults</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review](https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review</a>  
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353356988_Interventions_Using_Wearable_Physical_Activity_Trackers_Among_Adults_With_Cardiometabolic_Conditions_A_Systematic_Review_and_Meta-analysis](https://www.researchgate.net/publication/353356988_Interventions_Using_Wearable_Physical_Activity_Trackers_Among_Adults_With_Cardiometabolic_Conditions_A_Systematic_Review_and_Meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/353356988_Interventions_Using_Wearable_Physical_Activity_Trackers_Among_Adults_With_Cardiometabolic_Conditions_A_Systematic_Review_and_Meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353356988_Interventions_Using_Wearable_Physical_Activity_Trackers_Among_Adults_With_Cardiometabolic_Conditions_A_Systematic_Review_and_Meta-analysis</a>  
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371001917_The_effectiveness_of_wearable_activity_trackers_for_increasing_physical_activity_and_reducing_sedentary_time_in_older_adults_A_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/371001917_The_effectiveness_of_wearable_activity_trackers_for_increasing_physical_activity_and_reducing_sedentary_time_in_older_adults_A_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/371001917_The_effectiveness_of_wearable_activity_trackers_for_increasing_physical_activity_and_reducing_sedentary_time_in_older_adults_A_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371001917_The_effectiveness_of_wearable_activity_trackers_for_increasing_physical_activity_and_reducing_sedentary_time_in_older_adults_A_systematic_review_and_meta-analysis</a>  
 
 40. <a id="endnote-40"></a>
    Source: medium.com  
-   Link: [https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730](https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730)  
+   Link: <a href="https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScientificAmerican/posts/a-streak-can-motivate-you-to-keep-up-with-behaviors-ranging-from-praying-to-runn/764684518863156/](https://www.facebook.com/ScientificAmerican/posts/a-streak-can-motivate-you-to-keep-up-with-behaviors-ranging-from-praying-to-runn/764684518863156/)  
+   Link: <a href="https://www.facebook.com/ScientificAmerican/posts/a-streak-can-motivate-you-to-keep-up-with-behaviors-ranging-from-praying-to-runn/764684518863156/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScientificAmerican/posts/a-streak-can-motivate-you-to-keep-up-with-behaviors-ranging-from-praying-to-runn/764684518863156/</a>  
 
 42. <a id="endnote-42"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AppleFitnessPlus/comments/1dd2qpl/apple_is_finally_going_to_allow_us_to_pause_rings/](https://www.reddit.com/r/AppleFitnessPlus/comments/1dd2qpl/apple_is_finally_going_to_allow_us_to_pause_rings/)  
+   Link: <a href="https://www.reddit.com/r/AppleFitnessPlus/comments/1dd2qpl/apple_is_finally_going_to_allow_us_to_pause_rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AppleFitnessPlus/comments/1dd2qpl/apple_is_finally_going_to_allow_us_to_pause_rings/</a>  

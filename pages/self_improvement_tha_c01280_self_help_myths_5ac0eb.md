@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:33:11'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /sleep-first/
   short_title: Sleep First
   heading_title: How to Stop the Next Episode Trap
-date: '2026-06-05 14:33:11 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-overview.webp
@@ -502,7 +502,7 @@ image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-overvie
 
 ## Introduction
 
-The self-help industry keeps selling a seductive idea: that change can be dramatic, fast and mostly internal. Buy the book, attend the seminar, repeat the mantra, reset your identity, and a new life should begin. The more reliable evidence points in a less glamorous direction. [Self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) usually depends on [specific behaviours]({{ 'goal-setting/' | relative_url }}), repeated in stable contexts, supported by feedback, planning, environment design and enough time for the behaviour to become easier. Behaviour-change researchers have even built taxonomies to describe these “active ingredients” more precisely, rather than treating inspiration as a method in itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhi.ac.uk">[DHI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhi.ac.uk</span><span class="citation-popover-title">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span><span class="citation-popover-snippet">July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</span><span class="citation-popover-meta">Published: July 10, 2013</span></span></span>
+The self-help industry keeps selling a seductive idea: that change can be dramatic, fast and mostly internal. Buy the book, attend the seminar, repeat the mantra, reset your identity, and a new life should begin. The more reliable evidence points in a less glamorous direction. [Self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) usually depends on specific behaviours, repeated in stable contexts, supported by feedback, planning, [environment]({{ 'environment/' | relative_url }}) design and enough time for the behaviour to become easier. Behaviour-change researchers have even built taxonomies to describe these “active ingredients” more precisely, rather than treating inspiration as a method in itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhi.ac.uk">[DHI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhi.ac.uk</span><span class="citation-popover-title">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span><span class="citation-popover-snippet">July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</span><span class="citation-popover-meta">Published: July 10, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-overview.webp" | relative_url }}" alt="Overview image for Self Help Myths" loading="eager" decoding="sync" fetchpriority="high">
@@ -683,7 +683,7 @@ A better promise would sound more modest: change is possible, but it is usually 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -693,111 +693,36 @@ A better promise would sound more modest: change is possible, but it is usually 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -805,15 +730,15 @@ A better promise would sound more modest: change is possible, but it is usually 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -821,15 +746,15 @@ A better promise would sound more modest: change is possible, but it is usually 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -837,15 +762,15 @@ A better promise would sound more modest: change is possible, but it is usually 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -853,7 +778,7 @@ A better promise would sound more modest: change is possible, but it is usually 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-help-myths-which-self-help-promises-should-you-doubt-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="which-self-help-promises-should-you-doubt-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -930,17 +855,31 @@ A better promise would sound more modest: change is possible, but it is usually 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -953,42 +892,73 @@ A better promise would sound more modest: change is possible, but it is usually 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1003,200 +973,204 @@ A better promise would sound more modest: change is possible, but it is usually 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: dhi.ac.uk  
    Title: DHIThe Behavior Change Technique Taxonomy (v1) of 93  
-   Link: [https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf](https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf)  
+   Link: <a href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</p></details>
    Published: July 10, 2013  
 
 2. <a id="endnote-2"></a>
    Source: infed.org  
    Title: Arguing for the importance of character, thrift and perseverance, the book also  
-   Link: [https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/](https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/)  
+   Link: <a href="https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/" target="_blank" rel="noopener noreferrer nofollow">https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Samuel Smiles: Self help with illustrations of character...Samuel Smiles&#x27;s Self-Help is said to have reflected the spirit of its age...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: [https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
 
 4. <a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK77075/](https://www.ncbi.nlm.nih.gov/books/NBK77075/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK77075/</a>  
 
 5. <a id="endnote-5"></a>
    Source: esmarildad.medium.com  
    Title: the self help hoax why you remain stuck 6cf6d33f07cd  
-   Link: [https://esmarildad.medium.com/the-self-help-hoax-why-you-remain-stuck-6cf6d33f07cd](https://esmarildad.medium.com/the-self-help-hoax-why-you-remain-stuck-6cf6d33f07cd)  
+   Link: <a href="https://esmarildad.medium.com/the-self-help-hoax-why-you-remain-stuck-6cf6d33f07cd" target="_blank" rel="noopener noreferrer nofollow">https://esmarildad.medium.com/the-self-help-hoax-why-you-remain-stuck-6cf6d33f07cd</a>  
 
 6. <a id="endnote-6"></a>
    Source: booksmyrefuge.medium.com  
    Title: the dark reality behind the self help industry 0dd3acd31dd5  
-   Link: [https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5](https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5)  
+   Link: <a href="https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5" target="_blank" rel="noopener noreferrer nofollow">https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5</a>  
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
-   Link: [https://medium.com/swlh/when-a-skeptical-behavioural-scientist-goes-to-a-tony-robbins-event-e122062798f4](https://medium.com/swlh/when-a-skeptical-behavioural-scientist-goes-to-a-tony-robbins-event-e122062798f4)  
+   Link: <a href="https://medium.com/swlh/when-a-skeptical-behavioural-scientist-goes-to-a-tony-robbins-event-e122062798f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/swlh/when-a-skeptical-behavioural-scientist-goes-to-a-tony-robbins-event-e122062798f4</a>  
 
 8. <a id="endnote-8"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d](https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d)  
+   Link: <a href="https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d</a>  
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
    Title: the myth 21 days to change habits 1983c419faf7  
-   Link: [https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7](https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7)  
+   Link: <a href="https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7</a>  
 
 10. <a id="endnote-10"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business](https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business)  
+   Link: <a href="https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business</a>  
 
 11. <a id="endnote-11"></a>
    Source: grandviewresearch.com  
    Title: personal development market  
-   Link: [https://www.grandviewresearch.com/industry-analysis/personal-development-market](https://www.grandviewresearch.com/industry-analysis/personal-development-market)  
+   Link: <a href="https://www.grandviewresearch.com/industry-analysis/personal-development-market" target="_blank" rel="noopener noreferrer nofollow">https://www.grandviewresearch.com/industry-analysis/personal-development-market</a>  
 
 12. <a id="endnote-12"></a>
    Source: tonyrobbins.com  
-   Link: [https://www.tonyrobbins.com/](https://www.tonyrobbins.com/)  
+   Link: <a href="https://www.tonyrobbins.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/</a>  
 
 13. <a id="endnote-13"></a>
    Source: tonyrobbins.com  
-   Link: [https://www.tonyrobbins.com/events-calendar](https://www.tonyrobbins.com/events-calendar)  
+   Link: <a href="https://www.tonyrobbins.com/events-calendar" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/events-calendar</a>  
 
 14. <a id="endnote-14"></a>
    Source: jamesclear.com  
    Title: James Clear How Long Does it Take to Form a Habit? Backed by Science  
-   Link: [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit)  
+   Link: <a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
 
 15. <a id="endnote-15"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
 
 16. <a id="endnote-16"></a>
    Source: socmot.uni-konstanz.de  
    Title: Social Psychology and Motivation E!ective self-regulation of goal attainment  
-   Link: [https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf](https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf)  
+   Link: <a href="https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: newyorker.com  
    Title: The New Yorker Power Lines  
-   Link: [https://www.newyorker.com/magazine/2010/09/13/power-lines-2](https://www.newyorker.com/magazine/2010/09/13/power-lines-2)  
+   Link: <a href="https://www.newyorker.com/magazine/2010/09/13/power-lines-2" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2010/09/13/power-lines-2</a>  
 
 18. <a id="endnote-18"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/culture/the-new-yorker-interview/barbara-ehrenreich-is-not-an-optimist-but-she-has-hope-for-the-future](https://www.newyorker.com/culture/the-new-yorker-interview/barbara-ehrenreich-is-not-an-optimist-but-she-has-hope-for-the-future)  
+   Link: <a href="https://www.newyorker.com/culture/the-new-yorker-interview/barbara-ehrenreich-is-not-an-optimist-but-she-has-hope-for-the-future" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-new-yorker-interview/barbara-ehrenreich-is-not-an-optimist-but-she-has-hope-for-the-future</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ehrenreich discusses solidarity, societal resilience, and her critique of the professional-managerial class&#x27;s (P.M.C.) role in perpetuati...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: Gabriele OETTINGEN  
-   Link: [https://www.researchgate.net/profile/Gabriele-Oettingen/2](https://www.researchgate.net/profile/Gabriele-Oettingen/2)  
+   Link: <a href="https://www.researchgate.net/profile/Gabriele-Oettingen/2" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gabriele-Oettingen/2</a>  
 
 20. <a id="endnote-20"></a>
    Source: dev.mrarch.com  
    Title: tony robbins controversy  
-   Link: [https://dev.mrarch.com/story/9TW/384/xOknqZ/tony_robbins_controversy](https://dev.mrarch.com/story/9TW/384/xOknqZ/tony_robbins_controversy)  
+   Link: <a href="https://dev.mrarch.com/story/9TW/384/xOknqZ/tony_robbins_controversy" target="_blank" rel="noopener noreferrer nofollow">https://dev.mrarch.com/story/9TW/384/xOknqZ/tony_robbins_controversy</a>  
 
 21. <a id="endnote-21"></a>
    Source: lessfoolish.substack.com  
    Title: tony robbins a less foolish review  
-   Link: [https://lessfoolish.substack.com/p/tony-robbins-a-less-foolish-review](https://lessfoolish.substack.com/p/tony-robbins-a-less-foolish-review)  
+   Link: <a href="https://lessfoolish.substack.com/p/tony-robbins-a-less-foolish-review" target="_blank" rel="noopener noreferrer nofollow">https://lessfoolish.substack.com/p/tony-robbins-a-less-foolish-review</a>  
 
 22. <a id="endnote-22"></a>
    Source: as.nyu.edu  
    Title: gabriele oettingen  
-   Link: [https://as.nyu.edu/faculty/gabriele-oettingen.html](https://as.nyu.edu/faculty/gabriele-oettingen.html)  
+   Link: <a href="https://as.nyu.edu/faculty/gabriele-oettingen.html" target="_blank" rel="noopener noreferrer nofollow">https://as.nyu.edu/faculty/gabriele-oettingen.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: gminsights.com  
    Title: personal development market  
-   Link: [https://www.gminsights.com/industry-analysis/personal-development-market](https://www.gminsights.com/industry-analysis/personal-development-market)  
+   Link: <a href="https://www.gminsights.com/industry-analysis/personal-development-market" target="_blank" rel="noopener noreferrer nofollow">https://www.gminsights.com/industry-analysis/personal-development-market</a>  
 
 24. <a id="endnote-24"></a>
    Source: journal.aleftrust.org  
-   Link: [https://www.journal.aleftrust.org/index.php/cstp/article/view/26/34](https://www.journal.aleftrust.org/index.php/cstp/article/view/26/34)  
+   Link: <a href="https://www.journal.aleftrust.org/index.php/cstp/article/view/26/34" target="_blank" rel="noopener noreferrer nofollow">https://www.journal.aleftrust.org/index.php/cstp/article/view/26/34</a>  
 
 25. <a id="endnote-25"></a>
    Source: tonyrobbins.com  
-   Link: [https://www.tonyrobbins.com/events/unleash-the-power-within](https://www.tonyrobbins.com/events/unleash-the-power-within)  
+   Link: <a href="https://www.tonyrobbins.com/events/unleash-the-power-within" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/events/unleash-the-power-within</a>  
 
 26. <a id="endnote-26"></a>
    Source: bookbrowse.com  
-   Link: [https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/4247/brightsided](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/4247/brightsided)  
+   Link: <a href="https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/4247/brightsided" target="_blank" rel="noopener noreferrer nofollow">https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/4247/brightsided</a>  
 
 27. <a id="endnote-27"></a>
    Source: jasonconnell.co  
-   Link: [https://jasonconnell.co/tony/](https://jasonconnell.co/tony/)  
+   Link: <a href="https://jasonconnell.co/tony/" target="_blank" rel="noopener noreferrer nofollow">https://jasonconnell.co/tony/</a>  
 
 28. <a id="endnote-28"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/4048406](https://www.jstor.org/stable/4048406)  
+   Link: <a href="https://www.jstor.org/stable/4048406" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/4048406</a>  
 
 29. <a id="endnote-29"></a>
    Source: trustpilot.com  
-   Link: [https://www.trustpilot.com/review/tonyrobbins.com?page=4](https://www.trustpilot.com/review/tonyrobbins.com?page=4)  
+   Link: <a href="https://www.trustpilot.com/review/tonyrobbins.com?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.trustpilot.com/review/tonyrobbins.com?page=4</a>  
 
 30. <a id="endnote-30"></a>
    Source: mentalsymmetry.com  
-   Link: [https://www.mentalsymmetry.com/robbins.htm](https://www.mentalsymmetry.com/robbins.htm)  
+   Link: <a href="https://www.mentalsymmetry.com/robbins.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalsymmetry.com/robbins.htm</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Dangerous Myth of Self-Improvement  
-   Link: [https://www.youtube.com/watch?v=vPWnNG5FQvo](https://www.youtube.com/watch?v=vPWnNG5FQvo)  
+   Link: <a href="https://www.youtube.com/watch?v=vPWnNG5FQvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vPWnNG5FQvo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Toxic World of Self Help: Hustle Culture, Toxic Positivity, Addiction, and Fake Gurus...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: ore.exeter.ac.uk  
-   Link: [https://ore.exeter.ac.uk/ndownloader/files/56708903](https://ore.exeter.ac.uk/ndownloader/files/56708903)  
+   Link: <a href="https://ore.exeter.ac.uk/ndownloader/files/56708903" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/ndownloader/files/56708903</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of ExeterMichie, Abraham et al (2009) Effective techniquesby S Michie · Cited by 2889 — In conclusion, our analyses offer clea...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review](https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review)  
+   Link: <a href="https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/355380169_Understanding_attendees%27_transformative_experiences_following_Tony_Robbins%27s_Unleash_the_Power_Within_seminars](https://www.researchgate.net/publication/355380169_Understanding_attendees%27_transformative_experiences_following_Tony_Robbins%27s_Unleash_the_Power_Within_seminars)  
+   Link: <a href="https://www.researchgate.net/publication/355380169_Understanding_attendees%27_transformative_experiences_following_Tony_Robbins%27s_Unleash_the_Power_Within_seminars" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355380169_Understanding_attendees%27_transformative_experiences_following_Tony_Robbins%27s_Unleash_the_Power_Within_seminars</a>  
 
 36. <a id="endnote-36"></a>
    Source: assistpt.com  
-   Link: [https://assistpt.com/21-days-to-break-a-habit-myth/](https://assistpt.com/21-days-to-break-a-habit-myth/)  
+   Link: <a href="https://assistpt.com/21-days-to-break-a-habit-myth/" target="_blank" rel="noopener noreferrer nofollow">https://assistpt.com/21-days-to-break-a-habit-myth/</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants](https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants)  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry](https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry)  
+   Link: <a href="https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry</a>  
 
 39. <a id="endnote-39"></a>
    Source: uploads-ssl.webflow.com  
-   Link: [https://uploads-ssl.webflow.com/59faaf5b01b9500001e95457/5bc55b08a8a9d854aace2c9f_Duckworth%2C%20A.%20L.%2C%20Kirby%2C%20T.%20A.%2C%20Gollwitzer%2C%20A.%2C%20%26%20Oettingen%2C%20G.%202013.pdf](https://uploads-ssl.webflow.com/59faaf5b01b9500001e95457/5bc55b08a8a9d854aace2c9f_Duckworth%2C%20A.%20L.%2C%20Kirby%2C%20T.%20A.%2C%20Gollwitzer%2C%20A.%2C%20%26%20Oettingen%2C%20G.%202013.pdf)  
+   Link: <a href="https://uploads-ssl.webflow.com/59faaf5b01b9500001e95457/5bc55b08a8a9d854aace2c9f_Duckworth%2C%20A.%20L.%2C%20Kirby%2C%20T.%20A.%2C%20Gollwitzer%2C%20A.%2C%20%26%20Oettingen%2C%20G.%202013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uploads-ssl.webflow.com/59faaf5b01b9500001e95457/5bc55b08a8a9d854aace2c9f_Duckworth%2C%20A.%20L.%2C%20Kirby%2C%20T.%20A.%2C%20Gollwitzer%2C%20A.%2C%20%26%20Oettingen%2C%20G.%202013.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions](https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions</a>  

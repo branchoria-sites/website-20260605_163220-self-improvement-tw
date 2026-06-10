@@ -294,30 +294,30 @@ The strongest evidence from habit research points to repetition as the foundatio
 
 This is why identity labels help most when they are earned through evidence. A person who has completed ten short runs possesses evidence that supports the label “runner”. A person who has written every morning for two weeks possesses evidence that supports the label “writer”. The label becomes credible because it reflects observable behaviour.
 
-Research by Bas Verplanken and colleagues suggests that habits and identity can become closely connected. Motivations linked to identity may encourage repeated action, while repeated actions can themselves become integrated into identity. In other words, identity and habit reinforce each other, but the reinforcement loop depends on actual behaviour occurring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
+Research by Bas Verplanken and colleagues suggests that habits and identity can become closely connected. Motivations linked to identity may encourage repeated action, while repeated actions can themselves become integrated into identity. In other words, identity and habit reinforce each other, but the reinforcement loop depends on actual behaviour occurring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
 
 This helps explain why identity declarations alone often fail. Saying “I am a healthy person” creates little lasting change if eating patterns, routines and environments remain unchanged. The brain receives contradictory evidence. Over time, observable actions usually outweigh aspirational labels.
 
-A practical rule is simple: treat behaviour as proof. Every repetition becomes a small vote for an identity. This idea is popular in habit literature because it aligns with a broader psychological principle: people often infer aspects of who they are from what they repeatedly do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumIdentity-Based Habits: How to Actually Stick to Your GoalsThe key to building lasting habits is focusing on creating a new identity...</span></span></span>
+A practical rule is simple: treat behaviour as proof. Every repetition becomes a small vote for an identity. This idea is popular in habit literature because it aligns with a broader psychological principle: people often infer aspects of who they are from what they repeatedly do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Identity-Based Habits: How to Actually Stick to Your GoalsThe key to building lasting habits is focusing on creating a new identity...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yULiCnWwKTM" title="James Clear on building identity-based habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yULiCnWwKTM" target="_blank" rel="noopener noreferrer">James Clear on building identity-based habits</a></p><p class="youtube-embed-meta">Channel: Alex Sugg &middot; Views: 12.3K &middot; Uploaded: November 2021 &middot; Length: 4 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yULiCnWwKTM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yULiCnWwKTM">Open on YouTube</a></p></div></div></div>
 
 ## How identity labels strengthen habits after the first wins
 
-Once some [behavioural evidence]({{ 'proof-first/' | relative_url }}) exists, identity labels can begin to provide benefits that go beyond [motivation]({{ 'motivation/' | relative_url }}).
+Once some behavioural evidence exists, identity labels can begin to provide benefits that go beyond [motivation]({{ 'motivation/' | relative_url }}).
 
 ### They make consistency more valuable
 
 When behaviour is tied to identity, consistency carries extra meaning. A missed workout is no longer just a missed workout; it becomes a moment that feels inconsistent with the kind of person someone wants to be. This does not guarantee perfect adherence, but it can increase the desire to return quickly to the habit.
 
-The effect is often visible in long-term exercisers. Many continue training even when enthusiasm fluctuates because exercise has become part of their identity, not merely a project with a finish line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3079278/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIdentity-based motivation: Implications for intervention</span><span class="citation-popover-snippet">PMCby D Oyserman · 2010 · Cited by 913 — The identity-based motivation model predicts that what an identity means, and therefore what is...</span></span></span>
+The effect is often visible in long-term exercisers. Many continue training even when enthusiasm fluctuates because exercise has become part of their identity, not merely a project with a finish line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3079278/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIdentity-based motivation: Implications for intervention</span><span class="citation-popover-snippet">by D Oyserman · 2010 · Cited by 913 — The identity-based motivation model predicts that what an identity means, and therefore what is...</span></span></span>
 
 ### They help habits survive after goals are achieved
 
 Goals end. Identities do not.
 
-Someone training for a 10-kilometre race may stop running after the event if running was only a means to an outcome. Someone who sees themselves as a runner has a reason to continue once the goal disappears. Identity can therefore help maintain behaviours after [external incentives]({{ 'intrinsic-risk/' | relative_url }}) fade. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</span></span></span>
+Someone training for a 10-kilometre race may stop running after the event if running was only a means to an outcome. Someone who sees themselves as a runner has a reason to continue once the goal disappears. Identity can therefore help maintain behaviours after external incentives fade. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-2-dark.svg" | relative_url }}" alt="Identity labels illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,7 +325,7 @@ Someone training for a 10-kilometre race may stop running after the event if run
 
 Identity labels can influence multiple related behaviours at once. A person who adopts the identity of “someone who takes care of their health” may find it easier to exercise, sleep adequately and prepare nutritious meals because those actions support the same self-concept.
 
-This does not mean identity automatically produces good choices. Identity-based motivation research notes that identities are flexible and context-dependent. What feels identity-congruent can vary from moment to moment. The advantage comes when a useful identity is repeatedly reinforced through action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 54 — A habit is defined as a learned actio...</span></span></span>
+This does not mean identity automatically produces good choices. Identity-based motivation research notes that identities are flexible and context-dependent. What feels identity-congruent can vary from moment to moment. The advantage comes when a useful identity is repeatedly reinforced through action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 54 — A habit is defined as a learned actio...</span></span></span>
 
 ## How to use labels without self-pressure
 
@@ -799,124 +799,124 @@ Within the broader debate of identity change versus behaviour design, this is wh
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIdentity-based motivation: Implications for intervention  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3079278/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3079278/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby D Oyserman · 2010 · Cited by 913 — The identity-based motivation model predicts that what an identity means, and therefore what is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3079278/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3079278/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Oyserman · 2010 · Cited by 913 — The identity-based motivation model predicts that what an identity means, and therefore what is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mdpi.com  
    Title: 2076 328X  
-   Link: [https://www.mdpi.com/2076-328X/15/5/623](https://www.mdpi.com/2076-328X/15/5/623)  
+   Link: <a href="https://www.mdpi.com/2076-328X/15/5/623" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-328X/15/5/623</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, as identity is associated with a range of behaviours, a person&#x27;s identification with...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
-   Link: [https://medium.com/mind-cafe/the-key-to-behavior-change-is-identity-change-1e5df710328c](https://medium.com/mind-cafe/the-key-to-behavior-change-is-identity-change-1e5df710328c)  
+   Link: <a href="https://medium.com/mind-cafe/the-key-to-behavior-change-is-identity-change-1e5df710328c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/the-key-to-behavior-change-is-identity-change-1e5df710328c</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether the behavior is related to what we eat, how we treat others, or how...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 54 — A habit is defined as a learned actio...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 54 — A habit is defined as a learned actio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Theory-based Habit Modeling for Enhancing Behavior Prediction  
-   Link: [https://arxiv.org/abs/2101.01637](https://arxiv.org/abs/2101.01637)  
+   Link: <a href="https://arxiv.org/abs/2101.01637" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.01637</a>  
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22](https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumIdentity-Based Habits: How to Actually Stick to Your GoalsThe key to building lasting habits is focusing on creating a new identity...</p></details>
+   Link: <a href="https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-Based Habits: How to Actually Stick to Your GoalsThe key to building lasting habits is focusing on creating a new identity...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ann_p/you-become-what-you-repeat-the-science-of-identity-based-habit-change-d2975a17bc83](https://medium.com/%40ann_p/you-become-what-you-repeat-the-science-of-identity-based-habit-change-d2975a17bc83)  
+   Link: <a href="https://medium.com/%40ann_p/you-become-what-you-repeat-the-science-of-identity-based-habit-change-d2975a17bc83" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ann_p/you-become-what-you-repeat-the-science-of-identity-based-habit-change-d2975a17bc83</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>behavior comes from beliefs. But actually, it works both ways...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40jordancarterwrites/identity-based-habit-formation-transforming-who-i-am-one-small-action-at-a-time-29d48535645f](https://medium.com/%40jordancarterwrites/identity-based-habit-formation-transforming-who-i-am-one-small-action-at-a-time-29d48535645f)  
+   Link: <a href="https://medium.com/%40jordancarterwrites/identity-based-habit-formation-transforming-who-i-am-one-small-action-at-a-time-29d48535645f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jordancarterwrites/identity-based-habit-formation-transforming-who-i-am-one-small-action-at-a-time-29d48535645f</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how I started putting all this into my own life. · 1. Choose My Target Identity · 2. Align My Language.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: kartik-perisetla.medium.com  
    Title: identity based habits 623382ab1cb2  
-   Link: [https://kartik-perisetla.medium.com/identity-based-habits-623382ab1cb2](https://kartik-perisetla.medium.com/identity-based-habits-623382ab1cb2)  
+   Link: <a href="https://kartik-perisetla.medium.com/identity-based-habits-623382ab1cb2" target="_blank" rel="noopener noreferrer nofollow">https://kartik-perisetla.medium.com/identity-based-habits-623382ab1cb2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>based habits - Kartik Perisetla - MediumIdentity based habits is concerned with changing your beliefs about yourself, world around you, j...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31354563/](https://pubmed.ncbi.nlm.nih.gov/31354563/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31354563/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 153 — When habits relate to feelings of identity this...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/identity-based-habits](https://jamesclear.com/identity-based-habits)  
+   Link: <a href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/identity-based-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yULiCnWwKTM](https://www.youtube.com/watch?v=yULiCnWwKTM)  
+   Link: <a href="https://www.youtube.com/watch?v=yULiCnWwKTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yULiCnWwKTM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Craig Groeschel•95K views &amp;middot; 14:59 &amp;middot; Go to channel BetterSelf &amp;middot; Identity-Based Habits...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: tumcso.com  
-   Link: [https://www.tumcso.com/teaching/courses/courses/work-and-life-skills-ss-23/work-life-skills-23/habits-page-by-eva-schroeder/drive-change/identity-based-habits](https://www.tumcso.com/teaching/courses/courses/work-and-life-skills-ss-23/work-life-skills-23/habits-page-by-eva-schroeder/drive-change/identity-based-habits)  
+   Link: <a href="https://www.tumcso.com/teaching/courses/courses/work-and-life-skills-ss-23/work-life-skills-23/habits-page-by-eva-schroeder/drive-change/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.tumcso.com/teaching/courses/courses/work-and-life-skills-ss-23/work-life-skills-23/habits-page-by-eva-schroeder/drive-change/identity-based-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-Based HabitsBy reshaping our identity, which is our perception of ourselves, it becomes easier to align our actions with this ne...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/training-development/habit-formation-for-growth/strategies-for-building-identity-based-habits/](https://www.linkedin.com/top-content/training-development/habit-formation-for-growth/strategies-for-building-identity-based-habits/)  
+   Link: <a href="https://www.linkedin.com/top-content/training-development/habit-formation-for-growth/strategies-for-building-identity-based-habits/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/training-development/habit-formation-for-growth/strategies-for-building-identity-based-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Building Identity-Based HabitsStrategies for building identity-based habits focus on creating routines that align with the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/GetMotivated/comments/56ggb5/text_identitybased_habits_how_to_actually_stick/](https://www.reddit.com/r/GetMotivated/comments/56ggb5/text_identitybased_habits_how_to_actually_stick/)  
+   Link: <a href="https://www.reddit.com/r/GetMotivated/comments/56ggb5/text_identitybased_habits_how_to_actually_stick/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GetMotivated/comments/56ggb5/text_identitybased_habits_how_to_actually_stick/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Text] Identity-Based Habits: How to Actually Stick to Your...The key to building lasting habits is focusing on creating a new identity...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/885406096/Identity-Based-Habits](https://www.scribd.com/document/885406096/Identity-Based-Habits)  
+   Link: <a href="https://www.scribd.com/document/885406096/Identity-Based-Habits" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/885406096/Identity-Based-Habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>into one&#x27;s self-concept, leading to natural and automatic behavior...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/getdisciplined/comments/1uor9w/identity_based_habits_this_article_has_had_a/](https://www.reddit.com/r/getdisciplined/comments/1uor9w/identity_based_habits_this_article_has_had_a/)  
+   Link: <a href="https://www.reddit.com/r/getdisciplined/comments/1uor9w/identity_based_habits_this_article_has_had_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/getdisciplined/comments/1uor9w/identity_based_habits_this_article_has_had_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d cause a subconscious change in a way you&#x27;re prone to behave and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theunforgettable.me  
    Title: identity based habits leadership transformation  
-   Link: [https://www.theunforgettable.me/post/identity-based-habits-leadership-transformation](https://www.theunforgettable.me/post/identity-based-habits-leadership-transformation)  
+   Link: <a href="https://www.theunforgettable.me/post/identity-based-habits-leadership-transformation" target="_blank" rel="noopener noreferrer nofollow">https://www.theunforgettable.me/post/identity-based-habits-leadership-transformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-Based Habits: Why Who You Are Drives What You Do6 Jun 2025 — A: Regular habits focus on outcomes; identity-based habits focus on...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: productivepatty.com  
    Title: identity based habits the key to lasting change  
-   Link: [https://www.productivepatty.com/identity-based-habits-the-key-to-lasting-change/](https://www.productivepatty.com/identity-based-habits-the-key-to-lasting-change/)  
+   Link: <a href="https://www.productivepatty.com/identity-based-habits-the-key-to-lasting-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.productivepatty.com/identity-based-habits-the-key-to-lasting-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-Based Habits: The Key to Lasting ChangeDec 6, 2025 — Identity-based habits represent a behavioral change approach that connects...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tandfonline.com  
    Title: Some findings showed predictive links between  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15283488.2023.2209586](https://www.tandfonline.com/doi/full/10.1080/15283488.2023.2209586)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15283488.2023.2209586" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15283488.2023.2209586</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: The Role of Identity in Human Behavior Researchby KL Alfrey · 2023 · Cited by 56 — Overall, the stud...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Habit-and-Identity%3A-Behavioral%2C-Cognitive%2C-and-of-Verplanken-Sui/4142e140f4052948d921f48939ba7f718278b1f7](https://www.semanticscholar.org/paper/Habit-and-Identity%3A-Behavioral%2C-Cognitive%2C-and-of-Verplanken-Sui/4142e140f4052948d921f48939ba7f718278b1f7)  
+   Link: <a href="https://www.semanticscholar.org/paper/Habit-and-Identity%3A-Behavioral%2C-Cognitive%2C-and-of-Verplanken-Sui/4142e140f4052948d921f48939ba7f718278b1f7" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Habit-and-Identity%3A-Behavioral%2C-Cognitive%2C-and-of-Verplanken-Sui/4142e140f4052948d921f48939ba7f718278b1f7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit and Identity: Behavioral, Cognitive, Affective, and...Jul 10, 2019 — The results suggest that habits may serve to define who the a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: psychologytoday.com  
    Title: the identity hack to behavioral change  
-   Link: [https://www.psychologytoday.com/gb/blog/all-about-addiction/202503/the-identity-hack-to-behavioral-change](https://www.psychologytoday.com/gb/blog/all-about-addiction/202503/the-identity-hack-to-behavioral-change)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/all-about-addiction/202503/the-identity-hack-to-behavioral-change" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/all-about-addiction/202503/the-identity-hack-to-behavioral-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Mar 2025 — Most people fail at change because they focus on behavior, not identity. Identity-based change lasts longer and works bette...</p></details>

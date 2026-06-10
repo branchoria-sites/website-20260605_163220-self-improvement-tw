@@ -514,13 +514,13 @@ Goals are useful because they make improvement visible. “Get healthier” is t
 
 That does not mean every self-improvement target should be extreme. The important lesson is that a goal works as a focusing device. It reduces ambiguity. It says what counts, what does not count, and when adjustment is needed. In a personal setting, the difference between “read more” and “read ten pages before bed on Monday to Thursday” is not motivational poetry; it is a change in the decision problem. The second target makes success observable and failure diagnosable.
 
-A 2017 systematic review and meta-analysis of goal-setting interventions found a small positive unique effect of goal setting on behaviour change, and moderator analyses suggested that goals were especially effective when they were difficult, public, or group-based. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> That finding helps explain why goals can be powerful in workplaces, classrooms, sports teams and health programmes: they create a reference point that people can coordinate around. A running group training for a 10 km race, a household trying to reduce spending, or a student aiming to submit a dissertation chapter by Friday all benefit from a clear target because the target organises attention and conversation.
+A 2017 systematic review and meta-analysis of goal-setting interventions found a small positive unique effect of goal setting on [behaviour change]({{ 'behaviour-change/' | relative_url }}), and moderator analyses suggested that goals were especially effective when they were difficult, public, or group-based. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> That finding helps explain why goals can be powerful in workplaces, classrooms, sports teams and health programmes: they create a reference point that people can coordinate around. A running group training for a 10 km race, a household trying to reduce spending, or a student aiming to submit a dissertation chapter by Friday all benefit from a clear target because the target organises attention and conversation.
 
 Goals also help with trade-offs. A person who has chosen “sleep by 11 pm on weeknights” has a standard against which to judge late-night scrolling, overtime and social invitations. Without that standard, every decision is renegotiated in the moment, often under fatigue. In this sense, a good goal is not a fantasy of future achievement. It is a decision policy: when options compete, it tells you which outcome deserves priority.
 
 ## Where goals start to fail
 
-The weakness of goals is that they can describe a better future without changing the machinery that produces the present. A goal can be clear, admirable and emotionally compelling while the surrounding system remains hostile to it. “Save more money” competes with one-click shopping, [social pressure]({{ 'social-pressure/' | relative_url }}) and an empty budgeting habit. “Exercise three times a week” competes with no packed kit, no chosen time, poor sleep and a commute that leaves no margin. The target may be sincere; the environment may still be voting against it.
+The weakness of goals is that they can describe a better future without changing the machinery that produces the present. A goal can be clear, admirable and emotionally compelling while the surrounding system remains hostile to it. “Save more money” competes with one-click shopping, social pressure and an empty budgeting habit. “Exercise three times a week” competes with no packed kit, no chosen time, poor sleep and a commute that leaves no margin. The target may be sincere; the environment may still be voting against it.
 
 This is the gap that implementation-intention research tries to close. Implementation intentions are “if-then” plans that specify when, where and how goal-directed behaviour will happen. Peter Gollwitzer and Paschal Sheeran’s work distinguishes a goal intention, such as “I intend to reach Z”, from an implementation intention, such as “If situation Y occurs, then I will do behaviour X.” Their meta-analytic evidence found that if-then planning improved goal striving, including by helping people get started, remember to act and handle predictable obstacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Implementation Intentions and Goal Achievement</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — This review analyzes whether realization of goal inte...</span><span class="citation-popover-meta">Published: December 31, 2006</span></span></span>
 
@@ -532,11 +532,11 @@ This is why goal setting needs a safety rail: the target must not become the who
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-1-dark.svg" | relative_url }}" alt="Goals vs Systems illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What systems do well
 
-Systems design begins from a different question: not “What do I want?” but “What conditions would make the right action more likely?” In behaviour-change terms, this means changing cues, friction, feedback, social context, available options and the timing of decisions. The Behaviour Change Technique Taxonomy, developed to describe the active ingredients of interventions, lists 93 techniques, including goal setting, action planning, self-monitoring, feedback, prompts, social support and rewards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> That taxonomy matters because it breaks self improvement into designable parts rather than treating it as a test of character.
+Systems design begins from a different question: not “What do I want?” but “What conditions would make the right action more likely?” In behaviour-change terms, this means changing cues, friction, feedback, social context, available options and the timing of decisions. The Behaviour Change Technique Taxonomy, developed to describe the active ingredients of interventions, lists 93 techniques, including goal setting, action planning, self-monitoring, feedback, prompts, social support and rewards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> That taxonomy matters because it breaks self improvement into designable parts rather than treating it as a test of character.
 
 A system can be modest. Put the phone outside the bedroom. Keep walking shoes by the door. Transfer savings on payday before discretionary spending begins. Block the first 30 minutes of the workday for the hardest task. Use a visible checklist. Prepare the gym bag before the moment of decision. None of these actions is a grand life goal, but each changes the local environment in which behaviour happens.
 
-The COM-B model, at the centre of the Behaviour Change Wheel, gives a useful way to think about this. It proposes that behaviour depends on capability, opportunity and motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> A goal mainly works on motivation and direction. A system can also alter capability and opportunity: learn the skill, reduce the steps, make the tool available, remove the tempting alternative, enlist another person, or change the default. For example, a person who wants to cook at home may not need a more inspiring goal; they may need knife skills, a shopping list, two reliable recipes, a stocked freezer and a rule that takeaway apps are not kept on the home screen.
+The COM-B model, at the centre of the Behaviour Change Wheel, gives a useful way to think about this. It proposes that behaviour depends on capability, opportunity and motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> A goal mainly works on motivation and direction. A system can also alter capability and opportunity: learn the skill, reduce the steps, make the tool available, remove the tempting alternative, enlist another person, or change the default. For example, a person who wants to cook at home may not need a more inspiring goal; they may need knife skills, a shopping list, two reliable recipes, a stocked freezer and a rule that takeaway apps are not kept on the home screen.
 
 Systems are especially important because habits form through repeated behaviour in stable contexts. Phillippa Lally and colleagues studied habit formation in everyday life and found that [automaticity]({{ 'automaticity/' | relative_url }}) increased steadily for most participants, but the time required varied widely by person and behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> UCL’s public summary of that work reported an average of 66 days to form a new habit, which is useful mainly because it challenges the popular myth that deep habits reliably form in a few weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">University College London How long does it take to form a habit?</span></span></span>
 
@@ -548,7 +548,7 @@ The modern phrase “goals versus systems” was popularised in self-improvement
 
 A system without a goal can become busywork. A person can track calories, optimise productivity software, maintain a perfect study spreadsheet or tweak a morning routine without asking whether the behaviour still serves a meaningful outcome. Systems can become self-protective: they reward maintenance of the method rather than progress towards the value. This is why periodic target review matters. The goal asks, “Is this system taking me somewhere worth going?”
 
-A goal without a system can become pressure without guidance. It creates a discrepancy between current life and desired life, but may not explain what to do next. Research on progress monitoring helps connect the two. A meta-analysis of 138 studies found that interventions increased the frequency of monitoring goal progress and promoted goal attainment; the effects were larger when progress was physically recorded or publicly reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> Monitoring is system design in miniature: it creates a feedback loop between the target and daily behaviour.
+A goal without a system can become pressure without guidance. It creates a discrepancy between current life and desired life, but may not explain what to do next. Research on progress monitoring helps connect the two. A meta-analysis of 138 studies found that interventions increased the frequency of monitoring goal progress and promoted goal attainment; the effects were larger when progress was physically recorded or publicly reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> Monitoring is system design in miniature: it creates a feedback loop between the target and daily behaviour.
 
 The strongest approach is therefore not “ignore goals” or “set better goals”. It is a two-level design:
 
@@ -583,7 +583,7 @@ A useful target-default pair has five parts:
 
 </div>
 
-This structure fits the behaviour-change evidence better than isolated goal setting because it combines several active ingredients: goal setting, action planning, prompts, self-monitoring and feedback. The taxonomy of behaviour-change techniques treats these as separable components, which is helpful because a failing plan can then be repaired precisely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> If the target is clear but action does not happen, the problem may be the cue, timing, friction or confidence. If action happens but progress does not, the problem may be intensity, strategy, feedback or the choice of behaviour.
+This structure fits the behaviour-change evidence better than isolated goal setting because it combines several active ingredients: goal setting, action planning, prompts, self-monitoring and feedback. The taxonomy of behaviour-change techniques treats these as separable components, which is helpful because a failing plan can then be repaired precisely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> If the target is clear but action does not happen, the problem may be the cue, timing, friction or confidence. If action happens but progress does not, the problem may be intensity, strategy, feedback or the choice of behaviour.
 
 Consider three common examples.
 
@@ -601,14 +601,14 @@ The right starting point depends on the problem. Some self-improvement failures 
 
 Lead with a goal when the main problem is ambiguity. This is common when people say they want to “sort life out”, “be healthier”, “be more productive” or “take work seriously”. The first intervention should narrow the field. Which behaviour would show progress? What would count as enough? What trade-off is acceptable? Without that decision, systems design can become elaborate avoidance.
 
-Lead with a system when the main problem is inconsistency. This is common when the person has already chosen the aim many times. Someone who has repeatedly resolved to sleep earlier probably does not need a more inspiring sleep goal. They need a shutdown alarm, a charging place outside the bedroom, a caffeine cut-off, a predictable evening routine and a rule for late work. In COM-B terms, the intervention should change opportunity and capability, not just motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span>
+Lead with a system when the main problem is inconsistency. This is common when the person has already chosen the aim many times. Someone who has repeatedly resolved to sleep earlier probably does not need a more inspiring sleep goal. They need a shutdown alarm, a charging place outside the bedroom, a caffeine cut-off, a predictable evening routine and a rule for late work. In COM-B terms, the intervention should change opportunity and capability, not just motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span>
 
 Lead with review when the main problem is false progress. This happens when the system is active but not effective: many hours at the desk with little learning, many workouts with recurring injury, many budgeting sessions with no change in spending. Progress monitoring is valuable here because it compares behaviour against a reference value and exposes whether the system is producing the intended outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span></span></span> University Press & Assessment
 
 The key diagnostic question is simple: “Is the next action unclear, unlikely, or ineffective?” If it is unclear, improve the goal. If it is unlikely, redesign the system. If it is ineffective, improve feedback and strategy.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8dHEG7WxR4c" title="The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer">The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 1.8M &middot; Uploaded: January 2026 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8dHEG7WxR4c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Iyi4ngN3O9I" title="What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer">What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?</a></p><p class="youtube-embed-meta">Channel: School of Learning &middot; Views: 1.2K &middot; Uploaded: January 2024 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Iyi4ngN3O9I">Open on YouTube</a></p></div></div></div>
 
 ## Common failure modes
 
@@ -616,7 +616,7 @@ The most common mistake is setting an outcome goal and mistaking it for an actio
 
 A second mistake is designing a system that depends on an ideal version of the person. A morning routine that requires perfect sleep, no childcare disruption and high motivation is not a system; it is a fragile wish. A better system includes minimum versions: ten minutes instead of an hour, one paragraph instead of a full session, a home workout instead of a gym trip. These minimums preserve identity and continuity without pretending every day is equal.
 
-A third mistake is over-measuring. Monitoring helps when it informs action, but it can become noise or punishment. The evidence that physically recorded and publicly reported progress can strengthen goal attainment should not be read as a command to make every private behaviour public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> The better rule is to record the smallest amount that changes decisions. For some behaviours, a tick on a calendar is enough. For others, such as debt repayment or rehabilitation, more detailed feedback is useful.
+A third mistake is over-measuring. Monitoring helps when it informs action, but it can become noise or punishment. The evidence that physically recorded and publicly reported progress can strengthen goal attainment should not be read as a command to make every private behaviour public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> The better rule is to record the smallest amount that changes decisions. For some behaviours, a tick on a calendar is enough. For others, such as debt repayment or rehabilitation, more detailed feedback is useful.
 
 A fourth mistake is allowing goals to crowd out values. The “Goals Gone Wild” critique is important here because it shows that targets can narrow attention and reward harmful shortcuts when they are over-specified or poorly governed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hks.harvard.edu">[Harvard Kennedy School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hks.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In personal development, this means a target should be checked against the life it is meant to improve. A productivity goal that damages sleep, trust or health may be succeeding on paper while failing as self improvement.
 
@@ -982,202 +982,202 @@ For self improvement that works, the strongest pattern is not heroic motivation 
 
 1. <a id="endnote-1"></a>
    Source: med.stanford.edu  
-   Link: [https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf](https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf)  
+   Link: <a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MedicineBuilding a Practically Useful Theory of Goal Setting and...September 1, 2012 — by EA Locke · 2002 · Cited by 15674 — We...</p></details>
    Published: September 1, 2012  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Implementation Intentions and Goal Achievement  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — This review analyzes whether realization of goal inte...</p></details>
    Published: December 31, 2006  
 
 3. <a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Monitoring Interventions (Chapter 37)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37](https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
 
 5. <a id="endnote-5"></a>
    Source: hks.harvard.edu  
-   Link: [https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting](https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting)  
+   Link: <a href="https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting" target="_blank" rel="noopener noreferrer nofollow">https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting</a>  
 
 6. <a id="endnote-6"></a>
    Source: goal.com  
-   Link: [https://www.goal.com/en-gb](https://www.goal.com/en-gb)  
+   Link: <a href="https://www.goal.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-gb</a>  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 232501090 A Theory of Goal Setting Task Performance  
-   Link: [https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance](https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance)  
+   Link: <a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions](https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions)  
+   Link: <a href="https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_Setting](https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_Setting)  
+   Link: <a href="https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_Setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_Setting</a>  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf](https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions](https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions)  
+   Link: <a href="https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence](https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence</a>  
 
 13. <a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/implement](https://dictionary.cambridge.org/dictionary/english/implement)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/implement" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/implement</a>  
 
 14. <a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/behavior](https://dictionary.cambridge.org/us/dictionary/english/behavior)  
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/behavior" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/behavior</a>  
 
 15. <a id="endnote-15"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
 
 16. <a id="endnote-16"></a>
    Source: cambridge.org  
    Title: Goal Setting Interventions (Chapter 38)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6](https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Forget About Setting Goals. Focus on This Instead  
-   Link: [https://www.youtube.com/watch?v=QXd6jeDElWM](https://www.youtube.com/watch?v=QXd6jeDElWM)  
+   Link: <a href="https://www.youtube.com/watch?v=QXd6jeDElWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QXd6jeDElWM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear - Goals Versus Systems...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: James Clear  
-   Link: [https://www.youtube.com/watch?v=jyxxouMBEXI](https://www.youtube.com/watch?v=jyxxouMBEXI)  
+   Link: <a href="https://www.youtube.com/watch?v=jyxxouMBEXI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jyxxouMBEXI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29189034/](https://pubmed.ncbi.nlm.nih.gov/29189034/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29189034/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: hbs.edu  
    Title: Harvard Business School Goals Gone Wild: The Systematic Side Effects of Over  
-   Link: [https://www.hbs.edu/ris/Publication%20Files/09-083.pdf](https://www.hbs.edu/ris/Publication%20Files/09-083.pdf)  
+   Link: <a href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/09-083.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
 22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21513547/](https://pubmed.ncbi.nlm.nih.gov/21513547/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21513547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21513547/</a>  
 
 23. <a id="endnote-23"></a>
    Source: ucl.ac.uk  
    Title: University College London How long does it take to form a habit?  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
 
 24. <a id="endnote-24"></a>
    Source: jamesclear.com  
    Title: James Clear Forget About Setting Goals. Focus on This Instead  
-   Link: [https://jamesclear.com/goals-systems](https://jamesclear.com/goals-systems)  
+   Link: <a href="https://jamesclear.com/goals-systems" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/goals-systems</a>  
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
 
 26. <a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12237980/](https://pubmed.ncbi.nlm.nih.gov/12237980/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12237980/</a>  
 
 27. <a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26616119/](https://pubmed.ncbi.nlm.nih.gov/26616119/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26616119/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26616119/</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Implementation](https://en.wikipedia.org/wiki/Implementation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
 
 29. <a id="endnote-29"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full</a>  
 
 30. <a id="endnote-30"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
 31. <a id="endnote-31"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/quotes/you-do-not-rise-to-the-level-of-your-goals-you-fall-to-the-level-of-your-systems](https://jamesclear.com/quotes/you-do-not-rise-to-the-level-of-your-goals-you-fall-to-the-level-of-your-systems)  
+   Link: <a href="https://jamesclear.com/quotes/you-do-not-rise-to-the-level-of-your-goals-you-fall-to-the-level-of-your-systems" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/quotes/you-do-not-rise-to-the-level-of-your-goals-you-fall-to-the-level-of-your-systems</a>  
 
 32. <a id="endnote-32"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
 
 33. <a id="endnote-33"></a>
    Source: techtarget.com  
-   Link: [https://www.techtarget.com/searchcustomerexperience/definition/implementation](https://www.techtarget.com/searchcustomerexperience/definition/implementation)  
+   Link: <a href="https://www.techtarget.com/searchcustomerexperience/definition/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchcustomerexperience/definition/implementation</a>  
 
 34. <a id="endnote-34"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 136 — Gollwitzer and Sheeran (2006) found that implementation intention formation had...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: What are the Key Principles of Locke and Latham's Goal Setting Theory?  
-   Link: [https://www.youtube.com/watch?v=Iyi4ngN3O9I](https://www.youtube.com/watch?v=Iyi4ngN3O9I)  
+   Link: <a href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iyi4ngN3O9I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: The Science of Making & Breaking Habits: How to Change Your Life in 1 Month  
-   Link: [https://www.youtube.com/watch?v=8dHEG7WxR4c](https://www.youtube.com/watch?v=8dHEG7WxR4c)  
+   Link: <a href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8dHEG7WxR4c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Tiny Gains | Chapter 1 – Atomic Habits by James Clear...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/behavior](https://www.merriam-webster.com/dictionary/behavior)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavior</a>  
 
 39. <a id="endnote-39"></a>
    Source: bct-taxonomy.com  
-   Link: [https://www.bct-taxonomy.com/about](https://www.bct-taxonomy.com/about)  
+   Link: <a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
 
 40. <a id="endnote-40"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea](https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea)  
+   Link: <a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
 
 41. <a id="endnote-41"></a>
    Source: unicef.org  
-   Link: [https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf](https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf)  
+   Link: <a href="https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: medium.com  
-   Link: [https://medium.com/mind-cafe/goals-gone-wild-ac396c2b88ee](https://medium.com/mind-cafe/goals-gone-wild-ac396c2b88ee)  
+   Link: <a href="https://medium.com/mind-cafe/goals-gone-wild-ac396c2b88ee" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/goals-gone-wild-ac396c2b88ee</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/jamesclear/posts/goals-are-good-for-setting-a-direction-but-systems-are-best-for-making-progressr/577902867038499/](https://www.facebook.com/jamesclear/posts/goals-are-good-for-setting-a-direction-but-systems-are-best-for-making-progressr/577902867038499/)  
+   Link: <a href="https://www.facebook.com/jamesclear/posts/goals-are-good-for-setting-a-direction-but-systems-are-best-for-making-progressr/577902867038499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jamesclear/posts/goals-are-good-for-setting-a-direction-but-systems-are-best-for-making-progressr/577902867038499/</a>  
 
 44. <a id="endnote-44"></a>
    Source: medium.com  
-   Link: [https://medium.com/life-lemons/goals-vs-systems-atomic-habits-176a35bb36c8](https://medium.com/life-lemons/goals-vs-systems-atomic-habits-176a35bb36c8)  
+   Link: <a href="https://medium.com/life-lemons/goals-vs-systems-atomic-habits-176a35bb36c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/life-lemons/goals-vs-systems-atomic-habits-176a35bb36c8</a>  

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:22:24'
 parent_title: Why the Habit Starts the Night Before | Better Change
 parent_permalink: /cycle-commute/
 parent_nav_short_title: Cycle Commute
@@ -265,7 +266,6 @@ next_link:
   permalink: /ride-days/
   short_title: Ride Days
   heading_title: Which Workdays Should You Cycle First?
-date: '2026-06-05 15:22:24 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-1.webp
@@ -278,7 +278,7 @@ The difference between intending to cycle to work and actually doing it is often
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-1-dark.svg" | relative_url }}" alt="Coping Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Behaviour-change research distinguishes between action planning (“when, where and how will I ride?”) and coping planning (“what will I do if something gets in the way?”). Evidence suggests that both help bridge the intention–behaviour gap, with coping planning specifically focused on anticipated barriers and responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedplanning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</span></span></span>
+Behaviour-change research distinguishes between action planning (“when, where and how will I ride?”) and coping planning (“what will I do if something gets in the way?”). Evidence suggests that both help bridge the intention–behaviour gap, with coping planning specifically focused on anticipated barriers and responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">planning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</span></span></span>
 
 ## The If-Then Plan That Saves the Ride
 
@@ -294,7 +294,7 @@ A night-before coping plan is usually written as an if–then statement:
 
 </div>
 
-The mechanism matters. A barrier no longer requires a fresh decision. The response has already been chosen. Researchers describe coping planning as anticipating obstacles and linking them to practical solutions before the obstacle occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedplanning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kops.uni-konstanz.de/entities/publication/bb70cb99-0480-4dc3-a05b-66a049554637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[Kops]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">KopsPlanning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, whe...</span></span></span>
+The mechanism matters. A barrier no longer requires a fresh decision. The response has already been chosen. Researchers describe coping planning as anticipating obstacles and linking them to practical solutions before the obstacle occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">planning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kops.uni-konstanz.de/entities/publication/bb70cb99-0480-4dc3-a05b-66a049554637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[Kops]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, whe...</span></span></span>
 
 This is important because intentions alone are often poor predictors of behaviour. Many people genuinely intend to exercise or commute actively but fail to act consistently. Planning strategies help convert those intentions into behaviour by reducing the need for in-the-moment deliberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Bridging the Intention-Behaviour Gap: Planning, Self...Detailed action planning, perceived self-efficacy, and self-reg...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Bridging the Intention-Behaviour Gap: Planning, Self...Detailed action planning, perceived self-efficacy, and self-reg...</span></span></span>
 
@@ -330,7 +330,7 @@ An example is: “On Tuesday and Thursday I will cycle to work, leaving home at 
 
 An example is: “If heavy rain is forecast, then I will pack waterproof trousers tonight and leave five minutes earlier.”
 
-Research on physical activity repeatedly finds that planning interventions are more effective when they include both the execution plan and the barrier-response plan. Reviews and meta-analyses of physical-activity interventions identify action planning and coping planning as complementary tools for increasing follow-through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For commuting specifically]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">ScienceDirectCoping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacle...</span></span></span>, studies examining travel behaviour change have found that coping planning can help explain how intentions become actual changes in travel habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">ScienceDirectCoping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacle...</span></span></span>
+Research on physical activity repeatedly finds that planning interventions are more effective when they include both the execution plan and the barrier-response plan. Reviews and meta-analyses of physical-activity interventions identify action planning and coping planning as complementary tools for increasing follow-through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For commuting specifically]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">Coping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacle...</span></span></span>, studies examining travel [behaviour change]({{ 'behaviour-change/' | relative_url }}) have found that coping planning can help explain how intentions become actual changes in travel habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">Coping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacle...</span></span></span>
 
 ## Matching Common Commute Barriers to Responses
 
@@ -408,7 +408,7 @@ The aim is not perfection. It is resilience.
 
 Motivation fluctuates. Morning conditions are often the worst possible moment to negotiate with yourself.
 
-Implementation-intention research suggests that specifying a cue and a response increases the likelihood that the response is enacted automatically when the cue appears. Physical-activity studies and reviews have repeatedly found benefits from implementation intentions, particularly among people who already want to be active but struggle with consistency. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedplanning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
+Implementation-intention research suggests that specifying a cue and a response increases the likelihood that the response is enacted automatically when the cue appears. Physical-activity studies and reviews have repeatedly found benefits from implementation intentions, particularly among people who already want to be active but struggle with consistency. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">planning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
 
 In practical terms, a commuter who wakes up to rain has two possible experiences:
 
@@ -417,7 +417,7 @@ In practical terms, a commuter who wakes up to rain has two possible experiences
 
 The barrier becomes a trigger rather than a debate.
 
-This shift is subtle but powerful. Research on planning and physical activity consistently frames coping plans as a way of bridging the gap between wanting to act and actually acting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedplanning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/6283947_Beyond_behavioural_intentions_Planning_mediates_between_intentions_and_physical_activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityThe study examines whether the inclusion of these two planning constructs would...</span></span></span>
+This shift is subtle but powerful. Research on planning and physical activity consistently frames coping plans as a way of bridging the gap between wanting to act and actually acting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">planning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/6283947_Beyond_behavioural_intentions_Planning_mediates_between_intentions_and_physical_activity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityThe study examines whether the inclusion of these two planning constructs would...</span></span></span>
 
 ## Turning Sunday and Wednesday Evenings into Stable Cues
 
@@ -455,7 +455,7 @@ The strongest coping plans share three characteristics.
 
 **They assume obstacles will occur.**
 
-The goal is not optimism but preparation. Coping planning starts by acknowledging that barriers are normal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">ScienceDirectCoping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacle...</span></span></span>
+The goal is not optimism but preparation. Coping planning starts by acknowledging that barriers are normal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">Coping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacle...</span></span></span>
 
 **They protect the behaviour, not the ideal version of the behaviour.**
 
@@ -793,180 +793,180 @@ Viewed this way, the night-before routine is not mainly about packing bags or ch
 
 1. <a id="endnote-1"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1104173190/34](https://d-nb.info/1104173190/34)  
+   Link: <a href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1104173190/34</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Coping Planning  
-   Link: [https://www.sciencedirect.com/topics/psychology/coping-planning](https://www.sciencedirect.com/topics/psychology/coping-planning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCoping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacle...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/coping-planning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacle...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise](https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise)  
+   Link: <a href="https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Bridging the Intention-Behaviour Gap: Planning, Self...Detailed action planning, perceived self-efficacy, and self-reg...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/6283947_Beyond_behavioural_intentions_Planning_mediates_between_intentions_and_physical_activity](https://www.researchgate.net/publication/6283947_Beyond_behavioural_intentions_Planning_mediates_between_intentions_and_physical_activity)  
+   Link: <a href="https://www.researchgate.net/publication/6283947_Beyond_behavioural_intentions_Planning_mediates_between_intentions_and_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6283947_Beyond_behavioural_intentions_Planning_mediates_between_intentions_and_physical_activity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning mediates between intentions and physical activityThe study examines whether the inclusion of these two planning constructs would...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1469029212001148](https://www.sciencedirect.com/science/article/abs/pii/S1469029212001148)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029212001148" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029212001148</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous and experimentally induced action planning...by N Carraro · 2013 · Cited by 330 — The main objective of this review was to p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S136984781830086X](https://www.sciencedirect.com/science/article/abs/pii/S136984781830086X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectIncorporation of coping planning into the behavior change...by HS Hsieh · 2019 · Cited by 20 — The present research found t...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S136984781830086X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S136984781830086X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incorporation of coping planning into the behavior change...by HS Hsieh · 2019 · Cited by 20 — The present research found t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0967070X23002329](https://www.sciencedirect.com/science/article/pii/S0967070X23002329)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectFrom elements to policies: A Shovian social practice...by PR Schneider · 2023 · Cited by 22 — The study focuses on commutin...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0967070X23002329" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0967070X23002329</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From elements to policies: A Shovian social practice...by PR Schneider · 2023 · Cited by 22 — The study focuses on commutin...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2071-1050/15/16/12457](https://www.mdpi.com/2071-1050/15/16/12457)  
+   Link: <a href="https://www.mdpi.com/2071-1050/15/16/12457" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/15/16/12457</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of Implementation Intentions Interventions in...by S Peng · 2023 · Cited by 4 — This meta-analysis aims to determine the e...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12529-020-09864-x](https://link.springer.com/article/10.1007/s12529-020-09864-x)  
+   Link: <a href="https://link.springer.com/article/10.1007/s12529-020-09864-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12529-020-09864-x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkInfluence of a Planning Intervention on Physical Activity...by I Pfeffer · 2020 · Cited by 21 — The aim of this stud...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2673-7590/5/3/79](https://www.mdpi.com/2673-7590/5/3/79)  
+   Link: <a href="https://www.mdpi.com/2673-7590/5/3/79" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-7590/5/3/79</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Promoting Sustainable Transport: A Systematic Review of...by HY Makahleh · 2025 · Cited by 16 — The Theory of Planned Behaviour (TPB) pr...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward](https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward)  
+   Link: <a href="https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o planning intervention [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in health behaviour research, implementation...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students](https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students)  
+   Link: <a href="https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of Implementation Intentions Interventions in...Aug 7, 2023 — Implementation intentions (II) have demonstrated their effic...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
    Title: (PDF) What interventions increase commuter cycling?  
-   Link: [https://www.researchgate.net/publication/281415771_What_interventions_increase_commuter_cycling_A_systematic_review](https://www.researchgate.net/publication/281415771_What_interventions_increase_commuter_cycling_A_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/281415771_What_interventions_increase_commuter_cycling_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281415771_What_interventions_increase_commuter_cycling_A_systematic_review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A...16 Dec 2025 — Objective To identify interventions that will increase commuter cycling. Setting All settings where commuter cycling m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
    Title: •. Stronger parental intentions led to more consistent [support](&#123;&#123; 'support/' | relative_url &#125;&#125;) behaviors. •  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0891422225002458](https://www.sciencedirect.com/science/article/abs/pii/S0891422225002458)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0891422225002458" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0891422225002458</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the intention-behavior gap: The role of action...by X Hu · 2025 · Cited by 2 — Parental support behaviors directly predicted ch...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/17553212/](https://pubmed.ncbi.nlm.nih.gov/17553212/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedplanning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17553212/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>planning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: kops.uni-konstanz.de  
-   Link: [https://kops.uni-konstanz.de/entities/publication/bb70cb99-0480-4dc3-a05b-66a049554637](https://kops.uni-konstanz.de/entities/publication/bb70cb99-0480-4dc3-a05b-66a049554637)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KopsPlanning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, whe...</p></details>
+   Link: <a href="https://kops.uni-konstanz.de/entities/publication/bb70cb99-0480-4dc3-a05b-66a049554637" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/entities/publication/bb70cb99-0480-4dc3-a05b-66a049554637</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, whe...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Effectiveness of Planning Interventions for Improving...by S Peng · 2022 · Cited by 20 — This study aims to perform a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralIncreasing Physical Exercise through Action and Coping...by ZQC Wee · 2022 · Cited by 23 — A study that examined how two t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: research.tue.nl  
-   Link: [https://research.tue.nl/files/176608353/1_s2.0_S0965856421000951_main.pdf](https://research.tue.nl/files/176608353/1_s2.0_S0965856421000951_main.pdf)  
+   Link: <a href="https://research.tue.nl/files/176608353/1_s2.0_S0965856421000951_main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/files/176608353/1_s2.0_S0965856421000951_main.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eindhoven Research PortalIntegrated weather effects on e-cycling in daily commuting2021 · Cited by 61 — The findings suggest that the pre...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31923898/](https://pubmed.ncbi.nlm.nih.gov/31923898/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedImplementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Impact of implementation intentions on physical activity  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MAV da Silva · 2018 · Cited by 96 — The aim of this study was to verify the efficacy of using theory-based strategies on implementa...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MAV da Silva · 2018 · Cited by 96 — The aim of this study was to verify the efficacy of using theory-based strategies on implementa...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35742582/](https://pubmed.ncbi.nlm.nih.gov/35742582/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35742582/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35742582/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of Planning Interventions for Improving...by S Peng · 2022 · Cited by 20 — This study aims to perform a systematical meta...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: kops.uni-konstanz.de  
-   Link: [https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content](https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content)  
+   Link: <a href="https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: cpb.nl  
-   Link: [https://www.cpb.nl/sites/default/files/omnidownload/CPB-cover-memo-effects-of-cycling-infrastructure-on-living-working-and-commuting.pdf](https://www.cpb.nl/sites/default/files/omnidownload/CPB-cover-memo-effects-of-cycling-infrastructure-on-living-working-and-commuting.pdf)  
+   Link: <a href="https://www.cpb.nl/sites/default/files/omnidownload/CPB-cover-memo-effects-of-cycling-infrastructure-on-living-working-and-commuting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpb.nl/sites/default/files/omnidownload/CPB-cover-memo-effects-of-cycling-infrastructure-on-living-working-and-commuting.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e in commuting distances across all modes of transport and higher population densities...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/3b99614981149c2f7f34d824540f6a29e96a7741](https://www.semanticscholar.org/paper/3b99614981149c2f7f34d824540f6a29e96a7741)  
+   Link: <a href="https://www.semanticscholar.org/paper/3b99614981149c2f7f34d824540f6a29e96a7741" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/3b99614981149c2f7f34d824540f6a29e96a7741</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mediation of intention into physical activity (PA) behaviour via action planning...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: semanticscholar.org  
    Title: An analysis of physical activity coping plans  
-   Link: [https://www.semanticscholar.org/paper/An-analysis-of-physical-activity-coping-plans%3A-and-Braun-Crombez/51f1697f4cb31a3d02088fcd41d7ee6b5958a690](https://www.semanticscholar.org/paper/An-analysis-of-physical-activity-coping-plans%3A-and-Braun-Crombez/51f1697f4cb31a3d02088fcd41d7ee6b5958a690)  
+   Link: <a href="https://www.semanticscholar.org/paper/An-analysis-of-physical-activity-coping-plans%3A-and-Braun-Crombez/51f1697f4cb31a3d02088fcd41d7ee6b5958a690" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/An-analysis-of-physical-activity-coping-plans%3A-and-Braun-Crombez/51f1697f4cb31a3d02088fcd41d7ee6b5958a690</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT Introduction: Personalising recommendations for physical activity coping plans can help bridging the physical activity intention...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: instituteofcoaching.org  
-   Link: [https://instituteofcoaching.org/resources/impact-implementation-intentions-physical-activity-practice-adults-systematic-review-and](https://instituteofcoaching.org/resources/impact-implementation-intentions-physical-activity-practice-adults-systematic-review-and)  
+   Link: <a href="https://instituteofcoaching.org/resources/impact-implementation-intentions-physical-activity-practice-adults-systematic-review-and" target="_blank" rel="noopener noreferrer nofollow">https://instituteofcoaching.org/resources/impact-implementation-intentions-physical-activity-practice-adults-systematic-review-and</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of implementation intentions on physical activity...“Action planning” refers to planning, very specifically how and when to actua...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: research-portal.uu.nl  
    Title: nl Travel, environments, and well-being  
-   Link: [https://research-portal.uu.nl/en/publications/travel-environments-and-well-being/](https://research-portal.uu.nl/en/publications/travel-environments-and-well-being/)  
+   Link: <a href="https://research-portal.uu.nl/en/publications/travel-environments-and-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/travel-environments-and-well-being/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nlTravel, environments, and well-being - Utrecht Universityby J Liu · 2025 — Longer commutes negatively affect well-being and mental h...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/research-topics/23099/new-developments-in-the-intention-behavior-gap-for-physical-activity---recent-trends-controversies-and-a-critical-outlook/magazine](https://www.frontiersin.org/research-topics/23099/new-developments-in-the-intention-behavior-gap-for-physical-activity---recent-trends-controversies-and-a-critical-outlook/magazine)  
+   Link: <a href="https://www.frontiersin.org/research-topics/23099/new-developments-in-the-intention-behavior-gap-for-physical-activity---recent-trends-controversies-and-a-critical-outlook/magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/23099/new-developments-in-the-intention-behavior-gap-for-physical-activity---recent-trends-controversies-and-a-critical-outlook/magazine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s, controversies, and a critical outlook...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: The SECRET Brain Hack You're Missing When It Comes To Making New Habits Stick  
-   Link: [https://www.youtube.com/watch?v=CrwqYp7rs7Y](https://www.youtube.com/watch?v=CrwqYp7rs7Y)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strength Talk.20 How to Boost Your Success by 300% The Science of [If Then Planning](&amp;#123;&amp;#123; &#x27;if-then-plans-ac99e3/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CrwqYp7rs7Y</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strength Talk.20 How to Boost Your Success by 300% The Science of If Then Planning...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777](https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe impact of [action plans](&amp;#123;&amp;#123; &#x27;action-plans/&#x27; | relative_url &amp;#125;&amp;#125;) on habit and intention strength...by AL Rebar · 2025 · Cited by 23 — The aim of this s...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/21642850.2024.2434140](https://www.tandfonline.com/doi/abs/10.1080/21642850.2024.2434140)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/21642850.2024.2434140" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/21642850.2024.2434140</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineAn analysis of physical activity coping plans: mapping...by M Braun · 2024 · Cited by 2 — Introduction: Personali...</p></details>

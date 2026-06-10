@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:32:39'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /lunch-walks/
   short_title: Lunch Walks
   heading_title: Why a Ten Minute Walk Can Stick
-date: '2026-06-05 14:32:39 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-overview.webp
@@ -512,9 +512,9 @@ The practical aim is to build a “worst day” version of the plan before the w
 
 Most self-improvement plans are written in a state that does not match ordinary life. They are planned on a Sunday evening, during a burst of optimism, after watching a motivating video, or at the start of January. The problem is not that optimism is bad. The problem is that it is a poor forecast of what you will do after bad sleep, work pressure, family stress, pain, low mood or decision fatigue.
 
-Behaviour-change models such as COM-B are useful here because they do not treat behaviour as a simple test of character. The COM-B model, developed as part of the Behaviour Change Wheel, argues that behaviour depends on capability, opportunity and motivation. On low-energy days, all three can shrink: you may have less mental bandwidth, fewer practical opportunities, and less emotional drive. A workable plan therefore has to reduce the demand on all three rather than simply telling you to “try harder”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+Behaviour-change models such as COM-B are useful here because they do not treat behaviour as a simple test of character. The COM-B model, developed as part of the [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Wheel, argues that behaviour depends on capability, opportunity and motivation. On low-energy days, all three can shrink: you may have less mental bandwidth, fewer practical opportunities, and less emotional drive. A workable plan therefore has to reduce the demand on all three rather than simply telling you to “try harder”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
-Sleep and stress make this especially important. Reviews of sleep loss and cognition report effects on emotional regulation, impulse control and stress vulnerability, while research on sleep, stress and executive function links poor sleep regulation and psychological stress with poorer self-regulatory capacity. The exact “[willpower]({{ 'willpower/' | relative_url }}) as a limited resource” theory remains debated, but the practical lesson is still sound: tired people need simpler systems, fewer choices and kinder recovery rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sleep and stress make this especially important. Reviews of sleep loss and cognition report effects on emotional regulation, impulse control and stress vulnerability, while research on sleep, stress and executive function links poor sleep regulation and psychological stress with poorer self-regulatory capacity. The exact “[willpower]({{ 'willpower/' | relative_url }}) as a limited resource” theory remains debated, but the practical lesson is still sound: tired people need simpler systems, fewer choices and kinder recovery rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A worst-day plan also prevents the “all-or-nothing” trap. Without a minimum version, a missed workout becomes “I have failed at fitness”; an unfinished study session becomes “I am not a disciplined person”. With a minimum version, the same day becomes “I did the maintenance dose”. That shift is not cosmetic. It keeps the behaviour connected to a cue, keeps the plan visible, and makes returning tomorrow less emotionally expensive.
 
@@ -539,13 +539,13 @@ For example, someone trying to improve their health might set three levels: full
 
 Implementation intentions make this floor more concrete. They are “if-then” plans that link a situation to a response, such as “If I get home exhausted, then I will do the five-minute version before sitting down.” The US National Cancer Institute’s behavioural research summary describes implementation intentions as a way to translate goals into action by preparing responses to self-regulatory problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
-The strongest [minimum actions]({{ 'minimums/' | relative_url }}) are decided before the low-energy day. Deciding while tired creates another task. Deciding in advance turns the plan into a script.
+The strongest minimum actions are decided before the low-energy day. Deciding while tired creates another task. Deciding in advance turns the plan into a script.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-dark.svg" | relative_url }}" alt="Low Energy illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Environmental shortcuts
 
-Low-energy planning works best when the environment does some of the work. This is not a motivational slogan; it is a behaviour-design principle. NICE guidance on individual behaviour change identifies goals and planning, feedback and monitoring, and social support as important techniques, while behaviour-change taxonomies include prompts, cues, adding objects to the environment and restructuring the physical environment as recognised techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">NICEBehaviour change: individual approaches | Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</span></span></span>
+Low-energy planning works best when the [environment]({{ 'environment/' | relative_url }}) does some of the work. This is not a motivational slogan; it is a behaviour-design principle. NICE guidance on individual behaviour change identifies goals and planning, feedback and monitoring, and [social support]({{ 'social-support/' | relative_url }}) as important techniques, while behaviour-change taxonomies include prompts, cues, adding objects to the environment and restructuring the physical environment as recognised techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: individual approaches &#124; Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</span></span></span>
 
 The shortcut should make the desired action easier at the exact moment it is likely to fail. A yoga mat in the cupboard is a possession. A yoga mat unrolled beside the bed is a prompt. A book on a shelf is an intention. A book on the pillow is an environmental cue. A budgeting app buried on the third screen of a phone is an aspiration. A direct shortcut on the home screen after payday is a practical nudge.
 
@@ -560,7 +560,7 @@ Good shortcuts reduce one of three kinds of friction:
 
 </div>
 
-This is where low-energy plans differ from ordinary productivity advice. The aim is not to create an immaculate lifestyle system. The aim is to arrange the next action so it asks less of you when you have less to give. In COM-B terms, the environment increases opportunity; in habit terms, it strengthens the cue; in ordinary language, it makes the right thing easier to do half-asleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springeran across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</span></span></span>
+This is where low-energy plans differ from ordinary productivity advice. The aim is not to create an immaculate lifestyle system. The aim is to arrange the next action so it asks less of you when you have less to give. In COM-B terms, the environment increases opportunity; in habit terms, it strengthens the cue; in ordinary language, it makes the right thing easier to do half-asleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">an across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</span></span></span>
 
 The shortcut should also be modest enough to maintain. If the environmental setup takes longer than the habit itself, it may become another barrier. A person trying to cook more on tired evenings may not need an elaborate meal-prep system. They may need three reliable low-effort meals, visible ingredients, and permission for “good enough” dinners that prevent takeaway becoming the only tired-day option.
 
@@ -571,11 +571,11 @@ The shortcut should also be modest enough to maintain. If the environmental setu
 
 Low-energy planning can become unhealthy if it is used to deny real rest. The minimum action is not a loophole for ignoring illness, burnout, grief or chronic exhaustion. It is a way to separate two different situations: “I am avoiding a valued behaviour because starting feels hard” and “I genuinely need recovery.” A plan that works must include both action and rest.
 
-This is where guilt becomes a practical problem, not just an unpleasant emotion. When a lapse is interpreted as proof of personal failure, people are more likely to hide from the plan, overcorrect, or give up. Research on self-compassion and health behaviour setbacks suggests that self-compassion can [support]({{ 'support/' | relative_url }}) more adaptive responses to lapses by reframing failure and encouraging renewed effort rather than self-attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+This is where guilt becomes a practical problem, not just an unpleasant emotion. When a lapse is interpreted as proof of personal failure, people are more likely to hide from the plan, overcorrect, or give up. Research on self-compassion and health behaviour setbacks suggests that self-compassion can support more adaptive responses to lapses by reframing failure and encouraging renewed effort rather than self-attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 Recovery without guilt does not mean pretending every missed day is ideal. It means using accurate language. “I missed today because I slept four hours and had a migraine” is different from “I am lazy.” “I did the five-minute version” is different from “I failed to do the full version.” “I need a recovery day and will resume with the minimum action tomorrow” is different from “The whole plan is ruined.”
 
-Relapse-prevention thinking, especially in health behaviour and addiction contexts, also offers a useful general principle: setbacks are part of the change process, and planning for triggers helps people re-enter change more quickly. That does not mean every ordinary habit lapse should be treated like a clinical relapse. It means the same planning logic applies: identify the predictable trigger, decide the next safe action, and avoid turning one lapse into a story of permanent failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+Relapse-prevention thinking, especially in health behaviour and addiction contexts, also offers a useful general principle: setbacks are part of the change process, and planning for triggers helps people re-enter change more quickly. That does not mean every ordinary habit lapse should be treated like a clinical relapse. It means the same planning logic applies: identify the predictable trigger, decide the next safe action, and avoid turning one lapse into a story of permanent failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 A simple recovery rule is: **never miss the return step**. The return step should be smaller than the full routine and scheduled clearly. For example: “Tomorrow after breakfast, I will do the two-minute version.” Not “I will restart properly on Monday.” The longer and grander the restart, the more likely it is to become another fantasy plan.
 
@@ -646,7 +646,7 @@ A second mistake is confusing low-energy planning with low standards. The minimu
 
 A third mistake is tracking in a way that creates shame. Self-monitoring is a recognised behaviour-change technique, but the form matters. A streak tracker can motivate some people and demoralise others. On low-energy plans, it is often better to track “returned after lapse” as a success, not just uninterrupted streaks. NICE guidance includes reviewing behavioural goals in light of experience and making further plans according to progress, which is different from using a tracker as a daily verdict on your worth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Open source on nice.org.uk.</span></span></span>
 
-A fourth mistake is treating every tired day as a discipline problem. Sometimes the correct self-improvement action is sleep, food, medical care, a boundary, or a smaller workload. Sleep loss and stress can affect the very systems used for planning, inhibition and emotional regulation, so a plan that never asks why energy is low may become self-punishment disguised as consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+A fourth mistake is treating every tired day as a discipline problem. Sometimes the correct self-improvement action is sleep, food, medical care, a boundary, or a smaller workload. Sleep loss and stress can affect the very systems used for planning, inhibition and emotional regulation, so a plan that never asks why energy is low may become self-punishment disguised as consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 The final mistake is making the restart too dramatic. “From tomorrow I will do everything properly” sounds motivating, but it often recreates the original fragile plan. A better restart is deliberately boring: return to the cue, do the minimum action, record it, stop.
 
@@ -1054,112 +1054,112 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ph49/chapter/recommendations](https://www.nice.org.uk/guidance/ph49/chapter/recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICEBehaviour change: individual approaches | Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</p></details>
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/chapter/recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches | Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12889-021-11019-w](https://link.springer.com/article/10.1186/s12889-021-11019-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springeran across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-021-11019-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>an across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Role of Sleep and the Effects of Sleep Loss on Cognitive...by A Hyndych · 2025 · Cited by 59 — Sleep deprivation profoundly affec...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Sleep and the Effects of Sleep Loss on Cognitive...by A Hyndych · 2025 · Cited by 59 — Sleep deprivation profoundly affec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45](https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
 
 7. <a id="endnote-7"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ph49](https://www.nice.org.uk/guidance/ph49)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
 
 10. <a id="endnote-10"></a>
    Source: d-nb.info  
    Title: DNBAction planning and coping planning for long-term lifestyle  
-   Link: [https://d-nb.info/1103027735/34](https://d-nb.info/1103027735/34)  
+   Link: <a href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1103027735/34</a>  
 
 11. <a id="endnote-11"></a>
    Source: self-compassion.org  
-   Link: [https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf)  
+   Link: <a href="https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full](https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full)  
+   Link: <a href="https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full</a>  
 
 13. <a id="endnote-13"></a>
    Source: hal.science  
-   Link: [https://hal.science/hal-03561895v1/document](https://hal.science/hal-03561895v1/document)  
+   Link: <a href="https://hal.science/hal-03561895v1/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-03561895v1/document</a>  
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.620383/full](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.620383/full)  
+   Link: <a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.620383/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.620383/full</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Title: [Minimum Viable Habit](&#123;&#123; 'fallback-habit/' | relative_url &#125;&#125;): the best-kept secret to being consistent with your habits  
-   Link: [https://www.youtube.com/watch?v=3NpMGZh-ThI](https://www.youtube.com/watch?v=3NpMGZh-ThI)  
+   Title: Minimum Viable Habit: the best-kept secret to being consistent with your habits  
+   Link: <a href="https://www.youtube.com/watch?v=3NpMGZh-ThI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3NpMGZh-ThI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to be productive (even when you&#x27;re tired) | tips to stay motivated during a 9-5 work day...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VfGRTOIT9Z4](https://www.youtube.com/watch?v=VfGRTOIT9Z4)  
+   Link: <a href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VfGRTOIT9Z4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Can&#x27;t Fail” Morning Routine ☀️ (ADHD, Low Energy Days)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: How to Have a Productive Day When You Have No Energy (Gentle, Realistic Tips)  
-   Link: [https://www.youtube.com/watch?v=11Vl35uvILs](https://www.youtube.com/watch?v=11Vl35uvILs)  
+   Link: <a href="https://www.youtube.com/watch?v=11Vl35uvILs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=11Vl35uvILs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Most Plans Fail (And What Actually Works)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK571075/](https://www.ncbi.nlm.nih.gov/books/NBK571075/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK571075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK571075/</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why Most Plans Fail (And What Actually Works)  
-   Link: [https://www.youtube.com/watch?v=rlHg8SFekwg](https://www.youtube.com/watch?v=rlHg8SFekwg)  
+   Link: <a href="https://www.youtube.com/watch?v=rlHg8SFekwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rlHg8SFekwg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minimum Viable Habit: the best-kept secret to being consistent with your habits...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon](https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon)  
+   Link: <a href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon</a>  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228079793_Sleep_Self-Regulation_Self-Control_and_Health](https://www.researchgate.net/publication/228079793_Sleep_Self-Regulation_Self-Control_and_Health)  
+   Link: <a href="https://www.researchgate.net/publication/228079793_Sleep_Self-Regulation_Self-Control_and_Health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228079793_Sleep_Self-Regulation_Self-Control_and_Health</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
 
 23. <a id="endnote-23"></a>
    Source: drugsandalcohol.ie  
-   Link: [https://www.drugsandalcohol.ie/21170/1/Behaviour_change_individual_approaches.pdf](https://www.drugsandalcohol.ie/21170/1/Behaviour_change_individual_approaches.pdf)  
+   Link: <a href="https://www.drugsandalcohol.ie/21170/1/Behaviour_change_individual_approaches.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.drugsandalcohol.ie/21170/1/Behaviour_change_individual_approaches.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: yukaichou.com  
-   Link: [https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/](https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/)  
+   Link: <a href="https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/</a>  

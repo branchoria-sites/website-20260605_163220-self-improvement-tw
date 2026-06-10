@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:06:54'
 parent_title: Build the Plan for Your Worst Day | Better Change
 parent_permalink: /low-energy/
 parent_nav_short_title: Low Energy
@@ -259,7 +260,6 @@ next_link:
   permalink: /if-then-plans-a4ed96/
   short_title: If Then Plans
   heading_title: Plan the tired day script before you need it
-date: '2026-06-05 15:06:54 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-1.webp
@@ -302,7 +302,7 @@ Many people assume motivation causes action. In reality, prompts and environment
 
 The Fogg Behaviour Model proposes that behaviour occurs when motivation, ability and a prompt converge at the same moment. When motivation is low, increasing ability (making the behaviour easier) and improving prompts (making the cue more obvious) become especially important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
 
-Environmental cues are effective because they reduce the burden on memory. Research on contextual cues and habit formation suggests that cues do more than remind people; they help establish routines that eventually require less conscious regulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They not only support memory but may also help to make the new...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://orca.cardiff.ac.uk/id/eprint/130662/1/130662.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orca.cardiff.ac.uk">[ORCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orca.cardiff.ac.uk</span><span class="citation-popover-snippet">ORCAWhat influences the selection of contextual cues when...by K Stawarz · 2020 · Cited by 45 — Background: Contextual cues play an impo...</span></span></span>
+Environmental cues are effective because they reduce the burden on memory. Research on contextual cues and habit formation suggests that cues do more than remind people; they help establish routines that eventually require less conscious regulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They not only support memory but may also help to make the new...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://orca.cardiff.ac.uk/id/eprint/130662/1/130662.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orca.cardiff.ac.uk">[ORCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orca.cardiff.ac.uk</span><span class="citation-popover-snippet">What influences the selection of contextual cues when...by K Stawarz · 2020 · Cited by 45 — Background: Contextual cues play an impo...</span></span></span>
 
 There is also a memory component. Studies of context-dependent memory show that environmental features can become linked with particular thoughts and actions, making recall easier when the same cues are present again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/context-and-state-dependent-memory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyContext and State-Dependent Memoryby S McLeod · Cited by 3 — Context-dependent memory refers to improved recall of speci...</span></span></span> PubMed A useful cue therefore performs two jobs at once: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[behaviormodel.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
 
@@ -350,7 +350,7 @@ Examples include:
 
 </div>
 
-[Choice architecture]({{ 'defaults/' | relative_url }}) research shows that how options are presented influences behaviour. Small changes in visibility, accessibility and default options can meaningfully affect choices without requiring stronger motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Habit Formation and ChangeAs people repeat behavior in a stable context, their intentions and goals to perform the behavior. gradua...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabChoice ArchitectureThe three main types of choice architecture are defaults, information restructuring, and information f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They not only support memory but may also help to make the new...</span></span></span>
+Choice architecture research shows that how options are presented influences behaviour. Small changes in visibility, accessibility and default options can meaningfully affect choices without requiring stronger motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Habit Formation and ChangeAs people repeat behavior in a stable context, their intentions and goals to perform the behavior. gradua...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabChoice ArchitectureThe three main types of choice architecture are defaults, information restructuring, and information f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They not only support memory but may also help to make the new...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-2-dark.svg" | relative_url }}" alt="Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -828,132 +828,132 @@ For low-energy days, that distinction matters. Goals require energy to interpret
 1. <a id="endnote-1"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45](https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...The central BCT involved in habit formation...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change](https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change)  
+   Link: <a href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit Formation and ChangeAs people repeat behavior in a stable context, their intentions and goals to perform the behavior. gradua...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: good.you  
-   Link: [https://good.you/growth/habits/habit-stacking-implementation-intentions](https://good.you/growth/habits/habit-stacking-implementation-intentions)  
+   Link: <a href="https://good.you/growth/habits/habit-stacking-implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://good.you/growth/habits/habit-stacking-implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Stacking and Implementation Intentions - Good.You13 Feb 2026 — An implementation intention is a specific plan that links a situatio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: orca.cardiff.ac.uk  
-   Link: [https://orca.cardiff.ac.uk/id/eprint/130662/1/130662.pdf](https://orca.cardiff.ac.uk/id/eprint/130662/1/130662.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ORCAWhat influences the selection of contextual cues when...by K Stawarz · 2020 · Cited by 45 — Background: Contextual cues play an impo...</p></details>
+   Link: <a href="https://orca.cardiff.ac.uk/id/eprint/130662/1/130662.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orca.cardiff.ac.uk/id/eprint/130662/1/130662.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What influences the selection of contextual cues when...by K Stawarz · 2020 · Cited by 45 — Background: Contextual cues play an impo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263111226_Context_Dependent_Memory_The_Role_of_Environmental_Cues](https://www.researchgate.net/publication/263111226_Context_Dependent_Memory_The_Role_of_Environmental_Cues)  
+   Link: <a href="https://www.researchgate.net/publication/263111226_Context_Dependent_Memory_The_Role_of_Environmental_Cues" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263111226_Context_Dependent_Memory_The_Role_of_Environmental_Cues</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Context Dependent Memory: The Role of Environmental...Memory&#x27;s dependence on environmental context implies that elements of the learning...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/357588610_The_effectiveness_of_nudging_A_meta-analysis_of_choice_architecture_interventions_across_behavioral_domains](https://www.researchgate.net/publication/357588610_The_effectiveness_of_nudging_A_meta-analysis_of_choice_architecture_interventions_across_behavioral_domains)  
+   Link: <a href="https://www.researchgate.net/publication/357588610_The_effectiveness_of_nudging_A_meta-analysis_of_choice_architecture_interventions_across_behavioral_domains" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357588610_The_effectiveness_of_nudging_A_meta-analysis_of_choice_architecture_interventions_across_behavioral_domains</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of nudging: A meta-analysis of choice...Choice architecture interventions aim to nudge people toward personally and so...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/343756368_Habits_to_Save_our_Habitat_Using_the_Psychology_of_Habits_to_Promote_Sustainability](https://www.researchgate.net/publication/343756368_Habits_to_Save_our_Habitat_Using_the_Psychology_of_Habits_to_Promote_Sustainability)  
+   Link: <a href="https://www.researchgate.net/publication/343756368_Habits_to_Save_our_Habitat_Using_the_Psychology_of_Habits_to_Promote_Sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343756368_Habits_to_Save_our_Habitat_Using_the_Psychology_of_Habits_to_Promote_Sustainability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e in eco-friendly actions and making it harder to continue environmentally damaging...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They not only support memory but may also help to make the new...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 156 — Understanding the &#x27;shape&#x27; o...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 156 — Understanding the &#x27;shape&#x27; o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralInstant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation inten...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/context-and-state-dependent-memory.html](https://www.simplypsychology.org/context-and-state-dependent-memory.html)  
+   Link: <a href="https://www.simplypsychology.org/context-and-state-dependent-memory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/context-and-state-dependent-memory.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyContext and State-Dependent Memoryby S McLeod · Cited by 3 — Context-dependent memory refers to improved recall of speci...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/choice-architecture](https://thedecisionlab.com/reference-guide/psychology/choice-architecture)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabChoice ArchitectureThe three main types of choice architecture are [defaults](&amp;#123;&amp;#123; &#x27;defaults/&#x27; | relative_url &amp;#125;&amp;#125;), information restructuring, and information f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The effectiveness of nudging: A meta-analysis of choice  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Mertens · 2021 · Cited by 977 — Choice architecture interventions aim to nudge people toward personally and socially desirable be...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 977 — Choice architecture interventions aim to nudge people toward personally and socially desirable be...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thrivestreetadvisors.com  
-   Link: [https://www.thrivestreetadvisors.com/leadership-library/tiny-habits](https://www.thrivestreetadvisors.com/leadership-library/tiny-habits)  
+   Link: <a href="https://www.thrivestreetadvisors.com/leadership-library/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.thrivestreetadvisors.com/leadership-library/tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thrive Street AdvisorsTiny HabitsA simple version of the new habit you want, such as flossing one tooth or doing two push-ups. You do the...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: bjsrestaurants.com  
-   Link: [https://www.bjsrestaurants.com/](https://www.bjsrestaurants.com/)  
+   Link: <a href="https://www.bjsrestaurants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bjsrestaurants.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ&#x27;s Restaurants and BrewhouseDiscover our brewhouse menu featuring deep dish pizza, handcrafted burgers, seasonal specials, popular favo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bjswholesaleclub/](https://www.facebook.com/bjswholesaleclub/)  
+   Link: <a href="https://www.facebook.com/bjswholesaleclub/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bjswholesaleclub/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ&#x27;s Wholesale ClubThe quality you trust, now with even more to save. Score exclusive, limited-time deals on your Wellsley Farms + Berkle...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bjfogg.com  
-   Link: [https://www.bjfogg.com/tiny-habits](https://www.bjfogg.com/tiny-habits)  
+   Link: <a href="https://www.bjfogg.com/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.bjfogg.com/tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Scientist &amp; Author of Tiny HabitsBuilding on his groundbreaking model, which shows that behavior occurs when motivation, ability...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/environment-design-organ-donation](https://jamesclear.com/environment-design-organ-donation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Environment Design](&amp;#123;&amp;#123; &#x27;environment/&#x27; | relative_url &amp;#125;&amp;#125;): How to Improve Without ThinkingLearn how to use environment design to create a healthier and more productive environm...</p></details>
+   Link: <a href="https://jamesclear.com/environment-design-organ-donation" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/environment-design-organ-donation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environment Design: How to Improve Without ThinkingLearn how to use environment design to create a healthier and more productive environm...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z](https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z)  
+   Link: <a href="https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to build habits with Tiny Habits by Dr. BJ FoggThat&#x27;s it. This is called habit stacking and environmental design. You&#x27;re removing the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/prompts](https://www.behaviormodel.org/prompts)  
+   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design effective triggers tha...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thebettercompany.io  
-   Link: [https://thebettercompany.io/en/tiny-habits-method/](https://thebettercompany.io/en/tiny-habits-method/)  
+   Link: <a href="https://thebettercompany.io/en/tiny-habits-method/" target="_blank" rel="noopener noreferrer nofollow">https://thebettercompany.io/en/tiny-habits-method/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tiny habits methodIn this article, we summarize the core ideas of the Tiny Habits Method and provide practical tools to apply them im...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: blog.cohorty.app  
-   Link: [https://blog.cohorty.app/the-role-of-environment-in-habit-formation-how-your-surroundings-shape-your-behavior/](https://blog.cohorty.app/the-role-of-environment-in-habit-formation-how-your-surroundings-shape-your-behavior/)  
+   Link: <a href="https://blog.cohorty.app/the-role-of-environment-in-habit-formation-how-your-surroundings-shape-your-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://blog.cohorty.app/the-role-of-environment-in-habit-formation-how-your-surroundings-shape-your-behavior/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Design for Habits: Make Good Habits Easy...Nir Eyal&#x27;s research on behavioral design shows that increasing cue salience by 20-30% can dou...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: betterhelp.com  
-   Link: [https://www.betterhelp.com/advice/memory/context-dependent-memory-how-it-works-and-why-it-matters/](https://www.betterhelp.com/advice/memory/context-dependent-memory-how-it-works-and-why-it-matters/)  
+   Link: <a href="https://www.betterhelp.com/advice/memory/context-dependent-memory-how-it-works-and-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://www.betterhelp.com/advice/memory/context-dependent-memory-how-it-works-and-why-it-matters/</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchportal.northumbria.ac.uk  
-   Link: [https://researchportal.northumbria.ac.uk/files/63627122/Gardner_et_al_2021_EHPS_Synergy_habit_paper.pdf](https://researchportal.northumbria.ac.uk/files/63627122/Gardner_et_al_2021_EHPS_Synergy_habit_paper.pdf)  
+   Link: <a href="https://researchportal.northumbria.ac.uk/files/63627122/Gardner_et_al_2021_EHPS_Synergy_habit_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.northumbria.ac.uk/files/63627122/Gardner_et_al_2021_EHPS_Synergy_habit_paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>habit-based health behaviour change...by B Gardner · Cited by 148 — Understanding the &#x27;shape&#x27; of the within-person relationship between...</p></details>

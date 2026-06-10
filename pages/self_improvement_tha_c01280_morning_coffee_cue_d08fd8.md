@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:38:52'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /cues/
   short_title: Cues
   heading_title: Why Good Cues Beat Good Intentions
-date: '2026-06-05 14:38:52 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-overview.webp
@@ -506,11 +506,11 @@ Morning coffee can become more than a drink: it can be a reliable cue for starti
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-overview.webp" | relative_url }}" alt="Overview image for Coffee Cue" loading="eager" decoding="sync" fetchpriority="high">
-The coffee matters partly because it is already stable. Many people do it without needing a reminder. Caffeine can also increase alertness and reduce sleepiness in moderate doses, which makes it a natural moment for choosing focused work, though it is not a magic productivity substance and can backfire through anxiety or sleep disruption in sensitive people. The strongest version of the method is therefore not “drink coffee and become productive”. It is “when coffee begins, review one task; when coffee ends, start it”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine | EFSA - European UnionWhen consumed by humans, caffeine stimulates the central nervous system, an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">spilling beans how much caffeine too much</span><span class="citation-popover-snippet">Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — the FDA has cited 400 milligrams* a day — tha...</span></span></span> Food and Drug Administration
+The coffee matters partly because it is already stable. Many people do it without needing a reminder. Caffeine can also increase alertness and reduce sleepiness in moderate doses, which makes it a natural moment for choosing focused work, though it is not a magic productivity substance and can backfire through anxiety or sleep disruption in sensitive people. The strongest version of the method is therefore not “drink coffee and become productive”. It is “when coffee begins, review one task; when coffee ends, start it”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine &#124; EFSA - European UnionWhen consumed by humans, caffeine stimulates the central nervous system, an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">spilling beans how much caffeine too much</span><span class="citation-popover-snippet">Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — the FDA has cited 400 milligrams* a day — tha...</span></span></span> Food and Drug Administration
 
 ## Why coffee works as a cue
 
-A cue is anything that reliably tells the brain, “now do this.” Behaviour-change researchers often treat [prompts and cues]({{ 'cues/' | relative_url }}) as active ingredients of behaviour change, alongside techniques such as action planning, self-monitoring and [goal setting]({{ 'goal-setting/' | relative_url }}). The Behaviour Change Technique Taxonomy, developed to make behaviour-change interventions more precise and comparable, lists “prompts/cues” and “action planning” among the named techniques used to change behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Michie et al. (in press) BCT Taxonomy v1 development paper</span><span class="citation-popover-snippet">Michie et al. (in press) BCT Taxonomy v1 development paper</span></span></span>
+A cue is anything that reliably tells the brain, “now do this.” Behaviour-change researchers often treat prompts and cues as active ingredients of [behaviour change]({{ 'behaviour-change/' | relative_url }}), alongside techniques such as action planning, self-monitoring and [goal setting]({{ 'goal-setting/' | relative_url }}). The Behaviour Change Technique Taxonomy, developed to make behaviour-change interventions more precise and comparable, lists “prompts/cues” and “action planning” among the named techniques used to change behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Michie et al. (in press) BCT Taxonomy v1 development paper</span><span class="citation-popover-snippet">Michie et al. (in press) BCT Taxonomy v1 development paper</span></span></span>
 
 Coffee is a good candidate because it is already embedded in a repeated context. Habit research describes habits as behaviours that become linked to stable situations through repetition, so that the situation begins to trigger the behaviour with less conscious effort. The point is not that coffee automatically creates deep work. It is that an existing routine supplies a dependable “anchor moment” for a new behaviour: after starting the coffee, open the task list; while the coffee brews, choose the one most important task; after the first sip, begin the first small action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.library.uu.nl">[DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.library.uu.nl</span><span class="citation-popover-title">DSpace Breaking Habits Using Implementation Intentions</span><span class="citation-popover-snippet">DSpace Breaking Habits Using Implementation Intentions</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Habit Interventions (Chapter 41</span><span class="citation-popover-snippet">University Press &amp; Assessment Habit Interventions (Chapter 41</span></span></span>
 
@@ -1058,140 +1058,140 @@ A coffee cue is valuable because it is ordinary. It takes something already pres
 1. <a id="endnote-1"></a>
    Source: fda.gov  
    Title: spilling beans how much caffeine too much  
-   Link: [https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — the FDA has cited 400 milligrams* a day — tha...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45](https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1805.05508](https://arxiv.org/abs/1805.05508)  
+   Link: <a href="https://arxiv.org/abs/1805.05508" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1805.05508</a>  
 
 5. <a id="endnote-5"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
    Title: Caffeine and other alerting agents (Chapter 38)  
-   Link: [https://www.cambridge.org/core/books/sleepiness/caffeine-and-other-alerting-agents/2E43E65EF2A7720296FF2BE0630802B1](https://www.cambridge.org/core/books/sleepiness/caffeine-and-other-alerting-agents/2E43E65EF2A7720296FF2BE0630802B1)  
+   Link: <a href="https://www.cambridge.org/core/books/sleepiness/caffeine-and-other-alerting-agents/2E43E65EF2A7720296FF2BE0630802B1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/sleepiness/caffeine-and-other-alerting-agents/2E43E65EF2A7720296FF2BE0630802B1</a>  
 
 7. <a id="endnote-7"></a>
    Source: efsa.europa.eu  
-   Link: [https://www.efsa.europa.eu/en/topics/topic/caffeine](https://www.efsa.europa.eu/en/topics/topic/caffeine)  
+   Link: <a href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.efsa.europa.eu/en/topics/topic/caffeine</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Food Safety AuthorityCaffeine | EFSA - European UnionWhen consumed by humans, caffeine stimulates the central nervous system, an...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sleepfoundation.org  
    Title: caffeine and sleep  
-   Link: [https://www.sleepfoundation.org/nutrition/caffeine-and-sleep](https://www.sleepfoundation.org/nutrition/caffeine-and-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/nutrition/caffeine-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/nutrition/caffeine-and-sleep</a>  
 
 9. <a id="endnote-9"></a>
    Source: discovery.ucl.ac.uk  
    Title: Michie et al. (in press) BCT Taxonomy v1 development paper  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf](https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: discovery.ucl.ac.uk  
    Title: Michie Enc Beh Med Final  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/1527361/9/Michie_Enc%20Beh%20Med%20-%20Final.pdf](https://discovery.ucl.ac.uk/id/eprint/1527361/9/Michie_Enc%20Beh%20Med%20-%20Final.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/1527361/9/Michie_Enc%20Beh%20Med%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/1527361/9/Michie_Enc%20Beh%20Med%20-%20Final.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: dspace.library.uu.nl  
    Title: DSpace Breaking Habits Using Implementation Intentions  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11920387/</a>  
 
 13. <a id="endnote-13"></a>
    Source: research.wur.nl  
    Title: identifying the if for if then plans combining implementation int  
-   Link: [https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int](https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int)  
+   Link: <a href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow">https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int</a>  
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Effects of task interruptions caused by notifications from  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10244611/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10244611/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10244611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10244611/</a>  
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/</a>  
 
 16. <a id="endnote-16"></a>
    Source: sleepfoundation.org  
    Title: how long does it take caffeine to wear off  
-   Link: [https://www.sleepfoundation.org/nutrition/how-long-does-it-take-caffeine-to-wear-off](https://www.sleepfoundation.org/nutrition/how-long-does-it-take-caffeine-to-wear-off)  
+   Link: <a href="https://www.sleepfoundation.org/nutrition/how-long-does-it-take-caffeine-to-wear-off" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/nutrition/how-long-does-it-take-caffeine-to-wear-off</a>  
 
 17. <a id="endnote-17"></a>
    Source: dspace.library.uu.nl  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/431458/Developing_habit-based_health_behaviour_change_interventions_twenty-one_questions_to_guide_future_research.pdf?isAllowed=y&sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/431458/Developing_habit-based_health_behaviour_change_interventions_twenty-one_questions_to_guide_future_research.pdf?isAllowed=y&sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/431458/Developing_habit-based_health_behaviour_change_interventions_twenty-one_questions_to_guide_future_research.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/431458/Developing_habit-based_health_behaviour_change_interventions_twenty-one_questions_to_guide_future_research.pdf?isAllowed=y&amp;sequence=1</a>  
 
 18. <a id="endnote-18"></a>
    Source: get-alfred.ai  
    Title: attention residue  
-   Link: [https://get-alfred.ai/blog/attention-residue](https://get-alfred.ai/blog/attention-residue)  
+   Link: <a href="https://get-alfred.ai/blog/attention-residue" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/attention-residue</a>  
 
 19. <a id="endnote-19"></a>
    Source: healthdirect.gov.au  
-   Link: [https://www.healthdirect.gov.au/caffeine](https://www.healthdirect.gov.au/caffeine)  
+   Link: <a href="https://www.healthdirect.gov.au/caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.healthdirect.gov.au/caffeine</a>  
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1425707/full](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1425707/full)  
+   Link: <a href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1425707/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1425707/full</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pznlwQ-LB6k](https://www.youtube.com/watch?v=pznlwQ-LB6k)  
+   Link: <a href="https://www.youtube.com/watch?v=pznlwQ-LB6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pznlwQ-LB6k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral scientist BJ Fogg on building lasting habits...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vzfqx8BvqQo](https://www.youtube.com/watch?v=vzfqx8BvqQo)  
+   Link: <a href="https://www.youtube.com/watch?v=vzfqx8BvqQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vzfqx8BvqQo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Use &quot;after&quot; to create a habit - BJ Fogg, Ph.D...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Secret to Starting Work Without Procrastination  
-   Link: [https://www.youtube.com/watch?v=a1KUkWnJD0I](https://www.youtube.com/watch?v=a1KUkWnJD0I)  
+   Link: <a href="https://www.youtube.com/watch?v=a1KUkWnJD0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a1KUkWnJD0I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Stacking: Structure Your Day for Peak Focus | James Clear &amp; Dr. Andrew Huberman...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Use "after" to create a habit  
-   Link: [https://www.youtube.com/watch?v=lxngufGsdzg](https://www.youtube.com/watch?v=lxngufGsdzg)  
+   Link: <a href="https://www.youtube.com/watch?v=lxngufGsdzg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lxngufGsdzg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Minute Coffee Ritual for Calm &amp; Presence: Mindfulness Practice to Engage Your Senses...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41554526/](https://pubmed.ncbi.nlm.nih.gov/41554526/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41554526/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41554526/</a>  
 
 26. <a id="endnote-26"></a>
    Source: studocu.vn  
-   Link: [https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/sinh-hoat-cong-dan/03-the-science-of-habit-formation-insights-on-behavioral-change/161523100](https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/sinh-hoat-cong-dan/03-the-science-of-habit-formation-insights-on-behavioral-change/161523100)  
+   Link: <a href="https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/sinh-hoat-cong-dan/03-the-science-of-habit-formation-insights-on-behavioral-change/161523100" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/sinh-hoat-cong-dan/03-the-science-of-habit-formation-insights-on-behavioral-change/161523100</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
 28. <a id="endnote-28"></a>
    Source: erichorvitz.com  
-   Link: [https://erichorvitz.com/taskdiary.pdf](https://erichorvitz.com/taskdiary.pdf)  
+   Link: <a href="https://erichorvitz.com/taskdiary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://erichorvitz.com/taskdiary.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/1094892579](https://quizlet.com/1094892579)  
+   Link: <a href="https://quizlet.com/1094892579" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/1094892579</a>  
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWxS_Kwghgx/](https://www.instagram.com/reel/DWxS_Kwghgx/)  
+   Link: <a href="https://www.instagram.com/reel/DWxS_Kwghgx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWxS_Kwghgx/</a>  

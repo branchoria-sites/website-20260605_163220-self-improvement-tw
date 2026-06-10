@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:13:35'
 parent_title: Can the Gym Survive the Workday? | Better Change
 parent_permalink: /gym-routine/
 parent_nav_short_title: Gym Routine
@@ -265,7 +266,6 @@ next_link:
   permalink: /packed-bag/
   short_title: Packed Bag
   heading_title: Why the Gym Bag Matters Before Work
-date: '2026-06-05 15:13:35 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_low_energy_minimum_w_416d3b-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_low_energy_minimum_w_416d3b-Illustration-1.webp
@@ -507,7 +507,7 @@ For an after-work gym routine, the minimum workout is therefore not a compromise
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -516,78 +516,94 @@ For an after-work gym routine, the minimum workout is therefore not a compromise
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Duffel Storage Practical Waist Gym Bag Pocket Belt Organizer Pouch Pack"><img src="{{ '/assets/images/marketplace-covers/b483e4032bf4c75cdb17.jpg' | relative_url }}" alt="Listing image for Travel Duffel Storage Practical Waist Gym Bag Pocket Belt Organizer Pouch Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/bcYAAeSw7cJqHb1X/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Travel Duffel Storage Practical Waist Gym Bag Pocket Belt Organizer Pouch Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search <span data-ebay-domain-label>eBay.com</span>: gym organizer pouch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Gym Bag Large Capacity Organizer w/ Phone Pocket &amp; Bottle Holder"><img src="{{ '/assets/images/marketplace-covers/dfc5c1f404026eb2ac6b.jpg' | relative_url }}" alt="Listing image for Magnetic Gym Bag Large Capacity Organizer w/ Phone Pocket &amp; Bottle Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="https://i.ebayimg.com/images/g/LAMAAeSwng5pTtfM/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Magnetic Gym Bag Large Capacity Organizer w/ Phone Pocket &amp; Bottle Holder</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search <span data-ebay-domain-label>eBay.com</span>: gym organizer pouch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Duffel Storage Practical Waist Gym Bag Pocket Belt Organizer Pouch Pack"><img src="{{ '/assets/images/marketplace-covers/7e10e8e78d8b8da58f99.jpg' | relative_url }}" alt="Listing image for Travel Duffel Storage Practical Waist Gym Bag Pocket Belt Organizer Pouch Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl"><img src="https://i.ebayimg.com/images/g/8ooAAeSwoVBpDl1R/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Travel Duffel Storage Practical Waist Gym Bag Pocket Belt Organizer Pouch Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search <span data-ebay-domain-label>eBay.com</span>: gym organizer pouch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Gym Bag Large Capacity Bottle Holder Phone Pocket Portable Bag"><img src="{{ '/assets/images/marketplace-covers/853fbb2433c43096eb28.jpg' | relative_url }}" alt="Listing image for Magnetic Gym Bag Large Capacity Bottle Holder Phone Pocket Portable Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="https://i.ebayimg.com/images/g/ZPgAAeSwOzRpzAz2/s-l225.jpg" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Magnetic Gym Bag Large Capacity Bottle Holder Phone Pocket Portable Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search <span data-ebay-domain-label>eBay.com</span>: gym organizer pouch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimum-workout-the-20-minute-workout-that-saves-the-habit-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-20-minute-workout-that-saves-the-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -663,17 +679,31 @@ For an after-work gym routine, the minimum workout is therefore not a compromise
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -686,42 +716,73 @@ For an after-work gym routine, the minimum workout is therefore not a compromise
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -736,135 +797,139 @@ For an after-work gym routine, the minimum workout is therefore not a compromise
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: who.int  
    Title: physical activity  
-   Link: [https://www.who.int/news-room/fact-sheets/detail/physical-activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)  
+   Link: <a href="https://www.who.int/news-room/fact-sheets/detail/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/fact-sheets/detail/physical-activity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationPhysical activity26 Jun 2024 — The guidelines highlight that any amount of physical activity is better than none...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: heart.org  
    Title: aha recs for physical activity in adults  
-   Link: [https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/aha-recs-for-physical-activity-in-adults](https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/aha-recs-for-physical-activity-in-adults)  
+   Link: <a href="https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/aha-recs-for-physical-activity-in-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/aha-recs-for-physical-activity-in-adults</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>And you can break it up into short bouts of activity throughout the day. Taking a brisk walk for...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2095254625000705](https://www.sciencedirect.com/science/article/pii/S2095254625000705)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2095254625000705" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2095254625000705</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Short bouts of accumulated exercise: Review and...by M Yin · 2025 · Cited by 15 — Insufficient physical activity (PA)—defined as failing...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: who.int  
-   Link: [https://www.who.int/publications/i/item/9789240015128](https://www.who.int/publications/i/item/9789240015128)  
+   Link: <a href="https://www.who.int/publications/i/item/9789240015128" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240015128</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO guidelines on physical activity and sedentary behaviour25 Nov 2020 — The WHO Guidelines on physical activity and sedentary behaviour...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: who.int  
-   Link: [https://www.who.int/initiatives/behealthy/physical-activity](https://www.who.int/initiatives/behealthy/physical-activity)  
+   Link: <a href="https://www.who.int/initiatives/behealthy/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/initiatives/behealthy/physical-activity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical activityShould do at least 150 minutes of moderate-intensity physical activity throughout the week, or do at least 75 minutes of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/publications/i/item/9789240014886](https://www.who.int/europe/publications/i/item/9789240014886)  
+   Link: <a href="https://www.who.int/europe/publications/i/item/9789240014886" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/publications/i/item/9789240014886</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO guidelines on physical activity and sedentary behaviour4 May 2021 — For health and wellbeing, WHO recommends at least 150 to 300 minu...</p></details>
    Published: May 2021  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498635/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498635/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498635/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498635/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Future studies could leverage the insights form this study.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby FC Bull · 2020 · Cited by 13059 — Many of the benefits of physical activity are observed within average weekly volumes of 150–300 m...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by FC Bull · 2020 · Cited by 13059 — Many of the benefits of physical activity are observed within average weekly volumes of 150–300 m...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/wellness/2026/02/25/all-or-nothing-exercise-mindset/](https://www.washingtonpost.com/wellness/2026/02/25/all-or-nothing-exercise-mindset/)  
+   Link: <a href="https://www.washingtonpost.com/wellness/2026/02/25/all-or-nothing-exercise-mindset/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/2026/02/25/all-or-nothing-exercise-mindset/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This mentality, where people believe workouts must be intense, lengthy, or perfect to count, causes many to give up when they fall short...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11127831/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11127831/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11127831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11127831/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralResistance Exercise Minimal Dose Strategies for Increasing...by JL Nuzzo · 2024 · Cited by 48 — We define and overview evi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central American College of Sports Medicine Position Stand  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby BS CURRIER · 2026 — Individualized programs can increase exercise adoption and adherence (10), but individualization has been scarc...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by BS CURRIER · 2026 — Individualized programs can increase exercise adoption and adherence (10), but individualization has been scarc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11562445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11562445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11562445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11562445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralHealth-Related Benefits and Adherence for Multiple Short...by NI Brown · 2024 · Cited by 13 — Prescribing or recommending...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1548382/full](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1548382/full)  
+   Link: <a href="https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1548382/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1548382/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of exercise based on adherence to ACSM...by J Li · 2025 — This meta-analysis revealed that exercise interventions with high...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/343679552_Protocol_for_Minute_Calisthenics_A_randomized_controlled_study_of_a_daily_habit-based_bodyweight_resistance_training_program](https://www.researchgate.net/publication/343679552_Protocol_for_Minute_Calisthenics_A_randomized_controlled_study_of_a_daily_habit-based_bodyweight_resistance_training_program)  
+   Link: <a href="https://www.researchgate.net/publication/343679552_Protocol_for_Minute_Calisthenics_A_randomized_controlled_study_of_a_daily_habit-based_bodyweight_resistance_training_program" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343679552_Protocol_for_Minute_Calisthenics_A_randomized_controlled_study_of_a_daily_habit-based_bodyweight_resistance_training_program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A randomized controlled study of a daily, habit-based...5 Aug 2020 — The approach is unique in that it utilizes brief but frequent body...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/347179596_World_Health_Organization_2020_guidelines_on_physical_activity_and_sedentary_behaviour](https://www.researchgate.net/publication/347179596_World_Health_Organization_2020_guidelines_on_physical_activity_and_sedentary_behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/347179596_World_Health_Organization_2020_guidelines_on_physical_activity_and_sedentary_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347179596_World_Health_Organization_2020_guidelines_on_physical_activity_and_sedentary_behaviour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) World Health Organization 2020 guidelines on...21 Dec 2020 — All adults should undertake 150–300 min of moderate-intensity, or 75–...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394314358_Exploring_the_impact_of_short-term_adherence_to_physical_activity_guidelines_to_improve_the_intrinsic_capacity_of_older_adults](https://www.researchgate.net/publication/394314358_Exploring_the_impact_of_short-term_adherence_to_physical_activity_guidelines_to_improve_the_intrinsic_capacity_of_older_adults)  
+   Link: <a href="https://www.researchgate.net/publication/394314358_Exploring_the_impact_of_short-term_adherence_to_physical_activity_guidelines_to_improve_the_intrinsic_capacity_of_older_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394314358_Exploring_the_impact_of_short-term_adherence_to_physical_activity_guidelines_to_improve_the_intrinsic_capacity_of_older_adults</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the impact of short-term adherence to physical...5 Aug 2025 — Therefore, this study aimed to assess the impact of 4 weeks adhe...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: acsm.org  
-   Link: [https://acsm.org/education-resources/trending-topics-resources/acsm-fitness-trends/](https://acsm.org/education-resources/trending-topics-resources/acsm-fitness-trends/)  
+   Link: <a href="https://acsm.org/education-resources/trending-topics-resources/acsm-fitness-trends/" target="_blank" rel="noopener noreferrer nofollow">https://acsm.org/education-resources/trending-topics-resources/acsm-fitness-trends/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ACSM Fitness TrendsThis article from ACSM&#x27;s Health &amp; Fitness Journal® reveals how power declines faster than strength, why that matters f...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: neacsm.org  
-   Link: [https://www.neacsm.org/acsm-links](https://www.neacsm.org/acsm-links)  
+   Link: <a href="https://www.neacsm.org/acsm-links" target="_blank" rel="noopener noreferrer nofollow">https://www.neacsm.org/acsm-links</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ACSM LinksAmerican College of Sports Medicine (ACSM). Advancing health through science, education, and medicine. ​Much more than a slogan...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: acsm.org  
-   Link: [https://acsm.org/resistance-training-guidelines-update-2026/](https://acsm.org/resistance-training-guidelines-update-2026/)  
+   Link: <a href="https://acsm.org/resistance-training-guidelines-update-2026/" target="_blank" rel="noopener noreferrer nofollow">https://acsm.org/resistance-training-guidelines-update-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ACSM Publishes Updated Resistance Training GuidelinesUnderstand the key points of the ACSM Resistance Training Guidelines for effective m...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: acsm.org  
-   Link: [https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/](https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/)  
+   Link: <a href="https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Activity GuidelinesACSM provides recommendations and guidelines for physical activity and exercise based on the latest science a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: news.mcmaster.ca  
-   Link: [https://news.mcmaster.ca/consistency-over-perfection-new-resistance-training-guidelines-say/](https://news.mcmaster.ca/consistency-over-perfection-new-resistance-training-guidelines-say/)  
+   Link: <a href="https://news.mcmaster.ca/consistency-over-perfection-new-resistance-training-guidelines-say/" target="_blank" rel="noopener noreferrer nofollow">https://news.mcmaster.ca/consistency-over-perfection-new-resistance-training-guidelines-say/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>over perfection, new resistance-training...5 days ago — ACSM last published a Position Stand on resistance training for healthy adults i...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/](https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/)  
+   Link: <a href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>activity guidelines for adults aged 19 to 64General health and fitness guidelines for adults aged 19 to 64, including tips on how to achi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227020267_Physical_Activity_and_Adherence](https://www.researchgate.net/publication/227020267_Physical_Activity_and_Adherence)  
+   Link: <a href="https://www.researchgate.net/publication/227020267_Physical_Activity_and_Adherence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227020267_Physical_Activity_and_Adherence</a>  

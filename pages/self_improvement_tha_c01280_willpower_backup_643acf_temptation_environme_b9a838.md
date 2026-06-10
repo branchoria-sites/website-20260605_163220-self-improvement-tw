@@ -276,7 +276,7 @@ This matters because most failures of consistency do not happen after careful de
 
 ## Can Your Environment Do the Resisting?
 
-The process model of self-control developed by Angela Duckworth, Tamar Gendler and James Gross argues that the earliest interventions are often the most effective. Instead of waiting until temptation is intense and then trying to suppress it, people can select or modify situations before the conflict fully develops. In practice, that means changing what is available, visible, accessible or expected. PMC PubMed This idea challenges a common image of discipline. Many people imagine that disciplined individuals constantly resist powerful urges. Yet evi <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span> dence suggests that people with higher trait self-control often avoid temptation more successfully than they resist it. They are more likely to arrange circumstances that reduce exposure to distractions and temptations before those temptations demand effortful restraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectTrait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</span></span></span>
+The process model of self-control developed by Angela Duckworth, Tamar Gendler and James Gross argues that the earliest interventions are often the most effective. Instead of waiting until temptation is intense and then trying to suppress it, people can select or modify situations before the conflict fully develops. In practice, that means changing what is available, visible, accessible or expected. PMC PubMed This idea challenges a common image of discipline. Many people imagine that disciplined individuals constantly resist powerful urges. Yet evi <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span> dence suggests that people with higher trait self-control often avoid temptation more successfully than they resist it. They are more likely to arrange circumstances that reduce exposure to distractions and temptations before those temptations demand effortful restraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</span></span></span>
 
 The practical implication is simple: every temptation has a setup phase. Long before someone scrolls for an hour, overeats, procrastinates or makes an impulsive purchase, the [environment]({{ 'environment/' | relative_url }}) has often already made that outcome easier.
 
@@ -291,7 +291,7 @@ This principle appears across many domains:
 * People who want to focus often work better when distracting websites are blocked before work begins.
 * People trying to sleep better often benefit from charging devices outside the bedroom.
 * People attempting to eat differently often succeed more consistently when healthier foods are more accessible than less healthy alternatives.
-* People trying to save money frequently rely on automatic transfers rather than repeated spending decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCChoice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 105 — Choice architecture interventio...</span></span></span>
+* People trying to save money frequently rely on automatic transfers rather than repeated spending decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Choice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 105 — Choice architecture interventio...</span></span></span>
 
 In each case, the environment absorbs part of the self-control burden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Self Control</span><span class="citation-popover-snippet">an overviewOne way people overcome the challenge of self-control is by actively inhibiting the thoughts, feelings, and behavioral tendenc...</span></span></span>
 
@@ -342,7 +342,7 @@ Environmental redesign at work can include:
 
 </div>
 
-Research on [choice architecture]({{ 'defaults/' | relative_url }}) shows that subtle changes in the decision environment can alter behaviour without requiring major changes in [motivation]({{ 'motivation/' | relative_url }}). The environment influences what feels normal, obvious and easy at the moment of choice. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
+Research on choice architecture shows that subtle changes in the decision environment can alter behaviour without requiring major changes in [motivation]({{ 'motivation/' | relative_url }}). The environment influences what feels normal, obvious and easy at the moment of choice. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-dark.svg" | relative_url }}" alt="Temptation Setup illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,16 +354,16 @@ A default is what happens when no active decision is made. Because people tend t
 
 For self-improvement, effective defaults include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[psychologicalscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span>
 
-* [Automatic savings]({{ 'money-defaults/' | relative_url }}) transfers.
+* Automatic savings transfers.
 * Pre-planned meals.
 * Calendar blocks reserved for exercise or focused work.
-* [Website blockers]({{ 'blockers/' | relative_url }}) that activate automatically during work hours.
+* Website [blockers]({{ 'blockers/' | relative_url }}) that activate automatically during work hours.
 * Standing desks preset to a preferred position.
 
 The key insight is that many behaviours occur because they are the default, not because they were carefully chosen. Changing defaults often changes outcomes without requiring stronger motivation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ysmVlaw36L0" title="Yaz - Situation (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ysmVlaw36L0" target="_blank" rel="noopener noreferrer">Yaz - Situation (Official Audio)</a></p><p class="youtube-embed-meta">Channel: RHINO &middot; Views: 7.5M &middot; Uploaded: May 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ysmVlaw36L0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ysmVlaw36L0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0rJTbJOeFMA" title="James Blunt - High (Official Original Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer">James Blunt - High (Official Original Video)</a></p><p class="youtube-embed-meta">Channel: James Blunt &middot; Views: 30.8M &middot; Uploaded: May 2007 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0rJTbJOeFMA">Open on YouTube</a></p></div></div></div>
 
 ## How to Redesign One Recurring Temptation
 
@@ -403,7 +403,7 @@ Examples include:
 The obstacle does not need to be large. It only needs to interrupt automatic behaviour.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0rJTbJOeFMA" title="James Blunt - High (Official Original Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer">James Blunt - High (Official Original Video)</a></p><p class="youtube-embed-meta">Channel: James Blunt &middot; Views: 30.8M &middot; Uploaded: May 2007 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0rJTbJOeFMA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZoOpnvvGfF0" title="how to resist temptation so easily it retires from bullying you" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZoOpnvvGfF0" target="_blank" rel="noopener noreferrer">how to resist temptation so easily it retires from bullying you</a></p><p class="youtube-embed-meta">Channel: Newel of Knowledge &middot; Views: 61.3K &middot; Uploaded: November 2025 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZoOpnvvGfF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZoOpnvvGfF0">Open on YouTube</a></p></div></div></div>
 
 ### What Friction Can Be Removed From the Better Alternative?
 
@@ -427,7 +427,7 @@ Environmental design is strongest when it simultaneously increases friction for 
 
 Environmental redesign can feel almost trivial compared with dramatic stories of [willpower]({{ 'willpower/' | relative_url }}) and determination. Yet its strength comes from repetition. A tiny obstacle encountered once is insignificant. A tiny obstacle encountered fifty times a week can reshape behaviour.
 
-This is why effective self-improvement often looks surprisingly mundane. It is not always a story of heroic resistance. More often, it is a story of rearranged rooms, altered defaults, hidden cues, blocked distractions and small amounts of friction placed in exactly the right locations. By the time temptation arrives, much of the decision has already been made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental and inhibitory control strategies to...by NA Cáceres · 2022 · Cited by 5 — This research addresses the oft-debated questio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectTrait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</span></span></span>
+This is why effective self-improvement often looks surprisingly mundane. It is not always a story of heroic resistance. More often, it is a story of rearranged rooms, altered defaults, hidden cues, blocked distractions and small amounts of friction placed in exactly the right locations. By the time temptation arrives, much of the decision has already been made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental and inhibitory control strategies to...by NA Cáceres · 2022 · Cited by 5 — This research addresses the oft-debated questio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -851,136 +851,136 @@ This is why effective self-improvement often looks surprisingly mundane. It is n
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSituational Strategies for Self-Control  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-control strategies can be organized using the process model of self-control (Duckworth, Gendler, &amp; Gross, 2014). This framework pred...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCChoice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 105 — Choice architecture interventio...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 105 — Choice architecture interventio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339](https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTrait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental and inhibitory control strategies to...by NA Cáceres · 2022 · Cited by 5 — This research addresses the oft-debated questio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pure.mpg.de  
-   Link: [https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content](https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content)  
+   Link: <a href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, default...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging to move: a scoping review of the use of choice  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6724306/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6724306/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Forberger · 2019 · Cited by 156 — This paper aims to (1) give an overview of the scope of interventions using choice architecture...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6724306/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6724306/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Forberger · 2019 · Cited by 156 — This paper aims to (1) give an overview of the scope of interventions using choice architecture...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0749597820303848](https://www.sciencedirect.com/science/article/pii/S0749597820303848)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749597820303848" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597820303848</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior changeby AL Duckworth · 2020 · Cited by 130 — We propose the process model of behavior change as a parsimonious framework for or...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>than Resisting Temptation: Beneficial Habits Mediate the...by BM Galla · 2015 · Cited by 767 — Indeed, it is intuitive to liken self-con...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: self.inc  
-   Link: [https://www.self.inc/](https://www.self.inc/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self | Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X2400071X](https://www.sciencedirect.com/science/article/pii/S2352250X2400071X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X2400071X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2400071X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Gross: Writing – review &amp; editing. Declaration of competing interest. The authors declare that they have no...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Self Control  
-   Link: [https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control)  
+   Link: <a href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewOne way people overcome the challenge of self-control is by actively inhibiting the thoughts, feelings, and behavioral tendenc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: psychologicalscience.org  
    Title: effective self control strategies  
-   Link: [https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html](https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html)  
+   Link: <a href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/choice-architecture](https://thedecisionlab.com/reference-guide/psychology/choice-architecture)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12294546/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12294546/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12294546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12294546/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at Work - Effect of Nudges on Stand-Up Workingby M Celis · 2025 — This field experiment investigates the effectiveness of behavioral nudg...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: angeladuckworth.com  
-   Link: [https://angeladuckworth.com/tag/self-control/](https://angeladuckworth.com/tag/self-control/)  
+   Link: <a href="https://angeladuckworth.com/tag/self-control/" target="_blank" rel="noopener noreferrer nofollow">https://angeladuckworth.com/tag/self-control/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Angela DuckworthDuckworth, A. L., Gendler, T. S., &amp; Gross, J. J. (2014). Self-control in school-age children. Educational Psychologist, 4...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: csap.yale.edu  
-   Link: [https://csap.yale.edu/sites/default/files/files/bsw-ad-5-10-2021.pdf](https://csap.yale.edu/sites/default/files/files/bsw-ad-5-10-2021.pdf)  
+   Link: <a href="https://csap.yale.edu/sites/default/files/files/bsw-ad-5-10-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csap.yale.edu/sites/default/files/files/bsw-ad-5-10-2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>change - Center for the Study of American Politicsby AL Duckworth · 2020 · Cited by 139 — This supplemental issue collects papers by part...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: nanohabits.com  
-   Link: [https://www.nanohabits.com/learn/designing-environment-for-habits](https://www.nanohabits.com/learn/designing-environment-for-habits)  
+   Link: <a href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.nanohabits.com/learn/designing-environment-for-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small environmental sh...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Trait-self-control-and-the-avoidance-of-temptation-Ent-Baumeister/0cff1161825dee3e0ff154fc499371efd5a955dc](https://www.semanticscholar.org/paper/Trait-self-control-and-the-avoidance-of-temptation-Ent-Baumeister/0cff1161825dee3e0ff154fc499371efd5a955dc)  
+   Link: <a href="https://www.semanticscholar.org/paper/Trait-self-control-and-the-avoidance-of-temptation-Ent-Baumeister/0cff1161825dee3e0ff154fc499371efd5a955dc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Trait-self-control-and-the-avoidance-of-temptation-Ent-Baumeister/0cff1161825dee3e0ff154fc499371efd5a955dc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trait self-control and the avoidance of temptationHigh trait self-control has been traditionally described as a keen ability to resist te...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: raybwilliams.medium.com  
-   Link: [https://raybwilliams.medium.com/why-we-get-willpower-wrong-and-what-its-costing-us-635e07973460](https://raybwilliams.medium.com/why-we-get-willpower-wrong-and-what-its-costing-us-635e07973460)  
+   Link: <a href="https://raybwilliams.medium.com/why-we-get-willpower-wrong-and-what-its-costing-us-635e07973460" target="_blank" rel="noopener noreferrer nofollow">https://raybwilliams.medium.com/why-we-get-willpower-wrong-and-what-its-costing-us-635e07973460</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Get Willpower Wrong, And What It&#x27;s Costing UsWendy Wood&#x27;s research shows that behavior is much more affected by environmental friction...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/high](https://www.dictionary.com/browse/high)  
+   Link: <a href="https://www.dictionary.com/browse/high" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/high</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Definition &amp; MeaningHIGH definition: having a great or considerable extent or reach upward or vertically; lofty; tall. See examples...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/high](https://www.merriam-webster.com/dictionary/high)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies](https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies)  
+   Link: <a href="https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Situational strategies encompass various attempts to control the situation... Duckworth, Gendler, &amp; Gross, 2016). In step 2, the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: collinsdictionary.com  
    Title: HIG H definition in American Englishhigh in American English · 1  
-   Link: [https://www.collinsdictionary.com/us/dictionary/english/high](https://www.collinsdictionary.com/us/dictionary/english/high)  
+   Link: <a href="https://www.collinsdictionary.com/us/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/high</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of more than normal height; lofty; tall [not used of persons] · 2. extending upward a (specified) distance · 3. situated far above...Rea...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/home-environment-design-for-better-habits/](https://goalsandprogress.com/home-environment-design-for-better-habits/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Environment Design](&amp;#123;&amp;#123; &#x27;environment/&#x27; | relative_url &amp;#125;&amp;#125;) for Habits: Set Up Your Home for ChangeEnvironment design for habits uses choice architecture, friction, and cue place...</p></details>
+   Link: <a href="https://goalsandprogress.com/home-environment-design-for-better-habits/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/home-environment-design-for-better-habits/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environment Design for Habits: Set Up Your Home for ChangeEnvironment design for habits uses choice architecture, friction, and cue place...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: emotrab.ufba.br  
    Title: Emotion regulationCurrent status and future prospectsGross2015  
-   Link: [https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf](https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf)  
+   Link: <a href="https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L., Gendler, T.S., &amp; Gross, J. J. (in press). Self-con- trol in school-age children. Educational Psychologist. Dunning, J. P., &amp; Hajcak, G...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: curee.co.uk  
-   Link: [https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf](https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf)  
+   Link: <a href="https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ehaviour, and built upon the efforts of Magen &amp; Gross (2010) in exploring how the...</p></details>

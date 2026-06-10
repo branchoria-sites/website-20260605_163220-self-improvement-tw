@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:14:04'
 parent_title: Can the Gym Survive the Workday? | Better Change
 parent_permalink: /gym-routine/
 parent_nav_short_title: Gym Routine
@@ -265,7 +266,6 @@ next_link:
   permalink: /realistic-days/
   short_title: Realistic Days
   heading_title: Which After Work Gym Days Actually Stick?
-date: '2026-06-05 15:14:04 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_packed_gym_bag_commi_eedec3-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_packed_gym_bag_commi_eedec3-Illustration-1.webp
@@ -284,7 +284,7 @@ Behaviour-change research consistently finds that planning and implementation in
 
 The value of the bag is not primarily the equipment inside it. The value is that it reduces friction at the exact moment when [motivation]({{ 'motivation/' | relative_url }}) is weakest.
 
-Researchers studying habit formation and behaviour change repeatedly find that [environmental cues]({{ 'cues-195d40/' | relative_url }}) and planning matter because they reduce the mental effort required to act. People naturally select cues that minimise effort, such as keeping necessary items visible and readily available. Poorly defined plans and reliance on memory alone are associated with weaker follow-through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
+Researchers studying habit formation and [behaviour change]({{ 'behaviour-change/' | relative_url }}) repeatedly find that environmental cues and planning matter because they reduce the mental effort required to act. People naturally select cues that minimise effort, such as keeping necessary items visible and readily available. Poorly defined plans and reliance on memory alone are associated with weaker follow-through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
 
 For an after-work [gym routine]({{ 'gym-routine/' | relative_url }}), the packed bag creates three advantages:
 
@@ -297,7 +297,7 @@ For an after-work [gym routine]({{ 'gym-routine/' | relative_url }}), the packed
 
 </div>
 
-This is a form of environmental design, sometimes called [choice architecture]({{ 'defaults/' | relative_url }}). Instead of relying on willpower at the end of a demanding workday, the environment is arranged so that the desired behaviour becomes easier to execute. Research on choice architecture interventions shows that changing the decision environment can produce meaningful behaviour change across many domains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
+This is a form of environmental design, sometimes called choice architecture. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) at the end of a demanding workday, the [environment]({{ 'environment/' | relative_url }}) is arranged so that the desired behaviour becomes easier to execute. Research on choice architecture interventions shows that changing the decision environment can produce meaningful behaviour change across many domains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PzCqFAdB3g0" title="Importance of Behavior Change in Exercise Adherence, with Aaron Patterson, M.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PzCqFAdB3g0" target="_blank" rel="noopener noreferrer">Importance of Behavior Change in Exercise Adherence, with Aaron Patterson, M.S.</a></p><p class="youtube-embed-meta">Channel: Human Kinetics &middot; Views: 122 &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PzCqFAdB3g0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PzCqFAdB3g0">Open on YouTube</a></p></div></div></div>
@@ -825,114 +825,114 @@ Research on implementation intentions, action planning, cues, and environmental 
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf](https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf)  
+   Link: <a href="https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenBehaviour change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) that constitute effective...by H Lin · 2022 · Cited by 43 — Objectives Action planning is a brief an...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsA meta-analysis of action planning interve...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31923898/](https://pubmed.ncbi.nlm.nih.gov/31923898/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralWhat influences the selection of contextual cues when starting a...March 30, 2020 — Cue selection was primarily influenced...</p></details>
    Published: March 30, 2020  
 
 7. <a id="endnote-7"></a>
    Source: today.duke.edu  
-   Link: [https://today.duke.edu/2007/12/habit.html](https://today.duke.edu/2007/12/habit.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Duke TodayKey to Changing Habits Is In Environment, Not [Willpower](&amp;#123;&amp;#123; &#x27;willpower/&#x27; | relative_url &amp;#125;&amp;#125;)...Dec 13, 2007 — &quot;Many of our repeated behaviors are cued by everyday...</p></details>
+   Link: <a href="https://today.duke.edu/2007/12/habit.html" target="_blank" rel="noopener noreferrer nofollow">https://today.duke.edu/2007/12/habit.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Duke TodayKey to Changing Habits Is In Environment, Not Willpower...Dec 13, 2007 — &quot;Many of our repeated behaviors are cued by everyday...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The effectiveness of nudging: A meta-analysis of choice  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Mertens · 2021 · Cited by 1027 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 1027 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralChoice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 109 — Choice architecture...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/choice-architecture](https://jamesclear.com/choice-architecture)  
+   Link: <a href="https://jamesclear.com/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/choice-architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To Change Your Behavior, Change Your Environment. Every habit is initiated by a cue, and we are more likely to notice cues...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Impact of implementation intentions on physical activity  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MAV da Silva · 2018 · Cited by 102 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MAV da Silva · 2018 · Cited by 102 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: behavior.rare.org  
-   Link: [https://behavior.rare.org/science/choice-architecture/](https://behavior.rare.org/science/choice-architecture/)  
+   Link: <a href="https://behavior.rare.org/science/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://behavior.rare.org/science/choice-architecture/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture - Behavior Change for the EnvironmentChoice architecture works because of the reliance on cognitive biases, habits, routines...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/nudging-and-choice-architecture-in-behavioral-policy](https://www.nature.com/nature-index/topics/l4/nudging-and-choice-architecture-in-behavioral-policy)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/nudging-and-choice-architecture-in-behavioral-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/nudging-and-choice-architecture-in-behavioral-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nudging and Choice Architecture in Behavioral PolicyBehavioral policy employs subtle interventions, known as nudges, to steer individuals...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/behavioral-strategies-for-goal-achievement](https://www.nature.com/nature-index/topics/l4/behavioral-strategies-for-goal-achievement)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/behavioral-strategies-for-goal-achievement" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavioral-strategies-for-goal-achievement</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/269517913_Choice_Architecture](https://www.researchgate.net/publication/269517913_Choice_Architecture)  
+   Link: <a href="https://www.researchgate.net/publication/269517913_Choice_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269517913_Choice_Architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Choice ArchitectureIn this paper we analyze some of the tools that are available to choice architects. Our goal is to show how choi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students](https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students)  
+   Link: <a href="https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of Implementation Intentions Interventions in...Aug 7, 2023 — Implementation intentions (II) have demonstrated their effic...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: eprints.bournemouth.ac.uk  
-   Link: [https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf](https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf)  
+   Link: <a href="https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do older adults think about when formulating...by VD Bösch · 2022 · Cited by 4 — Having a clear goal like these recommendations could en...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/choice-architecture](https://thedecisionlab.com/reference-guide/psychology/choice-architecture)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pure-oai.bham.ac.uk  
-   Link: [https://pure-oai.bham.ac.uk/ws/portalfiles/portal/11726716/Implementation_intentions_May_2007_physical_activity_.doc](https://pure-oai.bham.ac.uk/ws/portalfiles/portal/11726716/Implementation_intentions_May_2007_physical_activity_.doc)  
+   Link: <a href="https://pure-oai.bham.ac.uk/ws/portalfiles/portal/11726716/Implementation_intentions_May_2007_physical_activity_.doc" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/portalfiles/portal/11726716/Implementation_intentions_May_2007_physical_activity_.doc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to the theory of planned behaviour, a person&#x27;s...by LD Nikos — To examine this hypothesis, we conducted a separate regression analysis r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: topics.consensus.app  
-   Link: [https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review](https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review)  
+   Link: <a href="https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review" target="_blank" rel="noopener noreferrer nofollow">https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>consensus.appMeta-analysis shows planning workouts enhances...22 Jan 2026 — Related studies consistently find that exercise adherence is...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/1557155/1/Manu%20Savani%20Final%20Thesis%20%28For%20Printers%20May%202017%29.pdf](https://discovery.ucl.ac.uk/1557155/1/Manu%20Savani%20Final%20Thesis%20%28For%20Printers%20May%202017%29.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1557155/1/Manu%20Savani%20Final%20Thesis%20%28For%20Printers%20May%202017%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1557155/1/Manu%20Savani%20Final%20Thesis%20%28For%20Printers%20May%202017%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiments on Health Behaviour ChangeResults indicate commitment devices improve health behaviours, but have mixed effects on weight los...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: teuscher-coaching.com  
-   Link: [https://www.teuscher-coaching.com/improving-your-habits-with-choice-architecture/](https://www.teuscher-coaching.com/improving-your-habits-with-choice-architecture/)  
+   Link: <a href="https://www.teuscher-coaching.com/improving-your-habits-with-choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://www.teuscher-coaching.com/improving-your-habits-with-choice-architecture/</a>  

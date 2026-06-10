@@ -289,7 +289,7 @@ What makes timing important is that the opportunity is temporary. If activity be
 This does not mean there is a single perfect minute to start walking. Rather, it suggests that there is a useful window in which movement is working alongside the body's normal handling of incoming glucose.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zg3GBH6fG2I" title="Move Like This After Eating (It Changes Everything)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zg3GBH6fG2I" target="_blank" rel="noopener noreferrer">Move Like This After Eating (It Changes Everything)</a></p><p class="youtube-embed-meta">Channel: Glucose Revolution &middot; Views: 4.1M &middot; Uploaded: August 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zg3GBH6fG2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zg3GBH6fG2I">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/97aTnzzUenM" title="Do THIS after Eating to LOWER Blood Sugar Instantly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=97aTnzzUenM" target="_blank" rel="noopener noreferrer">Do THIS after Eating to LOWER Blood Sugar Instantly</a></p><p class="youtube-embed-meta">Channel: Type 2 Diabetes Revolution &middot; Views: 155.1K &middot; Uploaded: November 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=97aTnzzUenM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=97aTnzzUenM">Open on YouTube</a></p></div></div></div>
 
 ## Immediate Walking Versus Delayed Activity
 
@@ -299,9 +299,9 @@ A systematic review and meta-analysis published in *Sports Medicine* concluded t
 
 Research in people with type 2 diabetes has produced similar findings. In one randomised crossover study, advice to take [short walks]({{ 'short-walks/' | relative_url }}) after meals lowered postprandial glycaemia more effectively than advice to perform the same amount of walking at unspecified times of day. The advantage came from matching activity to the period when glucose levels were rising. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36715875/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med After Dinner Rest a While, After Supper Walk a Mile?</span><span class="citation-popover-snippet">by T Engeroff · 2023 · Cited by 73 — Conclusions: Exercise, i.e., walking, has a greater acute beneficial impact on postprandial hypergly...</span></span></span>
 
-More recent experimental work has reinforced the idea. A 2025 study found that a brief ten-minute walk performed immediately after a glucose challenge produced a significantly lower peak glucose level than resting. Interestingly, the immediate ten-minute walk showed a clearer effect on peak glucose than a longer walk performed later, highlighting how timing can sometimes matter as much as duration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPositive impact of a 10-min walk immediately after glucose...by K Hashimoto · 2025 · Cited by 10 — A brief 10-min walk immediately af...</span></span></span>
+More recent experimental work has reinforced the idea. A 2025 study found that a brief ten-minute walk performed immediately after a glucose challenge produced a significantly lower peak glucose level than resting. Interestingly, the immediate ten-minute walk showed a clearer effect on peak glucose than a longer walk performed later, highlighting how timing can sometimes matter as much as duration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Positive impact of a 10-min walk immediately after glucose...by K Hashimoto · 2025 · Cited by 10 — A brief 10-min walk immediately af...</span></span></span>
 
-Not every study identifies exactly the same optimal start point. Some research suggests beginning around 15–30 minutes after eating may coincide closely with the early glucose rise, while other studies favour walking immediately after the meal. The overall pattern, however, is remarkably consistent: walking within the first half-hour appears better than postponing activity for an hour or more. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6267507/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Timing of Activity after Eating Affects the Glycaemic</span><span class="citation-popover-snippet">PMCby AN Reynolds · 2018 · Cited by 28 — Undertaking activity after waiting for 30 min following eating might be optimal in modifying the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-6643/12/1/221" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">reported lower blood glucose levels with the completion of 20 min of walking, starting 15–20 min post-dinner, compared to pre-dinner or n...</span></span></span>
+Not every study identifies exactly the same optimal start point. Some research suggests beginning around 15–30 minutes after eating may coincide closely with the early glucose rise, while other studies favour walking immediately after the meal. The overall pattern, however, is remarkably consistent: walking within the first half-hour appears better than postponing activity for an hour or more. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6267507/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Timing of Activity after Eating Affects the Glycaemic</span><span class="citation-popover-snippet">by AN Reynolds · 2018 · Cited by 28 — Undertaking activity after waiting for 30 min following eating might be optimal in modifying the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-6643/12/1/221" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">reported lower blood glucose levels with the completion of 20 min of walking, starting 15–20 min post-dinner, compared to pre-dinner or n...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_timing_gl_53fb19-Illustration-2-dark.svg" | relative_url }}" alt="Walk Timing illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_timing_gl_53fb19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_timing_gl_53fb19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,7 +326,7 @@ This approach aligns reasonably well with the evidence while remaining easy to i
 People who find walking immediately after eating uncomfortable do not need to abandon the habit. A short delay is unlikely to erase the benefit. The key point is to stay within the early post-meal period rather than waiting until the glucose response has largely passed. Studies showing benefits from activity starting 15–20 minutes after meals demonstrate that the useful window is flexible rather than exact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-6643/15/20/4489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Efficacy of Postprandial Exercise in Mitigating Glycemic...by J Kang · 2023 · Cited by 18 — Recent reviews suggest that exercise initiat...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/97aTnzzUenM" title="Do THIS after Eating to LOWER Blood Sugar Instantly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=97aTnzzUenM" target="_blank" rel="noopener noreferrer">Do THIS after Eating to LOWER Blood Sugar Instantly</a></p><p class="youtube-embed-meta">Channel: Type 2 Diabetes Revolution &middot; Views: 155.1K &middot; Uploaded: November 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=97aTnzzUenM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=97aTnzzUenM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zg3GBH6fG2I" title="Move Like This After Eating (It Changes Everything)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zg3GBH6fG2I" target="_blank" rel="noopener noreferrer">Move Like This After Eating (It Changes Everything)</a></p><p class="youtube-embed-meta">Channel: Glucose Revolution &middot; Views: 4.1M &middot; Uploaded: August 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zg3GBH6fG2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zg3GBH6fG2I">Open on YouTube</a></p></div></div></div>
 
 ## What Matters More: Timing or Duration?
 
@@ -679,123 +679,123 @@ In practical terms, a ten- to fifteen-minute walk started shortly after lunch is
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAfter Dinner Rest a While, After Supper Walk a Mile?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A... - PMCby T Engeroff · 2023 · Cited by 73 — The optimal time point to get active is as soon as possible in the early postprandial pha...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11053955/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11053955/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11053955/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11053955/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prescription for Postprandial Glycemic Managementby A Bellini · 2024 · Cited by 26 — Research findings vary, with some studies reporting...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPositive impact of a 10-min walk immediately after glucose...by K Hashimoto · 2025 · Cited by 10 — A brief 10-min walk immediately af...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Positive impact of a 10-min walk immediately after glucose...by K Hashimoto · 2025 · Cited by 10 — A brief 10-min walk immediately af...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Timing of Activity after Eating Affects the Glycaemic  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6267507/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6267507/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby AN Reynolds · 2018 · Cited by 28 — Undertaking activity after waiting for 30 min following eating might be optimal in modifying the...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6267507/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6267507/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AN Reynolds · 2018 · Cited by 28 — Undertaking activity after waiting for 30 min following eating might be optimal in modifying the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-6643/12/1/221](https://www.mdpi.com/2072-6643/12/1/221)  
+   Link: <a href="https://www.mdpi.com/2072-6643/12/1/221" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-6643/12/1/221</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reported lower blood glucose levels with the completion of 20 min of walking, starting 15–20 min post-dinner, compared to pre-dinner or n...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/search/research-news/17034](https://www.ncbi.nlm.nih.gov/search/research-news/17034)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/search/research-news/17034" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/search/research-news/17034</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>can help control blood sugar levels, a new study says...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: health.com  
-   Link: [https://www.health.com/news/walking-after-meal-blood-sugar](https://www.health.com/news/walking-after-meal-blood-sugar)  
+   Link: <a href="https://www.health.com/news/walking-after-meal-blood-sugar" target="_blank" rel="noopener noreferrer nofollow">https://www.health.com/news/walking-after-meal-blood-sugar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study analyzed seven different studies, finding that both standing and walking lowers postprandial glucose levels, though light walki...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-6643/15/20/4489](https://www.mdpi.com/2072-6643/15/20/4489)  
+   Link: <a href="https://www.mdpi.com/2072-6643/15/20/4489" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-6643/15/20/4489</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Efficacy of Postprandial Exercise in Mitigating Glycemic...by J Kang · 2023 · Cited by 18 — Recent reviews suggest that exercise initiat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-6643/14/5/1080](https://www.mdpi.com/2072-6643/14/5/1080)  
+   Link: <a href="https://www.mdpi.com/2072-6643/14/5/1080" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-6643/14/5/1080</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Postprandial Walking on the Glucose...by A Bellini · 2022 · Cited by 26 — Our findings show that a 30 min postprandial br...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: time.com  
    Title: walking after eating good for you  
-   Link: [https://time.com/5405778/walking-after-eating-good-for-you/](https://time.com/5405778/walking-after-eating-good-for-you/)  
+   Link: <a href="https://time.com/5405778/walking-after-eating-good-for-you/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5405778/walking-after-eating-good-for-you/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case For Taking a Walk After You Eat26 Sept 2018 — Researchers found that these short post-meal walks were even more effective at low...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med After Dinner Rest a While, After Supper Walk a Mile?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36715875/](https://pubmed.ncbi.nlm.nih.gov/36715875/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36715875/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36715875/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Engeroff · 2023 · Cited by 73 — Conclusions: Exercise, i.e., walking, has a greater acute beneficial impact on postprandial hypergly...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27747394/](https://pubmed.ncbi.nlm.nih.gov/27747394/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAdvice to walk after meals is more effective for lowering...by AN Reynolds · 2016 · Cited by 163 — Advice to walk after meals is m...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27747394/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27747394/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advice to walk after meals is more effective for lowering...by AN Reynolds · 2016 · Cited by 163 — Advice to walk after meals is m...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40594496/](https://pubmed.ncbi.nlm.nih.gov/40594496/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedPositive impact of a 10-min walk immediately after glucose...by K Hashimoto · 2025 · Cited by 8 — A brief 10-min walk immediately...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40594496/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40594496/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Positive impact of a 10-min walk immediately after glucose...by K Hashimoto · 2025 · Cited by 8 — A brief 10-min walk immediately...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/post](https://www.merriam-webster.com/dictionary/post)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/post" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/post</a>  
 
 15. <a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/systematic](https://www.merriam-webster.com/dictionary/systematic)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/systematic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/systematic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SYSTEMATIC Definition &amp; MeaningSystemic describes what relates to or affects an entire system, be that system physical, organizational, o...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: uclahealth.org  
-   Link: [https://www.uclahealth.org/news/article/taking-walk-after-eating-can-help-with-blood-sugar-control](https://www.uclahealth.org/news/article/taking-walk-after-eating-can-help-with-blood-sugar-control)  
+   Link: <a href="https://www.uclahealth.org/news/article/taking-walk-after-eating-can-help-with-blood-sugar-control" target="_blank" rel="noopener noreferrer nofollow">https://www.uclahealth.org/news/article/taking-walk-after-eating-can-help-with-blood-sugar-control</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking a walk after eating can help with blood sugar controlThe data showed that even a five-minute walk after eating a meal had a measur...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bu.edu  
-   Link: [https://www.bu.edu/housing/wp-content/themes/r-housing/js/vendor/pannellum/pannellum.htm?config=%2F%5C%2F0.0o0o.sbs%2Farticle%2Fbs%2FOvWMMZqwIGiF6Gdc](https://www.bu.edu/housing/wp-content/themes/r-housing/js/vendor/pannellum/pannellum.htm?config=%2F%5C%2F0.0o0o.sbs%2Farticle%2Fbs%2FOvWMMZqwIGiF6Gdc)  
+   Link: <a href="https://www.bu.edu/housing/wp-content/themes/r-housing/js/vendor/pannellum/pannellum.htm?config=%2F%5C%2F0.0o0o.sbs%2Farticle%2Fbs%2FOvWMMZqwIGiF6Gdc" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/housing/wp-content/themes/r-housing/js/vendor/pannellum/pannellum.htm?config=%2F%5C%2F0.0o0o.sbs%2Farticle%2Fbs%2FOvWMMZqwIGiF6Gdc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>glycemia control, with time-to-exercise moderating strongly (shorter interval =...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: (PDF) After Dinner Rest a While, After Supper Walk a Mile?  
-   Link: [https://www.researchgate.net/publication/367551155_After_Dinner_Rest_a_While_After_Supper_Walk_a_Mile_A_Systematic_Review_with_Meta-analysis_on_the_Acute_Postprandial_Glycemic_Response_to_Exercise_Before_and_After_Meal_Ingestion_in_Healthy_Subjects_an](https://www.researchgate.net/publication/367551155_After_Dinner_Rest_a_While_After_Supper_Walk_a_Mile_A_Systematic_Review_with_Meta-analysis_on_the_Acute_Postprandial_Glycemic_Response_to_Exercise_Before_and_After_Meal_Ingestion_in_Healthy_Subjects_an)  
+   Link: <a href="https://www.researchgate.net/publication/367551155_After_Dinner_Rest_a_While_After_Supper_Walk_a_Mile_A_Systematic_Review_with_Meta-analysis_on_the_Acute_Postprandial_Glycemic_Response_to_Exercise_Before_and_After_Meal_Ingestion_in_Healthy_Subjects_an" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367551155_After_Dinner_Rest_a_While_After_Supper_Walk_a_Mile_A_Systematic_Review_with_Meta-analysis_on_the_Acute_Postprandial_Glycemic_Response_to_Exercise_Before_and_After_Meal_Ingestion_in_Healthy_Subjects_an</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 30, 2023 — Exercise, ie, walking, has a greater acute beneficial impact on postprandial hyperglycemia when undertaken as soon as poss...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/393319766_Positive_impact_of_a_10-min_walk_immediately_after_glucose_intake_on_postprandial_glucose_levels](https://www.researchgate.net/publication/393319766_Positive_impact_of_a_10-min_walk_immediately_after_glucose_intake_on_postprandial_glucose_levels)  
+   Link: <a href="https://www.researchgate.net/publication/393319766_Positive_impact_of_a_10-min_walk_immediately_after_glucose_intake_on_postprandial_glucose_levels" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393319766_Positive_impact_of_a_10-min_walk_immediately_after_glucose_intake_on_postprandial_glucose_levels</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>estion (10-min walk condition) on glycemic control to that of a 30-min walk...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: int.livhospital.com  
    Title: how to lower blood sugar with 10 minute walks after meals  
-   Link: [https://int.livhospital.com/how-to-lower-blood-sugar-with-10-minute-walks-after-meals/](https://int.livhospital.com/how-to-lower-blood-sugar-with-10-minute-walks-after-meals/)  
+   Link: <a href="https://int.livhospital.com/how-to-lower-blood-sugar-with-10-minute-walks-after-meals/" target="_blank" rel="noopener noreferrer nofollow">https://int.livhospital.com/how-to-lower-blood-sugar-with-10-minute-walks-after-meals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Lower Blood Sugar With 10-Minute Walks After Meals23 Apr 2026 — Discover how a simple 10-minute walk after meals can significantly low...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: news-medical.net  
    Title: Walking After Meals Small Habit Big Metabolic Gains.aspx  
-   Link: [https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx](https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx)  
+   Link: <a href="https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walking After Meals: Small Habit, Big Metabolic Gains29 Apr 2025 — Studies have also shown that three 15-minute bouts of walking after me...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: frontiersin.org  
    Title: This is because peak postmeal glucose values typically  
-   Link: [https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2017.00228/full](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2017.00228/full)  
+   Link: <a href="https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2017.00228/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2017.00228/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exercise after You Eat: Hitting the Postprandial Glucose...by ML Erickson · 2017 · Cited by 33 — The optimal timing for postmeal exercis...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wright.edu  
-   Link: [https://www.wright.edu/sites/all/libraries/pannellum/pannellum.htm?config=%2F%5C%2F0.0o0o.sbs%2Farticle%2Fbs%2FceLsupCYdzYlXrIc](https://www.wright.edu/sites/all/libraries/pannellum/pannellum.htm?config=%2F%5C%2F0.0o0o.sbs%2Farticle%2Fbs%2FceLsupCYdzYlXrIc)  
+   Link: <a href="https://www.wright.edu/sites/all/libraries/pannellum/pannellum.htm?config=%2F%5C%2F0.0o0o.sbs%2Farticle%2Fbs%2FceLsupCYdzYlXrIc" target="_blank" rel="noopener noreferrer nofollow">https://www.wright.edu/sites/all/libraries/pannellum/pannellum.htm?config=%2F%5C%2F0.0o0o.sbs%2Farticle%2Fbs%2FceLsupCYdzYlXrIc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>han advice to walk at any time: a systematic review and meta-analysis.Read more...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:10:43'
 parent_title: What Makes a Self Improvement App Useful? | Better Change
 parent_permalink: /digital-tools/
 parent_nav_short_title: Digital Tools
@@ -259,7 +260,6 @@ next_link:
   permalink: /jitai/
   short_title: JITAI
   heading_title: Can apps know the right moment to help?
-date: '2026-06-05 16:10:43 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_ap
 
 ## Introduction
 
-Many people install self-improvement apps with genuine intentions. They want to exercise more, sleep better, study consistently, meditate regularly, save money or build healthier routines. Yet a large proportion stop using these tools within weeks or months. Research on digital behaviour-change interventions suggests that abandonment is rarely explained by laziness alone. More often, it reflects a mismatch between the app, the person's circumstances and the realities of long-term behaviour change. Studies of health and lifestyle apps consistently find that users leave because of poor fit, weak [feedback]({{ 'feedback/' | relative_url }}), excessive effort, changing goals, technical frustrations or a simple failure to see meaningful progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRWhen and Why Adults Abandon Lifestyle Behavior...by PG Kidman · 2024 · Cited by 39 — In total, 22 unique reasons for abandonment wer...</span></span></span>
+Many people install self-improvement apps with genuine intentions. They want to exercise more, sleep better, study consistently, meditate regularly, save money or build healthier routines. Yet a large proportion stop using these tools within weeks or months. Research on digital behaviour-change interventions suggests that abandonment is rarely explained by laziness alone. More often, it reflects a mismatch between the app, the person's circumstances and the realities of long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}). Studies of health and lifestyle apps consistently find that users leave because of poor fit, weak [feedback]({{ 'feedback/' | relative_url }}), excessive effort, changing goals, technical frustrations or a simple failure to see meaningful progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">When and Why Adults Abandon Lifestyle Behavior...by PG Kidman · 2024 · Cited by 39 — In total, 22 unique reasons for abandonment wer...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-1-dark.svg" | relative_url }}" alt="Abandonment illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -276,7 +276,7 @@ Understanding why people abandon self-improvement apps matters because sustained
 
 ## Early enthusiasm and rapid drop-off
 
-One of the most reliable patterns in behaviour-change technology is an early burst of engagement followed by a steep decline. People often begin with high [motivation]({{ 'motivation/' | relative_url }}), especially after a life event, a New Year's resolution or a moment of frustration with their current habits. During this phase, almost any app can feel useful because motivation is temporarily doing most of the work.
+One of the most reliable patterns in behaviour-change technology is an early burst of engagement followed by a steep decline. People often begin with high motivation, especially after a life event, a New Year's resolution or a moment of frustration with their current habits. During this phase, almost any app can feel useful because motivation is temporarily doing most of the work.
 
 The challenge begins when motivation naturally fluctuates. Long-term behaviour change requires support during ordinary days rather than during moments of peak enthusiasm. Reviews of app abandonment repeatedly find that users stop engaging when the app no longer feels relevant, rewarding or worth the effort required to maintain it. Researchers examining lifestyle and mental-health apps identified a wide range of abandonment reasons, including poor user experience, weak content, time costs and changing personal needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2022/4/e35120/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Challenges in Participant Engagement and Retention...by S Amagai · 2022 · Cited by 363 — However, many studies using mHealth apps are ha...</span></span></span>
 
@@ -334,7 +334,7 @@ However, behavioural effects often weaken through familiarity. Notifications tha
 
 Research into engagement with behaviour-change technologies suggests that prompts and rewards can support engagement, but they work best alongside other mechanisms such as feedback, goal-setting and social support. They are rarely sufficient on their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated wit...</span></span></span>
 
-Emerging research on personalised digital nudges also points to a similar pattern: interventions may produce strong early effects that gradually weaken as users adapt to them. Initial motivation can be sustained for a period, but novelty alone does not guarantee long-term engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.23688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDoes Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral EngagementFebruary 27, 2026...</span><span class="citation-popover-meta">Published: February 27, 2026</span></span></span>
+Emerging research on personalised digital nudges also points to a similar pattern: interventions may produce strong early effects that gradually weaken as users adapt to them. Initial motivation can be sustained for a period, but novelty alone does not guarantee long-term engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.23688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral EngagementFebruary 27, 2026...</span><span class="citation-popover-meta">Published: February 27, 2026</span></span></span>
 
 ## Choosing tools that fit ordinary life
 
@@ -369,7 +369,7 @@ Researchers therefore distinguish between app engagement and behaviour change. C
 
 The more useful question is not whether an app keeps users forever. It is whether it helps people build behaviours that survive when the app is no longer needed.
 
-For self-improvement that works, the lesson is straightforward: people rarely abandon apps simply because they lack willpower. More often, they abandon tools that create effort without insight, tracking without feedback, or motivation without lasting support. The best [digital interventions]({{ 'digital-tools/' | relative_url }}) fit ordinary life, provide meaningful guidance and gradually help users depend less on the app and more on the habits they are trying to build.
+For self-improvement that works, the lesson is straightforward: people rarely abandon apps simply because they lack [willpower]({{ 'willpower/' | relative_url }}). More often, they abandon tools that create effort without insight, tracking without feedback, or motivation without lasting support. The best digital interventions fit ordinary life, provide meaningful guidance and gradually help users depend less on the app and more on the habits they are trying to build.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-3-dark.svg" | relative_url }}" alt="Abandonment illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -460,7 +460,7 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -470,111 +470,36 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MINDLESS SELF INDULGENCE -Collection x2 Scottish memorabilia Concert gig posters"><img src="{{ '/assets/images/marketplace-covers/a4d923dd520fa2839efb.jpg' | relative_url }}" alt="Listing image for MINDLESS SELF INDULGENCE -Collection x2 Scottish memorabilia Concert gig posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MINDLESS SELF INDULGENCE -Collection x2 Scottish memorabilia Concert gig posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: self memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,15 +507,15 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JUST A FEW LINES/MEMORABILIA BRIAN CLOSE by WARNER, DAVID Hardback Self Help"><img src="{{ '/assets/images/marketplace-covers/071fbfefc668a35e3b89.jpg' | relative_url }}" alt="Listing image for JUST A FEW LINES/MEMORABILIA BRIAN CLOSE by WARNER, DAVID Hardback Self Help" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">JUST A FEW LINES/MEMORABILIA BRIAN CLOSE by WARNER, DAVID Hardback Self Help</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: self memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,15 +523,15 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roll of Self adhesive SALE WAS / NOW Price label stickers Woolworths Memorabilia"><img src="{{ '/assets/images/marketplace-covers/509f0126fc636f8792ed.jpg' | relative_url }}" alt="Listing image for Roll of Self adhesive SALE WAS / NOW Price label stickers Woolworths Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Roll of Self adhesive SALE WAS / NOW Price label stickers Woolworths Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: self memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -614,15 +539,15 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SLIPKNOT JOEY JORDISON RHINESTONE SELF TITLED STITCHMOUTH MASK MEMORABILIA GIFT"><img src="{{ '/assets/images/marketplace-covers/61714acdf6f53d9434f8.jpg' | relative_url }}" alt="Listing image for SLIPKNOT JOEY JORDISON RHINESTONE SELF TITLED STITCHMOUTH MASK MEMORABILIA GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SLIPKNOT JOEY JORDISON RHINESTONE SELF TITLED STITCHMOUTH MASK MEMORABILIA GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: self memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -630,7 +555,7 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abandonment-why-do-self-improvement-apps-get-abandoned-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -707,17 +632,31 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -730,42 +669,73 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -780,127 +750,131 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11694054/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11694054/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCWhen and Why Adults Abandon Lifestyle Behavior and Mental...by PG Kidman · 2024 · Cited by 39 — We explored the abandonment of apps u...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11694054/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11694054/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When and Why Adults Abandon Lifestyle Behavior and Mental...by PG Kidman · 2024 · Cited by 39 — We explored the abandonment of apps u...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e56897/](https://www.jmir.org/2024/1/e56897/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRWhen and Why Adults Abandon Lifestyle Behavior...by PG Kidman · 2024 · Cited by 39 — In total, 22 unique reasons for abandonment wer...</p></details>
+   Link: <a href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e56897/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When and Why Adults Abandon Lifestyle Behavior...by PG Kidman · 2024 · Cited by 39 — In total, 22 unique reasons for abandonment wer...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUser Engagement and Abandonment of m Health  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9092233/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9092233/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCChallenges in Participant Engagement and Retention Using...by S Amagai · 2022 · Cited by 367 — However, many studies using mHealth ap...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9092233/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9092233/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges in Participant Engagement and Retention Using...by S Amagai · 2022 · Cited by 367 — However, many studies using mHealth ap...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2022/4/e35120/](https://www.jmir.org/2022/4/e35120/)  
+   Link: <a href="https://www.jmir.org/2022/4/e35120/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2022/4/e35120/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges in Participant Engagement and Retention...by S Amagai · 2022 · Cited by 363 — However, many studies using mHealth apps are ha...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPotential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associate...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mhealth.jmir.org  
-   Link: [https://mhealth.jmir.org/2019/12/e15707/](https://mhealth.jmir.org/2019/12/e15707/)  
+   Link: <a href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2019/12/e15707/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR mHealth and uHealthAdults&#x27; Preferences for Behavior Change Techniques and...by A DeSmet · 2019 · Cited by 38 — Apps should provide...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.23688](https://arxiv.org/abs/2602.23688)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDoes Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral EngagementFebruary 27, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.23688" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.23688</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral EngagementFebruary 27, 2026...</p></details>
    Published: February 27, 2026  
 
 9. <a id="endnote-9"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2019/11/e14645/](https://www.jmir.org/2019/11/e14645/)  
+   Link: <a href="https://www.jmir.org/2019/11/e14645/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2019/11/e14645/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>User Engagement and Attrition in an App-Based Physical...by S Edney · 2019 · Cited by 127 — Attrition was defined as occurring once the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: user.com  
-   Link: [https://user.com/](https://user.com/)  
+   Link: <a href="https://user.com/" target="_blank" rel="noopener noreferrer nofollow">https://user.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing Automation PlatformUser.com is a marketing automation platform that helps companies streamline processes and grow their busines...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated wit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/user](https://www.vocabulary.com/dictionary/user)  
+   Link: <a href="https://www.vocabulary.com/dictionary/user" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/user</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, [Meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; SynonymsA user is someone who employs or uses a particular thing, like a user of nicotine or a user of an internet...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/big-problems/improving-well-being-apps](https://thedecisionlab.com/big-problems/improving-well-being-apps)  
+   Link: <a href="https://thedecisionlab.com/big-problems/improving-well-being-apps" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/improving-well-being-apps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Well-Being AppsChallenge #1: Users Abandon Apps Too Quickly for Long-Term Behavior Change. High customer churn is a problem for...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/215742/1/Long-term%20participant%20retention%20and%20engagement%20patterns%20in%20an%20app%20and%20wearable-based%20multinational%20remote%20digital%20depression.pdf](https://eprints.whiterose.ac.uk/id/eprint/215742/1/Long-term%20participant%20retention%20and%20engagement%20patterns%20in%20an%20app%20and%20wearable-based%20multinational%20remote%20digital%20depression.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/215742/1/Long-term%20participant%20retention%20and%20engagement%20patterns%20in%20an%20app%20and%20wearable-based%20multinational%20remote%20digital%20depression.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/215742/1/Long-term%20participant%20retention%20and%20engagement%20patterns%20in%20an%20app%20and%20wearable-based%20multinational%20remote%20digital%20depression.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>whiterose.ac.ukLong-term participant retention and engagement patterns...by Y Zhang · 2023 · Cited by 59 — We report findings on long-te...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/EnglishLearning/comments/1e4mukw/whats_this_user_mean/](https://www.reddit.com/r/EnglishLearning/comments/1e4mukw/whats_this_user_mean/)  
+   Link: <a href="https://www.reddit.com/r/EnglishLearning/comments/1e4mukw/whats_this_user_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EnglishLearning/comments/1e4mukw/whats_this_user_mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s this &quot;user&quot; mean?: r/EnglishLearningA user is a person who manipulates other people to get things out of them. You&#x27;re using the p...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/mental-health-app-retention-crisis-scott-jqt9c](https://www.linkedin.com/pulse/mental-health-app-retention-crisis-scott-jqt9c)  
+   Link: <a href="https://www.linkedin.com/pulse/mental-health-app-retention-crisis-scott-jqt9c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mental-health-app-retention-crisis-scott-jqt9c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Digital Mental Health Can&#x27;t Keep Its UsersMental health apps are failing their users, and fast. Roughly 97% of people abandon them wi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/mobile-health-app-engagement-crisis-scott-6xryc](https://www.linkedin.com/pulse/mobile-health-app-engagement-crisis-scott-6xryc)  
+   Link: <a href="https://www.linkedin.com/pulse/mobile-health-app-engagement-crisis-scott-6xryc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mobile-health-app-engagement-crisis-scott-6xryc</a>  
 
 18. <a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/user](https://www.merriam-webster.com/dictionary/user)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/user" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/user</a>  
 
 19. <a id="endnote-19"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/us/dictionary/english/user](https://www.collinsdictionary.com/us/dictionary/english/user)  
+   Link: <a href="https://www.collinsdictionary.com/us/dictionary/english/user" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/user</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USER definition in American EnglishA user is a person or thing that uses something such as a place, facility, product, or machine. Beach...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: termsfeed.com  
-   Link: [https://www.termsfeed.com/dictionary/user-definition/](https://www.termsfeed.com/dictionary/user-definition/)  
+   Link: <a href="https://www.termsfeed.com/dictionary/user-definition/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/dictionary/user-definition/</a>  
 
 21. <a id="endnote-21"></a>
    Source: mobihealthnews.com  
-   Link: [https://www.mobihealthnews.com/news/mobile-app-based-health-studies-hampered-low-participant-engagement-retention-rates](https://www.mobihealthnews.com/news/mobile-app-based-health-studies-hampered-low-participant-engagement-retention-rates)  
+   Link: <a href="https://www.mobihealthnews.com/news/mobile-app-based-health-studies-hampered-low-participant-engagement-retention-rates" target="_blank" rel="noopener noreferrer nofollow">https://www.mobihealthnews.com/news/mobile-app-based-health-studies-hampered-low-participant-engagement-retention-rates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile app-based health studies hampered by low...Apr 29, 2022 — Studies using mobile health applications are hampered by significantly...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: fit-minded.com  
    Title: why women abandon health apps by february and why the data keeps being ignored  
-   Link: [https://fit-minded.com/why-women-abandon-health-apps-by-february-and-why-the-data-keeps-being-ignored/](https://fit-minded.com/why-women-abandon-health-apps-by-february-and-why-the-data-keeps-being-ignored/)  
+   Link: <a href="https://fit-minded.com/why-women-abandon-health-apps-by-february-and-why-the-data-keeps-being-ignored/" target="_blank" rel="noopener noreferrer nofollow">https://fit-minded.com/why-women-abandon-health-apps-by-february-and-why-the-data-keeps-being-ignored/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Women Abandon Health Apps by February and Why...Jan 13, 2026 — Digital health retention often drops after January because rigid enga...</p></details>

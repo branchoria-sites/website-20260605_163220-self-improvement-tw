@@ -502,7 +502,7 @@ image: /assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e-over
 
 ## Introduction
 
-Stable contexts are one reason [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) can become easier with time. A behaviour is more likely to become automatic when it is repeated after the same cue: the same time, place, preceding action, object, person, mood or routine step. Over time, the cue begins to do some of the work that [motivation]({{ 'motivation/' | relative_url }}) used to do. Instead of deciding afresh to stretch, read, walk, floss or prepare lunch, the situation itself starts to prompt the next action. Habit researchers commonly describe this as a learned cue-behaviour association: repeated action in a stable context makes behaviour faster, more efficient and less dependent on conscious deliberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPsychology of Habitby W Wood · 2016 · Cited by 1909 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span>
+Stable contexts are one reason [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) can become easier with time. A behaviour is more likely to become automatic when it is repeated after the same cue: the same time, place, preceding action, object, person, mood or routine step. Over time, the cue begins to do some of the work that [motivation]({{ 'motivation/' | relative_url }}) used to do. Instead of deciding afresh to stretch, read, walk, floss or prepare lunch, the situation itself starts to prompt the next action. Habit researchers commonly describe this as a learned cue-behaviour association: repeated action in a stable context makes behaviour faster, more efficient and less dependent on conscious deliberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1909 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e-overview.webp" | relative_url }}" alt="Overview image for Automaticity" loading="eager" decoding="sync" fetchpriority="high">
@@ -512,7 +512,7 @@ This is not a promise that behaviour becomes effortless after a magic number of 
 
 A stable context is any recurring situation that reliably appears before the behaviour. It can be obvious, such as “after breakfast”, “when I sit at my desk” or “when I arrive home”. It can also be part of a sequence: closing the laptop, putting the kettle on, taking medication, locking the front door, or placing running shoes beside the bed. The cue matters because habit is not merely frequent behaviour. It is behaviour that has become linked to a trigger.
 
-This distinction is important for self improvement because many people try to build habits by repeating a slogan rather than repeating a cue-response pairing. “I want to exercise more” names a desire. “After I put my work bag down, I change into walking shoes” creates a repeated context. Habit theory predicts that repetition has its strongest automaticity-building effect when the behaviour is performed in response to [stable cues]({{ 'stable-cues/' | relative_url }}) rather than scattered across changing situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span>
+This distinction is important for self improvement because many people try to build habits by repeating a slogan rather than repeating a cue-response pairing. “I want to exercise more” names a desire. “After I put my work bag down, I change into walking shoes” creates a repeated context. Habit theory predicts that repetition has its strongest automaticity-building effect when the behaviour is performed in response to [stable cues]({{ 'stable-cues/' | relative_url }}) rather than scattered across changing situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span>
 
 The cue does not have to be dramatic. In the real world, the strongest cue is often a small piece of ordinary life. A person who reads for ten minutes after brushing their teeth is not relying on a deep philosophical commitment to literacy every night. They are using an existing daily action as the launch pad for a new one. The old routine supplies the reminder; the repeated pairing supplies the learning.
 
@@ -568,7 +568,7 @@ This keeps habit design realistic. Automaticity is best used to reduce the numbe
 
 The same mechanism that makes stable contexts useful also explains why habits can collapse during travel, illness, holidays, moving house, job changes, exams, parenthood or disrupted sleep. If a habit depends on a cue, then removing the cue weakens the prompt. The person may still value the behaviour, but the environment no longer reminds them in the same way.
 
-Research on habit discontinuity shows this clearly. Studies of context change have found that when usual performance contexts change, established habits can be disrupted because the recurring cues no longer appear in the same form. Work on students transferring to a new university, for example, examined behaviours such as exercising, newspaper reading and television watching, and found that habits were more likely to be disrupted when the old contextual cues changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPsychology of Habitby W Wood · 2016 · Cited by 1909 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span>
+Research on habit discontinuity shows this clearly. Studies of context change have found that when usual performance contexts change, established habits can be disrupted because the recurring cues no longer appear in the same form. Work on students transferring to a new university, for example, examined behaviours such as exercising, newspaper reading and television watching, and found that habits were more likely to be disrupted when the old contextual cues changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1909 — This review characterizes habits in terms of their cognitive, motivational, a...</span></span></span>
 
 This is frustrating when the habit is useful. Someone who exercises reliably at a gym near work may stop after changing jobs, not because their character changed, but because the cue-chain broke. The route, timing, bag, colleagues, building and post-work rhythm may all have been part of the habit architecture. Remove them, and the behaviour becomes a decision again.
 
@@ -590,7 +590,7 @@ The first version of a habit should often be deliberately underwhelming. That is
 The best test is: “Could this happen after the cue even on a normal bad day?” If the answer is no, the behaviour is probably too large, the cue too vague, or the environment too hostile. Shrinking the action is not failure; it is often the design move that makes repetition possible.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XTlbW_yJxGA" title="Habit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XTlbW_yJxGA" target="_blank" rel="noopener noreferrer">Habit</a></p><p class="youtube-embed-meta">Channel: Louis Tomlinson - Topic &middot; Views: 4.3M &middot; Uploaded: January 2020 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XTlbW_yJxGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XTlbW_yJxGA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PvU2oC7mfEQ" title="Habit Stacking: The Science of Linking Habits for Automatic Behavior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PvU2oC7mfEQ" target="_blank" rel="noopener noreferrer">Habit Stacking: The Science of Linking Habits for Automatic Behavior</a></p><p class="youtube-embed-meta">Channel: Habits, Backed by Science &middot; Views: 3 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PvU2oC7mfEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PvU2oC7mfEQ">Open on YouTube</a></p></div></div></div>
 
 ## Why tracking should observe the cue, not just the outcome
 
@@ -603,7 +603,7 @@ Researchers have also emphasised that habit should not be reduced to frequency a
 For self improvement, this means a missed day should be interpreted carefully. Missing because the cue never appeared is different from missing because the cue appeared and the behaviour failed. The first suggests a context problem. The second suggests a friction, motivation, difficulty or competing-habit problem. Good tracking helps diagnose the routine rather than judge the person.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PvU2oC7mfEQ" title="Habit Stacking: The Science of Linking Habits for Automatic Behavior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PvU2oC7mfEQ" target="_blank" rel="noopener noreferrer">Habit Stacking: The Science of Linking Habits for Automatic Behavior</a></p><p class="youtube-embed-meta">Channel: Habits, Backed by Science &middot; Views: 3 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PvU2oC7mfEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PvU2oC7mfEQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7f5YpjXPdJw" title="The Habit Loop Decoded: Why 43% of Your Daily Life Runs on Autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7f5YpjXPdJw" target="_blank" rel="noopener noreferrer">The Habit Loop Decoded: Why 43% of Your Daily Life Runs on Autopilot</a></p><p class="youtube-embed-meta">Channel: Habits, Backed by Science &middot; Views: 2 &middot; Uploaded: April 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7f5YpjXPdJw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7f5YpjXPdJw">Open on YouTube</a></p></div></div></div>
 
 ## When automaticity helps, and when it is the wrong target
 
@@ -1039,153 +1039,153 @@ The strongest use of habit automaticity is therefore modest and practical. It do
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674?page%3D1=](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674?page%3D1=)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674?page%3D1=" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674?page%3D1=</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3681 — Abstract To investigate...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/</a>  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S266651822200016X](https://www.sciencedirect.com/science/article/pii/S266651822200016X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S266651822200016X</a>  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0272494407000898](https://www.sciencedirect.com/science/article/abs/pii/S0272494407000898)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0272494407000898" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0272494407000898</a>  
 
 6. <a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1559 1816.2003.tb01951.x  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.2003.tb01951.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.2003.tb01951.x)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.2003.tb01951.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.2003.tb01951.x</a>  
 
 7. <a id="endnote-7"></a>
    Source: compass.onlinelibrary.wiley.com  
-   Link: [https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975](https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975)  
+   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975</a>  
 
 8. <a id="endnote-8"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12504](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12504)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12504" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12504</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210311100254X](https://www.sciencedirect.com/science/article/abs/pii/S002210311100254X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210311100254X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210311100254X</a>  
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26361052/](https://pubmed.ncbi.nlm.nih.gov/26361052/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedPsychology of Habitby W Wood · 2016 · Cited by 1909 — This review characterizes habits in terms of their cognitive, motivational, a...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26361052/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Habitby W Wood · 2016 · Cited by 1909 — This review characterizes habits in terms of their cognitive, motivational, a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cykelvaeksthuset.dk  
    Title: Cykelvæksthuset Promoting habit formation  
-   Link: [https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf](https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf)  
+   Link: <a href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
    Title: Frontiers Habits, Quick and Easy: Perceived Complexity Moderates  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full</a>  
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26991427/](https://pubmed.ncbi.nlm.nih.gov/26991427/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26991427/</a>  
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Changing circumstances, disrupting habits  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/15982113/](https://pubmed.ncbi.nlm.nih.gov/15982113/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15982113/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15982113/</a>  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/17907866/](https://pubmed.ncbi.nlm.nih.gov/17907866/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17907866/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17907866/</a>  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/42053513/](https://pubmed.ncbi.nlm.nih.gov/42053513/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42053513/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42053513/</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Habit](https://en.wikipedia.org/wiki/Habit)  
+   Link: <a href="https://en.wikipedia.org/wiki/Habit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Habit</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Wood](https://en.wikipedia.org/wiki/Wood)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wood</a>  
 
 19. <a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/habit](https://dictionary.cambridge.org/dictionary/english/habit)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/habit" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/habit</a>  
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
 
 21. <a id="endnote-21"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/monitor/jun05/habits](https://www.apa.org/monitor/jun05/habits)  
+   Link: <a href="https://www.apa.org/monitor/jun05/habits" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/jun05/habits</a>  
 
 22. <a id="endnote-22"></a>
    Source: coachpedropinto.com  
    Title: habit formation  
-   Link: [https://coachpedropinto.com/habit-formation/](https://coachpedropinto.com/habit-formation/)  
+   Link: <a href="https://coachpedropinto.com/habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation/</a>  
 
 23. <a id="endnote-23"></a>
    Source: oxford-review.com  
    Title: Habit Formation  
-   Link: [https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/](https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/)  
+   Link: <a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentChanging Behavior Using Habit Theory (Chapter 13)Evidence shows that established habits are cue-co...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Habit Stacking: The Science of Linking Habits for Automatic Behavior  
-   Link: [https://www.youtube.com/watch?v=PvU2oC7mfEQ](https://www.youtube.com/watch?v=PvU2oC7mfEQ)  
+   Link: <a href="https://www.youtube.com/watch?v=PvU2oC7mfEQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PvU2oC7mfEQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 The secret habits that control your life | Wendy Wood...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Habit Loop Decoded: Why 43% of Your Daily Life Runs on Autopilot  
-   Link: [https://www.youtube.com/watch?v=7f5YpjXPdJw](https://www.youtube.com/watch?v=7f5YpjXPdJw)  
+   Link: <a href="https://www.youtube.com/watch?v=7f5YpjXPdJw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7f5YpjXPdJw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dr. Wendy Wood: Good Habits, Bad Habits (Hidden Gem)...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: The secret habits that control your life | Wendy Wood  
-   Link: [https://www.youtube.com/watch?v=FoAODalKhv8](https://www.youtube.com/watch?v=FoAODalKhv8)  
+   Link: <a href="https://www.youtube.com/watch?v=FoAODalKhv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FoAODalKhv8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Habit Loop Decoded: Why 43% of Your Daily Life Runs on Autopilot...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface](https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface)  
+   Link: <a href="https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits](https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits)  
+   Link: <a href="https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change](https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change)  
+   Link: <a href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/342379317_Does_habit_weaken_the_relationship_between_intention_and_behaviour_Revisiting_the_habit-intention_interaction_hypothesis](https://www.researchgate.net/publication/342379317_Does_habit_weaken_the_relationship_between_intention_and_behaviour_Revisiting_the_habit-intention_interaction_hypothesis)  
+   Link: <a href="https://www.researchgate.net/publication/342379317_Does_habit_weaken_the_relationship_between_intention_and_behaviour_Revisiting_the_habit-intention_interaction_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342379317_Does_habit_weaken_the_relationship_between_intention_and_behaviour_Revisiting_the_habit-intention_interaction_hypothesis</a>  
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362509175_Habit_and_behavioural_complexity_habitual_instigation_and_execution_as_predictors_of_simple_and_complex_behaviours](https://www.researchgate.net/publication/362509175_Habit_and_behavioural_complexity_habitual_instigation_and_execution_as_predictors_of_simple_and_complex_behaviours)  
+   Link: <a href="https://www.researchgate.net/publication/362509175_Habit_and_behavioural_complexity_habitual_instigation_and_execution_as_predictors_of_simple_and_complex_behaviours" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362509175_Habit_and_behavioural_complexity_habitual_instigation_and_execution_as_predictors_of_simple_and_complex_behaviours</a>  

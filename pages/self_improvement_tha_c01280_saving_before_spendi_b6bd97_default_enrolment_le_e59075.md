@@ -284,7 +284,7 @@ Automatic enrolment works because it changes the effort required to act. Under a
 
 This seemingly small change produces surprisingly large effects. Research by Brigitte Madrian and Dennis Shea examining a major US employer's 401(k) retirement plan found that participation rose sharply after automatic enrolment was introduced, despite no change in the underlying economic benefits of the plan. Employees who previously failed to join often remained enrolled once participation became the default. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w7682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate...Read more...</span></span></span>
 
-Behavioural economists often describe this as inertia. People tend to stick with the current arrangement, especially when a decision is complex, distant in its consequences or easy to postpone. Automatic enrolment turns that tendency into an advantage for saving rather than a barrier to it. Subsequent studies found that moving from an opt-in to an opt-out design can raise participation among new employees by more than 50 percentage points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">PMC - NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</span></span></span>
+Behavioural economists often describe this as inertia. People tend to stick with the current arrangement, especially when a decision is complex, distant in its consequences or easy to postpone. Automatic enrolment turns that tendency into an advantage for saving rather than a barrier to it. Subsequent studies found that moving from an opt-in to an opt-out design can raise participation among new employees by more than 50 percentage points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</span></span></span>
 
 For personal saving, the implication is broader than pensions. Any system that automatically transfers money into savings immediately after income arrives is effectively creating a personal version of automatic enrolment. Instead of asking whether to save this month, the saver must actively choose not to save.
 
@@ -293,7 +293,7 @@ For personal saving, the implication is broader than pensions. Any system that a
 
 ## What 401(k) and UK pension evidence can and cannot prove
 
-The United States provided the first widely cited evidence through employer retirement plans. Studies consistently found participation rates above 85% under automatic enrolment, far higher than under traditional opt-in arrangements. Researchers also found that automatic enrolment had particularly large effects on groups that historically saved less, including younger workers and lower earners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w8651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">NBERFor Better or For Worse: Default Effects and 401(k) Savings...by JJ Choi · 2001 · Cited by 1065 — We analyze the impact of automatic...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">nber W8651</span><span class="citation-popover-snippet">SSRNDefault Effects and 401(k) Savings Behaviorby JJ Choi · 2001 · Cited by 1074 — Madrian and Shea also note that automatic enrollment h...</span></span></span>
+The United States provided the first widely cited evidence through employer retirement plans. Studies consistently found participation rates above 85% under automatic enrolment, far higher than under traditional opt-in arrangements. Researchers also found that automatic enrolment had particularly large effects on groups that historically saved less, including younger workers and lower earners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w8651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">For Better or For Worse: Default Effects and 401(k) Savings...by JJ Choi · 2001 · Cited by 1065 — We analyze the impact of automatic...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">nber W8651</span><span class="citation-popover-snippet">Default Effects and 401(k) Savings Behaviorby JJ Choi · 2001 · Cited by 1074 — Madrian and Shea also note that automatic enrollment h...</span></span></span>
 
 The United Kingdom later provided evidence on a national scale. Automatic enrolment into workplace pensions began rolling out in 2012 and transformed pension participation across millions of workers. Government analysis describes automatic enrolment as a major driver of increased workplace pension participation and contributions. Opt-out rates remained much lower than many policymakers originally expected, generally around 10% or below. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">To date, the number of workers...Read more...</span></span></span>
 
@@ -326,7 +326,7 @@ For personal finance, the practical lesson is straightforward:
 
 * Treat the default as a starting point, not a target.
 * Review contribution rates after pay rises.
-* Increase automatic transfers periodically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">PMC - NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</span></span></span>
+* Increase automatic transfers periodically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</span></span></span>
 * Assume that a system designed to maximise participation may not be designed to maximise long-term wealth.
 
 </div>
@@ -334,7 +334,7 @@ For personal finance, the practical lesson is straightforward:
 A saver who automatically transfers 3% of income each month is usually in a better position than someone who intends to save 10% but never gets around to it. Yet over decades, a person who gradually raises that automatic transfer can achieve dramatically different results from someone who remains permanently at the original default.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-zMWJw0dK7g" title="Behavioural Economics: The Power of Default Choices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer">Behavioural Economics: The Power of Default Choices</a></p><p class="youtube-embed-meta">Channel: tutor2u &middot; Views: 2.3K &middot; Uploaded: January 2025 &middot; Length: 4 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-zMWJw0dK7g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pTD97y0sCVY" title="The Long View: Brigitte Madrian - &#x27;Inertia Can Actually Be a Helpful Thing&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pTD97y0sCVY" target="_blank" rel="noopener noreferrer">The Long View: Brigitte Madrian - &#x27;Inertia Can Actually Be a Helpful Thing&#x27;</a></p><p class="youtube-embed-meta">Channel: Morningstar, Inc. &middot; Views: 1.1K &middot; Uploaded: April 2020 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pTD97y0sCVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pTD97y0sCVY">Open on YouTube</a></p></div></div></div>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/daOCtQb-v-U" title="401k Savings Hit Record High as Workers Prepare for Retirement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=daOCtQb-v-U" target="_blank" rel="noopener noreferrer">401k Savings Hit Record High as Workers Prepare for Retirement</a></p><p class="youtube-embed-meta">Channel: Knowledge at Wharton &middot; Views: 455 &middot; Uploaded: July 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=daOCtQb-v-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=daOCtQb-v-U">Open on YouTube</a></p></div></div></div>
@@ -775,218 +775,218 @@ Finally, remember the central behavioural insight: most people do not save becau
 
 1. <a id="endnote-1"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w7682/w7682.pdf](https://www.nber.org/system/files/working_papers/w7682/w7682.pdf)  
+   Link: <a href="https://www.nber.org/system/files/working_papers/w7682/w7682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w7682/w7682.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate and investment...R...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ten years of automatic enrolment in workplace pensions statistics and analysis  
-   Link: [https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis](https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis)  
+   Link: <a href="https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten years of Automatic Enrolment in Workplace Pensions26 Oct 2022 — This data and analysis examines the role Automatic Enrolment (AE) h...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/papers/w7682](https://www.nber.org/papers/w7682)  
+   Link: <a href="https://www.nber.org/papers/w7682" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w7682</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/p/nbr/nberwo/7682.html](https://ideas.repec.org/p/nbr/nberwo/7682.html)  
+   Link: <a href="https://ideas.repec.org/p/nbr/nberwo/7682.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/nbr/nberwo/7682.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcThe Power of Suggestion: Inertia in 401(k) Participation andby BC Madrian · 2000 · Cited by 4572 — After the plan change, empl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOptimal Defaults and Active Decisions  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/papers/w8651](https://www.nber.org/papers/w8651)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBERFor Better or For Worse: Default Effects and 401(k) Savings...by JJ Choi · 2001 · Cited by 1065 — We analyze the impact of automatic...</p></details>
+   Link: <a href="https://www.nber.org/papers/w8651" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w8651</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>For Better or For Worse: Default Effects and 401(k) Savings...by JJ Choi · 2001 · Cited by 1065 — We analyze the impact of automatic...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: papers.ssrn.com  
    Title: nber W8651  
-   Link: [https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089](https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNDefault Effects and 401(k) Savings Behaviorby JJ Choi · 2001 · Cited by 1074 — Madrian and Shea also note that automatic enrollment h...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Default Effects and 401(k) Savings Behaviorby JJ Choi · 2001 · Cited by 1074 — Madrian and Shea also note that automatic enrollment h...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nber.org  
    Title: influencing retirement savings decisions automatic enrollment and related tools  
-   Link: [https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools](https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools)  
+   Link: <a href="https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencing Retirement Savings Decisions with Automatic...Oct 22, 2024 — In a study of an employer that used automatic enrollment, we fo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/64033/html/](https://committees.parliament.uk/writtenevidence/64033/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/64033/html/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To date, the number of workers...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/63978/html/](https://committees.parliament.uk/writtenevidence/63978/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/63978/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/63978/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, contributions at the...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/p/nbr/nberwo/8651.html](https://ideas.repec.org/p/nbr/nberwo/8651.html)  
+   Link: <a href="https://ideas.repec.org/p/nbr/nberwo/8651.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/nbr/nberwo/8651.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcFor Better or For Worse: Default Effects and 401(k) Savingsby JJ Choi · 2001 · Cited by 1063 — As a result, automatic enrollme...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: commonslibrary.parliament.uk  
    Title: House of Commons Library Pensions: Automatic enrolment  
-   Link: [https://commonslibrary.parliament.uk/research-briefings/sn06417/](https://commonslibrary.parliament.uk/research-briefings/sn06417/)  
+   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/sn06417/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/sn06417/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryPensions: Automatic enrolment - current issuesJan 19, 2026 — The paper discusses pensions auto-enrolment, its int...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: GOV.UK  
    Title: uk house price index for march 2026  
-   Link: [https://www.gov.uk/government/news/uk-house-price-index-for-march-2026](https://www.gov.uk/government/news/uk-house-price-index-for-march-2026)  
+   Link: <a href="https://www.gov.uk/government/news/uk-house-price-index-for-march-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/uk-house-price-index-for-march-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House Price Index for March 2026...</p></details>
    Published: march 2026  
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019](https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019)  
+   Link: <a href="https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enrolment evaluation report 2019Opt out – Where a jobholder has been automatically enrolled, they can choose to &#x27;opt out&#x27; of a pension sc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/workplace-pensions/joining-a-workplace-pension](https://www.gov.uk/workplace-pensions/joining-a-workplace-pension)  
+   Link: <a href="https://www.gov.uk/workplace-pensions/joining-a-workplace-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/workplace-pensions/joining-a-workplace-pension</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a workplace pensionAll employers must provide a workplace pension scheme. This is called &#x27;automatic enrolment&#x27;. Your employer must automa...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/](https://www.gov.uk/)  
+   Link: <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis](https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis)  
+   Link: <a href="https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Automatic Enrolment Earnings Trigger and...21 Jan 2025 — The automatic enrolment earnings trigger determines who is eligible to b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w8651/w8651.pdf](https://www.nber.org/system/files/working_papers/w8651/w8651.pdf)  
+   Link: <a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1082 — As a result, automatic enrollment has a dramatic impac...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w11979/w11979.pdf](https://www.nber.org/system/files/working_papers/w11979/w11979.pdf)  
+   Link: <a href="https://www.nber.org/system/files/working_papers/w11979/w11979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w11979/w11979.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>C:\Program Files\Qualcomm\Eudora Pro\Attach\11979.wpdby JJ Choi · 2006 · Cited by 184 — Previous research has shown that 401(k) participa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/p/jku/econwp/2024-02.html](https://ideas.repec.org/p/jku/econwp/2024-02.html)  
+   Link: <a href="https://ideas.repec.org/p/jku/econwp/2024-02.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/jku/econwp/2024-02.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from the UK&#x27;s Automatic Enrollment Mandateby R Scarfe · 2024 · Cited by 3 — We examine who bears the costs of mandated workplace pension...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: [https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out](https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out)  
+   Link: <a href="https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Opting outOnce staff have been enrolled into the pension scheme, they have one calendar month during which they can opt out and get a ful...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/abstract%3D294089](https://papers.ssrn.com/abstract%3D294089)  
+   Link: <a href="https://papers.ssrn.com/abstract%3D294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/abstract%3D294089</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects and 401(K) Savings BehaviorDec 14, 2001 — As a result, automatic enrollment has a dramatic impact on retirement savings behavior...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: papers.ssrn.com  
    Title: nber w12009  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243](https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 972 — Most firms with automatic enrollment have a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf](https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>enrolment: Experiences of workers who have...This report provides the findings of a study commissioned by the Department for Work and Pe...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0958928717717656](https://journals.sagepub.com/doi/10.1177/0958928717717656)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0958928717717656" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0958928717717656</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhy do people opt-out or not opt-out of automatic...Aug 22, 2017 — Lack of affordability or other provisions for retirement...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK593519/](https://www.ncbi.nlm.nih.gov/books/NBK593519/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK593519/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/United_Kingdom](https://en.wikipedia.org/wiki/United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: britannica.com  
    Title: The United Kingdom comprises the whole of the island of Great Britain.Read more  
-   Link: [https://www.britannica.com/place/United-Kingdom](https://www.britannica.com/place/United-Kingdom)  
+   Link: <a href="https://www.britannica.com/place/United-Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/United-Kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | History, Population, Map, Flag, Capital, &amp;...United Kingdom, island country located off the northwestern coast of mainl...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: study-uk.britishcouncil.org  
    Title: about uk  
-   Link: [https://study-uk.britishcouncil.org/why-study/about-uk](https://study-uk.britishcouncil.org/why-study/about-uk)  
+   Link: <a href="https://study-uk.britishcouncil.org/why-study/about-uk" target="_blank" rel="noopener noreferrer nofollow">https://study-uk.britishcouncil.org/why-study/about-uk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the UK - Study UK - British CouncilThe UK is a union of four nations - England, Northern Ireland, Scotland and Wales, with similarities a...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: thecommonwealth.org  
-   Link: [https://thecommonwealth.org/our-member-countries/united-kingdom](https://thecommonwealth.org/our-member-countries/united-kingdom)  
+   Link: <a href="https://thecommonwealth.org/our-member-countries/united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/united-kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | CommonwealthThe United Kingdom of Great Britain and Northern Ireland (UK) is an island country that sits north-west of m...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: visitbritain.com  
-   Link: [https://www.visitbritain.com/en](https://www.visitbritain.com/en)  
+   Link: <a href="https://www.visitbritain.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.visitbritain.com/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Official Website For UK Tourism | VisitBritainLet VisitBritain provide you with fresh perspectives of the UK&#x27;s diverse cities, modern...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: assets.retirement.govt.nz  
-   Link: [https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Default-contribution-rates_AW.pdf](https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Default-contribution-rates_AW.pdf)  
+   Link: <a href="https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Default-contribution-rates_AW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Default-contribution-rates_AW.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>contribution rates in retirement plansThis paper reviews international evidence on default contribution rates in retirement savings plans...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: mefop.it  
-   Link: [https://www.mefop.it/cms/doc/26375/ev0721065ennen.pdf](https://www.mefop.it/cms/doc/26375/ev0721065ennen.pdf)  
+   Link: <a href="https://www.mefop.it/cms/doc/26375/ev0721065ennen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mefop.it/cms/doc/26375/ev0721065ennen.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The process by which automatic enrolment operates, for example, the enrolment process, default contribution rates and default...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: research.ed.ac.uk  
    Title: RobertsonRose TJSP 2019 UnderstandingDefaultBehaviourWorkplacePensions  
-   Link: [https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf](https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf)  
+   Link: <a href="https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>default behaviour in workplace pensionsby L Robertson-Rose · 2021 · Cited by 21 — This article examines the retirement savings behaviour...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: chicagobooth.edu  
-   Link: [https://www.chicagobooth.edu/review/savings-america-helping-individuals-provide-their-own-retirement](https://www.chicagobooth.edu/review/savings-america-helping-individuals-provide-their-own-retirement)  
+   Link: <a href="https://www.chicagobooth.edu/review/savings-america-helping-individuals-provide-their-own-retirement" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/savings-america-helping-individuals-provide-their-own-retirement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n and Savings Behavior,&quot; examines the impact of automatic enrollment on 401(k)...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: ifs.org.uk  
-   Link: [https://ifs.org.uk/sites/default/files/output_url_files/Who-leaves-their-pension-after-being-automatically-enrolled-BN272.pdf](https://ifs.org.uk/sites/default/files/output_url_files/Who-leaves-their-pension-after-being-automatically-enrolled-BN272.pdf)  
+   Link: <a href="https://ifs.org.uk/sites/default/files/output_url_files/Who-leaves-their-pension-after-being-automatically-enrolled-BN272.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/sites/default/files/output_url_files/Who-leaves-their-pension-after-being-automatically-enrolled-BN272.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>leave the workplace pension scheme that they were automatically enrolled into...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: nestinsight.org.uk  
    Title: Does Pension Automatic Enrollment Increase Debt?  
-   Link: [https://www.nestinsight.org.uk/wp-content/uploads/2024/02/Does-pension-automatic-enrollment-increase-debt.pdf](https://www.nestinsight.org.uk/wp-content/uploads/2024/02/Does-pension-automatic-enrollment-increase-debt.pdf)  
+   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2024/02/Does-pension-automatic-enrollment-increase-debt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2024/02/Does-pension-automatic-enrollment-increase-debt.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Beshears · 2024 · Cited by 33 — Over the first 41 months after enrollment, each additional month increases the average automatically...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: emerald.com  
    Title: Persistent anchoring to default rates when  
-   Link: [https://www.emerald.com/rbf/article/10/1/88/370051/Persistent-anchoring-to-default-rates-when](https://www.emerald.com/rbf/article/10/1/88/370051/Persistent-anchoring-to-default-rates-when)  
+   Link: <a href="https://www.emerald.com/rbf/article/10/1/88/370051/Persistent-anchoring-to-default-rates-when" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/rbf/article/10/1/88/370051/Persistent-anchoring-to-default-rates-when</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>electing 401(k...12 Mar 2018 — In this paper, we seek to investigate how the auto-enrollment rate influences the size of the elected con...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: cipp.org.uk  
    Title: dwp automatic enrolment 2023 24 review  
-   Link: [https://www.cipp.org.uk/resources/news/dwp-automatic-enrolment-2023-24-review.html](https://www.cipp.org.uk/resources/news/dwp-automatic-enrolment-2023-24-review.html)  
+   Link: <a href="https://www.cipp.org.uk/resources/news/dwp-automatic-enrolment-2023-24-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cipp.org.uk/resources/news/dwp-automatic-enrolment-2023-24-review.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DWP automatic enrolment 2023/24 review27 Jan 2023 — Each year, the Department for Work and Pension (DWP) releases an analysis and review...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: nationalacademies.org  
    Title: Chapter: 6 Retirement Benefits  
-   Link: [https://www.nationalacademies.org/read/26874/chapter/10](https://www.nationalacademies.org/read/26874/chapter/10)  
+   Link: <a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Madrian &amp; Shea, 2001). The authors studied choices by employees who were offered the option to enroll in an advantageous company 401(k)...</p></details>

@@ -278,7 +278,7 @@ Digital [reminders]({{ 'reminders/' | relative_url }}) seem like an obvious way 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-1-dark.svg" | relative_url }}" alt="Cue Fatigue illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This problem is often called notification overload or cue fatigue. A reminder that was once useful becomes part of the background. The phone buzzes, a banner appears, a smartwatch vibrates, and the brain learns that most alerts do not require immediate action. Over time, even well-designed habit prompts can be dismissed automatically. Research on digital behaviour change suggests that [prompts and cues]({{ 'cues/' | relative_url }}) can support engagement, but their effectiveness depends heavily on timing, relevance, and user burden rather than sheer [frequency]({{ 'frequency/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">PMCby G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
+This problem is often called notification overload or cue fatigue. A reminder that was once useful becomes part of the background. The phone buzzes, a banner appears, a smartwatch vibrates, and the brain learns that most alerts do not require immediate action. Over time, even well-designed habit prompts can be dismissed automatically. Research on digital [behaviour change]({{ 'behaviour-change/' | relative_url }}) suggests that prompts and cues can support engagement, but their effectiveness depends heavily on timing, relevance, and user burden rather than sheer [frequency]({{ 'frequency/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
 
 For people pursuing self-improvement that works, the lesson is counterintuitive: stronger habits often come from fewer reminders, not more.
 
@@ -286,13 +286,13 @@ For people pursuing self-improvement that works, the lesson is counterintuitive:
 
 A cue works because it stands out. When the same signal appears repeatedly without producing meaningful action, the brain adapts.
 
-Psychologists refer to this process as habituation. A stimulus that initially captures attention gradually loses its impact through repeated exposure. In the context of digital reminders, this means the first few alerts may feel noticeable, but dozens of similar alerts become easy to ignore. Research on alert fatigue in healthcare and digital systems shows that excessive alert exposure can lead people to stop noticing or responding to signals altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">PMCby G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
+Psychologists refer to this process as habituation. A stimulus that initially captures attention gradually loses its impact through repeated exposure. In the context of digital reminders, this means the first few alerts may feel noticeable, but dozens of similar alerts become easy to ignore. Research on alert fatigue in healthcare and digital systems shows that excessive alert exposure can lead people to stop noticing or responding to signals altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
 
 The problem is not simply that reminders become annoying. It is that they stop functioning as cues. Once a notification is routinely dismissed, the brain starts treating it as background noise rather than actionable information.
 
 A common example is the daily habit reminder that arrives at the same time regardless of circumstances. A prompt to exercise at 6 p.m. may be useful on some days, but if it frequently arrives during meetings, commuting, or family responsibilities, the user learns that the alert is rarely actionable. The reminder becomes associated with dismissal rather than behaviour.
 
-Studies examining smartphone notifications have also found that alerts compete for limited attentional resources and can disrupt cognitive control and task focus. When notifications become a constant feature of the [environment]({{ 'environment/' | relative_url }}), their ability to direct behaviour weakens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">PMCby G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
+Studies examining smartphone notifications have also found that alerts compete for limited attentional resources and can disrupt cognitive control and task focus. When notifications become a constant feature of the [environment]({{ 'environment/' | relative_url }}), their ability to direct behaviour weakens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
 
 ### The Difference Between Seeing and Acting
 
@@ -312,7 +312,7 @@ Many digital prompts communicate only that a habit exists:
 
 They do not necessarily create a realistic opportunity to act.
 
-Behaviour change research consistently finds that prompts work better when tied to a specific context, behaviour, or next step rather than serving as generic reminders. Effective interventions often combine prompts with clear behavioural targets, self-monitoring, or contextual triggers. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">PMCby G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
+Behaviour change research consistently finds that prompts work better when tied to a specific context, behaviour, or next step rather than serving as generic reminders. Effective interventions often combine prompts with clear behavioural targets, self-monitoring, or contextual triggers. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
 
 A reminder that says “Take a five-minute walk now” while the user is already standing up to make coffee has a stronger cue-action connection than a generic notification that appears during an unrelated activity.
 
@@ -360,7 +360,7 @@ A cue is supposed to trigger a desired behaviour. However, repeated exposure wit
 
 If this response becomes automatic, the notification system begins reinforcing the wrong habit.
 
-Researchers studying engagement with digital behaviour-change interventions have repeatedly noted that maintaining engagement requires reducing user burden and avoiding excessive prompting. More notifications do not necessarily produce more participation. In some cases, they can reduce it by increasing fatigue and disengagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">PMCby G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2022/02/14/designing-for-engagement-with-digital-behaviour-change-interventions-state-of-the-art-and-chartering-new-territories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.ucl.ac.uk">[UCL Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.ucl.ac.uk</span><span class="citation-popover-snippet">UCL BlogsDesigning for engagement with digital behaviour change...14 Feb 2022 — Indeed, reducing participant burden is key to sustaining...</span></span></span>
+Researchers studying engagement with digital behaviour-change interventions have repeatedly noted that maintaining engagement requires reducing user burden and avoiding excessive prompting. More notifications do not necessarily produce more participation. In some cases, they can reduce it by increasing fatigue and disengagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2022/02/14/designing-for-engagement-with-digital-behaviour-change-interventions-state-of-the-art-and-chartering-new-territories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.ucl.ac.uk">[UCL Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.ucl.ac.uk</span><span class="citation-popover-snippet">UCL BlogsDesigning for engagement with digital behaviour change...14 Feb 2022 — Indeed, reducing participant burden is key to sustaining...</span></span></span>
 
 This helps explain why many habit-tracking applications initially feel motivating but lose influence after several weeks. The reminders remain, but the user's behavioural response has shifted from action to dismissal.
 
@@ -390,7 +390,7 @@ Many people assign reminders to every habit they want. A better approach is to r
 
 For example, medication adherence, a scheduled workout, or a [weekly review]({{ 'weekly-review/' | relative_url }}) may justify dedicated reminders because timing matters and forgetting has meaningful consequences.
 
-Lower-stakes habits often benefit more from [environmental cues]({{ 'cues-195d40/' | relative_url }}) than digital alerts. Leaving a book on a pillow, placing vitamins beside a toothbrush, or keeping a water bottle on a desk creates a visible trigger without adding another interruption.
+Lower-stakes habits often benefit more from environmental cues than digital alerts. Leaving a book on a pillow, placing vitamins beside a toothbrush, or keeping a water bottle on a desk creates a visible trigger without adding another interruption.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-3-dark.svg" | relative_url }}" alt="Cue Fatigue illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -427,7 +427,7 @@ When people know that a notification usually matters, they respond differently. 
 
 The purpose of a habit cue is not to create awareness that a habit exists. Most people already know they should exercise, read, sleep earlier, or practise a skill. The challenge is acting at the right moment.
 
-Notification overload undermines that goal by turning potentially useful signals into routine noise. As reminders multiply, attention fragments, dismissal becomes automatic, and cues lose their ability to trigger behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">PMCby G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">PMCby G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span> The most reliable habit systems therefore treat prompts sparingly. A small number of well-timed cues connected to realistic actions usually outperform a large collection of alerts competing for attention. In habit formation, effectiveness comes less from constant prompting than from preserving the power of the prompt when it appears.
+Notification overload undermines that goal by turning potentially useful signals into routine noise. As reminders multiply, attention fragments, dismissal becomes automatic, and cues lose their ability to trigger behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span> The most reliable habit systems therefore treat prompts sparingly. A small number of well-timed cues connected to realistic actions usually outperform a large collection of alerts competing for attention. In habit formation, effectiveness comes less from constant prompting than from preserving the power of the prompt when it appears.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -851,120 +851,120 @@ Notification overload undermines that goal by turning potentially useful signals
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Effectiveness of Prompts to Promote Engagement  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby G Alkhaldi · 2016 · Cited by 342 — [Digital interventions](&amp;#123;&amp;#123; &#x27;digital-tools/&#x27; | relative_url &amp;#125;&amp;#125;) have been effective in improving numerous health outcomes and health behav...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Techniques in Digital Health...by JL Mair · 2023 · Cited by 137 — This narrative umbrella review aimed to identify the m...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change [Techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in Digital Health...by JL Mair · 2023 · Cited by 137 — This narrative umbrella review aimed to identify the m...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12919987/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12919987/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12919987/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12919987/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This occurred mainly for passive alerts...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study investigated the...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study investigated the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2207.03405](https://arxiv.org/abs/2207.03405)  
+   Link: <a href="https://arxiv.org/abs/2207.03405" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.03405</a>  
 
 6. <a id="endnote-6"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e54375/](https://www.jmir.org/2024/1/e54375/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 67 — The results show that the most applied beha...</p></details>
+   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 67 — The results show that the most applied beha...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/full/10.1145/3743703](https://dl.acm.org/doi/full/10.1145/3743703)  
+   Link: <a href="https://dl.acm.org/doi/full/10.1145/3743703" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3743703</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryUnderstanding Smartphone Users&#x27; Preferences and...by UD Chen · 2025 · Cited by 3 — To help users manage the overwhelm...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2076-0760/10/8/279](https://www.mdpi.com/2076-0760/10/8/279)  
+   Link: <a href="https://www.mdpi.com/2076-0760/10/8/279" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-0760/10/8/279</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Overload among College Students: Implications for...by AC Smith · 2021 · Cited by 72 — This study aimed to explore the influence...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mhealth.jmir.org  
-   Link: [https://mhealth.jmir.org/2023/1/e38342](https://mhealth.jmir.org/2023/1/e38342)  
+   Link: <a href="https://mhealth.jmir.org/2023/1/e38342" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2023/1/e38342</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Objective: Our objective was to estimate the causal effect...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3715668.3736353](https://dl.acm.org/doi/10.1145/3715668.3736353)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3715668.3736353" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3715668.3736353</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Notifications that Empathise with Fatigue in...5 Jul 2025 — In this study, we explore the lived experience of individuals with diabetes...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2507.14702v1](https://arxiv.org/html/2507.14702v1)  
+   Link: <a href="https://arxiv.org/html/2507.14702v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.14702v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Notification Based Nudge for Handling Excessive...19 Jul 2025 — In this study, we proposed a notification-based intervention approach...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds](https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds)  
+   Link: <a href="https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some users reportedly receive up to 50 notifications a day, often from multiple sources about the same story. This overload has prompted...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: blogs.ucl.ac.uk  
-   Link: [https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2022/02/14/designing-for-engagement-with-digital-behaviour-change-interventions-state-of-the-art-and-chartering-new-territories/](https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2022/02/14/designing-for-engagement-with-digital-behaviour-change-interventions-state-of-the-art-and-chartering-new-territories/)  
+   Link: <a href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2022/02/14/designing-for-engagement-with-digital-behaviour-change-interventions-state-of-the-art-and-chartering-new-territories/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2022/02/14/designing-for-engagement-with-digital-behaviour-change-interventions-state-of-the-art-and-chartering-new-territories/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL BlogsDesigning for engagement with digital behaviour change...14 Feb 2022 — Indeed, reducing participant burden is key to sustaining...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/281953046_Theory-based_strategies_for_enhancing_the_impact_and_usage_of_digital_health_behaviour_change_interventions_A_review](https://www.researchgate.net/publication/281953046_Theory-based_strategies_for_enhancing_the_impact_and_usage_of_digital_health_behaviour_change_interventions_A_review)  
+   Link: <a href="https://www.researchgate.net/publication/281953046_Theory-based_strategies_for_enhancing_the_impact_and_usage_of_digital_health_behaviour_change_interventions_A_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281953046_Theory-based_strategies_for_enhancing_the_impact_and_usage_of_digital_health_behaviour_change_interventions_A_review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Theory-based strategies for enhancing the impact...by LG Morrison · 2015 · Cited by 162 — This paper provides a critical review of...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/401241990_Push_Notifications_and_Habit_Formation_Behavioral_Impact_on_Daily_Language_Practice_Consistency](https://www.researchgate.net/publication/401241990_Push_Notifications_and_Habit_Formation_Behavioral_Impact_on_Daily_Language_Practice_Consistency)  
+   Link: <a href="https://www.researchgate.net/publication/401241990_Push_Notifications_and_Habit_Formation_Behavioral_Impact_on_Daily_Language_Practice_Consistency" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401241990_Push_Notifications_and_Habit_Formation_Behavioral_Impact_on_Daily_Language_Practice_Consistency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Push Notifications and Habit Formation: Behavioral Impact...27 Feb 2026 — Push notifications are widely used to influence digital behavi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/attention-capture-and-notification-fatigue-in-digital-products-ec8637ae63a1](https://medium.com/design-bootcamp/attention-capture-and-notification-fatigue-in-digital-products-ec8637ae63a1)  
+   Link: <a href="https://medium.com/design-bootcamp/attention-capture-and-notification-fatigue-in-digital-products-ec8637ae63a1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/attention-capture-and-notification-fatigue-in-digital-products-ec8637ae63a1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Attention Capture and Notification Fatigue in Digital ProductsNotification systems capture attention through alerts, red dots, and urgenc...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/user-experience/ux-writing-for-app-notifications/reducing-notification-fatigue/](https://www.linkedin.com/top-content/user-experience/ux-writing-for-app-notifications/reducing-notification-fatigue/)  
+   Link: <a href="https://www.linkedin.com/top-content/user-experience/ux-writing-for-app-notifications/reducing-notification-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/user-experience/ux-writing-for-app-notifications/reducing-notification-fatigue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Notification FatigueReducing notification fatigue means cutting down on the stress and distraction caused by constant digital al...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/erienewsnow/posts/phone-users-bombarded-by-news-alerts-are-switching-them-off-study-shows/1159891869513770/](https://www.facebook.com/erienewsnow/posts/phone-users-bombarded-by-news-alerts-are-switching-them-off-study-shows/1159891869513770/)  
+   Link: <a href="https://www.facebook.com/erienewsnow/posts/phone-users-bombarded-by-news-alerts-are-switching-them-off-study-shows/1159891869513770/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/erienewsnow/posts/phone-users-bombarded-by-news-alerts-are-switching-them-off-study-shows/1159891869513770/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phone users, bombarded by news alerts, are switching...20 Jun 2025 — Digital addiction increases loneliness, anxiety and depression: study...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: meistertask.com  
    Title: notification fatigue the productivity killer explained  
-   Link: [https://www.meistertask.com/blog/notification-fatigue-the-productivity-killer-explained](https://www.meistertask.com/blog/notification-fatigue-the-productivity-killer-explained)  
+   Link: <a href="https://www.meistertask.com/blog/notification-fatigue-the-productivity-killer-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.meistertask.com/blog/notification-fatigue-the-productivity-killer-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Notification fatigue: the productivity killer explained27 Mar 2026 — Notification fatigue is a state of mental and operational exhaustion...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/334853935_The_influence_of_concurrent_mobile_notifications_on_individual_responses](https://www.researchgate.net/publication/334853935_The_influence_of_concurrent_mobile_notifications_on_individual_responses)  
+   Link: <a href="https://www.researchgate.net/publication/334853935_The_influence_of_concurrent_mobile_notifications_on_individual_responses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334853935_The_influence_of_concurrent_mobile_notifications_on_individual_responses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>most smartphone users&#x27; needs and preferences (Jonas &amp; Katsumi, 2013).Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bmjopen.bmj.com  
    Title: (BCW) AND BEHAVIOUR CHANGE TECHNIQUES TAXONOMY (BCTv1).Read more  
-   Link: [https://bmjopen.bmj.com/content/bmjopen/8/5/e019865/DC2/embed/inline-supplementary-material-2.pdf?download=true](https://bmjopen.bmj.com/content/bmjopen/8/5/e019865/DC2/embed/inline-supplementary-material-2.pdf?download=true)  
+   Link: <a href="https://bmjopen.bmj.com/content/bmjopen/8/5/e019865/DC2/embed/inline-supplementary-material-2.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/8/5/e019865/DC2/embed/inline-supplementary-material-2.pdf?download=true</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of reduce maintenance intervention...APPENDIX 2: BEHAVIOURAL ANALYSIS OF REDUCE MAINTENANCE INTERVENTION USING THE BEHAVIOUR CH...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: health.org.uk  
    Title: Behavioural Insights In Health Care  
-   Link: [https://www.health.org.uk/sites/default/files/BehaviouralInsightsInHealthCare.pdf](https://www.health.org.uk/sites/default/files/BehaviouralInsightsInHealthCare.pdf)  
+   Link: <a href="https://www.health.org.uk/sites/default/files/BehaviouralInsightsInHealthCare.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.health.org.uk/sites/default/files/BehaviouralInsightsInHealthCare.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Perry · 2015 · Cited by 31 — Prompts, cues and reminders have been demonstrated to be generally e...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: speakwiseapp.com  
    Title: notification overload statistics  
-   Link: [https://speakwiseapp.com/blog/notification-overload-statistics](https://speakwiseapp.com/blog/notification-overload-statistics)  
+   Link: <a href="https://speakwiseapp.com/blog/notification-overload-statistics" target="_blank" rel="noopener noreferrer nofollow">https://speakwiseapp.com/blog/notification-overload-statistics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, they have made us anxious, fragmented, and perpetually distracted. Every buzz, badge...Read more...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:39:38'
 parent_title: How Coffee Can Trigger the First Work Task | Better Change
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
@@ -265,7 +266,6 @@ next_link:
   permalink: /email-drift/
   short_title: Email Drift
   heading_title: How Coffee Turns Into Inbox Drift
-date: '2026-06-05 15:39:38 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choo
 
 ## Introduction
 
-If [morning coffee]({{ 'coffee-cue/' | relative_url }}) is going to become the cue that starts meaningful work, the most important decision is not the coffee itself. It is choosing exactly which moment in the coffee routine will trigger action. Many productivity habits fail because the cue is too vague (“after breakfast”) or arrives after email, news, messaging apps, and other distractions have already captured attention. Research on habit formation consistently finds that behaviours become more automatic when they are repeated in response to stable, specific contextual cues rather than broad intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentChanging Behavior Using Habit Theory (Chapter 13)Evidence shows that established habits are cue-co...</span></span></span>
+If morning coffee is going to become the cue that starts meaningful work, the most important decision is not the coffee itself. It is choosing exactly which moment in the coffee routine will trigger action. Many productivity habits fail because the cue is too vague (“after breakfast”) or arrives after email, news, messaging apps, and other distractions have already captured attention. Research on habit formation consistently finds that behaviours become more automatic when they are repeated in response to stable, specific contextual cues rather than broad intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentChanging Behavior Using Habit Theory (Chapter 13)Evidence shows that established habits are cue-co...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-1-dark.svg" | relative_url }}" alt="Cue Choice illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -903,149 +903,149 @@ That reduction in decision-making is the mechanism that allows a simple coffee r
 
 1. <a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentChanging Behavior Using Habit Theory (Chapter 13)Evidence shows that established habits are cue-co...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change](https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change)  
+   Link: <a href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit Formation and ChangeAs people repeat behavior in a stable context, their intentions and goals to perform the behavior. gradua...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 359 — This review highlights emerging findings and new directions in research on...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: good.you  
    Title: Habit Stacking and Implementation Intentions  
-   Link: [https://good.you/growth/habits/habit-stacking-implementation-intentions](https://good.you/growth/habits/habit-stacking-implementation-intentions)  
+   Link: <a href="https://good.you/growth/habits/habit-stacking-implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://good.you/growth/habits/habit-stacking-implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Habit stacking (B.J. Fogg&#x27;s &quot;anchor habits&quot;) involves attaching a new behaviour to an existing, well-established ha...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661324002663](https://www.sciencedirect.com/science/article/pii/S1364661324002663)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661324002663</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 47 — Similarly, [stable cues](&amp;#123;&amp;#123; &#x27;stable-cues/&#x27; | relative_url &amp;#125;&amp;#125;) and reduced action monito...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: How does habit form?  
-   Link: [https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation](https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation)  
+   Link: <a href="https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking real-world...7 Feb 2022 — This paper proposes methodological criteria for studies tracking real-world habit form...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial](https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial)  
+   Link: <a href="https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit formation following routine‐based versus time...Habitual behaviors are automatic responses to specific cues, acquired throug...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
    Title: Habit Interventions (Chapter 41)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45](https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Handbook of...This chapter outlines how developing new cue-behavior associations so that a habit can form may disrupt unwanted habit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mindlabneuroscience.com  
-   Link: [https://mindlabneuroscience.com/habit-formation-7-powerful-strategies/](https://mindlabneuroscience.com/habit-formation-7-powerful-strategies/)  
+   Link: <a href="https://mindlabneuroscience.com/habit-formation-7-powerful-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://mindlabneuroscience.com/habit-formation-7-powerful-strategies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation Neuroscience: 7 Brain-Based StrategiesHabit stacking involves anchoring a new desired behavior to an existing automatic r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theor...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 155 — Theory suggests that making...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 155 — Theory suggests that making...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralInstant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation inten...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They not only [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) memory but may also help to make the new...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online How does habit form?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277](https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 100 — This paper proposes methodological criteria for studies tracki...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Habit](https://en.wikipedia.org/wiki/Habit)  
+   Link: <a href="https://en.wikipedia.org/wiki/Habit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HabitA habit is a routine of behavior that is repeated regularly and tends to occur subconsciously. Good Habits Poster. The concept of...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts](https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change and Habit Formation in Health ContextsBehaviour change and habit formation lie at the heart of promoting and sustaining h...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: weber.edu  
-   Link: [https://www.weber.edu/academicpeercoaching/blog/forming-habits.html](https://www.weber.edu/academicpeercoaching/blog/forming-habits.html)  
+   Link: <a href="https://www.weber.edu/academicpeercoaching/blog/forming-habits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weber.edu/academicpeercoaching/blog/forming-habits.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming Habits Without Much AdoA cue is a trigger. The 5 most common cues are location, time of day, emotional status, thought, belief, a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/habit](https://www.merriam-webster.com/dictionary/habit)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning8 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: therapyroute.com  
-   Link: [https://www.therapyroute.com/article/habit-formation-by-therapyroute](https://www.therapyroute.com/article/habit-formation-by-therapyroute)  
+   Link: <a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit FormationHabit formation is the process by which behaviours become automatic through repetition and practice. It&#x27;s how your brain c...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/habit-triggers](https://jamesclear.com/habit-triggers)  
+   Link: <a href="https://jamesclear.com/habit-triggers" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-triggers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 5 Triggers That Make New Habits StickTriggers are the cues in the habit loop that prompt new habits. Learn the 5 fundamental triggers...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: triagemethod.com  
-   Link: [https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/](https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/)  
+   Link: <a href="https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The routine is the behaviour itself. The reward is what your brain gets from doing it, which reinforces the...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ie.edu  
    Title: Cue: The trigger that starts the habit, like hearing an alarm that  
-   Link: [https://www.ie.edu/center-for-health-and-well-being/blog/the-science-behind-building-habits-how-to-make-healthy-choices-that-stick/](https://www.ie.edu/center-for-health-and-well-being/blog/the-science-behind-building-habits-how-to-make-healthy-choices-that-stick/)  
+   Link: <a href="https://www.ie.edu/center-for-health-and-well-being/blog/the-science-behind-building-habits-how-to-make-healthy-choices-that-stick/" target="_blank" rel="noopener noreferrer nofollow">https://www.ie.edu/center-for-health-and-well-being/blog/the-science-behind-building-habits-how-to-make-healthy-choices-that-stick/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The science behind building habits: how to make healthy...30 Jan 2025 — The habit loop consists of four stages: cue, craving, response...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: goalsandprogress.com  
    Title: Habit stacking is anchoring a new behavior to an existing automatic habit  
-   Link: [https://goalsandprogress.com/habit-formation-complete-guide/](https://goalsandprogress.com/habit-formation-complete-guide/)  
+   Link: <a href="https://goalsandprogress.com/habit-formation-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/habit-formation-complete-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: 6-Step System That Survives Past Week 4Implementation intentions – the research term for specific if-then plans...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: companyaddress.co.uk  
-   Link: [https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR](https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR)  
+   Link: <a href="https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR" target="_blank" rel="noopener noreferrer nofollow">https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eliable contextual cue in your daily routine (e.g., &quot;after I brush my teeth&quot; or...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: effectiveselfhelp.org  
    Title: Behaviour change: a guide to forming habits you'll keep1  
-   Link: [https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/](https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/)  
+   Link: <a href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow">https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Form a clear goal intention - what specifically are you hoping to achieve? · 2. Plan how you intend to implement the behaviour - what you...</p></details>

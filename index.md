@@ -211,7 +211,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Accountability</span>
-              <span class="ct-node-title-full">What Makes an Accountability Partner Useful? | Better Change</span>
+              <span class="ct-node-title-full">What Makes an Accountability Partner Useful?</span>
               <span class="ct-node-summary">Accountability works best when the group clarifies actions, checks progress and avoids shame.</span>
             </span>
           </a>
@@ -233,7 +233,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Check ins</span>
-                  <span class="ct-node-title-full">Make check ins specific enough to matter | Accountability</span>
+                  <span class="ct-node-title-full">Make check ins specific enough to matter</span>
                   <span class="ct-node-summary">A useful check-in asks what happened, what got in the way and what specific action comes next.</span>
                 </span>
               </a>
@@ -253,7 +253,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Retrieval groups</span>
-                  <span class="ct-node-title-full">The study group that actually helps learning | Accountability</span>
+                  <span class="ct-node-title-full">The study group that actually helps learning</span>
                   <span class="ct-node-summary">Study groups work better when members test recall, explain answers and review mistakes instead of rereading together.</span>
                 </span>
               </a>
@@ -273,7 +273,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">If then plans</span>
-                  <span class="ct-node-title-full">What to do after a missed session | Accountability</span>
+                  <span class="ct-node-title-full">What to do after a missed session</span>
                   <span class="ct-node-summary">If-then planning turns setbacks into prepared recovery routes instead of letting one missed session end the habit.</span>
                 </span>
               </a>
@@ -293,7 +293,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">A Study Group</span>
-                  <span class="ct-node-title-full">When study groups stop being useful | Accountability</span>
+                  <span class="ct-node-title-full">When study groups stop being useful</span>
                   <span class="ct-node-summary">A weak study group can drift into copying, scrolling or comparison unless expectations make everyone contribute.</span>
                 </span>
               </a>
@@ -313,7 +313,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Right partner</span>
-                  <span class="ct-node-title-full">Who makes a good accountability partner? | Accountability</span>
+                  <span class="ct-node-title-full">Who makes a good accountability partner?</span>
                   <span class="ct-node-summary">The right partner makes honest follow-through easier by combining reliability, warm honesty and respect for the goal.</span>
                 </span>
               </a>
@@ -335,7 +335,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Action Plans</span>
-              <span class="ct-node-title-full">The Plan That Still Works When You Are Tired | Better Change</span>
+              <span class="ct-node-title-full">The Plan That Still Works When You Are Tired</span>
               <span class="ct-node-summary">Action planning gives a goal a realistic next step that can survive ordinary pressure.</span>
             </span>
           </a>
@@ -357,7 +357,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Coping Plans</span>
-                  <span class="ct-node-title-full">Action Plan or Coping Plan? | Action Plans</span>
+                  <span class="ct-node-title-full">Action Plan or Coping Plan?</span>
                   <span class="ct-node-summary">Action planning names the intended behaviour, while coping planning decides what to do when the expected barrier appears.</span>
                 </span>
               </a>
@@ -377,7 +377,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Visible Cues</span>
-                  <span class="ct-node-title-full">Can Your Environment Start the Habit for You? | Action Plans</span>
+                  <span class="ct-node-title-full">Can Your Environment Start the Habit for You?</span>
                   <span class="ct-node-summary">Visible cues reduce the need to remember, decide or negotiate with yourself when attention is already thin.</span>
                 </span>
               </a>
@@ -397,7 +397,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Real Constraints</span>
-                  <span class="ct-node-title-full">Plan for the Week You Actually Have | Action Plans</span>
+                  <span class="ct-node-title-full">Plan for the Week You Actually Have</span>
                   <span class="ct-node-summary">Constraint-aware plans start with the actual terrain of work, travel, childcare, hunger and fatigue instead of an ideal week.</span>
                 </span>
               </a>
@@ -417,7 +417,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fallback Plans</span>
-                  <span class="ct-node-title-full">What Is Your Plan When Energy Drops? | Action Plans</span>
+                  <span class="ct-node-title-full">What Is Your Plan When Energy Drops?</span>
                   <span class="ct-node-summary">A good fallback plan keeps the habit alive when exhaustion, delays, weather or low mood make the full version unrealistic.</span>
                 </span>
               </a>
@@ -437,7 +437,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Shrink Steps</span>
-                  <span class="ct-node-title-full">When Should You Make the Step Smaller? | Action Plans</span>
+                  <span class="ct-node-title-full">When Should You Make the Step Smaller?</span>
                   <span class="ct-node-summary">Shrinking duration, intensity or quality standards can preserve continuity without pretending every day has the same capacity.</span>
                 </span>
               </a>
@@ -459,7 +459,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Apologies</span>
-              <span class="ct-node-title-full">How to Apologise Before Resentment Grows | Better Change</span>
+              <span class="ct-node-title-full">How to Apologise Before Resentment Grows</span>
               <span class="ct-node-summary">Relationship repair can be treated as a behaviour with cues, timing and social stakes.</span>
             </span>
           </a>
@@ -481,7 +481,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Early Cues</span>
-                  <span class="ct-node-title-full">How to Catch Hurt Before It Hardens | Apologies</span>
+                  <span class="ct-node-title-full">How to Catch Hurt Before It Hardens</span>
                   <span class="ct-node-summary">Small shifts in tone, silence, or defensiveness can signal a rupture early enough for repair to stay simple.</span>
                 </span>
               </a>
@@ -501,7 +501,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Timing</span>
-                  <span class="ct-node-title-full">Should You Apologise Now or Listen First? | Apologies</span>
+                  <span class="ct-node-title-full">Should You Apologise Now or Listen First?</span>
                   <span class="ct-node-summary">Good timing is not instant relief; it is early repair balanced with enough listening for the hurt to feel understood.</span>
                 </span>
               </a>
@@ -521,7 +521,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">First Sentence</span>
-                  <span class="ct-node-title-full">The First Sentence That Makes Repair Easier | Apologies</span>
+                  <span class="ct-node-title-full">The First Sentence That Makes Repair Easier</span>
                   <span class="ct-node-summary">A clear opening names the action, owns the impact, and makes the other person work less hard to be understood.</span>
                 </span>
               </a>
@@ -541,7 +541,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Behaviour Change</span>
-                  <span class="ct-node-title-full">What Should Change After the Apology? | Apologies</span>
+                  <span class="ct-node-title-full">What Should Change After the Apology?</span>
                   <span class="ct-node-summary">Repair becomes credible when the apology names a realistic next action that matches the harm.</span>
                 </span>
               </a>
@@ -561,7 +561,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Bad Apologies</span>
-                  <span class="ct-node-title-full">Why Some Apologies Make Things Worse | Apologies</span>
+                  <span class="ct-node-title-full">Why Some Apologies Make Things Worse</span>
                   <span class="ct-node-summary">Courtroom, panic, and grand apologies can shift attention away from the person who was hurt.</span>
                 </span>
               </a>
@@ -583,7 +583,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">App Blockers</span>
-              <span class="ct-node-title-full">Do App Blockers Actually Help? | Better Change</span>
+              <span class="ct-node-title-full">Do App Blockers Actually Help?</span>
               <span class="ct-node-summary">Digital friction can turn attention goals into enforceable boundaries when memory is weak.</span>
             </span>
           </a>
@@ -605,7 +605,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tap Delays</span>
-                  <span class="ct-node-title-full">Can a five second pause stop autopilot scrolling? | App Blockers</span>
+                  <span class="ct-node-title-full">Can a five second pause stop autopilot scrolling?</span>
                   <span class="ct-node-summary">A short pause before an app opens can break automatic checking without turning every distraction into a total ban.</span>
                 </span>
               </a>
@@ -625,7 +625,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Night Blocks</span>
-                  <span class="ct-node-title-full">Stop the bedtime scroll before it starts | App Blockers</span>
+                  <span class="ct-node-title-full">Stop the bedtime scroll before it starts</span>
                   <span class="ct-node-summary">A bedtime block works best when it starts before sleep time, leaving room for a real wind-down instead of a last-minute fight.</span>
                 </span>
               </a>
@@ -645,7 +645,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fit Patterns</span>
-                  <span class="ct-node-title-full">The blocker has to fit the habit | App Blockers</span>
+                  <span class="ct-node-title-full">The blocker has to fit the habit</span>
                   <span class="ct-node-summary">App blockers work better when the target apps, timing, and escape rules match the user&#x27;s real routine and failure pattern.</span>
                 </span>
               </a>
@@ -665,7 +665,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Soft vs Locked</span>
-                  <span class="ct-node-title-full">When app limits need more than a nudge | App Blockers</span>
+                  <span class="ct-node-title-full">When app limits need more than a nudge</span>
                   <span class="ct-node-summary">The right blocker is strong enough to change behavior but not so harsh that it invites loopholes or abandonment.</span>
                 </span>
               </a>
@@ -685,7 +685,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Work Blocks</span>
-                  <span class="ct-node-title-full">Why blocks should begin before work starts | App Blockers</span>
+                  <span class="ct-node-title-full">Why blocks should begin before work starts</span>
                   <span class="ct-node-summary">Planned blocks work best when they start before the focus session and protect a specific task from predictable distraction.</span>
                 </span>
               </a>
@@ -707,7 +707,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Automaticity</span>
-              <span class="ct-node-title-full">How Repetition Becomes Automatic | Better Change</span>
+              <span class="ct-node-title-full">How Repetition Becomes Automatic</span>
               <span class="ct-node-summary">Repeating a behaviour after the same cue helps it become less dependent on conscious effort.</span>
             </span>
           </a>
@@ -729,7 +729,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Start Cue</span>
-                  <span class="ct-node-title-full">Automate the Start, Not the Whole Routine | Automaticity</span>
+                  <span class="ct-node-title-full">Automate the Start, Not the Whole Routine</span>
                   <span class="ct-node-summary">For complex goals, the most habit-friendly target is often the first doorway action rather than the whole performance.</span>
                 </span>
               </a>
@@ -749,7 +749,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Visible Cues</span>
-                  <span class="ct-node-title-full">Can Your Room Remind You Better? | Automaticity</span>
+                  <span class="ct-node-title-full">Can Your Room Remind You Better?</span>
                   <span class="ct-node-summary">Objects placed in the right location can turn the environment into a reminder without relying on motivation alone.</span>
                 </span>
               </a>
@@ -769,7 +769,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">66 Day Myth</span>
-                  <span class="ct-node-title-full">Does It Really Take 66 Days? | Automaticity</span>
+                  <span class="ct-node-title-full">Does It Really Take 66 Days?</span>
                   <span class="ct-node-summary">Habit automaticity usually grows on a curve, so the famous 66-day average is less useful than consistent cue-response repetition.</span>
                 </span>
               </a>
@@ -789,7 +789,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Daily Anchors</span>
-                  <span class="ct-node-title-full">Which Daily Cues Make Habits Stick? | Automaticity</span>
+                  <span class="ct-node-title-full">Which Daily Cues Make Habits Stick?</span>
                   <span class="ct-node-summary">Existing routines such as coffee, breakfast and brushing teeth can make new habits easier to remember and repeat.</span>
                 </span>
               </a>
@@ -809,7 +809,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Routine Breaks</span>
-                  <span class="ct-node-title-full">Why Good Habits Vanish on Holiday | Automaticity</span>
+                  <span class="ct-node-title-full">Why Good Habits Vanish on Holiday</span>
                   <span class="ct-node-summary">Travel, illness, moving house and schedule changes can remove the cues that normally make a habit feel automatic.</span>
                 </span>
               </a>
@@ -831,7 +831,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Bedroom Phone</span>
-              <span class="ct-node-title-full">Why the Phone Belongs Outside the Bedroom | Better Change</span>
+              <span class="ct-node-title-full">Why the Phone Belongs Outside the Bedroom</span>
               <span class="ct-node-summary">Charging a phone outside the bedroom changes the contest between tired willpower and optimized devices.</span>
             </span>
           </a>
@@ -853,7 +853,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sleep Evidence</span>
-                  <span class="ct-node-title-full">Does Removing the Phone Really Help? | Bedroom Phone</span>
+                  <span class="ct-node-title-full">Does Removing the Phone Really Help?</span>
                   <span class="ct-node-summary">Restriction studies suggest better sleep for many people, while also showing why the evidence is useful but not universal.</span>
                 </span>
               </a>
@@ -873,7 +873,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Emergencies</span>
-                  <span class="ct-node-title-full">Staying Reachable Without Staying Online | Bedroom Phone</span>
+                  <span class="ct-node-title-full">Staying Reachable Without Staying Online</span>
                   <span class="ct-node-summary">People who need overnight contact can separate true emergencies from routine notifications with stricter phone settings and placement.</span>
                 </span>
               </a>
@@ -893,7 +893,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Alarm Swaps</span>
-                  <span class="ct-node-title-full">The Alarm Excuse Is Solvable | Bedroom Phone</span>
+                  <span class="ct-node-title-full">The Alarm Excuse Is Solvable</span>
                   <span class="ct-node-summary">Replacing the phone alarm removes the strongest excuse for keeping an internet-connected device beside the bed.</span>
                 </span>
               </a>
@@ -913,7 +913,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Charging Spot</span>
-                  <span class="ct-node-title-full">Where Should Your Phone Sleep? | Bedroom Phone</span>
+                  <span class="ct-node-title-full">Where Should Your Phone Sleep?</span>
                   <span class="ct-node-summary">A simple out-of-room charging spot can make phone-free sleep easier by removing the device before bedtime starts.</span>
                 </span>
               </a>
@@ -933,7 +933,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Checking Loop</span>
-                  <span class="ct-node-title-full">Why the Bedside Phone Keeps Winning | Bedroom Phone</span>
+                  <span class="ct-node-title-full">Why the Bedside Phone Keeps Winning</span>
                   <span class="ct-node-summary">Keeping the phone within reach turns tired moments into repeated decisions that make sleep harder to protect.</span>
                 </span>
               </a>
@@ -955,7 +955,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Coffee Cue</span>
-              <span class="ct-node-title-full">How Coffee Can Trigger the First Work Task | Better Change</span>
+              <span class="ct-node-title-full">How Coffee Can Trigger the First Work Task</span>
               <span class="ct-node-summary">Pairing a top-task review with coffee shows how an existing routine can anchor a new one.</span>
             </span>
           </a>
@@ -977,7 +977,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Email Drift</span>
-                  <span class="ct-node-title-full">How Coffee Turns Into Inbox Drift | Coffee Cue</span>
+                  <span class="ct-node-title-full">How Coffee Turns Into Inbox Drift</span>
                   <span class="ct-node-summary">Email drift feels productive, but it can steal the first clear attention from the task that matters most.</span>
                 </span>
               </a>
@@ -997,7 +997,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tiny Review</span>
-                  <span class="ct-node-title-full">The Two Minute Review Before Email | Coffee Cue</span>
+                  <span class="ct-node-title-full">The Two Minute Review Before Email</span>
                   <span class="ct-node-summary">A tiny review can turn coffee time into a clear first action instead of a full planning ritual.</span>
                 </span>
               </a>
@@ -1017,7 +1017,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Caffeine Limits</span>
-                  <span class="ct-node-title-full">What Coffee Can and Cannot Do | Coffee Cue</span>
+                  <span class="ct-node-title-full">What Coffee Can and Cannot Do</span>
                   <span class="ct-node-summary">Coffee may improve alertness for many adults, but the cue matters more than chasing stronger caffeine effects.</span>
                 </span>
               </a>
@@ -1037,7 +1037,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cue Choice</span>
-                  <span class="ct-node-title-full">Which Coffee Moment Should Start Work? | Coffee Cue</span>
+                  <span class="ct-node-title-full">Which Coffee Moment Should Start Work?</span>
                   <span class="ct-node-summary">A good coffee cue is precise, automatic, and early enough to protect the first task from digital drift.</span>
                 </span>
               </a>
@@ -1057,7 +1057,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">If Then Plan</span>
-                  <span class="ct-node-title-full">Why If Then Coffee Plans Work | Coffee Cue</span>
+                  <span class="ct-node-title-full">Why If Then Coffee Plans Work</span>
                   <span class="ct-node-summary">The if-then structure turns morning coffee into a specific plan: when the cue happens, the first action follows.</span>
                 </span>
               </a>
@@ -1079,7 +1079,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Cues</span>
-              <span class="ct-node-title-full">Why Good Cues Beat Good Intentions | Better Change</span>
+              <span class="ct-node-title-full">Why Good Cues Beat Good Intentions</span>
               <span class="ct-node-summary">Prompts reduce the need to remember by putting the next action in the path of daily life.</span>
             </span>
           </a>
@@ -1101,7 +1101,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Event Cues</span>
-                  <span class="ct-node-title-full">Are Clock Alarms the Wrong Cue? | Cues</span>
+                  <span class="ct-node-title-full">Are Clock Alarms the Wrong Cue?</span>
                   <span class="ct-node-summary">Clock alarms can start a habit, but event-based cues often fit daily routines better and may support stronger automaticity.</span>
                 </span>
               </a>
@@ -1121,7 +1121,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Blockers</span>
-                  <span class="ct-node-title-full">Can Friction Break the Scroll Loop? | Cues</span>
+                  <span class="ct-node-title-full">Can Friction Break the Scroll Loop?</span>
                   <span class="ct-node-summary">Blockers work differently from reminders because they change the available choice at the exact moment an unwanted habit begins.</span>
                 </span>
               </a>
@@ -1141,7 +1141,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Medication Cues</span>
-                  <span class="ct-node-title-full">The Habit Cue Beside the Toothbrush | Cues</span>
+                  <span class="ct-node-title-full">The Habit Cue Beside the Toothbrush</span>
                   <span class="ct-node-summary">Medication reminders are strongest when alerts, pill organisers, and daily anchors work together rather than competing for attention.</span>
                 </span>
               </a>
@@ -1161,7 +1161,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Temptation Cues</span>
-                  <span class="ct-node-title-full">What Is Your House Prompting You To Do? | Cues</span>
+                  <span class="ct-node-title-full">What Is Your House Prompting You To Do?</span>
                   <span class="ct-node-summary">Changing what is visible and easy at home can weaken unwanted habit triggers while making a better substitute easier to start.</span>
                 </span>
               </a>
@@ -1181,7 +1181,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cue Fatigue</span>
-                  <span class="ct-node-title-full">When Reminders Become Easy to Ignore | Cues</span>
+                  <span class="ct-node-title-full">When Reminders Become Easy to Ignore</span>
                   <span class="ct-node-summary">Too many reminders can turn helpful cues into background noise, making habits easier to dismiss instead of easier to do.</span>
                 </span>
               </a>
@@ -1203,7 +1203,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Cycle Commute</span>
-              <span class="ct-node-title-full">Why the Habit Starts the Night Before | Better Change</span>
+              <span class="ct-node-title-full">Why the Habit Starts the Night Before</span>
               <span class="ct-node-summary">Cycle commuting shows how a supporting action can make the main behaviour more likely.</span>
             </span>
           </a>
@@ -1225,7 +1225,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Weather Plan</span>
-                  <span class="ct-node-title-full">Can You Plan Around Bad Cycling Weather? | Cycle Commute</span>
+                  <span class="ct-node-title-full">Can You Plan Around Bad Cycling Weather?</span>
                   <span class="ct-node-summary">Checking rain, wind, temperature, visibility, and the return journey the night before turns weather from a surprise into a decision.</span>
                 </span>
               </a>
@@ -1245,7 +1245,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Coping Plans</span>
-                  <span class="ct-node-title-full">The If Then Plan That Saves the Ride | Cycle Commute</span>
+                  <span class="ct-node-title-full">The If Then Plan That Saves the Ride</span>
                   <span class="ct-node-summary">Specific if-then plans make cycling more likely by deciding in advance what happens when rain, tiredness, darkness, or time pressure appear.</span>
                 </span>
               </a>
@@ -1265,7 +1265,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Commute Bag</span>
-                  <span class="ct-node-title-full">What Belongs in a Workday Bike Bag? | Cycle Commute</span>
+                  <span class="ct-node-title-full">What Belongs in a Workday Bike Bag?</span>
                   <span class="ct-node-summary">A reliable commute bag works best when it covers the ride, the arrival, and the easy-to-forget items that can derail a workday.</span>
                 </span>
               </a>
@@ -1285,7 +1285,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Ride Days</span>
-                  <span class="ct-node-title-full">Which Workdays Should You Cycle First? | Cycle Commute</span>
+                  <span class="ct-node-title-full">Which Workdays Should You Cycle First?</span>
                   <span class="ct-node-summary">Starting with predictable, low-conflict ride days makes cycle commuting easier to repeat than aiming for daily perfection immediately.</span>
                 </span>
               </a>
@@ -1305,7 +1305,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Route Backup</span>
-                  <span class="ct-node-title-full">Why the Shortest Bike Route May Fail | Cycle Commute</span>
+                  <span class="ct-node-title-full">Why the Shortest Bike Route May Fail</span>
                   <span class="ct-node-summary">A slightly longer route with quieter roads, better lighting, or fewer hostile junctions can make commuting more sustainable than the shortest path.</span>
                 </span>
               </a>
@@ -1327,7 +1327,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Defaults</span>
-              <span class="ct-node-title-full">How Defaults Quietly Shape Your Day | Better Change</span>
+              <span class="ct-node-title-full">How Defaults Quietly Shape Your Day</span>
               <span class="ct-node-summary">Default choices can make preferred behaviours happen with less deliberation and fewer daily decisions.</span>
             </span>
           </a>
@@ -1349,7 +1349,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Payday saving</span>
-                  <span class="ct-node-title-full">Can payday defaults make saving less fragile? | Defaults</span>
+                  <span class="ct-node-title-full">Can payday defaults make saving less fragile?</span>
                   <span class="ct-node-summary">Automatic transfers work best when they move money before everyday spending can absorb it.</span>
                 </span>
               </a>
@@ -1369,7 +1369,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Precommitment</span>
-                  <span class="ct-node-title-full">Let your calmer self choose first | Defaults</span>
+                  <span class="ct-node-title-full">Let your calmer self choose first</span>
                   <span class="ct-node-summary">Pre-commitment lets a calmer earlier self remove predictable negotiations from a more tired later self.</span>
                 </span>
               </a>
@@ -1389,7 +1389,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">App defaults</span>
-                  <span class="ct-node-title-full">Set the blocker before the scroll begins | Defaults</span>
+                  <span class="ct-node-title-full">Set the blocker before the scroll begins</span>
                   <span class="ct-node-summary">Device defaults are strongest when they block the tempting path before tired attention has to resist it.</span>
                 </span>
               </a>
@@ -1409,7 +1409,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Ethical nudges</span>
-                  <span class="ct-node-title-full">When is a self nudge still free choice? | Defaults</span>
+                  <span class="ct-node-title-full">When is a self nudge still free choice?</span>
                   <span class="ct-node-summary">Self-nudging is most credible when the person can see, review and change the defaults shaping their own choices.</span>
                 </span>
               </a>
@@ -1429,7 +1429,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Booked habits</span>
-                  <span class="ct-node-title-full">Why bookings beat reminders for hard habits | Defaults</span>
+                  <span class="ct-node-title-full">Why bookings beat reminders for hard habits</span>
                   <span class="ct-node-summary">A booked class or appointment changes a vague plan into something that happens unless it is actively cancelled.</span>
                 </span>
               </a>
@@ -1451,7 +1451,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Digital Tools</span>
-              <span class="ct-node-title-full">What Makes a Self Improvement App Useful? | Better Change</span>
+              <span class="ct-node-title-full">What Makes a Self Improvement App Useful?</span>
               <span class="ct-node-summary">Digital interventions combine prompts, tracking and feedback, but the useful ingredient matters more than the app.</span>
             </span>
           </a>
@@ -1473,7 +1473,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">JITAI</span>
-                  <span class="ct-node-title-full">Can apps know the right moment to help? | Digital Tools</span>
+                  <span class="ct-node-title-full">Can apps know the right moment to help?</span>
                   <span class="ct-node-summary">Adaptive interventions aim to offer support when a person is receptive or at risk, rather than sending the same advice every day.</span>
                 </span>
               </a>
@@ -1493,7 +1493,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Streaks</span>
-                  <span class="ct-node-title-full">Do streaks motivate or set you up to quit? | Digital Tools</span>
+                  <span class="ct-node-title-full">Do streaks motivate or set you up to quit?</span>
                   <span class="ct-node-summary">Streaks, badges, and progress bars can support repetition, but rigid designs can turn one missed day into discouragement.</span>
                 </span>
               </a>
@@ -1513,7 +1513,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tracking</span>
-                  <span class="ct-node-title-full">When does tracking actually change a habit? | Digital Tools</span>
+                  <span class="ct-node-title-full">When does tracking actually change a habit?</span>
                   <span class="ct-node-summary">Tracking works best when it makes patterns visible and points to a realistic next action, not when it becomes another data chore.</span>
                 </span>
               </a>
@@ -1533,7 +1533,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Abandonment</span>
-                  <span class="ct-node-title-full">Why do self improvement apps get abandoned? | Digital Tools</span>
+                  <span class="ct-node-title-full">Why do self improvement apps get abandoned?</span>
                   <span class="ct-node-summary">App abandonment is often a design and fit problem, not simply a motivation problem.</span>
                 </span>
               </a>
@@ -1553,7 +1553,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Reminders</span>
-                  <span class="ct-node-title-full">Why some reminders help and others nag | Digital Tools</span>
+                  <span class="ct-node-title-full">Why some reminders help and others nag</span>
                   <span class="ct-node-summary">Prompts are useful when they arrive near a feasible action, but they fail when the real barrier is energy, time, pain, stress, or money.</span>
                 </span>
               </a>
@@ -1575,7 +1575,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Ego Depletion</span>
-              <span class="ct-node-title-full">Is Self Control Really a Limited Resource? | Better Change</span>
+              <span class="ct-node-title-full">Is Self Control Really a Limited Resource?</span>
               <span class="ct-node-summary">The controversy around ego depletion shows why self-control should not be treated as a simple fuel tank.</span>
             </span>
           </a>
@@ -1597,7 +1597,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Glucose Myth</span>
-                  <span class="ct-node-title-full">Does Sugar Really Refuel Willpower? | Ego Depletion</span>
+                  <span class="ct-node-title-full">Does Sugar Really Refuel Willpower?</span>
                   <span class="ct-node-summary">Sugar may sound like a simple willpower fix, but the glucose story shows why vivid biological explanations can become bad advice.</span>
                 </span>
               </a>
@@ -1617,7 +1617,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Low Resistance Plans</span>
-                  <span class="ct-node-title-full">How to Need Less Willpower | Ego Depletion</span>
+                  <span class="ct-node-title-full">How to Need Less Willpower</span>
                   <span class="ct-node-summary">The safest everyday lesson is to design routines so fewer moments depend on fighting temptation in real time.</span>
                 </span>
               </a>
@@ -1637,7 +1637,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Willpower Tank</span>
-                  <span class="ct-node-title-full">Is Willpower Really a Tank? | Ego Depletion</span>
+                  <span class="ct-node-title-full">Is Willpower Really a Tank?</span>
                   <span class="ct-node-summary">The fuel-tank metaphor feels intuitive, but it can turn ordinary fatigue and lapses into the wrong explanation for change failure.</span>
                 </span>
               </a>
@@ -1657,7 +1657,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Replications</span>
-                  <span class="ct-node-title-full">What Happened When Ego Depletion Was Retested? | Ego Depletion</span>
+                  <span class="ct-node-title-full">What Happened When Ego Depletion Was Retested?</span>
                   <span class="ct-node-summary">Large preregistered replication projects found tiny or unclear effects, changing how seriously everyday advice should use ego depletion.</span>
                 </span>
               </a>
@@ -1677,7 +1677,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Attention Shift</span>
-                  <span class="ct-node-title-full">Why Temptation Gets Louder After Effort | Ego Depletion</span>
+                  <span class="ct-node-title-full">Why Temptation Gets Louder After Effort</span>
                   <span class="ct-node-summary">After hard self-control, temptations may win because attention and motivation shift toward relief, reward and novelty.</span>
                 </span>
               </a>
@@ -1699,7 +1699,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Environment</span>
-              <span class="ct-node-title-full">Why Your Room May Matter More Than Willpower | Better Change</span>
+              <span class="ct-node-title-full">Why Your Room May Matter More Than Willpower</span>
               <span class="ct-node-summary">Changing the room, defaults and friction often works better than demanding heroic self-control.</span>
             </span>
           </a>
@@ -1721,7 +1721,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Kitchen Cues</span>
-                  <span class="ct-node-title-full">Can your kitchen make eating well easier? | Environment</span>
+                  <span class="ct-node-title-full">Can your kitchen make eating well easier?</span>
                   <span class="ct-node-summary">Food placement changes what people notice first, reach for first and repeat without much thought.</span>
                 </span>
               </a>
@@ -1741,7 +1741,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Friction Audit</span>
-                  <span class="ct-node-title-full">Find the hidden friction breaking your habits | Environment</span>
+                  <span class="ct-node-title-full">Find the hidden friction breaking your habits</span>
                   <span class="ct-node-summary">A friction audit traces the tiny obstacles that make a good habit harder than it needs to be.</span>
                 </span>
               </a>
@@ -1761,7 +1761,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Temptation Pause</span>
-                  <span class="ct-node-title-full">Make bad habits just inconvenient enough | Environment</span>
+                  <span class="ct-node-title-full">Make bad habits just inconvenient enough</span>
                   <span class="ct-node-summary">Putting tempting items slightly out of reach can create enough delay for a better choice to surface.</span>
                 </span>
               </a>
@@ -1781,7 +1781,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Phone Place</span>
-                  <span class="ct-node-title-full">Should your phone sleep outside the bedroom? | Environment</span>
+                  <span class="ct-node-title-full">Should your phone sleep outside the bedroom?</span>
                   <span class="ct-node-summary">Where a phone lives can decide whether bedtime becomes scrolling time or recovery time.</span>
                 </span>
               </a>
@@ -1801,7 +1801,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Money Defaults</span>
-                  <span class="ct-node-title-full">Why automatic saving beats repeated resolve | Environment</span>
+                  <span class="ct-node-title-full">Why automatic saving beats repeated resolve</span>
                   <span class="ct-node-summary">Automatic transfers make saving the path of least resistance instead of a daily test of discipline.</span>
                 </span>
               </a>
@@ -1823,7 +1823,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Expert Help</span>
-              <span class="ct-node-title-full">When Should You Get Outside Help? | Better Change</span>
+              <span class="ct-node-title-full">When Should You Get Outside Help?</span>
               <span class="ct-node-summary">Professional support can help when goals involve skills, mental health or repeated failed attempts.</span>
             </span>
           </a>
@@ -1845,7 +1845,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Coach or therapist</span>
-                  <span class="ct-node-title-full">Do You Need a Coach or a Therapist? | Expert Help</span>
+                  <span class="ct-node-title-full">Do You Need a Coach or a Therapist?</span>
                   <span class="ct-node-summary">The right support depends on whether the problem is mainly execution, emotional distress, clinical risk, or both.</span>
                 </span>
               </a>
@@ -1865,7 +1865,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Bad feedback</span>
-                  <span class="ct-node-title-full">When Feedback Helps Less Than It Hurts | Expert Help</span>
+                  <span class="ct-node-title-full">When Feedback Helps Less Than It Hurts</span>
                   <span class="ct-node-summary">Feedback can backfire when it becomes vague, personal, humiliating, or detached from the next useful action.</span>
                 </span>
               </a>
@@ -1885,7 +1885,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Repeat failure</span>
-                  <span class="ct-node-title-full">When Repeating the Same Goal Means Get Help | Expert Help</span>
+                  <span class="ct-node-title-full">When Repeating the Same Goal Means Get Help</span>
                   <span class="ct-node-summary">The third or fourth repeat failure is often a better time to get help than waiting until the problem becomes dramatic.</span>
                 </span>
               </a>
@@ -1905,7 +1905,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Accountability</span>
-                  <span class="ct-node-title-full">Why Accountability Works Better Than Intention | Expert Help</span>
+                  <span class="ct-node-title-full">Why Accountability Works Better Than Intention</span>
                   <span class="ct-node-summary">Regular appointments can convert vague intentions into reviewable actions without making the person dependent forever.</span>
                 </span>
               </a>
@@ -1925,7 +1925,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Skill feedback</span>
-                  <span class="ct-node-title-full">Why Practice Alone Can Make Skills Worse | Expert Help</span>
+                  <span class="ct-node-title-full">Why Practice Alone Can Make Skills Worse</span>
                   <span class="ct-node-summary">Expert feedback is most valuable when bad habits would otherwise harden into normal technique.</span>
                 </span>
               </a>
@@ -1947,7 +1947,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">False Progress</span>
-              <span class="ct-node-title-full">When Self Improvement Feels Productive but Fails | Better Change</span>
+              <span class="ct-node-title-full">When Self Improvement Feels Productive but Fails</span>
               <span class="ct-node-summary">Reading, planning and organizing can feel productive while daily conduct stays unchanged.</span>
             </span>
           </a>
@@ -1969,7 +1969,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Planning Trap</span>
-                  <span class="ct-node-title-full">Are You Planning or Avoiding the Real Task? | False Progress</span>
+                  <span class="ct-node-title-full">Are You Planning or Avoiding the Real Task?</span>
                   <span class="ct-node-summary">Planning can feel responsible while quietly protecting you from the task that would prove whether change is happening.</span>
                 </span>
               </a>
@@ -1989,7 +1989,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Prompt Not Product</span>
-                  <span class="ct-node-title-full">Did the Advice Change Your Next Action? | False Progress</span>
+                  <span class="ct-node-title-full">Did the Advice Change Your Next Action?</span>
                   <span class="ct-node-summary">Books, videos and worksheets help only when they change the next cue, choice, practice session or environment.</span>
                 </span>
               </a>
@@ -2009,7 +2009,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Calendar Test</span>
-                  <span class="ct-node-title-full">Does Your Goal Show Up on the Calendar? | False Progress</span>
+                  <span class="ct-node-title-full">Does Your Goal Show Up on the Calendar?</span>
                   <span class="ct-node-summary">A goal is more credible when it leaves dated traces of actions done under ordinary conditions.</span>
                 </span>
               </a>
@@ -2029,7 +2029,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">App Trap</span>
-                  <span class="ct-node-title-full">When the App Becomes the Habit | False Progress</span>
+                  <span class="ct-node-title-full">When the App Becomes the Habit</span>
                   <span class="ct-node-summary">Digital tools become false progress when streaks, logs and notifications matter more than the behaviour they were meant to support.</span>
                 </span>
               </a>
@@ -2049,7 +2049,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Wednesday Test</span>
-                  <span class="ct-node-title-full">Will It Still Work on Wednesday? | False Progress</span>
+                  <span class="ct-node-title-full">Will It Still Work on Wednesday?</span>
                   <span class="ct-node-summary">A method that feels transformative in a calm planning moment still has to survive tiredness, boredom and social pressure later.</span>
                 </span>
               </a>
@@ -2071,7 +2071,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Feedback</span>
-              <span class="ct-node-title-full">The Feedback Loop Behind Real Progress | Better Change</span>
+              <span class="ct-node-title-full">The Feedback Loop Behind Real Progress</span>
               <span class="ct-node-summary">Fast feedback shows whether the plan, cue, reward or environment needs adjustment.</span>
             </span>
           </a>
@@ -2093,7 +2093,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Weekly Reviews</span>
-                  <span class="ct-node-title-full">The Weekly Review That Fixes the Plan | Feedback</span>
+                  <span class="ct-node-title-full">The Weekly Review That Fixes the Plan</span>
                   <span class="ct-node-summary">A short weekly review turns missed plans into one practical system change for the next test.</span>
                 </span>
               </a>
@@ -2113,7 +2113,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Steering Metrics</span>
-                  <span class="ct-node-title-full">Track the Steering Wheel, Not Just the Score | Feedback</span>
+                  <span class="ct-node-title-full">Track the Steering Wheel, Not Just the Score</span>
                   <span class="ct-node-summary">Behaviour measures usually give better next actions than outcome numbers that only judge the final result.</span>
                 </span>
               </a>
@@ -2133,7 +2133,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tracking Noise</span>
-                  <span class="ct-node-title-full">When the Tracker Becomes the Problem | Feedback</span>
+                  <span class="ct-node-title-full">When the Tracker Becomes the Problem</span>
                   <span class="ct-node-summary">Tracking can stop helping when the dashboard becomes more important than the behaviour it was meant to support.</span>
                 </span>
               </a>
@@ -2153,7 +2153,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">No Shame</span>
-                  <span class="ct-node-title-full">Why Better Feedback Sounds Less Personal | Feedback</span>
+                  <span class="ct-node-title-full">Why Better Feedback Sounds Less Personal</span>
                   <span class="ct-node-summary">Feedback works better when it names the task problem instead of turning data into a verdict on character.</span>
                 </span>
               </a>
@@ -2173,7 +2173,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Visible Records</span>
-                  <span class="ct-node-title-full">Why Memory Is a Bad Habit Tracker | Feedback</span>
+                  <span class="ct-node-title-full">Why Memory Is a Bad Habit Tracker</span>
                   <span class="ct-node-summary">Written or visible records can reveal patterns that feelings and memory usually blur or exaggerate.</span>
                 </span>
               </a>
@@ -2195,7 +2195,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Goal Setting</span>
-              <span class="ct-node-title-full">Why Vague Goals Fail So Often | Better Change</span>
+              <span class="ct-node-title-full">Why Vague Goals Fail So Often</span>
               <span class="ct-node-summary">Specific goals turn self-improvement into a visible action instead of a vague hope.</span>
             </span>
           </a>
@@ -2217,7 +2217,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Goal Conversion</span>
-                  <span class="ct-node-title-full">How to Turn Wishes Into Behaviours | Goal Setting</span>
+                  <span class="ct-node-title-full">How to Turn Wishes Into Behaviours</span>
                   <span class="ct-node-summary">A clear behaviour goal defines the action, setting, frequency and minimum standard so progress is harder to fudge.</span>
                 </span>
               </a>
@@ -2237,7 +2237,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Frequency</span>
-                  <span class="ct-node-title-full">Should Your Goal Really Be Daily? | Goal Setting</span>
+                  <span class="ct-node-title-full">Should Your Goal Really Be Daily?</span>
                   <span class="ct-node-summary">The best frequency is not always daily; it is the schedule that creates repeatable action and a recovery path after misses.</span>
                 </span>
               </a>
@@ -2257,7 +2257,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tracking</span>
-                  <span class="ct-node-title-full">What Tracking Reveals About Your Goals | Goal Setting</span>
+                  <span class="ct-node-title-full">What Tracking Reveals About Your Goals</span>
                   <span class="ct-node-summary">Tracking defined behaviours turns impressions into evidence, helping people repeat what works and repair what does not.</span>
                 </span>
               </a>
@@ -2277,7 +2277,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Doable Stretch</span>
-                  <span class="ct-node-title-full">When Specific Goals Get Too Hard | Goal Setting</span>
+                  <span class="ct-node-title-full">When Specific Goals Get Too Hard</span>
                   <span class="ct-node-summary">Specific goals should stretch effort without becoming punishing, especially when the behaviour is new or complex.</span>
                 </span>
               </a>
@@ -2297,7 +2297,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">If Then Plans</span>
-                  <span class="ct-node-title-full">Why If Then Plans Beat Willpower | Goal Setting</span>
+                  <span class="ct-node-title-full">Why If Then Plans Beat Willpower</span>
                   <span class="ct-node-summary">If-then plans link a specific situation to a response, making the desired behaviour easier to remember at the right moment.</span>
                 </span>
               </a>
@@ -2319,7 +2319,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Goals vs Systems</span>
-              <span class="ct-node-title-full">Do Goals or Systems Matter More? | Better Change</span>
+              <span class="ct-node-title-full">Do Goals or Systems Matter More?</span>
               <span class="ct-node-summary">Goals name the destination, while systems change the conditions that make action likely.</span>
             </span>
           </a>
@@ -2341,7 +2341,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Group Goals</span>
-                  <span class="ct-node-title-full">Do Public Goals Help or Backfire? | Goals vs Systems</span>
+                  <span class="ct-node-title-full">Do Public Goals Help or Backfire?</span>
                   <span class="ct-node-summary">Shared goals can add structure and accountability, but they work best when they do not turn progress into performance theatre.</span>
                 </span>
               </a>
@@ -2361,7 +2361,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">COM B Fixes</span>
-                  <span class="ct-node-title-full">Is Motivation Really the Missing Piece? | Goals vs Systems</span>
+                  <span class="ct-node-title-full">Is Motivation Really the Missing Piece?</span>
                   <span class="ct-node-summary">Many stalled goals need better capability or opportunity, not another burst of motivation.</span>
                 </span>
               </a>
@@ -2381,7 +2381,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Goal Side Effects</span>
-                  <span class="ct-node-title-full">When Goals Start Rewarding the Wrong Thing | Goals vs Systems</span>
+                  <span class="ct-node-title-full">When Goals Start Rewarding the Wrong Thing</span>
                   <span class="ct-node-summary">A narrow target can improve effort while quietly encouraging shortcuts, blind spots or neglected priorities.</span>
                 </span>
               </a>
@@ -2401,7 +2401,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Busywork Trap</span>
-                  <span class="ct-node-title-full">When the System Becomes the Goal | Goals vs Systems</span>
+                  <span class="ct-node-title-full">When the System Becomes the Goal</span>
                   <span class="ct-node-summary">A system can feel disciplined while drifting away from the outcome it was meant to serve.</span>
                 </span>
               </a>
@@ -2421,7 +2421,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">The Idea That A Habit Forms After A Fixed Number Of...</span>
-                  <span class="ct-node-title-full">Why Habits Do Not Obey a Countdown | Goals vs Systems</span>
+                  <span class="ct-node-title-full">Why Habits Do Not Obey a Countdown</span>
                   <span class="ct-node-summary">Habit formation is not a fixed countdown, so systems should be designed for variable repetition rather than perfect streaks.</span>
                 </span>
               </a>
@@ -2443,7 +2443,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Gym Routine</span>
-              <span class="ct-node-title-full">Can the Gym Survive the Workday? | Better Change</span>
+              <span class="ct-node-title-full">Can the Gym Survive the Workday?</span>
               <span class="ct-node-summary">An after-work gym plan succeeds when clothes, timing, travel and fatigue are designed in advance.</span>
             </span>
           </a>
@@ -2465,7 +2465,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Minimum Workout</span>
-                  <span class="ct-node-title-full">The 20 Minute Workout That Saves the Habit | Gym Routine</span>
+                  <span class="ct-node-title-full">The 20 Minute Workout That Saves the Habit</span>
                   <span class="ct-node-summary">A planned 20-minute minimum workout keeps the habit alive on tired days without turning every evening into an all-or-nothing test.</span>
                 </span>
               </a>
@@ -2485,7 +2485,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Crowded Gym</span>
-                  <span class="ct-node-title-full">What to Do When the Gym Is Packed | Gym Routine</span>
+                  <span class="ct-node-title-full">What to Do When the Gym Is Packed</span>
                   <span class="ct-node-summary">A crowded gym does not have to cancel the session if the workout can switch between dumbbells, machines, cardio, and open-floor options.</span>
                 </span>
               </a>
@@ -2505,7 +2505,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Realistic Days</span>
-                  <span class="ct-node-title-full">Which After Work Gym Days Actually Stick? | Gym Routine</span>
+                  <span class="ct-node-title-full">Which After Work Gym Days Actually Stick?</span>
                   <span class="ct-node-summary">Two or three realistic gym evenings usually beat an ambitious five-day plan that collapses when meetings, travel, or fatigue interfere.</span>
                 </span>
               </a>
@@ -2525,7 +2525,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Packed Bag</span>
-                  <span class="ct-node-title-full">Why the Gym Bag Matters Before Work | Gym Routine</span>
+                  <span class="ct-node-title-full">Why the Gym Bag Matters Before Work</span>
                   <span class="ct-node-summary">A packed gym bag turns an evening workout from a fragile intention into a visible, low-friction plan before the workday begins.</span>
                 </span>
               </a>
@@ -2545,7 +2545,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Commute Route</span>
-                  <span class="ct-node-title-full">Why the Route Home Can Make or Break Gym | Gym Routine</span>
+                  <span class="ct-node-title-full">Why the Route Home Can Make or Break Gym</span>
                   <span class="ct-node-summary">The best after-work gym is often the one on the route home, because going home first adds a second departure that many routines cannot survive.</span>
                 </span>
               </a>
@@ -2567,7 +2567,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Health Habits</span>
-              <span class="ct-node-title-full">What Health Habits Teach About Change | Better Change</span>
+              <span class="ct-node-title-full">What Health Habits Teach About Change</span>
               <span class="ct-node-summary">Health habits offer a well-studied window into why timing, frequency and affect shape automaticity.</span>
             </span>
           </a>
@@ -2589,7 +2589,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">21 Day Myth</span>
-                  <span class="ct-node-title-full">Do habits really take only 21 days? | Health Habits</span>
+                  <span class="ct-node-title-full">Do habits really take only 21 days?</span>
                   <span class="ct-node-summary">Health habits usually build over weeks or months, so a missed artificial deadline is not proof that change has failed.</span>
                 </span>
               </a>
@@ -2609,7 +2609,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Missed Days</span>
-                  <span class="ct-node-title-full">Does missing one day ruin a habit? | Health Habits</span>
+                  <span class="ct-node-title-full">Does missing one day ruin a habit?</span>
                   <span class="ct-node-summary">One missed day matters less than returning to the same cue often enough for the larger repetition pattern to continue.</span>
                 </span>
               </a>
@@ -2629,7 +2629,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Timing</span>
-                  <span class="ct-node-title-full">Is morning really the best habit time? | Health Habits</span>
+                  <span class="ct-node-title-full">Is morning really the best habit time?</span>
                   <span class="ct-node-summary">Mornings often protect repetition from interruptions, but the best cue is the one a person can repeat reliably.</span>
                 </span>
               </a>
@@ -2649,7 +2649,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Stable Cues</span>
-                  <span class="ct-node-title-full">The cue that makes a habit easier | Health Habits</span>
+                  <span class="ct-node-title-full">The cue that makes a habit easier</span>
                   <span class="ct-node-summary">A habit plan works better when a clear daily cue tells the brain when to start the behaviour.</span>
                 </span>
               </a>
@@ -2669,7 +2669,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Enjoyment</span>
-                  <span class="ct-node-title-full">Why enjoyable habits are not cheating | Health Habits</span>
+                  <span class="ct-node-title-full">Why enjoyable habits are not cheating</span>
                   <span class="ct-node-summary">Healthy behaviours are more likely to stick when they feel rewarding enough to repeat without constant self-pressure.</span>
                 </span>
               </a>
@@ -2691,7 +2691,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Identity</span>
-              <span class="ct-node-title-full">Do You Need a New Identity or a Better Plan? | Better Change</span>
+              <span class="ct-node-title-full">Do You Need a New Identity or a Better Plan?</span>
               <span class="ct-node-summary">Trying to become a new person can distract from designing the next observable behaviour.</span>
             </span>
           </a>
@@ -2713,7 +2713,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Proof first</span>
-                  <span class="ct-node-title-full">Build the proof before claiming the identity | Identity</span>
+                  <span class="ct-node-title-full">Build the proof before claiming the identity</span>
                   <span class="ct-node-summary">A new self-image becomes more believable when small visible actions create proof a person can repeat.</span>
                 </span>
               </a>
@@ -2733,7 +2733,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Chosen values</span>
-                  <span class="ct-node-title-full">Change works better when it feels chosen | Identity</span>
+                  <span class="ct-node-title-full">Change works better when it feels chosen</span>
                   <span class="ct-node-summary">Identity language works better when it connects action to chosen values, competence, and relationships rather than pressure.</span>
                 </span>
               </a>
@@ -2753,7 +2753,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Identity labels</span>
-                  <span class="ct-node-title-full">Do identity labels actually help habits stick? | Identity</span>
+                  <span class="ct-node-title-full">Do identity labels actually help habits stick?</span>
                   <span class="ct-node-summary">Identity labels can support change when they grow from repeated evidence instead of replacing concrete action.</span>
                 </span>
               </a>
@@ -2773,7 +2773,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Lapse shame</span>
-                  <span class="ct-node-title-full">When one missed habit feels like failure | Identity</span>
+                  <span class="ct-node-title-full">When one missed habit feels like failure</span>
                   <span class="ct-node-summary">Missed habits are easier to repair when they are treated as design feedback instead of proof of personal failure.</span>
                 </span>
               </a>
@@ -2793,7 +2793,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Group norms</span>
-                  <span class="ct-node-title-full">Why groups can make change feel normal | Identity</span>
+                  <span class="ct-node-title-full">Why groups can make change feel normal</span>
                   <span class="ct-node-summary">Groups can make healthier actions feel normal, expected, and easier to repeat when belonging supports the behaviour.</span>
                 </span>
               </a>
@@ -2815,7 +2815,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">If Then Plans</span>
-              <span class="ct-node-title-full">Can One Sentence Change Your Follow Through? | Better Change</span>
+              <span class="ct-node-title-full">Can One Sentence Change Your Follow Through?</span>
               <span class="ct-node-summary">If-then plans link a predictable cue to a chosen response before the hard moment arrives.</span>
             </span>
           </a>
@@ -2837,7 +2837,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Delay Rules</span>
-                  <span class="ct-node-title-full">Can a Pause Beat an Impulse? | If Then Plans</span>
+                  <span class="ct-node-title-full">Can a Pause Beat an Impulse?</span>
                   <span class="ct-node-summary">A delay rule creates a pause between urge and action, making quick temptations easier to reconsider before they become automatic.</span>
                 </span>
               </a>
@@ -2857,7 +2857,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Recovery</span>
-                  <span class="ct-node-title-full">How Do You Restart After a Slip? | If Then Plans</span>
+                  <span class="ct-node-title-full">How Do You Restart After a Slip?</span>
                   <span class="ct-node-summary">A recovery if-then plan treats a missed session or broken rule as the cue to restart, not as evidence that the goal is ruined.</span>
                 </span>
               </a>
@@ -2877,7 +2877,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Find Cues</span>
-                  <span class="ct-node-title-full">What Is the Real Cue You Keep Missing? | If Then Plans</span>
+                  <span class="ct-node-title-full">What Is the Real Cue You Keep Missing?</span>
                   <span class="ct-node-summary">The best if-then plan usually starts with spotting the exact moment, place, feeling, or routine that reliably triggers the derailment.</span>
                 </span>
               </a>
@@ -2897,7 +2897,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Substitution</span>
-                  <span class="ct-node-title-full">What Should You Do Instead of Giving In? | If Then Plans</span>
+                  <span class="ct-node-title-full">What Should You Do Instead of Giving In?</span>
                   <span class="ct-node-summary">A substitution plan works when the replacement is immediate, believable, and satisfying enough to survive the tempting moment.</span>
                 </span>
               </a>
@@ -2917,7 +2917,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Limits</span>
-                  <span class="ct-node-title-full">When Is the Obstacle Bigger Than the Plan? | If Then Plans</span>
+                  <span class="ct-node-title-full">When Is the Obstacle Bigger Than the Plan?</span>
                   <span class="ct-node-summary">If-then plans can help with predictable moments, but they cannot replace sleep, safety, childcare, treatment, money, or realistic capacity.</span>
                 </span>
               </a>
@@ -2939,7 +2939,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Low Energy</span>
-              <span class="ct-node-title-full">Build the Plan for Your Worst Day | Better Change</span>
+              <span class="ct-node-title-full">Build the Plan for Your Worst Day</span>
               <span class="ct-node-summary">Plans that assume low energy are more likely to survive stress, fatigue and imperfect weeks.</span>
             </span>
           </a>
@@ -2961,7 +2961,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Low Energy Days Create A Difficult Question: Do You...</span>
-                  <span class="ct-node-title-full">Are you avoiding, or do you need rest? | Low Energy</span>
+                  <span class="ct-node-title-full">Are you avoiding, or do you need rest?</span>
                   <span class="ct-node-summary">A good plan needs a clear boundary between useful maintenance and genuine rest.</span>
                 </span>
               </a>
@@ -2981,7 +2981,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Recovery</span>
-                  <span class="ct-node-title-full">How to return without the guilt spiral | Low Energy</span>
+                  <span class="ct-node-title-full">How to return without the guilt spiral</span>
                   <span class="ct-node-summary">A recovery rule stops one lapse from becoming a story about personal failure.</span>
                 </span>
               </a>
@@ -3001,7 +3001,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cues</span>
-                  <span class="ct-node-title-full">Make the next good action obvious | Low Energy</span>
+                  <span class="ct-node-title-full">Make the next good action obvious</span>
                   <span class="ct-node-summary">The right cue makes the desired action easier to notice and start when motivation is low.</span>
                 </span>
               </a>
@@ -3021,7 +3021,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">If Then Plans</span>
-                  <span class="ct-node-title-full">Plan the tired day script before you need it | Low Energy</span>
+                  <span class="ct-node-title-full">Plan the tired day script before you need it</span>
                   <span class="ct-node-summary">If-then planning helps turn common obstacles like exhaustion, stress or delay into pre-decided next actions.</span>
                 </span>
               </a>
@@ -3041,7 +3041,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Minimums</span>
-                  <span class="ct-node-title-full">What counts as enough on a bad day? | Low Energy</span>
+                  <span class="ct-node-title-full">What counts as enough on a bad day?</span>
                   <span class="ct-node-summary">A minimum action turns a tired day into a maintenance day by preserving the routine without pretending energy is unlimited.</span>
                 </span>
               </a>
@@ -3063,7 +3063,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Lunch Walks</span>
-              <span class="ct-node-title-full">Why a Ten Minute Walk Can Stick | Better Change</span>
+              <span class="ct-node-title-full">Why a Ten Minute Walk Can Stick</span>
               <span class="ct-node-summary">A short post-lunch walk is a practical case for cue-based habits in a stable daily context.</span>
             </span>
           </a>
@@ -3085,7 +3085,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Short Walks</span>
-                  <span class="ct-node-title-full">Are three short walks better than one? | Lunch Walks</span>
+                  <span class="ct-node-title-full">Are three short walks better than one?</span>
                   <span class="ct-node-summary">A short walk after each meal can be easier to attach to daily cues than one unscheduled longer walk.</span>
                 </span>
               </a>
@@ -3105,7 +3105,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Walk Timing</span>
-                  <span class="ct-node-title-full">Does timing make lunch walks work better? | Lunch Walks</span>
+                  <span class="ct-node-title-full">Does timing make lunch walks work better?</span>
                   <span class="ct-node-summary">Walking soon after lunch may blunt the post-meal glucose rise more than waiting until later in the day.</span>
                 </span>
               </a>
@@ -3125,7 +3125,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Workday Cue</span>
-                  <span class="ct-node-title-full">How to make lunch trigger the walk | Lunch Walks</span>
+                  <span class="ct-node-title-full">How to make lunch trigger the walk</span>
                   <span class="ct-node-summary">A lunch walk becomes more reliable when the trigger, route, shoes, and calendar buffer are decided before eating.</span>
                 </span>
               </a>
@@ -3145,7 +3145,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Simple Tracking</span>
-                  <span class="ct-node-title-full">Track the walk, not your worth | Lunch Walks</span>
+                  <span class="ct-node-title-full">Track the walk, not your worth</span>
                   <span class="ct-node-summary">The best lunch-walk tracker answers one question first: did the walk happen after lunch today?</span>
                 </span>
               </a>
@@ -3165,7 +3165,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Bad Weather</span>
-                  <span class="ct-node-title-full">What happens when the weather breaks the habit? | Lunch Walks</span>
+                  <span class="ct-node-title-full">What happens when the weather breaks the habit?</span>
                   <span class="ct-node-summary">Rain, wind, heat, and cold are predictable habit threats, so a useful lunch-walk plan needs an indoor or covered fallback.</span>
                 </span>
               </a>
@@ -3187,7 +3187,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Meaning</span>
-              <span class="ct-node-title-full">What Makes a Goal Worth Repeating? | Better Change</span>
+              <span class="ct-node-title-full">What Makes a Goal Worth Repeating?</span>
               <span class="ct-node-summary">A meaningful goal gives repetition a reason when novelty and inspiration wear off.</span>
             </span>
           </a>
@@ -3209,7 +3209,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Purpose Link</span>
-                  <span class="ct-node-title-full">Can Purpose Make Boring Work Easier? | Meaning</span>
+                  <span class="ct-node-title-full">Can Purpose Make Boring Work Easier?</span>
                   <span class="ct-node-summary">Tedious tasks often become easier to repeat when they are linked to contribution, usefulness or someone beyond the self.</span>
                 </span>
               </a>
@@ -3229,7 +3229,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Owned Goals</span>
-                  <span class="ct-node-title-full">Is This Goal Yours or Borrowed? | Meaning</span>
+                  <span class="ct-node-title-full">Is This Goal Yours or Borrowed?</span>
                   <span class="ct-node-summary">The same goal can feel steady or brittle depending on whether it expresses personal values or mainly seeks approval.</span>
                 </span>
               </a>
@@ -3249,7 +3249,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Values Test</span>
-                  <span class="ct-node-title-full">The Three Questions That Strengthen a Goal | Meaning</span>
+                  <span class="ct-node-title-full">The Three Questions That Strengthen a Goal</span>
                   <span class="ct-node-summary">A goal is more likely to survive repetition when its daily action clearly proves something the person still cares about.</span>
                 </span>
               </a>
@@ -3269,7 +3269,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Boredom Signal</span>
-                  <span class="ct-node-title-full">What Is Boredom Really Telling You? | Meaning</span>
+                  <span class="ct-node-title-full">What Is Boredom Really Telling You?</span>
                   <span class="ct-node-summary">Boredom can mean a routine needs redesign, not that the larger goal has stopped mattering.</span>
                 </span>
               </a>
@@ -3289,7 +3289,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Life Fit</span>
-                  <span class="ct-node-title-full">When a Good Goal No Longer Fits | Meaning</span>
+                  <span class="ct-node-title-full">When a Good Goal No Longer Fits</span>
                   <span class="ct-node-summary">A meaningful goal still needs the right size and shape for the person&#x27;s current responsibilities, energy and constraints.</span>
                 </span>
               </a>
@@ -3311,7 +3311,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Missed Days</span>
-              <span class="ct-node-title-full">What to Do After You Miss a Day | Better Change</span>
+              <span class="ct-node-title-full">What to Do After You Miss a Day</span>
               <span class="ct-node-summary">Missed days are often signals to adjust the system rather than evidence that change has failed.</span>
             </span>
           </a>
@@ -3333,7 +3333,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Lapse vs relapse</span>
-                  <span class="ct-node-title-full">Is One Missed Day Really a Relapse? | Missed Days</span>
+                  <span class="ct-node-title-full">Is One Missed Day Really a Relapse?</span>
                   <span class="ct-node-summary">A missed habit day becomes less damaging when it is treated as a limited lapse rather than proof that the whole change has failed.</span>
                 </span>
               </a>
@@ -3353,7 +3353,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Restart action</span>
-                  <span class="ct-node-title-full">The Tiny Restart That Keeps Habits Alive | Missed Days</span>
+                  <span class="ct-node-title-full">The Tiny Restart That Keeps Habits Alive</span>
                   <span class="ct-node-summary">The best restart action is small enough to complete even when confidence is low and life is still messy.</span>
                 </span>
               </a>
@@ -3373,7 +3373,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Design feedback</span>
-                  <span class="ct-node-title-full">What Repeated Missed Days Are Telling You | Missed Days</span>
+                  <span class="ct-node-title-full">What Repeated Missed Days Are Telling You</span>
                   <span class="ct-node-summary">Repeated misses in the same situation usually point to a cue, timing, environment or coping-plan problem worth redesigning.</span>
                 </span>
               </a>
@@ -3393,7 +3393,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Better tracking</span>
-                  <span class="ct-node-title-full">When Streak Trackers Make Habits Brittle | Missed Days</span>
+                  <span class="ct-node-title-full">When Streak Trackers Make Habits Brittle</span>
                   <span class="ct-node-summary">A tracker should make restarting easier by recording useful data, not by making one missed day feel like defeat.</span>
                 </span>
               </a>
@@ -3413,7 +3413,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Guilt spiral</span>
-                  <span class="ct-node-title-full">Why One Slip Can Become a Spiral | Missed Days</span>
+                  <span class="ct-node-title-full">Why One Slip Can Become a Spiral</span>
                   <span class="ct-node-summary">Guilt after a missed day can turn one small slip into a second failure unless the story is kept small and specific.</span>
                 </span>
               </a>
@@ -3435,7 +3435,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Motivation</span>
-              <span class="ct-node-title-full">Why Chosen Goals Last Longer | Better Change</span>
+              <span class="ct-node-title-full">Why Chosen Goals Last Longer</span>
               <span class="ct-node-summary">Goals last longer when they feel chosen, meaningful and connected to personal values.</span>
             </span>
           </a>
@@ -3457,7 +3457,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Support</span>
-                  <span class="ct-node-title-full">Help that supports without taking over | Motivation</span>
+                  <span class="ct-node-title-full">Help that supports without taking over</span>
                   <span class="ct-node-summary">Support helps goals last when it makes a person feel understood and capable rather than judged, compared, or controlled.</span>
                 </span>
               </a>
@@ -3477,7 +3477,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Chosen Goals</span>
-                  <span class="ct-node-title-full">How to make a goal feel like yours | Motivation</span>
+                  <span class="ct-node-title-full">How to make a goal feel like yours</span>
                   <span class="ct-node-summary">Autonomy grows when a goal has a clear personal reason, real choice in the route, and language that reduces pressure.</span>
                 </span>
               </a>
@@ -3497,7 +3497,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Self Concordance</span>
-                  <span class="ct-node-title-full">The goal fit test that predicts persistence | Motivation</span>
+                  <span class="ct-node-title-full">The goal fit test that predicts persistence</span>
                   <span class="ct-node-summary">Self-concordant goals are more likely to attract sustained effort because they fit a person&#x27;s interests, values, and identity.</span>
                 </span>
               </a>
@@ -3517,7 +3517,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Shame vs Values</span>
-                  <span class="ct-node-title-full">When goals motivate by hurting first | Motivation</span>
+                  <span class="ct-node-title-full">When goals motivate by hurting first</span>
                   <span class="ct-node-summary">The same habit can feel either punishing or chosen depending on whether it is powered by shame, approval, or personal values.</span>
                 </span>
               </a>
@@ -3537,7 +3537,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Small Wins</span>
-                  <span class="ct-node-title-full">Why tiny progress can feel powerful | Motivation</span>
+                  <span class="ct-node-title-full">Why tiny progress can feel powerful</span>
                   <span class="ct-node-summary">Small wins work best when they are visible, repeatable steps in a valued direction rather than random easy tasks.</span>
                 </span>
               </a>
@@ -3559,7 +3559,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Rewards</span>
-              <span class="ct-node-title-full">How to Reward Habits Without Ruining Them | Better Change</span>
+              <span class="ct-node-title-full">How to Reward Habits Without Ruining Them</span>
               <span class="ct-node-summary">Rewards help when they make behaviour satisfying without replacing the reason the goal matters.</span>
             </span>
           </a>
@@ -3581,7 +3581,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Exercise Incentives</span>
-                  <span class="ct-node-title-full">Can Gym Rewards Become Real Habits? | Rewards</span>
+                  <span class="ct-node-title-full">Can Gym Rewards Become Real Habits?</span>
                   <span class="ct-node-summary">Gym rewards can help people begin exercising, but the plan needs an exit path toward enjoyment, progress and identity.</span>
                 </span>
               </a>
@@ -3601,7 +3601,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Quit Incentives</span>
-                  <span class="ct-node-title-full">Can Paying People Help Them Quit Smoking? | Rewards</span>
+                  <span class="ct-node-title-full">Can Paying People Help Them Quit Smoking?</span>
                   <span class="ct-node-summary">Smoking cessation incentives show how rewards can help when the stakes are high and the behaviour is hard to start.</span>
                 </span>
               </a>
@@ -3621,7 +3621,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Congruent Rewards</span>
-                  <span class="ct-node-title-full">The Reward Should Fit the Habit | Rewards</span>
+                  <span class="ct-node-title-full">The Reward Should Fit the Habit</span>
                   <span class="ct-node-summary">The safest rewards deepen the behaviour itself instead of making the habit feel like a toll paid for a treat.</span>
                 </span>
               </a>
@@ -3641,7 +3641,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Intrinsic Risk</span>
-                  <span class="ct-node-title-full">When Rewards Start to Spoil Motivation | Rewards</span>
+                  <span class="ct-node-title-full">When Rewards Start to Spoil Motivation</span>
                   <span class="ct-node-summary">Rewards work best when they support autonomy and competence rather than making a meaningful activity feel controlled.</span>
                 </span>
               </a>
@@ -3661,7 +3661,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Immediate Rewards</span>
-                  <span class="ct-node-title-full">Why Good Habits Need a Small Finish Line | Rewards</span>
+                  <span class="ct-node-title-full">Why Good Habits Need a Small Finish Line</span>
                   <span class="ct-node-summary">Small immediate rewards can make effortful habits feel complete before the distant benefits arrive.</span>
                 </span>
               </a>
@@ -3683,7 +3683,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Saving</span>
-              <span class="ct-node-title-full">How to Save Before You Spend | Better Change</span>
+              <span class="ct-node-title-full">How to Save Before You Spend</span>
               <span class="ct-node-summary">Automatic saving turns a financial intention into a default that happens before temptation arrives.</span>
             </span>
           </a>
@@ -3705,7 +3705,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Payroll saving</span>
-                  <span class="ct-node-title-full">Can payroll saving build a real emergency fund? | Saving</span>
+                  <span class="ct-node-title-full">Can payroll saving build a real emergency fund?</span>
                   <span class="ct-node-summary">Payroll saving can build an accessible emergency buffer before wages reach the spending account.</span>
                 </span>
               </a>
@@ -3725,7 +3725,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Spending friction</span>
-                  <span class="ct-node-title-full">The tiny barriers that stop impulse buys | Saving</span>
+                  <span class="ct-node-title-full">The tiny barriers that stop impulse buys</span>
                   <span class="ct-node-summary">Small barriers such as removing stored cards or waiting 24 hours can protect saved money from one-tap purchases.</span>
                 </span>
               </a>
@@ -3745,7 +3745,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Default lessons</span>
-                  <span class="ct-node-title-full">What pension defaults teach everyday savers | Saving</span>
+                  <span class="ct-node-title-full">What pension defaults teach everyday savers</span>
                   <span class="ct-node-summary">Pension defaults show why opt-out systems can raise saving, while also warning that default amounts may be too low.</span>
                 </span>
               </a>
@@ -3765,7 +3765,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Backfire risks</span>
-                  <span class="ct-node-title-full">When saving first does more harm | Saving</span>
+                  <span class="ct-node-title-full">When saving first does more harm</span>
                   <span class="ct-node-summary">Saving before spending fails when the transfer is too high, emergency access is too difficult, or debt becomes more expensive.</span>
                 </span>
               </a>
@@ -3785,7 +3785,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Payday transfers</span>
-                  <span class="ct-node-title-full">Why payday is the best time to save | Saving</span>
+                  <span class="ct-node-title-full">Why payday is the best time to save</span>
                   <span class="ct-node-summary">Moving money on payday turns saving from a monthly decision into a default that happens before ordinary spending begins.</span>
                 </span>
               </a>
@@ -3807,7 +3807,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Self Help Myths</span>
-              <span class="ct-node-title-full">Which Self Help Promises Should You Doubt? | Better Change</span>
+              <span class="ct-node-title-full">Which Self Help Promises Should You Doubt?</span>
               <span class="ct-node-summary">Popular self-help often overpromises dramatic change while underplaying systems, time and feedback.</span>
             </span>
           </a>
@@ -3829,7 +3829,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Social Pressure</span>
-                  <span class="ct-node-title-full">Is Self Help Really Just Adaptation Advice? | Self Help Myths</span>
+                  <span class="ct-node-title-full">Is Self Help Really Just Adaptation Advice?</span>
                   <span class="ct-node-summary">Self-help advice often reflects the person an era rewards, from Victorian self-discipline to corporate confidence and digital optimisation.</span>
                 </span>
               </a>
@@ -3849,7 +3849,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">If Then Plans</span>
-                  <span class="ct-node-title-full">The If Then Plan That Beats Good Intentions | Self Help Myths</span>
+                  <span class="ct-node-title-full">The If Then Plan That Beats Good Intentions</span>
                   <span class="ct-node-summary">If-then plans make behaviour change more concrete by linking a specific obstacle or cue to the next action.</span>
                 </span>
               </a>
@@ -3869,7 +3869,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Hidden Blame</span>
-                  <span class="ct-node-title-full">When Quick Fixes Make Struggle Feel Personal | Self Help Myths</span>
+                  <span class="ct-node-title-full">When Quick Fixes Make Struggle Feel Personal</span>
                   <span class="ct-node-summary">Quick-fix promises can make normal difficulty feel like personal failure when the real problem is often friction, context and follow-through.</span>
                 </span>
               </a>
@@ -3889,7 +3889,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">21 Day Myth</span>
-                  <span class="ct-node-title-full">Why 21 Days Does Not Make a Habit | Self Help Myths</span>
+                  <span class="ct-node-title-full">Why 21 Days Does Not Make a Habit</span>
                   <span class="ct-node-summary">The popular 21-day habit rule is a tidy myth that hides how differently habits form across behaviours, people and contexts.</span>
                 </span>
               </a>
@@ -3909,7 +3909,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Motivation Highs</span>
-                  <span class="ct-node-title-full">Why Motivation Fades by Tuesday Afternoon | Self Help Myths</span>
+                  <span class="ct-node-title-full">Why Motivation Fades by Tuesday Afternoon</span>
                   <span class="ct-node-summary">Motivational highs can help people start, but lasting change usually depends on plans, cues and routines that survive ordinary stress.</span>
                 </span>
               </a>
@@ -3931,7 +3931,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Sleep First</span>
-              <span class="ct-node-title-full">How to Stop the Next Episode Trap | Better Change</span>
+              <span class="ct-node-title-full">How to Stop the Next Episode Trap</span>
               <span class="ct-node-summary">A bedtime system works better when screens, cues and rewards are designed before fatigue hits.</span>
             </span>
           </a>
@@ -3953,7 +3953,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Calm Rewards</span>
-                  <span class="ct-node-title-full">Make Stopping Feel Worth It Tonight | Sleep First</span>
+                  <span class="ct-node-title-full">Make Stopping Feel Worth It Tonight</span>
                   <span class="ct-node-summary">A shutdown routine works better when stopping has its own small reward instead of feeling like pure loss.</span>
                 </span>
               </a>
@@ -3973,7 +3973,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Last Episode</span>
-                  <span class="ct-node-title-full">Pick the Last Episode Before You Start | Sleep First</span>
+                  <span class="ct-node-title-full">Pick the Last Episode Before You Start</span>
                   <span class="ct-node-summary">Deciding the stopping point before pressing play makes bedtime depend less on the hardest decision of the evening.</span>
                 </span>
               </a>
@@ -3993,7 +3993,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Autoplay</span>
-                  <span class="ct-node-title-full">Should You Turn Off Autoplay at Night? | Sleep First</span>
+                  <span class="ct-node-title-full">Should You Turn Off Autoplay at Night?</span>
                   <span class="ct-node-summary">Autoplay makes continuing the default, so changing playback settings can restore a clear stopping point before fatigue takes over.</span>
                 </span>
               </a>
@@ -4013,7 +4013,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cliffhangers</span>
-                  <span class="ct-node-title-full">Why Cliffhangers Keep Your Brain Awake | Sleep First</span>
+                  <span class="ct-node-title-full">Why Cliffhangers Keep Your Brain Awake</span>
                   <span class="ct-node-summary">The most sleep-disruptive part of late-night viewing may be the unfinished story that keeps the mind active after the screen is off.</span>
                 </span>
               </a>
@@ -4033,7 +4033,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Phone Distance</span>
-                  <span class="ct-node-title-full">Why Your Phone Should Sleep Elsewhere | Sleep First</span>
+                  <span class="ct-node-title-full">Why Your Phone Should Sleep Elsewhere</span>
                   <span class="ct-node-summary">Moving the phone away from the bed turns a symbolic screen rule into a physical boundary that is easier to keep.</span>
                 </span>
               </a>
@@ -4055,7 +4055,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Small Starts</span>
-              <span class="ct-node-title-full">How Small Habits Become Real Change | Better Change</span>
+              <span class="ct-node-title-full">How Small Habits Become Real Change</span>
               <span class="ct-node-summary">Small first versions build competence, but the plan also needs a path to grow.</span>
             </span>
           </a>
@@ -4077,7 +4077,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Minimums</span>
-                  <span class="ct-node-title-full">How Small Is Too Small to Matter? | Small Starts</span>
+                  <span class="ct-node-title-full">How Small Is Too Small to Matter?</span>
                   <span class="ct-node-summary">A tiny habit only helps when the first version is observable, repeatable and still connected to the bigger skill.</span>
                 </span>
               </a>
@@ -4097,7 +4097,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Progression</span>
-                  <span class="ct-node-title-full">The Habit Growth Rule Most Plans Miss | Small Starts</span>
+                  <span class="ct-node-title-full">The Habit Growth Rule Most Plans Miss</span>
                   <span class="ct-node-summary">Habits need modest increases in duration, difficulty, quality or independence once the current step becomes ordinary.</span>
                 </span>
               </a>
@@ -4117,7 +4117,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Raise Bar</span>
-                  <span class="ct-node-title-full">When Is a Habit Ready to Grow? | Small Starts</span>
+                  <span class="ct-node-title-full">When Is a Habit Ready to Grow?</span>
                   <span class="ct-node-summary">The best time to increase a habit is when it survives normal bad days, not just when it feels easy once.</span>
                 </span>
               </a>
@@ -4137,7 +4137,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Streak Trap</span>
-                  <span class="ct-node-title-full">When Streaks Stop You Getting Better | Small Starts</span>
+                  <span class="ct-node-title-full">When Streaks Stop You Getting Better</span>
                   <span class="ct-node-summary">A perfect streak can become a trap when protecting the record matters more than improving the behaviour.</span>
                 </span>
               </a>
@@ -4157,7 +4157,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Complex Goals</span>
-                  <span class="ct-node-title-full">Why Big Skills Need More Than Tiny Habits | Small Starts</span>
+                  <span class="ct-node-title-full">Why Big Skills Need More Than Tiny Habits</span>
                   <span class="ct-node-summary">Complex goals usually need more than tiny repetition: they need cues, feedback, adjustment and staged skill building.</span>
                 </span>
               </a>
@@ -4179,7 +4179,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Social Support</span>
-              <span class="ct-node-title-full">When Accountability Helps Instead of Hurts | Better Change</span>
+              <span class="ct-node-title-full">When Accountability Helps Instead of Hurts</span>
               <span class="ct-node-summary">Social support helps most when it makes the behaviour easier rather than turning change into performance.</span>
             </span>
           </a>
@@ -4201,7 +4201,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Autonomy support</span>
-                  <span class="ct-node-title-full">Accountability that does not feel like control | Social Support</span>
+                  <span class="ct-node-title-full">Accountability that does not feel like control</span>
                   <span class="ct-node-summary">Support is more durable when it offers choices, rationale and respect instead of surveillance, comparison or moral judgement.</span>
                 </span>
               </a>
@@ -4221,7 +4221,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Support roles</span>
-                  <span class="ct-node-title-full">The five support roles that actually help | Social Support</span>
+                  <span class="ct-node-title-full">The five support roles that actually help</span>
                   <span class="ct-node-summary">Separating logistics, co-doing, encouragement and troubleshooting keeps support practical without overloading one relationship.</span>
                 </span>
               </a>
@@ -4241,7 +4241,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Study groups</span>
-                  <span class="ct-node-title-full">The study group where confusion is safe | Social Support</span>
+                  <span class="ct-node-title-full">The study group where confusion is safe</span>
                   <span class="ct-node-summary">A good study group creates a reliable work block where asking for help feels normal, not like proof that someone is behind.</span>
                 </span>
               </a>
@@ -4261,7 +4261,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Comparison traps</span>
-                  <span class="ct-node-title-full">When leaderboards make people quit | Social Support</span>
+                  <span class="ct-node-title-full">When leaderboards make people quit</span>
                   <span class="ct-node-summary">Social comparison can motivate some behaviour, but public rankings can also make beginners, injured people or tired people disappear.</span>
                 </span>
               </a>
@@ -4281,7 +4281,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Walking partners</span>
-                  <span class="ct-node-title-full">Why walking partners beat willpower alone | Social Support</span>
+                  <span class="ct-node-title-full">Why walking partners beat willpower alone</span>
                   <span class="ct-node-summary">A walking partner works best when the shared time and route lower the effort of starting, rather than turning exercise into a test of discipline.</span>
                 </span>
               </a>
@@ -4303,7 +4303,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Study First</span>
-              <span class="ct-node-title-full">How to Study Before You Start Scrolling | Better Change</span>
+              <span class="ct-node-title-full">How to Study Before You Start Scrolling</span>
               <span class="ct-node-summary">Phone friction, cues and specific study starts can turn a common intention into a repeatable routine.</span>
             </span>
           </a>
@@ -4325,7 +4325,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">App Blockers</span>
-                  <span class="ct-node-title-full">Can App Blockers Save the Study Start? | Study First</span>
+                  <span class="ct-node-title-full">Can App Blockers Save the Study Start?</span>
                   <span class="ct-node-summary">Digital friction works best when it slows the first scroll without blocking the tools a student genuinely needs.</span>
                 </span>
               </a>
@@ -4345,7 +4345,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Recovery</span>
-                  <span class="ct-node-title-full">How to Recover After Scrolling First | Study First</span>
+                  <span class="ct-node-title-full">How to Recover After Scrolling First</span>
                   <span class="ct-node-summary">A good recovery rule stops one accidental scroll from turning into a lost evening.</span>
                 </span>
               </a>
@@ -4365,7 +4365,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">First Action</span>
-                  <span class="ct-node-title-full">The Tiny Study Step That Beats Scrolling | Study First</span>
+                  <span class="ct-node-title-full">The Tiny Study Step That Beats Scrolling</span>
                   <span class="ct-node-summary">A tiny, named first action makes studying easier to start than negotiating with the phone.</span>
                 </span>
               </a>
@@ -4385,7 +4385,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Scroll Breaks</span>
-                  <span class="ct-node-title-full">When Should Scrolling Become the Reward? | Study First</span>
+                  <span class="ct-node-title-full">When Should Scrolling Become the Reward?</span>
                   <span class="ct-node-summary">Scrolling becomes less disruptive when it follows a finished work unit instead of becoming the opening move.</span>
                 </span>
               </a>
@@ -4405,7 +4405,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Phone Distance</span>
-                  <span class="ct-node-title-full">Why the Phone Belongs Across the Room | Study First</span>
+                  <span class="ct-node-title-full">Why the Phone Belongs Across the Room</span>
                   <span class="ct-node-summary">Keeping the phone out of reach protects the fragile start of a study session before checking becomes automatic.</span>
                 </span>
               </a>
@@ -4427,7 +4427,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Techniques</span>
-              <span class="ct-node-title-full">What Are the Active Ingredients of Change? | Better Change</span>
+              <span class="ct-node-title-full">What Are the Active Ingredients of Change?</span>
               <span class="ct-node-summary">The taxonomy turns self-improvement advice into testable ingredients rather than slogans.</span>
             </span>
           </a>
@@ -4449,7 +4449,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Restructure</span>
-                  <span class="ct-node-title-full">Can changing the setup beat temptation? | Techniques</span>
+                  <span class="ct-node-title-full">Can changing the setup beat temptation?</span>
                   <span class="ct-node-summary">Changing the room, route or default can make the desired action easier before motivation has to fight temptation.</span>
                 </span>
               </a>
@@ -4469,7 +4469,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Claim Check</span>
-                  <span class="ct-node-title-full">What is the self help advice really doing? | Techniques</span>
+                  <span class="ct-node-title-full">What is the self help advice really doing?</span>
                   <span class="ct-node-summary">The taxonomy gives readers a practical way to ask which techniques a book, app or coach is really using.</span>
                 </span>
               </a>
@@ -4489,7 +4489,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Real Support</span>
-                  <span class="ct-node-title-full">What kind of support do you really need? | Techniques</span>
+                  <span class="ct-node-title-full">What kind of support do you really need?</span>
                   <span class="ct-node-summary">Encouragement, practical help and shared routines solve different problems, so vague accountability often disappoints.</span>
                 </span>
               </a>
@@ -4509,7 +4509,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tracking Limits</span>
-                  <span class="ct-node-title-full">When does tracking start getting in the way? | Techniques</span>
+                  <span class="ct-node-title-full">When does tracking start getting in the way?</span>
                   <span class="ct-node-summary">Tracking can reveal useful patterns, but too much measurement can make self-improvement feel like the main burden.</span>
                 </span>
               </a>
@@ -4529,7 +4529,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Missing Ingredient</span>
-                  <span class="ct-node-title-full">Which behaviour change ingredient is actually missing? | Techniques</span>
+                  <span class="ct-node-title-full">Which behaviour change ingredient is actually missing?</span>
                   <span class="ct-node-summary">A stuck habit often needs a better-matched technique, not more willpower or a bigger motivational slogan.</span>
                 </span>
               </a>
@@ -4551,7 +4551,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">The Idea That A Habit Forms In 21 Days</span>
-              <span class="ct-node-title-full">How Long Do Habits Really Take? | Better Change</span>
+              <span class="ct-node-title-full">How Long Do Habits Really Take?</span>
               <span class="ct-node-summary">Habits often take far longer than popular slogans suggest, especially in real daily settings.</span>
             </span>
           </a>
@@ -4573,7 +4573,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Progress Signs</span>
-                  <span class="ct-node-title-full">Signs Your Habit Is Working Before It Feels Easy | The Idea That A Habit Forms In 21 Days</span>
+                  <span class="ct-node-title-full">Signs Your Habit Is Working Before It Feels Easy</span>
                   <span class="ct-node-summary">Progress can show up as fewer reminders, faster recovery and less debate long before a behavior feels fully automatic.</span>
                 </span>
               </a>
@@ -4593,7 +4593,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Debug Month</span>
-                  <span class="ct-node-title-full">Treat the First Month as Debugging | The Idea That A Habit Forms In 21 Days</span>
+                  <span class="ct-node-title-full">Treat the First Month as Debugging</span>
                   <span class="ct-node-summary">The first month works better as a test period for finding friction than as a verdict on motivation or character.</span>
                 </span>
               </a>
@@ -4613,7 +4613,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">66 Days</span>
-                  <span class="ct-node-title-full">What 66 Days Really Means for Habits | The Idea That A Habit Forms In 21 Days</span>
+                  <span class="ct-node-title-full">What 66 Days Really Means for Habits</span>
                   <span class="ct-node-summary">The famous 66-day estimate is less useful as a deadline than as a warning that habit timelines vary widely.</span>
                 </span>
               </a>
@@ -4633,7 +4633,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Simple Habits</span>
-                  <span class="ct-node-title-full">Why Small Habits Settle In Faster | The Idea That A Habit Forms In 21 Days</span>
+                  <span class="ct-node-title-full">Why Small Habits Settle In Faster</span>
                   <span class="ct-node-summary">Small low-friction actions often stabilize sooner because they need fewer decisions, less energy and fewer supporting conditions.</span>
                 </span>
               </a>
@@ -4653,7 +4653,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">21 Day Myth</span>
-                  <span class="ct-node-title-full">Why the 21 Day Habit Rule Misleads | The Idea That A Habit Forms In 21 Days</span>
+                  <span class="ct-node-title-full">Why the 21 Day Habit Rule Misleads</span>
                   <span class="ct-node-summary">The 21-day rule is memorable, but its origin story and later evidence show why it can mislead people trying to change behavior.</span>
                 </span>
               </a>
@@ -4675,7 +4675,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Tracking</span>
-              <span class="ct-node-title-full">What Should You Track to Actually Change? | Better Change</span>
+              <span class="ct-node-title-full">What Should You Track to Actually Change?</span>
               <span class="ct-node-summary">Tracking behaviour makes change visible, but the right metric must help rather than punish.</span>
             </span>
           </a>
@@ -4697,7 +4697,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Yes No Calendar</span>
-                  <span class="ct-node-title-full">The simplest habit tracker that works | Tracking</span>
+                  <span class="ct-node-title-full">The simplest habit tracker that works</span>
                   <span class="ct-node-summary">A yes-or-no calendar keeps tracking visible enough to guide consistency without turning the habit into a data project.</span>
                 </span>
               </a>
@@ -4717,7 +4717,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Temporary Audits</span>
-                  <span class="ct-node-title-full">Track intensely, then stop | Tracking</span>
+                  <span class="ct-node-title-full">Track intensely, then stop</span>
                   <span class="ct-node-summary">A short audit can reveal the main leak or trigger, then shrink back before monitoring becomes a permanent burden.</span>
                 </span>
               </a>
@@ -4737,7 +4737,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Daily Metrics</span>
-                  <span class="ct-node-title-full">What should you track every day? | Tracking</span>
+                  <span class="ct-node-title-full">What should you track every day?</span>
                   <span class="ct-node-summary">The best daily tracker records the action you can take, not the slow outcome you hope will eventually change.</span>
                 </span>
               </a>
@@ -4757,7 +4757,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Outcome Metrics Matter Because They A...</span>
-                  <span class="ct-node-title-full">When should outcomes be reviewed? | Tracking</span>
+                  <span class="ct-node-title-full">When should outcomes be reviewed?</span>
                   <span class="ct-node-summary">Outcomes can help test whether a habit is working, but checking them too often turns noisy data into judgement.</span>
                 </span>
               </a>
@@ -4777,7 +4777,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Warning Signs</span>
-                  <span class="ct-node-title-full">When tracking starts running your life | Tracking</span>
+                  <span class="ct-node-title-full">When tracking starts running your life</span>
                   <span class="ct-node-summary">Tracking becomes harmful when checking, shame or device targets start overriding the behaviour the system was meant to support.</span>
                 </span>
               </a>
@@ -4799,7 +4799,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Wearables</span>
-              <span class="ct-node-title-full">When Streaks Help and When They Trap You | Better Change</span>
+              <span class="ct-node-title-full">When Streaks Help and When They Trap You</span>
               <span class="ct-node-summary">Wearables and streaks can motivate behaviour when they provide useful feedback without becoming the goal.</span>
             </span>
           </a>
@@ -4821,7 +4821,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Streaks</span>
-                  <span class="ct-node-title-full">How to Keep a Streak From Owning You | Wearables</span>
+                  <span class="ct-node-title-full">How to Keep a Streak From Owning You</span>
                   <span class="ct-node-summary">A healthy streak makes returning easier after real-life interruptions instead of turning one missed day into failure.</span>
                 </span>
               </a>
@@ -4841,7 +4841,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Grace Days</span>
-                  <span class="ct-node-title-full">Should Habit Apps Let You Miss a Day? | Wearables</span>
+                  <span class="ct-node-title-full">Should Habit Apps Let You Miss a Day?</span>
                   <span class="ct-node-summary">Grace features such as a Streak Freeze show how habit apps can preserve motivation when perfect consistency breaks.</span>
                 </span>
               </a>
@@ -4861,7 +4861,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Minimums</span>
-                  <span class="ct-node-title-full">The Smallest Version That Still Counts | Wearables</span>
+                  <span class="ct-node-title-full">The Smallest Version That Still Counts</span>
                   <span class="ct-node-summary">A tiny minimum version of a habit can protect identity and momentum on days when the full routine is unrealistic.</span>
                 </span>
               </a>
@@ -4881,7 +4881,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Step Counts</span>
-                  <span class="ct-node-title-full">What Step Counts Can and Cannot Tell You | Wearables</span>
+                  <span class="ct-node-title-full">What Step Counts Can and Cannot Tell You</span>
                   <span class="ct-node-summary">Step counts can prompt more daily movement, but they work best as practical signals rather than proof of health or discipline.</span>
                 </span>
               </a>
@@ -4901,7 +4901,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Activity Rings</span>
-                  <span class="ct-node-title-full">When Activity Rings Help and When They Hurt | Wearables</span>
+                  <span class="ct-node-title-full">When Activity Rings Help and When They Hurt</span>
                   <span class="ct-node-summary">Activity rings can turn movement into a clear daily target, but the ring should point to the behavior rather than replace the goal.</span>
                 </span>
               </a>
@@ -4923,7 +4923,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Weekly Review</span>
-              <span class="ct-node-title-full">The Weekly Review That Fixes the Plan | Better Change</span>
+              <span class="ct-node-title-full">The Weekly Review That Fixes the Plan</span>
               <span class="ct-node-summary">A weekly review turns missed days into information about cues, friction and realistic next steps.</span>
             </span>
           </a>
@@ -4945,7 +4945,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">If Then Plans</span>
-                  <span class="ct-node-title-full">Plan for the Barrier Before It Wins | Weekly Review</span>
+                  <span class="ct-node-title-full">Plan for the Barrier Before It Wins</span>
                   <span class="ct-node-summary">If-then plans turn predictable obstacles into pre-decided responses so the same barrier does not reset the habit every week.</span>
                 </span>
               </a>
@@ -4965,7 +4965,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Friction Audit</span>
-                  <span class="ct-node-title-full">The Hidden Steps Breaking Your Habit | Weekly Review</span>
+                  <span class="ct-node-title-full">The Hidden Steps Breaking Your Habit</span>
                   <span class="ct-node-summary">A friction audit finds the extra steps, decisions, tools, time, or social effort that made a planned habit collapse in real life.</span>
                 </span>
               </a>
@@ -4985,7 +4985,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fallback Habit</span>
-                  <span class="ct-node-title-full">The Version That Survives a Bad Week | Weekly Review</span>
+                  <span class="ct-node-title-full">The Version That Survives a Bad Week</span>
                   <span class="ct-node-summary">A smaller fallback version keeps the habit alive when travel, deadlines, tiredness, or family demands make the ideal plan unrealistic.</span>
                 </span>
               </a>
@@ -5005,7 +5005,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Miss Reasons</span>
-                  <span class="ct-node-title-full">What Your Missed Days Are Really Saying | Weekly Review</span>
+                  <span class="ct-node-title-full">What Your Missed Days Are Really Saying</span>
                   <span class="ct-node-summary">A tiny note after each missed day can show whether the real problem was timing, friction, energy, or an unclear cue.</span>
                 </span>
               </a>
@@ -5025,7 +5025,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cue Check</span>
-                  <span class="ct-node-title-full">Why the Habit Never Even Started | Weekly Review</span>
+                  <span class="ct-node-title-full">Why the Habit Never Even Started</span>
                   <span class="ct-node-summary">Many habits fail before effort begins because the planned prompt is missing, weak, badly timed, or buried in the wrong context.</span>
                 </span>
               </a>
@@ -5047,7 +5047,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Willpower</span>
-              <span class="ct-node-title-full">Why Willpower Should Be Your Backup Plan | Better Change</span>
+              <span class="ct-node-title-full">Why Willpower Should Be Your Backup Plan</span>
               <span class="ct-node-summary">Willpower matters, but strong systems reduce how often it has to rescue a weak plan.</span>
             </span>
           </a>
@@ -5069,7 +5069,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Temptation Setup</span>
-                  <span class="ct-node-title-full">Can Your Environment Do the Resisting? | Willpower</span>
+                  <span class="ct-node-title-full">Can Your Environment Do the Resisting?</span>
                   <span class="ct-node-summary">Small changes to rooms, devices and defaults can prevent self-control battles before they become vivid temptations.</span>
                 </span>
               </a>
@@ -5089,7 +5089,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Habit Repetition</span>
-                  <span class="ct-node-title-full">Let Repetition Carry the Habit | Willpower</span>
+                  <span class="ct-node-title-full">Let Repetition Carry the Habit</span>
                   <span class="ct-node-summary">Stable cues and repeated small actions make useful behaviour more automatic, so motivation has less work to do.</span>
                 </span>
               </a>
@@ -5109,7 +5109,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Depletion Debate</span>
-                  <span class="ct-node-title-full">Should Your Plan Trust Willpower? | Willpower</span>
+                  <span class="ct-node-title-full">Should Your Plan Trust Willpower?</span>
                   <span class="ct-node-summary">The contested science of willpower depletion still supports one practical rule: do not build plans around a fragile reserve.</span>
                 </span>
               </a>
@@ -5129,7 +5129,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Better Defaults</span>
-                  <span class="ct-node-title-full">Stop Renegotiating the Same Good Choice | Willpower</span>
+                  <span class="ct-node-title-full">Stop Renegotiating the Same Good Choice</span>
                   <span class="ct-node-summary">Defaults turn repeated decisions into pre-made answers, leaving less room for tired mood-based bargaining.</span>
                 </span>
               </a>
@@ -5149,7 +5149,7 @@ site_image_description: A tidy desk with a calendar, walking shoes, a water bott
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fewer Conflicts</span>
-                  <span class="ct-node-title-full">Why Disciplined People Fight Less | Willpower</span>
+                  <span class="ct-node-title-full">Why Disciplined People Fight Less</span>
                   <span class="ct-node-summary">People who seem disciplined may succeed partly because they avoid tempting situations rather than resisting them all day.</span>
                 </span>
               </a>

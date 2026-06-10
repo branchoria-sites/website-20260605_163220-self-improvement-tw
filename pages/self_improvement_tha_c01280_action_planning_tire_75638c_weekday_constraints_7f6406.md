@@ -278,7 +278,7 @@ A practical weekday plan is not built around an ideal future version of you. It 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_weekday_constraints_7f6406-Illustration-1-dark.svg" | relative_url }}" alt="Real Constraints illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_weekday_constraints_7f6406-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_weekday_constraints_7f6406-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This sounds obvious, yet many self-improvement efforts fail because they begin with goals and only later discover constraints. Effective weekday planning works in the opposite direction. It starts by mapping fixed [limits]({{ 'limits/' | relative_url }}), then identifies the smallest reliable opportunities for action inside those limits. This approach aligns with research on implementation intentions and action planning, which shows that specifying when, where and how a behaviour will happen makes it more likely that intentions become actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — And second, there are implementation intentions...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+This sounds obvious, yet many self-improvement efforts fail because they begin with goals and only later discover constraints. Effective weekday planning works in the opposite direction. It starts by mapping fixed [limits]({{ 'limits/' | relative_url }}), then identifies the smallest reliable opportunities for action inside those limits. This approach aligns with research on implementation intentions and action planning, which shows that specifying when, where and how a behaviour will happen makes it more likely that intentions become actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — And second, there are implementation intentions...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 The key shift is simple: stop asking, “What would the perfect week look like?” and start asking, “What can reliably happen inside the week I already have?”
 
@@ -300,7 +300,7 @@ Many planning systems assume that time is the main resource. In practice, weekda
 
 </div>
 
-Historically, productivity advice often reflected the lives of professionals with greater control over their schedules. Contemporary behaviour-change research has increasingly recognised that intentions alone rarely predict behaviour because circumstances, competing demands and self-regulatory challenges intervene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/107519/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2886 — This paper synthesizes research on intention–be...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9386038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby M Conner · 2022 · Cited by 606 — This manuscript overviews recent research on the intention-behavior gap, focusing on moderators of...</span></span></span>
+Historically, productivity advice often reflected the lives of professionals with greater control over their schedules. Contemporary behaviour-change research has increasingly recognised that intentions alone rarely predict behaviour because circumstances, competing demands and self-regulatory challenges intervene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/107519/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2886 — This paper synthesizes research on intention–be...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9386038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by M Conner · 2022 · Cited by 606 — This manuscript overviews recent research on the intention-behavior gap, focusing on moderators of...</span></span></span>
 
 A useful exercise is to create a “constraint map” before creating any goals. Instead of filling a calendar with aspirations, mark:
 
@@ -355,7 +355,7 @@ The objective is not maximum productivity. It is reducing the mismatch between t
 
 People often search for large uninterrupted blocks of time. Real weekday progress is usually built from smaller openings.
 
-Research on implementation intentions suggests that behaviour becomes more likely when it is linked to specific situations and cues rather than vague aspirations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — And second, there are implementation intentions...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">PMCby MD Faries · 2016 · Cited by 253 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span>
+Research on implementation intentions suggests that behaviour becomes more likely when it is linked to specific situations and cues rather than vague aspirations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — And second, there are implementation intentions...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 253 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span>
 
 The practical question becomes:
 
@@ -399,7 +399,7 @@ Real life rarely cooperates.
 
 Children get sick. Meetings run late. Trains are delayed. A colleague calls unexpectedly. Energy disappears without warning.
 
-Behavioural researchers distinguish between action planning and coping planning. Action planning specifies what will happen. Coping planning anticipates obstacles and defines a response before they occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">ScienceDirectCoping Planning - an overviewIt involves making implementation intentions that outline specific actions to take when faced w...</span></span></span>
+Behavioural researchers distinguish between action planning and coping planning. Action planning specifies what will happen. Coping planning anticipates obstacles and defines a response before they occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">Coping Planning - an overviewIt involves making implementation intentions that outline specific actions to take when faced w...</span></span></span>
 
 A fragile plan says:
 
@@ -906,145 +906,145 @@ In self-improvement that works, the goal is not to design a perfect week. The go
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9386038/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9386038/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M Conner · 2022 · Cited by 606 — This manuscript overviews recent research on the intention-behavior gap, focusing on moderators of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9386038/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9386038/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Conner · 2022 · Cited by 606 — This manuscript overviews recent research on the intention-behavior gap, focusing on moderators of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy We Don't “Just Do It”: Understanding the Intention  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MD Faries · 2016 · Cited by 253 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MD Faries · 2016 · Cited by 253 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInteractions between sleep habits and self-control  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4426706/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4426706/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby JJ Pilcher · 2015 · Cited by 148 — The goal of this mini-review is to explore the intersection between sleep habits and self...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4426706/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4426706/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby JJ Pilcher · 2015 · Cited by 148 — The goal of this mini-review is to explore the intersection between sleep habits and self...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: open.clemson.edu  
    Title: psych pubs  
-   Link: [https://open.clemson.edu/psych_pubs/7/](https://open.clemson.edu/psych_pubs/7/)  
+   Link: <a href="https://open.clemson.edu/psych_pubs/7/" target="_blank" rel="noopener noreferrer nofollow">https://open.clemson.edu/psych_pubs/7/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume. 9. Abstract. Good sleep habits and effective self-control are important components of successful functioning.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Coping Planning  
-   Link: [https://www.sciencedirect.com/topics/psychology/coping-planning](https://www.sciencedirect.com/topics/psychology/coping-planning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCoping Planning - an overviewIt involves making implementation intentions that outline specific actions to take when faced w...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/coping-planning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coping Planning - an overviewIt involves making implementation intentions that outline specific actions to take when faced w...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: Intention-Behavior Gap  
-   Link: [https://www.sciencedirect.com/topics/psychology/intention-behavior-gap](https://www.sciencedirect.com/topics/psychology/intention-behavior-gap)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/intention-behavior-gap" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/intention-behavior-gap</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewThe intention–behavior gap is defined as the universal problem where individuals experience difficulties in enacting their int...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260](https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the effectiveness of implementation...by I Carrero · 2025 · Cited by 4 — Implementation intentions are more effective...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1057740810001439](https://www.sciencedirect.com/science/article/abs/pii/S1057740810001439)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1057740810001439" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1057740810001439</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the intention–behavior gap: Inducing...by BM Fennis · 2011 · Cited by 201 — The potential of using implementation intentions—ac...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1469029211000264](https://www.sciencedirect.com/science/article/abs/pii/S1469029211000264)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029211000264" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029211000264</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do the number and specificity of implementation intentions...by E de Vet · 2011 · Cited by 161 — Hence, specific implementation intentio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: time.com  
    Title: sleep [willpower](&#123;&#123; 'willpower/' | relative_url &#125;&#125;)  
-   Link: [https://time.com/4236126/sleep-willpower/](https://time.com/4236126/sleep-willpower/)  
+   Link: <a href="https://time.com/4236126/sleep-willpower/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4236126/sleep-willpower/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Can Help You Make Better Decisions1 Mar 2016 — When individuals attempt to control impulses or behavior, scientists notice heighten...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936](https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — And second, there are implementation intentions...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/107519/](https://eprints.whiterose.ac.uk/id/eprint/107519/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/107519/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/107519/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2886 — This paper synthesizes research on intention–be...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: compass.onlinelibrary.wiley.com  
    Title: Compass The Intention–Behavior Gap  
-   Link: [https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12265](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12265)  
+   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12265" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12265</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention–Behavior Gap - Sheeran - 2016 - Compass Hubby P Sheeran · 2016 · Cited by 2929 — This paper synthesizes research on intention–b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1097212408/34](https://d-nb.info/1097212408/34)  
+   Link: <a href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1097212408/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DNBThe Interplay Between Goal Intentions and Implementation...by P Sheeran · Cited by 874 — Although implementation intentions are forme...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/08870440512331317670](https://www.tandfonline.com/doi/abs/10.1080/08870440512331317670)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08870440512331317670" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08870440512331317670</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBridging the intention–behaviour gap: Planning, self...by FF Sniehotta · 2005 · Cited by 2056 — Detailed action p...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by psychologist Peter Gollwitzer, transforms vague intentions into spe...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Goal AchievementFindings from 94 independent tests showed that implementation intentions had a positi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/intention-action-gap](https://thedecisionlab.com/reference-guide/psychology/intention-action-gap)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/intention-action-gap" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/intention-action-gap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention-Action GapThe intention-action gap, also known as the value-action gap or knowledge-attitudes-practice gap, occurs when one&#x27;s v...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352155387_Sleep_and_self-control_A_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/352155387_Sleep_and_self-control_A_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/352155387_Sleep_and_self-control_A_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352155387_Sleep_and_self-control_A_systematic_review_and_meta-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep and self-control: A systematic review and meta-...The positive relationship between sleep and self-control arises because sleep su...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: brainlatam.com  
-   Link: [https://brainlatam.com/blog/sleep-self-control-and-sleep-preference-1349](https://brainlatam.com/blog/sleep-self-control-and-sleep-preference-1349)  
+   Link: <a href="https://brainlatam.com/blog/sleep-self-control-and-sleep-preference-1349" target="_blank" rel="noopener noreferrer nofollow">https://brainlatam.com/blog/sleep-self-control-and-sleep-preference-1349</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep, self-control and sleep preferenceSelf-control implies resisting temptations to carry out problematic hedonistic behaviours that im...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: csuglobal.edu  
-   Link: [https://csuglobal.edu/blog/using-implementation-intentions-achieve-your-goals](https://csuglobal.edu/blog/using-implementation-intentions-achieve-your-goals)  
+   Link: <a href="https://csuglobal.edu/blog/using-implementation-intentions-achieve-your-goals" target="_blank" rel="noopener noreferrer nofollow">https://csuglobal.edu/blog/using-implementation-intentions-achieve-your-goals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Implementation Intentions to Achieve Your GoalsLearn how to use implementation intentions, introduced by psychologist Peter Gollwit...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: iris.imtlucca.it  
-   Link: [https://iris.imtlucca.it/retrieve/fbb454af-1042-4dac-8943-98616d2066f5/ordali-et-al-2024-prolonged-exertion-of-self-control-causes-increased-sleep-like-frontal-brain-activity-and-changes-in%282%29.pdf](https://iris.imtlucca.it/retrieve/fbb454af-1042-4dac-8943-98616d2066f5/ordali-et-al-2024-prolonged-exertion-of-self-control-causes-increased-sleep-like-frontal-brain-activity-and-changes-in%282%29.pdf)  
+   Link: <a href="https://iris.imtlucca.it/retrieve/fbb454af-1042-4dac-8943-98616d2066f5/ordali-et-al-2024-prolonged-exertion-of-self-control-causes-increased-sleep-like-frontal-brain-activity-and-changes-in%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.imtlucca.it/retrieve/fbb454af-1042-4dac-8943-98616d2066f5/ordali-et-al-2024-prolonged-exertion-of-self-control-causes-increased-sleep-like-frontal-brain-activity-and-changes-in%282%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>exertion of self-control causes increased sleep-...by E Bilancinib · 2024 · Cited by 15 — Our results suggest that sleep-like activity m...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/107519/3/The](https://eprints.whiterose.ac.uk/id/eprint/107519/3/The)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/107519/3/The" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/107519/3/The</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention–Behavior GapForming implementation intentions has also been shown to help to overcome a variety of unwanted influences includin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thoracicandsleep.com.au  
-   Link: [https://thoracicandsleep.com.au/blog/poor-sleep-habits-can-have-a-negative-effect-on-self-control/](https://thoracicandsleep.com.au/blog/poor-sleep-habits-can-have-a-negative-effect-on-self-control/)  
+   Link: <a href="https://thoracicandsleep.com.au/blog/poor-sleep-habits-can-have-a-negative-effect-on-self-control/" target="_blank" rel="noopener noreferrer nofollow">https://thoracicandsleep.com.au/blog/poor-sleep-habits-can-have-a-negative-effect-on-self-control/</a>  
 
 27. <a id="endnote-27"></a>
    Source: research.rug.nl  
    Title: Bridging the intention behavior gap Inducing implementation intentions through  
-   Link: [https://research.rug.nl/files/145053398/Bridging_the_intention_behavior_gap_Inducing_implementation_intentions_through.pdf](https://research.rug.nl/files/145053398/Bridging_the_intention_behavior_gap_Inducing_implementation_intentions_through.pdf)  
+   Link: <a href="https://research.rug.nl/files/145053398/Bridging_the_intention_behavior_gap_Inducing_implementation_intentions_through.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/files/145053398/Bridging_the_intention_behavior_gap_Inducing_implementation_intentions_through.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the intention-behavior gap: Inducing...by BM Fennis · 2011 · Cited by 200 — In their review, Gollwitzer and Sheeran (2009) argued theref...</p></details>

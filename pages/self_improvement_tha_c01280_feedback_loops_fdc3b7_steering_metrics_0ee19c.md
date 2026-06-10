@@ -278,7 +278,7 @@ Most people track outcomes because outcomes are what they ultimately care about.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-1-dark.svg" | relative_url }}" alt="Steering Metrics illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A more effective [feedback]({{ 'feedback/' | relative_url }}) loop usually tracks behaviours that drive the outcome. In management language, these are often called leading indicators rather than lagging indicators. In self-improvement, they function as steering wheels rather than scoreboards. The scoreboard tells you whether you won; the steering wheel helps you influence what happens next. Research on progress monitoring and behaviour change consistently finds that monitoring actions and progress can improve goal attainment, particularly when progress is recorded and made visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</span></span></span>
+A more effective [feedback]({{ 'feedback/' | relative_url }}) loop usually tracks behaviours that drive the outcome. In management language, these are often called leading indicators rather than lagging indicators. In self-improvement, they function as steering wheels rather than scoreboards. The scoreboard tells you whether you won; the steering wheel helps you influence what happens next. Research on progress monitoring and [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently finds that monitoring actions and progress can improve goal attainment, particularly when progress is recorded and made visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</span></span></span>
 
 ## Why Outcomes Matter but Steer Poorly Day to Day
 
@@ -288,7 +288,7 @@ The difficulty is that outcomes often arrive too late to guide today's decisions
 
 This creates a common self-improvement trap: people wait for outcome changes before deciding whether a process is working. Because the signal arrives slowly, [motivation]({{ 'motivation/' | relative_url }}) becomes tied to events that are partly outside their control.
 
-Business and performance-management literature has long distinguished between lagging and leading indicators. Lagging indicators measure results after they occur. Leading indicators measure activities that predict future results and provide time to adjust course. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intrafocus.com/resources/lead-and-lag-indicators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intrafocus.com">[Intrafocus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intrafocus.com</span><span class="citation-popover-title">Lead and Lag Indicators</span><span class="citation-popover-snippet">IntrafocusLead and Lag Indicators - IntrafocusLeading and lagging indicators are two types of measurements used when assessing performanc...</span></span></span>
+Business and performance-management literature has long distinguished between lagging and leading indicators. Lagging indicators measure results after they occur. Leading indicators measure activities that predict future results and provide time to adjust course. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intrafocus.com/resources/lead-and-lag-indicators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intrafocus.com">[Intrafocus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intrafocus.com</span><span class="citation-popover-title">Lead and Lag Indicators</span><span class="citation-popover-snippet">Lead and Lag Indicators - IntrafocusLeading and lagging indicators are two types of measurements used when assessing performanc...</span></span></span>
 
 A useful way to think about the difference is:
 
@@ -300,7 +300,7 @@ The scoreboard evaluates. The steering wheel guides.
 
 Behaviour measures are closer to the moment of action. They shrink the gap between effort and information.
 
-The Behaviour Change Technique Taxonomy, a widely used framework in behaviour-change research, explicitly distinguishes between monitoring behaviour and monitoring outcomes of behaviour. The distinction matters because behaviour is usually the component a person can directly modify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIby J Baker · 2022 — Establish a method for the person to monitor and record the outcome(s) of their behavior as part of a behavior ch...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed When feedback focuses on behaviour]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</span></span></span>, three advantages appear.
+The Behaviour Change Technique Taxonomy, a widely used framework in behaviour-change research, explicitly distinguishes between monitoring behaviour and monitoring outcomes of behaviour. The distinction matters because behaviour is usually the component a person can directly modify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Establish a method for the person to monitor and record the outcome(s) of their behavior as part of a behavior ch...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed When feedback focuses on behaviour]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</span></span></span>, three advantages appear.
 
 **The feedback arrives faster.**
 
@@ -320,7 +320,7 @@ Research on goal monitoring supports this logic. Progress monitoring is associat
 
 For much of modern management, organisations relied heavily on outcome reporting: revenue, profit, production totals and other final results. These measures remained important, but managers increasingly realised that waiting for final results often meant discovering problems too late.
 
-One influential perspective came from Intel leader Andrew Grove, who argued that managers should identify indicators that provide an early view into future performance. He described indicators as windows into an otherwise opaque process, allowing corrective action before final results appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumTop Takeaways from Andy Grove&#x27;s High Output ManagementJanuary 8, 2020 — Indicators let you “cut holes” in the black box to get a vi...</span><span class="citation-popover-meta">Published: January 8, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrivestreetadvisors.com/leadership-library/high-output-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrivestreetadvisors.com">[Thrive Street Advisors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrivestreetadvisors.com</span><span class="citation-popover-snippet">“Indicators tend to direct your attention toward what they are monitoring. It is like riding a bicycle: you...Read more...</span></span></span>
+One influential perspective came from Intel leader Andrew Grove, who argued that managers should identify indicators that provide an early view into future performance. He described indicators as windows into an otherwise opaque process, allowing corrective action before final results appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Top Takeaways from Andy Grove&#x27;s High Output ManagementJanuary 8, 2020 — Indicators let you “cut holes” in the black box to get a vi...</span><span class="citation-popover-meta">Published: January 8, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrivestreetadvisors.com/leadership-library/high-output-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrivestreetadvisors.com">[Thrive Street Advisors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrivestreetadvisors.com</span><span class="citation-popover-snippet">“Indicators tend to direct your attention toward what they are monitoring. It is like riding a bicycle: you...Read more...</span></span></span>
 
 The same logic applies to personal improvement.
 
@@ -369,7 +369,7 @@ The weaker examples are outcomes or heavily influenced by external factors.
 
 ### Does it happen frequently?
 
-The best [feedback loops]({{ 'feedback/' | relative_url }}) operate on short cycles.
+The best feedback loops operate on short cycles.
 
 If a measure changes only every few months, it provides little guidance. Daily or weekly behaviours generate many opportunities for adjustment.
 
@@ -501,7 +501,7 @@ Ask:
 
 This approach keeps attention on the part of the system that can still change. Outcomes remain important because they reveal where you are. Behaviour measures matter because they help determine where you go next.
 
-In effective self-improvement systems, scoreboards tell the truth about results. Steering metrics help create those results. The scoreboard reports the game after it happens; the steering wheel influences the next move. Research on progress monitoring, behaviour change and leading indicators suggests that improvement accelerates when people spend more attention on the second function than the first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intrafocus.com/resources/lead-and-lag-indicators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intrafocus.com">[Intrafocus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intrafocus.com</span><span class="citation-popover-title">Lead and Lag Indicators</span><span class="citation-popover-snippet">IntrafocusLead and Lag Indicators - IntrafocusLeading and lagging indicators are two types of measurements used when assessing performanc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</span></span></span>
+In effective self-improvement systems, scoreboards tell the truth about results. Steering metrics help create those results. The scoreboard reports the game after it happens; the steering wheel influences the next move. Research on progress monitoring, behaviour change and leading indicators suggests that improvement accelerates when people spend more attention on the second function than the first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intrafocus.com/resources/lead-and-lag-indicators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intrafocus.com">[Intrafocus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intrafocus.com</span><span class="citation-popover-title">Lead and Lag Indicators</span><span class="citation-popover-snippet">Lead and Lag Indicators - IntrafocusLeading and lagging indicators are two types of measurements used when assessing performanc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -834,101 +834,101 @@ In effective self-improvement systems, scoreboards tell the truth about results.
 1. <a id="endnote-1"></a>
    Source: intrafocus.com  
    Title: Lead and Lag Indicators  
-   Link: [https://www.intrafocus.com/resources/lead-and-lag-indicators/](https://www.intrafocus.com/resources/lead-and-lag-indicators/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IntrafocusLead and Lag Indicators - IntrafocusLeading and lagging indicators are two types of measurements used when assessing performanc...</p></details>
+   Link: <a href="https://www.intrafocus.com/resources/lead-and-lag-indicators/" target="_blank" rel="noopener noreferrer nofollow">https://www.intrafocus.com/resources/lead-and-lag-indicators/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lead and Lag Indicators - IntrafocusLeading and lagging indicators are two types of measurements used when assessing performanc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIResults of the behaviour change technique synthesis  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK580337/](https://www.ncbi.nlm.nih.gov/books/NBK580337/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIby J Baker · 2022 — Establish a method for the person to monitor and record the outcome(s) of their behavior as part of a behavior ch...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK580337/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Baker · 2022 — Establish a method for the person to monitor and record the outcome(s) of their behavior as part of a behavior ch...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63](https://medium.com/%40iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumTop Takeaways from Andy Grove&#x27;s High Output ManagementJanuary 8, 2020 — Indicators let you “cut holes” in the black box to get a vi...</p></details>
+   Link: <a href="https://medium.com/%40iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Takeaways from Andy Grove&#x27;s High Output ManagementJanuary 8, 2020 — Indicators let you “cut holes” in the black box to get a vi...</p></details>
    Published: January 8, 2020  
 
 4. <a id="endnote-4"></a>
    Source: managers.app  
-   Link: [https://managers.app/high-output-management-by-andrew-grove/](https://managers.app/high-output-management-by-andrew-grove/)  
+   Link: <a href="https://managers.app/high-output-management-by-andrew-grove/" target="_blank" rel="noopener noreferrer nofollow">https://managers.app/high-output-management-by-andrew-grove/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Managers can do their job, their individual...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/91437/](https://eprints.whiterose.ac.uk/id/eprint/91437/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8848 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy of 93 cons...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thrivestreetadvisors.com  
    Title: Thrive Street Advisors  
-   Link: [https://www.thrivestreetadvisors.com/leadership-library/high-output-management](https://www.thrivestreetadvisors.com/leadership-library/high-output-management)  
+   Link: <a href="https://www.thrivestreetadvisors.com/leadership-library/high-output-management" target="_blank" rel="noopener noreferrer nofollow">https://www.thrivestreetadvisors.com/leadership-library/high-output-management</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Indicators tend to direct your attention toward what they are monitoring. It is like riding a bicycle: you...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: acf.gov  
-   Link: [https://acf.gov/sites/default/files/documents/opre/50020_goals_measurebrief_final_508.pdf](https://acf.gov/sites/default/files/documents/opre/50020_goals_measurebrief_final_508.pdf)  
+   Link: <a href="https://acf.gov/sites/default/files/documents/opre/50020_goals_measurebrief_final_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acf.gov/sites/default/files/documents/opre/50020_goals_measurebrief_final_508.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t skills, behaviors, and mindsets that the programs seek to change to help participants achieve those longer-...Read mo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying and Applying Behaviour Change TechniquesWhilst the BCTs identified within the Taxonomy aren&#x27;t new, some of them such as “goal...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tyastunggal.com  
-   Link: [https://tyastunggal.com/p/high-output-management-by-andy-grove](https://tyastunggal.com/p/high-output-management-by-andy-grove)  
+   Link: <a href="https://tyastunggal.com/p/high-output-management-by-andy-grove" target="_blank" rel="noopener noreferrer nofollow">https://tyastunggal.com/p/high-output-management-by-andy-grove</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>High Output Management by Andy GroveLeading indicators show what the future may look like, providing time to take corrective action to av...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesReview behavior goal(s) Review behavior goal(s) jointly with the person and co...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: rene.kizilcec.com  
-   Link: [https://rene.kizilcec.com/wp-content/uploads/2021/05/cho2021bct.pdf](https://rene.kizilcec.com/wp-content/uploads/2021/05/cho2021bct.pdf)  
+   Link: <a href="https://rene.kizilcec.com/wp-content/uploads/2021/05/cho2021bct.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rene.kizilcec.com/wp-content/uploads/2021/05/cho2021bct.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Behavior Change Technique Taxonomy from...by JY Cho · 2021 · Cited by 11 — In this syn- thesis paper, we describe the characteristic...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: semanticscholar.org  
    Title: Semantic Scholar Does monitoring goal progress promote goal attainment?  
-   Link: [https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea](https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea)  
+   Link: <a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>findings suggest that monitoring goal progress is an effective self-regulation strategy, and that interventions that increase th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: discovery.ucl.ac.uk  
    Title: 'active ingredient' (e.g., feedback, self-monitoring, reinforcement)  
-   Link: [https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf](https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.uk1 The Behavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8812 — redirect causal processes that regul...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: [https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence](https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The findings suggest that monitoring goal progress is an effective self-regulation strategy, and that interventions that increase the fre...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: maxmednik.com  
    Title: Max Mednik Notes on High Output Management by Andrew S  
-   Link: [https://www.maxmednik.com/blog/notes-on-high-output-management-by-andrew-s-grove](https://www.maxmednik.com/blog/notes-on-high-output-management-by-andrew-s-grove)  
+   Link: <a href="https://www.maxmednik.com/blog/notes-on-high-output-management-by-andrew-s-grove" target="_blank" rel="noopener noreferrer nofollow">https://www.maxmednik.com/blog/notes-on-high-output-management-by-andrew-s-grove</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Grove31 Jul 2021 — Monitor credible leading indicators. Linearity indicator of output over time. Can flash early warning. Trend indicator...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: GOV.UK  
    Title: behaviour change techniques review descriptive studies  
-   Link: [https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies](https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies)  
+   Link: <a href="https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>change techniques review: descriptive studies6 Jul 2020 — A behaviour change techniques (BCTs) review uses established classifications of...</p></details>

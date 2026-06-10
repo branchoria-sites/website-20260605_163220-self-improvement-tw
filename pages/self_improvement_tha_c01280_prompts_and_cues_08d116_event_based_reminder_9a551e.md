@@ -284,14 +284,14 @@ This is why many behaviour-change specialists favour event-based cues—[reminde
 
 A clock alarm assumes that a specific time is the most important feature of the behaviour. In reality, many daily routines are not organised around exact times. Meetings run late, trains are delayed, children need attention, and work demands change. When an alarm appears during one of these interruptions, it may be ignored or postponed.
 
-Research on contextual cues highlights a practical problem with reminders: their effectiveness can decline over time as people become accustomed to them. Users can learn to dismiss notifications automatically, reducing their impact. Some researchers have also warned that heavy reliance on reminders may create dependence on the reminder itself rather than strengthening the underlying habit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s40359-020-0394-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerWhat influences the selection of contextual cues when starting...by K Stawarz · 2020 · Cited by 45 — Moreover, the use of remind...</span></span></span>
+Research on contextual cues highlights a practical problem with reminders: their effectiveness can decline over time as people become accustomed to them. Users can learn to dismiss notifications automatically, reducing their impact. Some researchers have also warned that heavy reliance on reminders may create dependence on the reminder itself rather than strengthening the underlying habit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s40359-020-0394-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">What influences the selection of contextual cues when starting...by K Stawarz · 2020 · Cited by 45 — Moreover, the use of remind...</span></span></span>
 
 Consider a reading habit prompted by a daily 20:00 alarm. On some evenings the person may be commuting, eating dinner, or socialising. The reminder arrives, but the context is wrong. Even if the intention is good, the cue and the behaviour fail to connect consistently.
 
-This does not mean time-based cues are useless. They can work well when the target behaviour genuinely depends on a schedule, such as taking medication at a specific hour or joining a recurring class. The problem arises when the alarm is detached from the circumstances needed for action. Habit research consistently points to repetition within stable contexts as a driver of [automaticity]({{ 'automaticity/' | relative_url }}), not repetition at arbitrary moments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 23 — In this paper, we investiga...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 92 — The premise of habit formation involv...</span></span></span>
+This does not mean time-based cues are useless. They can work well when the target behaviour genuinely depends on a schedule, such as taking medication at a specific hour or joining a recurring class. The problem arises when the alarm is detached from the circumstances needed for action. Habit research consistently points to repetition within stable contexts as a driver of [automaticity]({{ 'automaticity/' | relative_url }}), not repetition at arbitrary moments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 23 — In this paper, we investiga...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 92 — The premise of habit formation involv...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DPRnrZH6weU" title="5 Ways to Actually Make Your Habits Stick (Evidence-Based)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer">5 Ways to Actually Make Your Habits Stick (Evidence-Based)</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 136.3K &middot; Uploaded: January 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DPRnrZH6weU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwAm7EtdRGA" title="This is the SCIENTIFICALLY PROVEN way to build habits in 2026." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer">This is the SCIENTIFICALLY PROVEN way to build habits in 2026.</a></p><p class="youtube-embed-meta">Channel: Spencer Greenberg &middot; Views: 3.5K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwAm7EtdRGA">Open on YouTube</a></p></div></div></div>
 
 ## How Event-Based Cues Attach to Routines
 
@@ -312,13 +312,13 @@ Existing eventNew habitAfter brushing teethFloss one tooth or floss fullyAfter m
 The critical feature is not the event itself but its reliability. A cue that appears almost every day creates more opportunities for repetition than one that occurs unpredictably.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwAm7EtdRGA" title="This is the SCIENTIFICALLY PROVEN way to build habits in 2026." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer">This is the SCIENTIFICALLY PROVEN way to build habits in 2026.</a></p><p class="youtube-embed-meta">Channel: Spencer Greenberg &middot; Views: 3.5K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwAm7EtdRGA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DPRnrZH6weU" title="5 Ways to Actually Make Your Habits Stick (Evidence-Based)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer">5 Ways to Actually Make Your Habits Stick (Evidence-Based)</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 136.3K &middot; Uploaded: January 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DPRnrZH6weU">Open on YouTube</a></p></div></div></div>
 
 ## What the Evidence Says About Routine-Based Versus Time-Based Cues
 
 The evidence is more nuanced than the common claim that event-based cues are always superior.
 
-A randomised controlled trial comparing routine-based cue planning with time-based cue planning found that both approaches increased [habit automaticity]({{ 'automaticity/' | relative_url }}) and behavioural repetition over time. At the group level, neither method clearly outperformed the other. What predicted stronger habits was repeated enactment of the behaviour, regardless of cue type. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.tilburguniversity.edu">[Tilburg University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.tilburguniversity.edu</span><span class="citation-popover-title">habit formation following routine based versus time based cue pla</span><span class="citation-popover-snippet">Tilburg University Research PortalHabit formation following routine-based versus time-...by J Keller · 2021 · Cited by 153 — Group-level...</span></span></span>
+A randomised controlled trial comparing routine-based cue planning with time-based cue planning found that both approaches increased habit automaticity and behavioural repetition over time. At the group level, neither method clearly outperformed the other. What predicted stronger habits was repeated enactment of the behaviour, regardless of cue type. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.tilburguniversity.edu">[Tilburg University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.tilburguniversity.edu</span><span class="citation-popover-title">habit formation following routine based versus time based cue pla</span><span class="citation-popover-snippet">Tilburg University Research PortalHabit formation following routine-based versus time-...by J Keller · 2021 · Cited by 153 — Group-level...</span></span></span>
 
 This finding matters because it shifts attention from the cue category to cue quality. A time cue can work if it appears consistently in a stable context. Likewise, an event cue can fail if the triggering event is irregular.
 
@@ -475,234 +475,456 @@ Clock alarms succeed when they meet those same conditions. The difference is tha
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open habit tracker board on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20habit%20tracker%20board%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EHabit%20Tracker%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EBoard%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EHabit%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETracker%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EBoard%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for habit tracker board on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">habit tracker board</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Habit</span><span class="fr-search-tag">Tracker</span><span class="fr-search-tag">Board</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock"><img src="https://i.ebayimg.com/images/g/4CIAAOSwWzJmiR9d/s-l225.jpg" alt="Listing image for Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-are-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open are poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20are%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAre%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for are poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">are poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Are</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-are-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock"><img src="https://i.ebayimg.com/images/g/00UAAeSwX0FpzuBL/s-l225.jpg" alt="Listing image for Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-are-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open are memorabilia on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20are%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAre%20Memorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for are memorabilia on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">are memorabilia</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Are</span><span class="fr-search-tag">Memorabilia</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-are-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Projection Alarm Clock Projector Mirror Clock Display Temperature Snooze Clocks"><img src="https://i.ebayimg.com/images/g/~ygAAeSw4cVpH43I/s-l225.jpg" alt="Listing image for Projection Alarm Clock Projector Mirror Clock Display Temperature Snooze Clocks" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Projection Alarm Clock Projector Mirror Clock Display Temperature Snooze Clocks</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=clock+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-clock-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open clock poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20clock%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EClock%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EClock%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for clock poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">clock poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Clock</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=clock+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-clock-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Curved Digital Alarm Clock USB Temperature Mirror Display Snooze Bedside"><img src="https://i.ebayimg.com/images/g/ytcAAOSwyZdjh0bH/s-l225.jpg" alt="Listing image for LED Curved Digital Alarm Clock USB Temperature Mirror Display Snooze Bedside" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">LED Curved Digital Alarm Clock USB Temperature Mirror Display Snooze Bedside</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-cues-are-clock-alarms-the-wrong-cue-self-improvement-that-works-habit-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
     </div>
   </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 92 — The premise of habit formation involv...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 92 — The premise of habit formation involv...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ehps.net  
-   Link: [https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 262 — Habit development will best [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) behaviour change where habit...</p></details>
+   Link: <a href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow">https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 262 — Habit development will best [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 131 — Implementation intention formation is the mental act of linking an anticipated c...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: prospectivepsych.org  
-   Link: [https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf)  
+   Link: <a href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation IntentionsIn the case of implementation intentions, automatic action initiation stems from one mental act of pairing a des...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 887 — Psychological theory and evidence around...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s40359-020-0394-9](https://link.springer.com/article/10.1186/s40359-020-0394-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerWhat influences the selection of contextual cues when starting...by K Stawarz · 2020 · Cited by 45 — Moreover, the use of remind...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s40359-020-0394-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s40359-020-0394-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What influences the selection of contextual cues when starting...by K Stawarz · 2020 · Cited by 45 — Moreover, the use of remind...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: allard.ubc.ca  
-   Link: [https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf](https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf)  
+   Link: <a href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention and Reminder Effects on Behavior...by P Pirolli · 2017 · Cited by 87 — The aim of this experiment was to manipulate the effect...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-[techniques](https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-[techniques)  
+   Link: <a href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-[techniques" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-[techniques</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>34. Cue signalling...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41039-020-00127-7](https://link.springer.com/article/10.1186/s41039-020-00127-7)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41039-020-00127-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41039-020-00127-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theory: habit and the habit loop - Springer Natureby W Chen · 2020 · Cited by 77 — Habit formation is the process by which new behaviors...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: europepmc.org  
    Title: Europe PMChabit as cue-contingent automaticity  
-   Link: [https://europepmc.org/article/med/20658824](https://europepmc.org/article/med/20658824)  
+   Link: <a href="https://europepmc.org/article/med/20658824" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/med/20658824</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstractby S Orbell · 2010 · Cited by 706 — CONCLUSION: The studies provided three different demonstrations of the importance of cues in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 23 — In this paper, we investiga...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: research.tilburguniversity.edu  
    Title: habit formation following routine based versus time based cue pla  
-   Link: [https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/](https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/)  
+   Link: <a href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow">https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tilburg University Research PortalHabit formation following routine-based versus time-...by J Keller · 2021 · Cited by 153 — Group-level...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Habit](https://en.wikipedia.org/wiki/Habit)  
+   Link: <a href="https://en.wikipedia.org/wiki/Habit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HabitA habit is a routine of behavior that is repeated regularly and tends to occur subconsciously. Good Habits Poster. The concept of...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0960982217312587](https://www.sciencedirect.com/science/article/pii/S0960982217312587)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectby TW Robbins · 2017 · Cited by 236 — The Oxford Dictionary of English defines habit as “a settled or regular tendency or pr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0960982217312587" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0960982217312587</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by TW Robbins · 2017 · Cited by 236 — The Oxford Dictionary of English defines habit as “a settled or regular tendency or pr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/10.3389/conf.FPUBH.2016.01.00066/event_abstract](https://www.frontiersin.org/10.3389/conf.FPUBH.2016.01.00066/event_abstract)  
+   Link: <a href="https://www.frontiersin.org/10.3389/conf.FPUBH.2016.01.00066/event_abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/10.3389/conf.FPUBH.2016.01.00066/event_abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the role of contextual cues in supporting...by K Stawarz · Cited by 3 — The results showed that while contextual cues were...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 68 — As implementation intentions as well are...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00395/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00395/full)  
+   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00395/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00395/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Promoting the translation of intentions into action by...by F Wieber · 2015 · Cited by 215 — In support of the automaticity of action co...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions](https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions)  
+   Link: <a href="https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change Technique Taxonomy (BCTTv1) of...Jan 18, 2016 — This work produced the 93-item hierarchically-structured BCT Taxono...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: teachingvisuallyimpaired.com  
-   Link: [https://www.teachingvisuallyimpaired.com/cues-and-prompts.html](https://www.teachingvisuallyimpaired.com/cues-and-prompts.html)  
+   Link: <a href="https://www.teachingvisuallyimpaired.com/cues-and-prompts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingvisuallyimpaired.com/cues-and-prompts.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cues and PromptsPrompts are supportive actions or cues given to help the student initiate or complete a task. Use the least intrusive pro...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/habit](https://www.merriam-webster.com/dictionary/habit)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning6 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: remnote.com  
-   Link: [https://www.remnote.com/learn/social-science/psychology/psychology/habit/habit-study-guide](https://www.remnote.com/learn/social-science/psychology/psychology/habit/habit-study-guide)  
+   Link: <a href="https://www.remnote.com/learn/social-science/psychology/psychology/habit/habit-study-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.remnote.com/learn/social-science/psychology/psychology/habit/habit-study-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Study GuideCue can be any trigger: prior action, time of day, location, etc. Craving is desire for the outcome of the habit, not th...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: appliedbehavioranalysisedu.org  
-   Link: [https://www.appliedbehavioranalysisedu.org/what-is-prompting-and-how-is-it-used-in-aba-therapy/](https://www.appliedbehavioranalysisedu.org/what-is-prompting-and-how-is-it-used-in-aba-therapy/)  
+   Link: <a href="https://www.appliedbehavioranalysisedu.org/what-is-prompting-and-how-is-it-used-in-aba-therapy/" target="_blank" rel="noopener noreferrer nofollow">https://www.appliedbehavioranalysisedu.org/what-is-prompting-and-how-is-it-used-in-aba-therapy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompting in ABA: Types, Techniques, and FadingPrompting in ABA therapy means giving a learner a cue or hint to help them complete a skil...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial](https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial)  
+   Link: <a href="https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit formation following routine‐based versus time...Group‐level analyses revealed that both routine‐based and time‐based cue pla...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: healthline.com  
-   Link: [https://www.healthline.com/health/mental-health/why-are-habits-important](https://www.healthline.com/health/mental-health/why-are-habits-important)  
+   Link: <a href="https://www.healthline.com/health/mental-health/why-are-habits-important" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/mental-health/why-are-habits-important</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips That Can Help Good Habits StickHabits often happen unconsciously, but they can have a big impact on your everyday life. Explore type...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: therapyroute.com  
-   Link: [https://www.therapyroute.com/article/habit-formation-by-therapyroute](https://www.therapyroute.com/article/habit-formation-by-therapyroute)  
+   Link: <a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
 
 29. <a id="endnote-29"></a>
    Source: research.birmingham.ac.uk  
    Title: investigating the impact of adding plan reminders on implementati  
-   Link: [https://research.birmingham.ac.uk/en/publications/investigating-the-impact-of-adding-plan-reminders-on-implementati/](https://research.birmingham.ac.uk/en/publications/investigating-the-impact-of-adding-plan-reminders-on-implementati/)  
+   Link: <a href="https://research.birmingham.ac.uk/en/publications/investigating-the-impact-of-adding-plan-reminders-on-implementati/" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/investigating-the-impact-of-adding-plan-reminders-on-implementati/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the impact of adding plan reminders on...by A Wicaksono · 2019 · Cited by 33 — The use of reminders in habit-formation apps could lead t...</p></details>

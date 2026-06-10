@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:13:08'
 parent_title: Can the Gym Survive the Workday? | Better Change
 parent_permalink: /gym-routine/
 parent_nav_short_title: Gym Routine
@@ -265,7 +266,6 @@ next_link:
   permalink: /minimum-workout/
   short_title: Minimum Workout
   heading_title: The 20 Minute Workout That Saves the Habit
-date: '2026-06-05 15:13:08 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_
 
 ## Introduction
 
-A packed [gym after work]({{ 'gym-routine/' | relative_url }}) is one of the most predictable reasons a good training plan falls apart. The problem is rarely [motivation]({{ 'motivation/' | relative_url }}). It is that a workout designed around one squat rack, one bench, or one machine becomes impossible when twenty other people have the same idea between roughly 5 pm and 7:30 pm, the busiest period in many facilities. Peak-hour crowding is a recognised source of frustration, longer waits, and disrupted training routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resources.rework.com">[Resources Rework]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resources.rework.com</span><span class="citation-popover-title">5-7:30pm evening peak represent roughly 5-6 hours of high</span><span class="citation-popover-snippet">Resources ReworkPeak Hour Management &amp; Capacity Planning for GymsMarch 19, 2026 — Overcrowding during peak hours is one of the top three...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
+A packed gym after work is one of the most predictable reasons a good training plan falls apart. The problem is rarely [motivation]({{ 'motivation/' | relative_url }}). It is that a workout designed around one squat rack, one bench, or one machine becomes impossible when twenty other people have the same idea between roughly 5 pm and 7:30 pm, the busiest period in many facilities. Peak-hour crowding is a recognised source of frustration, longer waits, and disrupted training routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resources.rework.com">[Resources Rework]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resources.rework.com</span><span class="citation-popover-title">5-7:30pm evening peak represent roughly 5-6 hours of high</span><span class="citation-popover-snippet">Peak Hour Management &amp; Capacity Planning for GymsMarch 19, 2026 — Overcrowding during peak hours is one of the top three...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-1-dark.svg" | relative_url }}" alt="Crowded Gym illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,7 +286,7 @@ The evening rush creates a specific set of bottlenecks. Some are obvious, while 
 
 The most common problem is dependency on a single piece of equipment. A programme that requires a squat rack, a bench press station, and a cable machine in a fixed order can collapse if even one station has a queue. Waiting five minutes for one exercise may not seem significant, but repeated delays stretch a 45-minute workout into an hour or more.
 
-Another issue is decision fatigue. After work, energy and attention are already reduced. When the planned equipment is unavailable, many people spend several minutes wandering, checking stations, and mentally redesigning the session. Research on action planning and implementation intentions suggests that pre-planned responses to predictable obstacles make behaviours more likely to occur consistently. In other words, deciding the alternative before arriving is more effective than improvising under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedImplementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Action planning comprises...Read more...</span></span></span>
+Another issue is decision fatigue. After work, energy and attention are already reduced. When the planned equipment is unavailable, many people spend several minutes wandering, checking stations, and mentally redesigning the session. Research on action planning and implementation intentions suggests that pre-planned responses to predictable obstacles make behaviours more likely to occur consistently. In other words, deciding the alternative before arriving is more effective than improvising under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Action planning comprises...Read more...</span></span></span>
 
 There is also a psychological effect. A crowded gym can create the feeling that the workout is already compromised. Once that mindset appears, people often shorten the session, skip exercises, or leave early. Yet the training benefit frequently depends more on completing enough quality work than on using one specific machine.
 
@@ -311,7 +311,7 @@ Possible swaps include:
 
 </div>
 
-These exercises continue to train the major muscles of the legs and hips without requiring a rack. Practical gym guides routinely recommend goblet squats and similar movements as substitutes when rack access is limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riversfitness.co.uk">[Rivers Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riversfitness.co.uk</span><span class="citation-popover-title">Rivers Fitness Busy Gym?</span><span class="citation-popover-snippet">Alternatives to Gym Machines | Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines | Exercises &amp; How to...</span><span class="citation-popover-meta">Published: January 9, 2024</span></span></span>
+These exercises continue to train the major muscles of the legs and hips without requiring a rack. Practical gym guides routinely recommend goblet squats and similar movements as substitutes when rack access is limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riversfitness.co.uk">[Rivers Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riversfitness.co.uk</span><span class="citation-popover-title">Rivers Fitness Busy Gym?</span><span class="citation-popover-snippet">Alternatives to Gym Machines &#124; Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines &#124; Exercises &amp; How to...</span><span class="citation-popover-meta">Published: January 9, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AIEogSK20OM" title="How To Modify Your Workouts in a Crowded Gym" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AIEogSK20OM" target="_blank" rel="noopener noreferrer">How To Modify Your Workouts in a Crowded Gym</a></p><p class="youtube-embed-meta">Channel: Total Fitness Bodybuilding &middot; Views: 19.9K &middot; Uploaded: March 2015 &middot; Length: 4 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AIEogSK20OM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AIEogSK20OM">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ Alternatives include:
 
 </div>
 
-Many crowded-gym [substitution]({{ 'substitution/' | relative_url }}) guides recommend these movements because they target similar muscle groups while using equipment that is usually easier to access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riversfitness.co.uk">[Rivers Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riversfitness.co.uk</span><span class="citation-popover-title">Rivers Fitness Busy Gym?</span><span class="citation-popover-snippet">Alternatives to Gym Machines | Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines | Exercises &amp; How to...</span><span class="citation-popover-meta">Published: January 9, 2024</span></span></span>
+Many crowded-gym [substitution]({{ 'substitution/' | relative_url }}) guides recommend these movements because they target similar muscle groups while using equipment that is usually easier to access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riversfitness.co.uk">[Rivers Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riversfitness.co.uk</span><span class="citation-popover-title">Rivers Fitness Busy Gym?</span><span class="citation-popover-snippet">Alternatives to Gym Machines &#124; Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines &#124; Exercises &amp; How to...</span><span class="citation-popover-meta">Published: January 9, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o-N8ICIwjU0" title="Train in a Crowded Gym? This Will SAVE Your Gains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o-N8ICIwjU0" target="_blank" rel="noopener noreferrer">Train in a Crowded Gym? This Will SAVE Your Gains</a></p><p class="youtube-embed-meta">Channel: REVIVAL Fitness &middot; Views: 23.0K &middot; Uploaded: January 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o-N8ICIwjU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o-N8ICIwjU0">Open on YouTube</a></p></div></div></div>
@@ -745,51 +745,51 @@ The practical rule is simple: if waiting exceeds a few minutes and an effective 
 1. <a id="endnote-1"></a>
    Source: resources.rework.com  
    Title: 5-7:30pm evening peak represent roughly 5-6 hours of high  
-   Link: [https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management](https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources ReworkPeak Hour Management &amp; Capacity Planning for GymsMarch 19, 2026 — Overcrowding during peak hours is one of the top three...</p></details>
+   Link: <a href="https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management" target="_blank" rel="noopener noreferrer nofollow">https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peak Hour Management &amp; Capacity Planning for GymsMarch 19, 2026 — Overcrowding during peak hours is one of the top three...</p></details>
    Published: March 19, 2026  
 
 2. <a id="endnote-2"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1104173190/34](https://d-nb.info/1104173190/34)  
+   Link: <a href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1104173190/34</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Action planning comprises...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31923898/](https://pubmed.ncbi.nlm.nih.gov/31923898/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedImplementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: riversfitness.co.uk  
    Title: Rivers Fitness Busy Gym?  
-   Link: [https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises](https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises)  
+   Link: <a href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternatives to Gym Machines | Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines | Exercises &amp; How to...</p></details>
    Published: January 9, 2024  
 
 5. <a id="endnote-5"></a>
    Source: eliteclubs.com  
-   Link: [https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/](https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/)  
+   Link: <a href="https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/" target="_blank" rel="noopener noreferrer nofollow">https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rowing Machine · 3. Chest Press Machine · 4. The Lat Pull-Down Machine.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks-2024-9](https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks-2024-9)  
+   Link: <a href="https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks-2024-9" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks-2024-9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Long cardio sessions are becoming less common, with gym-goers favoring activities like squats, deadlifts, and hip thrusts. This trend is...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: muscleandfitness.com  
-   Link: [https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/](https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/)  
+   Link: <a href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Effect of free-weight vs  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>machine-based strength training on...by ME Haugen · 2023 · Cited by 59 — There has been observed a higher maximum load lifted with machi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fitandwell.com  
-   Link: [https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym](https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym)  
+   Link: <a href="https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym" target="_blank" rel="noopener noreferrer nofollow">https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fit&amp;WellThis minimal equipment workout is perfect for a crowded gymDecember 5, 2022 — 4 Dec 2022 — If you want to try this session at hom...</p></details>
    Published: December 5, 2022  
 
@@ -797,55 +797,55 @@ The practical rule is simple: if waiting exceeds a few minutes and an effective 
 
 10. <a id="endnote-10"></a>
    Source: kops.uni-konstanz.de  
-   Link: [https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content](https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mediates between intentions and physical activityby U Scholz · Cited by 305 — Research suggests that the prediction of behaviour change c...</p></details>
+   Link: <a href="https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>mediates between intentions and physical activityby U Scholz · Cited by 305 — Research suggests that the prediction of [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) c...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cfspotnyc.com  
-   Link: [https://cfspotnyc.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/](https://cfspotnyc.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/)  
+   Link: <a href="https://cfspotnyc.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://cfspotnyc.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of 24/7 Gym Access for Busy Professionals?During peak hours, equipment availability becomes a bottleneck, leading to extended wa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: rx30fit.com  
-   Link: [https://rx30fit.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/](https://rx30fit.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/)  
+   Link: <a href="https://rx30fit.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://rx30fit.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It allows us to tailor workout schedules around hectic routines, enhancing consistency and achieving ideal time management.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: atfitnesstx.com  
    Title: Benefits of 24/7 Gym Access for Busy Professionals Reduced Gym Crowds  
-   Link: [https://atfitnesstx.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/](https://atfitnesstx.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/)  
+   Link: <a href="https://atfitnesstx.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://atfitnesstx.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With 24/7 gym access, you can work out during off-peak hours, ensuring minimal wait times for equipment. This flexibility means...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pure.amsterdamumc.nl  
    Title: Promoting an active choice among physically inactive adults  
-   Link: [https://pure.amsterdamumc.nl/ws/portalfiles/portal/149117967/Promoting-an-active-choice-among-physically-inactive-adults.pdf](https://pure.amsterdamumc.nl/ws/portalfiles/portal/149117967/Promoting-an-active-choice-among-physically-inactive-adults.pdf)  
+   Link: <a href="https://pure.amsterdamumc.nl/ws/portalfiles/portal/149117967/Promoting-an-active-choice-among-physically-inactive-adults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.amsterdamumc.nl/ws/portalfiles/portal/149117967/Promoting-an-active-choice-among-physically-inactive-adults.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an active choice among physically inactive adultsby LL Landais · 2022 · Cited by 5 — Previous research has demonstrated that health-promo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity](https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity)  
+   Link: <a href="https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aviours, but mixed results are observed regarding physical activity.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Effect of free-weight vs  
-   Link: [https://www.researchgate.net/publication/373141419_Effect_of_free-weight_vs_machine-based_strength_training_on_maximal_strength_hypertrophy_and_jump_performance_-_a_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/373141419_Effect_of_free-weight_vs_machine-based_strength_training_on_maximal_strength_hypertrophy_and_jump_performance_-_a_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/373141419_Effect_of_free-weight_vs_machine-based_strength_training_on_maximal_strength_hypertrophy_and_jump_performance_-_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373141419_Effect_of_free-weight_vs_machine-based_strength_training_on_maximal_strength_hypertrophy_and_jump_performance_-_a_systematic_review_and_meta-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>machine-based strength...2 Aug 2023 — The purpose of this meta-analysis was to summarize the data on the effect of free-weight versus ma...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf](https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• Mental imagery can increase physical activity...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: acefitness.org  
    Title: beginner strength training workout  
-   Link: [https://www.acefitness.org/resources/everyone/blog/3714/beginner-strength-training-workout/?srsltid=AfmBOooSqUXEG5qnsIPOabBgGu9rf0wGCrQyX4n8uJMUNqiJuX0ak6pS](https://www.acefitness.org/resources/everyone/blog/3714/beginner-strength-training-workout/?srsltid=AfmBOooSqUXEG5qnsIPOabBgGu9rf0wGCrQyX4n8uJMUNqiJuX0ak6pS)  
+   Link: <a href="https://www.acefitness.org/resources/everyone/blog/3714/beginner-strength-training-workout/?srsltid=AfmBOooSqUXEG5qnsIPOabBgGu9rf0wGCrQyX4n8uJMUNqiJuX0ak6pS" target="_blank" rel="noopener noreferrer nofollow">https://www.acefitness.org/resources/everyone/blog/3714/beginner-strength-training-workout/?srsltid=AfmBOooSqUXEG5qnsIPOabBgGu9rf0wGCrQyX4n8uJMUNqiJuX0ak6pS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2014 — Here are a few tips and six beginner strength training workouts targeting the major muscles of the body to get you started w...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>

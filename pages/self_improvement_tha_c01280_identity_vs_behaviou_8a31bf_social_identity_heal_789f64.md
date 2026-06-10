@@ -278,7 +278,7 @@ Self-improvement is often described as a matter of individual [willpower]({{ 'wi
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-dark.svg" | relative_url }}" alt="Group norms illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters for self-improvement because it shifts attention from the isolated individual to the social [environment]({{ 'environment/' | relative_url }}). Evidence from a 2024 systematic review and meta-analysis found a small but consistent positive association between social identification and health-related behaviour, with stronger effects when the group [identity]({{ 'identity/' | relative_url }}) itself was linked to health-promoting norms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSocial identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</span></span></span>
+This matters for self-improvement because it shifts attention from the isolated individual to the social [environment]({{ 'environment/' | relative_url }}). Evidence from a 2024 systematic review and meta-analysis found a small but consistent positive association between social identification and health-related behaviour, with stronger effects when the group [identity]({{ 'identity/' | relative_url }}) itself was linked to health-promoting norms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</span></span></span>
 
 ## How belonging shapes everyday choices
 
@@ -286,7 +286,7 @@ Social identity refers to the part of a person's self-concept that comes from be
 
 This process operates in ordinary situations. A person joining a walking group may begin taking daily walks not simply because exercise is beneficial, but because walking is what group members do together. Someone in a workplace where lunch breaks involve a short walk may find movement easier to sustain than someone whose colleagues remain at their desks. In both cases, behaviour is reinforced by belonging rather than by constant self-control.
 
-Research on social identity and norm adherence suggests the relationship works in both directions. Strong identification with a group increases adherence to its norms, while acting in line with those norms can further strengthen identification with the group. In practice, this creates feedback loops: participation increases belonging, and belonging increases participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
+Research on social identity and norm adherence suggests the relationship works in both directions. Strong identification with a group increases adherence to its norms, while acting in line with those norms can further strengthen identification with the group. In practice, this creates [feedback]({{ 'feedback/' | relative_url }}) loops: participation increases belonging, and belonging increases participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
 
 This helps explain why some habits feel effortless within one social setting and difficult in another. The behaviour itself may be identical, but its social meaning changes.
 
@@ -300,7 +300,7 @@ Healthy behaviour becomes easier when a valued group treats it as normal, desira
 Several patterns appear repeatedly in the evidence:
 
 * **Physical activity becomes more sustainable when linked to group membership.** Research applying social identity theory to exercise shows that identification with active groups can increase participation, [enjoyment]({{ 'enjoyment/' | relative_url }}) and persistence. Exercise becomes a social activity rather than a solitary obligation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5603625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5603625</span><span class="citation-popover-snippet">PMCA Social Identity Approach to Understanding and Promoting ...by M Stevens · 2017 · Cited by 209 — The social identity approach provide...</span></span></span>
-* **Health-related identities have stronger effects than generic identities.** The 2024 meta-analysis found that identities directly connected to health behaviours showed stronger associations with health outcomes than broader social identities. A person who identifies as a runner, cyclist or member of a fitness community receives clearer behavioural guidance than someone who merely identifies with a large social category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSocial identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span>
+* **Health-related identities have stronger effects than generic identities.** The 2024 meta-analysis found that identities directly connected to health behaviours showed stronger associations with health outcomes than broader social identities. A person who identifies as a runner, cyclist or member of a fitness community receives clearer behavioural guidance than someone who merely identifies with a large social category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span>
 * **Shared identity can improve support and accountability.** Group-based behaviour change programmes often work partly because members see each other as part of a common “us”. Recent work on group-based interventions argues that fostering shared identity helps established behaviour-change techniques work more effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</span></span></span>
 
 An important implication is that belonging can reduce decision fatigue. If the group's norm is to attend the weekly training session, prepare healthy meals or avoid smoking, individuals spend less effort repeatedly debating the behaviour. The action is already socially defined as appropriate.
@@ -361,7 +361,7 @@ This does not mean abandoning existing relationships whenever a habit proves dif
 
 The contrast between identity change and behaviour design is often presented as a choice. Social identity research suggests they interact. Behaviour design influences what people do today, while group identity influences what feels natural to keep doing tomorrow.
 
-For lasting change, healthy actions benefit from becoming socially reinforced rather than merely personally intended. A person is more likely to continue a behaviour when it fits a valued group's norms, receives social approval and contributes to a sense of belonging. Conversely, behaviours tied to important group identities can be remarkably resistant to change even when individuals understand their disadvantages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSocial identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
+For lasting change, healthy actions benefit from becoming socially reinforced rather than merely personally intended. A person is more likely to continue a behaviour when it fits a valued group's norms, receives social approval and contributes to a sense of belonging. Conversely, behaviours tied to important group identities can be remarkably resistant to change even when individuals understand their disadvantages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
 
 The practical insight is simple: habits do not exist in isolation. They are embedded in social worlds. When healthier behaviour becomes part of a shared identity, it often stops feeling like a constant act of self-improvement and starts feeling like the normal thing to do. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment16</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment16 - Changing Behavior Using Social Identity ProcessesThis chapter outlines the potential of socia...</span></span></span>
 
@@ -786,143 +786,143 @@ The practical insight is simple: habits do not exist in isolation. They are embe
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S027795362400073X](https://www.sciencedirect.com/science/article/pii/S027795362400073X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSocial identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362400073X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
    Title: University Press & Assessment16  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment16 - Changing Behavior Using Social Identity ProcessesThis chapter outlines the potential of socia...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Social Identity Interventions (Chapter 44)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/social-identity-interventions/B967A5A5E4F61C3929EAEE0CF8B388B0](https://www.cambridge.org/core/books/handbook-of-behavior-change/social-identity-interventions/B967A5A5E4F61C3929EAEE0CF8B388B0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/social-identity-interventions/B967A5A5E4F61C3929EAEE0CF8B388B0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/social-identity-interventions/B967A5A5E4F61C3929EAEE0CF8B388B0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentSocial Identity Interventions (Chapter 44) - The Handbook...This chapter describes an evidence-ba...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: yhphnetwork.co.uk  
    Title: YHPHNThe Social Norms Approach  
-   Link: [https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf](https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf)  
+   Link: <a href="https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2019 — The social norms approach focuses on positive messages about healthy behaviours and attitudes that are common to most pe...</p></details>
    Published: March 11, 2019  
 
 5. <a id="endnote-5"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/social-scaffolding/social-identity-approach-to-health/22C5C57474D57EEA04644D1281D6888B](https://www.cambridge.org/core/books/social-scaffolding/social-identity-approach-to-health/22C5C57474D57EEA04644D1281D6888B)  
+   Link: <a href="https://www.cambridge.org/core/books/social-scaffolding/social-identity-approach-to-health/22C5C57474D57EEA04644D1281D6888B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-scaffolding/social-identity-approach-to-health/22C5C57474D57EEA04644D1281D6888B</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Social Identity Approach to Health (Chapter 4)The key point to take from this model is that th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/social](https://dictionary.cambridge.org/dictionary/english/social)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary7 days ago — SOCIAL definition: 1. relating to activities in which you meet and spend time with o...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/social</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — SOCIAL definition: 1. relating to activities in which you meet and spend time with o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590291125008952](https://www.sciencedirect.com/science/article/pii/S2590291125008952)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590291125008952" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590291125008952</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social norms structure underlying health behaviors...by C Ogland-Hand · 2025 — Social norms play an important role in understanding heal...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchportalplus.anu.edu.au  
    Title: The Australian National University Social Identity  
-   Link: [https://researchportalplus.anu.edu.au/en/publications/social-identity/](https://researchportalplus.anu.edu.au/en/publications/social-identity/)  
+   Link: <a href="https://researchportalplus.anu.edu.au/en/publications/social-identity/" target="_blank" rel="noopener noreferrer nofollow">https://researchportalplus.anu.edu.au/en/publications/social-identity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Australian National UniversitySocial Identity - The Australian National Universityby SA Haslam · 2020 · Cited by 42 — Social identity...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38330634/](https://pubmed.ncbi.nlm.nih.gov/38330634/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38330634/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38965643/](https://pubmed.ncbi.nlm.nih.gov/38965643/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedDevelopment of a group-based behaviour change...by S Moghadam · 2024 · Cited by 3 — This article outlines a new approach to design...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38965643/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38965643/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Development of a group-based behaviour change...by S Moghadam · 2024 · Cited by 3 — This article outlines a new approach to design...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tobaccocontrol.bmj.com  
-   Link: [https://tobaccocontrol.bmj.com/content/31/2/358](https://tobaccocontrol.bmj.com/content/31/2/358)  
+   Link: <a href="https://tobaccocontrol.bmj.com/content/31/2/358" target="_blank" rel="noopener noreferrer nofollow">https://tobaccocontrol.bmj.com/content/31/2/358</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tobacco companies manipulated social norms to establish smoking as a socially accepted practice and encourage uptake among all population...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: discovery.ucl.ac.uk  
    Title: Michie pub pdf  
-   Link: [https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf](https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To identify potential targets for [smoking cessation](&amp;#123;&amp;#123; &#x27;quit-incentives/&#x27; | relative_url &amp;#125;&amp;#125;) interventions in young adults...Read more...</p></details>
+   Link: <a href="https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>To identify potential targets for smoking cessation interventions in young adults...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40105110/](https://pubmed.ncbi.nlm.nih.gov/40105110/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40105110/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40105110/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>relationship between habit and identity in health...by L Zhu · 2025 · Cited by 9 — This meta-analytic review aimed to synthesize the eff...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40983670/](https://pubmed.ncbi.nlm.nih.gov/40983670/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40983670/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40983670/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nat...Rea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41143785/](https://pubmed.ncbi.nlm.nih.gov/41143785/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41143785/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41143785/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>identity processes affect objectively measured...by T Cruwys · Cited by 1 — Objective: A systematic review (CRD42023422237) examined the...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368509360_The_reciprocal_relationship_between_social_identity_and_adherence_to_group_norms](https://www.researchgate.net/publication/368509360_The_reciprocal_relationship_between_social_identity_and_adherence_to_group_norms)  
+   Link: <a href="https://www.researchgate.net/publication/368509360_The_reciprocal_relationship_between_social_identity_and_adherence_to_group_norms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368509360_The_reciprocal_relationship_between_social_identity_and_adherence_to_group_norms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The reciprocal relationship between social identity and...17 Feb 2023 — We proposed a reciprocal relationship between social identificat...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377935190_Social_identity_and_health-related_behavior_A_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/377935190_Social_identity_and_health-related_behavior_A_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/377935190_Social_identity_and_health-related_behavior_A_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377935190_Social_identity_and_health-related_behavior_A_systematic_review_and_meta-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social identity and health-related behavior: A systematic...16 Feb 2024 — Social identity and health-related behavior: A systematic revi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: visualize.jove.com  
-   Link: [https://visualize.jove.com/38330634-social-identity-and-health-related-behavior-a-systematic-review-and-meta-analysis](https://visualize.jove.com/38330634-social-identity-and-health-related-behavior-a-systematic-review-and-meta-analysis)  
+   Link: <a href="https://visualize.jove.com/38330634-social-identity-and-health-related-behavior-a-systematic-review-and-meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://visualize.jove.com/38330634-social-identity-and-health-related-behavior-a-systematic-review-and-meta-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JoVE VisualizeSocial identity and health-related behavior: A systematic...Jan 8, 2020 — This paper examined the relationship between soc...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: crd.york.ac.uk  
-   Link: [https://www.crd.york.ac.uk/PROSPERO/view/CRD42023422237](https://www.crd.york.ac.uk/PROSPERO/view/CRD42023422237)  
+   Link: <a href="https://www.crd.york.ac.uk/PROSPERO/view/CRD42023422237" target="_blank" rel="noopener noreferrer nofollow">https://www.crd.york.ac.uk/PROSPERO/view/CRD42023422237</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>will describe main characteristics and the effect of social identity operationalisations on objectively measured physical health outcomes...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: academia.edu  
    Title: A Social Identity Approach to Understanding and Promoting Physical Activity  
-   Link: [https://www.academia.edu/36846192/A_Social_Identity_Approach_to_Understanding_and_Promoting_Physical_Activity](https://www.academia.edu/36846192/A_Social_Identity_Approach_to_Understanding_and_Promoting_Physical_Activity)  
+   Link: <a href="https://www.academia.edu/36846192/A_Social_Identity_Approach_to_Understanding_and_Promoting_Physical_Activity" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36846192/A_Social_Identity_Approach_to_Understanding_and_Promoting_Physical_Activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Social Identity Approach to Understanding and...11 Oct 2025 — The social identity approach provides a valuable framework from wh...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: research.ou.nl  
-   Link: [https://research.ou.nl/en/publications/social-identity-and-health-related-behavior-a-systematic-review-a/](https://research.ou.nl/en/publications/social-identity-and-health-related-behavior-a-systematic-review-a/)  
+   Link: <a href="https://research.ou.nl/en/publications/social-identity-and-health-related-behavior-a-systematic-review-a/" target="_blank" rel="noopener noreferrer nofollow">https://research.ou.nl/en/publications/social-identity-and-health-related-behavior-a-systematic-review-a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Universiteit research portalSocial identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 45 — This pa...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: research.rug.nl  
    Title: social identity health and well being an emerging agenda for appl  
-   Link: [https://research.rug.nl/en/publications/social-identity-health-and-well-being-an-emerging-agenda-for-appl/](https://research.rug.nl/en/publications/social-identity-health-and-well-being-an-emerging-agenda-for-appl/)  
+   Link: <a href="https://research.rug.nl/en/publications/social-identity-health-and-well-being-an-emerging-agenda-for-appl/" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/social-identity-health-and-well-being-an-emerging-agenda-for-appl/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Groningen Research PortalSocial Identity, Health and Well-Being: An Emerging...by SA Haslam · 2009 · Cited by 2246 — These themes addres...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchportal.hw.ac.uk  
    Title: Stevens2017 Article ASocialIdentityApproachToUnder  
-   Link: [https://researchportal.hw.ac.uk/files/55463082/Stevens2017_Article_ASocialIdentityApproachToUnder.pdf](https://researchportal.hw.ac.uk/files/55463082/Stevens2017_Article_ASocialIdentityApproachToUnder.pdf)  
+   Link: <a href="https://researchportal.hw.ac.uk/files/55463082/Stevens2017_Article_ASocialIdentityApproachToUnder.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/files/55463082/Stevens2017_Article_ASocialIdentityApproachToUnder.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heriot-Watt Research PortalA Social Identity Approach to Understanding and Promoting...by M Stevens · 2017 · Cited by 199 — In partic- u...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ovid.com  
    Title: Social Identity Processes Affect Objectively  
-   Link: [https://www.ovid.com/journals/hepsy/fulltext/10.1037/hea0001552~social-identity-processes-affect-objectively-measured](https://www.ovid.com/journals/hepsy/fulltext/10.1037/hea0001552~social-identity-processes-affect-objectively-measured)  
+   Link: <a href="https://www.ovid.com/journals/hepsy/fulltext/10.1037/hea0001552~social-identity-processes-affect-objectively-measured" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/hepsy/fulltext/10.1037/hea0001552~social-identity-processes-affect-objectively-measured</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>T Cruwys · 2025 · Cited by 1 — Objective: A systematic review (CRD42023422237) examined the effect of social identity proces...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: karger.com  
    Title: Group Identity and Ingroup Bias The Social  
-   Link: [https://karger.com/hde/article/65/5-6/311/828433/Group-Identity-and-Ingroup-Bias-The-Social](https://karger.com/hde/article/65/5-6/311/828433/Group-Identity-and-Ingroup-Bias-The-Social)  
+   Link: <a href="https://karger.com/hde/article/65/5-6/311/828433/Group-Identity-and-Ingroup-Bias-The-Social" target="_blank" rel="noopener noreferrer nofollow">https://karger.com/hde/article/65/5-6/311/828433/Group-Identity-and-Ingroup-Bias-The-Social</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Group Identity and Ingroup Bias: The Social Identity...3 Sept 2021 — This article discusses the social identity approach (social identit...</p></details>

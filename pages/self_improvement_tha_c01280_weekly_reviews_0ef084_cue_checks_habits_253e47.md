@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:01:27'
 parent_title: The Weekly Review That Fixes the Plan | Better Change
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
@@ -259,7 +260,6 @@ next_link:
   permalink: /fallback-habit/
   short_title: Fallback Habit
   heading_title: The Version That Survives a Bad Week
-date: '2026-06-05 15:01:27 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1.webp
@@ -272,7 +272,7 @@ A [weekly review]({{ 'weekly-review/' | relative_url }}) often reveals a surpris
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-dark.svg" | relative_url }}" alt="Cue Check illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When this happens repeatedly, the problem is often not [motivation]({{ 'motivation/' | relative_url }}). It is the cue. A cue is the reminder, situation or trigger that makes a behaviour easy to begin at the right moment. Habit research consistently shows that behaviours become linked to recurring contexts and prompts. When the cue is absent, unclear, badly timed or buried among competing demands, the intended action may never even enter awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPsychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
+When this happens repeatedly, the problem is often not [motivation]({{ 'motivation/' | relative_url }}). It is the cue. A cue is the reminder, situation or trigger that makes a behaviour easy to begin at the right moment. Habit research consistently shows that behaviours become linked to recurring contexts and prompts. When the cue is absent, unclear, badly timed or buried among competing demands, the intended action may never even enter awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
 During a weekly review, one of the most useful questions is therefore: “What was supposed to remind me to start?” If the answer is vague, missing or unreliable, the review has likely identified the real bottleneck.
 
@@ -374,17 +374,17 @@ One of the strongest options is to use a stable daily action as the cue.
 
 Examples include:
 
-* After making [morning coffee]({{ 'coffee-cue/' | relative_url }}).
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* After making morning coffee.
 * After brushing teeth.
 * After shutting down a work computer.
 * After sitting at a desk.
 
 </div>
 
-Research on habit formation shows that linking behaviour to recurring contexts supports the development of cue–response associations. Studies have found that connecting behaviours to routines or specific times can effectively [support]({{ 'support/' | relative_url }}) habit formation when repeated consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPsychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
+Research on habit formation shows that linking behaviour to recurring contexts supports the development of cue–response associations. Studies have found that connecting behaviours to routines or specific times can effectively [support]({{ 'support/' | relative_url }}) habit formation when repeated consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jsbF9z6adAo" title="Fogg behavior model in 2 minutes and 30 seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer">Fogg behavior model in 2 minutes and 30 seconds</a></p><p class="youtube-embed-meta">Channel: Kris Skrinak &middot; Views: 78.3K &middot; Uploaded: March 2015 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jsbF9z6adAo">Open on YouTube</a></p></div></div></div>
@@ -549,7 +549,7 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -558,78 +558,94 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wayne Gretzky Quote Poster Hockey Motivation Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/aba78af8125dbe352910.jpg' | relative_url }}" alt="Listing image for Wayne Gretzky Quote Poster Hockey Motivation Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated A4 Daily &amp; Weekly Planner | Productivity &amp; Habit Tracker | Goal Journal"><img src="https://i.ebayimg.com/images/g/8j0AAeSww3JpINwB/s-l225.jpg" alt="Listing image for Undated A4 Daily &amp; Weekly Planner | Productivity &amp; Habit Tracker | Goal Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wayne Gretzky Quote Poster Hockey Motivation Wall Art Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Undated A4 Daily &amp; Weekly Planner | Productivity &amp; Habit Tracker | Goal Journal</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall art">Search <span data-ebay-domain-label>eBay.com</span>: motivation wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Balboa Canvas Wall Art – Motivational Quote Poster Gym Room Decor"><img src="{{ '/assets/images/marketplace-covers/a06a6738fe96d2f3b1a9.jpg' | relative_url }}" alt="Listing image for Rocky Balboa Canvas Wall Art – Motivational Quote Poster Gym Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small"><img src="https://i.ebayimg.com/images/g/qnQAAOSwdDNjggq1/s-l225.jpg" alt="Listing image for Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rocky Balboa Canvas Wall Art – Motivational Quote Poster Gym Room Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall art">Search <span data-ebay-domain-label>eBay.com</span>: motivation wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Success Mindset Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/32e39242372f242900ec.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Success Mindset Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise"><img src="https://i.ebayimg.com/images/g/0q8AAeSwWUZpXS9F/s-l225.jpg" alt="Listing image for 12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Success Mindset Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall art">Search <span data-ebay-domain-label>eBay.com</span>: motivation wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be a Game Changer Basketball Quote Poster Motivational Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/bb776386820ea350cb15.jpg' | relative_url }}" alt="Listing image for Be a Game Changer Basketball Quote Poster Motivational Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be a Game Changer Basketball Quote Poster Motivational Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall art">Search <span data-ebay-domain-label>eBay.com</span>: motivation wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cue-check-why-the-habit-never-even-started-self-improvement-that-works-motivation-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -705,17 +721,31 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -728,42 +758,73 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -778,184 +839,188 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence shows that established habits are cue-contingent, share...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45](https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...The central BCT involved in habit formation...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThus, implementation intentions may be use...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Tiny Habits | My Thoughts as a Behavior Change Expert  
-   Link: [http://www.youtube.com/watch?v=vfVQWCh1rTk](http://www.youtube.com/watch?v=vfVQWCh1rTk)  
+   Link: <a href="http://www.youtube.com/watch?v=vfVQWCh1rTk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vfVQWCh1rTk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg behavior model in 2 minutes and 30 seconds...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Fogg behavior model in 2 minutes and 30 seconds  
-   Link: [http://www.youtube.com/watch?v=jsbF9z6adAo](http://www.youtube.com/watch?v=jsbF9z6adAo)  
+   Link: <a href="http://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jsbF9z6adAo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Habit Formation Impact UX Design Choices...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26361052/](https://pubmed.ncbi.nlm.nih.gov/26361052/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedPsychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26361052/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Habit-formation adv...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Habits are inherently idios...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 157 — Habits are inherently idios...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralInstant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation inten...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29191800/](https://pubmed.ncbi.nlm.nih.gov/29191800/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention and Reminder Effects on...30 Nov 2017 — The aim of this experiment was to manipulate the effects of implementation intentions...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralContext Stability in Habit Building Increases Automaticity and...by M Stojanovic · 2022 · Cited by 21 — In this paper, we...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investigate the ef...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Also, implementation intentions to perform altern...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33405284/](https://pubmed.ncbi.nlm.nih.gov/33405284/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedHabit formation following routine-based versus time...by J Keller · 2021 · Cited by 153 — Conclusions: Linking one&#x27;s nutrition beh...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33405284/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33405284/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation following routine-based versus time...by J Keller · 2021 · Cited by 153 — Conclusions: Linking one&#x27;s nutrition beh...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39387277/](https://pubmed.ncbi.nlm.nih.gov/39387277/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39387277/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39387277/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>micro-randomized trial to understand and promote habit...by D Baretta · 2025 · Cited by 13 — We examined the habit formation trajectory...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: vocus.cc  
-   Link: [https://vocus.cc/article/63a096c8fd89780001022028](https://vocus.cc/article/63a096c8fd89780001022028)  
+   Link: <a href="https://vocus.cc/article/63a096c8fd89780001022028" target="_blank" rel="noopener noreferrer nofollow">https://vocus.cc/article/63a096c8fd89780001022028</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>法格行為模型（Fogg Behavior Model）Dec 19, 2022 — 法格行為模型是用來拆解人類行為的一個公式，任何行為都可以拆解成三要素：動機（Motivation）、能力（Ability）、觸發點（Trigger）。 · 可以簡化為公式：行為（...Re...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: productmindset.substack.com  
    Title: fogg behavior model  
-   Link: [https://productmindset.substack.com/p/fogg-behavior-model](https://productmindset.substack.com/p/fogg-behavior-model)  
+   Link: <a href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://productmindset.substack.com/p/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: oxford-review.com  
    Title: Habit Formation  
-   Link: [https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/](https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/)  
+   Link: <a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Neuroscience is SayingStress and fatigue increase habitual behaviour; Context changes can disrupt existing habits; Working memor...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes](https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Breaking Habits With Implementation IntentionsImplementation intentions specifying the replacement of a habitual response with an a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change](https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change)  
+   Link: <a href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit Formation and ChangeThis review highlights emerging findings, topics, and new directions in research on habitual behavior.Rea...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour](https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Health BehaviourIntentions are the culmination of the decision making process; they signal the end of...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour](https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit formation in context: Context‐specific and...28 Nov 2022 — This study compared context‐specific and context‐free measures of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069](https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069)  
+   Link: <a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesHow Understanding Motivation, Ability, and Prompts Can Enhance User Engagement and D...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: effectiveselfhelp.org  
-   Link: [https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/](https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/)  
+   Link: <a href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow">https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: a guide to forming habits you&#x27;ll keepImplementation intentions involve &#x27;specifying the behaviour one will perform in th...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/prompts](https://www.behaviormodel.org/prompts)  
+   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design effective triggers tha...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: digitalcharitylab.org  
-   Link: [https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/](https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/)  
+   Link: <a href="https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior = Motivation + Ability + Prompt: The Fogg...27 Jun 2019 — Three elements must converge at the same moment for a behavior to occ...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: osf.io  
-   Link: [https://osf.io/download/dc39t/](https://osf.io/download/dc39t/)  
+   Link: <a href="https://osf.io/download/dc39t/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/dc39t/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>support for the notion that implementation intentions enhance automaticity by transferring control of behaviour...Read...</p></details>

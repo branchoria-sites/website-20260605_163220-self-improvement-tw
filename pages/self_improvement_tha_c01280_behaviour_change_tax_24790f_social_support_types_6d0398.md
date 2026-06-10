@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_so
 
 ## Introduction
 
-[Social support]({{ 'social-support/' | relative_url }}) is one of the most commonly recommended behaviour change [techniques]({{ 'techniques/' | relative_url }}), but it is also one of the most misunderstood. People often assume that “having accountability” will solve a motivation problem. In practice, support only works reliably when it matches the obstacle that is stopping the behaviour.
+[Social support]({{ 'social-support/' | relative_url }}) is one of the most commonly recommended [behaviour change]({{ 'behaviour-change/' | relative_url }}) techniques, but it is also one of the most misunderstood. People often assume that “having accountability” will solve a motivation problem. In practice, support only works reliably when it matches the obstacle that is stopping the behaviour.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-1-dark.svg" | relative_url }}" alt="Real Support illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ For self-improvement, the useful question is not “Who will keep me accountable
 
 ## What kind of support do you really need?
 
-The taxonomy separates social support into distinct techniques rather than treating support as a vague feeling. In particular, it distinguishes emotional support from practical support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">Social support (practical) Advise on, arrange, or provide practical.Read more</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs (e.g...</span></span></span>
+The taxonomy separates social support into distinct [techniques]({{ 'techniques/' | relative_url }}) rather than treating support as a vague feeling. In particular, it distinguishes emotional support from practical support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">Social support (practical) Advise on, arrange, or provide practical.Read more</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs (e.g...</span></span></span>
 
 ### Emotional support versus practical support
 
@@ -300,7 +300,7 @@ Practical support is different. It changes the conditions under which the behavi
 
 The difference is important because many behaviour failures are not motivational failures. They are friction failures. A person may fully intend to exercise, study or save money, yet repeatedly fail because the behaviour is inconvenient, poorly timed or difficult to organise. Practical support reduces those barriers directly.
 
-Research across behaviour-change interventions consistently finds social support among the most frequently used intervention components, often appearing alongside [goal setting]({{ 'goal-setting/' | relative_url }}), self-monitoring and problem solving rather than operating alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">social support, instruction on how to perform behavior, prompts/cues, self... Self‐regulatory behaviour change techniques in interventio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCBehavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 35 — Most behavior change intervention...</span></span></span>
+Research across behaviour-change interventions consistently finds social support among the most frequently used intervention components, often appearing alongside goal setting, self-monitoring and problem solving rather than operating alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">social support, instruction on how to perform behavior, prompts/cues, self... Self‐regulatory behaviour change techniques in interventio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 35 — Most behavior change intervention...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DMaI2BWGpZI" title="The Psychology of Change: Finding Support for Health Goals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DMaI2BWGpZI" target="_blank" rel="noopener noreferrer">The Psychology of Change: Finding Support for Health Goals</a></p><p class="youtube-embed-meta">Channel: Mayo Clinic &middot; Views: 509 &middot; Uploaded: October 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DMaI2BWGpZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DMaI2BWGpZI">Open on YouTube</a></p></div></div></div>
@@ -318,11 +318,11 @@ More effective accountability systems usually contain additional behaviour-chang
 * Shared routines.
 * Monitoring of actual behaviour.
 * Problem solving when obstacles appear.
-* Practical assistance when needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3221353/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSupportive Accountability: A Model for Providing Human...by DC Mohr · 2011 · Cited by 1334 — Rigid adherence goals may actually reduc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions establish a str...</span></span></span>
+* Practical assistance when needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3221353/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Supportive Accountability: A Model for Providing Human...by DC Mohr · 2011 · Cited by 1334 — Rigid adherence goals may actually reduc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions establish a str...</span></span></span>
 
 This helps explain why exercise partners often outperform exercise cheerleaders. The exercise partner does not merely ask whether the workout happened. They become part of the situation in which the workout occurs. Their presence reduces the effort required to initiate the behaviour.
 
-The same principle appears in many successful interventions. Social support tends to work best when it is attached to a [specific behaviour]({{ 'goal-setting/' | relative_url }}) and a specific context rather than existing as a general expectation to “do better”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">social support, instruction on how to perform behavior, prompts/cues, self... Self‐regulatory behaviour change techniques in interventio...</span></span></span>
+The same principle appears in many successful interventions. Social support tends to work best when it is attached to a specific behaviour and a specific context rather than existing as a general expectation to “do better”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">social support, instruction on how to perform behavior, prompts/cues, self... Self‐regulatory behaviour change techniques in interventio...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-2-dark.svg" | relative_url }}" alt="Real Support illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,14 +332,9 @@ A practical way to use social support is to identify the exact moment where the 
 
 Consider three different people who all want to exercise more:
 
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
 1. **The discouraged exerciser** stops after a missed session because they feel they have failed.
 2. **The overloaded parent** cannot find uninterrupted time.
-3. **The evening procrastinator** reaches home and loses motivation.
-
-</div>
+3. **The evening procrastinator** reaches home and loses [motivation]({{ 'motivation/' | relative_url }}).
 
 Each person needs different support.
 
@@ -371,7 +366,7 @@ When people share a routine, several useful things happen simultaneously:
 
 </div>
 
-This is why walking groups, [study groups]({{ 'study-groups/' | relative_url }}), running clubs and meal-preparation partnerships can be powerful despite appearing simple. They do not merely increase motivation. They alter the environment in which the behaviour occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0272735823000090" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A person is identified that can provide emotional support. 17...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCBehavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 35 — Most behavior change intervention...</span></span></span>
+This is why walking groups, [study groups]({{ 'study-groups/' | relative_url }}), running clubs and meal-preparation partnerships can be powerful despite appearing simple. They do not merely increase motivation. They alter the environment in which the behaviour occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0272735823000090" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A person is identified that can provide emotional support. 17...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 35 — Most behavior change intervention...</span></span></span>
 
 The practical lesson is that support becomes stronger when it is embedded in the performance of the behaviour rather than discussed separately from it.
 
@@ -392,7 +387,7 @@ Several patterns repeatedly reduce the effectiveness of social support.
 **Leaving requests vague.** “Please keep me accountable” is less useful than “Text me at 7 p.m. if I have not logged today's workout.”
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZqNn17OXOE" title="How an Accountability Partner Can Help You Transform! | Dr. David Hawkins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZqNn17OXOE" target="_blank" rel="noopener noreferrer">How an Accountability Partner Can Help You Transform! | Dr. David Hawkins</a></p><p class="youtube-embed-meta">Channel: Dr. David Hawkins &middot; Views: 1.6K &middot; Uploaded: January 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZqNn17OXOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZqNn17OXOE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R4wr3kwR94I" title="The Science of Accountability Partners: What Research Actually Shows | Habits, Backed by Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R4wr3kwR94I" target="_blank" rel="noopener noreferrer">The Science of Accountability Partners: What Research Actually Shows | Habits, Backed by Science</a></p><p class="youtube-embed-meta">Channel: Habits, Backed by Science &middot; Views: 10 &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R4wr3kwR94I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R4wr3kwR94I">Open on YouTube</a></p></div></div></div>
 
 ## The simplest test for useful support
 
@@ -828,114 +823,114 @@ That is the central insight behind social support as a behaviour change techniqu
 1. <a id="endnote-1"></a>
    Source: digitalwellbeing.org  
    Title: Social support (practical) Advise on, arrange, or provide practical.Read more  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs (e.g...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0272735823000090](https://www.sciencedirect.com/science/article/pii/S0272735823000090)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0272735823000090" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0272735823000090</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A person is identified that can provide emotional support. 17...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>social support, instruction on how to perform behavior, prompts/cues, self... Self‐regulatory behaviour change techniques in interventio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBehavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 35 — Most behavior change intervention...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 35 — Most behavior change intervention...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We first discuss several well-established theories of adherence behavior and how the...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3221353/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3221353/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSupportive Accountability: A Model for Providing Human...by DC Mohr · 2011 · Cited by 1334 — Rigid adherence goals may actually reduc...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3221353/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3221353/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supportive Accountability: A Model for Providing Human...by DC Mohr · 2011 · Cited by 1334 — Rigid adherence goals may actually reduc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions establish a str...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2542454824000225](https://www.sciencedirect.com/science/article/pii/S2542454824000225)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2542454824000225</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting Sustainable Health Behavior Changeby JA Matthews · 2024 · Cited by 76 — Health and wellness coaching (HWC) is a behavior chang...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825014829](https://www.sciencedirect.com/science/article/pii/S0001691825014829)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825014829" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825014829</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond positive thinking: A randomized trial of mental...by X Zhou · 2026 — Implementation intentions and goal achievement: A meta-analy...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewA refined taxonomy of behavior change techniques to help people change their physical activity and healthy eating behaviors: t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
-   Link: [https://theoryandtechniquetool.humanbehaviourchange.org/tool](https://theoryandtechniquetool.humanbehaviourchange.org/tool)  
+   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the links between 74 Behaviour Change Techniques (BCTs)... Social support (practical). +. 3.3. Social support (emotional).Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Goal Achievement7 Oct 2017 — This review analyzes whether realization of goal intentions is facilitat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ph49/evidence/evidence-review-3-a-qualitative-review-of-studies-describing-the-characteristics-and-competencies-needed-for-behaviour-change-interventions-or-techniques-pdf-430402866](https://www.nice.org.uk/guidance/ph49/evidence/evidence-review-3-a-qualitative-review-of-studies-describing-the-characteristics-and-competencies-needed-for-behaviour-change-interventions-or-techniques-pdf-430402866)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/evidence/evidence-review-3-a-qualitative-review-of-studies-describing-the-characteristics-and-competencies-needed-for-behaviour-change-interventions-or-techniques-pdf-430402866" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/evidence/evidence-review-3-a-qualitative-review-of-studies-describing-the-characteristics-and-competencies-needed-for-behaviour-change-interventions-or-techniques-pdf-430402866</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PH49 Behaviour change: individual approachesassociation of behaviour change techniques with intervention... Two other systematic reviews...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: doctorkevin.medium.com  
-   Link: [https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6](https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6)  
+   Link: <a href="https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6" target="_blank" rel="noopener noreferrer nofollow">https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Partners are Insanely Essential for Monumental...An accountability partner is someone who can provide insight, encouragement, and a nece...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: phwwhocc.co.uk  
    Title: Identifying and Applying Behaviour Change Techniques• Social support (practical)  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advise on, arrange, or provide practical help... For example, if your behaviour change technique is &#x27;providing information about...Read...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: practicalhealthpsychology.com  
    Title: bringing behaviour change techniques into practice making use of available tools  
-   Link: [https://practicalhealthpsychology.com/2023/05/bringing-behaviour-change-techniques-into-practice-making-use-of-available-tools/](https://practicalhealthpsychology.com/2023/05/bringing-behaviour-change-techniques-into-practice-making-use-of-available-tools/)  
+   Link: <a href="https://practicalhealthpsychology.com/2023/05/bringing-behaviour-change-techniques-into-practice-making-use-of-available-tools/" target="_blank" rel="noopener noreferrer nofollow">https://practicalhealthpsychology.com/2023/05/bringing-behaviour-change-techniques-into-practice-making-use-of-available-tools/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bringing behaviour change techniques into practice29 May 2023 — The Centre for Behaviour Change has an online database of interventions u...</p></details>
    Published: May 2023  
 
 17. <a id="endnote-17"></a>
    Source: successodysseyhub.com  
    Title: Discover what behavioral science reveals about the mechanisms that make  
-   Link: [https://successodysseyhub.com/blog/accountability-systems](https://successodysseyhub.com/blog/accountability-systems)  
+   Link: <a href="https://successodysseyhub.com/blog/accountability-systems" target="_blank" rel="noopener noreferrer nofollow">https://successodysseyhub.com/blog/accountability-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accountability Systems That Actually Work: The Science of Staying...Most accountability attempts fail because they rely on social pressu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/accountability-partner-strategies/](https://goalsandprogress.com/accountability-partner-strategies/)  
+   Link: <a href="https://goalsandprogress.com/accountability-partner-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/accountability-partner-strategies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find the [right partner](&amp;#123;&amp;#123; &#x27;right-partner/&#x27; | relative_url &amp;#125;&amp;#125;), run the Mirror Match Protocol checklist, and maintain check-ins that work...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nationalelfservice.net  
-   Link: [https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/](https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/)  
+   Link: <a href="https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ards a goal) rather than goal setting and how the bridge between goal intentions...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nice.org.uk  
    Title: behaviour change individual approaches pdf 1996366337989  
-   Link: [https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989](https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989)  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches2 Jan 2014 — This guideline covers changing health-damaging behaviours among people aged 16 and ov...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: transcendketamine.com  
    Title: unlocking success how accountability supercharges goal achievement  
-   Link: [https://www.transcendketamine.com/blog-posts/unlocking-success-how-accountability-supercharges-goal-achievement](https://www.transcendketamine.com/blog-posts/unlocking-success-how-accountability-supercharges-goal-achievement)  
+   Link: <a href="https://www.transcendketamine.com/blog-posts/unlocking-success-how-accountability-supercharges-goal-achievement" target="_blank" rel="noopener noreferrer nofollow">https://www.transcendketamine.com/blog-posts/unlocking-success-how-accountability-supercharges-goal-achievement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s more than just telling someone what you plan to do, it&#x27;s a system of follow-up, encouragement, and shared...Read more...</p></details>

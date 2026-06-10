@@ -278,7 +278,7 @@ If the goal is better sleep and deeper focus, one of the most effective changes 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-1-dark.svg" | relative_url }}" alt="Phone Place illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Phone placement matters because smartphones are not neutral objects. They combine communication, entertainment, novelty, social [rewards]({{ 'rewards/' | relative_url }}) and alerts in a single device that is usually within arm’s reach. When the phone is close, checking it becomes easy and often automatic. When it is physically separated from the places where you sleep or concentrate, the behaviour changes because the [environment]({{ 'environment/' | relative_url }}) changes. Research on smartphone presence, attention and sleep suggests that distance can reduce both bedtime scrolling and distraction during focused work. UT Austin News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-36256-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The mere presence of a smartphone reduces basal...by J Skowronek · 2023 · Cited by 112 — The mere presence of a smartphone results in lo...</span></span></span> Within an environment-design approach to self-improvement, phone placement is a simple example of making the desired behaviour easier and the unwanted behaviour harder.
+Phone placement matters because smartphones are not neutral objects. They combine communication, entertainment, novelty, social rewards and alerts in a single device that is usually within arm’s reach. When the phone is close, checking it becomes easy and often automatic. When it is physically separated from the places where you sleep or concentrate, the [behaviour changes]({{ 'behaviour-change/' | relative_url }}) because the [environment]({{ 'environment/' | relative_url }}) changes. Research on smartphone presence, attention and sleep suggests that distance can reduce both bedtime scrolling and distraction during focused work. UT Austin News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-36256-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The mere presence of a smartphone reduces basal...by J Skowronek · 2023 · Cited by 112 — The mere presence of a smartphone results in lo...</span></span></span> Within an environment-design approach to self-improvement, phone placement is a simple example of making the desired behaviour easier and the unwanted behaviour harder.
 
 ## Why proximity makes scrolling automatic
 
@@ -290,7 +290,7 @@ Research on smartphone use in bed has found associations between bedtime phone u
 
 Large-scale survey research has also linked screen use in bed with shorter sleep duration and higher insomnia risk. One widely reported study of more than 45,000 young adults found that each additional hour of screen use in bed was associated with shorter sleep and a substantially higher risk of insomnia symptoms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.com/study-screen-use-in-bed-insomnia-11701831" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.com">[Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.com</span><span class="citation-popover-title">Study: Scrolling on Your Phone in Bed Could Raise Insomnia Risk by Nearly 60%</span><span class="citation-popover-snippet">Researchers surveyed over 45,000 individuals aged 18 to 28 and found that every hour of screen time in bed is associated with 24 fewer mi...</span></span></span>
 
-The mechanism is not just blue light. Blue light can contribute to alertness and affect melatonin production, but researchers increasingly note that stimulation, emotional engagement and habit loops also matter. A heated discussion, an exciting video or an endless social feed can delay sleep even when brightness settings are reduced. Sleep Foundation <span class="citation-chip-wrap"><a class="citation-chip" href="https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxfordhealth.nhs.uk">[Oxford Health NHS Foundation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxfordhealth.nhs.uk</span><span class="citation-popover-snippet">Oxford Health NHS Foundation TrustScreens | Oxford Health CAMHSBlue light from screens mimics the sunlight and sends a signal to the brai...</span></span></span>
+The mechanism is not just blue light. Blue light can contribute to alertness and affect melatonin production, but researchers increasingly note that stimulation, emotional engagement and habit loops also matter. A heated discussion, an exciting video or an endless social feed can delay sleep even when brightness settings are reduced. Sleep Foundation <span class="citation-chip-wrap"><a class="citation-chip" href="https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxfordhealth.nhs.uk">[Oxford Health NHS Foundation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxfordhealth.nhs.uk</span><span class="citation-popover-snippet">Oxford Health NHS Foundation TrustScreens &#124; Oxford Health CAMHSBlue light from screens mimics the sunlight and sends a signal to the brai...</span></span></span>
 
 The same principle affects daytime focus. Multiple studies have found that the mere presence of a smartphone can reduce available cognitive resources, even when the phone is not actively being used. Participants generally perform better on demanding tasks when the phone is placed in another room rather than on the desk beside them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.utexas.edu">[UT Austin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.utexas.edu</span><span class="citation-popover-title">the mere presence of your smartphone reduces brain power</span><span class="citation-popover-snippet">UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1416 — In two experiments, we test...</span></span></span>
 
@@ -405,7 +405,7 @@ The practical question is whether the phone's location supports the behaviour yo
 
 If the device sleeps beside your pillow, it becomes the default response to boredom, wakefulness and curiosity. If it lives in a charging station outside the bedroom and away from focused work, checking it becomes a deliberate action instead of an automatic one.
 
-That is the central lesson of [environment design]({{ 'environment/' | relative_url }}): behaviour often changes not because people become stronger, but because the cues around them become weaker. A few metres of distance can sometimes achieve what months of self-discipline struggles do not. UT Austin News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-36256-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The mere presence of a smartphone reduces basal...by J Skowronek · 2023 · Cited by 112 — The mere presence of a smartphone results in lo...</span></span></span>
+That is the central lesson of environment design: behaviour often changes not because people become stronger, but because the cues around them become weaker. A few metres of distance can sometimes achieve what months of self-discipline struggles do not. UT Austin News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-36256-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The mere presence of a smartphone reduces basal...by J Skowronek · 2023 · Cited by 112 — The mere presence of a smartphone results in lo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b2dgsYJUFiM" title="I Quit My Phone Addiction in 20 Seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b2dgsYJUFiM" target="_blank" rel="noopener noreferrer">I Quit My Phone Addiction in 20 Seconds</a></p><p class="youtube-embed-meta">Channel: Wisdom &middot; Views: 78 &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b2dgsYJUFiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b2dgsYJUFiM">Open on YouTube</a></p></div></div></div>
@@ -497,87 +497,103 @@ That is the central lesson of [environment design]({{ 'environment/' | relative_
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Expandable Desk Drawer Organizer, Clear Plastic Drawer Organizer Tray with 10 Ad"><img src="{{ '/assets/images/marketplace-covers/51372ae5d0d93ff502d1.jpg' | relative_url }}" alt="Listing image for Expandable Desk Drawer Organizer, Clear Plastic Drawer Organizer Tray with 10 Ad" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mobile Phone Lock Box Portable Phone Lock Box with Timer Lightweight Box"><img src="https://i.ebayimg.com/images/g/CAkAAOSwImdn-f1H/s-l225.jpg" alt="Listing image for Mobile Phone Lock Box Portable Phone Lock Box with Timer Lightweight Box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Expandable Desk Drawer Organizer, Clear Plastic Drawer Organizer Tray with 10 Ad</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Mobile Phone Lock Box Portable Phone Lock Box with Timer Lightweight Box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.com</span>: desk organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Multi-Tier Desk Organizer with Non-Slip Base - Perfect for Home or Office"><img src="{{ '/assets/images/marketplace-covers/308f90a7e7cd23d7404c.jpg' | relative_url }}" alt="Listing image for Multi-Tier Desk Organizer with Non-Slip Base - Perfect for Home or Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Phone Lock Box Timer Bag Portable Mobile Phone Safe Locking Case Lockbox"><img src="https://i.ebayimg.com/images/g/JPwAAeSwBnJoiyjw/s-l225.jpg" alt="Listing image for Smart Phone Lock Box Timer Bag Portable Mobile Phone Safe Locking Case Lockbox" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Multi-Tier Desk Organizer with Non-Slip Base - Perfect for Home or Office</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Smart Phone Lock Box Timer Bag Portable Mobile Phone Safe Locking Case Lockbox</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.com</span>: desk organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Mesh Desk Organizer 3 Tier Storage with Pencil Holder Office Home Use"><img src="{{ '/assets/images/marketplace-covers/7b9702d15adc7241d081.jpg' | relative_url }}" alt="Listing image for Black Mesh Desk Organizer 3 Tier Storage with Pencil Holder Office Home Use" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LookAway Portable Phone Lock Box, a device designed to help reduce screen time a"><img src="https://i.ebayimg.com/images/g/zDEAAeSwcE5p45Xe/s-l225.jpg" alt="Listing image for LookAway Portable Phone Lock Box, a device designed to help reduce screen time a" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Black Mesh Desk Organizer 3 Tier Storage with Pencil Holder Office Home Use</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">LookAway Portable Phone Lock Box, a device designed to help reduce screen time a</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.com</span>: desk organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Holder for Desk, Multi-Functional Pencil Organizer with Drawer, Desk Or"><img src="{{ '/assets/images/marketplace-covers/ffc0fa0017e0a624f6af.jpg' | relative_url }}" alt="Listing image for Mesh Pen Holder for Desk, Multi-Functional Pencil Organizer with Drawer, Desk Or" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mobile Phone Jail Cell Prison Lock Up Limit Kids Screen Family Dinner Time Box"><img src="https://i.ebayimg.com/images/g/LGwAAOSwFvVnJPJY/s-l225.jpg" alt="Listing image for Mobile Phone Jail Cell Prison Lock Up Limit Kids Screen Family Dinner Time Box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Holder for Desk, Multi-Functional Pencil Organizer with Drawer, Desk Or</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Mobile Phone Jail Cell Prison Lock Up Limit Kids Screen Family Dinner Time Box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.com</span>: desk organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-place-should-your-phone-sleep-outside-the-bedroom-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -653,17 +669,31 @@ That is the central lesson of [environment design]({{ 'environment/' | relative_
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -676,42 +706,73 @@ That is the central lesson of [environment design]({{ 'environment/' | relative_
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -726,235 +787,239 @@ That is the central lesson of [environment design]({{ 'environment/' | relative_
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-36256-4](https://www.nature.com/articles/s41598-023-36256-4)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-36256-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-36256-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mere presence of a smartphone reduces basal...by J Skowronek · 2023 · Cited by 112 — The mere presence of a smartphone results in lo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: health.com  
    Title: Study: Scrolling on Your Phone in Bed Could Raise Insomnia Risk by Nearly 60%  
-   Link: [https://www.health.com/study-screen-use-in-bed-insomnia-11701831](https://www.health.com/study-screen-use-in-bed-insomnia-11701831)  
+   Link: <a href="https://www.health.com/study-screen-use-in-bed-insomnia-11701831" target="_blank" rel="noopener noreferrer nofollow">https://www.health.com/study-screen-use-in-bed-insomnia-11701831</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers surveyed over 45,000 individuals aged 18 to 28 and found that every hour of screen time in bed is associated with 24 fewer mi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oxfordhealth.nhs.uk  
-   Link: [https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/](https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/)  
+   Link: <a href="https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/" target="_blank" rel="noopener noreferrer nofollow">https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Health NHS Foundation TrustScreens | Oxford Health CAMHSBlue light from screens mimics the sunlight and sends a signal to the brai...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/7335087/doom-scroll-phone-night-melatonin/](https://time.com/7335087/doom-scroll-phone-night-melatonin/)  
+   Link: <a href="https://time.com/7335087/doom-scroll-phone-night-melatonin/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7335087/doom-scroll-phone-night-melatonin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveying over 1,000 Canadian adults, researchers found that overall sleep health was similar between nightly screen users and non-users...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Does a smartphone on the desk drain our brain?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975](https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>M Hartmann · 2020 · Cited by 43 — We found no overall effect of smartphone presence on short-term and prospective memory perform...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001457521002578](https://www.sciencedirect.com/science/article/abs/pii/S0001457521002578)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001457521002578" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001457521002578</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mere presence of a mobile phone: Does it influence...by P Chee · 2021 · Cited by 43 — Overall, the research suggests that the presen...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sleep.me  
    Title: phone scrolling before bed and sleep  
-   Link: [https://sleep.me/post/phone-scrolling-before-bed-and-sleep?srsltid=AfmBOooE9d-d2vhcwTUiCf_8_x0WMX-YrpHUMUE1_vbnFt9legCNERCq](https://sleep.me/post/phone-scrolling-before-bed-and-sleep?srsltid=AfmBOooE9d-d2vhcwTUiCf_8_x0WMX-YrpHUMUE1_vbnFt9legCNERCq)  
+   Link: <a href="https://sleep.me/post/phone-scrolling-before-bed-and-sleep?srsltid=AfmBOooE9d-d2vhcwTUiCf_8_x0WMX-YrpHUMUE1_vbnFt9legCNERCq" target="_blank" rel="noopener noreferrer nofollow">https://sleep.me/post/phone-scrolling-before-bed-and-sleep?srsltid=AfmBOooE9d-d2vhcwTUiCf_8_x0WMX-YrpHUMUE1_vbnFt9legCNERCq</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scrolling in Bed Ruins Sleep Quality &amp; How to Stop It12 Jan 2026 — Late night phone scrolling delays sleep, raises stress &amp; cuts into dee...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958820300051](https://www.sciencedirect.com/science/article/pii/S2451958820300051)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958820300051" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958820300051</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review on the effects of smartphone usage on attention...by M Liebherr · 2020 · Cited by 140 — A general smartphone use may also have...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: Can smartphone presence affect cognitive function?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217](https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>G Niu · 2022 · Cited by 52 — This study examines the influence of smartphones on cognitive function and the potential moderatin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: news.utexas.edu  
    Title: the mere presence of your smartphone reduces brain power  
-   Link: [https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/](https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/)  
+   Link: <a href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow">https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.uchicago.edu  
-   Link: [https://www.journals.uchicago.edu/doi/full/10.1086/691462](https://www.journals.uchicago.edu/doi/full/10.1086/691462)  
+   Link: <a href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/full/10.1086/691462</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1416 — In two experiments, we test...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sleepfoundation.org  
    Title: blue light  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/blue-light](https://www.sleepfoundation.org/bedroom-environment/blue-light)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most effective way to reduce exposure to blue light in the evening is to simply turn off the sources.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/sleep-habits](https://www.sleepfoundation.org/sleep-habits)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationHealthy Sleep Habits: The Ultimate Sleep Improvement PlanWhat you can do: If possible, keep phones and tablets out of the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sleepfoundation.org  
    Title: how electronics affect sleep  
-   Link: [https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep](https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 10, 2025 — We recommend avoiding computers, smartphones, and other blue light-emitting devices in the hours leading up to bedtime. Ho...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tomsguide.com  
-   Link: [https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts](https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts)  
+   Link: <a href="https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly half of Americans check their phones within 10 minutes of waking, a habit that spikes and then crashes dopamine, increases stress...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sleepfoundation.org  
    Title: technology in the bedroom  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom](https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 11, 2025 — Try blue light glasses: Specialty glasses work to block out blue light before it reaches your eyes, and some research sugg...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sleepfoundation.org  
    Title: how blue light affects kids sleep  
-   Link: [https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep](https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Blue Light Affects Kids&#x27; SleepJul 23, 2025 — Blue light decreases melatonin levels and may delay or disrupt sleep in children. Learn...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media](https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media)  
+   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep &amp; Social Media: Staying Connected Can Keep You UpJul 10, 2025 — The impacts of blue light exposure may be worse for those who wake...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/remote-work-and-sleep](https://www.sleepfoundation.org/sleep-hygiene/remote-work-and-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/remote-work-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/remote-work-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Better Sleep While Working RemotelyJul 24, 2025 — Seek Quiet: Minimize distractions by turning off the television, phone notifica...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sleepfoundation.org  
    Title: screen time and insomnia for teens  
-   Link: [https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens](https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens)  
+   Link: <a href="https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Screen Time and Insomnia: What It Means for TeensMar 14, 2023 — We take a closer look at the relationship between screen time and insomni...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sleepfoundation.org  
    Title: revenge bedtime procrastination  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination](https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jul 2025 — The widespread use of screens before bed can also encourage procrastination by stimulating the brain and delaying the natur...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/sleeping-with-the-lights-on](https://www.sleepfoundation.org/bedroom-environment/sleeping-with-the-lights-on)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/sleeping-with-the-lights-on" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/sleeping-with-the-lights-on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleeping With the Lights On: Helpful or Harmful?Jul 11, 2025 — Artificial light, especially blue light, can suppress melatonin production...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sleepfoundation.org  
    Title: sleep hygiene  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene](https://www.sleepfoundation.org/sleep-hygiene)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Sleep Hygiene: Your Path to Quality SleepJul 7, 2025 — Dim Your Lights: Try to keep away from bright lights because they can hi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sleepfoundation.org  
    Title: Can't Sleep?  
-   Link: [https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep](https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 [Techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) to TryJul 10, 2025 — Put away electronics: Avoid screens and silence notifications at least 30 to 60 minutes before bed to r...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sleepeducation.org  
-   Link: [https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/](https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/)  
+   Link: <a href="https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/" target="_blank" rel="noopener noreferrer nofollow">https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Screen time and sleep: What new studies reveal22 Sept 2025 — A survey from the American Academy of Sleep Medicine found that 87% of Ameri...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: health.clevelandclinic.org  
    Title: put the phone away 3 reasons why looking at it before bed is a bad habit  
-   Link: [https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit](https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit)  
+   Link: <a href="https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.org3 Reasons to Ditch Your Phone Before Bed20 May 2022 — Put your phone away before bed, as scrolling social media or tex...</p></details>
    Published: May 2022  
 
 27. <a id="endnote-27"></a>
    Source: sleephealthfoundation.org.au  
-   Link: [https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep](https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep)  
+   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepMake use of any &#x27;night modes&#x27; on devices as these change the light colour to avoid bright blue light, which may affec...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: healthyacadia.org  
    Title: better sleep better health why phones dont belong in kids bedrooms  
-   Link: [https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms](https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms)  
+   Link: <a href="https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms" target="_blank" rel="noopener noreferrer nofollow">https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Better Sleep, Better Health: Why Phones Don&#x27;t Belong in...1 Dec 2025 — A small change like keeping phones and screens out of the bedroom...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: health.harvard.edu  
    Title: keeping your smartphone nearby may not be so smart 2017080212163  
-   Link: [https://www.health.harvard.edu/blog/keeping-your-smartphone-nearby-may-not-be-so-smart-2017080212163](https://www.health.harvard.edu/blog/keeping-your-smartphone-nearby-may-not-be-so-smart-2017080212163)  
+   Link: <a href="https://www.health.harvard.edu/blog/keeping-your-smartphone-nearby-may-not-be-so-smart-2017080212163" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/blog/keeping-your-smartphone-nearby-may-not-be-so-smart-2017080212163</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>your smartphone nearby may not be so smart2 Aug 2017 — According to a new study, the mere presence of your smartphone, even if it isn&#x27;t r...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9707689/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9707689/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9707689/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9707689/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>study on the effect of mobile phone use on sleep - PMCby S Sinha · 2022 · Cited by 25 — Usage of mobile phone at bedtime, significantly i...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: lonestarneurology.net  
    Title: the impact of smartphone addiction on cognitive function and attention span  
-   Link: [https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/](https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/)  
+   Link: <a href="https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/" target="_blank" rel="noopener noreferrer nofollow">https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone Addiction: Effects on Cognition &amp; AttentionApr 9, 2025 — Studies have shown that excessive smartphone use can disrupt memory...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: encinosleepandtmj.com  
-   Link: [https://www.encinosleepandtmj.com/blue-light-and-sleep/](https://www.encinosleepandtmj.com/blue-light-and-sleep/)  
+   Link: <a href="https://www.encinosleepandtmj.com/blue-light-and-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://www.encinosleepandtmj.com/blue-light-and-sleep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you must use devices, enable night mode settings that reduce blue light, or wear blue-...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: hbr.org  
    Title: having your smartphone nearby takes a toll on your thinking  
-   Link: [https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)  
+   Link: <a href="https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Having Your Smartphone Nearby Takes a Toll on...20 Mar 2018 — Thus, merely having their smartphones out on the desk led to a small but s...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: kidshealth.org  
-   Link: [https://kidshealth.org/en/teens/blue-light.html](https://kidshealth.org/en/teens/blue-light.html)  
+   Link: <a href="https://kidshealth.org/en/teens/blue-light.html" target="_blank" rel="noopener noreferrer nofollow">https://kidshealth.org/en/teens/blue-light.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s best to shut off alerts when you go to sleep and keep devices that emit light out...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
    Title: Have you tried leaving your phone outside the bedroom?  
-   Link: [https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/](https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/)  
+   Link: <a href="https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I’ve been considering the idea of keeping your phone outside the bedroom to reduce screen time and improve sleep quality. For those who’v...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: myosh.com  
-   Link: [https://www.myosh.com/news/the-mere-presence-of-your-smartphone-reduces-brain-power](https://www.myosh.com/news/the-mere-presence-of-your-smartphone-reduces-brain-power)  
+   Link: <a href="https://www.myosh.com/news/the-mere-presence-of-your-smartphone-reduces-brain-power" target="_blank" rel="noopener noreferrer nofollow">https://www.myosh.com/news/the-mere-presence-of-your-smartphone-reduces-brain-power</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s whenever their smartphone is within reach — even if it&#x27;s turned off.Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: cyberpsychology.eu  
    Title: Journal of the Association for Consumer Research, 2(2), 140–154.Read more  
-   Link: [https://cyberpsychology.eu/article/view/40111](https://cyberpsychology.eu/article/view/40111)  
+   Link: <a href="https://cyberpsychology.eu/article/view/40111" target="_blank" rel="noopener noreferrer nofollow">https://cyberpsychology.eu/article/view/40111</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the mere presence of smartphones impact cognition...by DB le Roux · 2025 — Brain drain: The mere presence of one&#x27;s own smartphone r...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: hendrix.edu  
    Title: Presence Smartphone reduces cognitive capacity  
-   Link: [https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/Presence-Smartphone-reduces-cognitive-capacity.pdf](https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/Presence-Smartphone-reduces-cognitive-capacity.pdf)  
+   Link: <a href="https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/Presence-Smartphone-reduces-cognitive-capacity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/Presence-Smartphone-reduces-cognitive-capacity.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF WARD · 2017 · Cited by 1416 — In this research, we test the “brain drain”...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: thensf.org  
    Title: screen use disrupts precious sleep time  
-   Link: [https://www.thensf.org/screen-use-disrupts-precious-sleep-time/](https://www.thensf.org/screen-use-disrupts-precious-sleep-time/)  
+   Link: <a href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/screen-use-disrupts-precious-sleep-time/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2022 — Science has proven that blue light keeps you up at night. Cell phones, computers, tablets, and televisions emit blue light...</p></details>

@@ -891,32 +891,32 @@ When goals start rewarding the wrong thing, people often achieve exactly what th
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Goal setting  
-   Link: [https://en.wikipedia.org/wiki/Goal_setting](https://en.wikipedia.org/wiki/Goal_setting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Goal_setting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goal_setting</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Goodhart's law  
-   Link: [https://en.wikipedia.org/wiki/Goodhart%27s_law](https://en.wikipedia.org/wiki/Goodhart%27s_law)  
+   Link: <a href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goodhart%27s_law</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 94 — For example, goals can narrow the attentio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: hbs.edu  
-   Link: [https://www.hbs.edu/ris/Publication%20Files/09-083.pdf](https://www.hbs.edu/ris/Publication%20Files/09-083.pdf)  
+   Link: <a href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/09-083.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business SchoolGoals Gone Wild: The Systematic Side Effects of Over-...by LD Ordóñez · 2009 · Cited by 1157 — We identify specif...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: journals.aom.org  
-   Link: [https://journals.aom.org/doi/10.5465/AMP.2009.37007999](https://journals.aom.org/doi/10.5465/AMP.2009.37007999)  
+   Link: <a href="https://journals.aom.org/doi/10.5465/AMP.2009.37007999" target="_blank" rel="noopener noreferrer nofollow">https://journals.aom.org/doi/10.5465/AMP.2009.37007999</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academy of Management JournalsThe Systematic Side Effects of Overprescribing Goal Settingby LD Ordóñez · 2009 · Cited by 1157 — There are...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: daisychristodoulou.com  
    Title: Exactly the same has happened with the 5 A*-C including  
-   Link: [https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/](https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/)  
+   Link: <a href="https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/" target="_blank" rel="noopener noreferrer nofollow">https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daisy ChristodoulouExams and Goodhart&#x27;s Law - Daisy...November 16, 2013 — 16 Nov 2013 — Goodhart&#x27;s Law: when a measure becomes a target...</p></details>
    Published: November 16, 2013  
 
@@ -924,52 +924,52 @@ When goals start rewarding the wrong thing, people often achieve exactly what th
 
 7. <a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/leadership/team-performance-leadership-strategies/applying-goodhart-s-law-to-leadership-strategies/](https://www.linkedin.com/top-content/leadership/team-performance-leadership-strategies/applying-goodhart-s-law-to-leadership-strategies/)  
+   Link: <a href="https://www.linkedin.com/top-content/leadership/team-performance-leadership-strategies/applying-goodhart-s-law-to-leadership-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/leadership/team-performance-leadership-strategies/applying-goodhart-s-law-to-leadership-strategies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Goodhart&#x27;s Law to Leadership StrategiesQuestion incentive structure: Take time to review what behaviors your rewards and targets...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/](https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What does Godhart&#x27;s law mean?: r/explainlikeimfiveIt goes &quot;When a measure becomes a target, it ceases to be a good measure.&quot; How d...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory](https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting TheoryLocke and Latham argue that these problems are not an indictment of Goal-Setting Theory, but rather are a result of po...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a](https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a)  
+   Link: <a href="https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and the Death of Honest MetricsExample: public test scores become the target, teaching becomes test-prep, and the scores s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: changeassociates.com  
-   Link: [https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/](https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/)  
+   Link: <a href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow">https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law in change programmesHow Goodhart&#x27;s Law undermines change programmes when metrics become the goal. Plus practical ways to k...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: modelthinkers.com  
-   Link: [https://modelthinkers.com/mental-model/goodharts-law](https://modelthinkers.com/mental-model/goodharts-law)  
+   Link: <a href="https://modelthinkers.com/mental-model/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/goodharts-law</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s LawGoodhart&#x27;s Law is a reminder that measures that become targets will distort behaviours in generally undesirable ways as peo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/274694075_The_dark_side_of_goal_setting_The_role_of_goals_in_motivating_unethical_behavior](https://www.researchgate.net/publication/274694075_The_dark_side_of_goal_setting_The_role_of_goals_in_motivating_unethical_behavior)  
+   Link: <a href="https://www.researchgate.net/publication/274694075_The_dark_side_of_goal_setting_The_role_of_goals_in_motivating_unethical_behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274694075_The_dark_side_of_goal_setting_The_role_of_goals_in_motivating_unethical_behavior</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of goals in motivating unethical behaviorIn this article we explore the proposition that challenging goals motivate not only con...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: educationlibrary.org  
    Title: Effective goal systems balance ambition with learning, flexibility,  
-   Link: [https://educationlibrary.org/goal-setting-theory-how-clear-goals-drive-[motivation](https://educationlibrary.org/goal-setting-theory-how-clear-goals-drive-[motivation)  
+   Link: <a href="https://educationlibrary.org/goal-setting-theory-how-clear-goals-drive-[motivation" target="_blank" rel="noopener noreferrer nofollow">https://educationlibrary.org/goal-setting-theory-how-clear-goals-drive-[motivation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Setting Theory: How Clear Goals Drive Motivation and...Aggressive goals can encourage unethical behavior if incentives are poorly d...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: psychsafety.com  
    Title: goodharts law campbells law and the cobra effect  
-   Link: [https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/](https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/)  
+   Link: <a href="https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/" target="_blank" rel="noopener noreferrer nofollow">https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law, Campbell&#x27;s Law, and the Cobra Effect.19 Jul 2024 — Goodhart&#x27;s Law is “When a measure becomes a target, it ceases to be a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/readingnumeracyinterventions/posts/goodharts-lawwhen-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure-this/1204072788402988/](https://www.facebook.com/readingnumeracyinterventions/posts/goodharts-lawwhen-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure-this/1204072788402988/)  
+   Link: <a href="https://www.facebook.com/readingnumeracyinterventions/posts/goodharts-lawwhen-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure-this/1204072788402988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/readingnumeracyinterventions/posts/goodharts-lawwhen-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure-this/1204072788402988/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it ceases to be a good measure.” The moment schools focus on...Read more...</p></details>

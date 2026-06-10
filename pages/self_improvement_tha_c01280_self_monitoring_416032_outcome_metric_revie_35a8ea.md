@@ -309,13 +309,13 @@ The biggest mistake in outcome tracking is assuming every measurement reflects g
 
 ### Weight is not the same as fat loss
 
-Body weight can move substantially from one day to the next because of hydration, food volume, digestion, salt intake, hormonal changes and exercise-related fluid shifts. Studies of large populations show predictable weekly weight rhythms, with weight often rising after weekends and falling during the working week. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCWeight Rhythms: Weight Increases during Weekends and...by AL Orsama · 2014 · Cited by 83 — A pattern of daily weight changes was foun...</span></span></span>
+Body weight can move substantially from one day to the next because of hydration, food volume, digestion, salt intake, hormonal changes and exercise-related fluid shifts. Studies of large populations show predictable weekly weight rhythms, with weight often rising after weekends and falling during the working week. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Weight Rhythms: Weight Increases during Weekends and...by AL Orsama · 2014 · Cited by 83 — A pattern of daily weight changes was foun...</span></span></span>
 
 Even health organisations note that body weight can fluctuate by one or more kilograms within a day under normal conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgh.com.sg">[Singapore General Hospital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgh.com.sg</span><span class="citation-popover-title">how often should you weigh yourself</span><span class="citation-popover-snippet">Singapore General HospitalHow often should you weigh yourself?15 Feb 2023 — Body weight can fluctuate by 1 to 2kg during a single day...</span></span></span>
 
 This means that a single weigh-in often tells a story about yesterday's meals and water balance rather than long-term body composition. Trend lines and weekly averages are usually more informative than isolated readings. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamanetwork.com">[JAMA Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamanetwork.com</span><span class="citation-popover-snippet">Weekly, Seasonal, and Festive Period Weight Gain Among...by C Maher · 2023 · Cited by 12 — In this cohort study of 368 adults, weight fl...</span></span></span>
 
-Interestingly, research has found that frequent self-weighing can [support]({{ 'support/' | relative_url }}) weight management when it functions as information gathering rather than emotional judgement. The problem is not collecting the data; the problem is treating each measurement as a verdict on success or failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby DM Steinberg · 2015 · Cited by 149 — Weighing everyday led to greater adoption of weight control behaviors and produced greater wei...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFrequency of Self-Weighing and Weight Change</span><span class="citation-popover-snippet">of Self-Weighing and Weight Change - PMC - NIHby AL Vuorinen · 2021 · Cited by 26 — Frequent self-weighing is associated with successful...</span></span></span>
+Interestingly, research has found that frequent self-weighing can [support]({{ 'support/' | relative_url }}) weight management when it functions as information gathering rather than emotional judgement. The problem is not collecting the data; the problem is treating each measurement as a verdict on success or failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DM Steinberg · 2015 · Cited by 149 — Weighing everyday led to greater adoption of weight control behaviors and produced greater wei...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFrequency of Self-Weighing and Weight Change</span><span class="citation-popover-snippet">of Self-Weighing and Weight Change - PMC - NIHby AL Vuorinen · 2021 · Cited by 26 — Frequent self-weighing is associated with successful...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MHj9R9u5a8Y" title="Best Wearables for Sleep: Scientific Rankings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MHj9R9u5a8Y" target="_blank" rel="noopener noreferrer">Best Wearables for Sleep: Scientific Rankings</a></p><p class="youtube-embed-meta">Channel: The Quantified Scientist &middot; Views: 116.2K &middot; Uploaded: October 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MHj9R9u5a8Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MHj9R9u5a8Y">Open on YouTube</a></p></div></div></div>
@@ -345,10 +345,15 @@ Consider someone trying to improve sleep.
 
 A daily dashboard might include:
 
+
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
 * Bedtime consistency.
-* [Phone out of]({{ 'phone-distance/' | relative_url }}) the bedroom.
+* Phone out of the bedroom.
 * Caffeine cut-off time.
 * Morning light exposure.
+
+</div>
 
 The outcome metric might be:
 
@@ -764,109 +769,109 @@ The difference is not the metric itself. It is the rhythm of review. A daily das
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCWeight Rhythms: Weight Increases during Weekends and...by AL Orsama · 2014 · Cited by 83 — A pattern of daily weight changes was foun...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weight Rhythms: Weight Increases during Weekends and...by AL Orsama · 2014 · Cited by 83 — A pattern of daily weight changes was foun...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby DM Steinberg · 2015 · Cited by 149 — Weighing everyday led to greater adoption of weight control behaviors and produced greater wei...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Steinberg · 2015 · Cited by 149 — Weighing everyday led to greater adoption of weight control behaviors and produced greater wei...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFrequency of Self-Weighing and Weight Change  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Self-Weighing and Weight Change - PMC - NIHby AL Vuorinen · 2021 · Cited by 26 — Frequent self-weighing is associated with successful...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEffect of wearables on sleep in healthy individuals  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although some have shown unacceptably high variability...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/best-sleep-trackers](https://www.wired.com/story/best-sleep-trackers)  
+   Link: <a href="https://www.wired.com/story/best-sleep-trackers" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/best-sleep-trackers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It reviews and compares various types of sleep trackers—smart rings, wristbands, and mattress covers—focusing on accuracy, comfort, app u...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: jamanetwork.com  
-   Link: [https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660)  
+   Link: <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weekly, Seasonal, and Festive Period Weight Gain Among...by C Maher · 2023 · Cited by 12 — In this cohort study of 368 adults, weight fl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sgh.com.sg  
    Title: how often should you weigh yourself  
-   Link: [https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself](https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself)  
+   Link: <a href="https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself" target="_blank" rel="noopener noreferrer nofollow">https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singapore General HospitalHow often should you weigh yourself?15 Feb 2023 — Body weight can fluctuate by 1 to 2kg during a single day...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep](https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Individuals like Annie use wearables such as smartwatches and rings to monitor sleep quality, guiding lifestyle decisions including daily...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: psychiatry.ucsd.edu  
    Title: goal progress  
-   Link: [https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html](https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html)  
+   Link: <a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress MonitoringTracking task and progress toward mission accomplishment, interpreting system information in terms of what needs to be...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: clinicaltrials.gov  
-   Link: [https://clinicaltrials.gov/study/NCT01369004](https://clinicaltrials.gov/study/NCT01369004)  
+   Link: <a href="https://clinicaltrials.gov/study/NCT01369004" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT01369004</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The WEIGH Study: Weighing to Improve and Gain HealthThe objective of the WEIGH Study (Weighing to Improve and Gain Health) is to test the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: catalystfitnessflorida.com  
-   Link: [https://catalystfitnessflorida.com/why-its-important-to-focus-on-your-weekly-weight-average-instead-of-daily-fluctuations/](https://catalystfitnessflorida.com/why-its-important-to-focus-on-your-weekly-weight-average-instead-of-daily-fluctuations/)  
+   Link: <a href="https://catalystfitnessflorida.com/why-its-important-to-focus-on-your-weekly-weight-average-instead-of-daily-fluctuations/" target="_blank" rel="noopener noreferrer nofollow">https://catalystfitnessflorida.com/why-its-important-to-focus-on-your-weekly-weight-average-instead-of-daily-fluctuations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Weight: Why Weekly Averages MatterWhen you calculate your weekly weight average, you smooth out the daily highs and lows, giving...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: labfront.com  
-   Link: [https://www.labfront.com/course-video/how-consumer-wearables-measure-sleep-quality](https://www.labfront.com/course-video/how-consumer-wearables-measure-sleep-quality)  
+   Link: <a href="https://www.labfront.com/course-video/how-consumer-wearables-measure-sleep-quality" target="_blank" rel="noopener noreferrer nofollow">https://www.labfront.com/course-video/how-consumer-wearables-measure-sleep-quality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep 5.1 How Consumer Wearables Measure Sleep QualityWe cover the physiological measures used by consumer wearables like Apple Watch, Ga...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: t3.com  
-   Link: [https://www.t3.com/active/fitness-trackers/why-your-smartwatch-thinks-you-slept-badly](https://www.t3.com/active/fitness-trackers/why-your-smartwatch-thinks-you-slept-badly)  
+   Link: <a href="https://www.t3.com/active/fitness-trackers/why-your-smartwatch-thinks-you-slept-badly" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/fitness-trackers/why-your-smartwatch-thinks-you-slept-badly</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartwatches, such as the Apple Watch and Samsung Galaxy Watch, use motion sensors and optical heart rate data to estimate sleep quality...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: healthline.com  
-   Link: [https://www.healthline.com/health/weight-fluctuation](https://www.healthline.com/health/weight-fluctuation)  
+   Link: <a href="https://www.healthline.com/health/weight-fluctuation" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/weight-fluctuation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The average adult&#x27;s weight fluctuates up to 5 or 6 pounds per day. It all comes down to what and when you eat and drink.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf](https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: blog.nasm.org  
    Title: research in review will weighing in every day improve weight control behaviors  
-   Link: [https://blog.nasm.org/fitness/research-in-review-will-weighing-in-every-day-improve-weight-control-behaviors](https://blog.nasm.org/fitness/research-in-review-will-weighing-in-every-day-improve-weight-control-behaviors)  
+   Link: <a href="https://blog.nasm.org/fitness/research-in-review-will-weighing-in-every-day-improve-weight-control-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://blog.nasm.org/fitness/research-in-review-will-weighing-in-every-day-improve-weight-control-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Everyday Weight Control...Results: Overall compliance of self-weighing was high: 51% weighed ever day; 76% weighed more than or equal to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MHj9R9u5a8Y](https://www.youtube.com/watch?v=MHj9R9u5a8Y)  
+   Link: <a href="https://www.youtube.com/watch?v=MHj9R9u5a8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MHj9R9u5a8Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Wearables for Sleep: Scientific RankingsWe will see which devices are good at tracking your deep sleep RAM sleep and light sleep and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/91437/](https://eprints.whiterose.ac.uk/id/eprint/91437/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ovid.com  
-   Link: [https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a](https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a)  
+   Link: <a href="https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Monitoring Goal Progress Promote Goal...by B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goa...</p></details>

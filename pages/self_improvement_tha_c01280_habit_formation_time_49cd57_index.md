@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-habit/
 description: Focused pages that expand on The Idea That A Habit Forms In 21 Days.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_habit_formation_time_49cd57
 parent_title: The Idea That A Habit Forms In 21 Days | Self Improvement That Works

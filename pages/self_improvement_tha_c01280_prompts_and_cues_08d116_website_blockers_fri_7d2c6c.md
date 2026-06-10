@@ -293,7 +293,7 @@ A website blocker works by introducing a pause into this process. That pause may
 
 The key mechanism is not punishment. It is interruption. Habitual behaviour often depends on rapid cue-response chains. Seeing the icon leads to tapping; tapping leads to scrolling. Friction inserts an extra step between cue and action, increasing the likelihood that the person notices what they are doing and decides whether to continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/352466233_Unhooked_by_Design_Scrolling_Mindfully_on_Social_Media_by_Automating_Digital_Nudges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Unhooked by Design: Scrolling Mindfully on Social</span><span class="citation-popover-snippet">ResearchGate(PDF) Unhooked by Design: Scrolling Mindfully on Social...August 9, 2021 — 16 Jun 2021 — This paper presents the design and...</span><span class="citation-popover-meta">Published: August 9, 2021</span></span></span>
 
-This distinction helps explain why even small delays can matter. Some digital wellbeing tools deliberately delay access rather than fully blocking it, on the theory that a brief interruption is enough to break automatic behaviour while preserving user choice. Studies and field evaluations of such approaches suggest that making access slightly more effortful can reduce habitual use substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Storeone sec | screen time + focus</span><span class="citation-popover-snippet">App Store - AppleWillpower is not enough against social media algorithms! That&#x27;s why I made one sec: one sec adds friction to distracting...</span></span></span>
+This distinction helps explain why even small delays can matter. Some digital wellbeing tools deliberately delay access rather than fully blocking it, on the theory that a brief interruption is enough to break automatic behaviour while preserving user choice. Studies and field evaluations of such approaches suggest that making access slightly more effortful can reduce habitual use substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Storeone sec &#124; screen time + focus</span><span class="citation-popover-snippet">App Store - AppleWillpower is not enough against social media algorithms! That&#x27;s why I made one sec: one sec adds friction to distracting...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7jVb1lLniEw" title="how I reduced my screentime by 80% (guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7jVb1lLniEw" target="_blank" rel="noopener noreferrer">how I reduced my screentime by 80% (guide)</a></p><p class="youtube-embed-meta">Channel: Reysu &middot; Views: 2.6M &middot; Uploaded: June 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7jVb1lLniEw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7jVb1lLniEw">Open on YouTube</a></p></div></div></div>
@@ -323,7 +323,7 @@ However, reminders still require the user to resist the attraction of the feed. 
 
 Feed removal and blocking take a stronger approach. Instead of asking users to remember their intention, they reduce exposure to the cue itself. This matters because visible feeds often trigger behaviour before conscious deliberation begins. A blocked homepage, disabled recommendation feed, or inaccessible social platform removes part of the stimulus that initiates scrolling.
 
-Interestingly, user reviews of digital self-control tools suggest that people often prefer combinations of interventions rather than a single approach. Tools that combine blocking with goal reminders, timers, or reflection prompts tend to receive stronger evaluations than tools relying on one mechanism alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 48 — We analyse ratings &amp; revie...</span></span></span>
+Interestingly, user reviews of digital self-control tools suggest that people often prefer combinations of interventions rather than a single approach. Tools that combine blocking with goal reminders, timers, or reflection prompts tend to receive stronger evaluations than tools relying on one mechanism alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 48 — We analyse ratings &amp; revie...</span></span></span>
 
 The practical implication is that friction and reminders are complements rather than competitors. A reminder helps people remember why they care; a blocker helps them act on that memory when temptation appears.
 
@@ -333,7 +333,7 @@ The practical implication is that friction and reminders are complements rather 
 
 Not all blockers create the same amount of friction.
 
-Some can be disabled in seconds. Others require waiting periods, passwords, or scheduled sessions that are difficult to override. Research and user reports consistently suggest that effectiveness depends partly on whether the intervention survives moments of craving. If bypassing the block is easier than resisting the distraction, the blocker contributes little. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/getdisciplined/comments/1pbbqs0/after_failing_with_lot_of_blocking_apps_i_built/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAfter failing with lot of blocking apps, I built one based on...Quick recap of why most blockers failed me: Freedom, Cold Turkey...</span></span></span>
+Some can be disabled in seconds. Others require waiting periods, passwords, or scheduled sessions that are difficult to override. Research and user reports consistently suggest that effectiveness depends partly on whether the intervention survives moments of craving. If bypassing the block is easier than resisting the distraction, the blocker contributes little. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/getdisciplined/comments/1pbbqs0/after_failing_with_lot_of_blocking_apps_i_built/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">After failing with lot of blocking apps, I built one based on...Quick recap of why most blockers failed me: Freedom, Cold Turkey...</span></span></span>
 
 Several design choices tend to increase effectiveness:
 
@@ -347,7 +347,7 @@ Several design choices tend to increase effectiveness:
 
 </div>
 
-Research on digital self-control technologies also suggests that users often seek what has been described as the “Goldilocks” level of support: enough friction to change behaviour, but not so much that the tool feels oppressive or impossible to live with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 48 — We analyse ratings &amp; revie...</span></span></span>
+Research on digital self-control technologies also suggests that users often seek what has been described as the “Goldilocks” level of support: enough friction to change behaviour, but not so much that the tool feels oppressive or impossible to live with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 48 — We analyse ratings &amp; revie...</span></span></span>
 
 This balance is important because excessive restriction can create unintended effects.
 
@@ -356,13 +356,13 @@ This balance is important because excessive restriction can create unintended ef
 
 ## What Blockers Cannot Solve Alone
 
-Website blockers are powerful [environmental cues]({{ 'cues-195d40/' | relative_url }}), but they are not complete solutions.
+Website blockers are powerful environmental cues, but they are not complete solutions.
 
 A blocker can prevent access to a site. It cannot automatically answer why the urge to scroll appeared. Boredom, loneliness, stress, procrastination, and habit all create demand for distraction. If those underlying conditions remain unchanged, people may simply migrate to another app, another website, or another form of avoidance.
 
-Evidence from digital wellbeing research reflects this limitation. Some studies find benefits from blocking and restriction tools, while others note mixed results, user [abandonment]({{ 'abandonment/' | relative_url }}), or adaptation over time. People frequently learn workarounds, disable interventions, or become accustomed to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEvaluating the Effectiveness of Apps Designed to Reduce...by FI Rahmillah · 2023 · Cited by 30 — This paper investigated existing app...</span></span></span> 2arXiv
+Evidence from digital wellbeing research reflects this limitation. Some studies find benefits from blocking and restriction tools, while others note mixed results, user [abandonment]({{ 'abandonment/' | relative_url }}), or adaptation over time. People frequently learn workarounds, disable interventions, or become accustomed to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluating the Effectiveness of Apps Designed to Reduce...by FI Rahmillah · 2023 · Cited by 30 — This paper investigated existing app...</span></span></span> 2arXiv
 
-There is also emerging evidence that stronger control is not always better. A recent experiment examining social media blocking found that partial restrictions sometimes improved outcomes more effectively than total restriction, suggesting that moderate friction may outperform all-or-nothing approaches in certain contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubsonline.informs.org/doi/10.1287/isre.2023.0493" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubsonline.informs.org">[PubsOnline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubsonline.informs.org</span><span class="citation-popover-snippet">PubsOnlineLess Is Not Always More: The Impact of Social Media Block...4 days ago — We conducted a four-week randomized experiment using...</span></span></span>
+There is also emerging evidence that stronger control is not always better. A recent experiment examining social media blocking found that partial restrictions sometimes improved outcomes more effectively than total restriction, suggesting that moderate friction may outperform all-or-nothing approaches in certain contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubsonline.informs.org/doi/10.1287/isre.2023.0493" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubsonline.informs.org">[PubsOnline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubsonline.informs.org</span><span class="citation-popover-snippet">Less Is Not Always More: The Impact of Social Media Block...4 days ago — We conducted a four-week randomized experiment using...</span></span></span>
 
 The lesson is that blockers work best as implementation tools rather than cures. They are most effective when paired with alternative behaviours. Blocking social media during an evening reading session works better when a book is already available. Blocking news sites during work hours works better when a clear task is waiting.
 
@@ -792,156 +792,156 @@ In this sense, the blocker's role is modest but important. It does not create mo
 
 1. <a id="endnote-1"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3571810](https://dl.acm.org/doi/10.1145/3571810)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3571810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryA Systematic Review and Meta-analysisThis article presents a systematic review and a meta-analysis of current work on...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1902.00157](https://arxiv.org/abs/1902.00157)  
+   Link: <a href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.00157</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2501.11814v2](https://arxiv.org/html/2501.11814v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivScrolling in the Deep: Analysing Contextual Influences on...24 Jan 2025 — Interventions to mitigate infinite scrolling have shown i...</p></details>
+   Link: <a href="https://arxiv.org/html/2501.11814v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.11814v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scrolling in the Deep: Analysing Contextual Influences on...24 Jan 2025 — Interventions to mitigate infinite scrolling have shown i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2407.18803v3](https://arxiv.org/html/2407.18803v3)  
+   Link: <a href="https://arxiv.org/html/2407.18803v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.18803v3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balancing Reduced Mindless Scrolling and User Satisfaction27 Nov 2024 — This paper investigates how adding design frictions into the inte...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Unhooked by Design: Scrolling Mindfully on Social  
-   Link: [https://www.researchgate.net/publication/352466233_Unhooked_by_Design_Scrolling_Mindfully_on_Social_Media_by_Automating_Digital_Nudges](https://www.researchgate.net/publication/352466233_Unhooked_by_Design_Scrolling_Mindfully_on_Social_Media_by_Automating_Digital_Nudges)  
+   Link: <a href="https://www.researchgate.net/publication/352466233_Unhooked_by_Design_Scrolling_Mindfully_on_Social_Media_by_Automating_Digital_Nudges" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352466233_Unhooked_by_Design_Scrolling_Mindfully_on_Social_Media_by_Automating_Digital_Nudges</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Unhooked by Design: Scrolling Mindfully on Social...August 9, 2021 — 16 Jun 2021 — This paper presents the design and...</p></details>
    Published: August 9, 2021  
 
 6. <a id="endnote-6"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A1980816/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A1980816/FULLTEXT01.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1980816/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1980816/FULLTEXT01.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIVA PortalDigital Nudges for Reducing Social Media Screen TimeMay 26, 2025 — by N Fedáková · 2025 — The study suggests that nudges can s...</p></details>
    Published: May 26, 2025  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1071581922000957](https://www.sciencedirect.com/science/article/pii/S1071581922000957)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 48 — We analyse ratings &amp; revie...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581922000957</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 48 — We analyse ratings &amp; revie...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0160791X21002530](https://www.sciencedirect.com/science/article/pii/S0160791X21002530)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0160791X21002530" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0160791X21002530</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 95 — In this paper, we examine the quality of the emerging fam...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/getdisciplined/comments/1pbbqs0/after_failing_with_lot_of_blocking_apps_i_built/](https://www.reddit.com/r/getdisciplined/comments/1pbbqs0/after_failing_with_lot_of_blocking_apps_i_built/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAfter failing with lot of blocking apps, I built one based on...Quick recap of why most blockers failed me: Freedom, Cold Turkey...</p></details>
+   Link: <a href="https://www.reddit.com/r/getdisciplined/comments/1pbbqs0/after_failing_with_lot_of_blocking_apps_i_built/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/getdisciplined/comments/1pbbqs0/after_failing_with_lot_of_blocking_apps_i_built/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>After failing with lot of blocking apps, I built one based on...Quick recap of why most blockers failed me: Freedom, Cold Turkey...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEvaluating the Effectiveness of Apps Designed to Reduce...by FI Rahmillah · 2023 · Cited by 30 — This paper investigated existing app...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Effectiveness of Apps Designed to Reduce...by FI Rahmillah · 2023 · Cited by 30 — This paper investigated existing app...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353982867_REGULATING_APPLICATIONS_MEDIA_DISTRACTED_BEHAVIOR_NOT_CLEARLY_THE_ANSWER_TO_A_QUESTIONABLE_PROBLEM](https://www.researchgate.net/publication/353982867_REGULATING_APPLICATIONS_MEDIA_DISTRACTED_BEHAVIOR_NOT_CLEARLY_THE_ANSWER_TO_A_QUESTIONABLE_PROBLEM)  
+   Link: <a href="https://www.researchgate.net/publication/353982867_REGULATING_APPLICATIONS_MEDIA_DISTRACTED_BEHAVIOR_NOT_CLEARLY_THE_ANSWER_TO_A_QUESTIONABLE_PROBLEM" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353982867_REGULATING_APPLICATIONS_MEDIA_DISTRACTED_BEHAVIOR_NOT_CLEARLY_THE_ANSWER_TO_A_QUESTIONABLE_PROBLEM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>regulating applications &amp; media distracted behaviorTo test whether or not different regulating applications “work” as purported, this stu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/355248527_Digital_wellbeing_tools_through_users_lens](https://www.researchgate.net/publication/355248527_Digital_wellbeing_tools_through_users_lens)  
+   Link: <a href="https://www.researchgate.net/publication/355248527_Digital_wellbeing_tools_through_users_lens" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355248527_Digital_wellbeing_tools_through_users_lens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital wellbeing tools through users lensIn this paper, we examine the quality of the emerging family of digital wellbeing smartph...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S088259632600134X](https://www.sciencedirect.com/science/article/pii/S088259632600134X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S088259632600134X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S088259632600134X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>•. Non-immersive VR best for self-reported pain; fully immersive for behavioral pain.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3711841](https://dl.acm.org/doi/10.1145/3711841)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3711841" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3711841</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mode: Reducing Distraction through Toggling...We show that Purpose Mode significantly reduces perceived distraction and supports users i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: apps.apple.com  
    Title: App Storeone sec | screen time + focus  
-   Link: [https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441](https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441)  
+   Link: <a href="https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>App Store - AppleWillpower is not enough against social media algorithms! That&#x27;s why I made one sec: one sec adds friction to distracting...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubsonline.informs.org  
-   Link: [https://pubsonline.informs.org/doi/10.1287/isre.2023.0493](https://pubsonline.informs.org/doi/10.1287/isre.2023.0493)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubsOnlineLess Is Not Always More: The Impact of Social Media Block...4 days ago — We conducted a four-week randomized experiment using...</p></details>
+   Link: <a href="https://pubsonline.informs.org/doi/10.1287/isre.2023.0493" target="_blank" rel="noopener noreferrer nofollow">https://pubsonline.informs.org/doi/10.1287/isre.2023.0493</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Less Is Not Always More: The Impact of Social Media Block...4 days ago — We conducted a four-week randomized experiment using...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: one-sec.app  
-   Link: [https://one-sec.app/](https://one-sec.app/)  
+   Link: <a href="https://one-sec.app/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cut your screen time in half | one secWhether you want to limit your social media use, stay away from YouTube, or stop doomscrolling news...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: freedom.to  
-   Link: [https://freedom.to/](https://freedom.to/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom | Block Websites, Apps, and the InternetThis landmark study used Freedom for a 14-day detox. Participants were able to reverse 10...</p></details>
+   Link: <a href="https://freedom.to/" target="_blank" rel="noopener noreferrer nofollow">https://freedom.to/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Block Websites, Apps, and the InternetThis landmark study used Freedom for a 14-day detox. Participants were able to reverse 10...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: getcoldturkey.com  
    Title: Cold Turkey  
-   Link: [https://getcoldturkey.com/](https://getcoldturkey.com/)  
+   Link: <a href="https://getcoldturkey.com/" target="_blank" rel="noopener noreferrer nofollow">https://getcoldturkey.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Block distractions like social media, games, apps, Youtube or even the entire Internet...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: ijert.org  
-   Link: [https://www.ijert.org/zenlock-a-rule-based-mobile-application-for-social-media-addiction-control-with-automatic-news-updates-ijertv15is040172](https://www.ijert.org/zenlock-a-rule-based-mobile-application-for-social-media-addiction-control-with-automatic-news-updates-ijertv15is040172)  
+   Link: <a href="https://www.ijert.org/zenlock-a-rule-based-mobile-application-for-social-media-addiction-control-with-automatic-news-updates-ijertv15is040172" target="_blank" rel="noopener noreferrer nofollow">https://www.ijert.org/zenlock-a-rule-based-mobile-application-for-social-media-addiction-control-with-automatic-news-updates-ijertv15is040172</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Zenlock – A Rule Based Mobile Application for Social...6 Apr 2026 — Most digital wellbeing tools only track usage and show screen time...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: gatlenculp.medium.com  
-   Link: [https://gatlenculp.medium.com/breaking-free-from-digital-binges-a-practical-guide-to-cold-turkey-blocker-288b775d2c1d](https://gatlenculp.medium.com/breaking-free-from-digital-binges-a-practical-guide-to-cold-turkey-blocker-288b775d2c1d)  
+   Link: <a href="https://gatlenculp.medium.com/breaking-free-from-digital-binges-a-practical-guide-to-cold-turkey-blocker-288b775d2c1d" target="_blank" rel="noopener noreferrer nofollow">https://gatlenculp.medium.com/breaking-free-from-digital-binges-a-practical-guide-to-cold-turkey-blocker-288b775d2c1d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Control of Your Time w/ Cold Turkey App &amp; Website...After years of struggling with digital distractions and work-life boundaries, I&#x27;ve c...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: uu.nl  
    Title: Universiteit Utrecht Triggering goals to guide healthy social media use  
-   Link: [https://www.uu.nl/en/research/goallab/scroll-to-goal-triggering-goals-to-guide-healthy-social-media-use](https://www.uu.nl/en/research/goallab/scroll-to-goal-triggering-goals-to-guide-healthy-social-media-use)  
+   Link: <a href="https://www.uu.nl/en/research/goallab/scroll-to-goal-triggering-goals-to-guide-healthy-social-media-use" target="_blank" rel="noopener noreferrer nofollow">https://www.uu.nl/en/research/goallab/scroll-to-goal-triggering-goals-to-guide-healthy-social-media-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universiteit UtrechtTriggering goals to guide healthy social media use - GoallabThe studies will examine the relationship between goal pr...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: techcrunch.com  
    Title: the best distraction blockers to jumpstart your focus in the new year  
-   Link: [https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/](https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/)  
+   Link: <a href="https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The best distraction blockers to jump-start your focus in...Dec 25, 2025 — Cold Turkey&#x27;s basic features are free, but you can unlock sch...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: flashstart.com  
-   Link: [https://flashstart.com/best-software-to-block-websites-the-best-apps-to-avoid-getting-distracted-at-work/](https://flashstart.com/best-software-to-block-websites-the-best-apps-to-avoid-getting-distracted-at-work/)  
+   Link: <a href="https://flashstart.com/best-software-to-block-websites-the-best-apps-to-avoid-getting-distracted-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://flashstart.com/best-software-to-block-websites-the-best-apps-to-avoid-getting-distracted-at-work/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>work · 3.1 LeechBlock NG · 3.2 Freedom · 3.3 Serene · 3.4 Cold Turkey Blocker · 3.5...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bi.team  
-   Link: [https://www.bi.team/wp-content/uploads/2020/11/BIT-2018-Can-behavioural-insights-be-used-to-reduce-risky-play-in-online-environments.pdf](https://www.bi.team/wp-content/uploads/2020/11/BIT-2018-Can-behavioural-insights-be-used-to-reduce-risky-play-in-online-environments.pdf)  
+   Link: <a href="https://www.bi.team/wp-content/uploads/2020/11/BIT-2018-Can-behavioural-insights-be-used-to-reduce-risky-play-in-online-environments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2020/11/BIT-2018-Can-behavioural-insights-be-used-to-reduce-risky-play-in-online-environments.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t just 1.2% of online gamblers make use of limit-setting responsible gambling tools...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: mediashift.org  
    Title: got productivity groove back internet restriction apps  
-   Link: [https://mediashift.org/2017/03/got-productivity-groove-back-internet-restriction-apps/](https://mediashift.org/2017/03/got-productivity-groove-back-internet-restriction-apps/)  
+   Link: <a href="https://mediashift.org/2017/03/got-productivity-groove-back-internet-restriction-apps/" target="_blank" rel="noopener noreferrer nofollow">https://mediashift.org/2017/03/got-productivity-groove-back-internet-restriction-apps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How I Got My Productivity Groove Back With Internet...Mar 23, 2017 — Freedom is a comprehensive Internet, website and app blocker that a...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: lifetips.alibaba.com  
    Title: freedom vs cold turkey best app for writing sprints  
-   Link: [https://lifetips.alibaba.com/tech-efficiency/freedom-vs-cold-turkey-best-app-for-writing-sprints](https://lifetips.alibaba.com/tech-efficiency/freedom-vs-cold-turkey-best-app-for-writing-sprints)  
+   Link: <a href="https://lifetips.alibaba.com/tech-efficiency/freedom-vs-cold-turkey-best-app-for-writing-sprints" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/freedom-vs-cold-turkey-best-app-for-writing-sprints</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vs Cold Turkey: Best App for Writing Sprints - LifeTipsFeb 7, 2026 — For uninterrupted writing sprints, **Cold Turkey Blocker is objectiv...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: chrisbailey.com  
    Title: Chris Bailey Do distraction blockers really work?  
-   Link: [https://chrisbailey.com/do-distraction-blockers-really-work/](https://chrisbailey.com/do-distraction-blockers-really-work/)  
+   Link: <a href="https://chrisbailey.com/do-distraction-blockers-really-work/" target="_blank" rel="noopener noreferrer nofollow">https://chrisbailey.com/do-distraction-blockers-really-work/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research suggests...Sep 1, 2022 — If you have high levels of self-control, a distraction blocker may cause stress and lead you to take f...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: lifetips.alibaba.com  
-   Link: [https://lifetips.alibaba.com/tech-efficiency/digital-detox-apps-that-actually-work-in](https://lifetips.alibaba.com/tech-efficiency/digital-detox-apps-that-actually-work-in)  
+   Link: <a href="https://lifetips.alibaba.com/tech-efficiency/digital-detox-apps-that-actually-work-in" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/digital-detox-apps-that-actually-work-in</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detox Apps That Actually Work in 2024 - LifeTipsJan 8, 2026 — Apps like Freedom and Offtime succeed by operating silently in the backgrou...</p></details>

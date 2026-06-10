@@ -278,7 +278,7 @@ Many self-improvement goals are too complex to become fully automatic. Writing a
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-1-dark.svg" | relative_url }}" alt="Start Cue illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Habit researchers increasingly distinguish between **habitual instigation**—automatically beginning a behaviour when a cue appears—and **habitual execution**—performing the behaviour itself automatically. Evidence suggests that for many [complex behaviours]({{ 'complex-goals/' | relative_url }}), the key habit is not the whole routine but the moment of initiation. A stable cue can reliably launch a difficult activity even when the activity itself still requires effort, attention and skill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHabit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedDefinition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</span></span></span>
+Habit researchers increasingly distinguish between **habitual instigation**—automatically beginning a behaviour when a cue appears—and **habitual execution**—performing the behaviour itself automatically. Evidence suggests that for many complex behaviours, the key habit is not the whole routine but the moment of initiation. A stable cue can reliably launch a difficult activity even when the activity itself still requires effort, attention and skill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Definition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</span></span></span>
 
 This is why many effective self-improvement systems focus on creating a dependable entry point. The goal is not to automate excellence. The goal is to automate the first step that makes excellence possible.
 
@@ -286,9 +286,9 @@ This is why many effective self-improvement systems focus on creating a dependab
 
 A common misunderstanding is that habits only apply to simple actions such as brushing teeth or locking a door. That view struggles to explain why people can maintain demanding routines that still require concentration.
 
-Research on habit and behavioural complexity offers a useful distinction. Habitual instigation refers to the automatic triggering of an action episode: beginning a run, opening a writing document, sitting down to meditate or starting a difficult conversation. Habitual execution refers to carrying out the detailed actions within that episode. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHabit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://doaj.org/article/db83a09493274ca292a497f71922ed61" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doaj.org">[Directory of Open Access Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doaj.org</span><span class="citation-popover-snippet">Directory of Open Access JournalsHabit and behavioural complexity: habitual instigation and...Theory predicts that frequency should be d...</span></span></span>
+Research on habit and behavioural complexity offers a useful distinction. Habitual instigation refers to the automatic triggering of an action episode: beginning a run, opening a writing document, sitting down to meditate or starting a difficult conversation. Habitual execution refers to carrying out the detailed actions within that episode. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://doaj.org/article/db83a09493274ca292a497f71922ed61" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doaj.org">[Directory of Open Access Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doaj.org</span><span class="citation-popover-snippet">Directory of Open Access JournalsHabit and behavioural complexity: habitual instigation and...Theory predicts that frequency should be d...</span></span></span>
 
-For complex behaviours, instigation appears to matter more. Studies examining behaviours of different complexity levels found that behaviour [frequency]({{ 'frequency/' | relative_url }}) was primarily associated with habitual instigation rather than habitual execution. In other words, people who automatically started a behaviour tended to perform it more consistently, even when the behaviour itself remained demanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHabit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedDefinition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</span></span></span>
+For complex behaviours, instigation appears to matter more. Studies examining behaviours of different complexity levels found that behaviour [frequency]({{ 'frequency/' | relative_url }}) was primarily associated with habitual instigation rather than habitual execution. In other words, people who automatically started a behaviour tended to perform it more consistently, even when the behaviour itself remained demanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Definition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</span></span></span>
 
 This helps explain an everyday observation. Many experienced writers still face uncertainty once they begin writing. Many long-term exercisers still find some workouts difficult. What has become automatic is not necessarily the entire performance. What has become automatic is crossing the threshold from not doing to doing.
 
@@ -304,10 +304,10 @@ A doorway action reduces this burden. It is a deliberately small action linked t
 
 Examples include:
 
-* Opening the manuscript immediately after [morning coffee]({{ 'coffee-cue/' | relative_url }}).
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* Opening the manuscript immediately after morning coffee.
 * Putting on running shoes after arriving home from work.
 * Opening revision notes after sitting at a study desk.
 * Taking three slow breaths before replying to a difficult message.
@@ -319,7 +319,7 @@ The doorway action succeeds because it is concrete, repeatable and cue-linked. T
 Importantly, the doorway action is not a motivational trick. It is a structural solution to initiation friction.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cfAQ8oJIGoA" title="BJ Fogg: Starter Kata for Behavior Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cfAQ8oJIGoA" target="_blank" rel="noopener noreferrer">BJ Fogg: Starter Kata for Behavior Change</a></p><p class="youtube-embed-meta">Channel: Mike Rother &middot; Views: 15.0K &middot; Uploaded: November 2014 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cfAQ8oJIGoA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cfAQ8oJIGoA">Open on YouTube</a></p></div></div></div>
 
 ## Building a Reliable Start Cue
 
@@ -386,7 +386,7 @@ Research by Peter Gollwitzer and others suggests that implementation intentions 
 The practical lesson is simple: do not merely decide what you want to achieve. Decide what you will do when a particular cue arrives.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cfAQ8oJIGoA" title="BJ Fogg: Starter Kata for Behavior Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cfAQ8oJIGoA" target="_blank" rel="noopener noreferrer">BJ Fogg: Starter Kata for Behavior Change</a></p><p class="youtube-embed-meta">Channel: Mike Rother &middot; Views: 15.0K &middot; Uploaded: November 2014 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cfAQ8oJIGoA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cfAQ8oJIGoA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
 
 ## Doorway Actions for Exercise, Writing and Calmer Replies
 
@@ -457,7 +457,7 @@ For difficult goals, the most valuable habit is often not the behaviour people a
 
 Complex routines usually remain partly effortful. Exercise still requires exertion. Writing still requires thinking. Emotional regulation still requires judgement. Yet when the beginning becomes linked to a dependable cue, less energy is spent deciding whether to start.
 
-That shift is small but powerful. Self-improvement becomes less about repeatedly generating motivation and more about repeatedly responding to the same cue. Over time, the start itself begins to happen with less deliberation, creating a reliable bridge from intention to action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHabit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedDefinition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</span></span></span>
+That shift is small but powerful. Self-improvement becomes less about repeatedly generating motivation and more about repeatedly responding to the same cue. Over time, the start itself begins to happen with less deliberation, creating a reliable bridge from intention to action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Definition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -880,132 +880,132 @@ That shift is small but powerful. Self-improvement becomes less about repeatedly
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S266651822200016X](https://www.sciencedirect.com/science/article/pii/S266651822200016X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHabit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S266651822200016X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cues can take several forms; they can be internal (e.g....Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They not only [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) memory but may also help to make the new...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — To form an implementation intention, the person must first identify a response...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInstant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (stra...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (stra...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602](https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 351 — This review highlights emerging findings and new directions in research on...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356](https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A field-experiment on the power of implementation intentionsby RW Holland · 2006 · Cited by 483 — The present study aimed to provide the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26991427/](https://pubmed.ncbi.nlm.nih.gov/26991427/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedDefinition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26991427/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: doaj.org  
-   Link: [https://doaj.org/article/db83a09493274ca292a497f71922ed61](https://doaj.org/article/db83a09493274ca292a497f71922ed61)  
+   Link: <a href="https://doaj.org/article/db83a09493274ca292a497f71922ed61" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/db83a09493274ca292a497f71922ed61</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directory of Open Access JournalsHabit and behavioural complexity: habitual instigation and...Theory predicts that frequency should be d...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: kops.uni-konstanz.de  
-   Link: [https://kops.uni-konstanz.de/bitstreams/b4e680e5-bed1-4d7d-87a9-d606826262cb/download](https://kops.uni-konstanz.de/bitstreams/b4e680e5-bed1-4d7d-87a9-d606826262cb/download)  
+   Link: <a href="https://kops.uni-konstanz.de/bitstreams/b4e680e5-bed1-4d7d-87a9-d606826262cb/download" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/bitstreams/b4e680e5-bed1-4d7d-87a9-d606826262cb/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions: Strategic Automatization of Goal...by P Sheeran · 2006 · Cited by 34 — To form an implementation intention, the person must...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25099386/](https://pubmed.ncbi.nlm.nih.gov/25099386/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25099386/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25099386/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions With Cue-Monitoring...by AAC Verhoeven · 2014 · Cited by 73 — Implementation intentions aimed at changing unwa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dr.lib.iastate.edu  
-   Link: [https://dr.lib.iastate.edu/bitstreams/efc93622-ee18-48f8-9e84-ad05704227e1/download](https://dr.lib.iastate.edu/bitstreams/efc93622-ee18-48f8-9e84-ad05704227e1/download)  
+   Link: <a href="https://dr.lib.iastate.edu/bitstreams/efc93622-ee18-48f8-9e84-ad05704227e1/download" target="_blank" rel="noopener noreferrer nofollow">https://dr.lib.iastate.edu/bitstreams/efc93622-ee18-48f8-9e84-ad05704227e1/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>instigation and executionby B Gardner · 2016 · Cited by 221 — An empirical study was undertaken to provide proof-of-principle of the dist...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-1-4614-6439-6_1710-4](https://link.springer.com/rwe/10.1007/978-1-4614-6439-6_1710-4)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-1-4614-6439-6_1710-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-1-4614-6439-6_1710-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions | Springer Nature Link27 Apr 2019 — Intention-behavior relations: A conceptual and empirical review. European Review of Social...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation Intentions are proven strategies helping you achi...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes](https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Breaking Habits With Implementation IntentionsImplementation intentions specifying the replacement of a habitual response with an a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: effectiveselfhelp.org  
-   Link: [https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/](https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/)  
+   Link: <a href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow">https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: a guide to forming habits you&#x27;ll keepImplementation intentions involve &#x27;specifying the behaviour one will perform in th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wp.nyu.edu  
-   Link: [https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/sheeran-et-al-2005-the-interplay-between-goal-intentions-and-implementation-intentions.pdf](https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/sheeran-et-al-2005-the-interplay-between-goal-intentions-and-implementation-intentions.pdf)  
+   Link: <a href="https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/sheeran-et-al-2005-the-interplay-between-goal-intentions-and-implementation-intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/sheeran-et-al-2005-the-interplay-between-goal-intentions-and-implementation-intentions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Web PublishingThe Interplay Between Goal Intentions and Implementation...by P Sheeran · 2005 · Cited by 871 — Thus, there are important...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Habitual-instigation-and-habitual-execution%3A-and-on-Gardner-Phillips/1b20ab52d1ece592e8e9d151031ecf06154fe53c](https://www.semanticscholar.org/paper/Habitual-instigation-and-habitual-execution%3A-and-on-Gardner-Phillips/1b20ab52d1ece592e8e9d151031ecf06154fe53c)  
+   Link: <a href="https://www.semanticscholar.org/paper/Habitual-instigation-and-habitual-execution%3A-and-on-Gardner-Phillips/1b20ab52d1ece592e8e9d151031ecf06154fe53c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Habitual-instigation-and-habitual-execution%3A-and-on-Gardner-Phillips/1b20ab52d1ece592e8e9d151031ecf06154fe53c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gardner; Habitual exercise instigation (vs. execution) predicts healthy adults&#x27; exercise frequency. L. Alison Phillips...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1097212408/34](https://d-nb.info/1097212408/34)  
+   Link: <a href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1097212408/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>le- mentation intentions and habits in terms of their opera- tion (automatic) and underlying mechanism (cue-.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ovid.com  
    Title: bjhp.12189~habitual instigation and habitual execution definition  
-   Link: [https://www.ovid.com/journals/bjhp/fulltext/10.1111/bjhp.12189~habitual-instigation-and-habitual-execution-definition](https://www.ovid.com/journals/bjhp/fulltext/10.1111/bjhp.12189~habitual-instigation-and-habitual-execution-definition)  
+   Link: <a href="https://www.ovid.com/journals/bjhp/fulltext/10.1111/bjhp.12189~habitual-instigation-and-habitual-execution-definition" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/bjhp/fulltext/10.1111/bjhp.12189~habitual-instigation-and-habitual-execution-definition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habitual instigation and habitual execution:...by B Gardner · 2016 · Cited by 221 — A study was undertaken to demonstrate the distinction...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: research.wur.nl  
    Title: identifying the if for if then plans combining implementation int  
-   Link: [https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int](https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int)  
+   Link: <a href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow">https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with cue-monitoring...by AAC Verhoeven · 2014 · Cited by 73 — Implementation intentions aimed at changing unwa...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Seeing that habits and implementation intentions appear to i...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45](https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...This chapter outlines how developing new cue...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/habitual-instigation-and-habitual-execution-definition-5d959gh006.pdf](https://scispace.com/pdf/habitual-instigation-and-habitual-execution-definition-5d959gh006.pdf)  
+   Link: <a href="https://scispace.com/pdf/habitual-instigation-and-habitual-execution-definition-5d959gh006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/habitual-instigation-and-habitual-execution-definition-5d959gh006.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>habitual instigation&#x27;), or automating [progression](&amp;#123;&amp;#123; &#x27;progression/&#x27; | relative_url &amp;#125;&amp;#125;) through sub-actions required...Read more...</p></details>

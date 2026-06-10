@@ -272,7 +272,7 @@ Boredom is often treated as a verdict: a feeling that supposedly proves a goal i
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-1-dark.svg" | relative_url }}" alt="Boredom Signal illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because most meaningful forms of self-improvement contain long stretches of repetition. Fitness routines, professional development, learning a language, [saving]({{ 'saving/' | relative_url }}) money, writing, and relationship habits all spend far more time in ordinary maintenance than in exciting breakthroughs. People frequently abandon worthwhile goals because they misinterpret a predictable emotional state as evidence that the goal itself is flawed. Research on boredom increasingly suggests that boredom functions as information: a prompt to examine attention, challenge, [meaning]({{ 'meaning/' | relative_url }}), or method before deciding that the destination is no longer worth pursuing. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+This distinction matters because most meaningful forms of self-improvement contain long stretches of repetition. Fitness routines, professional development, learning a language, [saving]({{ 'saving/' | relative_url }}) money, writing, and relationship habits all spend far more time in ordinary maintenance than in exciting breakthroughs. People frequently abandon worthwhile goals because they misinterpret a predictable emotional state as evidence that the goal itself is flawed. Research on boredom increasingly suggests that boredom functions as information: a prompt to examine attention, challenge, [meaning]({{ 'meaning/' | relative_url }}), or method before deciding that the destination is no longer worth pursuing. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 ## What Is Boredom Really Telling You?
 
@@ -280,9 +280,9 @@ Psychologists increasingly describe boredom as a functional emotion rather than 
 
 The critical mistake is assuming that the adjustment must be a complete change of goal.
 
-A person training for a marathon may feel bored by another routine run. A student may feel bored reviewing flashcards. Someone trying to improve finances may feel bored by another month of budgeting. In each case, boredom is real, but it does not necessarily indicate that running, studying, or financial stability have stopped mattering. It may simply indicate that the current mode of engagement has become stale, too easy, too predictable, or disconnected from its purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+A person training for a marathon may feel bored by another routine run. A student may feel bored reviewing flashcards. Someone trying to improve finances may feel bored by another month of budgeting. In each case, boredom is real, but it does not necessarily indicate that running, studying, or financial stability have stopped mattering. It may simply indicate that the current mode of engagement has become stale, too easy, too predictable, or disconnected from its purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
-Researchers James Danckert and colleagues have argued that boredom can be understood as a signal that we have drifted away from an optimal level of cognitive engagement. Rather than proving that a goal is meaningless, boredom may indicate that the way we are pursuing it no longer matches our need for challenge, attention, or involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+Researchers James Danckert and colleagues have argued that boredom can be understood as a signal that we have drifted away from an optimal level of cognitive engagement. Rather than proving that a goal is meaningless, boredom may indicate that the way we are pursuing it no longer matches our need for challenge, attention, or involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 ## Why Boredom Appears in the Middle of Worthwhile Goals
 
@@ -294,7 +294,7 @@ The workout becomes familiar. The project becomes procedural. The learning proce
 
 In reality, the disappearance of novelty is often evidence that a behaviour is becoming normal. The task has moved from exploration to consolidation.
 
-Research on boredom suggests that boredom creates a motivation for change. However, the desire for change does not automatically identify the correct target of change. The feeling may be pushing you to alter the activity, increase challenge, reconnect with purpose, or refresh the [environment]({{ 'environment/' | relative_url }}). It is not necessarily instructing you to abandon the broader objective. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futurity.org/boredom-motivation-experience-3295012-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurity.org">[futurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurity.org</span><span class="citation-popover-title">How boredom can be good for you</span><span class="citation-popover-snippet">FuturityHow boredom can be good for you - Futurity15 Sept 2025 — “This study challenges the idea that people are always driven to seek pl...</span></span></span> This is one reason [meaningful goals]({{ 'meaning/' | relative_url }}) survive boredom better than purely novelty-driven goals. When a person has a reason that extends beyond immediate enjoyment, they can evaluate boredom more carefully instead of treating it as decisive evidence.
+Research on boredom suggests that boredom creates a motivation for change. However, the desire for change does not automatically identify the correct target of change. The feeling may be pushing you to alter the activity, increase challenge, reconnect with purpose, or refresh the [environment]({{ 'environment/' | relative_url }}). It is not necessarily instructing you to abandon the broader objective. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futurity.org/boredom-motivation-experience-3295012-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurity.org">[futurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurity.org</span><span class="citation-popover-title">How boredom can be good for you</span><span class="citation-popover-snippet">How boredom can be good for you - Futurity15 Sept 2025 — “This study challenges the idea that people are always driven to seek pl...</span></span></span> This is one reason [meaningful goals]({{ 'meaning/' | relative_url }}) survive boredom better than purely novelty-driven goals. When a person has a reason that extends beyond immediate enjoyment, they can evaluate boredom more carefully instead of treating it as decisive evidence.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LKPwKFigF8U" title="Why Boredom is Good For You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LKPwKFigF8U" target="_blank" rel="noopener noreferrer">Why Boredom is Good For You</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 7.3M &middot; Uploaded: September 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LKPwKFigF8U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LKPwKFigF8U">Open on YouTube</a></p></div></div></div>
@@ -307,11 +307,11 @@ Several possibilities exist.
 
 **The task has become too easy.**
 
-When challenge falls below skill level, attention drifts. Repetition may no longer require enough engagement to feel stimulating. In this case, boredom points towards increasing difficulty, complexity, or standards rather than abandoning the goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+When challenge falls below skill level, attention drifts. Repetition may no longer require enough engagement to feel stimulating. In this case, boredom points towards increasing difficulty, complexity, or standards rather than abandoning the goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 **The task has become too difficult.**
 
-People often assume boredom comes only from under-stimulation. Research suggests that excessive difficulty can also produce boredom because attention cannot engage effectively. A goal may still be valuable while the current approach is overwhelming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+People often assume boredom comes only from under-stimulation. Research suggests that excessive difficulty can also produce boredom because attention cannot engage effectively. A goal may still be valuable while the current approach is overwhelming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 **The connection to meaning has faded.**
 
@@ -360,7 +360,7 @@ Variation prevents routine from becoming mentally invisible. The core commitment
 
 ### Raise the standard
 
-When boredom comes from mastery, additional challenge often helps. New constraints, higher quality expectations, or more ambitious targets can move an activity back into an engaging range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+When boredom comes from mastery, additional challenge often helps. New constraints, higher quality expectations, or more ambitious targets can move an activity back into an engaging range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-3-dark.svg" | relative_url }}" alt="Boredom Signal illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -374,7 +374,7 @@ One of the hidden dangers of self-improvement is becoming overly responsive to e
 
 If boredom always triggers a new project, a new routine, a new [identity]({{ 'identity/' | relative_url }}), or a new goal, then novelty becomes the real objective. Progress stalls because every worthwhile pursuit eventually enters a repetitive phase.
 
-Research suggests boredom motivates movement towards alternatives. That motivational force can be useful, but it can also create a cycle of perpetual switching. The skill is not eliminating boredom. The skill is interpreting it correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</span></span></span>
+Research suggests boredom motivates movement towards alternatives. That motivational force can be useful, but it can also create a cycle of perpetual switching. The skill is not eliminating boredom. The skill is interpreting it correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</span></span></span>
 
 A person who treats boredom as a signal asks, "What needs adjustment?"
 
@@ -395,7 +395,7 @@ The key difference is sequence.
 
 First investigate the signal. Then evaluate the goal.
 
-People who reverse that order often abandon worthwhile ambitions during a temporary dull phase. People who examine boredom carefully gain more information. Sometimes they discover a better method. Sometimes they discover a better goal. Either way, boredom has served its proper role: not as a judge delivering a final sentence, but as information helping them make a better decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychwire.com">[Psychwire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychwire.com</span><span class="citation-popover-snippet">PsychwireQ&amp;A with John Eastwood on boredomWhen bored, we are thrown out of engagement with the world. Boredom signals we have lost our ag...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+People who reverse that order often abandon worthwhile ambitions during a temporary dull phase. People who examine boredom carefully gain more information. Sometimes they discover a better method. Sometimes they discover a better goal. Either way, boredom has served its proper role: not as a judge delivering a final sentence, but as information helping them make a better decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychwire.com">[Psychwire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychwire.com</span><span class="citation-popover-snippet">Q&amp;A with John Eastwood on boredomWhen bored, we are thrown out of engagement with the world. Boredom signals we have lost our ag...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -819,109 +819,109 @@ People who reverse that order often abandon worthwhile ambitions during a tempor
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOn the Function of Boredom  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discrete emotions predict changes in cognition, judgment, experience, behavior, and physiology: A meta...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463](https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectReview In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: psychwire.com  
-   Link: [https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom](https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychwireQ&amp;A with John Eastwood on boredomWhen bored, we are thrown out of engagement with the world. Boredom signals we have lost our ag...</p></details>
+   Link: <a href="https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom" target="_blank" rel="noopener noreferrer nofollow">https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Q&amp;A with John Eastwood on boredomWhen bored, we are thrown out of engagement with the world. Boredom signals we have lost our ag...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: futurity.org  
    Title: How boredom can be good for you  
-   Link: [https://www.futurity.org/boredom-motivation-experience-3295012-2/](https://www.futurity.org/boredom-motivation-experience-3295012-2/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FuturityHow boredom can be good for you - Futurity15 Sept 2025 — “This study challenges the idea that people are always driven to seek pl...</p></details>
+   Link: <a href="https://www.futurity.org/boredom-motivation-experience-3295012-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.futurity.org/boredom-motivation-experience-3295012-2/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How boredom can be good for you - Futurity15 Sept 2025 — “This study challenges the idea that people are always driven to seek pl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25379249/](https://pubmed.ncbi.nlm.nih.gov/25379249/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25379249/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25379249/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the function of boredom2013 Aug 15;3(3):459-472. doi: 10.3390/bs3030459. eCollection 2013 Sep. Authors. Shane W Bench, Heather C Lench...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: The motivational consequences of boredomby C Mlynski · 2025 · Cited by 1 — Researchers focusing on t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: selfdeterminationtheory.org  
    Title: 2020 RyanDeci CEP PrePrint  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryIntrinsic and extrinsic motivation from a self-determination...by RM Ryan · Cited by 10296 — Self-determination...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/research-practice/conduct-research/self-determination-theory.html](https://www.apa.org/research-practice/conduct-research/self-determination-theory.html)  
+   Link: <a href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/research-practice/conduct-research/self-determination-theory.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSelf-determination theory: A quarter century of human...2 Mar 2025 — SDT describes factors that help o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25222648/](https://pubmed.ncbi.nlm.nih.gov/25222648/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25222648/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25222648/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>but important: a self-transcendent purpose for learning...by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a p...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/317690916_Self-Determination_Theory](https://www.researchgate.net/publication/317690916_Self-Determination_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/317690916_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317690916_Self-Determination_Theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Determination TheoryPDF | Self-determination theory (SDT) is a broad theory of human personality and motivation concerned with...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/324019674_Boredom_as_a_Seeking_State_Boredom_Prompts_the_Pursuit_of_Novel_Even_Negative_Experiences](https://www.researchgate.net/publication/324019674_Boredom_as_a_Seeking_State_Boredom_Prompts_the_Pursuit_of_Novel_Even_Negative_Experiences)  
+   Link: <a href="https://www.researchgate.net/publication/324019674_Boredom_as_a_Seeking_State_Boredom_Prompts_the_Pursuit_of_Novel_Even_Negative_Experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324019674_Boredom_as_a_Seeking_State_Boredom_Prompts_the_Pursuit_of_Novel_Even_Negative_Experiences</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boredom Prompts the Pursuit of Novel (Even Negative)...On the Function of Boredom. August 2013 · Behavioral Sciences. Shane Bench · Heat...</p></details>
    Published: August 2013  
 
 13. <a id="endnote-13"></a>
    Source: studentexperiencenetwork.org  
-   Link: [https://studentexperiencenetwork.org/research_library/boring-but-important-a-self-transcendent-purpose-for-learning-fosters-academic-self-regulation/](https://studentexperiencenetwork.org/research_library/boring-but-important-a-self-transcendent-purpose-for-learning-fosters-academic-self-regulation/)  
+   Link: <a href="https://studentexperiencenetwork.org/research_library/boring-but-important-a-self-transcendent-purpose-for-learning-fosters-academic-self-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/research_library/boring-but-important-a-self-transcendent-purpose-for-learning-fosters-academic-self-regulation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Experience Research NetworkBoring but important: A self-transcendent purpose for...The first study revealed that students with m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/1912999/The_unengaged_mind_Defining_boredom_in_terms_of_attention](https://www.academia.edu/1912999/The_unengaged_mind_Defining_boredom_in_terms_of_attention)  
+   Link: <a href="https://www.academia.edu/1912999/The_unengaged_mind_Defining_boredom_in_terms_of_attention" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1912999/The_unengaged_mind_Defining_boredom_in_terms_of_attention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The unengaged mind: Defining boredom in terms of attentionOur central goal is to provide a definition of boredom in terms of the underlyi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cornerstonecounselling.com  
-   Link: [https://cornerstonecounselling.com/blog/psychology-of-boredom/](https://cornerstonecounselling.com/blog/psychology-of-boredom/)  
+   Link: <a href="https://cornerstonecounselling.com/blog/psychology-of-boredom/" target="_blank" rel="noopener noreferrer nofollow">https://cornerstonecounselling.com/blog/psychology-of-boredom/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: according to the psychologist john eastwood boredom is the unfulfilled desire fo  
-   Link: [https://www.facebook.com/postcardcabins/posts/according-to-the-psychologist-john-eastwood-boredom-is-the-unfulfilled-desire-fo/4063954207047064/](https://www.facebook.com/postcardcabins/posts/according-to-the-psychologist-john-eastwood-boredom-is-the-unfulfilled-desire-fo/4063954207047064/)  
+   Link: <a href="https://www.facebook.com/postcardcabins/posts/according-to-the-psychologist-john-eastwood-boredom-is-the-unfulfilled-desire-fo/4063954207047064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/postcardcabins/posts/according-to-the-psychologist-john-eastwood-boredom-is-the-unfulfilled-desire-fo/4063954207047064/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the psychologist John Eastwood, boredom is “...28 Jul 2021 — The scientists believe that when we&#x27;re bored, we tend to start...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: urmc.rochester.edu  
    Title: University of Rochester Medicine Self-Determination Theory of Motivation  
-   Link: [https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory](https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory)  
+   Link: <a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 230801476 The Unengaged Mind Defining Boredom in Terms of Attention  
-   Link: [https://www.researchgate.net/publication/230801476_The_Unengaged_Mind_Defining_Boredom_in_Terms_of_Attention](https://www.researchgate.net/publication/230801476_The_Unengaged_Mind_Defining_Boredom_in_Terms_of_Attention)  
+   Link: <a href="https://www.researchgate.net/publication/230801476_The_Unengaged_Mind_Defining_Boredom_in_Terms_of_Attention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230801476_The_Unengaged_Mind_Defining_Boredom_in_Terms_of_Attention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Unengaged Mind: Defining Boredom in Terms...10 May 2026 — Our central goal is to provide a definition of boredom in terms of t...</p></details>
    Published: May 2026  
 
 19. <a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Boring-but-important%3A-a-self-transcendent-purpose-Yeager-Henderson/88a9311fc9c29b1924442a8aa7168f0c6864fb81](https://www.semanticscholar.org/paper/Boring-but-important%3A-a-self-transcendent-purpose-Yeager-Henderson/88a9311fc9c29b1924442a8aa7168f0c6864fb81)  
+   Link: <a href="https://www.semanticscholar.org/paper/Boring-but-important%3A-a-self-transcendent-purpose-Yeager-Henderson/88a9311fc9c29b1924442a8aa7168f0c6864fb81" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Boring-but-important%3A-a-self-transcendent-purpose-Yeager-Henderson/88a9311fc9c29b1924442a8aa7168f0c6864fb81</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>se could improve academic self-regulation on such tasks and found that those with...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: The Guardian Constantly scrolling on your phone?  
-   Link: [https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad](https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad)  
+   Link: <a href="https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why we can&#x27;t stand feeling boredPeople have an aversion to boredom and often resort to mindless activities, such as scrolling on their ph...</p></details>

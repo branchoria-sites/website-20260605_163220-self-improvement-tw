@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:55:52'
 parent_title: Which Self Help Promises Should You Doubt? | Better Change
 parent_permalink: /self-help-myths/
 parent_nav_short_title: Self Help Myths
@@ -265,7 +266,6 @@ next_link:
   permalink: /if-then-plans-37e7f5/
   short_title: If Then Plans
   heading_title: The If Then Plan That Beats Good Intentions
-date: '2026-06-05 14:55:52 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_quick_fix_blame_d36fbc-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_quick_fix_blame_d36fbc-Illustration-1.webp
@@ -274,19 +274,19 @@ image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_quick_f
 
 ## Introduction
 
-One of the most persistent myths in the self-help industry is not that change is possible, but that meaningful change should happen quickly. When marketing promises transformation in weeks, days or even a single breakthrough moment, it quietly changes how people interpret ordinary setbacks. A missed workout, a return to an old habit or a month of slow progress stops looking like a normal part of behaviour change and starts feeling like evidence of personal weakness.
+One of the most persistent myths in the self-help industry is not that change is possible, but that meaningful change should happen quickly. When marketing promises transformation in weeks, days or even a single breakthrough moment, it quietly changes how people interpret ordinary setbacks. A missed workout, a return to an old habit or a month of slow progress stops looking like a normal part of [behaviour change]({{ 'behaviour-change/' | relative_url }}) and starts feeling like evidence of personal weakness.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_quick_fix_blame_d36fbc-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Blame illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_quick_fix_blame_d36fbc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_quick_fix_blame_d36fbc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because most evidence-based models of behaviour change describe improvement as gradual, context-dependent and often uneven. Human behaviour is shaped not only by [motivation]({{ 'motivation/' | relative_url }}) but also by habits, environments, social conditions, competing demands and practical obstacles. When those realities disappear from the sales message, responsibility for every disappointing outcome tends to fall back on the individual. The result is a hidden form of blame: if the promised transformation did not arrive, the customer is encouraged to conclude that they did not believe hard enough, commit strongly enough or want success badly enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehavior Change</span><span class="citation-popover-snippet">PMC - NIHby AL Duckworth · 2020 · Cited by 140 — We propose the process model of behavior change as a parsimonious framework for organizi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
+This matters because most evidence-based models of behaviour change describe improvement as gradual, context-dependent and often uneven. Human behaviour is shaped not only by [motivation]({{ 'motivation/' | relative_url }}) but also by habits, environments, social conditions, competing demands and practical obstacles. When those realities disappear from the sales message, responsibility for every disappointing outcome tends to fall back on the individual. The result is a hidden form of blame: if the promised transformation did not arrive, the customer is encouraged to conclude that they did not believe hard enough, commit strongly enough or want success badly enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehavior Change</span><span class="citation-popover-snippet">NIHby AL Duckworth · 2020 · Cited by 140 — We propose the process model of behavior change as a parsimonious framework for organizi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
 ## How Transformation Language Raises Unrealistic Expectations
 
 Self-help marketing rarely sells gradual adjustment. It sells transformation.
 
-The language is familiar: become a new person, unlock your potential, reinvent yourself, change your life in thirty days. These messages are powerful because they offer certainty. A dramatic promise is easier to market than a careful explanation of habit formation, [feedback loops]({{ 'feedback/' | relative_url }}) and environmental design.
+The language is familiar: become a new person, unlock your potential, reinvent yourself, change your life in thirty days. These messages are powerful because they offer certainty. A dramatic promise is easier to market than a careful explanation of habit formation, [feedback]({{ 'feedback/' | relative_url }}) loops and environmental design.
 
-The problem is that dramatic promises create equally dramatic expectations. Psychologists have long described a pattern sometimes called “false hope syndrome”, in which people begin self-change efforts with unrealistic expectations about both the speed and magnitude of the results. When reality proves slower and messier, disappointment follows. Many people then interpret the gap between expectation and outcome as a personal failure rather than a prediction failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/26140574/The_false_hope_syndrome_unrealistic_expectations_of_self_change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe false hope syndrome: unrealistic expectations of self-...January 1, 2001 — The &#x27;false hope syndrome&#x27; illustrates overconfide...</span><span class="citation-popover-meta">Published: January 1, 2001</span></span></span>
+The problem is that dramatic promises create equally dramatic expectations. Psychologists have long described a pattern sometimes called “false hope syndrome”, in which people begin self-change efforts with unrealistic expectations about both the speed and magnitude of the results. When reality proves slower and messier, disappointment follows. Many people then interpret the gap between expectation and outcome as a personal failure rather than a prediction failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/26140574/The_false_hope_syndrome_unrealistic_expectations_of_self_change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The false hope syndrome: unrealistic expectations of self-...January 1, 2001 — The &#x27;false hope syndrome&#x27; illustrates overconfide...</span><span class="citation-popover-meta">Published: January 1, 2001</span></span></span>
 
 This mechanism is reinforced by testimonials. Marketing materials often showcase exceptional outcomes while leaving out the far larger number of ordinary experiences. Readers see before-and-after stories, rapid success narratives and breakthrough moments. What they do not see are the months of repetition, abandoned attempts, restarts and adaptations that characterise most lasting behaviour change.
 
@@ -319,7 +319,7 @@ Many self-help messages compress this complexity into a simpler story:
 
 That narrative is psychologically attractive because it creates a feeling of control. Yet it often ignores the actual causes of behaviour.
 
-Consider someone trying to exercise regularly while caring for children, working long hours and managing financial stress. A self-help framework focused entirely on mindset may interpret inconsistency as insufficient discipline. A behaviour-change framework is more likely to ask whether the plan fits the person's circumstances, whether the required actions are too demanding and whether the [environment]({{ 'environment/' | relative_url }}) supports the desired habit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehavior Change</span><span class="citation-popover-snippet">PMC - NIHby AL Duckworth · 2020 · Cited by 140 — We propose the process model of behavior change as a parsimonious framework for organizi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">overview of behaviour change models and their usesThis report has been designed to accompany the Practical Guide to Behaviour Change mode...</span></span></span>
+Consider someone trying to exercise regularly while caring for children, working long hours and managing financial stress. A self-help framework focused entirely on mindset may interpret inconsistency as insufficient discipline. A behaviour-change framework is more likely to ask whether the plan fits the person's circumstances, whether the required actions are too demanding and whether the [environment]({{ 'environment/' | relative_url }}) supports the desired habit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehavior Change</span><span class="citation-popover-snippet">NIHby AL Duckworth · 2020 · Cited by 140 — We propose the process model of behavior change as a parsimonious framework for organizi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">overview of behaviour change models and their usesThis report has been designed to accompany the Practical Guide to Behaviour Change mode...</span></span></span>
 
 The difference is significant. One explanation produces shame. The other produces problem-solving.
 
@@ -331,14 +331,14 @@ A particularly powerful feature of self-help marketing is that it can become dif
 
 If a method succeeds, the programme receives credit. If it fails, the individual may be told they lacked commitment, consistency, belief or positive thinking. In practice, this means the explanation for failure is built into the product itself.
 
-Researchers studying unrealistic self-change expectations have noted a recurring cycle. People begin with high hopes, experience limited results, blame themselves, feel discouraged and then become receptive to the next programme promising a breakthrough. The emotional cost of failure becomes part of the mechanism that keeps people searching for another solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/26140574/The_false_hope_syndrome_unrealistic_expectations_of_self_change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe false hope syndrome: unrealistic expectations of self-...January 1, 2001 — The &#x27;false hope syndrome&#x27; illustrates overconfide...</span><span class="citation-popover-meta">Published: January 1, 2001</span></span></span>
+Researchers studying unrealistic self-change expectations have noted a recurring cycle. People begin with high hopes, experience limited results, blame themselves, feel discouraged and then become receptive to the next programme promising a breakthrough. The emotional cost of failure becomes part of the mechanism that keeps people searching for another solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/26140574/The_false_hope_syndrome_unrealistic_expectations_of_self_change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The false hope syndrome: unrealistic expectations of self-...January 1, 2001 — The &#x27;false hope syndrome&#x27; illustrates overconfide...</span><span class="citation-popover-meta">Published: January 1, 2001</span></span></span>
 
 This cycle is visible beyond academic research. Personal accounts from former heavy consumers of self-help frequently describe internalising the belief that unsuccessful outcomes reflected personal deficiencies rather than unrealistic promises or unsuitable methods. The more they struggled, the more intensely they searched for another mindset shift, course or framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/commentisfree/article/2024/jul/01/self-help-toxic-books-courses-apps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Self-help was meant to make me feel better</span><span class="citation-popover-snippet">Instead it turned toxic - and borderline dangerousJuly 1, 2024 — In her mid-20s, Emily Goddard&#x27;s pursuit of self-help began with a book p...</span><span class="citation-popover-meta">Published: July 1, 2024</span></span></span>
 
 The hidden message is rarely stated directly. Instead, it emerges through implication: if transformation is available to anyone who truly commits, then those who do not transform must not have committed enough.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dmLTLkCBSN8" title="The Toxic World of Self Help: Hustle Culture, Toxic Positivity, Addiction, and Fake Gurus." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dmLTLkCBSN8" target="_blank" rel="noopener noreferrer">The Toxic World of Self Help: Hustle Culture, Toxic Positivity, Addiction, and Fake Gurus.</a></p><p class="youtube-embed-meta">Channel: James Jani &middot; Views: 6.1M &middot; Uploaded: March 2020 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dmLTLkCBSN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dmLTLkCBSN8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cbn5MoO6ejE" title="The self-help industry is lying. Here&#x27;s what&#x27;s really possible." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cbn5MoO6ejE" target="_blank" rel="noopener noreferrer">The self-help industry is lying. Here&#x27;s what&#x27;s really possible.</a></p><p class="youtube-embed-meta">Channel: Forrest Hanson &middot; Views: 83.7K &middot; Uploaded: July 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cbn5MoO6ejE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cbn5MoO6ejE">Open on YouTube</a></p></div></div></div>
 
 ## What Real Behaviour Change Usually Looks Like
 
@@ -352,7 +352,7 @@ This evidence points to several realities that marketing often downplays:
 
 **Small actions matter.** Research and habit-formation approaches frequently emphasise reducing difficulty and starting with manageable behaviours instead of relying on intense motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-title">building habits key lasting behavior change</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</span></span></span> Graduate School of Business <span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</span></span></span>
 
-**Context matters.** People do not make decisions in a vacuum. Environments, routines, social networks and practical constraints shape behaviour continuously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehavior Change</span><span class="citation-popover-snippet">PMC - NIHby AL Duckworth · 2020 · Cited by 140 — We propose the process model of behavior change as a parsimonious framework for organizi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">overview of behaviour change models and their usesThis report has been designed to accompany the Practical Guide to Behaviour Change mode...</span></span></span>
+**Context matters.** People do not make decisions in a vacuum. Environments, routines, social networks and practical constraints shape behaviour continuously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehavior Change</span><span class="citation-popover-snippet">NIHby AL Duckworth · 2020 · Cited by 140 — We propose the process model of behavior change as a parsimonious framework for organizi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">overview of behaviour change models and their usesThis report has been designed to accompany the Practical Guide to Behaviour Change mode...</span></span></span>
 
 **Motivation fluctuates.** Sustainable systems are designed to survive low-motivation periods rather than assuming constant enthusiasm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
@@ -384,7 +384,7 @@ That shift matters because shame is often a poor diagnostic tool. It explains ev
 The practical lesson is straightforward. Self-improvement that works usually looks less like a personal transformation story and more like a process of reducing friction, adjusting expectations, building habits and learning from setbacks. When change is understood that way, slow progress becomes information rather than an accusation. The hidden blame loses its power because ordinary difficulty is no longer mistaken for personal failure.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cbn5MoO6ejE" title="The self-help industry is lying. Here&#x27;s what&#x27;s really possible." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cbn5MoO6ejE" target="_blank" rel="noopener noreferrer">The self-help industry is lying. Here&#x27;s what&#x27;s really possible.</a></p><p class="youtube-embed-meta">Channel: Forrest Hanson &middot; Views: 83.7K &middot; Uploaded: July 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cbn5MoO6ejE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cbn5MoO6ejE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dmLTLkCBSN8" title="The Toxic World of Self Help: Hustle Culture, Toxic Positivity, Addiction, and Fake Gurus." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dmLTLkCBSN8" target="_blank" rel="noopener noreferrer">The Toxic World of Self Help: Hustle Culture, Toxic Positivity, Addiction, and Fake Gurus.</a></p><p class="youtube-embed-meta">Channel: James Jani &middot; Views: 6.1M &middot; Uploaded: March 2020 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dmLTLkCBSN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dmLTLkCBSN8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -809,129 +809,129 @@ The practical lesson is straightforward. Self-improvement that works usually loo
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBehavior Change  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby AL Duckworth · 2020 · Cited by 140 — We propose the process model of behavior change as a parsimonious framework for organizi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7946166/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby AL Duckworth · 2020 · Cited by 140 — We propose the process model of behavior change as a parsimonious framework for organizi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf](https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>overview of behaviour change models and their usesThis report has been designed to accompany the Practical Guide to Behaviour Change mode...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/26140574/The_false_hope_syndrome_unrealistic_expectations_of_self_change](https://www.academia.edu/26140574/The_false_hope_syndrome_unrealistic_expectations_of_self_change)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaThe false hope syndrome: unrealistic expectations of self-...January 1, 2001 — The &#x27;false hope syndrome&#x27; illustrates overconfide...</p></details>
+   Link: <a href="https://www.academia.edu/26140574/The_false_hope_syndrome_unrealistic_expectations_of_self_change" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/26140574/The_false_hope_syndrome_unrealistic_expectations_of_self_change</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The false hope syndrome: unrealistic expectations of self-...January 1, 2001 — The &#x27;false hope syndrome&#x27; illustrates overconfide...</p></details>
    Published: January 1, 2001  
 
 5. <a id="endnote-5"></a>
    Source: marieclaire.co.uk  
    Title: Marie Claire UKAlready Broken Your New Year's Resolution?  
-   Link: [https://www.marieclaire.co.uk/life/health-fitness/why-breaking-new-years-resolutions-doesnt-matter](https://www.marieclaire.co.uk/life/health-fitness/why-breaking-new-years-resolutions-doesnt-matter)  
+   Link: <a href="https://www.marieclaire.co.uk/life/health-fitness/why-breaking-new-years-resolutions-doesnt-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.marieclaire.co.uk/life/health-fitness/why-breaking-new-years-resolutions-doesnt-matter</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Psychologist On Why It May Actually Be a Good ThingJanuary 9, 2026 — This article from Marie Claire challenges the notion that breaking...</p></details>
    Published: January 9, 2026  
 
 6. <a id="endnote-6"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: psychologyfanatic.com  
    Title: false hope syndrome  
-   Link: [https://psychologyfanatic.com/false-hope-syndrome/](https://psychologyfanatic.com/false-hope-syndrome/)  
+   Link: <a href="https://psychologyfanatic.com/false-hope-syndrome/" target="_blank" rel="noopener noreferrer nofollow">https://psychologyfanatic.com/false-hope-syndrome/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>False-Hope Syndrome: Navigating Expectations in Health5 Feb 2025 — False-hope syndrome is a repetitive phenomenon of beginning self-chang...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: markmanson.net  
    Title: Mark Manson5 Problems With the Self-Help Industry  
-   Link: [https://markmanson.net/self-help](https://markmanson.net/self-help)  
+   Link: <a href="https://markmanson.net/self-help" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/self-help</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Help Marketing Creates Unrealistic Expectations. Although theoretically, I have no issue with the profit motive in the self-help ind...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian Self-help was meant to make me feel better  
-   Link: [https://www.theguardian.com/commentisfree/article/2024/jul/01/self-help-toxic-books-courses-apps](https://www.theguardian.com/commentisfree/article/2024/jul/01/self-help-toxic-books-courses-apps)  
+   Link: <a href="https://www.theguardian.com/commentisfree/article/2024/jul/01/self-help-toxic-books-courses-apps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/article/2024/jul/01/self-help-toxic-books-courses-apps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead it turned toxic - and borderline dangerousJuly 1, 2024 — In her mid-20s, Emily Goddard&#x27;s pursuit of self-help began with a book p...</p></details>
    Published: July 1, 2024  
 
 11. <a id="endnote-11"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...Apr 27, 2025 — This mini-review explores the science of habit formation, e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40health.tech.hub/b-j-fogg-tiny-habits-and-elements-of-behavioral-change-5525f5304870](https://medium.com/%40health.tech.hub/b-j-fogg-tiny-habits-and-elements-of-behavioral-change-5525f5304870)  
+   Link: <a href="https://medium.com/%40health.tech.hub/b-j-fogg-tiny-habits-and-elements-of-behavioral-change-5525f5304870" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40health.tech.hub/b-j-fogg-tiny-habits-and-elements-of-behavioral-change-5525f5304870</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B.J. Fogg, Tiny Habits, and Elements of Behavioral ChangeCommon triggers for health-related behavioral change should be well-covered in m...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: behavioraltimes.com  
-   Link: [https://behavioraltimes.com/behavior-change-interventions/](https://behavioraltimes.com/behavior-change-interventions/)  
+   Link: <a href="https://behavioraltimes.com/behavior-change-interventions/" target="_blank" rel="noopener noreferrer nofollow">https://behavioraltimes.com/behavior-change-interventions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior change interventions: why most failBehavior change interventions often fail — they target the wrong things. Here&#x27;s what actually...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/economics/human-behavior-change](https://www.ebsco.com/research-starters/economics/human-behavior-change)  
+   Link: <a href="https://www.ebsco.com/research-starters/economics/human-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/economics/human-behavior-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human behavior change | Economics | Research StartersHuman behavior change refers to the modifications individuals, organizations, and co...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: booksmyrefuge.medium.com  
-   Link: [https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5](https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5)  
+   Link: <a href="https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5" target="_blank" rel="noopener noreferrer nofollow">https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Reality Behind The Self-Help Industry. | MediumOne of the main pitfalls of the self-help industry is its tendency to oversimplify co...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/254081576_The_False-Hope_Syndrome](https://www.researchgate.net/publication/254081576_The_False-Hope_Syndrome)  
+   Link: <a href="https://www.researchgate.net/publication/254081576_The_False-Hope_Syndrome" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254081576_The_False-Hope_Syndrome</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The False-Hope SyndromeWhy do people persist in attempting to change themselves, despite repeated failure? Self-change is often perceived...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: TOXIC Sides of Self Development Industry | 10 Toxic Side of Self help industry  
-   Link: [https://www.youtube.com/watch?v=2sFd0uaEiV0](https://www.youtube.com/watch?v=2sFd0uaEiV0)  
+   Link: <a href="https://www.youtube.com/watch?v=2sFd0uaEiV0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2sFd0uaEiV0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The dark side of self help industry fake transformation toxicity TOXIC Sides of Self Development Industry | 10 Toxic Side of Self help in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: masterscounselling.com  
-   Link: [https://www.masterscounselling.com/what-are-unrealistic-expectations-and-how-are-they-impacting-me](https://www.masterscounselling.com/what-are-unrealistic-expectations-and-how-are-they-impacting-me)  
+   Link: <a href="https://www.masterscounselling.com/what-are-unrealistic-expectations-and-how-are-they-impacting-me" target="_blank" rel="noopener noreferrer nofollow">https://www.masterscounselling.com/what-are-unrealistic-expectations-and-how-are-they-impacting-me</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>al needs, demanding perfection, or having unreasonable expectations of the...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: psychologytoday.com  
    Title: the danger of expectations how they shape our lives  
-   Link: [https://www.psychologytoday.com/us/blog/putting-psychology-into-practice/202501/the-danger-of-expectations-how-they-shape-our-lives](https://www.psychologytoday.com/us/blog/putting-psychology-into-practice/202501/the-danger-of-expectations-how-they-shape-our-lives)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/putting-psychology-into-practice/202501/the-danger-of-expectations-how-they-shape-our-lives" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/putting-psychology-into-practice/202501/the-danger-of-expectations-how-they-shape-our-lives</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Danger of Expectations: How They Shape Our Lives3 Jan 2025 — The gap between expectations and reality creates disappointment. Expecta...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ui-patterns.com  
    Title: making the fogg behavior model actionable  
-   Link: [https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable](https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable)  
+   Link: <a href="https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable" target="_blank" rel="noopener noreferrer nofollow">https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Apr 2019 — The Fogg Behavior Model states that any behavior will only happen when three elements converge at the same moment in time.Re...</p></details>

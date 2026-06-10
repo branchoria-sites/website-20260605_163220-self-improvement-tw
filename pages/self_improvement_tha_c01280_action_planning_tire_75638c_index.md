@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-action/
 description: Focused pages that expand on Action Plans.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_action_planning_tire_75638c
 parent_title: Action Plans | Self Improvement That Works

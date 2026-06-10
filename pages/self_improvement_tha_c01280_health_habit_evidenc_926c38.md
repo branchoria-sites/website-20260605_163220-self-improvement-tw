@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:46:05'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /identity/
   short_title: Identity
   heading_title: Do You Need a New Identity or a Better Plan?
-date: '2026-06-05 14:46:05 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38-overview.webp
@@ -945,160 +945,160 @@ Health habits teach that self improvement works best when it stops depending on 
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: [https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For the majority of participants, automaticity increased steadily over...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-9032/12/23/2488](https://www.mdpi.com/2227-9032/12/23/2488)  
+   Link: <a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-022-01343-8](https://link.springer.com/article/10.1186/s12966-022-01343-8)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-022-01343-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-022-01343-8</a>  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s40359-018-0270-z](https://link.springer.com/article/10.1186/s40359-018-0270-z)  
+   Link: <a href="https://link.springer.com/article/10.1186/s40359-018-0270-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s40359-018-0270-z</a>  
 
 5. <a id="endnote-5"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
 
 6. <a id="endnote-6"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: [https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70064](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70064)  
+   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70064" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70064</a>  
 
 7. <a id="endnote-7"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12509](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12509)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12509" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12509</a>  
 
 8. <a id="endnote-8"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12504](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12504)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12504" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12504</a>  
 
 9. <a id="endnote-9"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: [https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12649](https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12649)  
+   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12649" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12649</a>  
 
 10. <a id="endnote-10"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: [https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12612](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12612)  
+   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12612" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12612</a>  
 
 11. <a id="endnote-11"></a>
    Source: mdpi.com  
    Title: 2076 328X  
-   Link: [https://www.mdpi.com/2076-328X/16/4/535](https://www.mdpi.com/2076-328X/16/4/535)  
+   Link: <a href="https://www.mdpi.com/2076-328X/16/4/535" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-328X/16/4/535</a>  
 
 12. <a id="endnote-12"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2071-1050/13/6/3216](https://www.mdpi.com/2071-1050/13/6/3216)  
+   Link: <a href="https://www.mdpi.com/2071-1050/13/6/3216" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/13/6/3216</a>  
 
 13. <a id="endnote-13"></a>
    Source: habit.com  
-   Link: [https://habit.com/](https://habit.com/)  
+   Link: <a href="https://habit.com/" target="_blank" rel="noopener noreferrer nofollow">https://habit.com/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts](https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts</a>  
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10389-022-01766-4](https://link.springer.com/article/10.1007/s10389-022-01766-4)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10389-022-01766-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10389-022-01766-4</a>  
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — The meta-analysis showed s...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralA review and analysis of the use of &#x27;habit&#x27; in understanding...by B Gardner · 2014 · Cited by 1341 — This paper examines u...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33405284/](https://pubmed.ncbi.nlm.nih.gov/33405284/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33405284/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33405284/</a>  
 
 20. <a id="endnote-20"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10118622/](https://discovery.ucl.ac.uk/id/eprint/10118622/)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10118622/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10118622/</a>  
 
 21. <a id="endnote-21"></a>
    Source: frontiersin.org  
    Title: Frontiers Context Stability in Habit Building Increases Automaticity  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
 
 22. <a id="endnote-22"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Does Intrinsic Motivation Strengthen Physical Activity Habit  
-   Link: [https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf](https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35962435/](https://pubmed.ncbi.nlm.nih.gov/35962435/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35962435/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35962435/</a>  
 
 25. <a id="endnote-25"></a>
    Source: uplift-psych.sites.olt.ubc.ca  
    Title: Health Habits  
-   Link: [https://uplift-psych.sites.olt.ubc.ca/files/2023/06/Health-Habits.pdf](https://uplift-psych.sites.olt.ubc.ca/files/2023/06/Health-Habits.pdf)  
+   Link: <a href="https://uplift-psych.sites.olt.ubc.ca/files/2023/06/Health-Habits.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uplift-psych.sites.olt.ubc.ca/files/2023/06/Health-Habits.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: What Behavioral Science Says About Changing Habits Around the New Year  
-   Link: [https://www.youtube.com/watch?v=GmkzPcbFh8k](https://www.youtube.com/watch?v=GmkzPcbFh8k)  
+   Link: <a href="https://www.youtube.com/watch?v=GmkzPcbFh8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GmkzPcbFh8k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>360 ‒ How to change your habits: why they form and how to build or break them...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Science of Making & Breaking Habits | Huberman Lab Essentials  
-   Link: [https://www.youtube.com/watch?v=HXuj7wAt7u8](https://www.youtube.com/watch?v=HXuj7wAt7u8)  
+   Link: <a href="https://www.youtube.com/watch?v=HXuj7wAt7u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HXuj7wAt7u8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Behavioral Science Says About Changing Habits Around the New Year...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained)  
-   Link: [https://www.youtube.com/watch?v=kVdmFTWAfC4](https://www.youtube.com/watch?v=kVdmFTWAfC4)  
+   Link: <a href="https://www.youtube.com/watch?v=kVdmFTWAfC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kVdmFTWAfC4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 How can I form a Lasting Habit? | Dr Philippa Lally...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: helda.helsinki.fi  
-   Link: [https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content](https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HeldaDeveloping habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Habit formation is a process of str...</p></details>
+   Link: <a href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow">https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Habit formation is a process of str...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial](https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial)  
+   Link: <a href="https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348328187_Habit_formation_following_routine-based_versus_time-based_cue_planning_A_randomized_controlled_trial</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362666582_Effects_of_behavioral_performance_intrinsic_reward_value_and_context_stability_on_the_formation_of_a_higher-order_nutrition_habit_an_intensive_longitudinal_diary_study](https://www.researchgate.net/publication/362666582_Effects_of_behavioral_performance_intrinsic_reward_value_and_context_stability_on_the_formation_of_a_higher-order_nutrition_habit_an_intensive_longitudinal_diary_study)  
+   Link: <a href="https://www.researchgate.net/publication/362666582_Effects_of_behavioral_performance_intrinsic_reward_value_and_context_stability_on_the_formation_of_a_higher-order_nutrition_habit_an_intensive_longitudinal_diary_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362666582_Effects_of_behavioral_performance_intrinsic_reward_value_and_context_stability_on_the_formation_of_a_higher-order_nutrition_habit_an_intensive_longitudinal_diary_study</a>  
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants](https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants)  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/259287063_A_review_and_analysis_of_the_use_of_%27habit%27_in_understanding_predicting_and_influencing_health-related_behaviour](https://www.researchgate.net/publication/259287063_A_review_and_analysis_of_the_use_of_%27habit%27_in_understanding_predicting_and_influencing_health-related_behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/259287063_A_review_and_analysis_of_the_use_of_%27habit%27_in_understanding_predicting_and_influencing_health-related_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259287063_A_review_and_analysis_of_the_use_of_%27habit%27_in_understanding_predicting_and_influencing_health-related_behaviour</a>  
 
 35. <a id="endnote-35"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DV4fBYdD0pm/](https://www.instagram.com/reel/DV4fBYdD0pm/)  
+   Link: <a href="https://www.instagram.com/reel/DV4fBYdD0pm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV4fBYdD0pm/</a>  
 
 36. <a id="endnote-36"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  

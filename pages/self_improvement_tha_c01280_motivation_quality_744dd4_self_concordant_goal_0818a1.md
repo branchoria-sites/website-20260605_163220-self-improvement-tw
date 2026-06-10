@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self
 
 ## Introduction
 
-Many self-improvement goals fail not because they are too ambitious, but because they never truly belonged to the person pursuing them. Research on self-concordance suggests that the fit between a goal and the self is a powerful predictor of whether effort will continue when enthusiasm fades. A self-concordant goal is one that reflects a person's genuine interests, values, and developing [identity]({{ 'identity/' | relative_url }}) rather than external pressure, status competition, guilt, or obligation. Studies consistently find that people invest more sustained effort in such goals, make greater progress, and are more likely to achieve them. The implication is practical: before asking whether a goal is challenging enough, it is worth asking whether it is genuinely yours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
+Many self-improvement goals fail not because they are too ambitious, but because they never truly belonged to the person pursuing them. Research on self-concordance suggests that the fit between a goal and the self is a powerful predictor of whether effort will continue when enthusiasm fades. A self-concordant goal is one that reflects a person's genuine interests, values, and developing [identity]({{ 'identity/' | relative_url }}) rather than external pressure, status competition, guilt, or obligation. Studies consistently find that people invest more sustained effort in such goals, make greater progress, and are more likely to achieve them. The implication is practical: before asking whether a goal is challenging enough, it is worth asking whether it is genuinely yours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-1-dark.svg" | relative_url }}" alt="Self Concordance illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -287,7 +287,7 @@ A goal can look impressive on paper and still be poorly aligned with the person 
 * One runs because endurance, challenge, and personal growth matter deeply to them.
 * The other runs mainly to gain approval, impress colleagues, or avoid feeling inadequate.
 
-The behaviour may appear identical, but the motivational foundation differs. Self-concordance research predicts that the first person is more likely to maintain effort when training becomes inconvenient, uncomfortable, or slow to reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</span></span></span>
+The behaviour may appear identical, but the motivational foundation differs. Self-concordance research predicts that the first person is more likely to maintain effort when training becomes inconvenient, uncomfortable, or slow to reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</span></span></span>
 
 This is why self-concordance focuses on reasons rather than targets. The question is not merely "What goal are you pursuing?" but "Why are you pursuing it?"
 
@@ -295,7 +295,7 @@ This is why self-concordance focuses on reasons rather than targets. The questio
 
 In everyday terms, a self-concordant goal feels personally meaningful even when it is difficult.
 
-It does not require constant [enjoyment]({{ 'enjoyment/' | relative_url }}). Someone may dislike studying for a professional qualification, physiotherapy exercises, or early-morning training sessions. The goal can still be self-concordant if the person sees it as an authentic expression of values they endorse. Self-concordance is about ownership, not pleasure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</span></span></span>
+It does not require constant [enjoyment]({{ 'enjoyment/' | relative_url }}). Someone may dislike studying for a professional qualification, physiotherapy exercises, or early-morning training sessions. The goal can still be self-concordant if the person sees it as an authentic expression of values they endorse. Self-concordance is about ownership, not pleasure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</span></span></span>
 
 Researchers typically distinguish between goals pursued because of:
 
@@ -313,11 +313,11 @@ A useful everyday test is whether a person can complete the sentence:
 The easier that statement is to endorse, the more likely the goal is to be self-concordant.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MdwDd9NUITg" title="The Science of Achieving Goals: How to Change Your Life in 5 Simple Steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MdwDd9NUITg" target="_blank" rel="noopener noreferrer">The Science of Achieving Goals: How to Change Your Life in 5 Simple Steps</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 204.2K &middot; Uploaded: April 2026 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MdwDd9NUITg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MdwDd9NUITg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EMfpbqWkPS8" title="The Real Reason Nothing Feels ENOUGH | Arthur C. Brooks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EMfpbqWkPS8" target="_blank" rel="noopener noreferrer">The Real Reason Nothing Feels ENOUGH | Arthur C. Brooks</a></p><p class="youtube-embed-meta">Channel: John R. Miles &middot; Views: 10.3K &middot; Uploaded: March 2026 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EMfpbqWkPS8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EMfpbqWkPS8">Open on YouTube</a></p></div></div></div>
 
 ## Why Aligned Goals Invite More Sustained Effort
 
-One of the most influential findings in this area comes from research by Kennon Sheldon and Andrew Elliot. Their self-concordance model proposed that goals aligned with personal interests and values generate greater sustained effort, which in turn increases the likelihood of attainment. The effect is not simply that aligned goals feel better; they produce behavioural consequences that matter over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">1999 SheldonElliot</span><span class="citation-popover-snippet">Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — The first ob...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
+One of the most influential findings in this area comes from research by Kennon Sheldon and Andrew Elliot. Their self-concordance model proposed that goals aligned with personal interests and values generate greater sustained effort, which in turn increases the likelihood of attainment. The effect is not simply that aligned goals feel better; they produce behavioural consequences that matter over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">1999 SheldonElliot</span><span class="citation-popover-snippet">Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — The first ob...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
 
 The mechanism appears to work through several pathways.
 
@@ -329,32 +329,32 @@ A writer who genuinely values creative expression may view rejection as part of 
 
 ### Effort Feels More Voluntary
 
-Self-concordant goals still require discipline, but the discipline feels chosen rather than imposed. This distinction matters because voluntary effort tends to generate less psychological resistance than effort experienced as coercion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</span></span></span>
+Self-concordant goals still require discipline, but the discipline feels chosen rather than imposed. This distinction matters because voluntary effort tends to generate less psychological resistance than effort experienced as coercion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-2-dark.svg" | relative_url }}" alt="Self Concordance illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Motivation Recovers More Easily
 
-Many people assume persistence comes from maintaining high motivation at all times. Research suggests a different pattern. Those pursuing self-concordant goals are often better able to return after interruptions because the goal remains meaningful even when motivation temporarily dips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
+Many people assume persistence comes from maintaining high motivation at all times. Research suggests a different pattern. Those pursuing self-concordant goals are often better able to return after interruptions because the goal remains meaningful even when motivation temporarily dips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
 
 ### Progress Feels More Natural
 
-Later studies have suggested that self-concordant goals may not simply increase effort; they can also make pursuit feel easier and more natural. Individuals often report less friction and greater subjective ease when working toward goals that fit their identity and values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSome goals just feel easier: Self-concordance leads to...July 1, 2016 — Within-person analyses indicated that self-concordan...</span><span class="citation-popover-meta">Published: July 1, 2016</span></span></span>
+Later studies have suggested that self-concordant goals may not simply increase effort; they can also make pursuit feel easier and more natural. Individuals often report less friction and greater subjective ease when working toward goals that fit their identity and values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Some goals just feel easier: Self-concordance leads to...July 1, 2016 — Within-person analyses indicated that self-concordan...</span><span class="citation-popover-meta">Published: July 1, 2016</span></span></span>
 
 ## What the Evidence Actually Shows
 
 The evidence supporting self-concordance is notable because it follows people over time rather than relying solely on one-off surveys.
 
-In the foundational self-concordance studies, individuals who pursued goals consistent with their interests and values invested more sustained effort and achieved higher rates of goal attainment. Achievement then contributed to greater satisfaction of important psychological needs and improved well-being. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">1999 SheldonElliot</span><span class="citation-popover-snippet">Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — The first ob...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
+In the foundational self-concordance studies, individuals who pursued goals consistent with their interests and values invested more sustained effort and achieved higher rates of goal attainment. Achievement then contributed to greater satisfaction of important psychological needs and improved well-being. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">1999 SheldonElliot</span><span class="citation-popover-snippet">Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — The first ob...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
 
 Subsequent research extended these findings beyond student samples and into domains such as sport, work, and personal development. Studies of athletes, for example, found that autonomous goal motives predicted greater effort, which subsequently predicted goal attainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.birmingham.ac.uk/en/publications/goal-striving-goal-attainment-and-well-being-an-investigation-of-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.birmingham.ac.uk">[University of Birmingham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.birmingham.ac.uk</span><span class="citation-popover-snippet">University of BirminghamAn investigation of the Self-Concordance Model in sportby A Smith · 2007 · Cited by 332 — Grounded in self-determ...</span></span></span>
 
-Reviews of the self-concordance literature have generally reached similar conclusions: goals that reflect a person's interests and core values are associated with stronger persistence, better progress, and more positive psychological outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectGoal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-gen...</span></span></span>
+Reviews of the self-concordance literature have generally reached similar conclusions: goals that reflect a person's interests and core values are associated with stronger persistence, better progress, and more positive psychological outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-gen...</span></span></span>
 
 Importantly, this does not mean self-concordant goals guarantee success. Life circumstances, resources, health, and opportunity still matter. The evidence instead suggests that alignment increases the probability that effort will be sustained long enough for success to become possible.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EMfpbqWkPS8" title="The Real Reason Nothing Feels ENOUGH | Arthur C. Brooks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EMfpbqWkPS8" target="_blank" rel="noopener noreferrer">The Real Reason Nothing Feels ENOUGH | Arthur C. Brooks</a></p><p class="youtube-embed-meta">Channel: John R. Miles &middot; Views: 10.3K &middot; Uploaded: March 2026 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EMfpbqWkPS8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EMfpbqWkPS8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MdwDd9NUITg" title="The Science of Achieving Goals: How to Change Your Life in 5 Simple Steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MdwDd9NUITg" target="_blank" rel="noopener noreferrer">The Science of Achieving Goals: How to Change Your Life in 5 Simple Steps</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 204.2K &middot; Uploaded: April 2026 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MdwDd9NUITg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MdwDd9NUITg">Open on YouTube</a></p></div></div></div>
 
 ## Questions That Reveal Borrowed Goals
 
@@ -407,7 +407,7 @@ A useful sequence is:
 
 </div>
 
-The result is not necessarily greater enthusiasm. It is something more valuable: a form of motivation that remains available after novelty disappears. Research on self-concordant goals suggests that this alignment with the self is one of the strongest predictors of whether effort will continue long enough to matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectGoal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-gen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self-Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">1999 SheldonElliot</span><span class="citation-popover-snippet">Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — The first ob...</span></span></span> Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
+The result is not necessarily greater enthusiasm. It is something more valuable: a form of motivation that remains available after novelty disappears. Research on self-concordant goals suggests that this alignment with the self is one of the strongest predictors of whether effort will continue long enough to matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-gen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self-Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">1999 SheldonElliot</span><span class="citation-popover-snippet">Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — The first ob...</span></span></span> Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -495,7 +495,7 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -504,78 +504,94 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Setting Definition Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qu8AAeSwCQFpqXbQ/s-l225.jpg" alt="Listing image for Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Goal Setting Definition Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting poster">Search <span data-ebay-domain-label>eBay.com</span>: goal setting poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG Girl Scouts Goal Setting 2-Sided Poster &quot;Make The Moost Of It! Fall 2010"><img src="{{ '/assets/images/marketplace-covers/3010975580b660387405.jpg' | relative_url }}" alt="Listing image for VTG Girl Scouts Goal Setting 2-Sided Poster &quot;Make The Moost Of It! Fall 2010" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Setting Goals Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lZgAAeSwZqVpqXUy/s-l225.jpg" alt="Listing image for Setting Goals Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VTG Girl Scouts Goal Setting 2-Sided Poster &quot;Make The Moost Of It! Fall 2010</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Setting Goals Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting poster">Search <span data-ebay-domain-label>eBay.com</span>: goal setting poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3bd605a6f24efc1ed4e9.jpg' | relative_url }}" alt="Listing image for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/9WEAAeSwIpBopZeg/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Goal Setting Quote Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting poster">Search <span data-ebay-domain-label>eBay.com</span>: goal setting poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SMART Goals Poster Goal Setting Productivity Office Wall Art Chart"><img src="{{ '/assets/images/marketplace-covers/616c387904f82fe0ca0c.jpg' | relative_url }}" alt="Listing image for SMART Goals Poster Goal Setting Productivity Office Wall Art Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/w78AAeSwDAJpqXSe/s-l225.jpg" alt="Listing image for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SMART Goals Poster Goal Setting Productivity Office Wall Art Chart</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Goal Setting Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting poster">Search <span data-ebay-domain-label>eBay.com</span>: goal setting poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-concordance-the-goal-fit-test-that-predicts-persistence-self-improvement-that-works-goal-setting-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -651,17 +667,31 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -674,42 +704,73 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -724,141 +785,145 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1462373021000158](https://www.sciencedirect.com/org/science/article/pii/S1462373021000158)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectGoal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-gen...</p></details>
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1462373021000158</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-gen...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCWhen the Going Gets Tough: The “Why” of Goal Striving Mattersby N Ntoumanis · 2013 · Cited by 164 — With regard to the last topic, the...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Going Gets Tough: The “Why” of Goal Striving Mattersby N Ntoumanis · 2013 · Cited by 164 — With regard to the last topic, the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort](https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSome goals just feel easier: Self-concordance leads to...July 1, 2016 — Within-person analyses indicated that self-concordan...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easier: Self-concordance leads to...July 1, 2016 — Within-person analyses indicated that self-concordan...</p></details>
    Published: July 1, 2016  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477](https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSome goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 212 — Research has found that pursu...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 212 — Research has found that pursu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0959475225000799](https://www.sciencedirect.com/science/article/pii/S0959475225000799)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959475225000799" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475225000799</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of goal self-concordance on emotion regulation...by M Benita · 2025 · Cited by 3 — This study examined how self-concordant go...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral](https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral)  
+   Link: <a href="https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>heldon &amp; AJ Elliot, 1999) to examine the motivational processes by which people can...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10101878/](https://pubmed.ncbi.nlm.nih.gov/10101878/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: selfdeterminationtheory.org  
    Title: 1999 SheldonElliot  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf](https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — The first ob...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: selfdeterminationtheory.org  
    Title: 2001 SheldonHouserMarko JHP 1  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-concordance, goal attainment, and the pursuit of...by KM Sheldon · 2001 · Cited by 1180 — For exam- ple, S...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: research.birmingham.ac.uk  
-   Link: [https://research.birmingham.ac.uk/en/publications/goal-striving-goal-attainment-and-well-being-an-investigation-of-/](https://research.birmingham.ac.uk/en/publications/goal-striving-goal-attainment-and-well-being-an-investigation-of-/)  
+   Link: <a href="https://research.birmingham.ac.uk/en/publications/goal-striving-goal-attainment-and-well-being-an-investigation-of-/" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/goal-striving-goal-attainment-and-well-being-an-investigation-of-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BirminghamAn investigation of the Self-Concordance Model in sportby A Smith · 2007 · Cited by 332 — Grounded in self-determ...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18089903/](https://pubmed.ncbi.nlm.nih.gov/18089903/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18089903/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18089903/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordance model (Sheldon &amp; Elliot, 1999), this study examined the motivational processes underlying goal striving in sport as well...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/11195887/](https://pubmed.ncbi.nlm.nih.gov/11195887/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11195887/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11195887/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-concordance, goal attainment, and the pursuit of happinessTwo studies used the self-concordance model of healthy goal strivin...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: techscience.com  
-   Link: [https://www.techscience.com/IJMHP/v23n2/42430/html](https://www.techscience.com/IJMHP/v23n2/42430/html)  
+   Link: <a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech ScienceGoal Self-Concordance Model: What Have We Learned and Where...Goal self-concordance is derived from one&#x27;s interest and needs...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wp.hse.ru  
-   Link: [https://wp.hse.ru/data/2016/12/02/1113377066/64PSY2016.pdf](https://wp.hse.ru/data/2016/12/02/1113377066/64PSY2016.pdf)  
+   Link: <a href="https://wp.hse.ru/data/2016/12/02/1113377066/64PSY2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.hse.ru/data/2016/12/02/1113377066/64PSY2016.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordance model: the effects of autonomy, effort...by DD Suchkov — The self-concordance model explains the mechanics of conative...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pure-oai.bham.ac.uk  
    Title: bham.ac.uk Goal striving, goal attainment, and well-being  
-   Link: [https://pure-oai.bham.ac.uk/ws/files/10761050/2007_Smith_Ntoumanis_Duda._Goal_Striving_Goal_attainment_well_being.pdf](https://pure-oai.bham.ac.uk/ws/files/10761050/2007_Smith_Ntoumanis_Duda._Goal_Striving_Goal_attainment_well_being.pdf)  
+   Link: <a href="https://pure-oai.bham.ac.uk/ws/files/10761050/2007_Smith_Ntoumanis_Duda._Goal_Striving_Goal_attainment_well_being.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/files/10761050/2007_Smith_Ntoumanis_Duda._Goal_Striving_Goal_attainment_well_being.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The self-concordance model (Sheldon &amp; Elliot, 1999) focuses on the motives underlying personal goal striving, the...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pure-oai.bham.ac.uk  
-   Link: [https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Well_Being.pdf](https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Well_Being.pdf)  
+   Link: <a href="https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Well_Being.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Well_Being.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Striving, Coping, and Well-Being - Pureby AL Smith · 2011 · Cited by 239 — Core self-evaluations and job and life satisfaction: The role...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: repository.londonmet.ac.uk  
    Title: Main Manuscript 2 REVISION 1  
-   Link: [https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf](https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf)  
+   Link: <a href="https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>londonmet.ac.ukSelf-Concordance Theory and the Goal-Striving Reasons...by C Ehrlich · 2024 · Cited by 5 — Two important concepts that me...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: alliancecoaching.co.uk  
    Title: ICPR Goal Self Concordance  
-   Link: [https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf](https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf)  
+   Link: <a href="https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing goal self-concordance through coachingby D Burke · 2007 · Cited by 117 — The self-concordance model posits that when pursuing s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: lifestyle.sustainability-directory.com  
    Title: self concordance theory  
-   Link: [https://lifestyle.sustainability-directory.com/term/self-concordance-theory/](https://lifestyle.sustainability-directory.com/term/self-concordance-theory/)  
+   Link: <a href="https://lifestyle.sustainability-directory.com/term/self-concordance-theory/" target="_blank" rel="noopener noreferrer nofollow">https://lifestyle.sustainability-directory.com/term/self-concordance-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sustainability-directory.comSelf-Concordance Theory → TermSep 16, 2025 — [Meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) → Self-concordance explains how goals rooted in genuine...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: purehost.bath.ac.uk  
    Title: Smith JSEP 2007 29 763  
-   Link: [https://purehost.bath.ac.uk/ws/files/416258/Smith_JSEP_2007_29_763.pdf](https://purehost.bath.ac.uk/ws/files/416258/Smith_JSEP_2007_29_763.pdf)  
+   Link: <a href="https://purehost.bath.ac.uk/ws/files/416258/Smith_JSEP_2007_29_763.pdf" target="_blank" rel="noopener noreferrer nofollow">https://purehost.bath.ac.uk/ws/files/416258/Smith_JSEP_2007_29_763.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Striving, Goal Attainment, and Well-Beingby A Smith · 2007 · Cited by 329 — In Sheldon and Elliot&#x27;s (1999) research, the association of g...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/259008406/The-self-concordance-model-of-healthy-goal-striving](https://www.scribd.com/doc/259008406/The-self-concordance-model-of-healthy-goal-striving)  
+   Link: <a href="https://www.scribd.com/doc/259008406/The-self-concordance-model-of-healthy-goal-striving" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/259008406/The-self-concordance-model-of-healthy-goal-striving</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Concordance Model of Healthy Goal-Striving...Putting the Self-Concordance Model Together Sheldon and Elliot (1999) assembled al...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: issep.org  
    Title: optimizing free will  
-   Link: [https://www.issep.org/features/optimizing-free-will](https://www.issep.org/features/optimizing-free-will)  
+   Link: <a href="https://www.issep.org/features/optimizing-free-will" target="_blank" rel="noopener noreferrer nofollow">https://www.issep.org/features/optimizing-free-will</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal self-concordance and...12 Aug 2025 — According to the original self-concordance model (Sheldon &amp; Elliot, 1999), people who select g...</p></details>

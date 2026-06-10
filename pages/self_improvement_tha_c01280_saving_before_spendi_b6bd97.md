@@ -502,7 +502,7 @@ image: /assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-ov
 
 ## Introduction
 
-Saving before spending is a practical self-improvement policy: decide the saving rule in advance, automate it as close to payday as possible, and let the remaining balance become the money available for ordinary spending. It works because it changes the moment of choice. Instead of asking a tired future self to resist purchases after money is visible and tempting, it makes saving the default before those temptations arrive. The core tools are simple: split pay into savings and spending accounts, schedule transfers, add friction to impulse buys, and review balances often enough to adjust the system. Evidence from automatic enrolment, [payroll saving]({{ 'payroll-saving/' | relative_url }}), emergency-savings research and behavioural economics suggests that [defaults]({{ 'defaults/' | relative_url }}) can strongly increase participation in saving, though they can also leave people under-saving if the default amount is too low or if saving pushes them into avoidable debt. NBER <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-title">American Economic Association Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">MaPSPayroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span>
+Saving before spending is a practical self-improvement policy: decide the saving rule in advance, automate it as close to payday as possible, and let the remaining balance become the money available for ordinary spending. It works because it changes the moment of choice. Instead of asking a tired future self to resist purchases after money is visible and tempting, it makes saving the default before those temptations arrive. The core tools are simple: split pay into savings and spending accounts, schedule transfers, add friction to impulse buys, and review balances often enough to adjust the system. Evidence from automatic enrolment, [payroll saving]({{ 'payroll-saving/' | relative_url }}), emergency-savings research and behavioural economics suggests that [defaults]({{ 'defaults/' | relative_url }}) can strongly increase participation in saving, though they can also leave people under-saving if the default amount is too low or if saving pushes them into avoidable debt. NBER <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-title">American Economic Association Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-overview.webp" | relative_url }}" alt="Overview image for Saving" loading="eager" decoding="sync" fetchpriority="high">
@@ -551,7 +551,7 @@ Practical default choices include:
 
 </div>
 
-Payroll-linked saving is especially relevant because it moves the saving decision upstream. The Money and Pensions Service describes payroll saving as an automatic deduction from wages that makes saving easy and routine, similar in feel to pension contributions. Nest Insight’s workplace emergency-savings programme found that opt-out payroll saving can be a powerful way to help workers save consistently, and evidence submitted to Parliament stated that building accessible emergency savings alongside pensions did not appear to increase pension opt-outs or reduce pension contributions in those trials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">MaPSPayroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Payroll-linked saving is especially relevant because it moves the saving decision upstream. The Money and Pensions Service describes payroll saving as an automatic deduction from wages that makes saving easy and routine, similar in feel to pension contributions. Nest Insight’s workplace emergency-savings programme found that opt-out payroll saving can be a powerful way to help workers save consistently, and evidence submitted to Parliament stated that building accessible emergency savings alongside pensions did not appear to increase pension opt-outs or reduce pension contributions in those trials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The important implementation detail is timing. A transfer scheduled three weeks after payday is not the same intervention as one scheduled on payday morning. Saving before spending works because it reaches the money before the spending [environment]({{ 'environment/' | relative_url }}) does.
 
@@ -560,7 +560,7 @@ The important implementation detail is timing. A transfer scheduled three weeks 
 
 ## Friction for impulse buys: protect the saving rule after it runs
 
-[Automatic saving]({{ 'money-defaults/' | relative_url }}) is only half the system. The other half is stopping saved money from being too easy to reclaim for impulse purchases. If savings can be raided with one tap, the “default” is weak; it has merely moved money between labels.
+Automatic saving is only half the system. The other half is stopping saved money from being too easy to reclaim for impulse purchases. If savings can be raided with one tap, the “default” is weak; it has merely moved money between labels.
 
 This is where friction helps. Friction is any small barrier that slows a purchase long enough for intention to catch up with impulse. Online retail, digital wallets, stored cards and buy-now-pay-later products are designed to reduce friction. That can be convenient for necessary purchases, but it also weakens the pause in which a person might ask, “Do I actually want this, and does it fit my plan?”
 
@@ -584,7 +584,7 @@ The boundary matters. Too much friction can backfire if money is genuinely neede
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-2-dark.svg" | relative_url }}" alt="Saving illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Feedback from balances: let accounts tell the truth
 
-Saving before spending works best when balances give clear feedback. A single account containing rent money, grocery money, holiday money, emergency savings and emotional-spending money is a confusing dashboard. It can look healthy on payday and still be unable to handle a bill two weeks later.
+Saving before spending works best when balances give clear [feedback]({{ 'feedback/' | relative_url }}). A single account containing rent money, grocery money, holiday money, emergency savings and emotional-spending money is a confusing dashboard. It can look healthy on payday and still be unable to handle a bill two weeks later.
 
 Separate balances make the system observable. A spending account shows what is available for the rest of the month. A bills account shows whether known obligations are covered. A savings account shows whether the buffer is growing. That visibility matters because self-improvement improves through feedback, not through guilt.
 
@@ -606,7 +606,7 @@ Good balance feedback answers three questions:
 This is why balance review should be routine but not obsessive. A weekly check is often enough for ordinary cash flow. A monthly review can adjust transfer amounts, close leaks, cancel unused subscriptions or increase savings after income rises. The behaviour to avoid is daily panic-checking without changing the system.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pGO5yKglqio" title="Automate Your Finances In 15 Mins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pGO5yKglqio" target="_blank" rel="noopener noreferrer">Automate Your Finances In 15 Mins</a></p><p class="youtube-embed-meta">Channel: MeaningfulMoney &middot; Views: 25.7K &middot; Uploaded: February 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pGO5yKglqio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pGO5yKglqio">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bb_kQNvCS58" title="How to Save Money: Easy Ways to Pay Yourself First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bb_kQNvCS58" target="_blank" rel="noopener noreferrer">How to Save Money: Easy Ways to Pay Yourself First</a></p><p class="youtube-embed-meta">Channel: Acorns &middot; Views: 92 &middot; Uploaded: January 2026 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bb_kQNvCS58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bb_kQNvCS58">Open on YouTube</a></p></div></div></div>
 
 ## The best version is flexible, not heroic
 
@@ -656,7 +656,7 @@ The fourth mistake is ignoring debt. If automatic saving causes overdraft fees, 
 The fifth mistake is treating the default as proof of virtue. A default is a tool. It needs observation. Balances, missed payments, debt levels and withdrawal [frequency]({{ 'frequency/' | relative_url }}) are feedback about whether the tool is working.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bb_kQNvCS58" title="How to Save Money: Easy Ways to Pay Yourself First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bb_kQNvCS58" target="_blank" rel="noopener noreferrer">How to Save Money: Easy Ways to Pay Yourself First</a></p><p class="youtube-embed-meta">Channel: Acorns &middot; Views: 92 &middot; Uploaded: January 2026 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bb_kQNvCS58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bb_kQNvCS58">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-ov2i-BFpN8" title="The One Money Habit Keeping You Broke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-ov2i-BFpN8" target="_blank" rel="noopener noreferrer">The One Money Habit Keeping You Broke</a></p><p class="youtube-embed-meta">Channel: The Financial Edge &middot; Views: 1 &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-ov2i-BFpN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-ov2i-BFpN8">Open on YouTube</a></p></div></div></div>
 
 ## The takeaway: make saving the first transaction, not the final hope
 
@@ -1087,200 +1087,200 @@ The result is a quieter form of self improvement: fewer dramatic resolutions, fe
 
 1. <a id="endnote-1"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/papers/w32100](https://www.nber.org/papers/w32100)  
+   Link: <a href="https://www.nber.org/papers/w32100" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w32100</a>  
 
 2. <a id="endnote-2"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w8651/w8651.pdf](https://www.nber.org/system/files/working_papers/w8651/w8651.pdf)  
+   Link: <a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: automatic enrolment evaluation report 2019  
-   Link: [https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019](https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019)  
+   Link: <a href="https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019</a>  
 
 4. <a id="endnote-4"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: [https://www.thepensionsregulator.gov.uk/en/document-library/automatic-enrolment-detailed-guidance](https://www.thepensionsregulator.gov.uk/en/document-library/automatic-enrolment-detailed-guidance)  
+   Link: <a href="https://www.thepensionsregulator.gov.uk/en/document-library/automatic-enrolment-detailed-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/document-library/automatic-enrolment-detailed-guidance</a>  
 
 5. <a id="endnote-5"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/161491/html/](https://committees.parliament.uk/writtenevidence/161491/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/161491/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161491/html/</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0022435924000654](https://www.sciencedirect.com/science/article/pii/S0022435924000654)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022435924000654" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022435924000654</a>  
 
 7. <a id="endnote-7"></a>
    Source: corporate.vanguard.com  
    Title: [PDF] The relationship between emergency savings, financial well-being  
-   Link: [https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf](https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf)  
+   Link: <a href="https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/10.1086/380085](https://www.jstor.org/stable/10.1086/380085)  
+   Link: <a href="https://www.jstor.org/stable/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1086/380085</a>  
 
 9. <a id="endnote-9"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/64033/html/](https://committees.parliament.uk/writtenevidence/64033/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/64033/html/</a>  
 
 10. <a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/161491/pdf/](https://committees.parliament.uk/writtenevidence/161491/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/161491/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161491/pdf/</a>  
 
 11. <a id="endnote-11"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/66747/html/](https://committees.parliament.uk/writtenevidence/66747/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/66747/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/66747/html/</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548](https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744](https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167268124004906](https://www.sciencedirect.com/science/article/pii/S0167268124004906)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167268124004906" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167268124004906</a>  
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167629622000881](https://www.sciencedirect.com/science/article/pii/S0167629622000881)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167629622000881" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167629622000881</a>  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844024117744](https://www.sciencedirect.com/science/article/pii/S2405844024117744)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
 
 17. <a id="endnote-17"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w18220/w18220.pdf](https://www.nber.org/system/files/working_papers/w18220/w18220.pdf)  
+   Link: <a href="https://www.nber.org/system/files/working_papers/w18220/w18220.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w18220/w18220.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/6358e5a08fa8f557d9a2d573/workplace-pensions-and-automatic-enrolment.pdf](https://assets.publishing.service.gov.uk/media/6358e5a08fa8f557d9a2d573/workplace-pensions-and-automatic-enrolment.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6358e5a08fa8f557d9a2d573/workplace-pensions-and-automatic-enrolment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6358e5a08fa8f557d9a2d573/workplace-pensions-and-automatic-enrolment.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/understanding-member-engagement-with-workplace-pensions/summary-understanding-member-engagement-with-workplace-pensions](https://www.gov.uk/government/publications/understanding-member-engagement-with-workplace-pensions/summary-understanding-member-engagement-with-workplace-pensions)  
+   Link: <a href="https://www.gov.uk/government/publications/understanding-member-engagement-with-workplace-pensions/summary-understanding-member-engagement-with-workplace-pensions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/understanding-member-engagement-with-workplace-pensions/summary-understanding-member-engagement-with-workplace-pensions</a>  
 
 20. <a id="endnote-20"></a>
    Source: aeaweb.org  
    Title: American Economic Association Why Do Defaults Affect Behavior?  
-   Link: [https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676](https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676)  
+   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: maps.org.uk  
-   Link: [https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes](https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MaPSPayroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</p></details>
+   Link: <a href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: consumerfinance.gov  
-   Link: [https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/](https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/)  
+   Link: <a href="https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/</a>  
 
 23. <a id="endnote-23"></a>
    Source: consumerfinance.gov  
    Title: looking easy way save money make it automatic  
-   Link: [https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/](https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/</a>  
 
 24. <a id="endnote-24"></a>
    Source: consumerfinance.gov  
    Title: how save emergencies and future  
-   Link: [https://www.consumerfinance.gov/about-us/blog/how-save-emergencies-and-future/](https://www.consumerfinance.gov/about-us/blog/how-save-emergencies-and-future/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/blog/how-save-emergencies-and-future/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/how-save-emergencies-and-future/</a>  
 
 25. <a id="endnote-25"></a>
    Source: nestinsight.org.uk  
-   Link: [https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf](https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf)  
+   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: files.consumerfinance.gov  
-   Link: [https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf](https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf)  
+   Link: <a href="https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: consumerfinance.gov  
-   Link: [https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/](https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/)  
+   Link: <a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
 
 28. <a id="endnote-28"></a>
    Source: chicagobooth.edu  
-   Link: [https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis](https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis)  
+   Link: <a href="https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis</a>  
 
 29. <a id="endnote-29"></a>
    Source: aeaweb.org  
    Title: American Economic Association The Impossibility of Saving by Spending  
-   Link: [https://www.aeaweb.org/conference/2023/program/paper/D8QD5Z29](https://www.aeaweb.org/conference/2023/program/paper/D8QD5Z29)  
+   Link: <a href="https://www.aeaweb.org/conference/2023/program/paper/D8QD5Z29" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/conference/2023/program/paper/D8QD5Z29</a>  
 
 30. <a id="endnote-30"></a>
    Source: consumerfinance.gov  
    Title: consumer financial protection bureau releases research saving habits  
-   Link: [https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-releases-research-saving-habits/](https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-releases-research-saving-habits/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-releases-research-saving-habits/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-releases-research-saving-habits/</a>  
 
 31. <a id="endnote-31"></a>
    Source: nestinsight.org.uk  
-   Link: [https://www.nestinsight.org.uk/?p=7352](https://www.nestinsight.org.uk/?p=7352)  
+   Link: <a href="https://www.nestinsight.org.uk/?p=7352" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/?p=7352</a>  
 
 32. <a id="endnote-32"></a>
    Source: nestinsight.org.uk  
-   Link: [https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/](https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/)  
+   Link: <a href="https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/</a>  
 
 33. <a id="endnote-33"></a>
    Source: professionalpensions.com  
    Title: nest insight publishes sidecar savings trial findings  
-   Link: [https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings](https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings)  
+   Link: <a href="https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings</a>  
 
 34. <a id="endnote-34"></a>
    Source: slvfed.bank  
    Title: emergency savings  
-   Link: [https://www.slvfed.bank/blog/post/emergency-savings](https://www.slvfed.bank/blog/post/emergency-savings)  
+   Link: <a href="https://www.slvfed.bank/blog/post/emergency-savings" target="_blank" rel="noopener noreferrer nofollow">https://www.slvfed.bank/blog/post/emergency-savings</a>  
 
 35. <a id="endnote-35"></a>
    Source: linkedin.com  
    Title: nest insight workplace emergency savings activity 7330151491258769408 Uj78  
-   Link: [https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78](https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78)  
+   Link: <a href="https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78</a>  
 
 36. <a id="endnote-36"></a>
    Source: pnc.com  
    Title: pay yourself first  
-   Link: [https://www.pnc.com/insights/personal-finance/save/pay-yourself-first.html](https://www.pnc.com/insights/personal-finance/save/pay-yourself-first.html)  
+   Link: <a href="https://www.pnc.com/insights/personal-finance/save/pay-yourself-first.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pnc.com/insights/personal-finance/save/pay-yourself-first.html</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: clear.dol.gov  
-   Link: [https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004](https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004)  
+   Link: <a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
 
 38. <a id="endnote-38"></a>
    Source: clear.dol.gov  
    Title: better or worse default effects and 401k savings behavior choi et al 2004  
-   Link: [https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004](https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004)  
+   Link: <a href="https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004</a>  
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults](https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults)  
+   Link: <a href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults</a>  
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391345734_Buy_Now_Pay_Later_An_Analysis_of_Consumer_Financial_Protection_Bureau_Research_and_Regulatory_Actions](https://www.researchgate.net/publication/391345734_Buy_Now_Pay_Later_An_Analysis_of_Consumer_Financial_Protection_Bureau_Research_and_Regulatory_Actions)  
+   Link: <a href="https://www.researchgate.net/publication/391345734_Buy_Now_Pay_Later_An_Analysis_of_Consumer_Financial_Protection_Bureau_Research_and_Regulatory_Actions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391345734_Buy_Now_Pay_Later_An_Analysis_of_Consumer_Financial_Protection_Bureau_Research_and_Regulatory_Actions</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349072941_A_replication_study_of_the_credit_card_effect_on_spending_behavior_and_an_extension_to_mobile_payments](https://www.researchgate.net/publication/349072941_A_replication_study_of_the_credit_card_effect_on_spending_behavior_and_an_extension_to_mobile_payments)  
+   Link: <a href="https://www.researchgate.net/publication/349072941_A_replication_study_of_the_credit_card_effect_on_spending_behavior_and_an_extension_to_mobile_payments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349072941_A_replication_study_of_the_credit_card_effect_on_spending_behavior_and_an_extension_to_mobile_payments</a>  
 
 42. <a id="endnote-42"></a>
    Source: anderson.ucla.edu  
-   Link: [https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/accounting/Benartzi%20and%20Thaler%20Science.pdf](https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/accounting/Benartzi%20and%20Thaler%20Science.pdf)  
+   Link: <a href="https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/accounting/Benartzi%20and%20Thaler%20Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/accounting/Benartzi%20and%20Thaler%20Science.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: hbs.edu  
-   Link: [https://www.hbs.edu/faculty/Pages/item.aspx?num=62774](https://www.hbs.edu/faculty/Pages/item.aspx?num=62774)  
+   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=62774" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=62774</a>  
 
 44. <a id="endnote-44"></a>
    Source: fair4allfinance.org.uk  
-   Link: [https://fair4allfinance.org.uk/buy-now-pay-later-and-financial-vulnerability/](https://fair4allfinance.org.uk/buy-now-pay-later-and-financial-vulnerability/)  
+   Link: <a href="https://fair4allfinance.org.uk/buy-now-pay-later-and-financial-vulnerability/" target="_blank" rel="noopener noreferrer nofollow">https://fair4allfinance.org.uk/buy-now-pay-later-and-financial-vulnerability/</a>  
 
 45. <a id="endnote-45"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/26874/chapter/10](https://www.nationalacademies.org/read/26874/chapter/10)  
+   Link: <a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
 
 46. <a id="endnote-46"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/intervention/defaults-improve-savings](https://thedecisionlab.com/intervention/defaults-improve-savings)  
+   Link: <a href="https://thedecisionlab.com/intervention/defaults-improve-savings" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/defaults-improve-savings</a>  

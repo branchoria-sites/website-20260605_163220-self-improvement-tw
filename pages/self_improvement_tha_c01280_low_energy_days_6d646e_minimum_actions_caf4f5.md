@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:55:04'
 parent_title: Build the Plan for Your Worst Day | Better Change
 parent_permalink: /low-energy/
 parent_nav_short_title: Low Energy
@@ -265,7 +266,6 @@ next_link:
   permalink: /recovery-4d2f67/
   short_title: Recovery
   heading_title: How to return without the guilt spiral
-date: '2026-06-05 14:55:04 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-1.webp
@@ -278,7 +278,7 @@ A minimum action is the smallest version of a habit that still counts as doing t
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-1-dark.svg" | relative_url }}" alt="Minimums illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on habit formation consistently points to repetition in a stable context as a key driver of [automaticity]({{ 'automaticity/' | relative_url }}). The behaviour does not need to be impressive every day; it needs to remain connected to its cue and routine. Repeated performance strengthens the habit loop over time, whereas long interruptions make restarting harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPITime to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 69 — Repetition not only reinforces the behaviour...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Psychological theor...</span></span></span>
+Research on habit formation consistently points to repetition in a stable context as a key driver of [automaticity]({{ 'automaticity/' | relative_url }}). The behaviour does not need to be impressive every day; it needs to remain connected to its cue and routine. Repeated performance strengthens the habit loop over time, whereas long interruptions make restarting harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 69 — Repetition not only reinforces the behaviour...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Psychological theor...</span></span></span>
 
 The practical question on a bad day is therefore not “How much can I achieve?” but “What is the smallest action that keeps this habit alive?”
 
@@ -452,7 +452,7 @@ People often judge habits by what happens on their best days. Long-term success 
 
 Maintenance days provide a bridge between high-performance periods. They protect routines during illness, stress, travel, deadlines, poor sleep and emotional fatigue. Rather than treating every difficult day as a failure, they create a lower standard that still preserves the behaviour.
 
-Research on habit formation suggests that automaticity develops through repeated performance over time, and evidence on planning and implementation intentions shows that clear, pre-defined actions improve follow-through. A maintenance-day minimum combines both ideas: it defines exactly what to do when circumstances are unfavourable and keeps repetition alive until energy returns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.gla.ac.uk/289340/1/289340.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-title">Enlighten Publications Can a simple plan change a complex behavior?</span><span class="citation-popover-snippet">by A Rodger · 2023 · Cited by 24 — Implementation intentions have been found to effectively promote many health behaviors, but little is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPITime to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 69 — Repetition not only reinforces the behaviour...</span></span></span> ResearchGate The most effective minimum action is therefore not the one that produces the largest result today. It is the one small enough to be completed <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentionsintentions are formed for the purpose of enhancing the translation of goal intentions into act...</span></span></span> consistently and meaningful enough to keep tomorrow's habit intact.
+Research on habit formation suggests that automaticity develops through repeated performance over time, and evidence on planning and implementation intentions shows that clear, pre-defined actions improve follow-through. A maintenance-day minimum combines both ideas: it defines exactly what to do when circumstances are unfavourable and keeps repetition alive until energy returns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.gla.ac.uk/289340/1/289340.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-title">Enlighten Publications Can a simple plan change a complex behavior?</span><span class="citation-popover-snippet">by A Rodger · 2023 · Cited by 24 — Implementation intentions have been found to effectively promote many health behaviors, but little is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 69 — Repetition not only reinforces the behaviour...</span></span></span> ResearchGate The most effective minimum action is therefore not the one that produces the largest result today. It is the one small enough to be completed <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentionsintentions are formed for the purpose of enhancing the translation of goal intentions into act...</span></span></span> consistently and meaningful enough to keep tomorrow's habit intact.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -843,171 +843,171 @@ Research on habit formation suggests that automaticity develops through repeated
 
 1. <a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-9032/12/23/2488](https://www.mdpi.com/2227-9032/12/23/2488)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPITime to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 69 — Repetition not only reinforces the behaviour...</p></details>
+   Link: <a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 69 — Repetition not only reinforces the behaviour...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S266651822200016X](https://www.sciencedirect.com/science/article/pii/S266651822200016X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S266651822200016X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 31 — This study assessed the role of habitua...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentionsintentions are formed for the purpose of enhancing the translation of goal intentions into act...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsImplementation intentions, however, are al...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants](https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants)  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Four studies reported the median or mean times to reach habit formati...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/23316230_Planning_to_break_unwanted_habits_Habit_strength_moderates_implementation_intention_effects_on_behaviour_change](https://www.researchgate.net/publication/23316230_Planning_to_break_unwanted_habits_Habit_strength_moderates_implementation_intention_effects_on_behaviour_change)  
+   Link: <a href="https://www.researchgate.net/publication/23316230_Planning_to_break_unwanted_habits_Habit_strength_moderates_implementation_intention_effects_on_behaviour_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23316230_Planning_to_break_unwanted_habits_Habit_strength_moderates_implementation_intention_effects_on_behaviour_change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary, habit strength moderates the effectiveness of if-then plan formation in breaking unwanted habits.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Psychological theor...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 65 — The results of this study confirm that be...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralA review and analysis of the use of &#x27;habit&#x27; in understanding...by B Gardner · 2014 · Cited by 1317 — This paper examines u...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/](https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/)  
+   Link: <a href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: eprints.gla.ac.uk  
    Title: Enlighten Publications Can a simple plan change a complex behavior?  
-   Link: [https://eprints.gla.ac.uk/289340/1/289340.pdf](https://eprints.gla.ac.uk/289340/1/289340.pdf)  
+   Link: <a href="https://eprints.gla.ac.uk/289340/1/289340.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/289340/1/289340.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Rodger · 2023 · Cited by 24 — Implementation intentions have been found to effectively promote many health behaviors, but little is...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thrivestreetadvisors.com  
-   Link: [https://www.thrivestreetadvisors.com/leadership-library/tiny-habits](https://www.thrivestreetadvisors.com/leadership-library/tiny-habits)  
+   Link: <a href="https://www.thrivestreetadvisors.com/leadership-library/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.thrivestreetadvisors.com/leadership-library/tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsFogg gives a model for how to develop sustainable habits via tiny steps.... The Action Prompt is one way you hack your behavi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nehrlich.com  
    Title: tiny habits by bj fogg  
-   Link: [https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/](https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/)  
+   Link: <a href="https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits, by BJ Fogg3 Mar 2020 — So a key part of Fogg&#x27;s Tiny Habits methodology is to celebrate each time we do the behavior, even if...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: drpaulmccarthy.com  
    Title: tiny habits the breakthrough method for building life changing behaviors  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...10 Feb 2026 — Use the B=MAP formula: Every behavior needs Motivation, Ability...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=S_8e-6ZHKLs](https://www.youtube.com/watch?v=S_8e-6ZHKLs)  
+   Link: <a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_8e-6ZHKLs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TINY HABITS by BJ Fogg | Core MessageForget big change, start with a tiny habit: BJ Fogg at TEDxFremont. TEDx Talks &amp;middot; 2.3M views...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation Intentions are proven strategies helping you achi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translation of goal intentions into ac...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf](https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with imagery...by A Divine · 2025 · Cited by 7 — Evidence suggests that general action planning and implementa...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hubermanlab.com  
-   Link: [https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools](https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools)  
+   Link: <a href="https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools" target="_blank" rel="noopener noreferrer nofollow">https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Build or Break Habits Using Science-Based ToolsBased on my read of the literature, I suggest people pick six new habits to incorporate pe...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: theonlinegp.com  
-   Link: [https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick](https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick)  
+   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...12 Aug 2025 — Effective habit stacks follow the formula: &quot;After I [existing habit]...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: oneyoufeed.net  
-   Link: [https://www.oneyoufeed.net/why-[willpower](https://www.oneyoufeed.net/why-[willpower)  
+   Link: <a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg shares practical strategies for designing habits that fit individual contexts, explains his behavior model, and discusses how positi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40TheChosenVictor/never-miss-twice-c430ea069833](https://medium.com/%40TheChosenVictor/never-miss-twice-c430ea069833)  
+   Link: <a href="https://medium.com/%40TheChosenVictor/never-miss-twice-c430ea069833" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40TheChosenVictor/never-miss-twice-c430ea069833</a>  
 
 28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: This may be achieved by mentally forming stimulus-response  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (strategic “if-t...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/atomic-habits-vs-tiny-habits/](https://goalsandprogress.com/atomic-habits-vs-tiny-habits/)  
+   Link: <a href="https://goalsandprogress.com/atomic-habits-vs-tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/atomic-habits-vs-tiny-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Use our Fit-First Filter to match Clear&#x27;s systems or Fogg&#x27;s micro-behaviors to where you are stuck...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Research indeed demonstrates that implementation intentions&#x27;...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
    Title: The secret to building lifelong habits fits in 3 letters  
-   Link: [https://www.linkedin.com/posts/ali-abdaal_the-secret-to-building-lifelong-habits-fits-activity-7372615066644320256-ADl2](https://www.linkedin.com/posts/ali-abdaal_the-secret-to-building-lifelong-habits-fits-activity-7372615066644320256-ADl2)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Ali...Love how simple BJ Fogg makes it with MAP, most people overcomplicate habits. The reminder that ability (removing friction) is j...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/ali-abdaal_the-secret-to-building-lifelong-habits-fits-activity-7372615066644320256-ADl2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ali-abdaal_the-secret-to-building-lifelong-habits-fits-activity-7372615066644320256-ADl2</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>how simple BJ Fogg makes it with MAP, most people overcomplicate habits. The reminder that ability (removing friction) is j...</p></details>

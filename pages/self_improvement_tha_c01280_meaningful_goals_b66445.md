@@ -506,7 +506,7 @@ A meaningful goal is one you can keep returning to after the exciting beginning 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-overview.webp" | relative_url }}" alt="Overview image for Meaning" loading="eager" decoding="sync" fetchpriority="high">
-This is why meaningful goals matter in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}). Behaviour-change research supports [goal setting]({{ 'goal-setting/' | relative_url }}) as an effective technique, but goals are more durable when they are specific enough to guide action and personally endorsed enough to survive friction. A goal that only borrows energy from novelty, comparison or guilt often fades when progress becomes repetitive. A goal linked to autonomous motivation, competence, relationships or a valued future has more to draw on when the work becomes ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self determination theory</span><span class="citation-popover-snippet">Self determination theory</span></span></span>
+This is why meaningful goals matter in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}). Behaviour-change research supports [goal setting]({{ 'goal-setting/' | relative_url }}) as an effective technique, but goals are more durable when they are specific enough to guide action and personally endorsed enough to survive friction. A goal that only borrows energy from novelty, comparison or guilt often fades when progress becomes repetitive. A goal linked to autonomous motivation, competence, relationships or a valued future has more to draw on when the work becomes ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self determination theory</span><span class="citation-popover-snippet">Self determination theory</span></span></span>
 
 ## Why boredom tests whether a goal has roots
 
@@ -592,7 +592,7 @@ A good goal can survive boredom, but it should not require denial of reality. If
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-dark.svg" | relative_url }}" alt="Meaning illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Specific goals still need a meaningful “why”
 
-Specific goals matter because they reduce ambiguity. A meta-analysis led by Thomas Epton found that goal setting has a positive effect on behaviour change, supporting its place as a core behaviour-change technique. Locke and Latham’s goal-setting theory also emphasises that specific, challenging goals can direct attention, mobilise effort and support persistence, especially when there is commitment, [feedback]({{ 'feedback/' | relative_url }}) and a workable strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span>
+Specific goals matter because they reduce ambiguity. A meta-analysis led by Thomas Epton found that goal setting has a positive effect on [behaviour change]({{ 'behaviour-change/' | relative_url }}), supporting its place as a core behaviour-change technique. Locke and Latham’s goal-setting theory also emphasises that specific, challenging goals can direct attention, mobilise effort and support persistence, especially when there is commitment, feedback and a workable strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span>
 
 But specificity is not the same as meaning. “Write 500 words every morning” is clearer than “be creative”, but it may still collapse if the person has no living connection to why writing matters. “Lose 5 kg” is measurable, but it may become brittle if it is powered only by self-disgust. “Save £300 a month” is concrete, but the repetition is easier to bear when the person can see the protected future it creates.
 
@@ -670,7 +670,7 @@ For meaningful goals, a monthly or seasonal review can be simple:
 The goal is not endless self-analysis. It is to keep the reason close enough that repetition does not become empty compliance.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1gdkBt9it84" title="ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer">ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear</a></p><p class="youtube-embed-meta">Channel: After Skool &middot; Views: 1.6M &middot; Uploaded: November 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1gdkBt9it84">Open on YouTube</a></p></div></div></div>
 
 ## What makes a goal worth repeating?
 
@@ -764,7 +764,7 @@ The best goals are often modest in appearance and deep in function. They make a 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -774,111 +774,36 @@ The best goals are often modest in appearance and deep in function. They make a 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Setting Definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7761c157229fcc7fd134.jpg' | relative_url }}" alt="Listing image for Goal Setting Definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Basketball Goal Set Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/bKwAAeSwZSxpZSlz/s-l225.jpg" alt="Listing image for Basketball Goal Set Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Goal Setting Definition Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Basketball Goal Set Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.com</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SET GOALS Monopoly ed1 Game Motivation Success Work Wall Decor Art POSTER CANVAS"><img src="{{ '/assets/images/marketplace-covers/356d22d8162fe8a5f265.jpg' | relative_url }}" alt="Listing image for SET GOALS Monopoly ed1 Game Motivation Success Work Wall Decor Art POSTER CANVAS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SET GOALS Monopoly ed1 Game Motivation Success Work Wall Decor Art POSTER CANVAS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.com</span>: goal setting wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3bd605a6f24efc1ed4e9.jpg' | relative_url }}" alt="Listing image for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Goal Setting Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.com</span>: goal setting wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set Goal In Business Matte Poster Wall Art"><img src="{{ '/assets/images/marketplace-covers/5bba7aa0fce3891f548f.jpg' | relative_url }}" alt="Listing image for Set Goal In Business Matte Poster Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Set Goal In Business Matte Poster Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.com</span>: goal setting wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-goal-setting-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/f40c97414ab72f71986c.jpg' | relative_url }}" alt="Listing image for Rocky Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rocky Motivational Quote Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -886,15 +811,15 @@ The best goals are often modest in appearance and deep in function. They make a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/c420d04fa46cf995b7dc.jpg' | relative_url }}" alt="Listing image for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set Goals Quote Print Black &amp; Gold Wall Art Picture"><img src="https://i.ebayimg.com/images/g/iQQAAOSwn4da3xHw/s-l225.jpg" alt="Listing image for Set Goals Quote Print Black &amp; Gold Wall Art Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set Goals Quote Print Black &amp; Gold Wall Art Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -902,15 +827,15 @@ The best goals are often modest in appearance and deep in function. They make a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor"><img src="{{ '/assets/images/marketplace-covers/3e3353db022f6bf74f7a.jpg' | relative_url }}" alt="Listing image for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set Goals And Demolish Them Quote Print Black &amp; Gold Wall Art Picture"><img src="https://i.ebayimg.com/images/g/yM8AAOSwbE9a3xHt/s-l225.jpg" alt="Listing image for Set Goals And Demolish Them Quote Print Black &amp; Gold Wall Art Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set Goals And Demolish Them Quote Print Black &amp; Gold Wall Art Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -918,15 +843,15 @@ The best goals are often modest in appearance and deep in function. They make a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set Goals Quote Print Watercolour Wall Art"><img src="https://i.ebayimg.com/images/g/5msAAOSwH~ta3ypr/s-l225.jpg" alt="Listing image for Set Goals Quote Print Watercolour Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set Goals Quote Print Watercolour Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -934,7 +859,7 @@ The best goals are often modest in appearance and deep in function. They make a 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meaning-what-makes-a-goal-worth-repeating-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1011,17 +936,31 @@ The best goals are often modest in appearance and deep in function. They make a 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -1034,42 +973,73 @@ The best goals are often modest in appearance and deep in function. They make a 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1084,217 +1054,221 @@ The best goals are often modest in appearance and deep in function. They make a 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOn the Function of Boredom  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets  
-   Link: [https://arxiv.org/abs/1210.0962](https://arxiv.org/abs/1210.0962)  
+   Link: <a href="https://arxiv.org/abs/1210.0962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1210.0962</a>  
 
 4. <a id="endnote-4"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279](https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279)  
+   Link: <a href="https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2402.00121](https://arxiv.org/abs/2402.00121)  
+   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMental contrasting as a behaviour change technique  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5123225/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5123225/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5123225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5123225/</a>  
 
 7. <a id="endnote-7"></a>
    Source: self.inc  
-   Link: [https://www.self.inc/](https://www.self.inc/)  
+   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
 
 8. <a id="endnote-8"></a>
    Source: goal.com  
-   Link: [https://www.goal.com/en-ca](https://www.goal.com/en-ca)  
+   Link: <a href="https://www.goal.com/en-ca" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca</a>  
 
 9. <a id="endnote-9"></a>
    Source: goal.com  
    Title: Antoine Semenyo's moment of magic lights up gloomy Wembley  
-   Link: [https://www.goal.com/en-ca/lists/antoine-semenyo-magic-wembley-doom-chelsea-europe-winners-losers-man-city-fa-cup-final/blte0ba1fb31fd7ff26](https://www.goal.com/en-ca/lists/antoine-semenyo-magic-wembley-doom-chelsea-europe-winners-losers-man-city-fa-cup-final/blte0ba1fb31fd7ff26)  
+   Link: <a href="https://www.goal.com/en-ca/lists/antoine-semenyo-magic-wembley-doom-chelsea-europe-winners-losers-man-city-fa-cup-final/blte0ba1fb31fd7ff26" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca/lists/antoine-semenyo-magic-wembley-doom-chelsea-europe-winners-losers-man-city-fa-cup-final/blte0ba1fb31fd7ff26</a>  
 
 10. <a id="endnote-10"></a>
    Source: goal.com  
-   Link: [https://www.goal.com/en-ca/lists/rayan-cherki-shares-cheeky-selfie-he-took-with-prince-william-during-man-city-s-fa-cup-trophy-lift/bltc5179ee6b4bc4913](https://www.goal.com/en-ca/lists/rayan-cherki-shares-cheeky-selfie-he-took-with-prince-william-during-man-city-s-fa-cup-trophy-lift/bltc5179ee6b4bc4913)  
+   Link: <a href="https://www.goal.com/en-ca/lists/rayan-cherki-shares-cheeky-selfie-he-took-with-prince-william-during-man-city-s-fa-cup-trophy-lift/bltc5179ee6b4bc4913" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca/lists/rayan-cherki-shares-cheeky-selfie-he-took-with-prince-william-during-man-city-s-fa-cup-trophy-lift/bltc5179ee6b4bc4913</a>  
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-mission/how-to-stay-focused-when-you-get-bored-working-toward-your-goals-1fd43ba4a908](https://medium.com/the-mission/how-to-stay-focused-when-you-get-bored-working-toward-your-goals-1fd43ba4a908)  
+   Link: <a href="https://medium.com/the-mission/how-to-stay-focused-when-you-get-bored-working-toward-your-goals-1fd43ba4a908" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mission/how-to-stay-focused-when-you-get-bored-working-toward-your-goals-1fd43ba4a908</a>  
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22](https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22)  
+   Link: <a href="https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22</a>  
 
 13. <a id="endnote-13"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/iwc/article/38/3/447/7760010](https://academic.oup.com/iwc/article/38/3/447/7760010)  
+   Link: <a href="https://academic.oup.com/iwc/article/38/3/447/7760010" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/iwc/article/38/3/447/7760010</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to become 37.78 times better at anything | Atomic Habits  
-   Link: [http://www.youtube.com/watch?v=PZ7lDrwYdZc](http://www.youtube.com/watch?v=PZ7lDrwYdZc)  
+   Link: <a href="http://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PZ7lDrwYdZc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Deci - Self-Determination Theory...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Edward Deci  
-   Link: [http://www.youtube.com/watch?v=m6fm1gt5YAM](http://www.youtube.com/watch?v=m6fm1gt5YAM)  
+   Link: <a href="http://www.youtube.com/watch?v=m6fm1gt5YAM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=m6fm1gt5YAM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Self-Determination Theory Explained  
-   Link: [http://www.youtube.com/watch?v=_juPDoa3GBY](http://www.youtube.com/watch?v=_juPDoa3GBY)  
+   Link: <a href="http://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_juPDoa3GBY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boredom goals self determination theory habits james clear Atomic Habits: How to Get 1% Better Every Day - James Clear APB Speakers...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29189034/](https://pubmed.ncbi.nlm.nih.gov/29189034/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedUnique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29189034/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 RyanDeci SDT  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 86814 — SDT is an ap...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: selfdeterminationtheory.org  
    Title: 1999 SheldonElliot  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf](https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4370 — The self-con...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad](https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad)  
+   Link: <a href="https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad</a>  
 
 21. <a id="endnote-21"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Self](https://en.wikipedia.org/wiki/Self)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Self determination theory  
-   Link: [https://en.wikipedia.org/wiki/Self-determination_theory](https://en.wikipedia.org/wiki/Self-determination_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10101878/](https://pubmed.ncbi.nlm.nih.gov/10101878/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12237980/](https://pubmed.ncbi.nlm.nih.gov/12237980/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12237980/</a>  
 
 26. <a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38006625/](https://pubmed.ncbi.nlm.nih.gov/38006625/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38006625/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38006625/</a>  
 
 27. <a id="endnote-27"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/self-determination-theory](https://www.sciencedirect.com/topics/social-sciences/self-determination-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
 
 28. <a id="endnote-28"></a>
    Source: selfdeterminationtheory.org  
    Title: 2022 RyanDeci SDT Encyclopedia  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: selfdeterminationtheory.org  
    Title: 2008 DeciRyan CanPsy Eng  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
 
 31. <a id="endnote-31"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full</a>  
 
 32. <a id="endnote-32"></a>
    Source: rccs.org.uk  
    Title: Self Determination Theory Explained – RCCS  
-   Link: [https://www.rccs.org.uk/post/self-determination-theory](https://www.rccs.org.uk/post/self-determination-theory)  
+   Link: <a href="https://www.rccs.org.uk/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/self-determination-theory</a>  
 
 33. <a id="endnote-33"></a>
    Source: ukcoaching.org  
-   Link: [https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/](https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/)  
+   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
 
 34. <a id="endnote-34"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: [https://positivepsychology.com/self-determination-theory/](https://positivepsychology.com/self-determination-theory/)  
+   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: ATOMIC HABITS  
-   Link: [http://www.youtube.com/watch?v=1gdkBt9it84](http://www.youtube.com/watch?v=1gdkBt9it84)  
+   Link: <a href="http://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1gdkBt9it84</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Atomic Habits: How to Get 1% Better Every Day  
-   Link: [http://www.youtube.com/watch?v=U_nzqnXWvSo](http://www.youtube.com/watch?v=U_nzqnXWvSo)  
+   Link: <a href="http://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=U_nzqnXWvSo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance](https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance)  
+   Link: <a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/265649028_Boring_but_Important_A_Self-Transcendent_Purpose_for_Learning_Fosters_Academic_Self-Regulation](https://www.researchgate.net/publication/265649028_Boring_but_Important_A_Self-Transcendent_Purpose_for_Learning_Fosters_Academic_Self-Regulation)  
+   Link: <a href="https://www.researchgate.net/publication/265649028_Boring_but_Important_A_Self-Transcendent_Purpose_for_Learning_Fosters_Academic_Self-Regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265649028_Boring_but_Important_A_Self-Transcendent_Purpose_for_Learning_Fosters_Academic_Self-Regulation</a>  
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/372372306_Motivation_and_goal_development_across_the_adult_lifespan_Goal_engagement_disengagement_and_adjustment](https://www.researchgate.net/publication/372372306_Motivation_and_goal_development_across_the_adult_lifespan_Goal_engagement_disengagement_and_adjustment)  
+   Link: <a href="https://www.researchgate.net/publication/372372306_Motivation_and_goal_development_across_the_adult_lifespan_Goal_engagement_disengagement_and_adjustment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372372306_Motivation_and_goal_development_across_the_adult_lifespan_Goal_engagement_disengagement_and_adjustment</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374630805_Goal_Motives_Mental_Contrasting_with_Implementation_Intentions_and_the_Self-Regulation_of_Saving_Goals_A_Longitudinal_Investigation](https://www.researchgate.net/publication/374630805_Goal_Motives_Mental_Contrasting_with_Implementation_Intentions_and_the_Self-Regulation_of_Saving_Goals_A_Longitudinal_Investigation)  
+   Link: <a href="https://www.researchgate.net/publication/374630805_Goal_Motives_Mental_Contrasting_with_Implementation_Intentions_and_the_Self-Regulation_of_Saving_Goals_A_Longitudinal_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374630805_Goal_Motives_Mental_Contrasting_with_Implementation_Intentions_and_the_Self-Regulation_of_Saving_Goals_A_Longitudinal_Investigation</a>  
 
 42. <a id="endnote-42"></a>
    Source: strongerbyscience.com  
-   Link: [https://www.strongerbyscience.com/goal-setting/](https://www.strongerbyscience.com/goal-setting/)  
+   Link: <a href="https://www.strongerbyscience.com/goal-setting/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongerbyscience.com/goal-setting/</a>  
 
 43. <a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227583849_Boredom_in_the_workplace_More_than_monotonous_tasks](https://www.researchgate.net/publication/227583849_Boredom_in_the_workplace_More_than_monotonous_tasks)  
+   Link: <a href="https://www.researchgate.net/publication/227583849_Boredom_in_the_workplace_More_than_monotonous_tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227583849_Boredom_in_the_workplace_More_than_monotonous_tasks</a>  
 
 44. <a id="endnote-44"></a>
    Source: techscience.com  
-   Link: [https://www.techscience.com/IJMHP/v23n2/42430/html](https://www.techscience.com/IJMHP/v23n2/42430/html)  
+   Link: <a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
 
 45. <a id="endnote-45"></a>
    Source: sammatla.com  
-   Link: [https://sammatla.com/how-to-grind-through-the-boring-work/](https://sammatla.com/how-to-grind-through-the-boring-work/)  
+   Link: <a href="https://sammatla.com/how-to-grind-through-the-boring-work/" target="_blank" rel="noopener noreferrer nofollow">https://sammatla.com/how-to-grind-through-the-boring-work/</a>  

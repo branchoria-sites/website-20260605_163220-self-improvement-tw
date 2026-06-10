@@ -278,7 +278,7 @@ Self-monitoring works best when it solves a specific mystery and then gets out o
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-1-dark.svg" | relative_url }}" alt="Temporary Audits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach fits the broader principle of self-monitoring without obsession. The goal is not to collect endless data. The goal is to gather enough evidence to identify a leverage point, make a change, and return attention to living rather than measuring. Research on self-monitoring consistently finds that recording behaviour increases awareness and often changes behaviour by itself, but maintaining intensive tracking indefinitely can become burdensome and reduce adherence over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2855299/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCExperiences of Self-Monitoring: Successes and Struggles...by LE Burke · 2009 · Cited by 220 — Participants provided retrospective ref...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/17/20/7488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Promotion of Eating Behaviour Change through Digital...by Y Chen · 2020 · Cited by 90 — The conventional and most common manner of s...</span></span></span>
+This approach fits the broader principle of self-monitoring without obsession. The goal is not to collect endless data. The goal is to gather enough evidence to identify a leverage point, make a change, and return attention to living rather than measuring. Research on self-monitoring consistently finds that recording behaviour increases awareness and often changes behaviour by itself, but maintaining intensive tracking indefinitely can become burdensome and reduce adherence over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2855299/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Experiences of Self-Monitoring: Successes and Struggles...by LE Burke · 2009 · Cited by 220 — Participants provided retrospective ref...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/17/20/7488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Promotion of Eating Behaviour Change through Digital...by Y Chen · 2020 · Cited by 90 — The conventional and most common manner of s...</span></span></span>
 
 ## When a Short Diagnostic Audit Helps
 
@@ -297,7 +297,7 @@ People often say:
 
 These are situations where memory is unreliable. Human beings tend to underestimate frequent, low-friction behaviours. Small purchases blur together. Phone checks feel shorter than they are. Snacks consumed while distracted are easy to forget.
 
-A brief audit replaces assumptions with evidence. Instead of asking, “Why am I doing this?”, you start by asking, “What is actually happening?” The distinction matters because behaviour change is often blocked by incorrect theories about the problem.
+A brief audit replaces assumptions with evidence. Instead of asking, “Why am I doing this?”, you start by asking, “What is actually happening?” The distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) is often blocked by incorrect theories about the problem.
 
 A useful audit usually lasts long enough to capture normal life but not so long that recording becomes a second job. For many habits, one to four weeks is sufficient to reveal recurring patterns. The purpose is diagnosis, not lifelong surveillance.
 
@@ -362,7 +362,7 @@ Research on screen-time tracking suggests that monitoring can improve digital se
 
 A practical example is a seven-day audit of social media use. Rather than focusing solely on total minutes, someone might note whether each session began because they wanted information, wanted connection, felt bored, or were avoiding a task. The resulting pattern often reveals that the issue is not technology itself but a specific trigger such as boredom, anxiety or task-switching.
 
-Short-term reductions in screen use have also been associated with improvements in well-being, stress and sleep measures in experimental studies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11846175/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSmartphone screen time reduction improves mental healthby C Pieh · 2025 · Cited by 62 — Three weeks of screen time reduction showed sm...</span></span></span>
+Short-term reductions in screen use have also been associated with improvements in well-being, stress and sleep measures in experimental studies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11846175/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Smartphone screen time reduction improves mental healthby C Pieh · 2025 · Cited by 62 — Three weeks of screen time reduction showed sm...</span></span></span>
 
 The key insight usually arrives before the tracking period ends: a person discovers the moments that generate most of the unnecessary use.
 
@@ -410,7 +410,7 @@ Research on dietary self-monitoring shows that it is a powerful behaviour-change
 
 Food monitoring is not appropriate for everyone.
 
-For people with current or past eating disorders, intensive food tracking can sometimes increase distress, rigidity or preoccupation with eating. Clinical approaches that use food records generally do so within a structured therapeutic framework rather than as a self-improvement challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insideoutinstitute.org.au/resource-library/a-guide-to-self-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insideoutinstitute.org.au">[insideoutinstitute.org.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insideoutinstitute.org.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelondoncentre.co.uk/the-blog/self-monitoring/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelondoncentre.co.uk">[The London Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelondoncentre.co.uk</span><span class="citation-popover-snippet">Self-monitoring in CBT | The London CentreThis is because self-monitoring allows people to have the most accurate picture of how the diso...</span></span></span>
+For people with current or past eating disorders, intensive food tracking can sometimes increase distress, rigidity or preoccupation with eating. Clinical approaches that use food records generally do so within a structured therapeutic framework rather than as a self-improvement challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insideoutinstitute.org.au/resource-library/a-guide-to-self-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insideoutinstitute.org.au">[insideoutinstitute.org.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insideoutinstitute.org.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelondoncentre.co.uk/the-blog/self-monitoring/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelondoncentre.co.uk">[The London Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelondoncentre.co.uk</span><span class="citation-popover-snippet">Self-monitoring in CBT &#124; The London CentreThis is because self-monitoring allows people to have the most accurate picture of how the diso...</span></span></span>
 
 The purpose of a temporary audit should be understanding patterns, not creating a permanent sense of surveillance.
 
@@ -766,105 +766,105 @@ For spending, screens and food, a short period of intense observation can expose
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2855299/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2855299/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCExperiences of Self-Monitoring: Successes and Struggles...by LE Burke · 2009 · Cited by 220 — Participants provided retrospective ref...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2855299/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2855299/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences of Self-Monitoring: Successes and Struggles...by LE Burke · 2009 · Cited by 220 — Participants provided retrospective ref...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1660-4601/17/20/7488](https://www.mdpi.com/1660-4601/17/20/7488)  
+   Link: <a href="https://www.mdpi.com/1660-4601/17/20/7488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/17/20/7488</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Promotion of Eating Behaviour Change through Digital...by Y Chen · 2020 · Cited by 90 — The conventional and most common manner of s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.21860](https://arxiv.org/abs/2509.21860)  
+   Link: <a href="https://arxiv.org/abs/2509.21860" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.21860</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11846175/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11846175/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSmartphone screen time reduction improves mental healthby C Pieh · 2025 · Cited by 62 — Three weeks of screen time reduction showed sm...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11846175/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11846175/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone screen time reduction improves mental healthby C Pieh · 2025 · Cited by 62 — Three weeks of screen time reduction showed sm...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: myfood24.org  
    Title: what is a food diary  
-   Link: [https://www.myfood24.org/blog/what-is-a-food-diary/](https://www.myfood24.org/blog/what-is-a-food-diary/)  
+   Link: <a href="https://www.myfood24.org/blog/what-is-a-food-diary/" target="_blank" rel="noopener noreferrer nofollow">https://www.myfood24.org/blog/what-is-a-food-diary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary assessment methods: What is a food diary?24 Mar 2022 — Everything you need to know about food diaries: what they are, why they&#x27;re...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: insideoutinstitute.org.au  
-   Link: [https://insideoutinstitute.org.au/resource-library/a-guide-to-self-monitoring](https://insideoutinstitute.org.au/resource-library/a-guide-to-self-monitoring)  
+   Link: <a href="https://insideoutinstitute.org.au/resource-library/a-guide-to-self-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://insideoutinstitute.org.au/resource-library/a-guide-to-self-monitoring</a>  
 
 7. <a id="endnote-7"></a>
    Source: myfood24.org  
    Title: can dietary monitoring lead to behaviour change  
-   Link: [https://www.myfood24.org/blog/can-dietary-monitoring-lead-to-behaviour-change/](https://www.myfood24.org/blog/can-dietary-monitoring-lead-to-behaviour-change/)  
+   Link: <a href="https://www.myfood24.org/blog/can-dietary-monitoring-lead-to-behaviour-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.myfood24.org/blog/can-dietary-monitoring-lead-to-behaviour-change/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>?29 Apr 2022 — In this blog, we explain how dietary self-monitoring can lead to improved eating habits through behaviour change technique...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-6643/13/4/1135](https://www.mdpi.com/2072-6643/13/4/1135)  
+   Link: <a href="https://www.mdpi.com/2072-6643/13/4/1135" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-6643/13/4/1135</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relative Validity of MijnEetmeter: A Food Diary App for Self...by M Ocké · 2021 · Cited by 31 — This study aimed to evaluate the relativ...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/%E2%80%9CYour-Screen-Time-App-Is-Keeping-Track%E2%80%9D%3A-Consumers-Zimmermann/e3ace8839dae3892b5f8925dace9ceafce0934bb](https://www.semanticscholar.org/paper/%E2%80%9CYour-Screen-Time-App-Is-Keeping-Track%E2%80%9D%3A-Consumers-Zimmermann/e3ace8839dae3892b5f8925dace9ceafce0934bb)  
+   Link: <a href="https://www.semanticscholar.org/paper/%E2%80%9CYour-Screen-Time-App-Is-Keeping-Track%E2%80%9D%3A-Consumers-Zimmermann/e3ace8839dae3892b5f8925dace9ceafce0934bb" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%E2%80%9CYour-Screen-Time-App-Is-Keeping-Track%E2%80%9D%3A-Consumers-Zimmermann/e3ace8839dae3892b5f8925dace9ceafce0934bb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reness but that it is less likely to lead to a reduction of mobile usage, and that many...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thelondoncentre.co.uk  
-   Link: [https://www.thelondoncentre.co.uk/the-blog/self-monitoring/](https://www.thelondoncentre.co.uk/the-blog/self-monitoring/)  
+   Link: <a href="https://www.thelondoncentre.co.uk/the-blog/self-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://www.thelondoncentre.co.uk/the-blog/self-monitoring/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-monitoring in CBT | The London CentreThis is because self-monitoring allows people to have the most accurate picture of how the diso...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: rutgers.edu  
-   Link: [https://www.rutgers.edu/news/promoting-patient-behavioral-change-through-food-choice-and-self-monitoring](https://www.rutgers.edu/news/promoting-patient-behavioral-change-through-food-choice-and-self-monitoring)  
+   Link: <a href="https://www.rutgers.edu/news/promoting-patient-behavioral-change-through-food-choice-and-self-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.rutgers.edu/news/promoting-patient-behavioral-change-through-food-choice-and-self-monitoring</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rutgers UniversityPromoting Patient Behavioral Change Through Food...“While behavior change can be difficult, this study shows that obse...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/301932925_Personal_Tracking_of_Screen_Time_on_Digital_Devices](https://www.researchgate.net/publication/301932925_Personal_Tracking_of_Screen_Time_on_Digital_Devices)  
+   Link: <a href="https://www.researchgate.net/publication/301932925_Personal_Tracking_of_Screen_Time_on_Digital_Devices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301932925_Personal_Tracking_of_Screen_Time_on_Digital_Devices</a>  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Because of this, diet assessment is an important component of public  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7350526/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7350526/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7350526/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7350526/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Reported Dietary Instruments Are Prone to...by MN Ravelli · 2020 · Cited by 401 — Background: Diet is a modifiable behavior that in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: However, the effects are generally  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3269781/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3269781/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3269781/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3269781/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and its association with body mass index across...by SI Kirkpatrick · 2012 · Cited by 15 — The results suggest inconsistent reactivity a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: beateatingdisorders.org.uk  
-   Link: [https://www.beateatingdisorders.org.uk/get-information-and-[support](https://www.beateatingdisorders.org.uk/get-information-and-[support)  
+   Link: <a href="https://www.beateatingdisorders.org.uk/get-information-and-[support" target="_blank" rel="noopener noreferrer nofollow">https://www.beateatingdisorders.org.uk/get-information-and-[support</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Helplines - Beat Eating DisordersTo help us support as many people as possible, calls are limited to 30 minutes and webchats to 40 minutes...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: truthaboutweight.global  
    Title: 8 burkle [self monitoring](&#123;&#123; 'tracking/' | relative_url &#125;&#125;) in wl fr  
-   Link: [https://www.truthaboutweight.global/content/dam/truthaboutweight/be/content-pages/pdfs/8-burkle-self-monitoring-in-wl-fr.pdf](https://www.truthaboutweight.global/content/dam/truthaboutweight/be/content-pages/pdfs/8-burkle-self-monitoring-in-wl-fr.pdf)  
+   Link: <a href="https://www.truthaboutweight.global/content/dam/truthaboutweight/be/content-pages/pdfs/8-burkle-self-monitoring-in-wl-fr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.truthaboutweight.global/content/dam/truthaboutweight/be/content-pages/pdfs/8-burkle-self-monitoring-in-wl-fr.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Monitoring in Weight Lossby LE BURKE · 2011 · Cited by 1810 — Self-monitoring behaviors were measured using an array of approaches...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/17437199.2022.2047096](https://www.tandfonline.com/doi/abs/10.1080/17437199.2022.2047096)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2022.2047096" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2022.2047096</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic review and meta-analysis of studies...by LM König · 2022 · Cited by 72 — This systematic review investigates whether digita...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pearl.plymouth.ac.uk  
-   Link: [https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&context=psy-research](https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&context=psy-research)  
+   Link: <a href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow">https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>associations between behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;)...by M Milne-Ives · 2023 · Cited by 75 — Conclusions: This review provides further evide...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: jcfitness.co.uk  
-   Link: [https://jcfitness.co.uk/blog/dietary-self-monitoring-the-cornerstone-of-weight-loss/](https://jcfitness.co.uk/blog/dietary-self-monitoring-the-cornerstone-of-weight-loss/)  
+   Link: <a href="https://jcfitness.co.uk/blog/dietary-self-monitoring-the-cornerstone-of-weight-loss/" target="_blank" rel="noopener noreferrer nofollow">https://jcfitness.co.uk/blog/dietary-self-monitoring-the-cornerstone-of-weight-loss/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary Self-Monitoring: The &quot;Cornerstone&quot; of Weight LossEvidence has found that 23 to 24 minutes per day recording dietary intake may be...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: higherlogicdownload.s3.amazonaws.com  
    Title: FINAL AED Purple Nutrition Book  
-   Link: [https://higherlogicdownload.s3.amazonaws.com/AEDWEB/27a3b69a-8aae-45b2-a04c-2a078d02145d/UploadedImages/Publications_Slider/FINAL_AED_Purple_Nutrition_Book.pdf](https://higherlogicdownload.s3.amazonaws.com/AEDWEB/27a3b69a-8aae-45b2-a04c-2a078d02145d/UploadedImages/Publications_Slider/FINAL_AED_Purple_Nutrition_Book.pdf)  
+   Link: <a href="https://higherlogicdownload.s3.amazonaws.com/AEDWEB/27a3b69a-8aae-45b2-a04c-2a078d02145d/UploadedImages/Publications_Slider/FINAL_AED_Purple_Nutrition_Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://higherlogicdownload.s3.amazonaws.com/AEDWEB/27a3b69a-8aae-45b2-a04c-2a078d02145d/UploadedImages/Publications_Slider/FINAL_AED_Purple_Nutrition_Book.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(significant weight loss and food restriction though BMI for age and gender is in normal range or...Read more...</p></details>

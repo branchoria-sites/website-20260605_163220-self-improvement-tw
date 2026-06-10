@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:44:31'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /ego-depletion/
   short_title: Ego Depletion
   heading_title: Is Self Control Really a Limited Resource?
-date: '2026-06-05 14:44:31 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-overview.webp
@@ -506,13 +506,13 @@ Digital behaviour-change interventions are self-improvement tools delivered thro
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-overview.webp" | relative_url }}" alt="Overview image for Digital Tools" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is strongest when digital tools are judged by their active ingredients rather than by brand, novelty or download numbers. Behaviour-change researchers use taxonomies to describe the actual techniques inside an intervention, including [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, self-monitoring, feedback, prompts and rewards. The Behaviour Change Technique Taxonomy, for example, identifies 93 distinct techniques for specifying what an intervention actually does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the useful question is therefore not “Which app is best?” but “Which feature helps this behaviour happen more reliably?”
+The evidence is strongest when digital tools are judged by their active ingredients rather than by brand, novelty or download numbers. Behaviour-change researchers use taxonomies to describe the actual techniques inside an intervention, including goal setting, action planning, self-monitoring, feedback, prompts and rewards. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy, for example, identifies 93 distinct techniques for specifying what an intervention actually does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the useful question is therefore not “Which app is best?” but “Which feature helps this behaviour happen more reliably?”
 
 ## The app is only the delivery system
 
 Digital behaviour-change interventions work best when they turn an intention into a repeatable loop. A person decides on a target behaviour, the tool helps them notice opportunities or barriers, the person acts, the tool records or reflects the action, and [feedback]({{ 'feedback/' | relative_url }}) shapes the next attempt. That loop can be simple: a walking app that sets a step goal, shows progress and prompts an evening walk. It can also be more adaptive: a wearable-linked programme that changes the timing or type of [support]({{ 'support/' | relative_url }}) when someone is inactive, stressed or in a high-risk context.
 
-The World Health Organization’s classification of digital health interventions treats digital tools as ways of addressing specific health-system and user needs, rather than as a single category of “apps”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationWHO publishes the second edition of the Classification...WHO publishes the second edition of the Classification...</span></span></span> NICE makes a similar practical distinction in its guidance on digital and mobile health behaviour-change interventions: digital interventions may be delivered through hardware, software, websites, apps, text messages or connected devices, and their design should use evidence-based behaviour-change [techniques]({{ 'techniques/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">NICEBehaviour change: digital and mobile health interventions7 Oct 2020 — When designing digital and mobile health interventions, use evi...</span></span></span>
+The World Health Organization’s classification of digital health interventions treats digital tools as ways of addressing specific health-system and user needs, rather than as a single category of “apps”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationWHO publishes the second edition of the Classification...WHO publishes the second edition of the Classification...</span></span></span> NICE makes a similar practical distinction in its guidance on digital and mobile health behaviour-change interventions: digital interventions may be delivered through hardware, software, websites, apps, text messages or connected devices, and their design should use evidence-based behaviour-change [techniques]({{ 'techniques/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: digital and mobile health interventions7 Oct 2020 — When designing digital and mobile health interventions, use evi...</span></span></span>
 
 That distinction matters because many consumer self-improvement apps are packaged around a theme — fitness, productivity, sleep, money, mood, study, diet — while the actual mechanism is often the same. A budgeting app may use self-monitoring and feedback. A meditation app may use prompts, streaks and guided practice. A habit tracker may use goal setting, reminders and reward cues. The surface category changes; the behavioural machinery often does not.
 
@@ -541,9 +541,9 @@ The most useful digital tools tend to combine several modest techniques rather t
 
 Digital interventions are most convincing when the behaviour is frequent, observable and responsive to timely feedback. Physical activity is a good example. It happens daily, can be measured by phones or wearables, and is often sensitive to cues, goals and feedback. A 2025 systematic review and meta-analysis of standalone digital behaviour-change interventions for adults found that these interventions can support physical activity, while also noting variability across interventions and outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span>
 
-The same logic applies beyond exercise. Digital tools can help with [medication routines]({{ 'medication-cues/' | relative_url }}), study sessions, spending awareness, sleep timing, alcohol reduction, smoking cessation preparation, food logging or mood tracking when the user needs repeated support in ordinary moments. The advantage is scale and timing: an app can be available at 7.30 am, after a meeting, in a supermarket queue or just before bedtime, when a book, therapist, coach or course is not present.
+The same logic applies beyond exercise. Digital tools can help with medication routines, study sessions, spending awareness, sleep timing, alcohol reduction, smoking cessation preparation, food logging or mood tracking when the user needs repeated support in ordinary moments. The advantage is scale and timing: an app can be available at 7.30 am, after a meeting, in a supermarket queue or just before bedtime, when a book, therapist, coach or course is not present.
 
-A particularly important development is the just-in-time adaptive intervention, often shortened to JITAI. A JITAI adapts the type, timing or intensity of support as a person’s status or context changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span> In plain terms, it tries to intervene when support is most likely to be useful: not always, not randomly, but when the person may be receptive or at risk of slipping. Smartphones and wearables make this possible because they can capture time, location, activity, sleep, heart rate, app use or self-reported mood, although the quality and ethics of such data use vary.
+A particularly important development is the just-in-time adaptive intervention, often shortened to [JITAI]({{ 'jitai/' | relative_url }}). A JITAI adapts the type, timing or intensity of support as a person’s status or context changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span> In plain terms, it tries to intervene when support is most likely to be useful: not always, not randomly, but when the person may be receptive or at risk of slipping. Smartphones and wearables make this possible because they can capture time, location, activity, sleep, heart rate, app use or self-reported mood, although the quality and ethics of such data use vary.
 
 For self improvement, this points to a practical rule: digital tools are strongest when they reduce friction in a specific behaviour loop. A study app that blocks distracting sites during a planned writing block may be more useful than a motivational quote app. A sleep tool that helps someone set a wind-down alarm and reduce late-night screen use may be more useful than one that simply produces a complicated sleep score. The most effective feature is often the one that changes the next small action.
 
@@ -683,7 +683,7 @@ The useful mental model is not “find the perfect app”. It is “build a bett
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -693,111 +693,36 @@ The useful mental model is not “find the perfect app”. It is “build a bett
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Works Dog Glasses Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/JMIAAeSwcVtp2SDc/s-l225.jpg" alt="Listing image for Self Improvement Works Dog Glasses Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Works Dog Glasses Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Lover Shirt Music Teacher App Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d15bb57820bc2623d472.jpg' | relative_url }}" alt="Listing image for Music Lover Shirt Music Teacher App Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Music Lover Shirt Music Teacher App Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for app poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: app poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -805,15 +730,15 @@ The useful mental model is not “find the perfect app”. It is “build a bett
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harder Faster Stronger App Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7c1b12bd66b867aeed73.jpg' | relative_url }}" alt="Listing image for Harder Faster Stronger App Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Become your craft, Self Improvement Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-ioAAeSw26hp2SCd/s-l225.jpg" alt="Listing image for Become your craft, Self Improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Harder Faster Stronger App Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Become your craft, Self Improvement Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for app poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: app poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -821,15 +746,15 @@ The useful mental model is not “find the perfect app”. It is “build a bett
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handphone With payment App Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/701b638c7b7d60142285.jpg' | relative_url }}" alt="Listing image for Handphone With payment App Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Handphone With payment App Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for app poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: app poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -837,15 +762,15 @@ The useful mental model is not “find the perfect app”. It is “build a bett
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Theres No App For This Fo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d9fcbae39b54e7e29180.jpg' | relative_url }}" alt="Listing image for Theres No App For This Fo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Theres No App For This Fo Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for app poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: app poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -853,7 +778,7 @@ The useful mental model is not “find the perfect app”. It is “build a bett
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=app+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-tools-what-makes-a-self-improvement-app-useful-self-improvement-that-works-app-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="what-makes-a-self-improvement-app-useful-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -930,17 +855,31 @@ The useful mental model is not “find the perfect app”. It is “build a bett
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -953,42 +892,73 @@ The useful mental model is not “find the perfect app”. It is “build a bett
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1003,211 +973,215 @@ The useful mental model is not “find the perfect app”. It is “build a bett
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health](https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health)  
+   Link: <a href="https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO publishes the second edition of the Classification...WHO publishes the second edition of the Classification...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ng183/chapter/Recommendations](https://www.nice.org.uk/guidance/ng183/chapter/Recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICEBehaviour change: digital and mobile health interventions7 Oct 2020 — When designing digital and mobile health interventions, use evi...</p></details>
+   Link: <a href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/chapter/Recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: digital and mobile health interventions7 Oct 2020 — When designing digital and mobile health interventions, use evi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nice.org.uk  
    Title: behaviour change digital and mobile health interventions pdf 66142020002245  
-   Link: [https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245](https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245)  
+   Link: <a href="https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEngagement and attrition in digital mental health  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/</a>  
 
 8. <a id="endnote-8"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e56897/](https://www.jmir.org/2024/1/e56897/)  
+   Link: <a href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e56897/</a>  
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41746-025-01567-5](https://www.nature.com/articles/s41746-025-01567-5)  
+   Link: <a href="https://www.nature.com/articles/s41746-025-01567-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01567-5</a>  
 
 10. <a id="endnote-10"></a>
    Source: mental.jmir.org  
-   Link: [https://mental.jmir.org/2026/1/e84754](https://mental.jmir.org/2026/1/e84754)  
+   Link: <a href="https://mental.jmir.org/2026/1/e84754" target="_blank" rel="noopener noreferrer nofollow">https://mental.jmir.org/2026/1/e84754</a>  
 
 11. <a id="endnote-11"></a>
    Source: formative.jmir.org  
-   Link: [https://formative.jmir.org/2022/2/e33603/](https://formative.jmir.org/2022/2/e33603/)  
+   Link: <a href="https://formative.jmir.org/2022/2/e33603/" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2022/2/e33603/</a>  
 
 12. <a id="endnote-12"></a>
    Source: mhealth.jmir.org  
-   Link: [https://mhealth.jmir.org/2020/3/e17046/](https://mhealth.jmir.org/2020/3/e17046/)  
+   Link: <a href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2020/3/e17046/</a>  
 
 13. <a id="endnote-13"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e54375/](https://www.jmir.org/2024/1/e54375/)  
+   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
 
 14. <a id="endnote-14"></a>
    Source: mental.jmir.org  
-   Link: [https://mental.jmir.org/2024/1/e57577/](https://mental.jmir.org/2024/1/e57577/)  
+   Link: <a href="https://mental.jmir.org/2024/1/e57577/" target="_blank" rel="noopener noreferrer nofollow">https://mental.jmir.org/2024/1/e57577/</a>  
 
 15. <a id="endnote-15"></a>
    Source: mhealth.jmir.org  
-   Link: [https://mhealth.jmir.org/2019/12/e15707/](https://mhealth.jmir.org/2019/12/e15707/)  
+   Link: <a href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2019/12/e15707/</a>  
 
 16. <a id="endnote-16"></a>
    Source: mhealth.jmir.org  
-   Link: [https://mhealth.jmir.org/2022/9/e33247](https://mhealth.jmir.org/2022/9/e33247)  
+   Link: <a href="https://mhealth.jmir.org/2022/9/e33247" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2022/9/e33247</a>  
 
 17. <a id="endnote-17"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/themes/803/2019-engagement-with-and-adherence-to-digital-health-interventions-law-of-attrition](https://www.jmir.org/themes/803/2019-engagement-with-and-adherence-to-digital-health-interventions-law-of-attrition)  
+   Link: <a href="https://www.jmir.org/themes/803/2019-engagement-with-and-adherence-to-digital-health-interventions-law-of-attrition" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/themes/803/2019-engagement-with-and-adherence-to-digital-health-interventions-law-of-attrition</a>  
 
 18. <a id="endnote-18"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2026/1/e73388](https://www.jmir.org/2026/1/e73388)  
+   Link: <a href="https://www.jmir.org/2026/1/e73388" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2026/1/e73388</a>  
 
 19. <a id="endnote-19"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e48168/](https://www.jmir.org/2024/1/e48168/)  
+   Link: <a href="https://www.jmir.org/2024/1/e48168/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48168/</a>  
 
 20. <a id="endnote-20"></a>
    Source: mhealth.jmir.org  
-   Link: [https://mhealth.jmir.org/2022/11/e37234/](https://mhealth.jmir.org/2022/11/e37234/)  
+   Link: <a href="https://mhealth.jmir.org/2022/11/e37234/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2022/11/e37234/</a>  
 
 21. <a id="endnote-21"></a>
    Source: betterhelp.com  
-   Link: [https://www.betterhelp.com/ftc-settlement/](https://www.betterhelp.com/ftc-settlement/)  
+   Link: <a href="https://www.betterhelp.com/ftc-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://www.betterhelp.com/ftc-settlement/</a>  
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41746-025-01778-w](https://www.nature.com/articles/s41746-025-01778-w)  
+   Link: <a href="https://www.nature.com/articles/s41746-025-01778-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01778-w</a>  
 
 23. <a id="endnote-23"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/digital-behavior-change-interventions-for-health-management](https://www.nature.com/nature-index/topics/l4/digital-behavior-change-interventions-for-health-management)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/digital-behavior-change-interventions-for-health-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/digital-behavior-change-interventions-for-health-management</a>  
 
 24. <a id="endnote-24"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41746-019-0093-1](https://www.nature.com/articles/s41746-019-0093-1)  
+   Link: <a href="https://www.nature.com/articles/s41746-019-0093-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-019-0093-1</a>  
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
 
 27. <a id="endnote-27"></a>
    Source: thetimes.com  
-   Link: [https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0](https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0)  
+   Link: <a href="https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moreover, period and sleep tracking apps are also questioned for their scientific reliability, with some offering misleading advice that...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: frontiersin.org  
    Title: Frontiers Beyond the current state of just-in-time adaptive  
-   Link: [https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full)  
+   Link: <a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full</a>  
 
 29. <a id="endnote-29"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission Better Help Refunds  
-   Link: [https://www.ftc.gov/enforcement/refunds/betterhelp-refunds](https://www.ftc.gov/enforcement/refunds/betterhelp-refunds)  
+   Link: <a href="https://www.ftc.gov/enforcement/refunds/betterhelp-refunds" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/enforcement/refunds/betterhelp-refunds</a>  
 
 30. <a id="endnote-30"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising](https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising</a>  
 
 31. <a id="endnote-31"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/37794916/](https://pubmed.ncbi.nlm.nih.gov/37794916/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37794916/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37794916/</a>  
 
 32. <a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39661976/](https://pubmed.ncbi.nlm.nih.gov/39661976/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39661976/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39661976/</a>  
 
 33. <a id="endnote-33"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40458474/](https://pubmed.ncbi.nlm.nih.gov/40458474/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40458474/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40458474/</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Nice](https://en.wikipedia.org/wiki/Nice)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nice</a>  
 
 35. <a id="endnote-35"></a>
    Source: research-collection.ethz.ch  
-   Link: [https://www.research-collection.ethz.ch/bitstreams/22386a05-8c8f-4df3-a8df-2c9bfb551387/download](https://www.research-collection.ethz.ch/bitstreams/22386a05-8c8f-4df3-a8df-2c9bfb551387/download)  
+   Link: <a href="https://www.research-collection.ethz.ch/bitstreams/22386a05-8c8f-4df3-a8df-2c9bfb551387/download" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/bitstreams/22386a05-8c8f-4df3-a8df-2c9bfb551387/download</a>  
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK327619/](https://www.ncbi.nlm.nih.gov/books/NBK327619/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIby S Michie · 2015 · Cited by 799 — The study found that the developed taxonomy (Behaviour Change Technique Taxonomy version 1) provi...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK327619/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK327619/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2015 · Cited by 799 — The study found that the developed taxonomy (Behaviour Change Technique Taxonomy version 1) provi...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Elina Eriksson  
-   Link: [https://www.youtube.com/watch?v=eFRiuWirxPE](https://www.youtube.com/watch?v=eFRiuWirxPE)  
+   Link: <a href="https://www.youtube.com/watch?v=eFRiuWirxPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eFRiuWirxPE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Digital Behaviour Change Interventions to Break and Form Habits  
-   Link: [https://www.youtube.com/watch?v=83_ahNFFt1M](https://www.youtube.com/watch?v=83_ahNFFt1M)  
+   Link: <a href="https://www.youtube.com/watch?v=83_ahNFFt1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83_ahNFFt1M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elina Eriksson - Digital Behavior Change Interventions to Catalyze More Sustainable Practices...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TJXUkSPNihc](https://www.youtube.com/watch?v=TJXUkSPNihc)  
+   Link: <a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJXUkSPNihc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Human Behaviour-Change Project? Part 1...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter](https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter</a>  
 
 41. <a id="endnote-41"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc](https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc</a>  
 
 42. <a id="endnote-42"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook](https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook</a>  
 
 43. <a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/324765446_Behavior_Change_Techniques_Used_in_Mobile_Applications_Targeting_Physical_Activity_A_Systematic_Review](https://www.researchgate.net/publication/324765446_Behavior_Change_Techniques_Used_in_Mobile_Applications_Targeting_Physical_Activity_A_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/324765446_Behavior_Change_Techniques_Used_in_Mobile_Applications_Targeting_Physical_Activity_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324765446_Behavior_Change_Techniques_Used_in_Mobile_Applications_Targeting_Physical_Activity_A_Systematic_Review</a>  
 
 44. <a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/393328522_Engagement_and_attrition_in_digital_mental_health_current_challenges_and_potential_solutions](https://www.researchgate.net/publication/393328522_Engagement_and_attrition_in_digital_mental_health_current_challenges_and_potential_solutions)  
+   Link: <a href="https://www.researchgate.net/publication/393328522_Engagement_and_attrition_in_digital_mental_health_current_challenges_and_potential_solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393328522_Engagement_and_attrition_in_digital_mental_health_current_challenges_and_potential_solutions</a>  
 
 45. <a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  

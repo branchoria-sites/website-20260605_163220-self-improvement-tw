@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-weekly/
 description: Focused pages that expand on Weekly Review.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_weekly_reviews_0ef084
 parent_title: Weekly Review | Self Improvement That Works

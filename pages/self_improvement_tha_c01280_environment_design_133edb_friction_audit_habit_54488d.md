@@ -404,7 +404,7 @@ An audit may reveal something different:
 
 None of these factors seems large enough to explain repeated failure. Together they create a predictable pattern of non-action.
 
-This perspective aligns with broader research on [choice architecture]({{ 'defaults/' | relative_url }}) and environmental design, which shows that changing the [environment]({{ 'environment/' | relative_url }}) can meaningfully influence behaviour without changing underlying motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASThe effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — Finally, implementation intentions have been demonstrated to affect both attentional and memory pr...</span></span></span>
+This perspective aligns with broader research on choice architecture and environmental design, which shows that changing the [environment]({{ 'environment/' | relative_url }}) can meaningfully influence behaviour without changing underlying motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — Finally, implementation intentions have been demonstrated to affect both attentional and memory pr...</span></span></span>
 
 The risk is not that friction is dramatic. The risk is that it is easy to overlook.
 
@@ -442,7 +442,7 @@ That question shifts attention from personal shortcomings to environmental desig
 In practice, successful habits are often less a triumph of [willpower]({{ 'willpower/' | relative_url }}) than the result of removing enough friction that the desired action becomes the easiest thing to do next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[2suebehaviouraldesign.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-snippet">Friction in Behavioural Design: Good friction and sludge20 Feb 2026 — Reducing friction makes desired behaviour more likely; adding frict...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iJ5niLZx6xo" title="This is Why New Habits Fail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iJ5niLZx6xo" target="_blank" rel="noopener noreferrer">This is Why New Habits Fail</a></p><p class="youtube-embed-meta">Channel: The Productivity Psychologist &middot; Views: 271 &middot; Uploaded: January 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iJ5niLZx6xo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iJ5niLZx6xo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BC457w90GxU" title="Use AI to Build Discipline, Not Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BC457w90GxU" target="_blank" rel="noopener noreferrer">Use AI to Build Discipline, Not Motivation</a></p><p class="youtube-embed-meta">Channel: Izak Hatton &middot; Views: 121 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BC457w90GxU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BC457w90GxU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -866,116 +866,116 @@ In practice, successful habits are often less a triumph of [willpower]({{ 'willp
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intention formation is the mental act of linking an anticipated...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X](https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are plans that s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — Finally, implementation intentions have been demonstrated to affect both attentional and memory pr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — Finally, implementation intentions have been demonstrated to affect both attentional and memory pr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2107346118](https://www.pnas.org/doi/10.1073/pnas.2107346118)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASThe effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2107346118</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 109 — Choice architecture interventions, which...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: suebehaviouraldesign.com  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/](https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friction in Behavioural Design: Good friction and sludge20 Feb 2026 — Reducing friction makes desired behaviour more likely; adding frict...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1469029225001177](https://www.sciencedirect.com/science/article/pii/S1469029225001177)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Health behaviour change: Theories, progress, and...by A Simpson · 2025 · Cited by 11 — In this paper we offer several calls to action fo...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1469029225001177" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029225001177</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;): Theories, progress, and...by A Simpson · 2025 · Cited by 11 — In this paper we offer several calls to action fo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: implementation.com  
-   Link: [https://www.implementation.com/](https://www.implementation.com/)  
+   Link: <a href="https://www.implementation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.implementation.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Engineers | Global Implementation FirmWe have over 60 years of operational implementation experience and we work with your...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: triplewhale.com  
    Title: Triple Whale What Is the Fogg Behavior Model?  
-   Link: [https://www.triplewhale.com/blog/fogg-behavior-model](https://www.triplewhale.com/blog/fogg-behavior-model)  
+   Link: <a href="https://www.triplewhale.com/blog/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://www.triplewhale.com/blog/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Complete Guide to...12 Mar 2026 — The Fogg Behavior Model thinks of ability as simplicity and frictionlessness. The idea is to minimiz...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Implementation](https://en.wikipedia.org/wiki/Implementation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: techtarget.com  
-   Link: [https://www.techtarget.com/searchcustomerexperience/definition/implementation](https://www.techtarget.com/searchcustomerexperience/definition/implementation)  
+   Link: <a href="https://www.techtarget.com/searchcustomerexperience/definition/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchcustomerexperience/definition/implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Implementation?Jun 1, 2022 — Implementation is the execution or practice of a plan, a method or any design, idea, model, specific...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/implement](https://www.merriam-webster.com/dictionary/implement)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/implement" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/implement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IMPLEMENT Definition &amp; Meaning5 days ago — The [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of IMPLEMENT is a device used in the performance of a task: tool, utensil. How to...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/thesaurus/implementation](https://www.merriam-webster.com/thesaurus/implementation)  
+   Link: <a href="https://www.merriam-webster.com/thesaurus/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IMPLEMENTATION Synonyms: 24 Similar and Opposite...4 days ago — Synonyms for IMPLEMENTATION: execution, fulfillment, perpetration, perfo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/booktroverts/posts/1524240055019132/](https://www.facebook.com/groups/booktroverts/posts/1524240055019132/)  
+   Link: <a href="https://www.facebook.com/groups/booktroverts/posts/1524240055019132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/booktroverts/posts/1524240055019132/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seven lessons from &quot;tiny habits&quot; for lasting changeMake It Easy: Reduce friction by making the new habit as simple and effortless as poss...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believes that “tiny...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/book/show/45440297-tiny-habits](https://www.goodreads.com/book/show/45440297-tiny-habits)  
+   Link: <a href="https://www.goodreads.com/book/show/45440297-tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/45440297-tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingBJ Fogg PhD is the leading expert in behavior change and habit formation...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: drjud.com  
    Title: How Habit Change Approaches Differ: Clear vs  
-   Link: [https://drjud.com/behavior-change/habit-change-methods-compared/](https://drjud.com/behavior-change/habit-change-methods-compared/)  
+   Link: <a href="https://drjud.com/behavior-change/habit-change-methods-compared/" target="_blank" rel="noopener noreferrer nofollow">https://drjud.com/behavior-change/habit-change-methods-compared/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg vs...Mar 5, 2026 — It makes good habits easier and bad habits harder - but... BJ Fogg: Reduce friction, celebrate immediately (wor...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: qmarkets.net  
-   Link: [https://www.qmarkets.net/resources/article/implementation-process/](https://www.qmarkets.net/resources/article/implementation-process/)  
+   Link: <a href="https://www.qmarkets.net/resources/article/implementation-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.qmarkets.net/resources/article/implementation-process/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation Process: Key Steps to Drive ResultsThe implementation process is the structured execution of a plan, project, or innov...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: jordanharbinger.com  
    Title: bj fogg tiny habits that change everything  
-   Link: [https://www.jordanharbinger.com/bj-fogg-tiny-habits-that-change-everything/](https://www.jordanharbinger.com/bj-fogg-tiny-habits-that-change-everything/)  
+   Link: <a href="https://www.jordanharbinger.com/bj-fogg-tiny-habits-that-change-everything/" target="_blank" rel="noopener noreferrer nofollow">https://www.jordanharbinger.com/bj-fogg-tiny-habits-that-change-everything/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>306: BJ Fogg | Tiny Habits That Change Everything29 Jan 2020 — In this episode, we talk to Stanford Behavior Design Lab founder BJ Fogg a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: impsciuw.org  
-   Link: [https://impsciuw.org/implementation-science/learn/implementation-science-overview/](https://impsciuw.org/implementation-science/learn/implementation-science-overview/)  
+   Link: <a href="https://impsciuw.org/implementation-science/learn/implementation-science-overview/" target="_blank" rel="noopener noreferrer nofollow">https://impsciuw.org/implementation-science/learn/implementation-science-overview/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dence-based practice and research into regular use.Read more...</p></details>

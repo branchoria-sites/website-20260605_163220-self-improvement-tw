@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:20:00'
 parent_title: How to Reward Habits Without Ruining Them | Better Change
 parent_permalink: /rewards/
 parent_nav_short_title: Rewards
@@ -265,7 +266,6 @@ next_link:
   permalink: /immediate-rewards/
   short_title: Immediate Rewards
   heading_title: Why Good Habits Need a Small Finish Line
-date: '2026-06-05 16:20:00 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-1.webp
@@ -278,7 +278,7 @@ Exercise incentives are one of the clearest examples of [rewards]({{ 'rewards/' 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-1-dark.svg" | relative_url }}" alt="Exercise Incentives illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The evidence suggests a nuanced answer. Financial rewards, rebates, competitions and other incentives often increase gym attendance in the short term, especially among people who are not already regular exercisers. However, the most successful approaches treat rewards as scaffolding: temporary supports that help people build routines until [enjoyment]({{ 'enjoyment/' | relative_url }}), competence and [identity]({{ 'identity/' | relative_url }}) can take over. When incentives become the entire reason for exercising, behaviour often fades once the rewards disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Incentives to Exercise</span><span class="citation-popover-snippet">Wiley Online LibraryIncentives to Exercise - Charness - 2009 - Econometricaby G Charness · 2009 · Cited by 1037 — We investigate the post...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedFinancial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
+The evidence suggests a nuanced answer. Financial rewards, rebates, competitions and other incentives often increase gym attendance in the short term, especially among people who are not already regular exercisers. However, the most successful approaches treat rewards as scaffolding: temporary supports that help people build routines until [enjoyment]({{ 'enjoyment/' | relative_url }}), competence and [identity]({{ 'identity/' | relative_url }}) can take over. When incentives become the entire reason for exercising, behaviour often fades once the rewards disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Incentives to Exercise</span><span class="citation-popover-snippet">Wiley Online LibraryIncentives to Exercise - Charness - 2009 - Econometricaby G Charness · 2009 · Cited by 1037 — We investigate the post...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Financial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
 
 ## Can Gym Rewards Become Real Habits?
 
@@ -286,7 +286,7 @@ The history of exercise-incentive research is unusually practical because it foc
 
 A landmark series of field experiments by economists Gary Charness and Uri Gneezy paid participants to attend a gym during a short intervention period. The striking finding was not merely that attendance rose while money was available. Some participants, particularly those who had not previously exercised regularly, continued attending more often after payments ended. The researchers argued that incentives may help establish routines that persist beyond the reward period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Incentives to Exercise</span><span class="citation-popover-snippet">Wiley Online LibraryIncentives to Exercise - Charness - 2009 - Econometricaby G Charness · 2009 · Cited by 1037 — We investigate the post...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/incentives-exercise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rady.ucsd.edu">[Rady School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rady.ucsd.edu</span><span class="citation-popover-snippet">Rady School of ManagementIncentives to Exercise - Rady School of Managementby G CHARNESS · 2009 · Cited by 1037 — We argue that there is...</span></span></span>
 
-Subsequent studies broadly confirmed the first half of the story. Financial incentives reliably increase exercise participation during active programmes. A systematic review and meta-analysis found positive effects on exercise-session attendance across interventions lasting up to six months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedFinancial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
+Subsequent studies broadly confirmed the first half of the story. Financial incentives reliably increase exercise participation during active programmes. A systematic review and meta-analysis found positive effects on exercise-session attendance across interventions lasting up to six months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Financial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
 
 Yet the second half is more complicated. Not every incentive programme creates durable habits. Some studies find meaningful persistence after incentives end, while others observe gradual decline. The difference often depends less on the size of the reward than on whether participants developed a routine and discovered reasons to exercise that survived the payment itself. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span>
 
@@ -318,7 +318,7 @@ The practical implication is that a £5 reward attached to a consistent Monday-W
 
 The fear surrounding incentives is that they may undermine intrinsic motivation. In exercise, this concern is real but often overstated.
 
-Research reviews note that external rewards can sometimes make activities feel controlled rather than chosen. If people come to see exercise primarily as a paid task, motivation may weaken when payments disappear. Critics of incentive programmes have therefore questioned whether rewards create dependency rather than lasting behaviour change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span>
+Research reviews note that external rewards can sometimes make activities feel controlled rather than chosen. If people come to see exercise primarily as a paid task, motivation may weaken when payments disappear. Critics of incentive programmes have therefore questioned whether rewards create dependency rather than lasting [behaviour change]({{ 'behaviour-change/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span>
 
 However, exercise differs from activities that people already enjoy. Many beginners do not start with strong intrinsic motivation. The challenge is not preserving enjoyment but creating conditions in which enjoyment can emerge.
 
@@ -339,7 +339,7 @@ The strongest exercise incentive programmes include an exit strategy from the be
 
 ### Stage 1: Reward attendance
 
-Initially, the goal is simply to increase repetitions. Rewards are tied to showing up rather than performance. A beginner who receives a small incentive for attending three sessions per week is learning consistency, not chasing athletic achievement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedFinancial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
+Initially, the goal is simply to increase repetitions. Rewards are tied to showing up rather than performance. A beginner who receives a small incentive for attending three sessions per week is learning consistency, not chasing athletic achievement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Financial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
 
 ### Stage 2: Shift attention to progress
 
@@ -366,7 +366,7 @@ This transition matters because competence is one of the strongest predictors of
 
 The final step is moving from “I exercise because I get rewarded” to “I am someone who exercises.”
 
-Research grounded in self-determination theory consistently finds that more autonomous forms of motivation predict longer-term exercise adherence. Identity-focused studies similarly suggest that people who see physical activity as part of who they are tend to maintain it more reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1751057/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The influence of exercise identity on college students&#x27;...by X ZHAO · Cited by 1 — A strong exercise identity promotes self-determined m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span> PubMed The reward at this stage becomes largely internal: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedFinancial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
+Research grounded in self-determination theory consistently finds that more autonomous forms of motivation predict longer-term exercise adherence. Identity-focused studies similarly suggest that people who see physical activity as part of who they are tend to maintain it more reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1751057/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The influence of exercise identity on college students&#x27;...by X ZHAO · Cited by 1 — A strong exercise identity promotes self-determined m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span> PubMed The reward at this stage becomes largely internal: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Financial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
@@ -815,177 +815,177 @@ Decades of experiments show that paying people to attend the gym can increase pa
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Incentives to Exercise  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryIncentives to Exercise - Charness - 2009 - Econometricaby G Charness · 2009 · Cited by 1037 — We investigate the post...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ideas.repec.org  
    Title: v77y2009i3p909 931  
-   Link: [https://ideas.repec.org/a/ecm/emetrp/v77y2009i3p909-931.html](https://ideas.repec.org/a/ecm/emetrp/v77y2009i3p909-931.html)  
+   Link: <a href="https://ideas.repec.org/a/ecm/emetrp/v77y2009i3p909-931.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/ecm/emetrp/v77y2009i3p909-931.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract. Can incentives be effective in encouraging the development of good habits? We investigate the post-intervention effects...Read...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S016762961730601X](https://www.sciencedirect.com/science/article/abs/pii/S016762961730601X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCan financial incentives help people trying to establish...by M Carrera · 2018 · Cited by 90 — We provide evidence on this...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S016762961730601X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S016762961730601X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can financial incentives help people trying to establish...by M Carrera · 2018 · Cited by 90 — We provide evidence on this...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ideas.repec.org  
    Title: v134y2017icp388 407  
-   Link: [https://ideas.repec.org/a/eee/jeborg/v134y2017icp388-407.html](https://ideas.repec.org/a/eee/jeborg/v134y2017icp388-407.html)  
+   Link: <a href="https://ideas.repec.org/a/eee/jeborg/v134y2017icp388-407.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/jeborg/v134y2017icp388-407.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcWe like to see you in the gym—A field experiment on...by KIM Rohde · 2017 · Cited by 47 — This paper presents a field experim...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1469029225000780](https://www.sciencedirect.com/science/article/pii/S1469029225000780)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1469029225000780" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029225000780</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory informed research for promoting...by N Ntoumanis · 2025 · Cited by 37 — In this review we evaluate the applica...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1469029210001470](https://www.sciencedirect.com/science/article/abs/pii/S1469029210001470)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe relationship of self-determination theory variables to...by SP Vlachopoulos · 2011 · Cited by 158 — The aim of the pres...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029210001470" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029210001470</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The relationship of self-determination theory variables to...by SP Vlachopoulos · 2011 · Cited by 158 — The aim of the pres...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167268116302943](https://www.sciencedirect.com/science/article/abs/pii/S0167268116302943)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268116302943" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268116302943</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>•. Incentives were...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: econpapers.repec.org  
    Title: RePEc:eee:jeborg:v:134:y:2017:i:c:p:388 407  
-   Link: [https://econpapers.repec.org/RePEc%3Aeee%3Ajeborg%3Av%3A134%3Ay%3A2017%3Ai%3Ac%3Ap%3A388-407](https://econpapers.repec.org/RePEc%3Aeee%3Ajeborg%3Av%3A134%3Ay%3A2017%3Ai%3Ac%3Ap%3A388-407)  
+   Link: <a href="https://econpapers.repec.org/RePEc%3Aeee%3Ajeborg%3Av%3A134%3Ay%3A2017%3Ai%3Ac%3Ap%3A388-407" target="_blank" rel="noopener noreferrer nofollow">https://econpapers.repec.org/RePEc%3Aeee%3Ajeborg%3Av%3A134%3Ay%3A2017%3Ai%3Ac%3Ap%3A388-407</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>like to see you in the gym—A field experiment on...19 Mar 2025 — Abstract: This paper presents a field experiment to analyze whether fin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ideas.repec.org  
    Title: v58y2018icp202 214  
-   Link: [https://ideas.repec.org/a/eee/jhecon/v58y2018icp202-214.html](https://ideas.repec.org/a/eee/jhecon/v58y2018icp202-214.html)  
+   Link: <a href="https://ideas.repec.org/a/eee/jhecon/v58y2018icp202-214.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/jhecon/v58y2018icp202-214.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>financial incentives help people trying to establish newby M Carrera · 2018 · Cited by 87 — We provide evidence on this question from a r...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: econpapers.repec.org  
    Title: Re PEc:cdl:ucsbec:qt3tc3j5x7  
-   Link: [https://econpapers.repec.org/RePEc%3Acdl%3Aucsbec%3Aqt3tc3j5x7](https://econpapers.repec.org/RePEc%3Acdl%3Aucsbec%3Aqt3tc3j5x7)  
+   Link: <a href="https://econpapers.repec.org/RePEc%3Acdl%3Aucsbec%3Aqt3tc3j5x7" target="_blank" rel="noopener noreferrer nofollow">https://econpapers.repec.org/RePEc%3Acdl%3Aucsbec%3Aqt3tc3j5x7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Exercise22 Aug 2008 — By Gary Charness and Uri Gneezy; Abstract: Can incentives be effective when trying to encourage the development...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24139781/](https://pubmed.ncbi.nlm.nih.gov/24139781/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedFinancial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24139781/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: rady.ucsd.edu  
-   Link: [https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/incentives-exercise.pdf](https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/incentives-exercise.pdf)  
+   Link: <a href="https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/incentives-exercise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/incentives-exercise.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rady School of ManagementIncentives to Exercise - Rady School of Managementby G CHARNESS · 2009 · Cited by 1037 — We argue that there is...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Creating Exercise Habits Using Incentives  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8734590/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8734590/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8734590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8734590/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCreating Exercise Habits Using Incentives - PMC - NIHby J Beshears · 2020 · Cited by 91 — In a field experiment, we tested...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pure.eur.nl  
    Title: Erasmus University Rotterdam Less carrot more stick?  
-   Link: [https://pure.eur.nl/files/61570955/preprint_38339_accepted.pdf](https://pure.eur.nl/files/61570955/preprint_38339_accepted.pdf)  
+   Link: <a href="https://pure.eur.nl/files/61570955/preprint_38339_accepted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.eur.nl/files/61570955/preprint_38339_accepted.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating rewards and deposit...by DR de Buisonjé · 2022 · Cited by 17 — 155. Conclusions: We found that financial incentives help i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: southampton.ac.uk  
-   Link: [https://www.southampton.ac.uk/assets/centresresearch/documents/wphs/JTUsing%20financial%20incentives%20to%20increase%20physical%20activity.pdf](https://www.southampton.ac.uk/assets/centresresearch/documents/wphs/JTUsing%20financial%20incentives%20to%20increase%20physical%20activity.pdf)  
+   Link: <a href="https://www.southampton.ac.uk/assets/centresresearch/documents/wphs/JTUsing%20financial%20incentives%20to%20increase%20physical%20activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.southampton.ac.uk/assets/centresresearch/documents/wphs/JTUsing%20financial%20incentives%20to%20increase%20physical%20activity.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SouthamptonUsing financial incentives to increase physical activity...The primary format of motivation through FI in the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Impact of Incentives on Exercise Behavior  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4412849/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4412849/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4412849/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4412849/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Impact of Incentives on Exercise Behavior - PMC - NIHby K Strohacker · 2014 · Cited by 187 — An important criticism of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Exercise, physical activity, and self-determination theory  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralExercise, physical activity, and self-determination theory - PMCby PJ Teixeira · 2012 · Cited by 4492 — The results show co...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22726453/](https://pubmed.ncbi.nlm.nih.gov/22726453/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22726453/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22726453/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4500 — Accordingly, research on exercis...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1751057/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1751057/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1751057/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1751057/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The influence of exercise identity on college students&#x27;...by X ZHAO · Cited by 1 — A strong exercise identity promotes self-determined m...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english-chinese-traditional/habit](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/habit)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/habit" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge DictionaryHABIT translate: 重複的行爲, 習慣, 壞習慣，毛病, 毒癮, 衣服, （僧侶或修女穿的）衣服，長袍. Learn more in the Cambridge Engl...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11018029/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11018029/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11018029/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11018029/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As intrapersonal and interpersonal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.935702/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.935702/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.935702/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.935702/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Self-Determination Theory and Acceptance...by D Lev Arey · 2022 · Cited by 34 — Results showed that the SDT and ACT-based intervention...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/282569024_A_Systematic_Review_of_Financial_Incentives_for_Physical_Activity_The_Effects_on_Physical_Activity_and_Related_Outcomes](https://www.researchgate.net/publication/282569024_A_Systematic_Review_of_Financial_Incentives_for_Physical_Activity_The_Effects_on_Physical_Activity_and_Related_Outcomes)  
+   Link: <a href="https://www.researchgate.net/publication/282569024_A_Systematic_Review_of_Financial_Incentives_for_Physical_Activity_The_Effects_on_Physical_Activity_and_Related_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282569024_A_Systematic_Review_of_Financial_Incentives_for_Physical_Activity_The_Effects_on_Physical_Activity_and_Related_Outcomes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Systematic Review of Financial Incentives for...23 Nov 2015 — The aim of this review is to give an overview of the available evi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: healthclubmanagement.co.uk  
-   Link: [https://www.healthclubmanagement.co.uk/health-club-management-news/Short-term-incentives-can-change-behaviour-finds-new-research-motivation-National-Institutes-of-Health-Sir-Keith-Mills/353057](https://www.healthclubmanagement.co.uk/health-club-management-news/Short-term-incentives-can-change-behaviour-finds-new-research-motivation-National-Institutes-of-Health-Sir-Keith-Mills/353057)  
+   Link: <a href="https://www.healthclubmanagement.co.uk/health-club-management-news/Short-term-incentives-can-change-behaviour-finds-new-research-motivation-National-Institutes-of-Health-Sir-Keith-Mills/353057" target="_blank" rel="noopener noreferrer nofollow">https://www.healthclubmanagement.co.uk/health-club-management-news/Short-term-incentives-can-change-behaviour-finds-new-research-motivation-National-Institutes-of-Health-Sir-Keith-Mills/353057</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Immediate rewards](&amp;#123;&amp;#123; &#x27;immediate-rewards/&#x27; | relative_url &amp;#125;&amp;#125;) can motivate people to exercise, finds...24 Apr 2024 — Short-term incentives to exercise, such as using daily reminder...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228947780_Habit_Formation_and_Naivete_in_Gym_Attendance_Evidence_from_a_Field_Experiment](https://www.researchgate.net/publication/228947780_Habit_Formation_and_Naivete_in_Gym_Attendance_Evidence_from_a_Field_Experiment)  
+   Link: <a href="https://www.researchgate.net/publication/228947780_Habit_Formation_and_Naivete_in_Gym_Attendance_Evidence_from_a_Field_Experiment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228947780_Habit_Formation_and_Naivete_in_Gym_Attendance_Evidence_from_a_Field_Experiment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation and Naiveté in Gym AttendanceWe extend the gym-attendance study of Charness and Gneezy (2009) by incentivizing subjects t...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: we like to see you in the gyma field experiment on financial ince  
-   Link: [https://cris.maastrichtuniversity.nl/en/publications/we-like-to-see-you-in-the-gyma-field-experiment-on-financial-ince/](https://cris.maastrichtuniversity.nl/en/publications/we-like-to-see-you-in-the-gyma-field-experiment-on-financial-ince/)  
+   Link: <a href="https://cris.maastrichtuniversity.nl/en/publications/we-like-to-see-you-in-the-gyma-field-experiment-on-financial-ince/" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/en/publications/we-like-to-see-you-in-the-gyma-field-experiment-on-financial-ince/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>like to see you in the gym—A field experiment on...by KIM Rohde · 2017 · Cited by 47 — This paper presents a field experiment to analyze...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228114961_Does_intrinsic_motivation_strengthen_physical_activity_habit_Modeling_relationships_between_self-determination_past_behaviour_and_habit_strength](https://www.researchgate.net/publication/228114961_Does_intrinsic_motivation_strengthen_physical_activity_habit_Modeling_relationships_between_self-determination_past_behaviour_and_habit_strength)  
+   Link: <a href="https://www.researchgate.net/publication/228114961_Does_intrinsic_motivation_strengthen_physical_activity_habit_Modeling_relationships_between_self-determination_past_behaviour_and_habit_strength" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228114961_Does_intrinsic_motivation_strengthen_physical_activity_habit_Modeling_relationships_between_self-determination_past_behaviour_and_habit_strength</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iour in predicting habit strength: prior action was more predictive of habit strength...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: spacedaily.com  
-   Link: [https://spacedaily.com/t-psychology-suggests-people-who-stay-genuinely-fit-as-they-age-arent-always-the-most-disciplined-often-theyre-the-ones-who-made-movement-part-of-a-life-they-still-wanted/](https://spacedaily.com/t-psychology-suggests-people-who-stay-genuinely-fit-as-they-age-arent-always-the-most-disciplined-often-theyre-the-ones-who-made-movement-part-of-a-life-they-still-wanted/)  
+   Link: <a href="https://spacedaily.com/t-psychology-suggests-people-who-stay-genuinely-fit-as-they-age-arent-always-the-most-disciplined-often-theyre-the-ones-who-made-movement-part-of-a-life-they-still-wanted/" target="_blank" rel="noopener noreferrer nofollow">https://spacedaily.com/t-psychology-suggests-people-who-stay-genuinely-fit-as-they-age-arent-always-the-most-disciplined-often-theyre-the-ones-who-made-movement-part-of-a-life-they-still-wanted/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at physical activity identity in older adults significantly predicted actual...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: sciepub.com  
-   Link: [https://www.sciepub.com/portal/downloads?doi=10.12691%2Fjpar-7-2-1&filename=jpar-7-2-1.epub](https://www.sciepub.com/portal/downloads?doi=10.12691%2Fjpar-7-2-1&filename=jpar-7-2-1.epub)  
+   Link: <a href="https://www.sciepub.com/portal/downloads?doi=10.12691%2Fjpar-7-2-1&amp;filename=jpar-7-2-1.epub" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepub.com/portal/downloads?doi=10.12691%2Fjpar-7-2-1&amp;filename=jpar-7-2-1.epub</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Associations between Motivation, Attitudes, and Habit...Exercise, physical activity, and self-determination theory: A systematic review...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ehesp.hal.science  
-   Link: [https://ehesp.hal.science/hal-05168834/document](https://ehesp.hal.science/hal-05168834/document)  
+   Link: <a href="https://ehesp.hal.science/hal-05168834/document" target="_blank" rel="noopener noreferrer nofollow">https://ehesp.hal.science/hal-05168834/document</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>motivation influence physical activity engagement among...by J Caudroit · 2025 — identity, self-determination, habit, active older, phys...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/230676833_Understanding_Motivation_for_Exercise_A_Self-Determination_Theory_Perspective](https://www.researchgate.net/publication/230676833_Understanding_Motivation_for_Exercise_A_Self-Determination_Theory_Perspective)  
+   Link: <a href="https://www.researchgate.net/publication/230676833_Understanding_Motivation_for_Exercise_A_Self-Determination_Theory_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230676833_Understanding_Motivation_for_Exercise_A_Self-Determination_Theory_Perspective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Understanding Motivation for Exercise: A Self-...Self-Determination Theory argues that autonomy plays a major role in intrinsic mo...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: strongerbyscience.com  
-   Link: [https://www.strongerbyscience.com/research-spotlight-psychology-exercise/](https://www.strongerbyscience.com/research-spotlight-psychology-exercise/)  
+   Link: <a href="https://www.strongerbyscience.com/research-spotlight-psychology-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongerbyscience.com/research-spotlight-psychology-exercise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stand human motivation and personality, with a key focus on specific...Read more...</p></details>

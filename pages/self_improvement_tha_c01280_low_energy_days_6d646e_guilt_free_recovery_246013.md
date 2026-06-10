@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:15:08'
 parent_title: Build the Plan for Your Worst Day | Better Change
 parent_permalink: /low-energy/
 parent_nav_short_title: Low Energy
@@ -259,7 +260,6 @@ prev_link:
   permalink: /minimums/
   short_title: Minimums
   heading_title: What counts as enough on a bad day?
-date: '2026-06-05 15:15:08 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_guilt_free_recovery_246013-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_guilt_free_recovery_246013-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_guilt_f
 
 ## Introduction
 
-Missing a habit for one day is usually far less important than the [meaning]({{ 'meaning/' | relative_url }}) attached to it. The real risk is often not the missed workout, skipped study session, or forgotten journal entry. It is the story that follows: “I’ve blown it”, “I’m back to square one”, or “I never stick to anything.” Research on behaviour change repeatedly shows that lapses are common during the process of building new habits. What matters most is how people respond afterwards. A recovery rule that treats a missed day as a normal interruption rather than a character flaw makes it easier to return quickly and maintain progress over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralRelapse on the Road to Recovery: Learning the Lessons of...by CC DiClemente · 2022 · Cited by 65 — Relapse, or the failure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.turningpoint.org.au/treatment/about-addiction/treating-addiction/lapse-and-relapse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turningpoint.org.au">[2turningpoint.org.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turningpoint.org.au</span><span class="citation-popover-snippet">Lapse and relapseChange takes time and when moving towards recovery people may face obstacles that set them back temporarily (a lapse) or...</span></span></span>
+Missing a habit for one day is usually far less important than the [meaning]({{ 'meaning/' | relative_url }}) attached to it. The real risk is often not the missed workout, skipped study session, or forgotten journal entry. It is the story that follows: “I’ve blown it”, “I’m back to square one”, or “I never stick to anything.” Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) repeatedly shows that lapses are common during the process of building new habits. What matters most is how people respond afterwards. A recovery rule that treats a missed day as a normal interruption rather than a character flaw makes it easier to return quickly and maintain progress over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralRelapse on the Road to Recovery: Learning the Lessons of...by CC DiClemente · 2022 · Cited by 65 — Relapse, or the failure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.turningpoint.org.au/treatment/about-addiction/treating-addiction/lapse-and-relapse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turningpoint.org.au">[2turningpoint.org.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turningpoint.org.au</span><span class="citation-popover-snippet">Lapse and relapseChange takes time and when moving towards recovery people may face obstacles that set them back temporarily (a lapse) or...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_guilt_free_recovery_246013-Illustration-1-dark.svg" | relative_url }}" alt="Recovery illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_guilt_free_recovery_246013-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_guilt_free_recovery_246013-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,7 +278,7 @@ For low-energy days, this perspective is especially important. Fatigue, stress, 
 
 A single missed habit often feels emotionally bigger than it is behaviourally. One skipped walk represents only one missed walk. Yet people frequently interpret it as proof that the entire effort is collapsing.
 
-Psychologists studying relapse and behaviour change have long observed this pattern. In addiction research, the concept known as the “[abstinence violation]({{ 'guilt-spiral/' | relative_url }}) effect” describes what happens when a small lapse is interpreted as a personal failure rather than a temporary setback. The lapse itself is often less damaging than the guilt, shame, and hopelessness that follow. Those emotions can increase the likelihood of abandoning the goal altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the abstinence violation effect and overcoming it</span><span class="citation-popover-snippet">Psychology TodayThe Abstinence Violation Effect and Overcoming It2 Jan 2024 — AVE occurs when someone who is striving for abstinence from...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overview | ScienceDirect TopicsThe abstinence violation effect can be defined as a tendency to continue to enga...</span></span></span>
+Psychologists studying relapse and behaviour change have long observed this pattern. In addiction research, the concept known as the “abstinence violation effect” describes what happens when a small lapse is interpreted as a personal failure rather than a temporary setback. The lapse itself is often less damaging than the guilt, shame, and hopelessness that follow. Those emotions can increase the likelihood of abandoning the goal altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the abstinence violation effect and overcoming it</span><span class="citation-popover-snippet">Psychology TodayThe Abstinence Violation Effect and Overcoming It2 Jan 2024 — AVE occurs when someone who is striving for abstinence from...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overview &#124; ScienceDirect TopicsThe abstinence violation effect can be defined as a tendency to continue to enga...</span></span></span>
 
 Although the idea emerged from addiction treatment, the underlying pattern appears in ordinary habit building as well. Someone misses one planned workout and decides they have “fallen off the wagon”. Someone skips a language lesson and concludes they are not disciplined enough to learn. The problem is not the interruption. The problem is the leap from behaviour to [identity]({{ 'identity/' | relative_url }}).
 
@@ -306,7 +306,7 @@ Self-compassion does not mean pretending the lapse did not happen. It means resp
 
 </div>
 
-This approach matters because shame tends to narrow attention onto personal defects, whereas self-compassion allows attention to remain on the next useful action. Research reviews have found that self-compassion can [support]({{ 'support/' | relative_url }}) self-regulation and health behaviour change rather than undermining [motivation]({{ 'motivation/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28810473/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effect of self-compassion on the self-regulation...by DD Biber · 2019 · Cited by 277 — Self-compassion interventions were just...</span></span></span>
+This approach matters because shame tends to narrow attention onto personal defects, whereas self-compassion allows attention to remain on the next useful action. Research reviews have found that self-compassion can [support]({{ 'support/' | relative_url }}) self-regulation and health behaviour change rather than undermining [motivation]({{ 'motivation/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28810473/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effect of self-compassion on the self-regulation...by DD Biber · 2019 · Cited by 277 — Self-compassion interventions were just...</span></span></span>
 
 A useful comparison is the way a good coach responds to a missed training session. A good coach does not deny the absence. Nor do they treat it as evidence that the athlete is incapable. They focus on understanding what happened and getting training restarted.
 
@@ -830,226 +830,226 @@ For low-energy days, that mindset is not a luxury. It is part of the system. The
 
 1. <a id="endnote-1"></a>
    Source: turningpoint.org.au  
-   Link: [https://www.turningpoint.org.au/treatment/about-addiction/treating-addiction/lapse-and-relapse](https://www.turningpoint.org.au/treatment/about-addiction/treating-addiction/lapse-and-relapse)  
+   Link: <a href="https://www.turningpoint.org.au/treatment/about-addiction/treating-addiction/lapse-and-relapse" target="_blank" rel="noopener noreferrer nofollow">https://www.turningpoint.org.au/treatment/about-addiction/treating-addiction/lapse-and-relapse</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lapse and relapseChange takes time and when moving towards recovery people may face obstacles that set them back temporarily (a lapse) or...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Abstinence Violation  
-   Link: [https://www.sciencedirect.com/topics/psychology/abstinence-violation](https://www.sciencedirect.com/topics/psychology/abstinence-violation)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/abstinence-violation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation - an overview | ScienceDirect TopicsThe abstinence violation effect can be defined as a tendency to continue to enga...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect](https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect)  
+   Link: <a href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable, uncontroll...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: self-compassion.org  
-   Link: [https://self-compassion.org/wp-content/uploads/2022/08/PsychReviewInPress.pdf](https://self-compassion.org/wp-content/uploads/2022/08/PsychReviewInPress.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-CompassionTheory, Method, Research, and Interventionby KD Neff · 2023 · Cited by 1531 — Another methodology involves experimentally...</p></details>
+   Link: <a href="https://self-compassion.org/wp-content/uploads/2022/08/PsychReviewInPress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2022/08/PsychReviewInPress.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Theory, Method, Research, and Interventionby KD Neff · 2023 · Cited by 1531 — Another methodology involves experimentally...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation IntentionsImplementation intentions are formed for the purpose of enhancing the translation of goal intentio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation IntentionsThis result may be explained by the fact that if-then planning, also referred to as implementation intenti...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356](https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking and creating habits on the working floor: A field-experiment...The present study aimed to provide the first evidence that consc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0195666323024716](https://www.sciencedirect.com/science/article/abs/pii/S0195666323024716)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0195666323024716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0195666323024716</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of self-compassion and its individual components...by CJ Hagerman · 2023 · Cited by 15 — The current study extended this litera...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661324002663](https://www.sciencedirect.com/science/article/pii/S1364661324002663)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661324002663</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 41 — Implementation intentions have been described as...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: self.inc  
-   Link: [https://www.self.inc/](https://www.self.inc/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self | Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360004633_A_Comparison_Between_Self-compassion_and_Unconditional_Self-acceptance_Interventions_on_Self-blame_Empathy_Shame-_Guilt-Proneness_and_Performance](https://www.researchgate.net/publication/360004633_A_Comparison_Between_Self-compassion_and_Unconditional_Self-acceptance_Interventions_on_Self-blame_Empathy_Shame-_Guilt-Proneness_and_Performance)  
+   Link: <a href="https://www.researchgate.net/publication/360004633_A_Comparison_Between_Self-compassion_and_Unconditional_Self-acceptance_Interventions_on_Self-blame_Empathy_Shame-_Guilt-Proneness_and_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360004633_A_Comparison_Between_Self-compassion_and_Unconditional_Self-acceptance_Interventions_on_Self-blame_Empathy_Shame-_Guilt-Proneness_and_Performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>onditional self-acceptance training on self-blame levels, empathy levels...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students](https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students)  
+   Link: <a href="https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Compassion is Associated with Improved Well...8 Jul 2024 — Conclusions These results confirm that self-compassion may be prot...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/373312650_The_role_of_self-compassion_and_its_individual_components_in_adaptive_responses_to_dietary_lapses](https://www.researchgate.net/publication/373312650_The_role_of_self-compassion_and_its_individual_components_in_adaptive_responses_to_dietary_lapses)  
+   Link: <a href="https://www.researchgate.net/publication/373312650_The_role_of_self-compassion_and_its_individual_components_in_adaptive_responses_to_dietary_lapses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373312650_The_role_of_self-compassion_and_its_individual_components_in_adaptive_responses_to_dietary_lapses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n in response to a lapse would predict lower likelihood of a subsequent same-day...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes](https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ponse with an alternative response in a critical situation can overrule habits...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/317611181_The_effect_of_self-compassion_on_the_self-regulation_of_health_behaviors_A_systematic_review](https://www.researchgate.net/publication/317611181_The_effect_of_self-compassion_on_the_self-regulation_of_health_behaviors_A_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/317611181_The_effect_of_self-compassion_on_the_self-regulation_of_health_behaviors_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317611181_The_effect_of_self-compassion_on_the_self-regulation_of_health_behaviors_A_systematic_review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ge [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) at improving self-regulation of health behavior.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention](https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention)  
+   Link: <a href="https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t outcomes in a trial of mindfulness-based relapse prevention (MBRP), cognitive-...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRelapse on the Road to Recovery: Learning the Lessons of...by CC DiClemente · 2022 · Cited by 65 — Relapse, or the failure...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1981900</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlinePredictors of lapse and relapse in physical activity and...by EM Roordink · 2023 · Cited by 42 — We synthesized t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: psychologytoday.com  
    Title: the abstinence violation effect and overcoming it  
-   Link: [https://www.psychologytoday.com/us/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it](https://www.psychologytoday.com/us/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayThe Abstinence Violation Effect and Overcoming It2 Jan 2024 — AVE occurs when someone who is striving for abstinence from...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Psychological theor...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Role of Self-Compassion and its Individual Components...by CJ Hagerman · 2023 · Cited by 15 — We examined how total se...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00229/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00229/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00229/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00229/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersOn the Role of Self-compassion and Self-kindness in...by M Mantzios · 2017 · Cited by 105 — Self-compassion has been investigat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28810473/](https://pubmed.ncbi.nlm.nih.gov/28810473/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe effect of self-compassion on the self-regulation...by DD Biber · 2019 · Cited by 277 — Self-compassion interventions were just...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28810473/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28810473/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of self-compassion on the self-regulation...by DD Biber · 2019 · Cited by 277 — Self-compassion interventions were just...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5779931/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5779931/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5779931/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5779931/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSelf-compassion and physical health: Exploring the roles of...by KJ Homan · 2017 · Cited by 263 — For example, several stu...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention and Reminder Effects on Behavior Change...November 30, 2017 — The aim of this experiment was to manipulate the effects of impl...</p></details>
    Published: November 30, 2017  
 
 27. <a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18851764/](https://pubmed.ncbi.nlm.nih.gov/18851764/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 332 — In summary, habit strength moderates the effect...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21177875/](https://pubmed.ncbi.nlm.nih.gov/21177875/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21177875/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21177875/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of implementation intentions negating...by MA Adriaanse · 2011 · Cited by 164 — Additionally, it was found that negation impleme...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21787035/](https://pubmed.ncbi.nlm.nih.gov/21787035/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dynamics during [smoking cessation](&amp;#123;&amp;#123; &#x27;quit-incentives/&#x27; | relative_url &amp;#125;&amp;#125;) - PubMed - NIHby TR Kirchner · 2012 · Cited by 96 — Results highlight the dynamic nature of lapse respo...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21787035/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21787035/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>dynamics during smoking cessation - PubMed - NIHby TR Kirchner · 2012 · Cited by 96 — Results highlight the dynamic nature of lapse respo...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: psychologytoday.com  
    Title: leaving the road to hell and getting back on track  
-   Link: [https://www.psychologytoday.com/gb/blog/the-road-to-hell/201705/leaving-the-road-to-hell-and-getting-back-on-track](https://www.psychologytoday.com/gb/blog/the-road-to-hell/201705/leaving-the-road-to-hell-and-getting-back-on-track)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/the-road-to-hell/201705/leaving-the-road-to-hell-and-getting-back-on-track" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/the-road-to-hell/201705/leaving-the-road-to-hell-and-getting-back-on-track</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior change is challenging and requires consistent effort and intentional modification of habits.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: rehabcenter.net  
    Title: abstinence violation effect  
-   Link: [https://www.rehabcenter.net/abstinence-violation-effect/](https://www.rehabcenter.net/abstinence-violation-effect/)  
+   Link: <a href="https://www.rehabcenter.net/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.rehabcenter.net/abstinence-violation-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of learning and growing from their mistake, an individual may...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: southshorerecovery.com  
    Title: abstinence violation effect  
-   Link: [https://southshorerecovery.com/abstinence-violation-effect/](https://southshorerecovery.com/abstinence-violation-effect/)  
+   Link: <a href="https://southshorerecovery.com/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://southshorerecovery.com/abstinence-violation-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Abstinence Violation Effect Leads to Relapse22 Nov 2025 — A Lapse is Not a Relapse: The Abstinence Violation Effect blurs the lin...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...Dec 23, 2022 — Implementation Intentions are proven strategies helping you ach...</p></details>
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/addiction-recovery-key-2-self-compassion-dr-anne-hilty-cmb4f](https://www.linkedin.com/pulse/addiction-recovery-key-2-self-compassion-dr-anne-hilty-cmb4f)  
+   Link: <a href="https://www.linkedin.com/pulse/addiction-recovery-key-2-self-compassion-dr-anne-hilty-cmb4f" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/addiction-recovery-key-2-self-compassion-dr-anne-hilty-cmb4f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Addiction Recovery, Key #2: Self-CompassionResults demonstrated that self-compassion was significantly associated with lower risk of alco...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: alturarecovery.com  
-   Link: [https://alturarecovery.com/abstinence-violation-effect/](https://alturarecovery.com/abstinence-violation-effect/)  
+   Link: <a href="https://alturarecovery.com/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://alturarecovery.com/abstinence-violation-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Abstinence Violation EffectResearch shows that approximately 40% to 60% of people who have a lapse will go on to have a...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: vegoutmag.com  
-   Link: [https://vegoutmag.com/lifestyle/vo-l-behavioral-scientists-studying-habit-formation-keep-finding-that-the-people-who-stick-with-new-routines-arent-more-disciplined-theyre-better-at-forgiving-the-days-they-miss/](https://vegoutmag.com/lifestyle/vo-l-behavioral-scientists-studying-habit-formation-keep-finding-that-the-people-who-stick-with-new-routines-arent-more-disciplined-theyre-better-at-forgiving-the-days-they-miss/)  
+   Link: <a href="https://vegoutmag.com/lifestyle/vo-l-behavioral-scientists-studying-habit-formation-keep-finding-that-the-people-who-stick-with-new-routines-arent-more-disciplined-theyre-better-at-forgiving-the-days-they-miss/" target="_blank" rel="noopener noreferrer nofollow">https://vegoutmag.com/lifestyle/vo-l-behavioral-scientists-studying-habit-formation-keep-finding-that-the-people-who-stick-with-new-routines-arent-more-disciplined-theyre-better-at-forgiving-the-days-they-miss/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral scientists studying habit formation keep finding...20 Apr 2026 — Research suggests people who score higher on self-compassion...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: ejcop.scholasticahq.com  
-   Link: [https://ejcop.scholasticahq.com/article/133794-the-predictive-and-mediating-role-of-self-compassion-in-substance-use-disorders](https://ejcop.scholasticahq.com/article/133794-the-predictive-and-mediating-role-of-self-compassion-in-substance-use-disorders)  
+   Link: <a href="https://ejcop.scholasticahq.com/article/133794-the-predictive-and-mediating-role-of-self-compassion-in-substance-use-disorders" target="_blank" rel="noopener noreferrer nofollow">https://ejcop.scholasticahq.com/article/133794-the-predictive-and-mediating-role-of-self-compassion-in-substance-use-disorders</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Predictive and Mediating Role of Self-Compassion in...by I Karlou · 2025 · Cited by 9 — This study investigates the role of self-compass...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: betterhelp.com  
    Title: countering the abstinence violation effect supporting recovery through relapse  
-   Link: [https://www.betterhelp.com/advice/happiness/countering-the-abstinence-violation-effect-supporting-recovery-through-relapse/](https://www.betterhelp.com/advice/happiness/countering-the-abstinence-violation-effect-supporting-recovery-through-relapse/)  
+   Link: <a href="https://www.betterhelp.com/advice/happiness/countering-the-abstinence-violation-effect-supporting-recovery-through-relapse/" target="_blank" rel="noopener noreferrer nofollow">https://www.betterhelp.com/advice/happiness/countering-the-abstinence-violation-effect-supporting-recovery-through-relapse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation Effect: Supporting Recovery15 Apr 2026 — Abstinence violation effect is when a person relapses, then decides since t...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: This may be achieved by mentally forming stimulus-response  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (strategic “if-t...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/live-well/addiction-support/drug-addiction-getting-help/](https://www.nhs.uk/live-well/addiction-support/drug-addiction-getting-help/)  
+   Link: <a href="https://www.nhs.uk/live-well/addiction-support/drug-addiction-getting-help/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/addiction-support/drug-addiction-getting-help/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>addiction: getting helpIf you have a problem with drugs, there&#x27;s a wide range of services that can help...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: globalrph.com  
-   Link: [https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/](https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/)  
+   Link: <a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lying habit formation and explores evidence-based strategies for behavioral change.Read more...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ective for sticking to our goals, whether it&#x27;s writing down the exact time and date of when...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: siliconcanals.com  
-   Link: [https://siliconcanals.com/gen-bt-research-suggests-that-self-compassion-after-failure-not-self-criticism-is-what-predicts-whether-someone-tries-again-which-means-being-hard-on-yourself-isnt-discipline-its-the-thing-that-ends-i/](https://siliconcanals.com/gen-bt-research-suggests-that-self-compassion-after-failure-not-self-criticism-is-what-predicts-whether-someone-tries-again-which-means-being-hard-on-yourself-isnt-discipline-its-the-thing-that-ends-i/)  
+   Link: <a href="https://siliconcanals.com/gen-bt-research-suggests-that-self-compassion-after-failure-not-self-criticism-is-what-predicts-whether-someone-tries-again-which-means-being-hard-on-yourself-isnt-discipline-its-the-thing-that-ends-i/" target="_blank" rel="noopener noreferrer nofollow">https://siliconcanals.com/gen-bt-research-suggests-that-self-compassion-after-failure-not-self-criticism-is-what-predicts-whether-someone-tries-again-which-means-being-hard-on-yourself-isnt-discipline-its-the-thing-that-ends-i/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more after initial failure but may reduce persistence after repeated failures...Read more...</p></details>

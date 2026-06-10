@@ -315,7 +315,7 @@ The same principle applies across many goals:
 
 Without records, people often explain outcomes using personality traits. With records, they can look for recurring conditions and constraints.
 
-Research on behaviour change and habit formation increasingly relies on repeated measurement because behaviour unfolds over time and is strongly influenced by context. Tracking allows recurring cues, interruptions and environmental influences to become visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 114 — This paper proposes methodological criteria for studies tracki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kclpure.kcl.ac.uk/portal/files/171110819/How_does_habit_form_GARNDER_Publishedonline22Feb2022_GOLD_VoR_CC_BY_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kclpure.kcl.ac.uk">[King&#x27;s College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kclpure.kcl.ac.uk</span><span class="citation-popover-title">King&#x27;s College London How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking realby B Gardner · 2022 · Cited by 114 — Social psychologists are increasingly applying habit theory to study rea...</span></span></span>
+Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) and habit formation increasingly relies on repeated measurement because behaviour unfolds over time and is strongly influenced by context. Tracking allows recurring cues, interruptions and environmental influences to become visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 114 — This paper proposes methodological criteria for studies tracki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kclpure.kcl.ac.uk/portal/files/171110819/How_does_habit_form_GARNDER_Publishedonline22Feb2022_GOLD_VoR_CC_BY_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kclpure.kcl.ac.uk">[King&#x27;s College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kclpure.kcl.ac.uk</span><span class="citation-popover-title">King&#x27;s College London How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking realby B Gardner · 2022 · Cited by 114 — Social psychologists are increasingly applying habit theory to study rea...</span></span></span>
 
 The practical value is that patterns suggest interventions. If every missed study session follows an evening commute, the problem may not be [motivation]({{ 'motivation/' | relative_url }}). It may be timing. If workouts happen reliably when gym clothes are prepared in advance, the useful lesson is not “try harder” but “keep using the preparation routine”.
 
@@ -392,7 +392,7 @@ Visible records are valuable because they reduce the distance between behaviour 
 
 In the context of self-improvement that works, the record is not the goal. The goal is better decisions. A habit tracker, logbook, spreadsheet or checklist earns its place when it reveals something that memory alone would have missed.
 
-The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not built on perfect recollection. They are built on evidence that remains visible after the week is over. When progress can be seen rather than merely remembered, it becomes much easier to decide what should change next.
+The most effective feedback loops are not built on perfect recollection. They are built on evidence that remains visible after the week is over. When progress can be seen rather than merely remembered, it becomes much easier to decide what should change next.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -480,7 +480,7 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -490,111 +490,36 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Ring Gen 2 Health Fitness Tracker Heart Rate Blood Oxygen Sleep Monitor"><img src="{{ '/assets/images/marketplace-covers/5e2afef2fb862bb9f219.jpg' | relative_url }}" alt="Listing image for Smart Ring Gen 2 Health Fitness Tracker Heart Rate Blood Oxygen Sleep Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ..."><img src="https://i.ebayimg.com/images/g/p~oAAOSwxDFm4Aiq/s-l225.jpg" alt="Listing image for Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Ring Gen 2 Health Fitness Tracker Heart Rate Blood Oxygen Sleep Monitor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.com</span>: fitness tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fitbit Inspire 3 Health &amp;-Fitness-Tracker with Stress Management 24/7 Heart Rate"><img src="{{ '/assets/images/marketplace-covers/c9a6c0d712d1542f823a.jpg' | relative_url }}" alt="Listing image for Fitbit Inspire 3 Health &amp;-Fitness-Tracker with Stress Management 24/7 Heart Rate" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fitbit Inspire 3 Health &amp;-Fitness-Tracker with Stress Management 24/7 Heart Rate</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.com</span>: fitness tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2025 Smart Ring Health Tracker, IP65 Waterproof Monitor for Heart Rate &amp; Fitness"><img src="{{ '/assets/images/marketplace-covers/dfc7d144f4a79435db76.jpg' | relative_url }}" alt="Listing image for 2025 Smart Ring Health Tracker, IP65 Waterproof Monitor for Heart Rate &amp; Fitness" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2025 Smart Ring Health Tracker, IP65 Waterproof Monitor for Heart Rate &amp; Fitness</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.com</span>: fitness tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2025 Smart Ring Health Tracker, IP65 Waterproof Monitor for Heart Rate &amp; Fitness"><img src="{{ '/assets/images/marketplace-covers/dfc7d144f4a79435db76.jpg' | relative_url }}" alt="Listing image for 2025 Smart Ring Health Tracker, IP65 Waterproof Monitor for Heart Rate &amp; Fitness" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2025 Smart Ring Health Tracker, IP65 Waterproof Monitor for Heart Rate &amp; Fitness</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.com</span>: fitness tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-fitness-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Hero A4 Tear Off Pad"><img src="{{ '/assets/images/marketplace-covers/19fef475fe7f5684fce3.jpg' | relative_url }}" alt="Listing image for Habit Tracker Hero A4 Tear Off Pad" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Hero A4 Tear Off Pad</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +527,15 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="{{ '/assets/images/marketplace-covers/f52bec22c2fa875efffc.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Task Planner Tracker Goal for Women Chores Board Kids"><img src="https://i.ebayimg.com/images/g/DBkAAeSwNQlpwhXC/s-l225.jpg" alt="Listing image for Weekly Task Planner Tracker Goal for Women Chores Board Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Weekly Task Planner Tracker Goal for Women Chores Board Kids</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,15 +543,15 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Habit Tracker Notepad"><img src="{{ '/assets/images/marketplace-covers/3f067400ab2a7a634a68.jpg' | relative_url }}" alt="Listing image for Monthly Habit Tracker Notepad" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles"><img src="https://i.ebayimg.com/images/g/lssAAeSwZBJo3BCw/s-l225.jpg" alt="Listing image for Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Monthly Habit Tracker Notepad</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -634,15 +559,15 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List"><img src="{{ '/assets/images/marketplace-covers/f085fd05c1f97db143c1.jpg' | relative_url }}" alt="Listing image for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for $10,000 Savings Challenge Board Money Saving Tracker Wood Frame Budget Goal"><img src="https://i.ebayimg.com/images/g/PvgAAeSww5NpqNVL/s-l225.jpg" alt="Listing image for $10,000 Savings Challenge Board Money Saving Tracker Wood Frame Budget Goal" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">$10,000 Savings Challenge Board Money Saving Tracker Wood Frame Budget Goal</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -650,7 +575,7 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-records-why-memory-is-a-bad-habit-tracker-self-improvement-that-works-habit-tracker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -727,17 +652,31 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -750,42 +689,73 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -800,52 +770,56 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 750 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul](https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderation tests revealed that progress monitoring had larger effects on goal attainment when the outcomes were reported or made public...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online How does habit form?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277](https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 114 — This paper proposes methodological criteria for studies tracki...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: kclpure.kcl.ac.uk  
    Title: King's College London How does habit form?  
-   Link: [https://kclpure.kcl.ac.uk/portal/files/171110819/How_does_habit_form_GARNDER_Publishedonline22Feb2022_GOLD_VoR_CC_BY_.pdf](https://kclpure.kcl.ac.uk/portal/files/171110819/How_does_habit_form_GARNDER_Publishedonline22Feb2022_GOLD_VoR_CC_BY_.pdf)  
+   Link: <a href="https://kclpure.kcl.ac.uk/portal/files/171110819/How_does_habit_form_GARNDER_Publishedonline22Feb2022_GOLD_VoR_CC_BY_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kclpure.kcl.ac.uk/portal/files/171110819/How_does_habit_form_GARNDER_Publishedonline22Feb2022_GOLD_VoR_CC_BY_.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking realby B Gardner · 2022 · Cited by 114 — Social psychologists are increasingly applying habit theory to study rea...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: [https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence](https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderation tests revealed that progress monitoring had larger effects on goal attainment when the outcomes were reported or made public...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: psychiatry.ucsd.edu  
    Title: goal progress  
-   Link: [https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html](https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html)  
+   Link: <a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress MonitoringTracking task and progress toward mission accomplishment, interpreting system information in terms of what needs to be...</p></details>
 
 ### Additional References
@@ -853,53 +827,53 @@ The most effective [feedback loops]({{ 'feedback/' | relative_url }}) are not bu
 7. <a id="endnote-7"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf](https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — A meta-analysis of 47 experimental studies found that a medium-to-large-sized change in intentions ha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: annualreviews.org  
-   Link: [https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-011744](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-011744)  
+   Link: <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-011744" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-011744</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attitudes, Habits, and Behavior Changeby B Verplanken · 2022 · Cited by 552 — Beyond self-tracking and [reminders](&amp;#123;&amp;#123; &#x27;reminders/&#x27; | relative_url &amp;#125;&amp;#125;): designing smartphone ap...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: habitcompanion.com  
-   Link: [https://habitcompanion.com/how-to-track-your-progress/](https://habitcompanion.com/how-to-track-your-progress/)  
+   Link: <a href="https://habitcompanion.com/how-to-track-your-progress/" target="_blank" rel="noopener noreferrer nofollow">https://habitcompanion.com/how-to-track-your-progress/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harkin et al.&#x27;s meta-analysis of 100+ studies with 20000 participants reveals that writing...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: semanticscholar.org  
    Title: Does monitoring goal progress promote goal attainment?  
-   Link: [https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea](https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea)  
+   Link: <a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>findings suggest that monitoring goal progress is an effective self-regulation strategy, and that interventions that increase th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/iepeduc/posts/1224117229775130/](https://www.facebook.com/groups/iepeduc/posts/1224117229775130/)  
+   Link: <a href="https://www.facebook.com/groups/iepeduc/posts/1224117229775130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/iepeduc/posts/1224117229775130/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ict to report/provide data on just the goal or the goals and the objectives...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: americanprogress.org  
    Title: a new vision for school accountability  
-   Link: [https://www.americanprogress.org/article/a-new-vision-for-school-accountability/](https://www.americanprogress.org/article/a-new-vision-for-school-accountability/)  
+   Link: <a href="https://www.americanprogress.org/article/a-new-vision-for-school-accountability/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanprogress.org/article/a-new-vision-for-school-accountability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Mar 2017 — This report presents a framework for school accountability systems that achieve college and career readiness for all student...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661324002663](https://www.sciencedirect.com/science/article/pii/S1364661324002663)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661324002663</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 47 — In real-life settings, habit formation typically...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: unesdoc.unesco.org  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000259338](https://unesdoc.unesco.org/ark%3A/48223/pf0000259338)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000259338" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000259338</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in education: meeting our commitmentsAround half of countries have produced a national education monitoring report analysing progress...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
    Title: How does habit form?  
-   Link: [https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation](https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation)  
+   Link: <a href="https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358786633_How_does_habit_form_Guidelines_for_tracking_real-world_habit_formation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking real-world...7 Feb 2022 — This paper proposes methodological criteria for studies tracking real-world habit form...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scienceforwork.com  
-   Link: [https://scienceforwork.com/blog/goal-monitoring/](https://scienceforwork.com/blog/goal-monitoring/)  
+   Link: <a href="https://scienceforwork.com/blog/goal-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://scienceforwork.com/blog/goal-monitoring/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Monitoring: Why it pays to keep your eye on the prize.5 Jun 2017 — Benjamin Harkin and colleagues undertook a meta-analysis that loo...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_en
 
 ## Introduction
 
-Can changing the setup beat temptation? In many cases, yes. Environmental restructuring is a behaviour change technique that works by altering the physical [environment]({{ 'environment/' | relative_url }}) so that the desired action becomes easier, more obvious or more convenient, while the tempting action becomes harder, slower or less automatic. Rather than relying on willpower in the moment, it changes the conditions under which decisions are made. In the Behaviour Change Technique Taxonomy, this is captured through [techniques]({{ 'techniques/' | relative_url }}) such as restructuring the physical environment and reducing exposure to cues that trigger unwanted behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">Michie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Taxonomy (v1) of 93 hie...</span></span></span>
+Can changing the setup beat temptation? In many cases, yes. Environmental restructuring is a [behaviour change]({{ 'behaviour-change/' | relative_url }}) technique that works by altering the physical [environment]({{ 'environment/' | relative_url }}) so that the desired action becomes easier, more obvious or more convenient, while the tempting action becomes harder, slower or less automatic. Rather than relying on willpower in the moment, it changes the conditions under which decisions are made. In the Behaviour Change Technique Taxonomy, this is captured through techniques such as restructuring the physical environment and reducing exposure to cues that trigger unwanted behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">Michie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Taxonomy (v1) of 93 hie...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-1-dark.svg" | relative_url }}" alt="Restructure illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ The key insight is simple: temptation is not only a problem inside the person. I
 
 Many self-improvement approaches focus on changing thoughts, goals or motivation. Environmental restructuring focuses on changing cues, access and friction.
 
-Researchers studying behaviour change and habit formation repeatedly point to the importance of environmental stimuli. Behaviour is often triggered by features of the environment that operate automatically rather than through deliberate reasoning. When the environment changes, the pattern of behaviour often changes with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8356415/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby TM Marteau · 2021 · Cited by 23 — Two complementary approaches to both understanding and changing behaviour are discernible: those...</span></span></span>
+Researchers studying behaviour change and habit formation repeatedly point to the importance of environmental stimuli. Behaviour is often triggered by features of the environment that operate automatically rather than through deliberate reasoning. When the environment changes, the pattern of behaviour often changes with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8356415/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by TM Marteau · 2021 · Cited by 23 — Two complementary approaches to both understanding and changing behaviour are discernible: those...</span></span></span>
 
 Three mechanisms matter most:
 
@@ -320,7 +320,7 @@ Consider a few everyday examples:
 
 </div>
 
-These changes may seem trivial, but they alter the first few seconds of action. Starting is often the point where intentions fail. By making the first step easier, environmental restructuring lowers the activation energy required for behaviour. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanohabits.com">[nanohabits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanohabits.com</span><span class="citation-popover-snippet">NanohabitsDesigning an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</span></span></span> This explains why many successful habits depend less on motivation than on preparation. A person who has already arranged the environment does not need to make as many decisions when the moment arrives.
+These changes may seem trivial, but they alter the first few seconds of action. Starting is often the point where intentions fail. By making the first step easier, environmental restructuring lowers the activation energy required for behaviour. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanohabits.com">[nanohabits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanohabits.com</span><span class="citation-popover-snippet">Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</span></span></span> This explains why many successful habits depend less on motivation than on preparation. A person who has already arranged the environment does not need to make as many decisions when the moment arrives.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGWELW82Eoc" title="How Your Environment Quietly Controls Your Habits | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer">How Your Environment Quietly Controls Your Habits | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 19.8K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGWELW82Eoc">Open on YouTube</a></p></div></div></div>
@@ -329,7 +329,7 @@ These changes may seem trivial, but they alter the first few seconds of action. 
 
 Objects compete for attention. What is seen frequently tends to be considered more frequently.
 
-For behaviours that depend on remembering, visibility can be more powerful than determination. A guitar on a stand is played more often than a guitar stored in a case. A prepared lunch is more likely to be eaten than ingredients hidden at the back of the refrigerator. These effects occur because the environment continuously prompts action without requiring conscious effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanohabits.com">[Nanohabits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanohabits.com</span><span class="citation-popover-snippet">NanohabitsDesigning an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</span></span></span>
+For behaviours that depend on remembering, visibility can be more powerful than determination. A guitar on a stand is played more often than a guitar stored in a case. A prepared lunch is more likely to be eaten than ingredients hidden at the back of the refrigerator. These effects occur because the environment continuously prompts action without requiring conscious effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanohabits.com">[Nanohabits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanohabits.com</span><span class="citation-popover-snippet">Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</span></span></span>
 
 ## Make unwanted behaviours harder to reach
 
@@ -364,7 +364,7 @@ Temptation is often encountered repeatedly through daily routes and routines.
 
 Someone trying to avoid impulse purchases may stop browsing shopping sites during idle moments. Someone trying to eat differently may avoid walking past a favourite takeaway on the way home. Someone trying to focus may work in a room where distractions are absent rather than trying to resist them continuously.
 
-In each case, the environment is redesigned so temptation appears less often in the first place. Prevention can be easier than resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanohabits.com">[Nanohabits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanohabits.com</span><span class="citation-popover-snippet">NanohabitsDesigning an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</span></span></span>
+In each case, the environment is redesigned so temptation appears less often in the first place. Prevention can be easier than resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanohabits.com">[Nanohabits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanohabits.com</span><span class="citation-popover-snippet">Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h35hy4LcVFw" title="Behavioral scientist BJ Fogg on building lasting habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer">Behavioral scientist BJ Fogg on building lasting habits</a></p><p class="youtube-embed-meta">Channel: Stanford &middot; Views: 14.9K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h35hy4LcVFw">Open on YouTube</a></p></div></div></div>
@@ -373,9 +373,9 @@ In each case, the environment is redesigned so temptation appears less often in 
 
 The goal is not to make life difficult. The goal is to place difficulty selectively.
 
-Behavioural scientists sometimes describe this as [choice architecture]({{ 'defaults/' | relative_url }}): arranging options so that the preferred behaviour becomes the easiest or default path while preserving freedom of choice. [Defaults]({{ 'defaults/' | relative_url }}), placement and convenience can strongly influence behaviour without banning alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">Choice Architecture by Richard H</span><span class="citation-popover-snippet">Thaler, Cass...by RH Thaler · 2010 · Cited by 1311 — In this paper we analyze some of the tools that are available to choice architects...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6636886/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Change Techniques and Their Mechanisms of Actionby RN Carey · 2018 · Cited by 888 — This study produced a large dataset of hypothesised l...</span></span></span>
+Behavioural scientists sometimes describe this as choice architecture: arranging options so that the preferred behaviour becomes the easiest or default path while preserving freedom of choice. [Defaults]({{ 'defaults/' | relative_url }}), placement and convenience can strongly influence behaviour without banning alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">Choice Architecture by Richard H</span><span class="citation-popover-snippet">Thaler, Cass...by RH Thaler · 2010 · Cited by 1311 — In this paper we analyze some of the tools that are available to choice architects...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6636886/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Change Techniques and Their Mechanisms of Actionby RN Carey · 2018 · Cited by 888 — This study produced a large dataset of hypothesised l...</span></span></span>
 
-A large meta-analysis of choice architecture interventions found that changing the structure of choices can produce meaningful shifts in behaviour across many contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASThe effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</span></span></span>
+A large meta-analysis of choice architecture interventions found that changing the structure of choices can produce meaningful shifts in behaviour across many contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</span></span></span>
 
 The practical lesson is to apply friction strategically:
 
@@ -394,7 +394,7 @@ People frequently interpret failure as a lack of discipline. Environmental restr
 
 Many behaviours occur because the environment repeatedly makes them easy, visible and rewarding. If that environment remains unchanged, self-control must win every encounter. If the environment changes, self-control may be needed far less often.
 
-This perspective aligns with evidence that behaviour is influenced not only by conscious goals but also by [environmental cues]({{ 'cues-195d40/' | relative_url }}) and automatic responses. Changing surroundings can therefore produce behaviour change even when motivation fluctuates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">PMCby S Mertens · 2021 · Cited by 1058 — Choice architecture interventions aim to nudge people toward personally and socially desirable b...</span></span></span>
+This perspective aligns with evidence that behaviour is influenced not only by conscious goals but also by environmental cues and automatic responses. Changing surroundings can therefore produce behaviour change even when motivation fluctuates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">by S Mertens · 2021 · Cited by 1058 — Choice architecture interventions aim to nudge people toward personally and socially desirable b...</span></span></span>
 
 That does not mean motivation is irrelevant. Motivation still matters. But environmental restructuring changes the odds before motivation enters the contest. Instead of asking, "How can I be stronger than temptation?" it asks, "How can I make temptation weaker?"
 
@@ -822,171 +822,171 @@ For everyday self-improvement, that shift is often more practical than trying to
 1. <a id="endnote-1"></a>
    Source: openaccess.city.ac.uk  
    Title: Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1  
-   Link: [https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf](https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Taxonomy (v1) of 93 hie...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: digitalwellbeing.org  
    Title: Restructuring the physical environment  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesAvoidance/reducing exposure to cues for the behavior; if also restructuring of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/](https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/)  
+   Link: <a href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-[techniques" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-[techniques</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nudge Psychology – All 93 Behavior Change Techniques...Nov 23, 2016 — Restructuring the physical environment – Change, or advise to chan...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8356415/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8356415/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby TM Marteau · 2021 · Cited by 23 — Two complementary approaches to both understanding and changing behaviour are discernible: those...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8356415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8356415/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by TM Marteau · 2021 · Cited by 23 — Two complementary approaches to both understanding and changing behaviour are discernible: those...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: papers.ssrn.com  
    Title: Choice Architecture by Richard H  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thaler, Cass...by RH Thaler · 2010 · Cited by 1311 — In this paper we analyze some of the tools that are available to choice architects...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2015) propose introducing behavioral friction to existing contexts that make it harder for people to follow their unhealthy habits.Read...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6636886/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6636886/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6636886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6636886/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques and Their Mechanisms of Actionby RN Carey · 2018 · Cited by 888 — This study produced a large dataset of hypothesised l...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nanohabits.com  
-   Link: [https://www.nanohabits.com/learn/designing-environment-for-habits](https://www.nanohabits.com/learn/designing-environment-for-habits)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NanohabitsDesigning an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</p></details>
+   Link: <a href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.nanohabits.com/learn/designing-environment-for-habits</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe effectiveness of nudging: A meta-analysis of choice  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Mertens · 2021 · Cited by 1058 — Choice architecture interventions aim to nudge people toward personally and socially desirable b...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 1058 — Choice architecture interventions aim to nudge people toward personally and socially desirable b...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2107346118](https://www.pnas.org/doi/10.1073/pnas.2107346118)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASThe effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2107346118</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: boldist.co  
    Title: fogg behavior model  
-   Link: [https://boldist.co/marketing-strategy/fogg-behavior-model/](https://boldist.co/marketing-strategy/fogg-behavior-model/)  
+   Link: <a href="https://boldist.co/marketing-strategy/fogg-behavior-model/" target="_blank" rel="noopener noreferrer nofollow">https://boldist.co/marketing-strategy/fogg-behavior-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using the Fogg Behavior Model to Create Change and Clicks14 Aug 2023 — The Fogg Behavior Model shows how to instigate desired action—an e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Behavior](https://en.wikipedia.org/wiki/Behavior)  
+   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Choice architecture  
-   Link: [https://en.wikipedia.org/wiki/Choice_architecture](https://en.wikipedia.org/wiki/Choice_architecture)  
+   Link: <a href="https://en.wikipedia.org/wiki/Choice_architecture" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Choice_architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice architectureChoice architecture refers to how options are arranged and presented, and it influences decision making across a wi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: growthengineering.co.uk  
    Title: fogg behavior model  
-   Link: [https://www.growthengineering.co.uk/fogg-behavior-model/](https://www.growthengineering.co.uk/fogg-behavior-model/)  
+   Link: <a href="https://www.growthengineering.co.uk/fogg-behavior-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.growthengineering.co.uk/fogg-behavior-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Fogg Behavior Model for L&amp;D. Learn to design experiences that truly change learner behavior...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/behavior](https://dictionary.cambridge.org/dictionary/english/behavior)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionary6 days ago — BEHAVIOR definition: 1. US spelling of behaviour 2. the way that someone behaves: 3...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/behavior" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/behavior</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionary6 days ago — BEHAVIOR definition: 1. US spelling of behaviour 2. the way that someone behaves: 3...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40omforux25/fogg-behavior-model-b-map-the-3-simple-keys-to-driving-user-action-9efdd9cc9644](https://medium.com/%40omforux25/fogg-behavior-model-b-map-the-3-simple-keys-to-driving-user-action-9efdd9cc9644)  
+   Link: <a href="https://medium.com/%40omforux25/fogg-behavior-model-b-map-the-3-simple-keys-to-driving-user-action-9efdd9cc9644" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omforux25/fogg-behavior-model-b-map-the-3-simple-keys-to-driving-user-action-9efdd9cc9644</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ovide clear progress markers. Allow users to save backup...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: redtrack.io  
    Title: fogg behavior model  
-   Link: [https://www.redtrack.io/blog/fogg-behavior-model/](https://www.redtrack.io/blog/fogg-behavior-model/)  
+   Link: <a href="https://www.redtrack.io/blog/fogg-behavior-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.redtrack.io/blog/fogg-behavior-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained For Performance Marketers2 Dec 2025 — Learn how the Fogg Behavior Model works and how marketers can use motivation, ability, an...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelThe Fogg Behavior Model (FBM) is a widely used framework for understanding behavior change, identifying three critical...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/topics/psychology/environmental-restructuring](https://www.sciencedirect.com/topics/psychology/environmental-restructuring)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/environmental-restructuring" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/environmental-restructuring</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Restructuring - an overviewA refined taxonomy of behavior change techniques to help people change their physical activity a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Focus on reducing friction: simplify steps, cut form fields, or provide clear instructions.Read more...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behavior Change Technique Taxonomy (v1) of 93...20 Mar 2013 — The objective of this study is to develop an extensive, consensually a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/choice-architecture](https://thedecisionlab.com/reference-guide/psychology/choice-architecture)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying and Applying Behaviour Change TechniquesIntroducing, removing or altering objects in the physical environment or... • Restru...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/the-fogg-behavior-model-a4b46ee97ccb](https://medium.com/design-bootcamp/the-fogg-behavior-model-a4b46ee97ccb)  
+   Link: <a href="https://medium.com/design-bootcamp/the-fogg-behavior-model-a4b46ee97ccb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/the-fogg-behavior-model-a4b46ee97ccb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fogg Behavior ModelMaking a behavior easier to perform is crucial. Designers should focus on simplifying processes, reducing friction...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: thebettercompany.io  
-   Link: [https://thebettercompany.io/en/tiny-habits-method/](https://thebettercompany.io/en/tiny-habits-method/)  
+   Link: <a href="https://thebettercompany.io/en/tiny-habits-method/" target="_blank" rel="noopener noreferrer nofollow">https://thebettercompany.io/en/tiny-habits-method/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tiny habits methodIn this article, we summarize the core ideas of the Tiny Habits Method and provide practical tools to apply them im...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dviscovich_what-friction-can-tell-us-about-why-behavior-activity-7396566610825793536-r6oq](https://www.linkedin.com/posts/dviscovich_what-friction-can-tell-us-about-why-behavior-activity-7396566610825793536-r6oq)  
+   Link: <a href="https://www.linkedin.com/posts/dviscovich_what-friction-can-tell-us-about-why-behavior-activity-7396566610825793536-r6oq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dviscovich_what-friction-can-tell-us-about-why-behavior-activity-7396566610825793536-r6oq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But friction is often the real reason habits don&#x27;t stick. Behavioral scientist BJ Fogg, PhD has a simple rule.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: utupub.fi  
-   Link: [https://www.utupub.fi/bitstreams/6cd78a15-04d5-43d9-a05d-52e3fa035da3/download](https://www.utupub.fi/bitstreams/6cd78a15-04d5-43d9-a05d-52e3fa035da3/download)  
+   Link: <a href="https://www.utupub.fi/bitstreams/6cd78a15-04d5-43d9-a05d-52e3fa035da3/download" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/bitstreams/6cd78a15-04d5-43d9-a05d-52e3fa035da3/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fectiveness on employees&#x27; self-reported food consumption and physical activity patterns at work.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: dev.to  
    Title: the psychology of ux understanding bj foggs behavior model 12bf  
-   Link: [https://dev.to/rijultp/the-psychology-of-ux-understanding-bj-foggs-behavior-model-12bf](https://dev.to/rijultp/the-psychology-of-ux-understanding-bj-foggs-behavior-model-12bf)  
+   Link: <a href="https://dev.to/rijultp/the-psychology-of-ux-understanding-bj-foggs-behavior-model-12bf" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/rijultp/the-psychology-of-ux-understanding-bj-foggs-behavior-model-12bf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ux - Understanding BJ Fogg&#x27;s Behavior Model5 Mar 2025 — FBM is powerful for designing experiences that reduce friction and increase engag...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is mighty.” In his new book, Tiny Habits: The Small Changes That Change Everything...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: globalrph.com  
-   Link: [https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/](https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/)  
+   Link: <a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lying habit formation and explores evidence-based strategies for behavioral change.Read more...</p></details>

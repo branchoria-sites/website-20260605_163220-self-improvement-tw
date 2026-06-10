@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:53:27'
 parent_title: Which Self Help Promises Should You Doubt? | Better Change
 parent_permalink: /self-help-myths/
 parent_nav_short_title: Self Help Myths
@@ -265,7 +266,6 @@ next_link:
   permalink: /motivation-highs/
   short_title: Motivation Highs
   heading_title: Why Motivation Fades by Tuesday Afternoon
-date: '2026-06-05 14:53:27 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-1.webp
@@ -284,7 +284,7 @@ Research on implementation intentions suggests a different explanation. A goal t
 
 Vague goals are attractive because they create a feeling of commitment without requiring decisions about execution. “Get fit” sounds inspiring. “Go for a 20-minute walk after lunch on Monday, Wednesday and Friday” sounds mundane.
 
-The problem is that behaviour change usually fails at the moment of action, not at the moment of aspiration. A person may genuinely intend to exercise, study or eat differently, yet still encounter predictable obstacles:
+The problem is that [behaviour change]({{ 'behaviour-change/' | relative_url }}) usually fails at the moment of action, not at the moment of aspiration. A person may genuinely intend to exercise, study or eat differently, yet still encounter predictable obstacles:
 
 * Forgetting when to act.
 * Being distracted by competing demands.
@@ -336,18 +336,18 @@ The second statement removes uncertainty about when action begins.
 
 Implementation intentions are not a motivational trend or productivity hack invented for social media. They are one of the most extensively studied behaviour-change [techniques]({{ 'techniques/' | relative_url }}) in psychology.
 
-A major meta-analysis covering 94 studies found that forming implementation intentions produced a meaningful improvement in goal attainment across a wide range of behaviours and populations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImplementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span>
+A major meta-analysis covering 94 studies found that forming implementation intentions produced a meaningful improvement in goal attainment across a wide range of behaviours and populations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span>
 
 Researchers have observed benefits in areas including:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Exercise and physical activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — Relative to regular encoding methods that do not employ the if-then format, implementation intenti...</span></span></span>
+* Exercise and physical activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — Relative to regular encoding methods that do not employ the if-then format, implementation intenti...</span></span></span>
 * Healthy eating and dietary change. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0195666310005325" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Meta-analytical strategy.Read more...</span></span></span>
 * Medication adherence and health behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBThe Interplay Between Goal Intentions and Implementation</span><span class="citation-popover-snippet">May 29, 2008 — by P Sheeran · Cited by 875 — Implementation intentions have been shown to be effective in promoting (a) infrequently per...</span><span class="citation-popover-meta">Published: May 29, 2008</span></span></span>
 * Academic and work-related tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>
-* Remembering intended actions in daily life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — Relative to regular encoding methods that do not employ the if-then format, implementation intenti...</span></span></span>
+* Remembering intended actions in daily life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — Relative to regular encoding methods that do not employ the if-then format, implementation intenti...</span></span></span>
 
 </div>
 
@@ -391,7 +391,7 @@ A vague goal:
 
 > If I prepare lunch for work, then I will include one piece of fruit and one serving of vegetables.
 
-Research suggests implementation intentions are particularly effective at increasing healthy food choices, though the effects are somewhat stronger for adding healthy behaviours than for eliminating unhealthy ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImplementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span>
+Research suggests implementation intentions are particularly effective at increasing healthy food choices, though the effects are somewhat stronger for adding healthy behaviours than for eliminating unhealthy ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5g2Kyc8Ra5U" title="Habit Stacking: Structure Your Day for Peak Focus | James Clear &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5g2Kyc8Ra5U" target="_blank" rel="noopener noreferrer">Habit Stacking: Structure Your Day for Peak Focus | James Clear &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 349.2K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5g2Kyc8Ra5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5g2Kyc8Ra5U">Open on YouTube</a></p></div></div></div>
@@ -450,7 +450,7 @@ A plan such as “If I have free time, then I will exercise” remains too ambig
 
 The contrast between vague goals and implementation intentions captures a broader lesson about effective self-improvement. Change is usually less about generating stronger intentions and more about designing reliable responses to predictable situations.
 
-The self-help myth says success comes from wanting something badly enough. The evidence points elsewhere. People are more likely to change when they decide in advance what they will do when the critical moment arrives. An if-then plan may feel less inspiring than a grand declaration, but it is far closer to how behaviour actually changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImplementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>
+The self-help myth says success comes from wanting something badly enough. The evidence points elsewhere. People are more likely to change when they decide in advance what they will do when the critical moment arrives. An if-then plan may feel less inspiring than a grand declaration, but it is far closer to how behaviour actually changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2T0d2NE9q0" title="How to Actually Stick to Your Goals: The Psychology of Implementation Intentions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2T0d2NE9q0" target="_blank" rel="noopener noreferrer">How to Actually Stick to Your Goals: The Psychology of Implementation Intentions</a></p><p class="youtube-embed-meta">Channel: Mindset Psychology &middot; Views: 185 &middot; Uploaded: June 2025 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2T0d2NE9q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2T0d2NE9q0">Open on YouTube</a></p></div></div></div>
@@ -877,161 +877,161 @@ The self-help myth says success comes from wanting something badly enough. The e
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectImplementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation IntentionsPlanning and implementation-intention accounts move closer to this problem by showing how goal...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — Relative to regular encoding methods that do not employ the if-then format, implementation intenti...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — Relative to regular encoding methods that do not employ the if-then format, implementation intenti...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 72 — The current pilot study examined...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 72 — The current pilot study examined...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0195666310005325](https://www.sciencedirect.com/science/article/pii/S0195666310005325)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0195666310005325" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0195666310005325</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-analytical strategy.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour](https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Health BehaviourThese findings indicate that a simple instruction to form an implementation intention...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: d-nb.info  
    Title: DNBThe Interplay Between Goal Intentions and Implementation  
-   Link: [https://d-nb.info/1097212408/34](https://d-nb.info/1097212408/34)  
+   Link: <a href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1097212408/34</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2008 — by P Sheeran · Cited by 875 — Implementation intentions have been shown to be effective in promoting (a) infrequently per...</p></details>
    Published: May 29, 2008  
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: Research Gate How can implementation intentions as a behaviour change  
-   Link: [https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved](https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved)  
+   Link: <a href="https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>79,80 For example, implementation intentions are more effective for behavior change when participants have high motivation to achieve a g...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 136 — Implementation intention effects are stronger when self-regulatory problems bese...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english-chinese-traditional/implementation](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/implementation)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinesethe act of starting to use a plan or system (計劃、系統的)實施,執行 implementation of the law/agreement 法律的實施/協議的執行Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048](https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intention effects in non-planned situationsby M Bieleke · 2018 · Cited by 44 — Forming implementation intentions (Gollwitz...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936](https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — This distinction between goal intentions and im...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Implementation](https://en.wikipedia.org/wiki/Implementation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Implementation intention  
-   Link: [https://en.wikipedia.org/wiki/Implementation_intention](https://en.wikipedia.org/wiki/Implementation_intention)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation_intention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation Intentions are proven strategies helping you achi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by psychologist Peter Gollwitzer, transforms vague intentions into spe...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/implementation-intentions-research/](https://goalsandprogress.com/implementation-intentions-research/)  
+   Link: <a href="https://goalsandprogress.com/implementation-intentions-research/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/implementation-intentions-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions Research: Why Motivation FailsImplementation intentions are if-then plans that specify when, where, and how a p...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: prospectivepsych.org  
-   Link: [https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf)  
+   Link: <a href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prospective PsychologyImplementation IntentionsHow good intentions can be implemented effectively has been analyzed in recent research on...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: socmot.uni-konstanz.de  
-   Link: [https://www.socmot.uni-konstanz.de/sites/default/files/Implementation%20Intentions.pdf](https://www.socmot.uni-konstanz.de/sites/default/files/Implementation%20Intentions.pdf)  
+   Link: <a href="https://www.socmot.uni-konstanz.de/sites/default/files/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.socmot.uni-konstanz.de/sites/default/files/Implementation%20Intentions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social MotivationImplementation Intentions.pdfResearch to date has examined both health-protective behaviours (e.g. exercise, healthy foo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: greo.ca  
-   Link: [https://www.greo.ca/Modules/EvidenceCentre/files/St%20Quinton%20%282022%29_How%20can%20implementation%20intentions%20be%20used%20to%20modify%20gambling%20behavior_final.pdf](https://www.greo.ca/Modules/EvidenceCentre/files/St%20Quinton%20%282022%29_How%20can%20implementation%20intentions%20be%20used%20to%20modify%20gambling%20behavior_final.pdf)  
+   Link: <a href="https://www.greo.ca/Modules/EvidenceCentre/files/St%20Quinton%20%282022%29_How%20can%20implementation%20intentions%20be%20used%20to%20modify%20gambling%20behavior_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.greo.ca/Modules/EvidenceCentre/files/St%20Quinton%20%282022%29_How%20can%20implementation%20intentions%20be%20used%20to%20modify%20gambling%20behavior_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentions as goal-directed plans to reduce...by T St Quinton · 2022 — People&#x27;s intention is based on their attitude, whe...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: allard.ubc.ca  
-   Link: [https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf](https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf)  
+   Link: <a href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IntentionsImplementation Intentions (&#x27;If-then&#x27; planning) are an effective strategy for turning goals into action. Whereas goal intentions...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — For example, when it comes to eating behaviour, studies usin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ovid.com  
    Title: ccp0000260~unique effects of setting goals on behavior change  
-   Link: [https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change](https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change)  
+   Link: <a href="https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 488 — Conclusions: Goal setting is an effective behavior c...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: myfitfoods.com  
    Title: implementation intentions lets make those new habits stick  
-   Link: [https://www.myfitfoods.com/blogs/fit-tips/implementation-intentions-lets-make-those-new-habits-stick](https://www.myfitfoods.com/blogs/fit-tips/implementation-intentions-lets-make-those-new-habits-stick)  
+   Link: <a href="https://www.myfitfoods.com/blogs/fit-tips/implementation-intentions-lets-make-those-new-habits-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.myfitfoods.com/blogs/fit-tips/implementation-intentions-lets-make-those-new-habits-stick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LET&#x27;S MAKE THOSE NEW HABITS STICK!29 Jul 2021 — Creating Implementation Intentions is an exercise we use quite a bit as nutritional consu...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ation X arises, I will perform response Y.” Hundreds of studies have shown...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: habitdex.com  
    Title: Implementation Intentions (If-Then Planning)  
-   Link: [https://habitdex.com/methods/implementation-intentions](https://habitdex.com/methods/implementation-intentions)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HabitDex10 May 2026 — Gollwitzer and Sheeran&#x27;s 2006 meta-analysis reviewed 94 studies with over 8,000 participants and found a medium-to...</p></details>
+   Link: <a href="https://habitdex.com/methods/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/implementation-intentions</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 May 2026 — Gollwitzer and Sheeran&#x27;s 2006 meta-analysis reviewed 94 studies with over 8,000 participants and found a medium-to...</p></details>
    Published: May 2026  

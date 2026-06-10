@@ -272,7 +272,7 @@ Support can make self-improvement easier, but it can also quietly undermine it. 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-dark.svg" | relative_url }}" alt="Support illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on self-determination theory consistently finds that people sustain effort more effectively when three psychological needs are supported: autonomy (a sense of choice), competence (a sense of growing capability) and relatedness (a sense of connection). [Social support]({{ 'social-support/' | relative_url }}) is most helpful when it strengthens all three. When support turns into pressure, it often damages autonomy even if the supporter has good intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urmc.rochester.edu">[University of Rochester Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urmc.rochester.edu</span><span class="citation-popover-title">University of Rochester Medicine Self-Determination Theory of Motivation</span><span class="citation-popover-snippet">University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</span></span></span>
+Research on self-determination theory consistently finds that people sustain effort more effectively when three psychological needs are supported: autonomy (a sense of choice), competence (a sense of growing capability) and relatedness (a sense of connection). [Social support]({{ 'social-support/' | relative_url }}) is most helpful when it strengthens all three. When support turns into pressure, it often damages autonomy even if the supporter has good intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urmc.rochester.edu">[University of Rochester Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urmc.rochester.edu</span><span class="citation-popover-title">University of Rochester Medicine Self-Determination Theory of Motivation</span><span class="citation-popover-snippet">University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</span></span></span>
 
 For [chosen goals]({{ 'chosen-goals/' | relative_url }}), this distinction matters. A friend, coach, family member or accountability group can help a goal feel more achievable and meaningful. The same people can also make the goal feel like an obligation performed for approval rather than a commitment freely owned by the person pursuing it.
 
@@ -302,7 +302,7 @@ Comparison creates a similar problem. Some people do find competition energising
 This helps explain why many people abandon goals after criticism or a perceived failure. If the goal has become tied to status, approval or avoiding shame, setbacks threaten [identity]({{ 'identity/' | relative_url }}) rather than simply providing information about progress.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8CegN1xssY" title="The science of getting motivated | Ayelet Fishbach | TEDxChicago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8CegN1xssY" target="_blank" rel="noopener noreferrer">The science of getting motivated | Ayelet Fishbach | TEDxChicago</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 208.5K &middot; Uploaded: December 2023 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8CegN1xssY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8CegN1xssY">Open on YouTube</a></p></div></div></div>
 
 ## What autonomy-supportive encouragement sounds like
 
@@ -335,7 +335,7 @@ The second style keeps responsibility with the goal owner. The supporter contrib
 Evidence from coaching and mentoring contexts suggests that autonomy-supportive behaviours are linked to greater satisfaction of competence and relatedness needs, which in turn support healthier motivation and development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Student Motivation: A Meta-Analysis of... - PMC...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8CegN1xssY" title="The science of getting motivated | Ayelet Fishbach | TEDxChicago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8CegN1xssY" target="_blank" rel="noopener noreferrer">The science of getting motivated | Ayelet Fishbach | TEDxChicago</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 208.5K &middot; Uploaded: December 2023 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8CegN1xssY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8CegN1xssY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/37qMesa-Y90" title="Autonomy support in 2 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=37qMesa-Y90" target="_blank" rel="noopener noreferrer">Autonomy support in 2 minutes</a></p><p class="youtube-embed-meta">Channel: Coert Visser &middot; Views: 3.5K &middot; Uploaded: March 2016 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=37qMesa-Y90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=37qMesa-Y90">Open on YouTube</a></p></div></div></div>
 
 ## Support is strongest when it builds competence
 
@@ -356,7 +356,7 @@ For example:
 
 </div>
 
-Process-focused [feedback]({{ 'feedback/' | relative_url }}) appears particularly valuable because it reinforces capability without making self-worth dependent on results. Research on autonomy-supportive coaching has found that process-focused praise is associated with greater satisfaction of competence needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">PMCby JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
+Process-focused [feedback]({{ 'feedback/' | relative_url }}) appears particularly valuable because it reinforces capability without making self-worth dependent on results. Research on autonomy-supportive coaching has found that process-focused praise is associated with greater satisfaction of competence needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
 
 This distinction matters. Praise such as “You're amazing” can unintentionally create pressure to maintain an image. Feedback such as “You handled that challenge better than last month” directs attention towards growth and learning.
 
@@ -417,7 +417,7 @@ The problem is not the presence of care. It is the loss of autonomy. Self-determ
 A person is more likely to remain engaged when they feel both connected to others and free to choose their own path.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CwhbGq93SXA" title="The Daily Review — Accountability In Action | Jim Rohn Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CwhbGq93SXA" target="_blank" rel="noopener noreferrer">The Daily Review — Accountability In Action | Jim Rohn Motivation</a></p><p class="youtube-embed-meta">Channel: Jim Rohn Motivation &middot; Views: 5.4K &middot; Uploaded: January 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CwhbGq93SXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CwhbGq93SXA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Vi54H5B8wI" title="Building Autonomy, Motivation, Identity, &amp; Self Determination with Dr. Richard Koestner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Vi54H5B8wI" target="_blank" rel="noopener noreferrer">Building Autonomy, Motivation, Identity, &amp; Self Determination with Dr. Richard Koestner</a></p><p class="youtube-embed-meta">Channel: Psychotherapy and Applied Psychology &middot; Views: 468 &middot; Uploaded: October 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Vi54H5B8wI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Vi54H5B8wI">Open on YouTube</a></p></div></div></div>
 
 ## Designing a support environment that helps goals last
 
@@ -436,7 +436,7 @@ More sustainable support follows a different pattern:
 
 </div>
 
-When support works well, it does not replace ownership. It protects it. The person still experiences the goal as their own, while benefiting from encouragement, perspective and connection. In the language of self-determination theory, support is most effective when it strengthens autonomy, competence and relatedness at the same time. Self-Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSelf-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
+When support works well, it does not replace ownership. It protects it. The person still experiences the goal as their own, while benefiting from encouragement, perspective and connection. In the language of self-determination theory, support is most effective when it strengthens autonomy, competence and relatedness at the same time. Self-Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -860,211 +860,211 @@ When support works well, it does not replace ownership. It protects it. The pers
 1. <a id="endnote-1"></a>
    Source: urmc.rochester.edu  
    Title: University of Rochester Medicine Self-Determination Theory of Motivation  
-   Link: [https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory](https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory)  
+   Link: <a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Student Motivation: A Meta-Analysis of... - PMC...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Effects of Autonomy-supportive Coaching, Need  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: carleton.ca  
    Title: Distinguishing autonomous and directive forms of goal support  
-   Link: [https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf](https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf)  
+   Link: <a href="https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carleton UniversityDistinguishing Autonomous and Directive Forms of Goal...by R Koestner · 2012 · Cited by 160 — The mechanism by which...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cambridge.org  
    Title: University Press & Assessment2  
-   Link: [https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A](https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A)  
+   Link: <a href="https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment2 - Optimal relationships as mutual fulfillment of self-...Experiencing autonomy allows one to co...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7057354/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7057354/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7057354/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7057354/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Relatedness: How Need Fulfillment Interacts in...by ES Kluwer · 2019 · Cited by 163 — We test the hypothesis that relatedness and aut...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: selfdeterminationtheory.org  
    Title: The goal  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2015_NunezFernandezEtAl_RelationshipBetween.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2015_NunezFernandezEtAl_RelationshipBetween.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2015_NunezFernandezEtAl_RelationshipBetween.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2015_NunezFernandezEtAl_RelationshipBetween.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The relationship between teacher&#x27;s autonomy support and...by JL Núñez · 2014 · Cited by 109 — Using the self-determination framework, we...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/11392867/](https://pubmed.ncbi.nlm.nih.gov/11392867/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSelf-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: selfdeterminationtheory.org  
    Title: Again, research results have supported this reasoning.Read more  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 86837 — In this sens...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/research-practice/conduct-research/self-determination-theory.html](https://www.apa.org/research-practice/conduct-research/self-determination-theory.html)  
+   Link: <a href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/research-practice/conduct-research/self-determination-theory.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSelf-determination theory: A quarter century of human...Mar 2, 2025 — SDT describes factors that help...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/research/autonomy-supportive-practices/](https://selfdeterminationtheory.org/research/autonomy-supportive-practices/)  
+   Link: <a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryAutonomy-Supportive Practices – Page ArrayExploring the pathways through which teacher support predicts changes...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040](https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Autonomy support for the academic goal pursuit...by É Audet · 2023 · Cited by 5 — The results sugge...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: selfdeterminationtheory.org  
    Title: 2008 Koestner CanPsyc.pdf  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2008_Koestner_CanPsyc.pdf.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2008_Koestner_CanPsyc.pdf.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2008_Koestner_CanPsyc.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2008_Koestner_CanPsyc.pdf.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryReaching One&#x27;s Personal Goals: A Motivational...by R KOESTNER · 2008 · Cited by 175 — A recent study examined t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/theory/](https://selfdeterminationtheory.org/theory/)  
+   Link: <a href="https://selfdeterminationtheory.org/theory/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryTheoryIndeed, the highest quality personal relationships are ones in which each partner supports the autonomy, c...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self‐Determination Theory Into Practice - PMC - NIHby A Neufeld · 2025 · Cited by 16 — SDT posits that all people have three basic psycho...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/self-determination-theory](https://www.sciencedirect.com/topics/social-sciences/self-determination-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSDT proposes that all human beings have three basic psychological needs – the needs for competence, autonomy, and relatedness...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2009_StoneDeciRyan_JGM.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2009_StoneDeciRyan_JGM.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2009_StoneDeciRyan_JGM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2009_StoneDeciRyan_JGM.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n, called self-determination theory (SDT), that identifies the core principles underlying sustainable motivation...Read mo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 DeciRyan PIWhatWhy  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “What” and “Why” of Goal Pursuits: Human Needs and...by EL Deci · Cited by 62093 — This study revealed that the degree to which pare...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: people-shift.com  
    Title: self determination theory autonomy competence and relatedness at work  
-   Link: [https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/](https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/)  
+   Link: <a href="https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Autonomy, Competence, and...21 May 2026 — It proposes that human beings have three basic psychological needs...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Self determination theory  
-   Link: [https://en.wikipedia.org/wiki/Self-determination_theory](https://en.wikipedia.org/wiki/Self-determination_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theorySelf-determination theory identifies a basic psychological need for autonomy as a central feature for underst...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — By integrating the principles of SDT across diverse contexts, it is possible to...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ukcoaching.org  
-   Link: [https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/](https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/)  
+   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: balanceisbetter.org.nz  
-   Link: [https://balanceisbetter.org.nz/self-determination-theory-what-is-it-and-what-does-it-mean-practically-for-coaches/](https://balanceisbetter.org.nz/self-determination-theory-what-is-it-and-what-does-it-mean-practically-for-coaches/)  
+   Link: <a href="https://balanceisbetter.org.nz/self-determination-theory-what-is-it-and-what-does-it-mean-practically-for-coaches/" target="_blank" rel="noopener noreferrer nofollow">https://balanceisbetter.org.nz/self-determination-theory-what-is-it-and-what-does-it-mean-practically-for-coaches/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed by three basic psychological needs: relatedness, competence, and autonomy.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: simplypsychology.org  
    Title: self determination theory  
-   Link: [https://www.simplypsychology.org/self-determination-theory.html](https://www.simplypsychology.org/self-determination-theory.html)  
+   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of MotivationApr 1, 2026 — When people act autonomously, their actions reflect their genuine interests, values...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: drpaulmccarthy.com  
-   Link: [https://www.drpaulmccarthy.com/post/self-determination-theory-in-sport-new-evidence-for-athletic-performance-enhancement](https://www.drpaulmccarthy.com/post/self-determination-theory-in-sport-new-evidence-for-athletic-performance-enhancement)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/self-determination-theory-in-sport-new-evidence-for-athletic-performance-enhancement" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/self-determination-theory-in-sport-new-evidence-for-athletic-performance-enhancement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory in Sport: New Evidence for...Dec 21, 2025 — The foundations of self-determination theory in sport are three ps...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: [https://positivepsychology.com/self-determination-theory/](https://positivepsychology.com/self-determination-theory/)  
+   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_juPDoa3GBY](https://www.youtube.com/watch?v=_juPDoa3GBY)  
+   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/](https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 needs that drive intrinsic...1 Mar 2026 — Autonomy: it is not about freedom, it is about ownership · Compet...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: ssa.gov  
-   Link: [https://www.ssa.gov/](https://www.ssa.gov/)  
+   Link: <a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/post/Brief_measure_of_self-determination_at_work_autonomy_competence_relatedness_for_use_with_bachelors_level_helping_professionals](https://www.researchgate.net/post/Brief_measure_of_self-determination_at_work_autonomy_competence_relatedness_for_use_with_bachelors_level_helping_professionals)  
+   Link: <a href="https://www.researchgate.net/post/Brief_measure_of_self-determination_at_work_autonomy_competence_relatedness_for_use_with_bachelors_level_helping_professionals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Brief_measure_of_self-determination_at_work_autonomy_competence_relatedness_for_use_with_bachelors_level_helping_professionals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brief measure of self-determination at work (autonomy...Oct 18, 2023 — I am seeking a brief measure of self-determination at work (auto...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: rccs.org.uk  
-   Link: [https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination](https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination)  
+   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — Explore autonomy competence and relatedness – the core human needs that drive moti...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: instituteofcoaching.org  
-   Link: [https://instituteofcoaching.org/resources/coaching-self-determination-mind-using-theory-advance-evidence-based-coaching-practice](https://instituteofcoaching.org/resources/coaching-self-determination-mind-using-theory-advance-evidence-based-coaching-practice)  
+   Link: <a href="https://instituteofcoaching.org/resources/coaching-self-determination-mind-using-theory-advance-evidence-based-coaching-practice" target="_blank" rel="noopener noreferrer nofollow">https://instituteofcoaching.org/resources/coaching-self-determination-mind-using-theory-advance-evidence-based-coaching-practice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using theory to advance evidence-based coaching practiceIn this paper it will be argued that Self-Determination Theory (SDT; Deci &amp; Ryan...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: thementalgame.me  
    Title: the influence of self determination theory on athlete motivation  
-   Link: [https://thementalgame.me/blog/the-influence-of-self-determination-theory-on-athlete-motivation](https://thementalgame.me/blog/the-influence-of-self-determination-theory-on-athlete-motivation)  
+   Link: <a href="https://thementalgame.me/blog/the-influence-of-self-determination-theory-on-athlete-motivation" target="_blank" rel="noopener noreferrer nofollow">https://thementalgame.me/blog/the-influence-of-self-determination-theory-on-athlete-motivation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Fuels Athlete Motivation...Oct 23, 2025 — By understanding the importance of autonomy, competence, and rel...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: transformingbball.com  
    Title: why coaches need to understand self determination theory  
-   Link: [https://transformingbball.com/why-coaches-need-to-understand-self-determination-theory/](https://transformingbball.com/why-coaches-need-to-understand-self-determination-theory/)  
+   Link: <a href="https://transformingbball.com/why-coaches-need-to-understand-self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://transformingbball.com/why-coaches-need-to-understand-self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy: Give Players Ownership · 2. Competence – Build Confidence Through Challenge · 3. Relatedness – Foster a Sense of Community.Read...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: [https://www.verywellmind.com/what-is-self-determination-theory-2795387](https://www.verywellmind.com/what-is-self-determination-theory-2795387)  
+   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains MotivationOct 29, 2025 — Self-determination theory suggests that fulfilling the core needs for aut...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SampleSize/comments/1e41t6e/academic_a_study_on_the_impact_of_personal_goal/](https://www.reddit.com/r/SampleSize/comments/1e41t6e/academic_a_study_on_the_impact_of_personal_goal/)  
+   Link: <a href="https://www.reddit.com/r/SampleSize/comments/1e41t6e/academic_a_study_on_the_impact_of_personal_goal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SampleSize/comments/1e41t6e/academic_a_study_on_the_impact_of_personal_goal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tcomes (Anyone currently working). Academic.Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: magiclab.psych.ubc.ca  
    Title: ca Self-regulation & Goal pursuit  
-   Link: [https://magiclab.psych.ubc.ca/research/self-regulation-goal-pursuit/](https://magiclab.psych.ubc.ca/research/self-regulation-goal-pursuit/)  
+   Link: <a href="https://magiclab.psych.ubc.ca/research/self-regulation-goal-pursuit/" target="_blank" rel="noopener noreferrer nofollow">https://magiclab.psych.ubc.ca/research/self-regulation-goal-pursuit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ubc.caSelf-regulation &amp; Goal pursuit - MAGIC LabOur lab has a long-standing interest in goal pursuit: How people harness their resources...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: cmeetit.com  
    Title: social goals vs personal goals  
-   Link: [https://cmeetit.com/blog/social-goals-vs-personal-goals.html](https://cmeetit.com/blog/social-goals-vs-personal-goals.html)  
+   Link: <a href="https://cmeetit.com/blog/social-goals-vs-personal-goals.html" target="_blank" rel="noopener noreferrer nofollow">https://cmeetit.com/blog/social-goals-vs-personal-goals.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Accountability...17 Aug 2025 — Discover the science behind social vs personal goals and why sharing your goals dramatical...</p></details>

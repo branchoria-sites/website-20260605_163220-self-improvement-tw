@@ -272,7 +272,7 @@ If you want self-monitoring to improve behaviour without becoming obsessive, tra
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-dark.svg" | relative_url }}" alt="Daily Metrics illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because behaviour change research consistently treats self-monitoring of behaviour as a separate technique from monitoring outcomes. The former creates immediate [feedback]({{ 'feedback/' | relative_url }}) about actions; the latter measures consequences that may take days, weeks or months to respond. Tracking remains useful when it helps you make decisions. It becomes less useful when it turns into a daily judgement of progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIby J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span>
+This distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) research consistently treats self-monitoring of behaviour as a separate technique from monitoring outcomes. The former creates immediate [feedback]({{ 'feedback/' | relative_url }}) about actions; the latter measures consequences that may take days, weeks or months to respond. Tracking remains useful when it helps you make decisions. It becomes less useful when it turns into a daily judgement of progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span>
 
 ## Behaviour Metrics Versus Outcome Metrics
 
@@ -282,7 +282,7 @@ If the answer is yes, you are probably looking at a behaviour metric. If the ans
 
 GoalBehaviour MetricOutcome MetricLose weightAte planned mealsScale weightImprove fitnessCompleted workoutBody fat percentageSleep betterPhone out of bedroom by 10 pmSleep scoreBuild savingsTransferred money to savingsNet worthAdvance careerSent one application or proposalSalary increaseWrite a bookWrote 500 wordsBook completed
 
-The Behaviour Change Technique Taxonomy, a widely used framework in behaviour-change research, explicitly separates “self-monitoring of behaviour” from “self-monitoring of outcomes of behaviour”. The distinction exists because actions and results provide different kinds of information. Actions tell you what to repeat or change. Outcomes tell you whether the overall strategy is working. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIby J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjleader.bmj.com">[2bmjleader.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjleader.bmj.com</span><span class="citation-popover-title">inline supplementary material 1</span><span class="citation-popover-snippet">Feedback on behaviour, 2.3. Self-monitoring of behaviour, 2.4. Self-monitoring of outcome(s) of behaviour, 2.5. Monitoring of...</span></span></span>
+The Behaviour Change Technique Taxonomy, a widely used framework in behaviour-change research, explicitly separates “self-monitoring of behaviour” from “self-monitoring of outcomes of behaviour”. The distinction exists because actions and results provide different kinds of information. Actions tell you what to repeat or change. Outcomes tell you whether the overall strategy is working. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjleader.bmj.com">[2bmjleader.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjleader.bmj.com</span><span class="citation-popover-title">inline supplementary material 1</span><span class="citation-popover-snippet">Feedback on behaviour, 2.3. Self-monitoring of behaviour, 2.4. Self-monitoring of outcome(s) of behaviour, 2.5. Monitoring of...</span></span></span>
 
 For daily tracking, behaviour metrics usually provide cleaner feedback. If you exercised today, that fact does not change because of water retention, market conditions, poor weather or a difficult week at work. The behaviour happened or it did not.
 
@@ -319,7 +319,7 @@ More useful daily signals include:
 
 The outcome measures—weight, body composition, race times or strength increases—can then be reviewed weekly or monthly rather than treated as daily verdicts.
 
-Habit-formation research suggests that repeated performance of a behaviour in a stable context is what gradually creates [automaticity]({{ 'automaticity/' | relative_url }}). Tracking the behaviour itself therefore aligns with the mechanism that produces lasting change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</span></span></span>
+Habit-formation research suggests that repeated performance of a behaviour in a stable context is what gradually creates [automaticity]({{ 'automaticity/' | relative_url }}). Tracking the behaviour itself therefore aligns with the mechanism that produces lasting change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/idhDz9miZ3w" title="The Science of How Your Brain Forms Habits (and How to Take Control)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer">The Science of How Your Brain Forms Habits (and How to Take Control)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 178.5K &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=idhDz9miZ3w">Open on YouTube</a></p></div></div></div>
@@ -458,7 +458,7 @@ Ask:
 * Did I transfer money into savings?
 * Did I put my phone away before bed?
 
-The daily tracker should measure commitment to the process, not proof of the result. Outcomes still matter, but they are better used as periodic reviews of whether the chosen behaviours are working. By keeping the daily signal small, controllable and close to the action itself, self-monitoring remains a tool for adjustment rather than a source of constant judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIby J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
+The daily tracker should measure commitment to the process, not proof of the result. Outcomes still matter, but they are better used as periodic reviews of whether the chosen behaviours are working. By keeping the daily signal small, controllable and close to the action itself, self-monitoring remains a tool for adjustment rather than a source of constant judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -791,111 +791,111 @@ The daily tracker should measure commitment to the process, not proof of the res
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIResults of the behaviour change technique synthesis  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK580337/](https://www.ncbi.nlm.nih.gov/books/NBK580337/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIby J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK580337/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bmjleader.bmj.com  
    Title: inline supplementary material 1  
-   Link: [https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true](https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true)  
+   Link: <a href="https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow">https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback on behaviour, 2.3. Self-monitoring of behaviour, 2.4. Self-monitoring of outcome(s) of behaviour, 2.5. Monitoring of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSelf-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 115 — From the taxonomies, the team se...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 115 — From the taxonomies, the team se...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: self.inc  
-   Link: [https://www.self.inc/](https://www.self.inc/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self | Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf](https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31923898/](https://pubmed.ncbi.nlm.nih.gov/31923898/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Self](https://en.wikipedia.org/wiki/Self)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scienceforwork.com  
    Title: goal monitoring  
-   Link: [https://scienceforwork.com/blog/goal-monitoring/](https://scienceforwork.com/blog/goal-monitoring/)  
+   Link: <a href="https://scienceforwork.com/blog/goal-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://scienceforwork.com/blog/goal-monitoring/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the experimental evidence.” Psychological Bulletin 142.2 (2016):...Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: psychiatry.ucsd.edu  
-   Link: [https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html](https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html)  
+   Link: <a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) of progress monitoring beh...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332067663_Meta-Analysis_and_Quality_of_Self-Monitoring_Behavior_Interventions_with_Children_and_Adolescents](https://www.researchgate.net/publication/332067663_Meta-Analysis_and_Quality_of_Self-Monitoring_Behavior_Interventions_with_Children_and_Adolescents)  
+   Link: <a href="https://www.researchgate.net/publication/332067663_Meta-Analysis_and_Quality_of_Self-Monitoring_Behavior_Interventions_with_Children_and_Adolescents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332067663_Meta-Analysis_and_Quality_of_Self-Monitoring_Behavior_Interventions_with_Children_and_Adolescents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Meta-Analysis and Quality of Self-Monitoring...12 Mar 2019 — Self-monitoring is an intervention that has been used for decades to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aftertone.io  
-   Link: [https://www.aftertone.io/science/self-monitoring-and-progress-tracking](https://www.aftertone.io/science/self-monitoring-and-progress-tracking)  
+   Link: <a href="https://www.aftertone.io/science/self-monitoring-and-progress-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.aftertone.io/science/self-monitoring-and-progress-tracking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2016) across 138 studies found that monitoring progress towards a goal increases attainment by 33% compared to setting goals...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ouci.dntb.gov.ua  
    Title: dntb.gov.ua Self-tracking of daily physical activity using a fitness tracker  
-   Link: [https://ouci.dntb.gov.ua/works/9JNGEJ19/](https://ouci.dntb.gov.ua/works/9JNGEJ19/)  
+   Link: <a href="https://ouci.dntb.gov.ua/works/9JNGEJ19/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/works/9JNGEJ19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dntb.gov.uaSelf-tracking of daily physical activity using a fitness tracker...AbstractActivity self-tracking technologies have become a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/87431/](https://eprints.whiterose.ac.uk/id/eprint/87431/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 738 —... Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence. P...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: Second, it discusses four main outcomes of fitness tracking behaviour  
-   Link: [https://www.researchgate.net/publication/343443200_Self-tracking_behaviour_in_physical_activity_a_systematic_review_of_drivers_and_outcomes_of_fitness_tracking](https://www.researchgate.net/publication/343443200_Self-tracking_behaviour_in_physical_activity_a_systematic_review_of_drivers_and_outcomes_of_fitness_tracking)  
+   Link: <a href="https://www.researchgate.net/publication/343443200_Self-tracking_behaviour_in_physical_activity_a_systematic_review_of_drivers_and_outcomes_of_fitness_tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343443200_Self-tracking_behaviour_in_physical_activity_a_systematic_review_of_drivers_and_outcomes_of_fitness_tracking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-tracking behaviour in physical activity: a systematic...5 Aug 2020 — First, it identifies 19 drivers of fitness tracking technology...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
    Title: The Theory and Techniques Tool Self-monitoring of behaviour  
-   Link: [https://theoryandtechniquetool.humanbehaviourchange.org/tool](https://theoryandtechniquetool.humanbehaviourchange.org/tool)  
+   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theory and Techniques ToolSelf-monitoring of behaviour. +. 2.4. Self-monitoring of outcomes of behaviour. +. 2.5. Monitoring of outcome(s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: semanticscholar.org  
    Title: Does monitoring goal progress promote goal attainment?  
-   Link: [https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea](https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea)  
+   Link: <a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>findings suggest that monitoring goal progress is an effective self-regulation strategy, and that interventions that increase th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: GOV.UK  
    Title: behaviour change techniques review descriptive studies  
-   Link: [https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies](https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies)  
+   Link: <a href="https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>change techniques review: descriptive studies6 Jul 2020 — A behaviour change techniques (BCTs) review uses established classifications of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observe or record outcomes of behaviour with the person&#x27;s knowledge as part of a...</p></details>

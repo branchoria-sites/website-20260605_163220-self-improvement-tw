@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:41:30'
 parent_title: Why the Phone Belongs Outside the Bedroom | Better Change
 parent_permalink: /bedroom-phone/
 parent_nav_short_title: Bedroom Phone
@@ -265,7 +266,6 @@ next_link:
   permalink: /sleep-evidence/
   short_title: Sleep Evidence
   heading_title: Does Removing the Phone Really Help?
-date: '2026-06-05 15:41:30 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-1.webp
@@ -852,107 +852,107 @@ This approach recognises an important principle of self-improvement: the goal is
 
 1. <a id="endnote-1"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios](https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios)  
+   Link: <a href="https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Select a contact, then tap Edit. · Tap Ringtone or Text Tone, then turn on...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: help.innocaption.com  
    Title: Inno Caption Help Center Allow calls from Favorites in Do Not Disturb mode  
-   Link: [https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode](https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode)  
+   Link: <a href="https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode" target="_blank" rel="noopener noreferrer nofollow">https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tap People. Tap Calls. Select Starred to ensure calls from your favorite contacts will bypass DND. Go back to the Settings app main page...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: support.google.com  
    Title: how to enable starred contacts bypassing do not disturb  
-   Link: [https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en](https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en)  
+   Link: <a href="https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I can make this work for anything but the incoming calls.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lifewire.com  
-   Link: [https://www.lifewire.com/use-do-not-disturb-on-android-11686458](https://www.lifewire.com/use-do-not-disturb-on-android-11686458)  
+   Link: <a href="https://www.lifewire.com/use-do-not-disturb-on-android-11686458" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/use-do-not-disturb-on-android-11686458</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It can be toggled on from the Quick Settings menu by swiping down from the top of the screen, or via Settings under Sound &amp; Vibration. Us...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: apple.com  
-   Link: [https://www.apple.com/hk/en/](https://www.apple.com/hk/en/)  
+   Link: <a href="https://www.apple.com/hk/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/hk/en/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple (Hong Kong)Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore ac...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/253638549](https://discussions.apple.com/thread/253638549)  
+   Link: <a href="https://discussions.apple.com/thread/253638549" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/253638549</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I have Emergency Bypass on for some of…Feb 5, 2022 — So, to make sure that you receive notifications from certain people, you can add the...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/255150794](https://discussions.apple.com/thread/255150794)  
+   Link: <a href="https://discussions.apple.com/thread/255150794" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255150794</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>bypass not working24 Sept 2023 — Have been thru all the past discussions, tried toggles, settings, unhide alerts to contact specific peop...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/255886541](https://discussions.apple.com/thread/255886541)  
+   Link: <a href="https://discussions.apple.com/thread/255886541" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255886541</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>mode Emergency Bypass for my iPhone SE.17 Dec 2024 — Tap the dropdown next to Allow Calls From and choose Allowed People Only; Optionally...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/android/answer/9069335?hl=en](https://support.google.com/android/answer/9069335?hl=en)  
+   Link: <a href="https://support.google.com/android/answer/9069335?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9069335?hl=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap Sound And then Do Not Disturb preferences And then Priority only allows. · Set your...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: support.google.com  
    Title: emergency bypass feature for specific contacts  
-   Link: [https://support.google.com/android/thread/219866813/emergency-bypass-feature-for-specific-contacts?hl=en](https://support.google.com/android/thread/219866813/emergency-bypass-feature-for-specific-contacts?hl=en)  
+   Link: <a href="https://support.google.com/android/thread/219866813/emergency-bypass-feature-for-specific-contacts?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/thread/219866813/emergency-bypass-feature-for-specific-contacts?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap and hold the do not disturb icon to open up its...Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: fortress.com.hk  
-   Link: [https://www.fortress.com.hk/en/brands/152560/apple](https://www.fortress.com.hk/en/brands/152560/apple)  
+   Link: <a href="https://www.fortress.com.hk/en/brands/152560/apple" target="_blank" rel="noopener noreferrer nofollow">https://www.fortress.com.hk/en/brands/152560/apple</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>APPLE ProductsShop the latest APPLE products, including Tablet PC, Smart Watch and ring, Smartphone, Keyboard and Mouse, Mobile PC and mo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: applevis.com  
-   Link: [https://www.applevis.com/forum/ios-ipados/contacts-emergency-bypass](https://www.applevis.com/forum/ios-ipados/contacts-emergency-bypass)  
+   Link: <a href="https://www.applevis.com/forum/ios-ipados/contacts-emergency-bypass" target="_blank" rel="noopener noreferrer nofollow">https://www.applevis.com/forum/ios-ipados/contacts-emergency-bypass</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contacts on emergency bypassIn the do not disturb settings, you can set who you want to allow calls from when do not disturb is turned on...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/iphone/comments/yfii4a/tip_allow_your_emergency_contacts_to_bypass/](https://www.reddit.com/r/iphone/comments/yfii4a/tip_allow_your_emergency_contacts_to_bypass/)  
+   Link: <a href="https://www.reddit.com/r/iphone/comments/yfii4a/tip_allow_your_emergency_contacts_to_bypass/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/iphone/comments/yfii4a/tip_allow_your_emergency_contacts_to_bypass/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIP: Allow your emergency contacts to bypass Silent Mode.While selecting a specific ringtone for one of your contacts, there is an option...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/YouShouldKnow/comments/1cd3evk/ysk_how_to_set_your_phone_to_allow_emergency/](https://www.reddit.com/r/YouShouldKnow/comments/1cd3evk/ysk_how_to_set_your_phone_to_allow_emergency/)  
+   Link: <a href="https://www.reddit.com/r/YouShouldKnow/comments/1cd3evk/ysk_how_to_set_your_phone_to_allow_emergency/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/YouShouldKnow/comments/1cd3evk/ysk_how_to_set_your_phone_to_allow_emergency/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>YSK how to set your phone to allow emergency contacts...On Apple IOS: Open Contacts Select a contact, then tap Edit. Tap Ringtone or Tex...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: macworld.com  
    Title: how to let important people get through ios 15s do not disturb or focus settings  
-   Link: [https://www.macworld.com/article/538733/how-to-let-important-people-get-through-ios-15s-do-not-disturb-or-focus-settings.html](https://www.macworld.com/article/538733/how-to-let-important-people-get-through-ios-15s-do-not-disturb-or-focus-settings.html)  
+   Link: <a href="https://www.macworld.com/article/538733/how-to-let-important-people-get-through-ios-15s-do-not-disturb-or-focus-settings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macworld.com/article/538733/how-to-let-important-people-get-through-ios-15s-do-not-disturb-or-focus-settings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to let important people get through iOS&#x27;s Do Not...11 Aug 2023 — Emergency Bypass, hidden in the Contacts editing screen, grants per...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sixcolors.com  
    Title: quick tip getting around do not disturb with emergency bypass for calls texts  
-   Link: [https://sixcolors.com/post/2018/01/quick-tip-getting-around-do-not-disturb-with-emergency-bypass-for-calls-texts/](https://sixcolors.com/post/2018/01/quick-tip-getting-around-do-not-disturb-with-emergency-bypass-for-calls-texts/)  
+   Link: <a href="https://sixcolors.com/post/2018/01/quick-tip-getting-around-do-not-disturb-with-emergency-bypass-for-calls-texts/" target="_blank" rel="noopener noreferrer nofollow">https://sixcolors.com/post/2018/01/quick-tip-getting-around-do-not-disturb-with-emergency-bypass-for-calls-texts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting around Do Not Disturb with Emergency Bypass for...22 Jan 2018 — Added in iOS 10, Emergency Bypass is a way to ensure that you wi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IvkCdPORRH8](https://www.youtube.com/watch?v=IvkCdPORRH8)  
+   Link: <a href="https://www.youtube.com/watch?v=IvkCdPORRH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IvkCdPORRH8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Allow Specific Contacts to Ring in Do Not Disturb...This tutorial shows you how to let certain people call you even when your iPh...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=i-6sNsTxSiM](https://www.youtube.com/watch?v=i-6sNsTxSiM)  
+   Link: <a href="https://www.youtube.com/watch?v=i-6sNsTxSiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i-6sNsTxSiM</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/keahbone/posts/cool-phone-tip-i-just-learned-you-can-keep-your-phone-on-silent-and-still-hear-c/1270648215071366/](https://www.facebook.com/keahbone/posts/cool-phone-tip-i-just-learned-you-can-keep-your-phone-on-silent-and-still-hear-c/1270648215071366/)  
+   Link: <a href="https://www.facebook.com/keahbone/posts/cool-phone-tip-i-just-learned-you-can-keep-your-phone-on-silent-and-still-hear-c/1270648215071366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/keahbone/posts/cool-phone-tip-i-just-learned-you-can-keep-your-phone-on-silent-and-still-hear-c/1270648215071366/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Under Calls/Messages, allow from Starred contacts only. ⸻ Super handy if you don&#x27;t want...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: community.sony.co.uk  
    Title: sony.co.uk Do not disturb doesn't work for starred contacts  
-   Link: [https://community.sony.co.uk/t5/z-series/do-not-disturb-doesn-t-work-for-starred-contacts/td-p/3450264/page/3](https://community.sony.co.uk/t5/z-series/do-not-disturb-doesn-t-work-for-starred-contacts/td-p/3450264/page/3)  
+   Link: <a href="https://community.sony.co.uk/t5/z-series/do-not-disturb-doesn-t-work-for-starred-contacts/td-p/3450264/page/3" target="_blank" rel="noopener noreferrer nofollow">https://community.sony.co.uk/t5/z-series/do-not-disturb-doesn-t-work-for-starred-contacts/td-p/3450264/page/3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>not disturb doesn&#x27;t work for starred contacts - Page 3Solved: Do not disturb with allow priority is supposed to allow calls and texts of...</p></details>

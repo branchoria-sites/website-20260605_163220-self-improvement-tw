@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_t
 
 ## Introduction
 
-Homes are not neutral spaces. They constantly present cues that suggest what to do next: a bowl of sweets on the counter, a television remote on the coffee table, a phone charger beside the bed, or a guitar hidden in a cupboard. Over time, repeated exposure to these cues can help turn behaviours into habits because the [environment]({{ 'environment/' | relative_url }}) begins to trigger actions automatically rather than through conscious decision-making. Research on habit formation consistently shows that behaviours become linked to stable contexts and environmental signals, making those signals powerful drivers of everyday choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 146 — Habitual behaviour is trigg...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</span></span></span>
+Homes are not neutral spaces. They constantly present cues that suggest what to do next: a bowl of sweets on the counter, a television remote on the coffee table, a phone charger beside the bed, or a guitar hidden in a cupboard. Over time, repeated exposure to these cues can help turn behaviours into habits because the [environment]({{ 'environment/' | relative_url }}) begins to trigger actions automatically rather than through conscious decision-making. Research on habit formation consistently shows that behaviours become linked to stable contexts and environmental signals, making those signals powerful drivers of everyday choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 146 — Habitual behaviour is trigg...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-1-dark.svg" | relative_url }}" alt="Temptation Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -280,7 +280,7 @@ Many unwanted habits feel like personal failures when they are actually cue-driv
 
 This helps explain why someone may reach for biscuits while making tea, unlock social media immediately after sitting on the sofa, or switch on the television without actively deciding to do so. The behaviour has become tied to environmental signals that repeatedly preceded it.
 
-The important insight is that unwanted habits are rarely triggered only by desire. They are also triggered by visibility, proximity, convenience, and routine exposure. Remove or alter those triggers, and the habit often loses some of its automatic force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportal.bath.ac.uk/en/publications/interventions-to-break-and-create-consumer-habits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportal.bath.ac.uk">[the University of Bath&#x27;s research portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportal.bath.ac.uk</span><span class="citation-popover-title">interventions to break and create consumer habits</span><span class="citation-popover-snippet">As we explain, these interventions are unlikely to be an...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 82 — Healthy habit formation is a critical...</span></span></span>
+The important insight is that unwanted habits are rarely triggered only by desire. They are also triggered by visibility, proximity, convenience, and routine exposure. Remove or alter those triggers, and the habit often loses some of its automatic force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportal.bath.ac.uk/en/publications/interventions-to-break-and-create-consumer-habits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportal.bath.ac.uk">[the University of Bath&#x27;s research portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportal.bath.ac.uk</span><span class="citation-popover-title">interventions to break and create consumer habits</span><span class="citation-popover-snippet">As we explain, these interventions are unlikely to be an...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 82 — Healthy habit formation is a critical...</span></span></span>
 
 ## How Objects Cue Unwanted Habits
 
@@ -323,7 +323,7 @@ Practical examples include:
 
 Notice that these changes do not ban the behaviour. They increase the effort required to start it.
 
-This matters because habits thrive on convenience. A behaviour that begins with a single effortless movement is more likely to occur than one requiring several deliberate steps. Adding even minor barriers can create a pause long enough for intentions to re-enter the process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.gla.ac.uk/149323/7/149323.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-title">Enlighten Publications Situated interventions to change consumer habits</span><span class="citation-popover-snippet">Enlighten PublicationsSituated interventions to change consumer habitsJuly 5, 2018 — by M Best · 2017 · Cited by 53 — Consumers often do...</span><span class="citation-popover-meta">Published: July 5, 2018</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10953355/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMC - NIHby KM Turner · 2023 · Cited by 16 — These results demonstrate that two concurrently trained responses can come under habitual co...</span></span></span>
+This matters because habits thrive on convenience. A behaviour that begins with a single effortless movement is more likely to occur than one requiring several deliberate steps. Adding even minor barriers can create a pause long enough for intentions to re-enter the process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.gla.ac.uk/149323/7/149323.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-title">Enlighten Publications Situated interventions to change consumer habits</span><span class="citation-popover-snippet">Enlighten PublicationsSituated interventions to change consumer habitsJuly 5, 2018 — by M Best · 2017 · Cited by 53 — Consumers often do...</span><span class="citation-popover-meta">Published: July 5, 2018</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10953355/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby KM Turner · 2023 · Cited by 16 — These results demonstrate that two concurrently trained responses can come under habitual co...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-2-dark.svg" | relative_url }}" alt="Temptation Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -331,7 +331,7 @@ This matters because habits thrive on convenience. A behaviour that begins with 
 
 Many people focus on what they own rather than what they see. Yet visibility is often the stronger behavioural influence.
 
-Research on food environments repeatedly finds that [environmental cues]({{ 'cues-195d40/' | relative_url }}) affect consumption choices. People do not need to remove every tempting item from their homes for change to occur. Simply reducing exposure can reduce the frequency with which the cue activates the associated behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfh.ch/dam/jcr%3A5ab87f82-8287-4314-9818-bbfdd1b928fd/appetite-2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfh.ch">[Bern University of Applied Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfh.ch</span><span class="citation-popover-snippet">There is growing evidence that environmental cues in- fluence how much one consumes.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</span></span></span>
+Research on food environments repeatedly finds that environmental cues affect consumption choices. People do not need to remove every tempting item from their homes for change to occur. Simply reducing exposure can reduce the frequency with which the cue activates the associated behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bfh.ch/dam/jcr%3A5ab87f82-8287-4314-9818-bbfdd1b928fd/appetite-2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfh.ch">[Bern University of Applied Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfh.ch</span><span class="citation-popover-snippet">There is growing evidence that environmental cues in- fluence how much one consumes.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</span></span></span>
 
 Consider two kitchens:
 
@@ -372,7 +372,7 @@ Environmental cue research shows that cues can encourage healthier choices as we
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-3-dark.svg" | relative_url }}" alt="Temptation Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Rearranging the Environment Creates a Fresh Start
 
-One reason house moves, room redesigns, and major reorganisations sometimes produce surprising behaviour changes is that they disrupt old cue-response patterns.
+One reason house moves, room redesigns, and major reorganisations sometimes produce surprising [behaviour changes]({{ 'behaviour-change/' | relative_url }}) is that they disrupt old cue-response patterns.
 
 Habit researchers have found that when familiar environments change, established habits can weaken because the usual triggers are no longer present. People become more conscious of their actions and more likely to make deliberate choices rather than follow automatic routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/monitor/jun05/habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationA different environment may break habits1 Jun 2005 — The study found that moving to a new environment r...</span></span></span> ResearchGate You do not need to move house to benefit from this effect. Rearranging furniture <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Changing Circumstances, Disrupting HabitsThe present research investigated the mechanisms guiding habitual behavior, specifically...</span></span></span>, changing where items are stored, redesigning a workspace, or altering the layout of a room can create enough environmental change to interrupt behavioural autopilot.
 
@@ -811,155 +811,155 @@ Removing temptation cues is effective because it targets the moment before [will
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Another related approach to altering the cues in the environment is stimulus...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: today.duke.edu  
-   Link: [https://today.duke.edu/2007/12/habit.html](https://today.duke.edu/2007/12/habit.html)  
+   Link: <a href="https://today.duke.edu/2007/12/habit.html" target="_blank" rel="noopener noreferrer nofollow">https://today.duke.edu/2007/12/habit.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duke TodayKey to Changing Habits Is In Environment, Not Willpower...13 Dec 2007 — But research by Wood and others indicates that environ...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dornsife.usc.edu  
    Title: Dornsife Healthy eating habits protect against temptations  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/lin.wood_.monterosso.2016.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/lin.wood_.monterosso.2016.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/lin.wood_.monterosso.2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/lin.wood_.monterosso.2016.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeHealthy eating habits protect against temptations - USC Dornsifeby PY Lin · 2015 · Cited by 109 — However, none of the extant...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits](https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits)  
+   Link: <a href="https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7762000_Changing_Circumstances_Disrupting_Habits</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Changing Circumstances, Disrupting HabitsThe present research investigated the mechanisms guiding habitual behavior, specifically...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 82 — Healthy habit formation is a critical...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 82 — Healthy habit formation is a critical...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10930145/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10930145/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10930145/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10930145/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental cues to instigate physical movement...by K Jenkins · 2024 · Cited by 5 — These findings provide valuable insight for behav...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dornsife.usc.edu  
    Title: Carden.Wood.2018  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>formation and change - USC Dornsifeby L Carden · 2018 · Cited by 348 — This review highlights emerging findings and new directions in res...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: behaviors.Read more  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — Abstract · The environment significantly influences habit fo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387559948_Temptation_at_every_corner_exploring_public_perceptions_of_food_cues_and_policy_support_for_governmental_food_cue_regulation_in_outdoor_public_spaces](https://www.researchgate.net/publication/387559948_Temptation_at_every_corner_exploring_public_perceptions_of_food_cues_and_policy_support_for_governmental_food_cue_regulation_in_outdoor_public_spaces)  
+   Link: <a href="https://www.researchgate.net/publication/387559948_Temptation_at_every_corner_exploring_public_perceptions_of_food_cues_and_policy_support_for_governmental_food_cue_regulation_in_outdoor_public_spaces" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387559948_Temptation_at_every_corner_exploring_public_perceptions_of_food_cues_and_policy_support_for_governmental_food_cue_regulation_in_outdoor_public_spaces</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food cues are visible situations...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 146 — Habitual behaviour is trigg...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 146 — Habitual behaviour is trigg...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchportal.bath.ac.uk  
    Title: interventions to break and create consumer habits  
-   Link: [https://researchportal.bath.ac.uk/en/publications/interventions-to-break-and-create-consumer-habits/](https://researchportal.bath.ac.uk/en/publications/interventions-to-break-and-create-consumer-habits/)  
+   Link: <a href="https://researchportal.bath.ac.uk/en/publications/interventions-to-break-and-create-consumer-habits/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.bath.ac.uk/en/publications/interventions-to-break-and-create-consumer-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As we explain, these interventions are unlikely to be an...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bfh.ch  
-   Link: [https://www.bfh.ch/dam/jcr%3A5ab87f82-8287-4314-9818-bbfdd1b928fd/appetite-2016.pdf](https://www.bfh.ch/dam/jcr%3A5ab87f82-8287-4314-9818-bbfdd1b928fd/appetite-2016.pdf)  
+   Link: <a href="https://www.bfh.ch/dam/jcr%3A5ab87f82-8287-4314-9818-bbfdd1b928fd/appetite-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bfh.ch/dam/jcr%3A5ab87f82-8287-4314-9818-bbfdd1b928fd/appetite-2016.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There is growing evidence that environmental cues in- fluence how much one consumes.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: eprints.gla.ac.uk  
    Title: Enlighten Publications Situated interventions to change consumer habits  
-   Link: [https://eprints.gla.ac.uk/149323/7/149323.pdf](https://eprints.gla.ac.uk/149323/7/149323.pdf)  
+   Link: <a href="https://eprints.gla.ac.uk/149323/7/149323.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/149323/7/149323.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enlighten PublicationsSituated interventions to change consumer habitsJuly 5, 2018 — by M Best · 2017 · Cited by 53 — Consumers often do...</p></details>
    Published: July 5, 2018  
 
 15. <a id="endnote-15"></a>
    Source: openresearch.surrey.ac.uk  
    Title: Open Research Surrey Habit Formation and Behavior Change  
-   Link: [https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346](https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346)  
+   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 395 — Research around the app...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/monitor/jun05/habits](https://www.apa.org/monitor/jun05/habits)  
+   Link: <a href="https://www.apa.org/monitor/jun05/habits" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/jun05/habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationA different environment may break habits1 Jun 2005 — The study found that moving to a new environment r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10953355/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10953355/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby KM Turner · 2023 · Cited by 16 — These results demonstrate that two concurrently trained responses can come under habitual co...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10953355/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10953355/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby KM Turner · 2023 · Cited by 16 — These results demonstrate that two concurrently trained responses can come under habitual co...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/environmental](https://dictionary.cambridge.org/dictionary/english/environmental)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionaryearth science relating to the environment in which people, animals, and plants live: We&#x27;re here t...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/environmental" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/environmental</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionaryearth science relating to the environment in which people, animals, and plants live: We&#x27;re here t...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: effectiveselfhelp.org  
-   Link: [https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/](https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/)  
+   Link: <a href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow">https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/</a>  
 
 20. <a id="endnote-20"></a>
    Source: chear.ucsd.edu  
    Title: Healthy Eating Research Understanding Emotional Eating: Physical Hunger vs  
-   Link: [https://chear.ucsd.edu/blog/emotional-eating-physical-hunger-vs-eating-cues](https://chear.ucsd.edu/blog/emotional-eating-physical-hunger-vs-eating-cues)  
+   Link: <a href="https://chear.ucsd.edu/blog/emotional-eating-physical-hunger-vs-eating-cues" target="_blank" rel="noopener noreferrer nofollow">https://chear.ucsd.edu/blog/emotional-eating-physical-hunger-vs-eating-cues</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Eating: Physical Hunger vs....14 Apr 2025 — Emotional or environmental cues can trigger physiological responses, including cha...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sacbar.com  
-   Link: [https://sacbar.com/visible-food-obesity/](https://sacbar.com/visible-food-obesity/)  
+   Link: <a href="https://sacbar.com/visible-food-obesity/" target="_blank" rel="noopener noreferrer nofollow">https://sacbar.com/visible-food-obesity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Home Food Visibility and Weight: Simple Changes That WorkOhio State study shows visible food placement affects eating habits. Learn evide...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: globalrph.com  
-   Link: [https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/](https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/)  
+   Link: <a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lying habit formation and explores evidence-based strategies for behavioral change.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wjarr.com  
-   Link: [https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf](https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf)  
+   Link: <a href="https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...Clear outlines four fundamental laws of behavior change: Cue, Craving, Res...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jpshealthandfitness.com.au  
    Title: cravings and self control how to deal with a world full of temptation  
-   Link: [https://www.jpshealthandfitness.com.au/cravings-and-self-control-how-to-deal-with-a-world-full-of-temptation/?srsltid=AfmBOorFiam01dx0k2cC8eNacvhuE4WtAZW93679YIR3ujo-WXUhLIiG](https://www.jpshealthandfitness.com.au/cravings-and-self-control-how-to-deal-with-a-world-full-of-temptation/?srsltid=AfmBOorFiam01dx0k2cC8eNacvhuE4WtAZW93679YIR3ujo-WXUhLIiG)  
+   Link: <a href="https://www.jpshealthandfitness.com.au/cravings-and-self-control-how-to-deal-with-a-world-full-of-temptation/?srsltid=AfmBOorFiam01dx0k2cC8eNacvhuE4WtAZW93679YIR3ujo-WXUhLIiG" target="_blank" rel="noopener noreferrer nofollow">https://www.jpshealthandfitness.com.au/cravings-and-self-control-how-to-deal-with-a-world-full-of-temptation/?srsltid=AfmBOorFiam01dx0k2cC8eNacvhuE4WtAZW93679YIR3ujo-WXUhLIiG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A cue can be time, location, a function of our biological body clock, or something in your...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sustainablelifestyles.ac.uk  
    Title: Habitual behaviors or patterns of practice?  
-   Link: [https://www.sustainablelifestyles.ac.uk/sites/default/files/publicationsdocs/habits_or_social_practice.pdf](https://www.sustainablelifestyles.ac.uk/sites/default/files/publicationsdocs/habits_or_social_practice.pdf)  
+   Link: <a href="https://www.sustainablelifestyles.ac.uk/sites/default/files/publicationsdocs/habits_or_social_practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sustainablelifestyles.ac.uk/sites/default/files/publicationsdocs/habits_or_social_practice.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining and...by T Kurz · 2014 · Cited by 436 — Understanding human behavior lies at the heart of responses to climate change. Many e...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: psychologytoday.com  
    Title: how your environment shapes your habits  
-   Link: [https://www.psychologytoday.com/gb/blog/parenting-from-a-neuroscience-perspective/202503/how-your-environment-shapes-your-habits](https://www.psychologytoday.com/gb/blog/parenting-from-a-neuroscience-perspective/202503/how-your-environment-shapes-your-habits)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/parenting-from-a-neuroscience-perspective/202503/how-your-environment-shapes-your-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/parenting-from-a-neuroscience-perspective/202503/how-your-environment-shapes-your-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Mar 2025 — Your environment influences your habits more than willpower does. Small changes, like moving distractions out of sight, sha...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: psychologytoday.com  
    Title: how your environment shapes your habits  
-   Link: [https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202503/how-your-environment-shapes-your-habits](https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202503/how-your-environment-shapes-your-habits)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202503/how-your-environment-shapes-your-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202503/how-your-environment-shapes-your-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 17, 2025 — Your environment influences your habits more than willpower does. Small changes, like moving distractions out of sight, sh...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: consensus.app  
    Title: Are Habits Linked to the Environment?  
-   Link: [https://consensus.app/home/blog/are-habits-linked-to-the-environment/](https://consensus.app/home/blog/are-habits-linked-to-the-environment/)  
+   Link: <a href="https://consensus.app/home/blog/are-habits-linked-to-the-environment/" target="_blank" rel="noopener noreferrer nofollow">https://consensus.app/home/blog/are-habits-linked-to-the-environment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2019 — Habits play a crucial role in shaping human behavior, often acting as automatic responses to specific environmental cues...</p></details>
    Published: May 17, 2019  

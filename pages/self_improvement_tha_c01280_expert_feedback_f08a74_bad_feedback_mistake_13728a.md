@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:24:04'
 parent_title: When Should You Get Outside Help? | Better Change
 parent_permalink: /expert-help/
 parent_nav_short_title: Expert Help
@@ -265,7 +266,6 @@ next_link:
   permalink: /coach-or-therapist/
   short_title: Coach or therapist
   heading_title: Do You Need a Coach or a Therapist?
-date: '2026-06-05 15:24:04 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-1.webp
@@ -282,14 +282,14 @@ For people seeking help from coaches, therapists, mentors, managers, teachers or
 
 ## Why Feedback Can Reduce Performance
 
-The common assumption is that more feedback must be better. Evidence suggests otherwise. Feedback can improve results, but it can also distract people from the work itself. According to Feedback Intervention Theory, performance tends to worsen when [attention shifts]({{ 'attention-shift/' | relative_url }}) away from the task and towards concerns about the self, status, ego or [identity]({{ 'identity/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edcentral.uk">[EdCentral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edcentral.uk</span><span class="citation-popover-snippet">EdCentralThe effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</span></span></span> ResearchGate Imagine two forms of feedback after a failed attempt to build a new habit: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</span></span></span>
+The common assumption is that more feedback must be better. Evidence suggests otherwise. Feedback can improve results, but it can also distract people from the work itself. According to Feedback Intervention Theory, performance tends to worsen when [attention shifts]({{ 'attention-shift/' | relative_url }}) away from the task and towards concerns about the self, status, ego or [identity]({{ 'identity/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edcentral.uk">[EdCentral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edcentral.uk</span><span class="citation-popover-snippet">The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</span></span></span> ResearchGate Imagine two forms of feedback after a failed attempt to build a new habit: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</span></span></span>
 
 * “Your plan did not include a trigger for when to start.”
 * “You clearly lack discipline.”
 
 The first statement focuses on a process problem. The second focuses on the person. The process-focused comment creates a practical question: what trigger should be added? The personal comment creates a psychological question: what is wrong with me?
 
-Research by Avraham Kluger and Angelo DeNisi found that interventions became less effective when they pushed attention towards self-evaluation instead of task improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edcentral.uk">[EdCentral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edcentral.uk</span><span class="citation-popover-snippet">EdCentralThe effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</span></span></span>
+Research by Avraham Kluger and Angelo DeNisi found that interventions became less effective when they pushed attention towards self-evaluation instead of task improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edcentral.uk">[EdCentral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edcentral.uk</span><span class="citation-popover-snippet">The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</span></span></span>
 
 This helps explain why some well-intentioned advice backfires. People often leave a conversation feeling judged rather than informed. They may become preoccupied with proving themselves, protecting their reputation or avoiding future criticism instead of improving the underlying behaviour.
 
@@ -802,7 +802,7 @@ A poor coach might say:
 
 That feedback is also negative, but it offers no diagnostic value.
 
-Evidence from learning and performance research suggests that feedback works best when it provides information that can guide adjustment. Feedback that merely communicates approval or disapproval is far less reliable. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
+Evidence from learning and performance research suggests that feedback works best when it provides information that can guide adjustment. Feedback that merely communicates approval or disapproval is far less reliable. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
 
 This distinction matters because many people mistakenly seek emotional certainty from feedback. They want to know whether they are doing well or badly. Effective feedback instead helps them understand what to do next.
 
@@ -913,150 +913,150 @@ Ask whether it changes what you will do next.
 
 Good feedback narrows uncertainty. It clarifies the target, identifies the gap and suggests a practical adjustment. Poor feedback leaves a person feeling judged, confused or overwhelmed.
 
-In self-improvement, the goal is not to collect opinions. The goal is to obtain information that improves the next attempt. Research consistently shows that feedback is most effective when it stays close to behaviour, process and future action, and least effective when it becomes a verdict on the person receiving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
+In self-improvement, the goal is not to collect opinions. The goal is to obtain information that improves the next attempt. Research consistently shows that feedback is most effective when it stays close to behaviour, process and future action, and least effective when it becomes a verdict on the person receiving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory](https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: edcentral.uk  
-   Link: [https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory](https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EdCentralThe effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</p></details>
+   Link: <a href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow">https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ctl.dukekunshan.edu.cn  
    Title: feedback for learning  
-   Link: [https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning](https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning)  
+   Link: <a href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow">https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Can 360-degree appraisals be improved?  
-   Link: [https://www.researchgate.net/publication/294610550_Feedback_effectiveness_Can_360-degree_appraisals_be_improved](https://www.researchgate.net/publication/294610550_Feedback_effectiveness_Can_360-degree_appraisals_be_improved)  
+   Link: <a href="https://www.researchgate.net/publication/294610550_Feedback_effectiveness_Can_360-degree_appraisals_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294610550_Feedback_effectiveness_Can_360-degree_appraisals_be_improved</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FeedbackFor example, Kluger and DeNisi (1996) conducted a meta-analysis of feedback interventions generally, defined as &quot;actions taken by...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/337061836_Organizational_Responses_to_Performance_Feedback_A_Meta-Analytic_Review](https://www.researchgate.net/publication/337061836_Organizational_Responses_to_Performance_Feedback_A_Meta-Analytic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/337061836_Organizational_Responses_to_Performance_Feedback_A_Meta-Analytic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337061836_Organizational_Responses_to_Performance_Feedback_A_Meta-Analytic_Review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>anizational Responses to Performance FeedbackWe conducted a meta-analytic review of 113 empirical studies to statistically evaluate ho...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cris.huji.ac.il  
-   Link: [https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/](https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/)  
+   Link: <a href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow">https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mrbartonmaths.com  
    Title: The effects of feedback interventions  
-   Link: [https://www.mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf](https://www.mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf)  
+   Link: <a href="https://www.mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>mr barton mathsThe Effects of Feedback Interventions on Performanceby A DeNisi · 1996 · Cited by 10422 — A meta-analysis (607 effect size...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.3102/003465430298487](https://journals.sagepub.com/doi/abs/10.3102/003465430298487)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/003465430298487</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/feedback](https://dictionary.cambridge.org/dictionary/english/feedback)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionary7 days ago — information about something such as a new product or someone&#x27;s work, that provides a...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/feedback" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/feedback</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionary7 days ago — information about something such as a new product or someone&#x27;s work, that provides a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/feedback](https://dictionary.cambridge.org/us/dictionary/english/feedback)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| definition in the Cambridge English Dictionaryinformation about something such as a new product or someone&#x27;s work, that provides an ide...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/feedback" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/feedback</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryinformation about something such as a new product or someone&#x27;s work, that provides an ide...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.3102/003465430298487](https://journals.sagepub.com/doi/10.3102/003465430298487)  
+   Link: <a href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/003465430298487</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Power of Feedback - John Hattie, Helen Timperley, 2007...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: methods.sagepub.com  
    Title: feedback intervention theory  
-   Link: [https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory](https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory)  
+   Link: <a href="https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intervention Theory... meta-analysis indicated that, in almost one third of the cases, feedback had a negative effect on subsequent perfo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4170834/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4170834/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby SJ Hysong · 2009 · Cited by 397 — This meta-analytic study tested whether Feedback Intervention Theory, a framework from indu...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4170834/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4170834/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby SJ Hysong · 2009 · Cited by 397 — This meta-analytic study tested whether Feedback Intervention Theory, a framework from indu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
    Title: The Power of Feedback  
-   Link: [https://www.scribd.com/document/142398477/The-Power-of-Feedback-Hattie-and-Timperley](https://www.scribd.com/document/142398477/The-Power-of-Feedback-Hattie-and-Timperley)  
+   Link: <a href="https://www.scribd.com/document/142398477/The-Power-of-Feedback-Hattie-and-Timperley" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/142398477/The-Power-of-Feedback-Hattie-and-Timperley</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hattie and Timperley | PDFThe Power of Feedback - Hattie and Timperley - Free download as PDF File (.pdf), Text File (.txt) or read onlin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/702759844/The-Effects-of-Feedback-Interventions](https://www.scribd.com/document/702759844/The-Effects-of-Feedback-Interventions)  
+   Link: <a href="https://www.scribd.com/document/702759844/The-Effects-of-Feedback-Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/702759844/The-Effects-of-Feedback-Interventions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, and a Preliminary Feedback Intervention TheoryRead more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theory-database.hbcptools.org  
-   Link: [https://theory-database.hbcptools.org/theory/17](https://theory-database.hbcptools.org/theory/17)  
+   Link: <a href="https://theory-database.hbcptools.org/theory/17" target="_blank" rel="noopener noreferrer nofollow">https://theory-database.hbcptools.org/theory/17</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>N., &amp; DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary fe...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: pluto.huji.ac.il  
-   Link: [https://pluto.huji.ac.il/~mskluger/KeyPubs.html](https://pluto.huji.ac.il/~mskluger/KeyPubs.html)  
+   Link: <a href="https://pluto.huji.ac.il/~mskluger/KeyPubs.html" target="_blank" rel="noopener noreferrer nofollow">https://pluto.huji.ac.il/~mskluger/KeyPubs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>N Kluger -- Key publicationsAvraham N Kluger... The Effects of Feedback Interventions on Performance: Historical Review, a. Meta-Analysi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dixieching.wordpress.com  
-   Link: [https://dixieching.wordpress.com/2011/01/13/the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory-kluger-denisi-1996/](https://dixieching.wordpress.com/2011/01/13/the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory-kluger-denisi-1996/)  
+   Link: <a href="https://dixieching.wordpress.com/2011/01/13/the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory-kluger-denisi-1996/" target="_blank" rel="noopener noreferrer nofollow">https://dixieching.wordpress.com/2011/01/13/the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory-kluger-denisi-1996/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Feedback Interventions on Performance: A...13 Jan 2011 — The effects of feedback interventions on performance: A historical r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/feedback](https://www.merriam-webster.com/dictionary/feedback)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/feedback</a>  
 
 21. <a id="endnote-21"></a>
    Source: bera.ac.uk  
-   Link: [https://www.bera.ac.uk/blog/how-to-optimise-the-use-of-hattie-and-timperleys-feedback-levels-for-student-learning](https://www.bera.ac.uk/blog/how-to-optimise-the-use-of-hattie-and-timperleys-feedback-levels-for-student-learning)  
+   Link: <a href="https://www.bera.ac.uk/blog/how-to-optimise-the-use-of-hattie-and-timperleys-feedback-levels-for-student-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.bera.ac.uk/blog/how-to-optimise-the-use-of-hattie-and-timperleys-feedback-levels-for-student-learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to optimise the use of Hattie and Timperley&#x27;s feedback...7 Dec 2023 — This blog post outlines how the four levels are useful for the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: coppa.es  
-   Link: [https://www.coppa.es/gestor/uploads/programas/inpractice_2020_2.pdf](https://www.coppa.es/gestor/uploads/programas/inpractice_2020_2.pdf)  
+   Link: <a href="https://www.coppa.es/gestor/uploads/programas/inpractice_2020_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.coppa.es/gestor/uploads/programas/inpractice_2020_2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In a recent review of PM literature, DeNisi and Murphy (2017) highlight the body...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tipsforteachers.co.uk  
-   Link: [https://tipsforteachers.co.uk/research-the-effects-of-feedback-interventions-on-performance/](https://tipsforteachers.co.uk/research-the-effects-of-feedback-interventions-on-performance/)  
+   Link: <a href="https://tipsforteachers.co.uk/research-the-effects-of-feedback-interventions-on-performance/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-the-effects-of-feedback-interventions-on-performance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This suggests that the assumption that feedback always helps is incorrect. The...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: visible-learning.org  
    Title: john hattie helen timperley visible learning and feedback  
-   Link: [https://visible-learning.org/2013/02/john-hattie-helen-timperley-visible-learning-and-feedback/](https://visible-learning.org/2013/02/john-hattie-helen-timperley-visible-learning-and-feedback/)  
+   Link: <a href="https://visible-learning.org/2013/02/john-hattie-helen-timperley-visible-learning-and-feedback/" target="_blank" rel="noopener noreferrer nofollow">https://visible-learning.org/2013/02/john-hattie-helen-timperley-visible-learning-and-feedback/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Hattie &amp; Helen Timperley8 Feb 2013 — Hattie and Timperley demonstrate how feedback can be used to enhance teachers effectiveness in...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: publications.aaahq.org  
    Title: Who Are You to Tell Me That The Moderating Effect  
-   Link: [https://publications.aaahq.org/jmar/article/29/2/33/604/Who-Are-You-to-Tell-Me-That-The-Moderating-Effect](https://publications.aaahq.org/jmar/article/29/2/33/604/Who-Are-You-to-Tell-Me-That-The-Moderating-Effect)  
+   Link: <a href="https://publications.aaahq.org/jmar/article/29/2/33/604/Who-Are-You-to-Tell-Me-That-The-Moderating-Effect" target="_blank" rel="noopener noreferrer nofollow">https://publications.aaahq.org/jmar/article/29/2/33/604/Who-Are-You-to-Tell-Me-That-The-Moderating-Effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Moderating Effect...1 Jun 2017 — The effects of feedback interventions on performance: A historical review, a meta-analysis, and a p...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Identity Crisis: Why Defining Yourself by Your Career Is a Problem  
-   Link: [https://www.youtube.com/watch?v=L5lsYI0Q8zw](https://www.youtube.com/watch?v=L5lsYI0Q8zw)  
+   Link: <a href="https://www.youtube.com/watch?v=L5lsYI0Q8zw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L5lsYI0Q8zw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why feedback reduces performance Kluger DeNisi psychology Exponential Talent | Dr Avraham Kluger Feedback What works and new frontiers Hu...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: feedbackfruits.com  
-   Link: [https://feedbackfruits.com/blog/feedback-the-key-to-better-teaching-and-learning](https://feedbackfruits.com/blog/feedback-the-key-to-better-teaching-and-learning)  
+   Link: <a href="https://feedbackfruits.com/blog/feedback-the-key-to-better-teaching-and-learning" target="_blank" rel="noopener noreferrer nofollow">https://feedbackfruits.com/blog/feedback-the-key-to-better-teaching-and-learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d learning, and the mediators for effective feedback...</p></details>

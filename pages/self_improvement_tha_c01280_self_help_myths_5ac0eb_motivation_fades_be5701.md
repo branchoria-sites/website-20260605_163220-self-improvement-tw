@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:00:01'
 parent_title: Which Self Help Promises Should You Doubt? | Better Change
 parent_permalink: /self-help-myths/
 parent_nav_short_title: Self Help Myths
@@ -265,7 +266,6 @@ next_link:
   permalink: /social-pressure/
   short_title: Social Pressure
   heading_title: Is Self Help Really Just Adaptation Advice?
-date: '2026-06-05 15:00:01 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-1.webp
@@ -278,7 +278,7 @@ A familiar pattern runs through much of the self-help industry. You attend a sem
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-1-dark.svg" | relative_url }}" alt="Motivation Highs illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not necessarily mean the event failed or that the participant lacked commitment. The deeper problem is that [motivation]({{ 'motivation/' | relative_url }}) and behaviour are not the same thing. High-energy experiences can create genuine intention, but intention alone rarely produces lasting change. Research on behaviour change repeatedly finds that people often form strong intentions without consistently translating them into action, a phenomenon known as the intention–behaviour gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">PMCby MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/107519/3/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2982 — This analysis revealed that it is people who in...</span></span></span>
+This does not necessarily mean the event failed or that the participant lacked commitment. The deeper problem is that [motivation]({{ 'motivation/' | relative_url }}) and behaviour are not the same thing. High-energy experiences can create genuine intention, but intention alone rarely produces lasting change. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) repeatedly finds that people often form strong intentions without consistently translating them into action, a phenomenon known as the intention–behaviour gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/107519/3/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2982 — This analysis revealed that it is people who in...</span></span></span>
 
 Within the broader mythology of self-help, this matters because many programmes implicitly sell emotional readiness as if it were a complete change system. In reality, motivation is often the spark rather than the engine.
 
@@ -288,7 +288,7 @@ Motivational events are not usually ineffective because they fail to move people
 
 Large seminars, workshops and inspirational talks often combine emotionally charged stories, social reinforcement, public commitments, music, group participation and vivid future-oriented imagery. These elements can temporarily increase confidence, attention and willingness to act. People leave feeling unusually certain that they are about to change.
 
-There is good reason this feels powerful. Motivation is a real psychological force. Emotional arousal can increase perceived possibility, reduce hesitation and create a stronger desire to pursue a goal. Contemporary research on motivation and reward systems suggests that positive emotional states can help initiate behaviour change efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/348891109_Motivation_and_reward_mechanisms_in_health_behavior_change_processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Motivation and reward mechanisms in health behavior</span><span class="citation-popover-snippet">ResearchGateMotivation and reward mechanisms in health behavior...January 29, 2021 — 10 Feb 2021 — In this integrative review, we presen...</span><span class="citation-popover-meta">Published: January 29, 2021</span></span></span>
+There is good reason this feels powerful. Motivation is a real psychological force. Emotional arousal can increase perceived possibility, reduce hesitation and create a stronger desire to pursue a goal. Contemporary research on motivation and reward systems suggests that positive emotional states can help initiate behaviour change efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/348891109_Motivation_and_reward_mechanisms_in_health_behavior_change_processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Motivation and reward mechanisms in health behavior</span><span class="citation-popover-snippet">Motivation and reward mechanisms in health behavior...January 29, 2021 — 10 Feb 2021 — In this integrative review, we presen...</span><span class="citation-popover-meta">Published: January 29, 2021</span></span></span>
 
 The problem is timing. The emotional conditions inside a seminar hall are often very different from the conditions that exist three days later. During the event:
 
@@ -314,7 +314,7 @@ The result is a predictable decline in the emotional intensity that originally f
 
 One of the most persistent self-help myths is that people fail because they were not motivated enough. Behavioural science points to a more complicated picture.
 
-Research on the intention–behaviour gap shows that many people genuinely intend to change and still fail to act consistently. The gap is not primarily explained by a lack of desire. It often emerges because intention must compete with habits, [environmental cues]({{ 'cues-195d40/' | relative_url }}), limited attention and practical obstacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">PMCby MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/107519/3/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2982 — This analysis revealed that it is people who in...</span></span></span>
+Research on the intention–behaviour gap shows that many people genuinely intend to change and still fail to act consistently. The gap is not primarily explained by a lack of desire. It often emerges because intention must compete with habits, environmental cues, limited attention and practical obstacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/107519/3/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2982 — This analysis revealed that it is people who in...</span></span></span>
 
 This distinction helps explain why motivational highs fade so quickly. A seminar can strengthen intention, but intention is only one component of behaviour.
 
@@ -342,7 +342,7 @@ The behavioural explanation asks:
 
 Those questions sound less inspiring, but they are often more predictive of what actually happens.
 
-The self-help industry frequently markets emotional certainty as evidence that change has already begun. Behaviour research suggests that certainty is often only the beginning of the process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">PMCby MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span>
+The self-help industry frequently markets emotional certainty as evidence that change has already begun. Behaviour research suggests that certainty is often only the beginning of the process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-2-dark.svg" | relative_url }}" alt="Motivation Highs illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,7 +354,7 @@ People do not start from a blank slate. They already have routines, schedules, h
 
 For example, a person may leave a seminar determined to read every evening. Yet each evening already contains established cues: television, social media, household tasks, family obligations or simple fatigue. The new intention enters an environment that has been training the old behaviour for months or years.
 
-Research on behaviour maintenance consistently finds that lasting change depends heavily on creating stable routines and habits that reduce dependence on ongoing motivation. Behaviour change interventions often succeed in creating temporary improvement but struggle to maintain results unless the new behaviour becomes integrated into everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">PMCby MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span>
+Research on behaviour maintenance consistently finds that lasting change depends heavily on creating stable routines and habits that reduce dependence on ongoing motivation. Behaviour change interventions often succeed in creating temporary improvement but struggle to maintain results unless the new behaviour becomes integrated into everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span>
 
 This is one reason tiny, repeatable actions often outperform dramatic resolutions. Small actions are easier to repeat under ordinary conditions, including stressful ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[Stanford Graduate School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-title">building habits key lasting behavior change</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</span></span></span>
 
@@ -368,7 +368,7 @@ People naturally experience fluctuations in energy, mood, confidence and attenti
 
 Planning helps because it transfers some of the burden from emotion to structure.
 
-Researchers studying the intention–behaviour gap have repeatedly found that detailed action planning, implementation intentions and self-regulatory strategies help translate intentions into behaviour. Instead of relying on a general desire to improve, people specify when, where and how the action will occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/348891109_Motivation_and_reward_mechanisms_in_health_behavior_change_processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Motivation and reward mechanisms in health behavior</span><span class="citation-popover-snippet">ResearchGateMotivation and reward mechanisms in health behavior...January 29, 2021 — 10 Feb 2021 — In this integrative review, we presen...</span><span class="citation-popover-meta">Published: January 29, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1102164860/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Bridging the intention–behaviour gap: Planning, self-...by FF Sniehotta · Cited by 2066 — Intentions are explicit decisions to act in a...</span></span></span>
+Researchers studying the intention–behaviour gap have repeatedly found that detailed action planning, implementation intentions and self-regulatory strategies help translate intentions into behaviour. Instead of relying on a general desire to improve, people specify when, where and how the action will occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/348891109_Motivation_and_reward_mechanisms_in_health_behavior_change_processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Motivation and reward mechanisms in health behavior</span><span class="citation-popover-snippet">Motivation and reward mechanisms in health behavior...January 29, 2021 — 10 Feb 2021 — In this integrative review, we presen...</span><span class="citation-popover-meta">Published: January 29, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1102164860/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Bridging the intention–behaviour gap: Planning, self-...by FF Sniehotta · Cited by 2066 — Intentions are explicit decisions to act in a...</span></span></span>
 
 A motivational commitment sounds like:
 
@@ -402,7 +402,7 @@ The true value of a self-help event is not how someone feels while attending it.
 
 A useful motivational experience can help people clarify goals, increase optimism and begin taking action. Those benefits are real. The problem arises when the emotional lift is mistaken for durable change itself.
 
-The most reliable behaviour-change theories suggest that maintenance depends on factors such as routines, environmental [support]({{ 'support/' | relative_url }}), prompts, self-regulation and habit formation rather than on permanently elevated motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">PMCby MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 156 — Theory suggests that making...</span></span></span>
+The most reliable behaviour-change theories suggest that maintenance depends on factors such as routines, environmental [support]({{ 'support/' | relative_url }}), prompts, self-regulation and habit formation rather than on permanently elevated motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 156 — Theory suggests that making...</span></span></span>
 
 That is why so many people feel transformed on Sunday and unchanged by the following week. The seminar may have successfully increased motivation, but motivation was never the main challenge. The challenge was building a system capable of functioning after the excitement ended.
 
@@ -498,7 +498,7 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -508,111 +508,36 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Quotes Desk Sign, Motivational Minimalist Decor Art Acrylic Pla..."><img src="{{ '/assets/images/marketplace-covers/080c0764f26aae22ecda.jpg' | relative_url }}" alt="Listing image for Inspirational Quotes Desk Sign, Motivational Minimalist Decor Art Acrylic Pla..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/RngAAeSwppdoomKF/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Inspirational Quotes Desk Sign, Motivational Minimalist Decor Art Acrylic Pla...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Quotes Desk Sign, Motivational Minimalist Decor Art Acrylic Pla..."><img src="{{ '/assets/images/marketplace-covers/6863871dcd25eae19757.jpg' | relative_url }}" alt="Listing image for Inspirational Quotes Desk Sign, Motivational Minimalist Decor Art Acrylic Pla..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Inspirational Quotes Desk Sign, Motivational Minimalist Decor Art Acrylic Pla...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition"><img src="{{ '/assets/images/marketplace-covers/303b92699d768cc2573c.jpg' | relative_url }}" alt="Listing image for Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo"><img src="{{ '/assets/images/marketplace-covers/7edc36771fc3d2eb3a6b.jpg' | relative_url }}" alt="Listing image for Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -620,15 +545,15 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational A4 Framed Print Poster With Frame, Motivational Poster, Inspiration"><img src="https://i.ebayimg.com/images/g/gjYAAeSw-mxqIbTy/s-l225.jpg" alt="Listing image for Motivational A4 Framed Print Poster With Frame, Motivational Poster, Inspiration" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational A4 Framed Print Poster With Frame, Motivational Poster, Inspiration</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -636,15 +561,15 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspirational Wall Art Print for Home Office Decor"><img src="https://i.ebayimg.com/images/g/XXwAAeSwVTRozDsH/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspirational Wall Art Print for Home Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspirational Wall Art Print for Home Office Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -652,15 +577,15 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INSPIRATIONAL Posters Motivational Prints - A4 A3 A2 Poster - Wall Home Decor"><img src="https://i.ebayimg.com/images/g/Z~gAAOSwSGNeSxom/s-l225.jpg" alt="Listing image for INSPIRATIONAL Posters Motivational Prints - A4 A3 A2 Poster - Wall Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">INSPIRATIONAL Posters Motivational Prints - A4 A3 A2 Poster - Wall Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -668,7 +593,7 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motivation-highs-why-motivation-fades-by-tuesday-afternoon-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -745,17 +670,31 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -768,42 +707,73 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -818,166 +788,170 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Motivation and reward mechanisms in health behavior  
-   Link: [https://www.researchgate.net/publication/348891109_Motivation_and_reward_mechanisms_in_health_behavior_change_processes](https://www.researchgate.net/publication/348891109_Motivation_and_reward_mechanisms_in_health_behavior_change_processes)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateMotivation and reward mechanisms in health behavior...January 29, 2021 — 10 Feb 2021 — In this integrative review, we presen...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/348891109_Motivation_and_reward_mechanisms_in_health_behavior_change_processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348891109_Motivation_and_reward_mechanisms_in_health_behavior_change_processes</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivation and reward mechanisms in health behavior...January 29, 2021 — 10 Feb 2021 — In this integrative review, we presen...</p></details>
    Published: January 29, 2021  
 
 2. <a id="endnote-2"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Bridging the Intention-Behaviour Gap: Planning, Self  
-   Link: [https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise](https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise)  
+   Link: <a href="https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233052718_Bridging_the_Intention-Behaviour_Gap_Planning_Self-Efficacy_and_Action_Control_in_the_Adoption_and_Maintenance_of_Physical_Exercise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Bridging the Intention-Behaviour Gap: Planning, Self...April 1, 2005 — Detailed action planning, perceived self-effica...</p></details>
    Published: April 1, 2005  
 
 5. <a id="endnote-5"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1102164860/34](https://d-nb.info/1102164860/34)  
+   Link: <a href="https://d-nb.info/1102164860/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1102164860/34</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the intention–behaviour gap: Planning, self-...by FF Sniehotta · Cited by 2066 — Intentions are explicit decisions to act in a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Why We Don't “Just Do It”: Understanding the Intention  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/107519/3/The](https://eprints.whiterose.ac.uk/id/eprint/107519/3/The)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/107519/3/The" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/107519/3/The</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2982 — This analysis revealed that it is people who in...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Background: Behaviour change interventions are effective in supporting individuals in achieving temporary behaviour change.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 156 — Theory suggests that making...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/](https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/)  
+   Link: <a href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: drpaulmccarthy.com  
    Title: tiny habits the breakthrough method for building life changing behaviors  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...10 Feb 2026 — Use the B=MAP formula: Every behavior needs Motivation, Ability...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: B J Fogg  
-   Link: [https://www.youtube.com/watch?v=l3KNiPHhB9s](https://www.youtube.com/watch?v=l3KNiPHhB9s)  
+   Link: <a href="https://www.youtube.com/watch?v=l3KNiPHhB9s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l3KNiPHhB9s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg - How To Think Clearly About Behavior Change...Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont &amp;middot; Rory...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nehrlich.com  
    Title: tiny habits by bj fogg  
-   Link: [https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/](https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/)  
+   Link: <a href="https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits, by BJ Fogg3 Mar 2020 — Fogg suggests troubleshooting first the prompt, then ability, then motivation. If the prompt isn&#x27;t cl...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/episode-71-bj-fogg-phd-behavioural-doyen-author-tiny-nouye](https://www.linkedin.com/pulse/episode-71-bj-fogg-phd-behavioural-doyen-author-tiny-nouye)  
+   Link: <a href="https://www.linkedin.com/pulse/episode-71-bj-fogg-phd-behavioural-doyen-author-tiny-nouye" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/episode-71-bj-fogg-phd-behavioural-doyen-author-tiny-nouye</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg PhD, behavioural expert and author of Tiny Habits...BJ explains the Fogg Behaviour Model, the coming together of motivation, abi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: rsisinternational.org  
-   Link: [https://rsisinternational.org/journals/ijriss/articles/bridging-intention-behavior-gap-through-implementation-intention-conceptual-insight/](https://rsisinternational.org/journals/ijriss/articles/bridging-intention-behavior-gap-through-implementation-intention-conceptual-insight/)  
+   Link: <a href="https://rsisinternational.org/journals/ijriss/articles/bridging-intention-behavior-gap-through-implementation-intention-conceptual-insight/" target="_blank" rel="noopener noreferrer nofollow">https://rsisinternational.org/journals/ijriss/articles/bridging-intention-behavior-gap-through-implementation-intention-conceptual-insight/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging Intention-Behavior Gap through Implementation...And this study explains how entrepreneurs can use implementation intention to c...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: realsimple.com  
-   Link: [https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking](https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking)  
+   Link: <a href="https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This technique capitalizes on the brain&#x27;s established neural pathways, making new habits easier to adopt by tying them to familiar routin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bluerhoon.nl  
-   Link: [https://bluerhoon.nl/wp-content/uploads/2023/04/Situating-interventions-to-bridge-the-intention-behaviour-gap-A-framework-for.pdf](https://bluerhoon.nl/wp-content/uploads/2023/04/Situating-interventions-to-bridge-the-intention-behaviour-gap-A-framework-for.pdf)  
+   Link: <a href="https://bluerhoon.nl/wp-content/uploads/2023/04/Situating-interventions-to-bridge-the-intention-behaviour-gap-A-framework-for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bluerhoon.nl/wp-content/uploads/2023/04/Situating-interventions-to-bridge-the-intention-behaviour-gap-A-framework-for.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Situating interventions to bridge the intention–behaviour gapby EK Papies · 2017 · Cited by 127 — This paper presents a situated cognitio...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...There&#x27;s Motivation to do the behavior, Ability to do the behavior, and a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: lifeintelligence.io  
    Title: breaking habits psychology of lasting behavior change  
-   Link: [https://www.lifeintelligence.io/blog/breaking-habits-psychology-of-lasting-behavior-change](https://www.lifeintelligence.io/blog/breaking-habits-psychology-of-lasting-behavior-change)  
+   Link: <a href="https://www.lifeintelligence.io/blog/breaking-habits-psychology-of-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.lifeintelligence.io/blog/breaking-habits-psychology-of-lasting-behavior-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Habits: Psychology of Lasting Behavior Change6 Mar 2021 — In both personal and professional realms, we often experience desires...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sweetinstitute.com  
    Title: [social support](&#123;&#123; 'social-support/' | relative_url &#125;&#125;) and behavioral change and motivation  
-   Link: [https://sweetinstitute.com/social-support-and-behavioral-change-and-motivation/](https://sweetinstitute.com/social-support-and-behavioral-change-and-motivation/)  
+   Link: <a href="https://sweetinstitute.com/social-support-and-behavioral-change-and-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://sweetinstitute.com/social-support-and-behavioral-change-and-motivation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — Social support is a vital component of the behavior change process, significantly influencing motivation and engagement.Rea...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dexterzhuang.com  
    Title: the ultimate guide to lasting behavior change  
-   Link: [https://www.dexterzhuang.com/2019/09/18/the-ultimate-guide-to-lasting-behavior-change/](https://www.dexterzhuang.com/2019/09/18/the-ultimate-guide-to-lasting-behavior-change/)  
+   Link: <a href="https://www.dexterzhuang.com/2019/09/18/the-ultimate-guide-to-lasting-behavior-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.dexterzhuang.com/2019/09/18/the-ultimate-guide-to-lasting-behavior-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2019 — In this evidence-based guide, I want to show you that changing behavior —whether it&#x27;s related to your career, wellness, or...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ui-patterns.com  
    Title: making the fogg behavior model actionable  
-   Link: [https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable](https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable)  
+   Link: <a href="https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable" target="_blank" rel="noopener noreferrer nofollow">https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Apr 2019 — Fogg suggests three things need to converge at the same moment in time for behavior to happen: Motivation, Ability, and a Pr...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: behaviourworksaustralia.org  
-   Link: [https://www.behaviourworksaustralia.org/blog/the-intention-behaviour-gap-what-is-it-and-how-can-you-avoid-it](https://www.behaviourworksaustralia.org/blog/the-intention-behaviour-gap-what-is-it-and-how-can-you-avoid-it)  
+   Link: <a href="https://www.behaviourworksaustralia.org/blog/the-intention-behaviour-gap-what-is-it-and-how-can-you-avoid-it" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourworksaustralia.org/blog/the-intention-behaviour-gap-what-is-it-and-how-can-you-avoid-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>when people don&#x27;t do what they want to do, basically.Read more...</p></details>

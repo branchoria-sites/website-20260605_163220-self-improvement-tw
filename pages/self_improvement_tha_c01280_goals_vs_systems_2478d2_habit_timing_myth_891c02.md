@@ -304,7 +304,7 @@ This explains why two people can perform the same behaviour for the same number 
 * How rewarding or enjoyable the activity feels.
 * The [frequency]({{ 'frequency/' | relative_url }}) of opportunities to repeat it. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">how long does it really take to form a habit</span><span class="citation-popover-snippet">?24 Jan 2024 — A hallmark 2009 study on habit creation found that habits developed in a range of 18 to 254 days; participants reported ta...</span></span></span>
 
-More recent reviews reinforce this conclusion. A 2024 systematic review found that estimates of habit-formation time vary substantially across studies, with reported medians often around 59–66 days but average values extending beyond 100 days in some contexts. The central finding is not a universal timeline but substantial variation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 88 — Four studies reported the median or m...</span></span></span>
+More recent reviews reinforce this conclusion. A 2024 systematic review found that estimates of habit-formation time vary substantially across studies, with reported medians often around 59–66 days but average values extending beyond 100 days in some contexts. The central finding is not a universal timeline but substantial variation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 88 — Four studies reported the median or m...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_habit_timing_myth_891c02-Illustration-2-dark.svg" | relative_url }}" alt="The Idea That A Habit Forms After A Fixed Number Of Days illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_habit_timing_myth_891c02-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_habit_timing_myth_891c02-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -345,7 +345,7 @@ The broader lesson for self-improvement is that systems should be built around r
 
 The history of habit advice shows a recurring pattern. A complex behavioural finding becomes a simple number. First it was 21 days. Then it was 66 days. Both numbers are remembered because they are easy; the underlying evidence is forgotten because it is more complicated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aftertone.io">[aftertone.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aftertone.io</span><span class="citation-popover-title">Missing a single day has no meaningful</span><span class="citation-popover-snippet">Habit Formation: It Takes 66 Days, Not 21 - AftertoneThe median time for a new behaviour to become automatic is 66 days, ranging from 18...</span></span></span>
 
-What the research actually suggests is that habits do not obey a countdown. Automaticity emerges gradually through repeated behaviour in a stable context, and the timeline can differ dramatically from one behaviour or person to another. The most effective systems therefore focus on making the next repetition likely, not on reaching a predetermined day on the calendar. When habit formation is viewed as a process of accumulating repetitions rather than surviving a countdown, missed days become less threatening and long-term consistency becomes easier to sustain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3454 — Three examples of incr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Lally P, van Jaarsveld CHM, Potts HWW, Wardle J. How are habits formed</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 847 — More relevant research found t...</span></span></span>
+What the research actually suggests is that habits do not obey a countdown. Automaticity emerges gradually through repeated behaviour in a stable context, and the timeline can differ dramatically from one behaviour or person to another. The most effective systems therefore focus on making the next repetition likely, not on reaching a predetermined day on the calendar. When habit formation is viewed as a process of accumulating repetitions rather than surviving a countdown, missed days become less threatening and long-term consistency becomes easier to sustain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3454 — Three examples of incr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Lally P, van Jaarsveld CHM, Potts HWW, Wardle J. How are habits formed</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 847 — More relevant research found t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gqWSE--sT9o" title="Your 2026 English Resolution Will FAIL (Unless You Do THIS!) | Atomic Habits Method | A1-A2 Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gqWSE--sT9o" target="_blank" rel="noopener noreferrer">Your 2026 English Resolution Will FAIL (Unless You Do THIS!) | Atomic Habits Method | A1-A2 Podcast</a></p><p class="youtube-embed-meta">Channel: English Flow: The Podcast &middot; Views: 1.6K &middot; Uploaded: January 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gqWSE--sT9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gqWSE--sT9o">Open on YouTube</a></p></div></div></div>
@@ -681,116 +681,116 @@ What the research actually suggests is that habits do not obey a countdown. Auto
 
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3454 — Three examples of incr...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aftertone.io  
    Title: Missing a single day has no meaningful  
-   Link: [https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21](https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21)  
+   Link: <a href="https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21" target="_blank" rel="noopener noreferrer nofollow">https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: It Takes 66 Days, Not 21 - AftertoneThe median time for a new behaviour to become automatic is 66 days, ranging from 18...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 88 — Four studies reported the median or m...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 88 — Four studies reported the median or m...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Lally P, van Jaarsveld CHM, Potts HWW, Wardle J. How are habits formed  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 847 — More relevant research found t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 847 — More relevant research found t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: melaniejwhite.com  
    Title: E#209 How Long Does It Take to Form a Habit?  
-   Link: [https://melaniejwhite.com/how-long-form-habit/](https://melaniejwhite.com/how-long-form-habit/)  
+   Link: <a href="https://melaniejwhite.com/how-long-form-habit/" target="_blank" rel="noopener noreferrer nofollow">https://melaniejwhite.com/how-long-form-habit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melanie WhiteThe time it took to form the habit and for it to become largely automatic was 18 – 254 days, with an average of 66 days (9.5...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3454 — To investigate the process of habit formation...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: surrey.ac.uk  
    Title: does it really take 66 days form habit we asked expert dr pippa lally  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyDoes it really take 66 days to form a habit?Jan 21, 2026 — The average time it took for the participants in my study...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scientificamerican.com  
    Title: how long does it really take to form a habit  
-   Link: [https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/](https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/)  
+   Link: <a href="https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/how-long-does-it-really-take-to-form-a-habit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>?24 Jan 2024 — A hallmark 2009 study on habit creation found that habits developed in a range of 18 to 254 days; participants reported ta...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: peterhbrownpsych.com  
-   Link: [https://peterhbrownpsych.com/2009/10/08/it-takes-how-long-to-form-a-habit-research-shows-a-curved-relationship-between-practice-and-automaticity/](https://peterhbrownpsych.com/2009/10/08/it-takes-how-long-to-form-a-habit-research-shows-a-curved-relationship-between-practice-and-automaticity/)  
+   Link: <a href="https://peterhbrownpsych.com/2009/10/08/it-takes-how-long-to-form-a-habit-research-shows-a-curved-relationship-between-practice-and-automaticity/" target="_blank" rel="noopener noreferrer nofollow">https://peterhbrownpsych.com/2009/10/08/it-takes-how-long-to-form-a-habit-research-shows-a-curved-relationship-between-practice-and-automaticity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peter H Brown Clinical PsychologistIt Takes HOW Long to Form a Habit?: Research Shows a...Oct 8, 2009 — Although the average was 66 days...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Automaticity](https://en.wikipedia.org/wiki/Automaticity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Automaticity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automaticity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automaticity - WikipediaHabit Formation: It Takes 66 Days, Not 21 - Aftertone...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/lally](https://www.vocabulary.com/dictionary/lally)  
+   Link: <a href="https://www.vocabulary.com/dictionary/lally" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, [Meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Synonymssupport column consisting of a steel cylinder filled with concrete. synonyms: lally column. see moresee les...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: loggd.life  
-   Link: [https://loggd.life/tools/habit-formation-calculator](https://loggd.life/tools/habit-formation-calculator)  
+   Link: <a href="https://loggd.life/tools/habit-formation-calculator" target="_blank" rel="noopener noreferrer nofollow">https://loggd.life/tools/habit-formation-calculator</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Long to Form a Habit? 66-Day CalculatorBased on Phillippa Lally&#x27;s UCL study: calculate your personal habit timeline (18-254 days). En...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/Lally](https://www.merriam-webster.com/dictionary/Lally)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/Lally" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/Lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LALLY Definition &amp; MeaningThe meaning of LALLY is a concrete-filled cylindrical steel structural column —formerly a U.S. registered trade...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/](https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/)  
+   Link: <a href="https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/01/26/lifestyle/the-length-of-time-it-takes-to-make-a-new-habit-stick-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Their study, published in the journal Healthcare, analyzed data from over 2,500 participants across 20 studies. While some individuals fo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mentalzon.com  
    Title: 66 days to build a new habit why it’s not a myth but real habit psychology  
-   Link: [https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology](https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology)  
+   Link: <a href="https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology" target="_blank" rel="noopener noreferrer nofollow">https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>66 Days to Build a New Habit: Why It&#x27;s Not a Myth, But Real...Nov 1, 2025 — In 2009, a team of European psychologists led by Phillippa L...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: jamesclear.com  
    Title: James Clear How Long Does it Take to Form a Habit?  
-   Link: [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit)  
+   Link: <a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Backed by Science.On average, it takes more than 2 months before a new behavior becomes automatic — 66 days to be exact. And how long it...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: getmotivated.ai  
    Title: how are habits formed modelling habit formation in the real world 6eadadb6  
-   Link: [https://getmotivated.ai/sources/how-are-habits-formed-modelling-habit-formation-in-the-real-world-6eadadb6](https://getmotivated.ai/sources/how-are-habits-formed-modelling-habit-formation-in-the-real-world-6eadadb6)  
+   Link: <a href="https://getmotivated.ai/sources/how-are-habits-formed-modelling-habit-formation-in-the-real-world-6eadadb6" target="_blank" rel="noopener noreferrer nofollow">https://getmotivated.ai/sources/how-are-habits-formed-modelling-habit-formation-in-the-real-world-6eadadb6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2009 UCL study by Phillippa Lally found the real range is 18 to 254 days, depending on...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bulletproofmusician.com  
    Title: how long does it really take to form a new habit  
-   Link: [https://bulletproofmusician.com/how-long-does-it-really-take-to-form-a-new-habit/](https://bulletproofmusician.com/how-long-does-it-really-take-to-form-a-new-habit/)  
+   Link: <a href="https://bulletproofmusician.com/how-long-does-it-really-take-to-form-a-new-habit/" target="_blank" rel="noopener noreferrer nofollow">https://bulletproofmusician.com/how-long-does-it-really-take-to-form-a-new-habit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?Nov 24, 2019 — On average, it took about 66 days for the participants&#x27; new behaviors to become a habit (ie for their habit strength scor...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: studocu.vn  
-   Link: [https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686](https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686)  
+   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>consistent behavior repetition leads to increased automaticity over time...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eated.io  
-   Link: [https://eated.io/blog/how-long-does-it-take-to-build-a-healthy-eating-habit](https://eated.io/blog/how-long-does-it-take-to-build-a-healthy-eating-habit)  
+   Link: <a href="https://eated.io/blog/how-long-does-it-take-to-build-a-healthy-eating-habit" target="_blank" rel="noopener noreferrer nofollow">https://eated.io/blog/how-long-does-it-take-to-build-a-healthy-eating-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>w habit takes anywhere from 18 to 254 days, with an average of 66 days...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d](https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d)  
+   Link: <a href="https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is sample was 66 days, but the range was from 18 to 254 days.Read more...</p></details>

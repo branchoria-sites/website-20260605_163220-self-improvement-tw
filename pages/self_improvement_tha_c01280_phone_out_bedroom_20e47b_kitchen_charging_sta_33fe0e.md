@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:42:03'
 parent_title: Why the Phone Belongs Outside the Bedroom | Better Change
 parent_permalink: /bedroom-phone/
 parent_nav_short_title: Bedroom Phone
@@ -265,7 +266,6 @@ next_link:
   permalink: /checking-loop/
   short_title: Checking Loop
   heading_title: Why the Bedside Phone Keeps Winning
-date: '2026-06-05 15:42:03 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e-Illustration-1.webp
@@ -278,7 +278,7 @@ A phone-free bedroom becomes much easier when the phone has somewhere else to li
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e-Illustration-1-dark.svg" | relative_url }}" alt="Charging Spot illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The value of a kitchen charging spot is not that kitchens are special. It is that a fixed charging location outside the bedroom removes the device before bedtime negotiations begin. Instead of repeatedly deciding whether to scroll, check messages or look at notifications, the decision is made once: the phone goes on charge in its designated place. Research on bedtime phone restriction suggests that reducing phone use before sleep can improve sleep quality, increase sleep duration and reduce the mental activation that often delays sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedEffect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span>
+The value of a kitchen charging spot is not that kitchens are special. It is that a fixed charging location outside the bedroom removes the device before bedtime negotiations begin. Instead of repeatedly deciding whether to scroll, check messages or look at notifications, the decision is made once: the phone goes on charge in its designated place. Research on bedtime phone restriction suggests that reducing phone use before sleep can improve sleep quality, increase sleep duration and reduce the mental activation that often delays sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span>
 
 ## Where Should Your Phone Sleep?
 
@@ -312,7 +312,7 @@ The distinction matters because bedtime phone use is often driven by convenience
 
 Behavioural scientists sometimes call this friction. A small increase in effort can produce a large reduction in an unwanted habit because it interrupts automatic behaviour.
 
-This matters because evidence increasingly suggests that the issue is not only screen light. Studies have found that smartphone use in bed is associated with longer sleep latency, more awake time and measurable physiological changes such as higher average heart rate and altered heart-rate variability. The phone functions as a source of stimulation, attention and cognitive activity, not merely illumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Effect of restricting bedtime mobile phone use on sleep</span><span class="citation-popover-snippet">PMCby J He · 2020 · Cited by 146 — This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sl...</span></span></span> PubMed A kitchen charging station creates a practical barrier against exactly those late-night interactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedEffect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span>
+This matters because evidence increasingly suggests that the issue is not only screen light. Studies have found that smartphone use in bed is associated with longer sleep latency, more awake time and measurable physiological changes such as higher average heart rate and altered heart-rate variability. The phone functions as a source of stimulation, attention and cognitive activity, not merely illumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Effect of restricting bedtime mobile phone use on sleep</span><span class="citation-popover-snippet">by J He · 2020 · Cited by 146 — This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sl...</span></span></span> PubMed A kitchen charging station creates a practical barrier against exactly those late-night interactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span>
 
 ## How to Make the Charging Habit Automatic
 
@@ -459,7 +459,7 @@ Repeated exceptions quietly turn the old behaviour back into the default.
 
 The kitchen charging station is not a productivity hack and it is not a test of [willpower]({{ 'willpower/' | relative_url }}). Its value comes from creating a visible boundary between daytime connectivity and nighttime recovery.
 
-Research on bedtime phone restriction consistently suggests benefits for sleep quality, sleep duration and pre-sleep arousal, while studies of in-bed smartphone use point to measurable sleep disruption. At the same time, some recent research argues that stimulating content and habitual engagement may matter more than screen light alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedEffect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone use can i...</span></span></span>
+Research on bedtime phone restriction consistently suggests benefits for sleep quality, sleep duration and pre-sleep arousal, while studies of in-bed smartphone use point to measurable sleep disruption. At the same time, some recent research argues that stimulating content and habitual engagement may matter more than screen light alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone use can i...</span></span></span>
 
 That distinction makes the kitchen charging station especially practical. It does not require winning a debate about blue light, notifications or social media. It simply removes the phone from the place where sleep is supposed to happen, making the desired behaviour easier than the alternative.
 
@@ -549,121 +549,46 @@ That distinction makes the kitchen charging station especially practical. It doe
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120W 4-Port USB C Fast Wall Charger Block For All Cell Phone iPad lot"><img src="{{ '/assets/images/marketplace-covers/58b5e4998dfc6dd03851.jpg' | relative_url }}" alt="Listing image for 120W 4-Port USB C Fast Wall Charger Block For All Cell Phone iPad lot" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Noise Sound Machine with 40 Sounds Therapy Rain Fan for Yoga Sleeping Aid"><img src="https://i.ebayimg.com/images/g/ucwAAeSwoiNocMA3/s-l225.jpg" alt="Listing image for White Noise Sound Machine with 40 Sounds Therapy Rain Fan for Yoga Sleeping Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">120W 4-Port USB C Fast Wall Charger Block For All Cell Phone iPad lot</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">White Noise Sound Machine with 40 Sounds Therapy Rain Fan for Yoga Sleeping Aid</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for charging station">Search <span data-ebay-domain-label>eBay.com</span>: charging station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120W 4-Port USB C Fast Wall Charger Block All Cell Phone 16 15 13 11 X iPad lot"><img src="{{ '/assets/images/marketplace-covers/b34636d319d5e7d972cd.jpg' | relative_url }}" alt="Listing image for 120W 4-Port USB C Fast Wall Charger Block All Cell Phone 16 15 13 11 X iPad lot" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">120W 4-Port USB C Fast Wall Charger Block All Cell Phone 16 15 13 11 X iPad lot</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for charging station">Search <span data-ebay-domain-label>eBay.com</span>: charging station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 in 1 Updated USB C Fast Charger 160W GaN 7 Port Type C Charging Station Hub US"><img src="{{ '/assets/images/marketplace-covers/43d1f059055e711386eb.jpg' | relative_url }}" alt="Listing image for 7 in 1 Updated USB C Fast Charger 160W GaN 7 Port Type C Charging Station Hub US" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 in 1 Updated USB C Fast Charger 160W GaN 7 Port Type C Charging Station Hub US</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for charging station">Search <span data-ebay-domain-label>eBay.com</span>: charging station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Multi 12 Port USB Charging Station Hub Desktop Wall Cell Phone Charger Organizer"><img src="{{ '/assets/images/marketplace-covers/1727cf47b795f6efce18.jpg' | relative_url }}" alt="Listing image for Multi 12 Port USB Charging Station Hub Desktop Wall Cell Phone Charger Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Multi 12 Port USB Charging Station Hub Desktop Wall Cell Phone Charger Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for charging station">Search <span data-ebay-domain-label>eBay.com</span>: charging station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-charging-station&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Car Dashboard Cable Clip USB Wire Holder Self-Adhesive Desk Organizer UK"><img src="{{ '/assets/images/marketplace-covers/ffda581ed09089ad0ad0.jpg' | relative_url }}" alt="Listing image for Car Dashboard Cable Clip USB Wire Holder Self-Adhesive Desk Organizer UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Car Dashboard Cable Clip USB Wire Holder Self-Adhesive Desk Organizer UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cable organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: cable organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -671,15 +596,15 @@ That distinction makes the kitchen charging station especially practical. It doe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reusable Silicone Cable Ties Wire Organizer Cord Holder Wrap Straps Clips"><img src="{{ '/assets/images/marketplace-covers/412ed4518d3059eb7e6f.jpg' | relative_url }}" alt="Listing image for Reusable Silicone Cable Ties Wire Organizer Cord Holder Wrap Straps Clips" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Noise Sound Machine Sleep Machine Sleep Aid Mini Soothing Sounds White"><img src="https://i.ebayimg.com/images/g/SeQAAeSwPC5qIk0K/s-l225.jpg" alt="Listing image for White Noise Sound Machine Sleep Machine Sleep Aid Mini Soothing Sounds White" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Reusable Silicone Cable Ties Wire Organizer Cord Holder Wrap Straps Clips</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">White Noise Sound Machine Sleep Machine Sleep Aid Mini Soothing Sounds White</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cable organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: cable organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -687,15 +612,15 @@ That distinction makes the kitchen charging station especially practical. It doe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5/10/20/30/40/50 Cable Clips Tidy Cord Lead Organiser USB Charger Holder Drop"><img src="{{ '/assets/images/marketplace-covers/80c1ba2f1f5b9e8e76b4.jpg' | relative_url }}" alt="Listing image for 5/10/20/30/40/50 Cable Clips Tidy Cord Lead Organiser USB Charger Holder Drop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dreamegg Nite 1 Baby Sound Machine Sleep Trainer Night Light White Noise MBZ228"><img src="https://i.ebayimg.com/images/g/urMAAeSwUC1qHVB7/s-l225.jpg" alt="Listing image for Dreamegg Nite 1 Baby Sound Machine Sleep Trainer Night Light White Noise MBZ228" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">5/10/20/30/40/50 Cable Clips Tidy Cord Lead Organiser USB Charger Holder Drop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Dreamegg Nite 1 Baby Sound Machine Sleep Trainer Night Light White Noise MBZ228</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cable organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: cable organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -703,15 +628,15 @@ That distinction makes the kitchen charging station especially practical. It doe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cable Holder Magnetic Cable Wire Clip Tidy Cord Lead Organizer USB Charger UK GB"><img src="{{ '/assets/images/marketplace-covers/87aeafe10ac16aa7a554.jpg' | relative_url }}" alt="Listing image for Cable Holder Magnetic Cable Wire Clip Tidy Cord Lead Organizer USB Charger UK GB" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Noise Sound Machine Smart White Noise Machine Sleep Aid Intelligent Sleep"><img src="https://i.ebayimg.com/images/g/JyEAAeSwUmJqIks2/s-l225.jpg" alt="Listing image for White Noise Sound Machine Smart White Noise Machine Sleep Aid Intelligent Sleep" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cable Holder Magnetic Cable Wire Clip Tidy Cord Lead Organizer USB Charger UK GB</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">White Noise Sound Machine Smart White Noise Machine Sleep Aid Intelligent Sleep</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cable organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: cable organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -719,7 +644,7 @@ That distinction makes the kitchen charging station especially practical. It doe
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cable+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charging-spot-where-should-your-phone-sleep-self-improvement-that-works-cable-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="where-should-your-phone-sleep-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -796,17 +721,31 @@ That distinction makes the kitchen charging station especially practical. It doe
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -819,42 +758,73 @@ That distinction makes the kitchen charging station especially practical. It doe
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -869,166 +839,170 @@ That distinction makes the kitchen charging station especially practical. It doe
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204](https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone use can i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/7335087/doom-scroll-phone-night-melatonin/](https://time.com/7335087/doom-scroll-phone-night-melatonin/)  
+   Link: <a href="https://time.com/7335087/doom-scroll-phone-night-melatonin/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7335087/doom-scroll-phone-night-melatonin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveying over 1,000 Canadian adults, researchers found that overall sleep health was similar between nightly screen users and non-users...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: techtimes.com  
-   Link: [https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm](https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm)  
+   Link: <a href="https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Rings 2026: Sleep Tracking, HRV Analysis &amp; Fitness Metrics...February 2, 2026 — Research shows the Oura Ring achieves 85% accuracy...</p></details>
    Published: February 2, 2026  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219](https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can limiting bedtime smartphone use improve next-day...by Z Tu · 2023 · Cited by 6 — The results generally supported our hypothesis, hig...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413](https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty --Sleep App Survey -- 1by TJ Doty · 2023 · Cited by 9 — Key Points. •. Most sleep apps available to consumers are designed to enhanc...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: Poor sleep has been linked to a rang  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1438887125002079](https://www.sciencedirect.com/org/science/article/pii/S1438887125002079)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887125002079" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887125002079</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Mobile Phone Usage on Sleep Quality Among...by JS Izquierdo-Condoy · 2025 · Cited by 29 — Prolonged screen exposure and late-n...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1087079224000376](https://www.sciencedirect.com/science/article/pii/S1087079224000376)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1087079224000376" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1087079224000376</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A bidirectional model of sleep and technology useby S Bauducco · 2024 · Cited by 99 — Social media use did not alter heart rate nor heart...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32040492/](https://pubmed.ncbi.nlm.nih.gov/32040492/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedEffect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32040492/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Effect of restricting bedtime mobile phone use on sleep  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J He · 2020 · Cited by 146 — This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sl...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J He · 2020 · Cited by 146 — This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sleepfoundation.org  
    Title: Sleep Foundation Technology in the Bedroom  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom](https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationTechnology in the BedroomNovember 4, 2020 — 11 Jul 2025 — As best as possible, avoid using electronics for an hour or mor...</p></details>
    Published: November 4, 2020  
 
 11. <a id="endnote-11"></a>
    Source: sleepeducation.org  
    Title: screen time and sleep what new studies reveal  
-   Link: [https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/](https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/)  
+   Link: <a href="https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/" target="_blank" rel="noopener noreferrer nofollow">https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Screen time and sleep: What new studies reveal22 Sept 2025 — Turn off devices early. Power down electronics at least 30 to 60 minutes bef...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36405389/](https://pubmed.ncbi.nlm.nih.gov/36405389/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36405389/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36405389/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of smartphone use effect on sleep...Our findings indicate that smartphone use in bed has significant adverse effects on sleep l...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb](https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb)  
+   Link: <a href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: It warrants continued scholarly attention as  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26688552/](https://pubmed.ncbi.nlm.nih.gov/26688552/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26688552/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26688552/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mobile phone use and sleep in adultsby L Exelmans · 2016 · Cited by 692 — Conclusion: Findings suggest that bedtime mobile phone use is n...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 72 — This large study strengthens the limited...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9823534/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9823534/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9823534/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9823534/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govWearable-Measured Sleep and Resting Heart Rate Variability as an...This study explores whether wearable-measured sleep and restin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sleepfoundation.org  
    Title: how electronics affect sleep  
-   Link: [https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep](https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jul 2025 — Studies have shown these devices can interfere with sleep by suppressing the production of melatonin.Read more...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial](https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial)  
+   Link: <a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Restricting mobile phone use close to bedtime reduced sleep late...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality](https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality)  
+   Link: <a href="https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “Leave your smartphone out of bed”: quantitative...9 Nov 2022 — Our findings indicate that smartphone use in bed has significant a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384696146_Restriction_of_Mobile_Phone_Usage_at_Bed_Time_Effect_on_Sleep_Quality_Mood_and_Cognitive_Function](https://www.researchgate.net/publication/384696146_Restriction_of_Mobile_Phone_Usage_at_Bed_Time_Effect_on_Sleep_Quality_Mood_and_Cognitive_Function)  
+   Link: <a href="https://www.researchgate.net/publication/384696146_Restriction_of_Mobile_Phone_Usage_at_Bed_Time_Effect_on_Sleep_Quality_Mood_and_Cognitive_Function" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384696146_Restriction_of_Mobile_Phone_Usage_at_Bed_Time_Effect_on_Sleep_Quality_Mood_and_Cognitive_Function</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Restriction of Mobile Phone Usage at Bed Time1 Oct 2024 — This study aimed to evaluate whether restricting mobile phone use at bedt...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sleephealthfoundation.org.au  
-   Link: [https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep](https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep)  
+   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepThis is a fact sheet about Technology and Sleep. The use of tech in the evenings &amp; before bed may delay bedtime &amp; int...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pure.uva.nl  
-   Link: [https://pure.uva.nl/ws/files/228870909/Beyond_screentime.pdf](https://pure.uva.nl/ws/files/228870909/Beyond_screentime.pdf)  
+   Link: <a href="https://pure.uva.nl/ws/files/228870909/Beyond_screentime.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/228870909/Beyond_screentime.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>screentimeThe current study addressed these limitations by conducting a seven-day study assessing smartphone use and sleep with a combina...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/in](https://www.collinsdictionary.com/dictionary/english/in)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/in" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/in</a>  
 
 25. <a id="endnote-25"></a>
    Source: centralive.health  
-   Link: [https://centralive.health/publication/](https://centralive.health/publication/)  
+   Link: <a href="https://centralive.health/publication/" target="_blank" rel="noopener noreferrer nofollow">https://centralive.health/publication/</a>  
 
 26. <a id="endnote-26"></a>
    Source: cureus.com  
-   Link: [https://www.cureus.com/articles/313319-impact-of-smartphone-usage-on-sleep-in-adolescents-a-clinically-oriented-review](https://www.cureus.com/articles/313319-impact-of-smartphone-usage-on-sleep-in-adolescents-a-clinically-oriented-review)  
+   Link: <a href="https://www.cureus.com/articles/313319-impact-of-smartphone-usage-on-sleep-in-adolescents-a-clinically-oriented-review" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/313319-impact-of-smartphone-usage-on-sleep-in-adolescents-a-clinically-oriented-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Smartphone Usage on Sleep in Adolescents5 Jan 2025 — In particular, bedtime smartphone use is predictive of later rising time...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: wareable.com  
    Title: Oura Ring study reveals how sleep quality affects cognitive  
-   Link: [https://www.wareable.com/health-and-wellbeing/oura-ring-study-reveals-sleep-quality-cognitive-performance-link](https://www.wareable.com/health-and-wellbeing/oura-ring-study-reveals-sleep-quality-cognitive-performance-link)  
+   Link: <a href="https://www.wareable.com/health-and-wellbeing/oura-ring-study-reveals-sleep-quality-cognitive-performance-link" target="_blank" rel="noopener noreferrer nofollow">https://www.wareable.com/health-and-wellbeing/oura-ring-study-reveals-sleep-quality-cognitive-performance-link</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2025 — A newly published study harnessing data from the Oura Ring has shown the impact of sleep quality on cognitive performance...</p></details>
    Published: January 31, 2025  
 
 28. <a id="endnote-28"></a>
    Source: health.clevelandclinic.org  
-   Link: [https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit](https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit)  
+   Link: <a href="https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland Clinic3 Reasons to Ditch Your Phone Before Bed20 May 2022 — Generally, however, tucking your devices away for the night an hour...</p></details>
    Published: May 2022  

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:50:55'
 parent_title: How Coffee Can Trigger the First Work Task | Better Change
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
@@ -259,7 +260,6 @@ next_link:
   permalink: /cue-choice/
   short_title: Cue Choice
   heading_title: Which Coffee Moment Should Start Work?
-date: '2026-06-05 15:50:55 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caff
 
 ## Introduction
 
-Coffee can be a useful morning productivity cue, but the stimulant inside it has clear limits. The strongest evidence is not that caffeine turns ordinary work into exceptional work. Rather, moderate doses can increase alertness, reduce feelings of sleepiness and improve vigilance, especially when attention is flagging. What caffeine cannot reliably do is replace sleep, guarantee deep concentration, or continuously improve performance as the dose rises. Beyond a certain point, more caffeine often delivers diminishing returns while increasing the risks of anxiety, jitteriness and disrupted sleep. For people interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), this distinction matters: the value of [morning coffee]({{ 'coffee-cue/' | relative_url }}) often comes as much from the ritual that starts work as from the pharmacological effect itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0149763416300690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</span></span></span>
+Coffee can be a useful morning productivity cue, but the stimulant inside it has clear [limits]({{ 'limits/' | relative_url }}). The strongest evidence is not that caffeine turns ordinary work into exceptional work. Rather, moderate doses can increase alertness, reduce feelings of sleepiness and improve vigilance, especially when attention is flagging. What caffeine cannot reliably do is replace sleep, guarantee deep concentration, or continuously improve performance as the dose rises. Beyond a certain point, more caffeine often delivers diminishing returns while increasing the risks of anxiety, jitteriness and disrupted sleep. For people interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), this distinction matters: the value of morning coffee often comes as much from the ritual that starts work as from the pharmacological effect itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0149763416300690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-dark.svg" | relative_url }}" alt="Caffeine Limits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -276,11 +276,11 @@ Coffee can be a useful morning productivity cue, but the stimulant inside it has
 
 The best-supported cognitive effect of caffeine is improved alertness. The European Food Safety Authority (EFSA) concluded that products providing at least 75 mg of caffeine can increase alertness in the general adult population. Studies underlying that conclusion typically measured reaction time, vigilance and sustained attention rather than creativity, strategic thinking or complex judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span>
 
-This distinction is important for focused morning work. Many knowledge workers imagine caffeine as a “better thinking” substance. The evidence is narrower. Caffeine is particularly good at helping people stay awake, notice signals and maintain attention during repetitive or mentally fatiguing tasks. It is less reliable as a way to improve every aspect of cognition. Reviews of the research consistently find benefits for alertness, attention and vigilance, while effects on higher-order thinking are smaller and more variable. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://orca.cardiff.ac.uk/id/eprint/151582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orca.cardiff.ac.uk">[ORCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orca.cardiff.ac.uk</span><span class="citation-popover-title">ORCACaffeine, habitual caffeine consumption, alertness</span><span class="citation-popover-snippet">ORCAby A Smith · 2022 · Cited by 9 — Conclusion: These results demonstrate that caffeine increases alertness and improves sustained atten...</span></span></span>
+This distinction is important for focused morning work. Many knowledge workers imagine caffeine as a “better thinking” substance. The evidence is narrower. Caffeine is particularly good at helping people stay awake, notice signals and maintain attention during repetitive or mentally fatiguing tasks. It is less reliable as a way to improve every aspect of cognition. Reviews of the research consistently find benefits for alertness, attention and vigilance, while effects on higher-order thinking are smaller and more variable. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://orca.cardiff.ac.uk/id/eprint/151582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orca.cardiff.ac.uk">[ORCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orca.cardiff.ac.uk</span><span class="citation-popover-title">ORCACaffeine, habitual caffeine consumption, alertness</span><span class="citation-popover-snippet">by A Smith · 2022 · Cited by 9 — Conclusion: These results demonstrate that caffeine increases alertness and improves sustained atten...</span></span></span>
 
 A practical implication follows. If the first hour of work is being lost to sluggishness, a moderate amount of caffeine may help. If the problem is unclear priorities, poor planning or constant interruptions, extra caffeine is unlikely to solve it. Many productivity failures are organisational rather than physiological.
 
-The [limits]({{ 'limits/' | relative_url }}) become even clearer when sleep loss enters the picture. Research shows that caffeine can partially counteract declines in vigilant attention caused by sleep deprivation. However, it does not fully restore cognitive performance, and some executive functions remain impaired despite caffeine use. In other words, caffeine can mask part of the symptom of being tired without eliminating the underlying deficit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
+The limits become even clearer when sleep loss enters the picture. Research shows that caffeine can partially counteract declines in vigilant attention caused by sleep deprivation. However, it does not fully restore cognitive performance, and some executive functions remain impaired despite caffeine use. In other words, caffeine can mask part of the symptom of being tired without eliminating the underlying deficit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
 A useful mental model is that caffeine often improves “staying switched on” more than it improves “doing brilliant work”. For many morning tasks, that is valuable. It is simply not limitless.
 
@@ -289,7 +289,7 @@ A useful mental model is that caffeine often improves “staying switched on” 
 
 ## Sensitivity, anxiety, and sleep disruption risks
 
-One reason caffeine has real limits is that people respond differently to it. A dose that feels smooth and helpful for one person may produce nervousness, restlessness or distraction in another. Regulatory agencies generally regard daily intakes up to around 400 mg as not raising safety concerns for most healthy adults, but that figure should not be mistaken for an optimal productivity target. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-title">European Food Safety Authority Caffeine | EFSA</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine | EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</span></span></span>
+One reason caffeine has real limits is that people respond differently to it. A dose that feels smooth and helpful for one person may produce nervousness, restlessness or distraction in another. Regulatory agencies generally regard daily intakes up to around 400 mg as not raising safety concerns for most healthy adults, but that figure should not be mistaken for an optimal productivity target. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-title">European Food Safety Authority Caffeine &#124; EFSA</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine &#124; EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</span></span></span>
 
 The productivity trade-off often appears before safety limits are reached. As caffeine intake rises, some people experience:
 
@@ -301,7 +301,7 @@ The productivity trade-off often appears before safety limits are reached. As ca
 
 Recent meta-analytic evidence suggests that caffeine consumption can increase anxiety risk, with stronger effects at higher intake levels. For someone whose work depends on careful writing, analysis or decision-making, an anxious state can offset any gain in alertness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
-Sleep disruption is an even bigger limitation because it can undermine the next day's performance. EFSA notes that even single doses of 100 mg may affect sleep in some adults, and controlled laboratory research found that 400 mg consumed even six hours before bedtime significantly reduced sleep. Since sleep is itself a major determinant of attention and cognitive performance, chasing productivity through higher caffeine intake can become self-defeating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepeducation.org/sleep-caffeine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepeducation.org">[Sleep Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepeducation.org</span><span class="citation-popover-snippet">Sleep and Caffeine | Benefits and RisksCaffeine can have a disruptive effect on your sleep. The most obvious effect of the stimulant is t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-title">European Food Safety Authority Caffeine | EFSA</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine | EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
+Sleep disruption is an even bigger limitation because it can undermine the next day's performance. EFSA notes that even single doses of 100 mg may affect sleep in some adults, and controlled laboratory research found that 400 mg consumed even six hours before bedtime significantly reduced sleep. Since sleep is itself a major determinant of attention and cognitive performance, chasing productivity through higher caffeine intake can become self-defeating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepeducation.org/sleep-caffeine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepeducation.org">[Sleep Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepeducation.org</span><span class="citation-popover-snippet">Sleep and Caffeine &#124; Benefits and RisksCaffeine can have a disruptive effect on your sleep. The most obvious effect of the stimulant is t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-title">European Food Safety Authority Caffeine &#124; EFSA</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine &#124; EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
 This creates a common cycle. Poor sleep leads to more caffeine. More caffeine makes sleep worse. Worse sleep increases the perceived need for caffeine. The short-term gain in morning alertness can be outweighed by the long-term cost to recovery and cognitive function.
 
@@ -765,169 +765,169 @@ Within a productivity system built around reliable cues, coffee is often most us
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0149763416300690](https://www.sciencedirect.com/science/article/pii/S0149763416300690)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0149763416300690" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0149763416300690</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: orca.cardiff.ac.uk  
    Title: ORCACaffeine, habitual caffeine consumption, alertness  
-   Link: [https://orca.cardiff.ac.uk/id/eprint/151582/](https://orca.cardiff.ac.uk/id/eprint/151582/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ORCAby A Smith · 2022 · Cited by 9 — Conclusion: These results demonstrate that caffeine increases alertness and improves sustained atten...</p></details>
+   Link: <a href="https://orca.cardiff.ac.uk/id/eprint/151582/" target="_blank" rel="noopener noreferrer nofollow">https://orca.cardiff.ac.uk/id/eprint/151582/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Smith · 2022 · Cited by 9 — Conclusion: These results demonstrate that caffeine increases alertness and improves sustained atten...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fda.gov  
    Title: spilling beans how much caffeine too much  
-   Link: [https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — For most adults, the FDA has cited 400 millig...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/7331760/why-does-coffee-give-me-anxiety/](https://time.com/7331760/why-does-coffee-give-me-anxiety/)  
+   Link: <a href="https://time.com/7331760/why-does-coffee-give-me-anxiety/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7331760/why-does-coffee-give-me-anxiety/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine works by blocking adenosine receptors in the brain, which typically promote calmness and drowsiness. This blockade releases stim...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sleep.me  
    Title: caffeine and sleep  
-   Link: [https://sleep.me/post/caffeine-and-sleep?srsltid=AfmBOoot_f_t10W9qaVSc_2JdW4uOVIw3nvkm_NgJc9hchD5bpkxbrCT](https://sleep.me/post/caffeine-and-sleep?srsltid=AfmBOoot_f_t10W9qaVSc_2JdW4uOVIw3nvkm_NgJc9hchD5bpkxbrCT)  
+   Link: <a href="https://sleep.me/post/caffeine-and-sleep?srsltid=AfmBOoot_f_t10W9qaVSc_2JdW4uOVIw3nvkm_NgJc9hchD5bpkxbrCT" target="_blank" rel="noopener noreferrer nofollow">https://sleep.me/post/caffeine-and-sleep?srsltid=AfmBOoot_f_t10W9qaVSc_2JdW4uOVIw3nvkm_NgJc9hchD5bpkxbrCT</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Caffeine Affect Your Sleep?23 Jan 2024 — The FDA suggests up to 400 mg of caffeine daily is safe for healthy adults.... cause s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377](https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of acute caffeine consumption following sleep loss...by C Irwin · 2020 · Cited by 108 — This systematic review and meta-analysis...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0278691517301709](https://www.sciencedirect.com/science/article/pii/S0278691517301709)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0278691517301709" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0278691517301709</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic review of the potential adverse effects...by D Wikoff · 2017 · Cited by 634 — The evidence generally supports that consumptio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: efsa.onlinelibrary.wiley.com  
-   Link: [https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574)  
+   Link: <a href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow">https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: efsa.onlinelibrary.wiley.com  
-   Link: [https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2011.2054](https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2011.2054)  
+   Link: <a href="https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2011.2054" target="_blank" rel="noopener noreferrer nofollow">https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2011.2054</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The results from the...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12884582/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884582/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12884582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12884582/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine Selectively Mitigates Cognitive Deficits Caused by...by ME Stepan · 2021 · Cited by 19 — These effects are consis...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8935086/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8935086/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935086/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Sleep deprivation: Impact on cognitive performance  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies on its effects on more demanding cognitive functions are lacking. Coping with SD...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: efsa.europa.eu  
    Title: European Food Safety Authority Caffeine | EFSA  
-   Link: [https://www.efsa.europa.eu/en/topics/topic/caffeine](https://www.efsa.europa.eu/en/topics/topic/caffeine)  
+   Link: <a href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.efsa.europa.eu/en/topics/topic/caffeine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Food Safety AuthorityCaffeine | EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Caffeine intake and anxiety: a meta-analysis  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10867825/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10867825/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10867825/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10867825/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine intake and anxiety: a meta-analysis - PMCby C Liu · 2024 · Cited by 80 — In summary, the results of our meta-analy...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: verywellhealth.com  
-   Link: [https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734](https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734)  
+   Link: <a href="https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It blocks adenosine, a brain chemical that promotes relaxation and sleepiness, thereby increasing alertness but also stimulating the nerv...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going...by C Drake · 2013 · Cited by 731 — The results of this stu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sleepeducation.org  
-   Link: [https://sleepeducation.org/sleep-caffeine/](https://sleepeducation.org/sleep-caffeine/)  
+   Link: <a href="https://sleepeducation.org/sleep-caffeine/" target="_blank" rel="noopener noreferrer nofollow">https://sleepeducation.org/sleep-caffeine/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep and Caffeine | Benefits and RisksCaffeine can have a disruptive effect on your sleep. The most obvious effect of the stimulant is t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: verywellhealth.com  
    Title: Verywell Health What Happens to Your Brain When You Drink Caffeine Every Day  
-   Link: [https://www.verywellhealth.com/what-does-caffeine-do-to-your-brain-11907104](https://www.verywellhealth.com/what-does-caffeine-do-to-your-brain-11907104)  
+   Link: <a href="https://www.verywellhealth.com/what-does-caffeine-do-to-your-brain-11907104" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/what-does-caffeine-do-to-your-brain-11907104</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In moderate amounts, caffeine blocks adenosine, a brain chemical that induces sleepiness, thus promoting alertness and a temporary mood b...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5445139/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5445139/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5445139/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5445139/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Safety of Ingested Caffeine: A Comprehensive Reviewby JL Temple · 2017 · Cited by 796 — We report that, for healthy adu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK223791/](https://www.ncbi.nlm.nih.gov/books/NBK223791/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK223791/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK223791/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Caffeine - NCBI - NIHResearch suggests that doses of caffeine between 150 and 600 mg are effective in alleviating sleep deprivation-in...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: webmd.com  
-   Link: [https://www.webmd.com/vitamins/ai/ingredientmono-979/caffeine](https://www.webmd.com/vitamins/ai/ingredientmono-979/caffeine)  
+   Link: <a href="https://www.webmd.com/vitamins/ai/ingredientmono-979/caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/vitamins/ai/ingredientmono-979/caffeine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Uses, Side Effects, and MoreCaffeine is possibly unsafe when used for a long time or in doses over 400 mg daily. Caffeine can cause insom...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/caffeine-effects-on-sleep-and-cognitive-performance](https://www.nature.com/nature-index/topics/l4/caffeine-effects-on-sleep-and-cognitive-performance)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/caffeine-effects-on-sleep-and-cognitive-performance" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/caffeine-effects-on-sleep-and-cognitive-performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine Effects on Sleep and Cognitive PerformanceBy blocking adenosine A1 and A2A receptors, caffeine promotes wakefulness, enhances al...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: webmd.com  
-   Link: [https://www.webmd.com/sleep-disorders/caffeine-pills-what-to-know](https://www.webmd.com/sleep-disorders/caffeine-pills-what-to-know)  
+   Link: <a href="https://www.webmd.com/sleep-disorders/caffeine-pills-what-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/sleep-disorders/caffeine-pills-what-to-know</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine Pills: What to KnowIf you feel drowsy or tired regularly, talk to a doctor. Are Caffeine Pills Safe? If you&#x27;re an adult, you can...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medicalnewstoday.com  
-   Link: [https://www.medicalnewstoday.com/articles/285194](https://www.medicalnewstoday.com/articles/285194)  
+   Link: <a href="https://www.medicalnewstoday.com/articles/285194" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/285194</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine: Benefits, risks, and effectsCaffeine is a stimulant that occurs naturally in several foods. The FDA recommends no more than 400...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nutritionaloutlook.com  
-   Link: [https://www.nutritionaloutlook.com/view/efsa-says-caffeine-safe-eu-adults-400-mg-daily-or-200-mg-single-dose](https://www.nutritionaloutlook.com/view/efsa-says-caffeine-safe-eu-adults-400-mg-daily-or-200-mg-single-dose)  
+   Link: <a href="https://www.nutritionaloutlook.com/view/efsa-says-caffeine-safe-eu-adults-400-mg-daily-or-200-mg-single-dose" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionaloutlook.com/view/efsa-says-caffeine-safe-eu-adults-400-mg-daily-or-200-mg-single-dose</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EFSA Says Caffeine Safe for EU Adults at 400 mg Daily or...EFSA pointed out that while the NDA Panel previously issued a positive opinio...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/iowahhs_its-national-coffee-day-but-its-important-activity-7378394373585276929-8NFL](https://www.linkedin.com/posts/iowahhs_its-national-coffee-day-but-its-important-activity-7378394373585276929-8NFL)  
+   Link: <a href="https://www.linkedin.com/posts/iowahhs_its-national-coffee-day-but-its-important-activity-7378394373585276929-8NFL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/iowahhs_its-national-coffee-day-but-its-important-activity-7378394373585276929-8NFL</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Department of Health and Human Services&#x27; PostFor most adults, the FDA has cited 400 milligrams* a day. Too much caffeine... insomni...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mayoclinic.org  
-   Link: [https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678)  
+   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine: How much is too much?Up to 400 milligrams (mg) of caffeine a day seems safe for most adults. That&#x27;s about the amount of caffein...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: dovepress.com  
-   Link: [https://www.dovepress.com/effects-of-caffeine-intake-on-cognitive-performance-related-to-total-s-peer-reviewed-fulltext-article-NSS](https://www.dovepress.com/effects-of-caffeine-intake-on-cognitive-performance-related-to-total-s-peer-reviewed-fulltext-article-NSS)  
+   Link: <a href="https://www.dovepress.com/effects-of-caffeine-intake-on-cognitive-performance-related-to-total-s-peer-reviewed-fulltext-article-NSS" target="_blank" rel="noopener noreferrer nofollow">https://www.dovepress.com/effects-of-caffeine-intake-on-cognitive-performance-related-to-total-s-peer-reviewed-fulltext-article-NSS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of caffeine intake on cognitive performance | NSSby M Quiquempoix · 2022 · Cited by 22 — Caffeine administration was evidenced bo...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: helpguide.org  
-   Link: [https://www.helpguide.org/mental-health/wellbeing/how-much-caffeine](https://www.helpguide.org/mental-health/wellbeing/how-much-caffeine)  
+   Link: <a href="https://www.helpguide.org/mental-health/wellbeing/how-much-caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.helpguide.org/mental-health/wellbeing/how-much-caffeine</a>  
 
 31. <a id="endnote-31"></a>
    Source: nutraingredients.com  
    Title: alert vs insomniac efsa says caffeine effect can be both good and bad  
-   Link: [https://www.nutraingredients.com/Article/2015/03/06/alert-vs-insomniac-efsa-says-caffeine-effect-can-be-both-good-and-bad/](https://www.nutraingredients.com/Article/2015/03/06/alert-vs-insomniac-efsa-says-caffeine-effect-can-be-both-good-and-bad/)  
+   Link: <a href="https://www.nutraingredients.com/Article/2015/03/06/alert-vs-insomniac-efsa-says-caffeine-effect-can-be-both-good-and-bad/" target="_blank" rel="noopener noreferrer nofollow">https://www.nutraingredients.com/Article/2015/03/06/alert-vs-insomniac-efsa-says-caffeine-effect-can-be-both-good-and-bad/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>75 mg caffeine per serving and a warning not to exceed 300 mg day. At the time EFSA said increased alertness might be and increased atten...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/307684881_Scientific_Opinion_on_the_substantiation_of_a_health_claim_related_to_caffeine_and_increased_alertness_pursuant_to_Article_135_of_Regulation_EC_No_19242006](https://www.researchgate.net/publication/307684881_Scientific_Opinion_on_the_substantiation_of_a_health_claim_related_to_caffeine_and_increased_alertness_pursuant_to_Article_135_of_Regulation_EC_No_19242006)  
+   Link: <a href="https://www.researchgate.net/publication/307684881_Scientific_Opinion_on_the_substantiation_of_a_health_claim_related_to_caffeine_and_increased_alertness_pursuant_to_Article_135_of_Regulation_EC_No_19242006" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307684881_Scientific_Opinion_on_the_substantiation_of_a_health_claim_related_to_caffeine_and_increased_alertness_pursuant_to_Article_135_of_Regulation_EC_No_19242006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A claim on caffeine and increased alertness, in the general adult population, for products...Read more...</p></details>

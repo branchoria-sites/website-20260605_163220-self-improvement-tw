@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:14:31'
 parent_title: Can the Gym Survive the Workday? | Better Change
 parent_permalink: /gym-routine/
 parent_nav_short_title: Gym Routine
@@ -259,7 +260,6 @@ prev_link:
   permalink: /packed-bag/
   short_title: Packed Bag
   heading_title: Why the Gym Bag Matters Before Work
-date: '2026-06-05 15:14:31 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_realistic_after_work_f9c332-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_realistic_after_work_f9c332-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_realisti
 
 ## Introduction
 
-The gym days that survive real life are rarely the days that look best on paper. For most people, two or three carefully chosen after-work sessions produce better long-term results than a five-day schedule that depends on every week running smoothly. The central mistake is assuming that future versions of ourselves will have more energy, fewer meetings and better [motivation]({{ 'motivation/' | relative_url }}) than we do today. In reality, work fatigue is a predictable obstacle, and exercise plans that ignore it often collapse at the first difficult week. Research consistently shows that tiredness after work is associated with lower levels of leisure-time physical activity, making schedule design just as important as workout design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIs fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</span></span></span>
+The gym days that survive real life are rarely the days that look best on paper. For most people, two or three carefully chosen after-work sessions produce better long-term results than a five-day schedule that depends on every week running smoothly. The central mistake is assuming that future versions of ourselves will have more energy, fewer meetings and better [motivation]({{ 'motivation/' | relative_url }}) than we do today. In reality, work fatigue is a predictable obstacle, and exercise plans that ignore it often collapse at the first difficult week. Research consistently shows that tiredness after work is associated with lower levels of leisure-time physical activity, making schedule design just as important as workout design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_realistic_after_work_f9c332-Illustration-1-dark.svg" | relative_url }}" alt="Realistic Days illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_realistic_after_work_f9c332-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_realistic_after_work_f9c332-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -280,7 +280,7 @@ When people create a new fitness plan, they often do so on a calm Sunday afterno
 
 Behaviour researchers sometimes refer to this as a planning problem rather than a motivation problem. Specific [action plans]({{ 'action-plans/' | relative_url }}) tend to outperform vague intentions because they prepare for real-world constraints rather than ideal conditions. Studies on implementation intentions—a technique that links a specific situation to a specific action—have repeatedly found that detailed plans can help translate exercise intentions into actual behaviour. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.humankinetics.com/downloadpdf/journals/jpah/17/3/article-p349.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.humankinetics.com">[Human Kinetics Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.humankinetics.com</span><span class="citation-popover-snippet">Human Kinetics JournalsImplementation Intentions for Exercise and Physical ActivityBackground: As a behavior change technique, implementa...</span></span></span>
 
-The risk is especially high after work because fatigue is not random. Large workforce studies have found that greater work-related fatigue is associated with lower participation in leisure-time physical activity. More recent research has similarly linked tiredness after work with reduced physical activity during free time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIs fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1403494818765894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIs fatigue after work a barrier for leisure-time physical...2 Apr 2018 — Conclusions: The duration of high-intensity leisur...</span></span></span>
+The risk is especially high after work because fatigue is not random. Large workforce studies have found that greater work-related fatigue is associated with lower participation in leisure-time physical activity. More recent research has similarly linked tiredness after work with reduced physical activity during free time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1403494818765894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsIs fatigue after work a barrier for leisure-time physical...2 Apr 2018 — Conclusions: The duration of high-intensity leisur...</span></span></span>
 
 That means a schedule should be designed around likely energy levels, not best-case energy levels.
 
@@ -365,7 +365,7 @@ Different jobs create different failure points.
 
 For knowledge workers, the main obstacle is often mental fatigue. Long meetings, decision-making and cognitive load can make a challenging workout feel disproportionately difficult even when physical energy remains available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8795020/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralSedentary work and participation in leisure–time physical activityby S van As · 2021 · Cited by 16 — Demanding psychosocial...</span></span></span>
 
-For physically demanding occupations, the problem may be genuine physical exhaustion. Research has found that higher work-related fatigue in physically demanding jobs is associated with lower levels of high-intensity leisure-time activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIs fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</span></span></span>
+For physically demanding occupations, the problem may be genuine physical exhaustion. Research has found that higher work-related fatigue in physically demanding jobs is associated with lower levels of high-intensity leisure-time activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</span></span></span>
 
 Because of this, gym-day selection should reflect job demands:
 
@@ -431,7 +431,7 @@ A realistic example might look like this:
 
 </div>
 
-That structure acknowledges a reality supported by both behavioural research and workplace fatigue studies: work will sometimes leave people tired, distracted and short of time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIs fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-58775-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">This suggests that better recovery from work-related stress...Read more...</span></span></span>
+That structure acknowledges a reality supported by both behavioural research and workplace fatigue studies: work will sometimes leave people tired, distracted and short of time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-58775-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">This suggests that better recovery from work-related stress...Read more...</span></span></span>
 
 When choosing gym days, the most useful question is not "What schedule would be ideal?" It is "What schedule still happens after a difficult Tuesday?" The answer is usually fewer days, better chosen.
 
@@ -860,100 +860,100 @@ When choosing gym days, the most useful question is not "What schedule would be 
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-58775-4](https://www.nature.com/articles/s41598-024-58775-4)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-58775-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-58775-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This suggests that better recovery from work-related stress...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-41075-8](https://www.nature.com/articles/s41598-023-41075-8)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-41075-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41075-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duration, total sessions, and mode of physical activity were...Rea...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29609495/](https://pubmed.ncbi.nlm.nih.gov/29609495/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedIs fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29609495/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the associ...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31923898/](https://pubmed.ncbi.nlm.nih.gov/31923898/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedImplementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: journals.humankinetics.com  
-   Link: [https://journals.humankinetics.com/downloadpdf/journals/jpah/17/3/article-p349.pdf](https://journals.humankinetics.com/downloadpdf/journals/jpah/17/3/article-p349.pdf)  
+   Link: <a href="https://journals.humankinetics.com/downloadpdf/journals/jpah/17/3/article-p349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.humankinetics.com/downloadpdf/journals/jpah/17/3/article-p349.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Kinetics JournalsImplementation Intentions for Exercise and Physical ActivityBackground: As a behavior change technique, implementa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1403494818765894](https://journals.sagepub.com/doi/10.1177/1403494818765894)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1403494818765894" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1403494818765894</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsIs fatigue after work a barrier for leisure-time physical...2 Apr 2018 — Conclusions: The duration of high-intensity leisur...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38575674/](https://pubmed.ncbi.nlm.nih.gov/38575674/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38575674/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38575674/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This suggests that better recovery from work-related stress...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8795020/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8795020/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8795020/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8795020/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSedentary work and participation in leisure–time physical activityby S van As · 2021 · Cited by 16 — Demanding psychosocial...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review Examining the Relationship Between...by K Feil · 2021 · Cited by 97 — The aim of this review was to examine the rela...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/327160233_How_to_Benefit_from_Weekend_Physical_Activities_Moderating_Roles_of_Psychological_Recovery_Experiences_and_Sleep](https://www.researchgate.net/publication/327160233_How_to_Benefit_from_Weekend_Physical_Activities_Moderating_Roles_of_Psychological_Recovery_Experiences_and_Sleep)  
+   Link: <a href="https://www.researchgate.net/publication/327160233_How_to_Benefit_from_Weekend_Physical_Activities_Moderating_Roles_of_Psychological_Recovery_Experiences_and_Sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327160233_How_to_Benefit_from_Weekend_Physical_Activities_Moderating_Roles_of_Psychological_Recovery_Experiences_and_Sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How to Benefit from Weekend Physical Activities22 Aug 2018 — This study examines the short‐term recovery benefits of weekend physic...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361369569_The_Effectiveness_of_Planning_Interventions_for_Improving_Physical_Activity_in_the_General_Population_A_Systematic_Review_and_Meta-Analysis_of_Randomized_Controlled_Trials](https://www.researchgate.net/publication/361369569_The_Effectiveness_of_Planning_Interventions_for_Improving_Physical_Activity_in_the_General_Population_A_Systematic_Review_and_Meta-Analysis_of_Randomized_Controlled_Trials)  
+   Link: <a href="https://www.researchgate.net/publication/361369569_The_Effectiveness_of_Planning_Interventions_for_Improving_Physical_Activity_in_the_General_Population_A_Systematic_Review_and_Meta-Analysis_of_Randomized_Controlled_Trials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361369569_The_Effectiveness_of_Planning_Interventions_for_Improving_Physical_Activity_in_the_General_Population_A_Systematic_Review_and_Meta-Analysis_of_Randomized_Controlled_Trials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effectiveness of Planning Interventions for Improving...Oct 14, 2025 — Planning interventions such as action planning (AP) and copin...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf](https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with imagery...by A Divine · 2025 · Cited by 7 — Evidence suggests that general action planning and implementa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: topics.consensus.app  
-   Link: [https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review](https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review)  
+   Link: <a href="https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review" target="_blank" rel="noopener noreferrer nofollow">https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>consensus.appMeta-analysis shows planning workouts enhances...22 Jan 2026 — Related studies consistently find that exercise adherence is...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uchealth.org  
    Title: rest and recovery for athletes physiological psychological well being  
-   Link: [https://www.uchealth.org/today/rest-and-recovery-for-athletes-physiological-psychological-well-being/](https://www.uchealth.org/today/rest-and-recovery-for-athletes-physiological-psychological-well-being/)  
+   Link: <a href="https://www.uchealth.org/today/rest-and-recovery-for-athletes-physiological-psychological-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://www.uchealth.org/today/rest-and-recovery-for-athletes-physiological-psychological-well-being/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why rest and recovery is essential for athletesMar 31, 2025 — Exercise creates tiny muscle tears. As muscles heal, they grow stronger. Th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ovid.com  
    Title: a0027672~randomized controlled trial of collaborative implementation  
-   Link: [https://www.ovid.com/journals/hepsy/pdf/10.1037/a0027672~randomized-controlled-trial-of-collaborative-implementation](https://www.ovid.com/journals/hepsy/pdf/10.1037/a0027672~randomized-controlled-trial-of-collaborative-implementation)  
+   Link: <a href="https://www.ovid.com/journals/hepsy/pdf/10.1037/a0027672~randomized-controlled-trial-of-collaborative-implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/hepsy/pdf/10.1037/a0027672~randomized-controlled-trial-of-collaborative-implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Randomized Controlled Trial of Collaborative...by A Prestwich · 2012 · Cited by 154 — Objective: The research tested the efficacy of pla...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/324194598_Is_fatigue_after_work_a_barrier_for_leisure-time_physical_activity_Cross-sectional_study_among_10000_adults_from_the_general_working_population](https://www.researchgate.net/publication/324194598_Is_fatigue_after_work_a_barrier_for_leisure-time_physical_activity_Cross-sectional_study_among_10000_adults_from_the_general_working_population)  
+   Link: <a href="https://www.researchgate.net/publication/324194598_Is_fatigue_after_work_a_barrier_for_leisure-time_physical_activity_Cross-sectional_study_among_10000_adults_from_the_general_working_population" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324194598_Is_fatigue_after_work_a_barrier_for_leisure-time_physical_activity_Cross-sectional_study_among_10000_adults_from_the_general_working_population</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd the duration of low- and high-intensity leisure-time physical activity in workers with...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nfa.elsevierpure.com  
    Title: is fatigue after work a barrier for leisure time physical activit  
-   Link: [https://nfa.elsevierpure.com/da/publications/is-fatigue-after-work-a-barrier-for-leisure-time-physical-activit/](https://nfa.elsevierpure.com/da/publications/is-fatigue-after-work-a-barrier-for-leisure-time-physical-activit/)  
+   Link: <a href="https://nfa.elsevierpure.com/da/publications/is-fatigue-after-work-a-barrier-for-leisure-time-physical-activit/" target="_blank" rel="noopener noreferrer nofollow">https://nfa.elsevierpure.com/da/publications/is-fatigue-after-work-a-barrier-for-leisure-time-physical-activit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 97 — This study investigates the association bet...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instituteofcoaching.org  
-   Link: [https://instituteofcoaching.org/resources/impact-implementation-intentions-physical-activity-practice-adults-systematic-review-and](https://instituteofcoaching.org/resources/impact-implementation-intentions-physical-activity-practice-adults-systematic-review-and)  
+   Link: <a href="https://instituteofcoaching.org/resources/impact-implementation-intentions-physical-activity-practice-adults-systematic-review-and" target="_blank" rel="noopener noreferrer nofollow">https://instituteofcoaching.org/resources/impact-implementation-intentions-physical-activity-practice-adults-systematic-review-and</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ased strategies on implementation intentions in promoting physical activity (PA)...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity](https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity)  
+   Link: <a href="https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he literature on the effectiveness of implementation intentions on physical...Read more...</p></details>

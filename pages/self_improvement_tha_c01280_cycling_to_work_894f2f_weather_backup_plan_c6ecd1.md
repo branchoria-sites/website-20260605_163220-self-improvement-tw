@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:08:30'
 parent_title: Why the Habit Starts the Night Before | Better Change
 parent_permalink: /cycle-commute/
 parent_nav_short_title: Cycle Commute
@@ -259,7 +260,6 @@ prev_link:
   permalink: /route-backup/
   short_title: Route Backup
   heading_title: Why the Shortest Bike Route May Fail
-date: '2026-06-05 15:08:30 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather
 
 ## Introduction
 
-A weather check the night before a [cycle commute]({{ 'cycle-commute/' | relative_url }}) is not about deciding whether it will rain. It is about turning a forecast into a practical plan. Research on bicycle commuting shows that precipitation, temperature, wind and snow all significantly affect whether people choose to ride to work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22155159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedWeather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</span></span></span>
+A weather check the night before a [cycle commute]({{ 'cycle-commute/' | relative_url }}) is not about deciding whether it will rain. It is about turning a forecast into a practical plan. Research on bicycle commuting shows that precipitation, temperature, wind and snow all significantly affect whether people choose to ride to work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22155159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Weather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-dark.svg" | relative_url }}" alt="Weather Plan illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -349,7 +349,7 @@ Many riders think visibility only matters at night. In reality, fog, rain and ro
 
 The Met Office advises extra care when cycling in fog, including high-visibility clothing and bright lights, and suggests considering alternative transport when fog is particularly dense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</span></span></span>
 
-Heavy rain creates a similar problem. Reduced visibility affects both the cyclist and drivers, making conspicuity more important than usual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openweather.co.uk/blog/post/impact-weather-cycling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openweather.co.uk">[OpenWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openweather.co.uk</span><span class="citation-popover-title">impact weather cycling</span><span class="citation-popover-snippet">OpenWeatherImpact of Weather on Cycling24 Apr 2025 — Precipitation, a frequent occurrence in the UK, transforms the ride. Rain, sleet, or...</span></span></span>
+Heavy rain creates a similar problem. Reduced visibility affects both the cyclist and drivers, making conspicuity more important than usual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openweather.co.uk/blog/post/impact-weather-cycling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openweather.co.uk">[OpenWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openweather.co.uk</span><span class="citation-popover-title">impact weather cycling</span><span class="citation-popover-snippet">Impact of Weather on Cycling24 Apr 2025 — Precipitation, a frequent occurrence in the UK, transforms the ride. Rain, sleet, or...</span></span></span>
 
 A useful evening check therefore includes:
 
@@ -775,191 +775,191 @@ The forecast then serves a practical purpose. Rather than becoming a reason to a
 
 1. <a id="endnote-1"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves](https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves)  
+   Link: <a href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: tour-magazin.de  
-   Link: [https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/](https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/)  
+   Link: <a href="https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/" target="_blank" rel="noopener noreferrer nofollow">https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rennrad News, Test und mehr bei TOURGravel commuters need this equipment in winterJanuary 24, 2025 — 24 Jan 2025 — Low temperatures and w...</p></details>
    Published: January 24, 2025  
 
 3. <a id="endnote-3"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/wrh/travel](https://www.weather.gov/wrh/travel)  
+   Link: <a href="https://www.weather.gov/wrh/travel" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/wrh/travel</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Decision SupportThis page provides graphical weather forecast information for segments of US and state highways and inters...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22155159/](https://pubmed.ncbi.nlm.nih.gov/22155159/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedWeather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22155159/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22155159/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: bikeforgood.org.uk  
-   Link: [https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/](https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/)  
+   Link: <a href="https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bike for GoodTop Tips for Cycle CommutingIf your commute is long, check the wind forecast. A windy day can alter commute time by 10-15 mi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cyclescheme.co.uk  
-   Link: [https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows](https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows)  
+   Link: <a href="https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s seldom hazardous per se, but if it makes you feel unsafe then leave the bike...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow winter weather affects cyclingTake extra care when cycling in affected areas. Wear high visibility clothing, use bright fla...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: openweather.co.uk  
    Title: impact weather cycling  
-   Link: [https://openweather.co.uk/blog/post/impact-weather-cycling](https://openweather.co.uk/blog/post/impact-weather-cycling)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenWeatherImpact of Weather on Cycling24 Apr 2025 — Precipitation, a frequent occurrence in the UK, transforms the ride. Rain, sleet, or...</p></details>
+   Link: <a href="https://openweather.co.uk/blog/post/impact-weather-cycling" target="_blank" rel="noopener noreferrer nofollow">https://openweather.co.uk/blog/post/impact-weather-cycling</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Weather on Cycling24 Apr 2025 — Precipitation, a frequent occurrence in the UK, transforms the ride. Rain, sleet, or...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: btrsports.co.uk  
-   Title: BTR Sports [Cycling to Work](&#123;&#123; 'cycle-commute/' | relative_url &#125;&#125;) in the Rain: The Commuter's Survival Guide  
-   Link: [https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz](https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz)  
+   Title: BTR Sports Cycling to Work in the Rain: The Commuter's Survival Guide  
+   Link: <a href="https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz" target="_blank" rel="noopener noreferrer nofollow">https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Waterproof cycling gear, helmet covers, backpack covers, and jackets to keep you dry and visible...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lasportiveoutdoor.com  
    Title: La Sportive Outdoor Cycling in all weathers  
-   Link: [https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/](https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/)  
+   Link: <a href="https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling in all weathers - A practical guide to adapting to...20 Feb 2025 — Finally, as visibility is often reduced in the rain, we recom...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-heavy-rain](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-heavy-rain)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-heavy-rain" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-heavy-rain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office5 tips for staying safe in heavy rainIt is not safe to drive or walk or swim through floodwater, avoid it where possible and if...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/travelling-in-storms-rain-and-wind](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/travelling-in-storms-rain-and-wind)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/travelling-in-storms-rain-and-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/travelling-in-storms-rain-and-wind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you can, choose main roads, where you are less likely to be exposed to fallen...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sportscoverdirect.com  
-   Link: [https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/](https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/)  
+   Link: <a href="https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/" target="_blank" rel="noopener noreferrer nofollow">https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Use lights and reflective gear to...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/beginners-guide-cycling-rain](https://www.cyclinguk.org/article/beginners-guide-cycling-rain)  
+   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-cycling-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-cycling-rain</a>  
 
 16. <a id="endnote-16"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/](https://www.metoffice.gov.uk/)  
+   Link: <a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office: Weather and climate changeLargely dry on Wednesday and Thursday with warm sunny spells, but windy in the south...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/tips-and-advice-for-cycling-this-summer](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/tips-and-advice-for-cycling-this-summer)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/tips-and-advice-for-cycling-this-summer" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/tips-and-advice-for-cycling-this-summer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summer is the perfect time to dust off your bike and explore the many cycling paths and routes...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: metoffice.gov.uk  
    Title: understanding the met office weatherready campaign  
-   Link: [https://www.metoffice.gov.uk/blog/2026/understanding-the-met-office-weatherready-campaign](https://www.metoffice.gov.uk/blog/2026/understanding-the-met-office-weatherready-campaign)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2026/understanding-the-met-office-weatherready-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/understanding-the-met-office-weatherready-campaign</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Met Office&#x27;s WeatherReady...15 Jan 2026 — Whether it&#x27;s tips for safe walking and cycling, advice on garden maintenance...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/forecast/uk](https://weather.metoffice.gov.uk/forecast/uk)  
+   Link: <a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/uk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kingdom (National) weatherUnited Kingdom 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: weather.metoffice.gov.uk  
    Title: metoffice.gov.uk Tips for cycling in icy conditions  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-icy-conditions](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-icy-conditions)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-icy-conditions" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-icy-conditions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for cycling in icy conditions - from Cycling UKThe new rule 163 advises drivers to leave at least 1.5 metres when overtaking cyclists at...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: metoffice.gov.uk  
    Title: how does the water cycle affect uk weather  
-   Link: [https://www.metoffice.gov.uk/blog/2025/how-does-the-water-cycle-affect-uk-weather](https://www.metoffice.gov.uk/blog/2025/how-does-the-water-cycle-affect-uk-weather)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-does-the-water-cycle-affect-uk-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-does-the-water-cycle-affect-uk-weather</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cycle results in rain and snow, which can trigger severe weather conditions.... Weekend weather forecast: Colder, breezier and showery f...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/forecast/gcpvj0v07](https://weather.metoffice.gov.uk/forecast/gcpvj0v07)  
+   Link: <a href="https://weather.metoffice.gov.uk/forecast/gcpvj0v07" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gcpvj0v07</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Greater London) weatherLondon 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity and UV...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>metoffice.gov.uk5 tips for staying safe in strong windDriving slowly to minimise the impact of wind gusts · Be aware of high sided vehicl...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: themet.org.uk  
-   Link: [https://themet.org.uk/](https://themet.org.uk/)  
+   Link: <a href="https://themet.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://themet.org.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Met | Live music and theatre in Bury, Greater ManchesterThe Met is at the heart of live music and theatre in Bury. An exciting progra...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cyclescheme.co.uk  
-   Link: [https://www.cyclescheme.co.uk/community/featured/weather-beating](https://www.cyclescheme.co.uk/community/featured/weather-beating)  
+   Link: <a href="https://www.cyclescheme.co.uk/community/featured/weather-beating" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/featured/weather-beating</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather beatingWhen the rain is running down the windows on a winter morning, it can be hard to summon up the enthusiasm for cycle commut...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: blog.gov.je  
    Title: working with weather for commuting by bike  
-   Link: [https://blog.gov.je/2022/07/22/working-with-weather-for-commuting-by-bike/](https://blog.gov.je/2022/07/22/working-with-weather-for-commuting-by-bike/)  
+   Link: <a href="https://blog.gov.je/2022/07/22/working-with-weather-for-commuting-by-bike/" target="_blank" rel="noopener noreferrer nofollow">https://blog.gov.je/2022/07/22/working-with-weather-for-commuting-by-bike/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by bike… working with the weather for a...22 Jul 2022 — Commuting by bike is a choice that many of us have long considered to reduce fue...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/382563705_The_impact_of_weather_conditions_on_mode_choice_Empirical_evidence_for_the_Netherlands](https://www.researchgate.net/publication/382563705_The_impact_of_weather_conditions_on_mode_choice_Empirical_evidence_for_the_Netherlands)  
+   Link: <a href="https://www.researchgate.net/publication/382563705_The_impact_of_weather_conditions_on_mode_choice_Empirical_evidence_for_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382563705_The_impact_of_weather_conditions_on_mode_choice_Empirical_evidence_for_the_Netherlands</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The impact of weather conditions on mode choice26 Jul 2024 — Wind negatively influences the use of the bicycle, while precipitation...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/SGPCN/posts/3196756843811222/](https://www.facebook.com/groups/SGPCN/posts/3196756843811222/)  
+   Link: <a href="https://www.facebook.com/groups/SGPCN/posts/3196756843811222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SGPCN/posts/3196756843811222/</a>  
 
 29. <a id="endnote-29"></a>
    Source: bike-components.de  
-   Link: [https://www.bike-components.de/blog/en/guides/cycling-commute-tips/](https://www.bike-components.de/blog/en/guides/cycling-commute-tips/)  
+   Link: <a href="https://www.bike-components.de/blog/en/guides/cycling-commute-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.bike-components.de/blog/en/guides/cycling-commute-tips/</a>  
 
 30. <a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips](https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips)  
+   Link: <a href="https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It emphasizes that one can start biking without investing in expensive equipment and suggests focusing on a few key items for safety and...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: walkwheelcycletrust.org.uk  
-   Link: [https://www.walkwheelcycletrust.org.uk/our-blog/get-active/five-myths-about-cycling-and-bad-weather/](https://www.walkwheelcycletrust.org.uk/our-blog/get-active/five-myths-about-cycling-and-bad-weather/)  
+   Link: <a href="https://www.walkwheelcycletrust.org.uk/our-blog/get-active/five-myths-about-cycling-and-bad-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.walkwheelcycletrust.org.uk/our-blog/get-active/five-myths-about-cycling-and-bad-weather/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Five myths about cycling and bad weather30 Oct 2019 — According to the Met Office, England gets around 850mm of rain annually...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/cycling/comments/18lbdsk/what_weather_does_it_take_to_stop_you_from_cycling/](https://www.reddit.com/r/cycling/comments/18lbdsk/what_weather_does_it_take_to_stop_you_from_cycling/)  
+   Link: <a href="https://www.reddit.com/r/cycling/comments/18lbdsk/what_weather_does_it_take_to_stop_you_from_cycling/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cycling/comments/18lbdsk/what_weather_does_it_take_to_stop_you_from_cycling/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reate an unsafe condition. Windy days aren&#x27;t a bad thing...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: buff.com  
    Title: How to Cycle in the Rain: 15 Essential Tips  
-   Link: [https://www.buff.com/blog/en/cycling/cycle-in-the-rain-tips/?srsltid=AfmBOor-0JYuc0t3mQQkg3rLgnXvKNj15QAKwHx8bKOp0ijlTuD9fHjP](https://www.buff.com/blog/en/cycling/cycle-in-the-rain-tips/?srsltid=AfmBOor-0JYuc0t3mQQkg3rLgnXvKNj15QAKwHx8bKOp0ijlTuD9fHjP)  
+   Link: <a href="https://www.buff.com/blog/en/cycling/cycle-in-the-rain-tips/?srsltid=AfmBOor-0JYuc0t3mQQkg3rLgnXvKNj15QAKwHx8bKOp0ijlTuD9fHjP" target="_blank" rel="noopener noreferrer nofollow">https://www.buff.com/blog/en/cycling/cycle-in-the-rain-tips/?srsltid=AfmBOor-0JYuc0t3mQQkg3rLgnXvKNj15QAKwHx8bKOp0ijlTuD9fHjP</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Invest in a Good Quality Waterproof Jacket · 2. Use Waterproof Shoes or Overshoes · 3. Wear a Packable Cycling Cap · 4. Protect Your Helm...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: trainerroad.com  
    Title: When do you consider it too windy to ride?  
-   Link: [https://www.trainerroad.com/forum/t/when-do-you-consider-it-too-windy-to-ride/68107](https://www.trainerroad.com/forum/t/when-do-you-consider-it-too-windy-to-ride/68107)  
+   Link: <a href="https://www.trainerroad.com/forum/t/when-do-you-consider-it-too-windy-to-ride/68107" target="_blank" rel="noopener noreferrer nofollow">https://www.trainerroad.com/forum/t/when-do-you-consider-it-too-windy-to-ride/68107</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Training21 Jan 2022 — For me everything below 14mph is considered a low wind day. 14 to 23 is a normal windy day which merits no precauti...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: polygonbikes.com  
    Title: rainy day cycling tips for commuters  
-   Link: [https://www.polygonbikes.com/rainy-day-cycling-tips-for-commuters/](https://www.polygonbikes.com/rainy-day-cycling-tips-for-commuters/)  
+   Link: <a href="https://www.polygonbikes.com/rainy-day-cycling-tips-for-commuters/" target="_blank" rel="noopener noreferrer nofollow">https://www.polygonbikes.com/rainy-day-cycling-tips-for-commuters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling in the Rain Tips for Daily Commuters31 Dec 2025 — This guide will help you ride with confidence on wet roads, stay visible to tra...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: trainright.com  
    Title: make cycling in [bad weather](&#123;&#123; 'bad-weather/' | relative_url &#125;&#125;) better  
-   Link: [https://trainright.com/make-cycling-in-bad-weather-better/](https://trainright.com/make-cycling-in-bad-weather-better/)  
+   Link: <a href="https://trainright.com/make-cycling-in-bad-weather-better/" target="_blank" rel="noopener noreferrer nofollow">https://trainright.com/make-cycling-in-bad-weather-better/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Cycling in Bad Weather 100% Better7 Mar 2025 — Riding in the rain or the wind is better than not riding at all, so take the a...</p></details>

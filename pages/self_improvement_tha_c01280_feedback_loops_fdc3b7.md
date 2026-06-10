@@ -512,7 +512,7 @@ The best evidence does not say that all feedback is automatically helpful. It sa
 
 Useful feedback is specific enough to change the next attempt. “I am undisciplined” is not useful feedback; “I planned to study after dinner, but my phone was on the table and I opened it before my laptop” is. The second version points to a change in the system: charge the phone outside the room, open the document before dinner, or move the study session earlier.
 
-Behaviour-change research makes this distinction visible. The Behaviour Change Technique Taxonomy, a widely used classification of active ingredients in interventions, separates self-monitoring, feedback on behaviour and feedback on outcomes. Self-monitoring means establishing a way to record behaviour; feedback on behaviour means giving information about how the behaviour was performed, such as [frequency]({{ 'frequency/' | relative_url }}), duration or intensity; feedback on outcomes means giving information about the result, such as weight loss, savings or test performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[2digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Behaviour-change research makes this distinction visible. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy, a widely used classification of active ingredients in interventions, separates self-monitoring, feedback on behaviour and feedback on outcomes. Self-monitoring means establishing a way to record behaviour; feedback on behaviour means giving information about how the behaviour was performed, such as [frequency]({{ 'frequency/' | relative_url }}), duration or intensity; feedback on outcomes means giving information about the result, such as weight loss, savings or test performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[2digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For everyday self improvement, this gives a practical rule: track the part of the system you can actually change. A person trying to become fitter may track steps, planned workouts completed, sleep, or how often they packed gym clothes the night before. A person trying to write may track minutes started, words drafted, or the number of days they opened the document before checking messages. The outcome matters, but the behaviour is usually the better steering wheel.
 
@@ -563,7 +563,7 @@ The phrase “next test” is important. It keeps self improvement experimental.
 
 ## Change the System, Not the Self-Image
 
-The most damaging feedback loops are [identity]({{ 'identity/' | relative_url }}) loops. They convert data into character judgement: “I missed three days, so I am lazy”; “I spent too much, so I am hopeless with money”; “I lost focus, so I am not serious.” This kind of feedback feels meaningful, but it usually gives no usable instruction.
+The most damaging feedback loops are identity loops. They convert data into character judgement: “I missed three days, so I am lazy”; “I spent too much, so I am hopeless with money”; “I lost focus, so I am not serious.” This kind of feedback feels meaningful, but it usually gives no usable instruction.
 
 Feedback Intervention Theory helps explain why. A major meta-analysis of feedback interventions found that feedback improved performance on average, but more than a third of feedback interventions reduced performance. One key explanation is attention: feedback tends to work better when it directs attention to the task and how to improve it, and worse when it pulls attention towards the self in a global, threatening or distracting way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrbartonmaths.com">[mr barton maths]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrbartonmaths.com</span><span class="citation-popover-title">The effects of feedback interventions</span><span class="citation-popover-snippet">These findings are further...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrbartonmaths.com">[2mr barton maths]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrbartonmaths.com</span><span class="citation-popover-title">The effects of feedback interventions</span><span class="citation-popover-snippet">These findings are further...Read more...</span></span></span>
 
@@ -1057,166 +1057,166 @@ This is the feedback loop behind real progress: not endless measurement, not mot
 
 1. <a id="endnote-1"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-023-01555-6](https://link.springer.com/article/10.1186/s12966-023-01555-6)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCControl Theory, Goal Attainment, and Psychopathology  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6707771/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6707771/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6707771/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6707771/</a>  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence](https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/</a>  
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12170-024-00746-5](https://link.springer.com/article/10.1007/s12170-024-00746-5)  
+   Link: <a href="https://link.springer.com/article/10.1007/s12170-024-00746-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12170-024-00746-5</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCImpact of feedback generation and presentation on self  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11282379/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11282379/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11282379/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11282379/</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 318116144 Self Regulation  
-   Link: [https://www.researchgate.net/publication/318116144_Self-Regulation](https://www.researchgate.net/publication/318116144_Self-Regulation)  
+   Link: <a href="https://www.researchgate.net/publication/318116144_Self-Regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318116144_Self-Regulation</a>  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions](https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory](https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory</a>  
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377155498_Impact_of_feedback_generation_and_presentation_on_self-monitoring_behaviors_dietary_intake_physical_activity_and_weight_a_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/377155498_Impact_of_feedback_generation_and_presentation_on_self-monitoring_behaviors_dietary_intake_physical_activity_and_weight_a_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/377155498_Impact_of_feedback_generation_and_presentation_on_self-monitoring_behaviors_dietary_intake_physical_activity_and_weight_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377155498_Impact_of_feedback_generation_and_presentation_on_self-monitoring_behaviors_dietary_intake_physical_activity_and_weight_a_systematic_review_and_meta-analysis</a>  
 
 14. <a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12144-024-06899-1](https://link.springer.com/article/10.1007/s12144-024-06899-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s12144-024-06899-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12144-024-06899-1</a>  
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12966-020-01001-x](https://link.springer.com/article/10.1186/s12966-020-01001-x)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
 
 16. <a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12144-020-00925-8](https://link.springer.com/article/10.1007/s12144-020-00925-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s12144-020-00925-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12144-020-00925-8</a>  
 
 17. <a id="endnote-17"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661](https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661</a>  
 
 18. <a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s11556-025-00396-5](https://link.springer.com/article/10.1186/s11556-025-00396-5)  
+   Link: <a href="https://link.springer.com/article/10.1186/s11556-025-00396-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s11556-025-00396-5</a>  
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 750 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/91437/](https://eprints.whiterose.ac.uk/id/eprint/91437/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mrbartonmaths.com  
    Title: The effects of feedback interventions  
-   Link: [https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf](https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf)  
+   Link: <a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These findings are further...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8923 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8923 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: methods.sagepub.com  
    Title: feedback intervention theory  
-   Link: [https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory](https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory)  
+   Link: <a href="https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory</a>  
 
 24. <a id="endnote-24"></a>
    Source: springermedizin.de  
    Title: [self monitoring](&#123;&#123; 'tracking/' | relative_url &#125;&#125;) of weight as a weight loss strategy a systematic  
-   Link: [https://www.springermedizin.de/self-monitoring-of-weight-as-a-weight-loss-strategy-a-systematic/27489306](https://www.springermedizin.de/self-monitoring-of-weight-as-a-weight-loss-strategy-a-systematic/27489306)  
+   Link: <a href="https://www.springermedizin.de/self-monitoring-of-weight-as-a-weight-loss-strategy-a-systematic/27489306" target="_blank" rel="noopener noreferrer nofollow">https://www.springermedizin.de/self-monitoring-of-weight-as-a-weight-loss-strategy-a-systematic/27489306</a>  
 
 25. <a id="endnote-25"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full</a>  
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full)  
+   Link: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full</a>  
 
 27. <a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00397/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00397/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00397/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00397/full</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Stop Setting Goals! Build Systems Instead  
-   Link: [https://www.youtube.com/watch?v=cgEhyReMKqo](https://www.youtube.com/watch?v=cgEhyReMKqo)  
+   Link: <a href="https://www.youtube.com/watch?v=cgEhyReMKqo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cgEhyReMKqo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feedback Loop: How to Coach Yourself to Greatness | Accelerated Learning Investigator...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: How Feedback Loops Control Your Life (Learn to Manipulate Them)  
-   Link: [https://www.youtube.com/watch?v=XL8iOXow0vQ](https://www.youtube.com/watch?v=XL8iOXow0vQ)  
+   Link: <a href="https://www.youtube.com/watch?v=XL8iOXow0vQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XL8iOXow0vQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Setting Goals! Build Systems Instead - Atomic Habits by James Clear...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wXzdoRskZlg](https://www.youtube.com/watch?v=wXzdoRskZlg)  
+   Link: <a href="https://www.youtube.com/watch?v=wXzdoRskZlg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wXzdoRskZlg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Designing Feedback Loops...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: strongerbyscience.com  
-   Link: [https://www.strongerbyscience.com/goal-setting/](https://www.strongerbyscience.com/goal-setting/)  
+   Link: <a href="https://www.strongerbyscience.com/goal-setting/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongerbyscience.com/goal-setting/</a>  
 
 32. <a id="endnote-32"></a>
    Source: philosophy-science-humanities-controversies.com  
-   Link: [https://philosophy-science-humanities-controversies.com/listview-details-psychology.php?a=t&author=Carver&concept=Self-Regulation+%28Psychology%29&first_name=Charles+S.&id=1994685](https://philosophy-science-humanities-controversies.com/listview-details-psychology.php?a=t&author=Carver&concept=Self-Regulation+%28Psychology%29&first_name=Charles+S.&id=1994685)  
+   Link: <a href="https://philosophy-science-humanities-controversies.com/listview-details-psychology.php?a=t&amp;author=Carver&amp;concept=Self-Regulation+%28Psychology%29&amp;first_name=Charles+S.&amp;id=1994685" target="_blank" rel="noopener noreferrer nofollow">https://philosophy-science-humanities-controversies.com/listview-details-psychology.php?a=t&amp;author=Carver&amp;concept=Self-Regulation+%28Psychology%29&amp;first_name=Charles+S.&amp;id=1994685</a>  
 
 33. <a id="endnote-33"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf](https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea](https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea)  
+   Link: <a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
 
 35. <a id="endnote-35"></a>
    Source: studocu.vn  
-   Link: [https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/english-course/kluger-de-nisi-1996-1996/160816223](https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/english-course/kluger-de-nisi-1996-1996/160816223)  
+   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/english-course/kluger-de-nisi-1996-1996/160816223" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/english-course/kluger-de-nisi-1996-1996/160816223</a>  
 
 36. <a id="endnote-36"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf](https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf</a>  

@@ -268,11 +268,11 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_temp
 
 ## Introduction
 
-One of the most effective forms of [environment design]({{ 'environment/' | relative_url }}) is surprisingly small: storing temptations in a way that creates a brief delay before you can act on them. The goal is not to eliminate temptation or rely on heroic self-control. It is to insert a few seconds, a few steps or a minor inconvenience between an impulse and the behaviour that follows.
+One of the most effective forms of [environment]({{ 'environment/' | relative_url }}) design is surprisingly small: storing temptations in a way that creates a brief delay before you can act on them. The goal is not to eliminate temptation or rely on heroic self-control. It is to insert a few seconds, a few steps or a minor inconvenience between an impulse and the behaviour that follows.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-1-dark.svg" | relative_url }}" alt="Temptation Pause illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This works because many unwanted habits are highly sensitive to convenience. When a behaviour is easy, visible and immediately available, it requires very little effort to perform. When access becomes slightly slower, the automatic nature of the behaviour is interrupted, creating space for conscious choice. Research on habit formation, behaviour design and [choice architecture]({{ 'defaults/' | relative_url }}) consistently shows that effort, accessibility and environmental structure influence what people do, often more than intentions alone. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
+This works because many unwanted habits are highly sensitive to convenience. When a behaviour is easy, visible and immediately available, it requires very little effort to perform. When access becomes slightly slower, the automatic nature of the behaviour is interrupted, creating space for conscious choice. Research on habit formation, behaviour design and choice architecture consistently shows that effort, accessibility and environmental structure influence what people do, often more than intentions alone. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
 Within the broader idea of designing environments instead of relying on [willpower]({{ 'willpower/' | relative_url }}), temptation storage focuses on a simple question: how can you make an unwanted behaviour just inconvenient enough that a better choice has time to surface?
 
@@ -293,7 +293,7 @@ This helps explain familiar patterns:
 
 </div>
 
-Habit researchers describe habits as behaviours that become increasingly automatic when repeated in stable contexts. [Environmental cues]({{ 'cues-195d40/' | relative_url }}) and easy access strengthen this [automaticity]({{ 'automaticity/' | relative_url }}) over time. Interrupting that automatic sequence can weaken the habit's grip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">Open Research Surrey Habit Formation and Behavior Change</span><span class="citation-popover-snippet">Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 416 — It has been argued that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Neal_.2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">We show</span><span class="citation-popover-snippet">USC DornsifeInterventions for initiating &amp; maintaining health behavior changeby W Wood · Cited by 491 — We outline habit-forming approach...</span></span></span>
+Habit researchers describe habits as behaviours that become increasingly automatic when repeated in stable contexts. Environmental cues and easy access strengthen this [automaticity]({{ 'automaticity/' | relative_url }}) over time. Interrupting that automatic sequence can weaken the habit's grip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">Open Research Surrey Habit Formation and Behavior Change</span><span class="citation-popover-snippet">Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 416 — It has been argued that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Neal_.2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">We show</span><span class="citation-popover-snippet">USC DornsifeInterventions for initiating &amp; maintaining health behavior changeby W Wood · Cited by 491 — We outline habit-forming approach...</span></span></span>
 
 The important insight is that an impulse is often brief. If acting on it becomes slightly harder, the impulse may fade before the behaviour occurs.
 
@@ -354,7 +354,7 @@ The objective is not to make purchasing impossible. It is to ensure that spendin
 
 The value of temptation storage is not the size of the obstacle. It is the interruption of automatic behaviour.
 
-Choice architecture research repeatedly shows that people are influenced by how options are arranged and how easy they are to access. Small environmental adjustments can produce meaningful shifts in behaviour because many decisions are made quickly and with limited deliberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabChoice ArchitectureChoice architecture means that the presentation of choices in different ways will impact decision making...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Additionally, the concept of friction...</span></span></span>
+Choice architecture research repeatedly shows that people are influenced by how options are arranged and how easy they are to access. Small environmental adjustments can produce meaningful shifts in behaviour because many decisions are made quickly and with limited deliberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabChoice ArchitectureChoice architecture means that the presentation of choices in different ways will impact decision making...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Additionally, the concept of friction...</span></span></span>
 
 When a tempting item is immediately available, the sequence often looks like this:
 
@@ -388,7 +388,7 @@ In habit research, one of the challenges of changing behaviour is surviving mome
 
 A common mistake is adding so much friction that the system becomes annoying and eventually gets abandoned.
 
-If healthy food is difficult to access while unhealthy food is merely hidden, the [environment]({{ 'environment/' | relative_url }}) still favours the unwanted behaviour. Likewise, locking away every entertainment device may work briefly but can become impractical in normal life.
+If healthy food is difficult to access while unhealthy food is merely hidden, the environment still favours the unwanted behaviour. Likewise, locking away every entertainment device may work briefly but can become impractical in normal life.
 
 Useful temptation storage follows three principles:
 
@@ -406,7 +406,7 @@ Behavioural design researchers distinguish between helpful friction and excessiv
 The most successful systems usually feel almost trivial. They are easy to maintain and difficult to resent.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F-DnF37n_E" title="How to Actually Start a Habit | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F-DnF37n_E" target="_blank" rel="noopener noreferrer">How to Actually Start a Habit | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 15.0K &middot; Uploaded: January 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F-DnF37n_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F-DnF37n_E">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pAjc5vS7hHI" title="Your Room Is Killing Your Willpower (Environment Design Protocol)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pAjc5vS7hHI" target="_blank" rel="noopener noreferrer">Your Room Is Killing Your Willpower (Environment Design Protocol)</a></p><p class="youtube-embed-meta">Channel: OrderOfBusiness &middot; Views: 12 &middot; Uploaded: February 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pAjc5vS7hHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pAjc5vS7hHI">Open on YouTube</a></p></div></div></div>
 
 ## The real goal is a moment of choice
 
@@ -837,113 +837,113 @@ The power of the approach lies in its modesty. By making bad habits just inconve
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Additionally, the concept of friction...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Additionally, the concept of friction...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dornsife.usc.edu  
    Title: We show  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Neal_.2016.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Neal_.2016.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Neal_.2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Neal_.2016.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeInterventions for initiating &amp; maintaining health behavior changeby W Wood · Cited by 491 — We outline habit-forming approach...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: demenzemedicinagenerale.net  
    Title: Behavior Model, or “FBM” for brevity.Read more  
-   Link: [https://www.demenzemedicinagenerale.net/images/mens-sana/Captology_Fogg_Behavior_Model.pdf](https://www.demenzemedicinagenerale.net/images/mens-sana/Captology_Fogg_Behavior_Model.pdf)  
+   Link: <a href="https://www.demenzemedicinagenerale.net/images/mens-sana/Captology_Fogg_Behavior_Model.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.demenzemedicinagenerale.net/images/mens-sana/Captology_Fogg_Behavior_Model.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Behavior Model for Persuasive Designby BJ Fogg · 2009 · Cited by 4215 — This paper shares a new way to understand the drivers of human...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets/C9920D90BE1B3BF41C1EAADFB9814BB2](https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets/C9920D90BE1B3BF41C1EAADFB9814BB2)  
+   Link: <a href="https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets/C9920D90BE1B3BF41C1EAADFB9814BB2" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets/C9920D90BE1B3BF41C1EAADFB9814BB2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentA nudge in the right direction: the role of food choice...by H Ensaff · 2021 · Cited by 182 — Thi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/online-choice-architecture-how-digital-design-can-harm-competition-and-consumers/evidence-review-of-online-choice-architecture-and-consumer-and-competition-harm](https://www.gov.uk/government/publications/online-choice-architecture-how-digital-design-can-harm-competition-and-consumers/evidence-review-of-online-choice-architecture-and-consumer-and-competition-harm)  
+   Link: <a href="https://www.gov.uk/government/publications/online-choice-architecture-how-digital-design-can-harm-competition-and-consumers/evidence-review-of-online-choice-architecture-and-consumer-and-competition-harm" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/online-choice-architecture-how-digital-design-can-harm-competition-and-consumers/evidence-review-of-online-choice-architecture-and-consumer-and-competition-harm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2022 — 5 Apr 2022 — Harmful OCA can also make decisions unnecessarily complex for consumers, and create friction that makes it d...</p></details>
    Published: April 5, 2022  
 
 6. <a id="endnote-6"></a>
    Source: habitweekly.com  
-   Link: [https://www.habitweekly.com/models-frameworks/the-fogg-model](https://www.habitweekly.com/models-frameworks/the-fogg-model)  
+   Link: <a href="https://www.habitweekly.com/models-frameworks/the-fogg-model" target="_blank" rel="noopener noreferrer nofollow">https://www.habitweekly.com/models-frameworks/the-fogg-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e &#x27;threshold&#x27; for action to do the behaviour [6].Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: openresearch.surrey.ac.uk  
    Title: Open Research Surrey Habit Formation and Behavior Change  
-   Link: [https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346](https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346)  
+   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 416 — It has been argued that...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/168584/9/a-nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets.pdf](https://eprints.whiterose.ac.uk/id/eprint/168584/9/a-nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/168584/9/a-nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/168584/9/a-nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research Onlinethe role of food choice architecture in changing populations...by H Ensaff · 2021 · Cited by 182 — The potenti...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/choice-architecture](https://thedecisionlab.com/reference-guide/psychology/choice-architecture)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabChoice ArchitectureChoice architecture means that the presentation of choices in different ways will impact decision making...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400550712_Bridging_Behavioral_Theory_and_Design_Practice_A_Taxonomy-Driven_Framework_for_Design_Ideation_Grounded_in_the_Fogg_Behavior_Model](https://www.researchgate.net/publication/400550712_Bridging_Behavioral_Theory_and_Design_Practice_A_Taxonomy-Driven_Framework_for_Design_Ideation_Grounded_in_the_Fogg_Behavior_Model)  
+   Link: <a href="https://www.researchgate.net/publication/400550712_Bridging_Behavioral_Theory_and_Design_Practice_A_Taxonomy-Driven_Framework_for_Design_Ideation_Grounded_in_the_Fogg_Behavior_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400550712_Bridging_Behavioral_Theory_and_Design_Practice_A_Taxonomy-Driven_Framework_for_Design_Ideation_Grounded_in_the_Fogg_Behavior_Model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Bridging Behavioral Theory and Design Practice7 Feb 2026 — To address this gap, this study operationalizes the Fogg Behavior Model...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dviscovich_what-friction-can-tell-us-about-why-behavior-activity-7396566610825793536-r6oq](https://www.linkedin.com/posts/dviscovich_what-friction-can-tell-us-about-why-behavior-activity-7396566610825793536-r6oq)  
+   Link: <a href="https://www.linkedin.com/posts/dviscovich_what-friction-can-tell-us-about-why-behavior-activity-7396566610825793536-r6oq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dviscovich_what-friction-can-tell-us-about-why-behavior-activity-7396566610825793536-r6oq</a>  
 
 14. <a id="endnote-14"></a>
    Source: medium.productcoalition.com  
    Title: three behavioural design lessons from bj fogg f95ababb1a64  
-   Link: [https://medium.productcoalition.com/three-behavioural-design-lessons-from-bj-fogg-f95ababb1a64](https://medium.productcoalition.com/three-behavioural-design-lessons-from-bj-fogg-f95ababb1a64)  
+   Link: <a href="https://medium.productcoalition.com/three-behavioural-design-lessons-from-bj-fogg-f95ababb1a64" target="_blank" rel="noopener noreferrer nofollow">https://medium.productcoalition.com/three-behavioural-design-lessons-from-bj-fogg-f95ababb1a64</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg: Simplicity changes behaviour — make something easier to do and people are more likely to do it. Behaviour grows over time — smal...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: globalrph.com  
-   Link: [https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/](https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/)  
+   Link: <a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lying habit formation and explores evidence-based strategies for behavioral change...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: coachpedropinto.com  
    Title: habit formation science backed strategies for leaders  
-   Link: [https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/](https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/)  
+   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — A 2025 study published in the Journal of Applied Psychology found...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NPR/posts/for-a-habit-to-stick-you-need-to-do-more-than-just-repeat-it-says-behavioral-sci/1357831806213815/](https://www.facebook.com/NPR/posts/for-a-habit-to-stick-you-need-to-do-more-than-just-repeat-it-says-behavioral-sci/1357831806213815/)  
+   Link: <a href="https://www.facebook.com/NPR/posts/for-a-habit-to-stick-you-need-to-do-more-than-just-repeat-it-says-behavioral-sci/1357831806213815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NPR/posts/for-a-habit-to-stick-you-need-to-do-more-than-just-repeat-it-says-behavioral-sci/1357831806213815/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>al, science-backed method for creating lasting positive habits by...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thatfigtree.com  
-   Link: [https://www.thatfigtree.com/reflection-blog/exploring-the-science-of-habits-a-fundamental-perspective-on-habit-formation-and-change](https://www.thatfigtree.com/reflection-blog/exploring-the-science-of-habits-a-fundamental-perspective-on-habit-formation-and-change)  
+   Link: <a href="https://www.thatfigtree.com/reflection-blog/exploring-the-science-of-habits-a-fundamental-perspective-on-habit-formation-and-change" target="_blank" rel="noopener noreferrer nofollow">https://www.thatfigtree.com/reflection-blog/exploring-the-science-of-habits-a-fundamental-perspective-on-habit-formation-and-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d to habits, giving readers a more comprehensive understanding of the topic...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ui-patterns.com  
    Title: making the fogg behavior model actionable  
-   Link: [https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable](https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable)  
+   Link: <a href="https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable" target="_blank" rel="noopener noreferrer nofollow">https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Apr 2019 — The Fogg Behavior Model states that any behavior will only happen when three elements converge at the same moment in time.Re...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: triagemethod.com  
-   Link: [https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/](https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/)  
+   Link: <a href="https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>you are to be an effective coach who consistently gets results...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thinkingaboutbehavior.substack.com  
-   Link: [https://thinkingaboutbehavior.substack.com/p/comparing-fogg-behavior-model-and](https://thinkingaboutbehavior.substack.com/p/comparing-fogg-behavior-model-and)  
+   Link: <a href="https://thinkingaboutbehavior.substack.com/p/comparing-fogg-behavior-model-and" target="_blank" rel="noopener noreferrer nofollow">https://thinkingaboutbehavior.substack.com/p/comparing-fogg-behavior-model-and</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model and COM-BFBM (Ability): Physical effort is tied to the immediate ease or difficulty of performing a behaviour. Fogg t...</p></details>

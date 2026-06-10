@@ -268,11 +268,11 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rul
 
 ## Introduction
 
-A delay rule is a simple if-then plan that inserts time between an urge and an action. Its purpose is not to eliminate temptation. It is to prevent a fast, emotionally driven choice from becoming an automatic behaviour before your longer-term goals have a chance to enter the decision. For [impulse spending]({{ 'spending-friction/' | relative_url }}) and late-night scrolling, this matters because both behaviours often thrive on immediacy. The purchase feels urgent now. The next video seems harmless now. The cost arrives later.
+A delay rule is a simple if-then plan that inserts time between an urge and an action. Its purpose is not to eliminate temptation. It is to prevent a fast, emotionally driven choice from becoming an automatic behaviour before your longer-term goals have a chance to enter the decision. For impulse spending and late-night scrolling, this matters because both behaviours often thrive on immediacy. The purchase feels urgent now. The next video seems harmless now. The cost arrives later.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-dark.svg" | relative_url }}" alt="Delay Rules illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on implementation intentions suggests that pre-decided if-then responses can help people follow through on goals by linking a specific cue to a specific action. The delay rule is one practical version of that principle: “If I feel the urge, then I will wait.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+Research on implementation intentions suggests that pre-decided if-then responses can help people follow through on goals by linking a specific cue to a specific action. The delay rule is one practical version of that principle: “If I feel the urge, then I will wait.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 ## Can a Pause Beat an Impulse?
 
@@ -313,7 +313,7 @@ A delay rule interrupts that process: <span class="citation-chip-wrap"><a class=
 
 </div>
 
-The same mechanism applies to late-night scrolling. Bedtime procrastination research has repeatedly linked problematic smartphone use with delayed sleep and poorer sleep outcomes. People often continue using devices despite intending to sleep because the immediate reward of stimulation outweighs the distant reward of rest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+The same mechanism applies to late-night scrolling. Bedtime procrastination research has repeatedly linked problematic smartphone use with delayed sleep and poorer sleep outcomes. People often continue using devices despite intending to sleep because the immediate reward of stimulation outweighs the distant reward of rest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 A delay rule shifts the sequence:
 
@@ -350,7 +350,7 @@ For larger purchases, some people extend the delay:
 
 The exact number matters less than having a clear rule. The important feature is that the waiting period is predetermined.
 
-Many people report that simply adding items to a basket and leaving them there dramatically reduces later purchasing. Community discussions among frugal consumers frequently describe this effect: a substantial proportion of desired items lose their appeal after a day or two of waiting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditLife Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</span><span class="citation-popover-meta">Published: September 29, 2025</span></span></span>
+Many people report that simply adding items to a basket and leaving them there dramatically reduces later purchasing. Community discussions among frugal consumers frequently describe this effect: a substantial proportion of desired items lose their appeal after a day or two of waiting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Life Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</span><span class="citation-popover-meta">Published: September 29, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-dark.svg" | relative_url }}" alt="Delay Rules illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,7 +366,7 @@ Examples include:
 
 These rules work because scrolling often depends on continuous engagement. Small interruptions can be surprisingly effective when the habit relies on automatic repetition.
 
-Research on bedtime procrastination highlights that behaviour occurring after a person intends to sleep is often less about conscious choice and more about difficulty disengaging from stimulation. Interrupting that sequence can therefore have outsized effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+Research on bedtime procrastination highlights that behaviour occurring after a person intends to sleep is often less about conscious choice and more about difficulty disengaging from stimulation. Interrupting that sequence can therefore have outsized effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xv1fbTgjIGc" title="The Secret Psychology Behind Impulse Buying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xv1fbTgjIGc" target="_blank" rel="noopener noreferrer">The Secret Psychology Behind Impulse Buying</a></p><p class="youtube-embed-meta">Channel: The Chill Historian &middot; Views: 1.5K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xv1fbTgjIGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xv1fbTgjIGc">Open on YouTube</a></p></div></div></div>
@@ -846,180 +846,180 @@ Within an if-then planning system, that pause is often enough. The temptation re
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S0309056620000076](https://www.sciencedirect.com/org/science/article/pii/S0309056620000076)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S0309056620000076" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S0309056620000076</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If-then plans help regulate automatic peer influence on...by JL Thürmer · 2020 · Cited by 84 — In Study 1, the role of implementation in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844023103938](https://www.sciencedirect.com/science/article/pii/S2405844023103938)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRelationship between time pressure and consumers...by B Sun · 2023 · Cited by 102 — The results suggest that time pressure...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844023103938" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023103938</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship between time pressure and consumers...by B Sun · 2023 · Cited by 102 — The results suggest that time pressure...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Online promotion effects under time limitation  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167923623000386](https://www.sciencedirect.com/science/article/abs/pii/S0167923623000386)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167923623000386" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167923623000386</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study fills the gap in the...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11481336/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11481336/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11481336/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11481336/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>technical and situational cues affect impulse buying...by Y Xue · 2024 · Cited by 20 — This paper explores how technical cues and situat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 33 — This study investigated the relationship...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 33 — This study investigated the relationship...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>between Problematic Smartphone Use, Sleep...by S Correa-Iriarte · 2023 · Cited by 57 — The purpose of this investigation was to study th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306460320306821](https://www.sciencedirect.com/science/article/abs/pii/S0306460320306821)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460320306821" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460320306821</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of smartphone addiction on sleep quality among...by MX Zhang · 2020 · Cited by 341 — The current study tested the effects of sma...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/](https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditLife Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</p></details>
+   Link: <a href="https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Life Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</p></details>
    Published: September 29, 2025  
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7460337/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7460337/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAn Exploratory Study on Sleep Procrastination: Bedtime vs...by P Magalhães · 2020 · Cited by 75 — The main goal of this study is to e...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7460337/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7460337/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploratory Study on Sleep Procrastination: Bedtime vs...by P Magalhães · 2020 · Cited by 75 — The main goal of this study is to e...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S138994572500231X](https://www.sciencedirect.com/science/article/pii/S138994572500231X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S138994572500231X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S138994572500231X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Failing to plan: Bedtime planning, bedtime procrastination...by Z Pu · 2025 · Cited by 10 — This study aimed to characterize bedtime pla...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c](https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c)  
+   Link: <a href="https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 48-Hour Buy-Later Rule: One Tiny Delay That Kills...This is the simplest anti-impulse system I know: Pause → Prove → Purchase...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
    Title: the 24 hour rule to stop impulse spending forever 598c52740052  
-   Link: [https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052](https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052)  
+   Link: <a href="https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 24-Hour Rule To Stop Impulse Spending ForeverA 2023 global consumer behavior study showed that over 60% of impulse purchases were reg...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0969698923002850](https://www.sciencedirect.com/science/article/pii/S0969698923002850)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0969698923002850" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0969698923002850</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse buying tendency in live-stream commerceby Y Qu · 2023 · Cited by 204 — This research examines the mediating role of viewing frequ...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844024117744](https://www.sciencedirect.com/science/article/pii/S2405844024117744)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive study on factors influencing online...by TTA Ngo · 2024 · Cited by 132 — This research analyzes the influence of product...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306460323003015](https://www.sciencedirect.com/science/article/abs/pii/S0306460323003015)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323003015" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323003015</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This two-wave study...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958823000702](https://www.sciencedirect.com/science/article/pii/S2451958823000702)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958823000702" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958823000702</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rationality and impulse buying: Is your emotion a part of...by YY Lee · 2023 · Cited by 61 — This study examines normative evaluation in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: money.com  
    Title: It requires you to wait a full day before buying non-essential items. The pause  
-   Link: [https://money.com/24-hour-rule-impulse-spending-retirees/](https://money.com/24-hour-rule-impulse-spending-retirees/)  
+   Link: <a href="https://money.com/24-hour-rule-impulse-spending-retirees/" target="_blank" rel="noopener noreferrer nofollow">https://money.com/24-hour-rule-impulse-spending-retirees/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;24-Hour Rule&#x27; That Helps Retirees Make Their Money LastApr 16, 2026 — The 24-hour rule initiates guardrails on impulse spending...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: realsimple.com  
-   Link: [https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783](https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783)  
+   Link: <a href="https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to behavioral experts, several psychological mechanisms play a role. Shoppers often experience decision fatigue by the time the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms](https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenge bedtime procrastination refers to the common behavior of delaying sleep to gain a sense of personal freedom lost during the day...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Bedtime](https://en.wikipedia.org/wiki/Bedtime)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bedtime" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bedtime</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BedtimeBedtime is a parenting ritual to help children feel more secure and become accustomed to a more rigid schedule of sleep than th...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Bedtime procrastination  
-   Link: [https://en.wikipedia.org/wiki/Bedtime_procrastination](https://en.wikipedia.org/wiki/Bedtime_procrastination)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bedtime_procrastination" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bedtime_procrastination</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bedtime procrastinationThe results show that off-time work-related smartphone use may provoke bedtime procrastination. The negative im...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sleepfoundation.org  
    Title: revenge bedtime procrastination  
-   Link: [https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination](https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 15, 2025 — Revenge bedtime procrastination is staying up late even when you know you need sleep. Learn why it happens and how to stop it...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: invespcro.com  
    Title: impulse buying  
-   Link: [https://www.invespcro.com/blog/impulse-buying/](https://www.invespcro.com/blog/impulse-buying/)  
+   Link: <a href="https://www.invespcro.com/blog/impulse-buying/" target="_blank" rel="noopener noreferrer nofollow">https://www.invespcro.com/blog/impulse-buying/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The State of Impulse Buying (Statistics &amp; Trends 2025)Learn what is impulse buying, who impulse buyers are, what triggers their spending...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396143931_The_Cost_of_Midnight_Scrolling_Smartphone-_Induced_Bedtime_Procrastination_as_a_Predictor_of_Daytime_Sleepiness_and_Life_Satisfaction](https://www.researchgate.net/publication/396143931_The_Cost_of_Midnight_Scrolling_Smartphone-_Induced_Bedtime_Procrastination_as_a_Predictor_of_Daytime_Sleepiness_and_Life_Satisfaction)  
+   Link: <a href="https://www.researchgate.net/publication/396143931_The_Cost_of_Midnight_Scrolling_Smartphone-_Induced_Bedtime_Procrastination_as_a_Predictor_of_Daytime_Sleepiness_and_Life_Satisfaction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396143931_The_Cost_of_Midnight_Scrolling_Smartphone-_Induced_Bedtime_Procrastination_as_a_Predictor_of_Daytime_Sleepiness_and_Life_Satisfaction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Induced Bedtime Procrastination as a Predictor of Daytime...3 Oct 2025 — This study examined the level of smartphone-induced bedtime pro...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases](https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases)  
+   Link: <a href="https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Online Impulse Buying for Smarter PurchasesImpulse buying refers to the unplanned and spontaneous decision to buy a product or s...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/ijrdm/article/53/2/182/1244732/Understanding-impulse-buying-in-interest-based-e](https://www.emerald.com/ijrdm/article/53/2/182/1244732/Understanding-impulse-buying-in-interest-based-e)  
+   Link: <a href="https://www.emerald.com/ijrdm/article/53/2/182/1244732/Understanding-impulse-buying-in-interest-based-e" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijrdm/article/53/2/182/1244732/Understanding-impulse-buying-in-interest-based-e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding impulse buying in interest-based e-commerceThis study expands the stream of impulse buying research in retailing by proposi...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4YB1ey6l/](https://ouci.dntb.gov.ua/en/works/4YB1ey6l/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4YB1ey6l/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4YB1ey6l/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dntb.gov.uaIf-then plans help regulate automatic peer influence on...PurposeThis study aims to take a dual-process perspective and argue...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: hrmars.com  
-   Link: [https://hrmars.com/papers_submitted/26641/the-cost-of-midnight-scrolling-smartphone-induced-bedtime-procrastination-as-a-predictor-of-daytime-sleepiness-and-life-satisfaction.pdf](https://hrmars.com/papers_submitted/26641/the-cost-of-midnight-scrolling-smartphone-induced-bedtime-procrastination-as-a-predictor-of-daytime-sleepiness-and-life-satisfaction.pdf)  
+   Link: <a href="https://hrmars.com/papers_submitted/26641/the-cost-of-midnight-scrolling-smartphone-induced-bedtime-procrastination-as-a-predictor-of-daytime-sleepiness-and-life-satisfaction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hrmars.com/papers_submitted/26641/the-cost-of-midnight-scrolling-smartphone-induced-bedtime-procrastination-as-a-predictor-of-daytime-sleepiness-and-life-satisfaction.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Problematic smartphone use before bedtime has become a growing concern due to its adverse consequences on the daily functioning of...Rea...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: journal.uitm.edu.my  
-   Link: [https://journal.uitm.edu.my/ojs/index.php/IJ/article/download/3477/1627/12106](https://journal.uitm.edu.my/ojs/index.php/IJ/article/download/3477/1627/12106)  
+   Link: <a href="https://journal.uitm.edu.my/ojs/index.php/IJ/article/download/3477/1627/12106" target="_blank" rel="noopener noreferrer nofollow">https://journal.uitm.edu.my/ojs/index.php/IJ/article/download/3477/1627/12106</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FACTORS AFFECTING ONLINE IMPULSE...This research aims to examine the relationship between shopping environment, website quality, promoti...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: jmsr-online.com  
-   Link: [https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/](https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/)  
+   Link: <a href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow">https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 11 — Online impulse buying has psychological roo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
    Title: 342606016 If then plans help regulate automatic peer influence on impulse buying  
-   Link: [https://www.researchgate.net/publication/342606016_If-then_plans_help_regulate_automatic_peer_influence_on_impulse_buying](https://www.researchgate.net/publication/342606016_If-then_plans_help_regulate_automatic_peer_influence_on_impulse_buying)  
+   Link: <a href="https://www.researchgate.net/publication/342606016_If-then_plans_help_regulate_automatic_peer_influence_on_impulse_buying" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342606016_If-then_plans_help_regulate_automatic_peer_influence_on_impulse_buying</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If-then plans help regulate automatic peer influence on...4 Jul 2020 — This study aims to take a dual-process perspective and argues tha...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: whistl.app  
-   Link: [https://www.whistl.app/psychology-of-impulse-buying-2026.html](https://www.whistl.app/psychology-of-impulse-buying-2026.html)  
+   Link: <a href="https://www.whistl.app/psychology-of-impulse-buying-2026.html" target="_blank" rel="noopener noreferrer nofollow">https://www.whistl.app/psychology-of-impulse-buying-2026.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn the neuroscience behind spending urges and 12 science-backed strategies to resist them...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: jier.org  
-   Link: [https://jier.org/index.php/journal/article/download/3500/2793/6232](https://jier.org/index.php/journal/article/download/3500/2793/6232)  
+   Link: <a href="https://jier.org/index.php/journal/article/download/3500/2793/6232" target="_blank" rel="noopener noreferrer nofollow">https://jier.org/index.php/journal/article/download/3500/2793/6232</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eptable phenomenon, this consumer behavior is prevalent on a global scale.Read more...</p></details>

@@ -272,7 +272,7 @@ Many self-improvement systems fail at the [feedback]({{ 'feedback/' | relative_u
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-dark.svg" | relative_url }}" alt="No Shame illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Task-focused feedback works differently. It keeps attention on what happened, what influenced the result, and what can change next time. Instead of asking, “What does this say about me?”, it asks, “What does this say about the process?” Research on feedback, self-regulation, self-compassion, and learning consistently suggests that people cope better with setbacks and persist longer when feedback targets strategies, effort allocation, or task execution rather than personal worth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPerson versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</span></span></span>
+Task-focused feedback works differently. It keeps attention on what happened, what influenced the result, and what can change next time. Instead of asking, “What does this say about me?”, it asks, “What does this say about the process?” Research on feedback, self-regulation, self-compassion, and learning consistently suggests that people cope better with setbacks and persist longer when feedback targets strategies, effort allocation, or task execution rather than personal worth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</span></span></span>
 
 ## Why Self-Judgement Gives No Usable Instruction
 
@@ -311,7 +311,7 @@ This creates a damaging cycle:
 
 The original goal may still matter, but the system loses its ability to adapt.
 
-Behaviour-change research repeatedly identifies monitoring and feedback as important self-regulation mechanisms because they provide information for adjustment. Those mechanisms only work when people remain willing to look at the information. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Self-regulation strategies | EEFSelf-regulation strategies have a positive impact (+ three months), on average, and may be a cost-effecti...</span></span></span>
+Behaviour-change research repeatedly identifies monitoring and feedback as important self-regulation mechanisms because they provide information for adjustment. Those mechanisms only work when people remain willing to look at the information. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Self-regulation strategies &#124; EEFSelf-regulation strategies have a positive impact (+ three months), on average, and may be a cost-effecti...</span></span></span>
 
 Task-focused feedback preserves that willingness by treating data as operational information rather than moral judgement.
 
@@ -379,7 +379,7 @@ Process-focused feedback targets actions, strategies, or methods:
 
 </div>
 
-Research by Melissa Kamins and Carol Dweck found that feedback framed around the person can create a sense that worth depends on performance. After setbacks, children exposed to person-focused praise or criticism showed more helpless responses and self-blame than those receiving process-focused feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPerson versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentexperiencenetwork.org">[Student Experience Research Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentexperiencenetwork.org</span><span class="citation-popover-title">Student Experience Research Network Person vs</span><span class="citation-popover-snippet">process praise and criticismDweck, Carol S. Children displayed more &quot;helpless&quot; responses (including self blame) after receiving person cr...</span></span></span>
+Research by Melissa Kamins and Carol Dweck found that feedback framed around the person can create a sense that worth depends on performance. After setbacks, children exposed to person-focused praise or criticism showed more helpless responses and self-blame than those receiving process-focused feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentexperiencenetwork.org">[Student Experience Research Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentexperiencenetwork.org</span><span class="citation-popover-title">Student Experience Research Network Person vs</span><span class="citation-popover-snippet">process praise and criticismDweck, Carol S. Children displayed more &quot;helpless&quot; responses (including self blame) after receiving person cr...</span></span></span>
 
 The important lesson for self-improvement is that people can deliver person-focused feedback to themselves just as easily as others can.
 
@@ -394,7 +394,7 @@ Many internal monologues sound like this:
 
 </div>
 
-These statements mirror the same identity-focused pattern that research associates with poorer coping after setbacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPerson versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> ScienceDirect Replacing them with process-focused observations keeps attention on changeable variables. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 4 — This network analysis provides a precise u...</span></span></span>
+These statements mirror the same identity-focused pattern that research associates with poorer coping after setbacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> ScienceDirect Replacing them with process-focused observations keeps attention on changeable variables. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 4 — This network analysis provides a precise u...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-dark.svg" | relative_url }}" alt="No Shame illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -461,7 +461,7 @@ Remove shopping apps or set a waiting period.
 
 **Possible adjustment**
 
-Switch from rereading to [retrieval practice]({{ 'retrieval-groups/' | relative_url }}).
+Switch from rereading to retrieval practice.
 
 Notice that none of the revised versions excuse the problem. They simply describe it in a form that can influence the next attempt.
 
@@ -479,7 +479,7 @@ If the answer is no, the feedback is probably too personal or too vague.
 Compare these examples:
 
 * “I am unreliable.”
-* “My reminders are arriving after the task should have started.”
+* “My [reminders]({{ 'reminders/' | relative_url }}) are arriving after the task should have started.”
 
 Only the second statement naturally leads to a test.
 
@@ -828,137 +828,137 @@ Instead of asking whether a result proves something about who you are, task-focu
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSelf-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: self-compassion.org  
    Title: Psych Review article in press  
-   Link: [https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf](https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf)  
+   Link: <a href="https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 self-criticism, self-compassion uses warmth, encouragement, and constructive feedback to work toward personal goals. Self-compassion is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666915325000204](https://www.sciencedirect.com/science/article/pii/S2666915325000204)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666915325000204</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 4 — This network analysis provides a precise u...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies](https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation strategies | EEFSelf-regulation strategies have a positive impact (+ three months), on average, and may be a cost-effecti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0148296322009006](https://www.sciencedirect.com/science/article/pii/S0148296322009006)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0148296322009006" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0148296322009006</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation and goal-directed behavior: A systematic...by S Billore · 2023 · Cited by 112 — This article is one of the first to pres...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475226000046](https://www.sciencedirect.com/science/article/abs/pii/S0959475226000046)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475226000046" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475226000046</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The roles of growth mindset and feedback type in shaping...by X Liu · 2026 — Person-oriented criticism targets the child&#x27;s global self (...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Carol Dweck  
-   Link: [https://www.youtube.com/watch?v=NWv1VdDeoRY](https://www.youtube.com/watch?v=NWv1VdDeoRY)  
+   Link: <a href="https://www.youtube.com/watch?v=NWv1VdDeoRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NWv1VdDeoRY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defensiveness Ends Here | The What, So What, Now What Framework...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10380873/](https://pubmed.ncbi.nlm.nih.gov/10380873/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedPerson versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10380873/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of Emotion-focused training for...by J Halamová · 2023 · Cited by 8 — Empirical research is increasingly focused on self-comp...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: studentexperiencenetwork.org  
    Title: Student Experience Research Network Person vs  
-   Link: [https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/](https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/)  
+   Link: <a href="https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>process praise and criticismDweck, Carol S. Children displayed more &quot;helpless&quot; responses (including self blame) after receiving person cr...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 361410794 Learning from Failure with Self vs Task Focused Feedback  
-   Link: [https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback](https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback)  
+   Link: <a href="https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning from Failure with Self vs Task Focused Feedback19 Jun 2022 — Decades of feedback research have suggested that feedback is more e...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/ja/dictionary/english/person](https://dictionary.cambridge.org/ja/dictionary/english/person)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| 意味, Cambridge 英語辞書での定義person noun [C] (HUMAN)... a man, woman, or child: Who was the first person to swim the English Channel? A meal...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/ja/dictionary/english/person" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ja/dictionary/english/person</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>意味, Cambridge 英語辞書での定義person noun [C] (HUMAN)... a man, woman, or child: Who was the first person to swim the English Channel? A meal...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1625771/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1625771/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1625771/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1625771/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A comparative study of state self-esteem responses to...by YH Chen · 2025 · Cited by 10 — Adolescents demonstrated significantly greater...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: linkedin.com  
    Title: how can you use self compassion deal feedback  
-   Link: [https://www.linkedin.com/advice/0/how-can-you-use-self-compassion-deal-feedback](https://www.linkedin.com/advice/0/how-can-you-use-self-compassion-deal-feedback)  
+   Link: <a href="https://www.linkedin.com/advice/0/how-can-you-use-self-compassion-deal-feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/advice/0/how-can-you-use-self-compassion-deal-feedback</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Compassion at Work: How to Deal with Feedback...10 Apr 2023 — Learn how to use self-compassion to cope with stress, improve your p...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: njlifehacks.com  
    Title: self compassion versus self criticism  
-   Link: [https://www.njlifehacks.com/self-compassion-versus-self-criticism/](https://www.njlifehacks.com/self-compassion-versus-self-criticism/)  
+   Link: <a href="https://www.njlifehacks.com/self-compassion-versus-self-criticism/" target="_blank" rel="noopener noreferrer nofollow">https://www.njlifehacks.com/self-compassion-versus-self-criticism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>because their [motivation](&amp;#123;&amp;#123; &#x27;motivation/&#x27; | relative_url &amp;#125;&amp;#125;) stems...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying and Applying Behaviour Change TechniquesThis interactive tool unpacks step 5 &#x27;build the intervention&#x27; where we explore how to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: oxfordlearning.com  
-   Link: [https://oxfordlearning.com/praising-children-for-effort-rather-than-ability/](https://oxfordlearning.com/praising-children-for-effort-rather-than-ability/)  
+   Link: <a href="https://oxfordlearning.com/praising-children-for-effort-rather-than-ability/" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlearning.com/praising-children-for-effort-rather-than-ability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Praising Children for Effort Rather Than AbilityPraising effort rather than skills or natural ability helps students of all ages learn th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/12918063_Person_Versus_Process_Praise_and_Criticism_Implications_for_Contingent_Self-Worth_and_Coping](https://www.researchgate.net/publication/12918063_Person_Versus_Process_Praise_and_Criticism_Implications_for_Contingent_Self-Worth_and_Coping)  
+   Link: <a href="https://www.researchgate.net/publication/12918063_Person_Versus_Process_Praise_and_Criticism_Implications_for_Contingent_Self-Worth_and_Coping" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12918063_Person_Versus_Process_Praise_and_Criticism_Implications_for_Contingent_Self-Worth_and_Coping</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Person Versus Process Praise and Criticism: Implications...Kamins and Dweck (1999) demonstrated that process praise (e.g., &quot;You found a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: learningloop.io  
-   Link: [https://learningloop.io/plays/psychology/feedback-loops](https://learningloop.io/plays/psychology/feedback-loops)  
+   Link: <a href="https://learningloop.io/plays/psychology/feedback-loops" target="_blank" rel="noopener noreferrer nofollow">https://learningloop.io/plays/psychology/feedback-loops</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loops: Provide instant insight into user actionsUse feedback loops to give users immediate clarity on their actions - practical...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: bingschool.stanford.edu  
    Title: carol dweck praising intelligence costs childrens self esteem and motivation  
-   Link: [https://bingschool.stanford.edu/news/carol-dweck-praising-intelligence-costs-childrens-self-esteem-and-motivation](https://bingschool.stanford.edu/news/carol-dweck-praising-intelligence-costs-childrens-self-esteem-and-motivation)  
+   Link: <a href="https://bingschool.stanford.edu/news/carol-dweck-praising-intelligence-costs-childrens-self-esteem-and-motivation" target="_blank" rel="noopener noreferrer nofollow">https://bingschool.stanford.edu/news/carol-dweck-praising-intelligence-costs-childrens-self-esteem-and-motivation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dweck: Praising Intelligence: Costs to Children&#x27;s Self...Nov 1, 2007 — Dweck and her team are now working on developing a computer-based...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: studentexperiencenetwork.org  
-   Link: [https://studentexperiencenetwork.org/wp-content/uploads/2015/09/Praise-That-Makes-Learners-More-Reslient.pdf](https://studentexperiencenetwork.org/wp-content/uploads/2015/09/Praise-That-Makes-Learners-More-Reslient.pdf)  
+   Link: <a href="https://studentexperiencenetwork.org/wp-content/uploads/2015/09/Praise-That-Makes-Learners-More-Reslient.pdf" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/wp-content/uploads/2015/09/Praise-That-Makes-Learners-More-Reslient.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But another important idea for parents and teachers to remember is that both praise and criticism should.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reed.edu  
    Title: College Effects of person versus process praise on student motivation  
-   Link: [https://www.reed.edu/psychology/motivation/assets/downloads/Haimovitz_Corpus_2011.pdf](https://www.reed.edu/psychology/motivation/assets/downloads/Haimovitz_Corpus_2011.pdf)  
+   Link: <a href="https://www.reed.edu/psychology/motivation/assets/downloads/Haimovitz_Corpus_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reed.edu/psychology/motivation/assets/downloads/Haimovitz_Corpus_2011.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reed CollegeEffects of person versus process praise on student motivationMay 26, 2011 — Con- versely, those who received person praise su...</p></details>
    Published: May 26, 2011  
 
 23. <a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf](https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>overview of behaviour change models and their usesThis is a central line of narrative in Tim Jackson&#x27;s review of behavioural theory in wh...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Person-versus-process-praise-and-criticism%3A-for-and-Kamins-Dweck/5f28c7e059f999d8f10510128198154e9930f025](https://www.semanticscholar.org/paper/Person-versus-process-praise-and-criticism%3A-for-and-Kamins-Dweck/5f28c7e059f999d8f10510128198154e9930f025)  
+   Link: <a href="https://www.semanticscholar.org/paper/Person-versus-process-praise-and-criticism%3A-for-and-Kamins-Dweck/5f28c7e059f999d8f10510128198154e9930f025" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Person-versus-process-praise-and-criticism%3A-for-and-Kamins-Dweck/5f28c7e059f999d8f10510128198154e9930f025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>veyed person or trait judgments could send a message of contingent worth and...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: escholarship.org  
    Title: qt68j7q1t4 noSplash 2d42212fd2f4c2c6bdea92cc30585219  
-   Link: [https://escholarship.org/content/qt68j7q1t4/qt68j7q1t4_noSplash_2d42212fd2f4c2c6bdea92cc30585219.pdf](https://escholarship.org/content/qt68j7q1t4/qt68j7q1t4_noSplash_2d42212fd2f4c2c6bdea92cc30585219.pdf)  
+   Link: <a href="https://escholarship.org/content/qt68j7q1t4/qt68j7q1t4_noSplash_2d42212fd2f4c2c6bdea92cc30585219.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt68j7q1t4/qt68j7q1t4_noSplash_2d42212fd2f4c2c6bdea92cc30585219.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decades of feedback research have suggested that feedback is more effective in correcting errors than confirming the right responses...</p></details>

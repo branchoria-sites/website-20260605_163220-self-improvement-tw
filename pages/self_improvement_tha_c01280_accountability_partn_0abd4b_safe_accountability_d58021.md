@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:54:40'
 parent_title: What Makes an Accountability Partner Useful? | Better Change
 parent_permalink: /accountability/
 parent_nav_short_title: Accountability
@@ -259,7 +260,6 @@ prev_link:
   permalink: /retrieval-groups/
   short_title: Retrieval groups
   heading_title: The study group that actually helps learning
-date: '2026-06-05 15:54:40 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_safe_accountability_d58021-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_safe_accountability_d58021-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_sa
 
 ## Introduction
 
-A good accountability partner is not simply the most disciplined person available. The most effective partner is someone who makes honest reporting easier. If every check-in feels like an evaluation, people naturally hide setbacks, soften the truth, or avoid the conversation altogether. By contrast, when the relationship feels safe, missed sessions, procrastination, and mistakes can be discussed openly and turned into better plans. Research on both supportive accountability and psychological safety suggests that people follow through more consistently when expectations are clear and the person holding them accountable is perceived as trustworthy, benevolent, and genuinely interested in their success rather than their performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMeda model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate For self-improvement that works]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSupportive Accountability: A Model for Providing Human...We argue that human support increases adherence through accountabil...</span></span></span>, the goal is not to find a personal drill sergeant. It is to find someone who combines reliability with warmth, honesty with respect, and accountability with psychological safety.
+A good accountability partner is not simply the most disciplined person available. The most effective partner is someone who makes honest reporting easier. If every check-in feels like an evaluation, people naturally hide setbacks, soften the truth, or avoid the conversation altogether. By contrast, when the relationship feels safe, missed sessions, procrastination, and mistakes can be discussed openly and turned into better plans. Research on both supportive accountability and psychological safety suggests that people follow through more consistently when expectations are clear and the person holding them accountable is perceived as trustworthy, benevolent, and genuinely interested in their success rather than their performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate For self-improvement that works]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Supportive Accountability: A Model for Providing Human...We argue that human support increases adherence through accountabil...</span></span></span>, the goal is not to find a personal drill sergeant. It is to find someone who combines reliability with warmth, honesty with respect, and accountability with psychological safety.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_safe_accountability_d58021-Illustration-1-dark.svg" | relative_url }}" alt="Right partner illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_safe_accountability_d58021-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_safe_accountability_d58021-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,13 +278,13 @@ Many people choose accountability partners by looking for the most organised, pr
 
 The real test is whether you can tell the truth. Imagine two scenarios. In the first, you planned five study sessions and completed two. You feel comfortable saying exactly that. In the second, you know the other person will sound disappointed, sarcastic, or superior. The temptation is to exaggerate progress or avoid the check-in altogether. Once that happens, accountability stops functioning.
 
-Research on supportive accountability highlights that adherence improves when the person providing [support]({{ 'support/' | relative_url }}) is viewed as trustworthy and benevolent, not merely authoritative. Clear expectations matter, but so does the quality of the relationship. Accountability works best when people believe the other person is on their side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMeda model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> ScienceDirect This helps explain why a moderately organised friend who listens well may outperform a highly disciplined acquaintance who unintentionally cr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe Supportive Accountability Inventory: Psychometric...by J Meyerhoff · 2021 · Cited by 18 — The Supportive Accountability...</span></span></span> eates pressure or embarrassment. The first relationship encourages accurate information. The second may encourage impression management.
+Research on supportive accountability highlights that adherence improves when the person providing [support]({{ 'support/' | relative_url }}) is viewed as trustworthy and benevolent, not merely authoritative. Clear expectations matter, but so does the quality of the relationship. Accountability works best when people believe the other person is on their side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> ScienceDirect This helps explain why a moderately organised friend who listens well may outperform a highly disciplined acquaintance who unintentionally cr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Supportive Accountability Inventory: Psychometric...by J Meyerhoff · 2021 · Cited by 18 — The Supportive Accountability...</span></span></span> eates pressure or embarrassment. The first relationship encourages accurate information. The second may encourage impression management.
 
 A useful question is therefore not, “Who is the most disciplined person I know?” but, “Who can hear about a bad week without making me want to hide it?”
 
 ## Trust, warmth and clear expectations
 
-Psychological safety is often defined as the feeling that it is safe to take interpersonal risks—to admit mistakes, ask questions, or reveal uncertainty without fear of humiliation. Although the concept was developed for teams, the principle transfers naturally to one-to-one accountability relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7393970/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central How Psychological Safety Affects Team Performance</span><span class="citation-popover-snippet">It investigates psychological safety, a shared belief that the team is safe for...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spill.chat/company-culture/four-stages-of-psychological-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spill.chat">[2spill.chat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spill.chat</span><span class="citation-popover-title">The 4 stages of psychological safety (free psychological</span><span class="citation-popover-snippet">Spill6 May 2025 — First coined* by Harvard professor Amy Edmondson, psychological safety is the shared belief that a group, or team, is s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Psychological safety is often defined as the feeling that it is safe to take interpersonal risks—to admit mistakes, ask questions, or reveal uncertainty without fear of humiliation. Although the concept was developed for teams, the principle transfers naturally to one-to-one accountability relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7393970/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central How Psychological Safety Affects Team Performance</span><span class="citation-popover-snippet">It investigates psychological safety, a shared belief that the team is safe for...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spill.chat/company-culture/four-stages-of-psychological-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spill.chat">[2spill.chat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spill.chat</span><span class="citation-popover-title">The 4 stages of psychological safety (free psychological</span><span class="citation-popover-snippet">6 May 2025 — First coined* by Harvard professor Amy Edmondson, psychological safety is the shared belief that a group, or team, is s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 For accountability partnerships, three qualities matter especially.
 
@@ -328,7 +328,7 @@ Amy Edmondson's work on psychological safety repeatedly emphasises that safety d
 
 Safety without expectations can become vague encouragement. Expectations without safety can become anxiety.
 
-Supportive accountability research highlights the importance of agreed, process-focused expectations. People are more likely to follow through when commitments are specific and mutually understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSupportive Accountability: A Model for Providing Human...We argue that human support increases adherence through accountabil...</span></span></span> ScienceDirect Good partners therefore establish practical rules such as: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe Supportive Accountability Inventory: Psychometric...by J Meyerhoff · 2021 · Cited by 18 — The Supportive Accountability...</span></span></span>
+Supportive accountability research highlights the importance of agreed, process-focused expectations. People are more likely to follow through when commitments are specific and mutually understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Supportive Accountability: A Model for Providing Human...We argue that human support increases adherence through accountabil...</span></span></span> ScienceDirect Good partners therefore establish practical rules such as: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Supportive Accountability Inventory: Psychometric...by J Meyerhoff · 2021 · Cited by 18 — The Supportive Accountability...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -410,7 +410,7 @@ The most revealing moment in an accountability relationship is not a successful 
 
 Anyone can celebrate completed tasks. The real test comes when goals are missed, [motivation]({{ 'motivation/' | relative_url }}) drops, or life becomes complicated. A strong accountability partner helps convert those moments into learning rather than avoidance.
 
-Behaviour-change research repeatedly shows that change is rarely linear and often requires ongoing support through setbacks and interruptions. People benefit from relationships that help them re-engage rather than abandon the process altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7393970/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central How Psychological Safety Affects Team Performance</span><span class="citation-popover-snippet">It investigates psychological safety, a shared belief that the team is safe for...Read more...</span></span></span> ScienceDirect The right partner therefore creates a balance that can feel surprisingly simple: enough accountability that commitments matter <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe Supportive Accountability Inventory: Psychometric...by J Meyerhoff · 2021 · Cited by 18 — The Supportive Accountability...</span></span></span>, and enough safety that failures can be discussed honestly. When both conditions are present, check-ins become a source of accurate [feedback]({{ 'feedback/' | relative_url }}) rather than a performance of success. That is where accountability starts producing real follow-through.
+Behaviour-change research repeatedly shows that change is rarely linear and often requires ongoing support through setbacks and interruptions. People benefit from relationships that help them re-engage rather than abandon the process altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7393970/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central How Psychological Safety Affects Team Performance</span><span class="citation-popover-snippet">It investigates psychological safety, a shared belief that the team is safe for...Read more...</span></span></span> ScienceDirect The right partner therefore creates a balance that can feel surprisingly simple: enough accountability that commitments matter <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Supportive Accountability Inventory: Psychometric...by J Meyerhoff · 2021 · Cited by 18 — The Supportive Accountability...</span></span></span>, and enough safety that failures can be discussed honestly. When both conditions are present, check-ins become a source of accurate [feedback]({{ 'feedback/' | relative_url }}) rather than a performance of success. That is where accountability starts producing real follow-through.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -833,141 +833,141 @@ Behaviour-change research repeatedly shows that change is rarely linear and ofte
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions](https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSupportive Accountability: A Model for Providing Human...We argue that human support increases adherence through accountabil...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/50363494_Supportive_Accountability_A_Model_for_Providing_Human_Support_to_Enhance_Adherence_to_eHealth_Interventions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supportive Accountability: A Model for Providing Human...We argue that human support increases adherence through accountabil...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2214782921000397](https://www.sciencedirect.com/science/article/pii/S2214782921000397)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe Supportive Accountability Inventory: Psychometric...by J Meyerhoff · 2021 · Cited by 18 — The Supportive Accountability...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782921000397</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Supportive Accountability Inventory: Psychometric...by J Meyerhoff · 2021 · Cited by 18 — The Supportive Accountability...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: spill.chat  
    Title: The 4 stages of psychological safety (free psychological  
-   Link: [https://www.spill.chat/company-culture/four-stages-of-psychological-safety](https://www.spill.chat/company-culture/four-stages-of-psychological-safety)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spill6 May 2025 — First coined* by Harvard professor Amy Edmondson, psychological safety is the shared belief that a group, or team, is s...</p></details>
+   Link: <a href="https://www.spill.chat/company-culture/four-stages-of-psychological-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.spill.chat/company-culture/four-stages-of-psychological-safety</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 May 2025 — First coined* by Harvard professor Amy Edmondson, psychological safety is the shared belief that a group, or team, is s...</p></details>
    Published: May 2025  
 
 4. <a id="endnote-4"></a>
    Source: neuroleadership.com  
-   Link: [https://www.neuroleadership.com/articles/psychological-safety-and-accountability-three-insights-from-nlis-conversation-with-amy-edmondson](https://www.neuroleadership.com/articles/psychological-safety-and-accountability-three-insights-from-nlis-conversation-with-amy-edmondson)  
+   Link: <a href="https://www.neuroleadership.com/articles/psychological-safety-and-accountability-three-insights-from-nlis-conversation-with-amy-edmondson" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroleadership.com/articles/psychological-safety-and-accountability-three-insights-from-nlis-conversation-with-amy-edmondson</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Safety and Accountability: Three Insights...5 Mar 2024 — According to Edmondson, the false dichotomy of psychological safe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2542454824000225](https://www.sciencedirect.com/science/article/pii/S2542454824000225)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2542454824000225</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting Sustainable Health Behavior Changeby JA Matthews · 2024 · Cited by 81 — Health and wellness coaching (HWC) is a behavior chang...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation IntentionsThis principle is used to reconsider the fundamental nature of approach–avoidance, expectancy–value relati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391839436_Balancing_Psychological_Safety_and_Accountability_in_High-Performance_Teams](https://www.researchgate.net/publication/391839436_Balancing_Psychological_Safety_and_Accountability_in_High-Performance_Teams)  
+   Link: <a href="https://www.researchgate.net/publication/391839436_Balancing_Psychological_Safety_and_Accountability_in_High-Performance_Teams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391839436_Balancing_Psychological_Safety_and_Accountability_in_High-Performance_Teams</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drawing on research, personality theory, and case examples...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Model-of-Supportive-Accountability_fig1_50363494](https://www.researchgate.net/figure/Model-of-Supportive-Accountability_fig1_50363494)  
+   Link: <a href="https://www.researchgate.net/figure/Model-of-Supportive-Accountability_fig1_50363494" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Model-of-Supportive-Accountability_fig1_50363494</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Model of Supportive AccountabilityWe have developed a framework for understanding and constructing human support components of eHealth in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved](https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved)  
+   Link: <a href="https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0749597820303848](https://www.sciencedirect.com/science/article/pii/S0749597820303848)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749597820303848" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597820303848</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior changeby AL Duckworth · 2020 · Cited by 137 — Implementation intentions are an especially powerful form of plan that uses an if...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21393123/](https://pubmed.ncbi.nlm.nih.gov/21393123/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMeda model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21393123/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central How Psychological Safety Affects Team Performance  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7393970/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7393970/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7393970/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7393970/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It investigates psychological safety, a shared belief that the team is safe for...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: amycedmondson.com  
    Title: Amy C. Edmondson Psychological Safety  
-   Link: [https://amycedmondson.com/category/psychological-safety/](https://amycedmondson.com/category/psychological-safety/)  
+   Link: <a href="https://amycedmondson.com/category/psychological-safety/" target="_blank" rel="noopener noreferrer nofollow">https://amycedmondson.com/category/psychological-safety/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy C. EdmondsonPsychological Safety - Amy C. EdmondsonA common misperception about psychological safety is that it means lowering standa...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: library.hbs.edu  
-   Link: [https://www.library.hbs.edu/working-knowledge/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today](https://www.library.hbs.edu/working-knowledge/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today)  
+   Link: <a href="https://www.library.hbs.edu/working-knowledge/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today" target="_blank" rel="noopener noreferrer nofollow">https://www.library.hbs.edu/working-knowledge/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School LibraryFour Steps to Building the Psychological Safety That High...14 Jun 2023 — Encourage teams to bond through...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Psychological safety and accountability in longitudinal  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10571297/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10571297/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby RA Latessa · 2023 · Cited by 21 — Psychological safety and accountability are frameworks to describe relationships in the workplace...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10571297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10571297/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Latessa · 2023 · Cited by 21 — Psychological safety and accountability are frameworks to describe relationships in the workplace...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Supporting Sustainable Health Behavior Change  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSupporting Sustainable Health Behavior Change - PMC - NIHby JA Matthews · 2024 · Cited by 81 — Behavior change is the found...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/expectancy-violations-theory](https://thedecisionlab.com/reference-guide/psychology/expectancy-violations-theory)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/expectancy-violations-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/expectancy-violations-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expectancy Violations TheoryExpectancy violations theory is a theory in communication and behavioral science that explains how people rea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/amycedmondson_learning-teams-psychological-safety-accountability-activity-7310781954080100353-Ua4G](https://www.linkedin.com/posts/amycedmondson_learning-teams-psychological-safety-accountability-activity-7310781954080100353-Ua4G)  
+   Link: <a href="https://www.linkedin.com/posts/amycedmondson_learning-teams-psychological-safety-accountability-activity-7310781954080100353-Ua4G" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/amycedmondson_learning-teams-psychological-safety-accountability-activity-7310781954080100353-Ua4G</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering psychological safety for innovationPsychological safety enables people to speak up, challenge the status quo, and drive innovat...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: psychsafety.com  
-   Link: [https://psychsafety.com/psychological-safety-team-performance-exercise/](https://psychsafety.com/psychological-safety-team-performance-exercise/)  
+   Link: <a href="https://psychsafety.com/psychological-safety-team-performance-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://psychsafety.com/psychological-safety-team-performance-exercise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Safety QuadrantThese teams are often characterised by high turnover of team members, burnout, high stress levels and confli...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf](https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teenagers need [social support](&amp;#123;&amp;#123; &#x27;social-support/&#x27; | relative_url &amp;#125;&amp;#125;) from friends and family to exercise. Need the opportunity to interact with friends during exercise. Mothers...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/lifeandstyle/2023/nov/27/the-buddy-boost-how-accountability-partners-make-you-healthy-happy-and-more-successful](https://www.theguardian.com/lifeandstyle/2023/nov/27/the-buddy-boost-how-accountability-partners-make-you-healthy-happy-and-more-successful)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2023/nov/27/the-buddy-boost-how-accountability-partners-make-you-healthy-happy-and-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/nov/27/the-buddy-boost-how-accountability-partners-make-you-healthy-happy-and-more-successful</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The buddy boost: how &#x27;accountability partners&#x27; make you...27 Nov 2023 — The idea of a friend who helps you commit to your goals is growi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thefuturekind.co  
    Title: People are afraid to take risks, make mistakes, or even speak up. This stifles  
-   Link: [https://www.thefuturekind.co/journal/balancing-psychological-safety](https://www.thefuturekind.co/journal/balancing-psychological-safety)  
+   Link: <a href="https://www.thefuturekind.co/journal/balancing-psychological-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.thefuturekind.co/journal/balancing-psychological-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Balancing psychological safety and accountability: A path...19 Aug 2025 — Without psychological safety, accountability turns into anxiety...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: kaizenko.com  
    Title: amy edmondsons psychological safety leadership guide to team innovation  
-   Link: [https://www.kaizenko.com/amy-edmondsons-psychological-safety-leadership-guide-to-team-innovation/](https://www.kaizenko.com/amy-edmondsons-psychological-safety-leadership-guide-to-team-innovation/)  
+   Link: <a href="https://www.kaizenko.com/amy-edmondsons-psychological-safety-leadership-guide-to-team-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.kaizenko.com/amy-edmondsons-psychological-safety-leadership-guide-to-team-innovation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Edmondson&#x27;s Psychological Safety: Leadership Guide...17 Jun 2025 — Amy Edmondson&#x27;s framework maps team dynamics across two dimension...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nice.org.uk  
-   Title: behaviour change individual approaches pdf 1996366337989  
-   Link: [https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989](https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989)  
+   Title: [behaviour change](&#123;&#123; 'behaviour-change/' | relative_url &#125;&#125;) individual approaches pdf 1996366337989  
+   Link: <a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches2 Jan 2014 — This guideline covers changing health-damaging behaviours among people aged 16 and ov...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: haas.berkeley.edu  
    Title: bonus episode 4 amy edmondson steve brass on psychological safety  
-   Link: [https://haas.berkeley.edu/culture/culture-kit-podcast/posts/bonus-episode-4-amy-edmondson-steve-brass-on-psychological-safety/](https://haas.berkeley.edu/culture/culture-kit-podcast/posts/bonus-episode-4-amy-edmondson-steve-brass-on-psychological-safety/)  
+   Link: <a href="https://haas.berkeley.edu/culture/culture-kit-podcast/posts/bonus-episode-4-amy-edmondson-steve-brass-on-psychological-safety/" target="_blank" rel="noopener noreferrer nofollow">https://haas.berkeley.edu/culture/culture-kit-podcast/posts/bonus-episode-4-amy-edmondson-steve-brass-on-psychological-safety/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological safety does not mean being soft. It means you absolutely hold people accountable for behaviors...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2023.2241777](https://www.tandfonline.com/doi/full/10.1080/08870446.2023.2241777)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2023.2241777" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2023.2241777</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of [action plans](&amp;#123;&amp;#123; &#x27;action-plans/&#x27; | relative_url &amp;#125;&amp;#125;) on habit and intention strength...by AL Rebar · 2025 · Cited by 23 — When behaviour change is intentional, a...</p></details>

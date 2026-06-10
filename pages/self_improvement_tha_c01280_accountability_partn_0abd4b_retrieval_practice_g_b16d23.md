@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:04:10'
 parent_title: What Makes an Accountability Partner Useful? | Better Change
 parent_permalink: /accountability/
 parent_nav_short_title: Accountability
@@ -265,7 +266,6 @@ next_link:
   permalink: /right-partner/
   short_title: Right partner
   heading_title: Who makes a good accountability partner?
-date: '2026-06-05 16:04:10 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-1.webp
@@ -499,121 +499,46 @@ Within an accountability partnership or study group, retrieval practice turns le
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK"><img src="https://i.ebayimg.com/images/g/Zz0AAeSwOtdpcy63/s-l225.jpg" alt="Listing image for Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 TIMES TABLES time table laminated multiplication educational kids Poster"><img src="{{ '/assets/images/marketplace-covers/c3636ebe44d1f0015b5d.jpg' | relative_url }}" alt="Listing image for A3 TIMES TABLES time table laminated multiplication educational kids Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A3 TIMES TABLES time table laminated multiplication educational kids Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -621,15 +546,15 @@ Within an accountability partnership or study group, retrieval practice turns le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 Pieces Educational Poster Laminated Wall Learning Chart Number and Alphabet"><img src="{{ '/assets/images/marketplace-covers/b988093382a3bc8b89b7.jpg' | relative_url }}" alt="Listing image for 2 Pieces Educational Poster Laminated Wall Learning Chart Number and Alphabet" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer"><img src="https://i.ebayimg.com/images/g/Lp0AAeSw-wlqHR1n/s-l225.jpg" alt="Listing image for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2 Pieces Educational Poster Laminated Wall Learning Chart Number and Alphabet</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -637,15 +562,15 @@ Within an accountability partnership or study group, retrieval practice turns le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer"><img src="https://i.ebayimg.com/images/g/lfIAAeSwJZJqH99C/s-l225.jpg" alt="Listing image for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -653,15 +578,15 @@ Within an accountability partnership or study group, retrieval practice turns le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study"><img src="https://i.ebayimg.com/images/g/t2QAAeSwxPxpAyPr/s-l225.jpg" alt="Listing image for Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -669,7 +594,7 @@ Within an accountability partnership or study group, retrieval practice turns le
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retrieval-groups-the-study-group-that-actually-helps-learning-self-improvement-that-works-educational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,17 +671,31 @@ Within an accountability partnership or study group, retrieval practice turns le
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -769,42 +708,73 @@ Within an accountability partnership or study group, retrieval practice turns le
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -819,128 +789,132 @@ Within an accountability partnership or study group, retrieval practice turns le
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: link.aps.org  
-   Link: [https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105](https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105)  
+   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>APS LinksComparing retrieval-based practice and peer instruction in...by T Zu · 2019 · Cited by 24 — In this study, we compared the effe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators](https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators)  
+   Link: <a href="https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta -analysis of the effect of Peer Instruction on learning...Peer Instruction has a positive impact on learning compared to traditio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: retrievalpractice.org  
    Title: Pooja K  
-   Link: [https://www.retrievalpractice.org/why-it-works](https://www.retrievalpractice.org/why-it-works)  
+   Link: <a href="https://www.retrievalpractice.org/why-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.retrievalpractice.org/why-it-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agarwal, Ph.D.What is retrieval practice? - RetrievalPractice.orgRetrieval practice is a strategy in which bringing information to mind e...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/347076022_Retrieval_Practice_Beneficial_for_All_Students_or_Moderated_by_Individual_Differences](https://www.researchgate.net/publication/347076022_Retrieval_Practice_Beneficial_for_All_Students_or_Moderated_by_Individual_Differences)  
+   Link: <a href="https://www.researchgate.net/publication/347076022_Retrieval_Practice_Beneficial_for_All_Students_or_Moderated_by_Individual_Differences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347076022_Retrieval_Practice_Beneficial_for_All_Students_or_Moderated_by_Individual_Differences</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ced long-term memory retention when compared to several other [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRetrieval practice enhances new learning: the forward effect of...by B Pastötter · 2014 · Cited by 270 — Regarding the bac...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: learningscientists.org  
-   Link: [https://www.learningscientists.org/blog/2017/2/9-1](https://www.learningscientists.org/blog/2017/2/9-1)  
+   Link: <a href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2017/2/9-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsNew Meta-analysis of 217 Retrieval Practice StudiesFeb 9, 2017 — Retrieval practice was consistently found to be b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTesting the testing effect on prolific: when retrieval practice...by K Sigayret · 2026 · Cited by 1 — The testing effect—w...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCollaborative Retrieval Practice Reduces Mind-Wandering...by AG Knopps · 2023 · Cited by 9 — The results showed that engag...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/00986283251316581](https://journals.sagepub.com/doi/10.1177/00986283251316581)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/00986283251316581" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00986283251316581</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Effects of Collaborative Practice Testing on Memory for...Jan 31, 2025 — The present research suggests that collaborati...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: 2366135.fs1.hubspotusercontent-na1.net  
    Title: Retrieval Practice Myths, Mutations & Mistakes  
-   Link: [https://2366135.fs1.hubspotusercontent-na1.net/hubfs/2366135/Retrieval%20Practice%20-%20Myths%2C%20Mutations%20%26%20Mistakes.pdf](https://2366135.fs1.hubspotusercontent-na1.net/hubfs/2366135/Retrieval%20Practice%20-%20Myths%2C%20Mutations%20%26%20Mistakes.pdf)  
+   Link: <a href="https://2366135.fs1.hubspotusercontent-na1.net/hubfs/2366135/Retrieval%20Practice%20-%20Myths%2C%20Mutations%20%26%20Mistakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2366135.fs1.hubspotusercontent-na1.net/hubfs/2366135/Retrieval%20Practice%20-%20Myths%2C%20Mutations%20%26%20Mistakes.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Practice - Myths, Mutations &amp; MistakesRetrieval practice is a strategy supported by evidence and can be used to enhance learning and prog...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: education-ni.gov.uk  
    Title: Retrieval Practice  
-   Link: [https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF](https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education-niRetrieval Practice has consistently been found to be one of the most effective learning strategies in all of cognitive psycho...</p></details>
+   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice has consistently been found to be one of the most effective learning strategies in all of cognitive psycho...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/collaborative-learning-strategies-in-higher-education](https://www.nature.com/nature-index/topics/l4/collaborative-learning-strategies-in-higher-education)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/collaborative-learning-strategies-in-higher-education" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/collaborative-learning-strategies-in-higher-education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative Learning Strategies in Higher EducationRetrieval practice: A learning strategy that involves actively recalling information...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: centerforengagedlearning.org  
-   Link: [https://www.centerforengagedlearning.org/why-letting-your-students-collaborate-on-exams-isnt-a-bad-idea/](https://www.centerforengagedlearning.org/why-letting-your-students-collaborate-on-exams-isnt-a-bad-idea/)  
+   Link: <a href="https://www.centerforengagedlearning.org/why-letting-your-students-collaborate-on-exams-isnt-a-bad-idea/" target="_blank" rel="noopener noreferrer nofollow">https://www.centerforengagedlearning.org/why-letting-your-students-collaborate-on-exams-isnt-a-bad-idea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Letting Your Students Collaborate on Exams isn&#x27;t a...by D Buck — Now, the above research really just shows that the testing effect e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ctl.wustl.edu  
-   Link: [https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/](https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/)  
+   Link: <a href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow">https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval practice is the strategy of recalling facts, concepts, or events from memory in order to enhance learning.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: does research on retrieval practice translate into classroom practice  
-   Link: [https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice](https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF Blog: Does research on ​&#x27;retrieval practice&#x27; translate...5 Dec 2019 — Retrieval practice is strongly supported by over 100 years...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: evidencebased.education  
    Title: retrieval practice and technology five key principles  
-   Link: [https://evidencebased.education/resource/retrieval-practice-and-technology-five-key-principles/](https://evidencebased.education/resource/retrieval-practice-and-technology-five-key-principles/)  
+   Link: <a href="https://evidencebased.education/resource/retrieval-practice-and-technology-five-key-principles/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/retrieval-practice-and-technology-five-key-principles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice and Technology: Five Key Principles1 Apr 2025 — Learn how retrieval practice can enhance teaching and learning with ne...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: online.ucpress.edu  
    Title: Repeated Retrieval Practice to Foster Students  
-   Link: [https://online.ucpress.edu/collabra/article/7/1/28881/118716/Repeated-Retrieval-Practice-to-Foster-Students](https://online.ucpress.edu/collabra/article/7/1/28881/118716/Repeated-Retrieval-Practice-to-Foster-Students)  
+   Link: <a href="https://online.ucpress.edu/collabra/article/7/1/28881/118716/Repeated-Retrieval-Practice-to-Foster-Students" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/7/1/28881/118716/Repeated-Retrieval-Practice-to-Foster-Students</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice to Foster Students&#x27; Critical...Oct 7, 2021 — The present experiment investigated whether repeated retrieval practice...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: resolve.cambridge.org  
-   Link: [https://resolve.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/improved-student-learning-through-active-retrieval-practice-and-randomsampled-exams/0BC0D7C392693E4CCD52C78D8077E320](https://resolve.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/improved-student-learning-through-active-retrieval-practice-and-randomsampled-exams/0BC0D7C392693E4CCD52C78D8077E320)  
+   Link: <a href="https://resolve.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/improved-student-learning-through-active-retrieval-practice-and-randomsampled-exams/0BC0D7C392693E4CCD52C78D8077E320" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/improved-student-learning-through-active-retrieval-practice-and-randomsampled-exams/0BC0D7C392693E4CCD52C78D8077E320</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>student learning through active retrieval practice...16 Dec 2024 — One pedagogical finding that has gained recent attention is the utili...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09500693.2023.2283906](https://www.tandfonline.com/doi/full/10.1080/09500693.2023.2283906)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09500693.2023.2283906" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09500693.2023.2283906</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-based learning versus discussion; which review...by A Jakobsson · 2024 · Cited by 16 — The aim of this study was to compare tw...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: wgu.edu  
-   Link: [https://www.wgu.edu/blog/peer-learning2208.html](https://www.wgu.edu/blog/peer-learning2208.html)  
+   Link: <a href="https://www.wgu.edu/blog/peer-learning2208.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wgu.edu/blog/peer-learning2208.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peer Learning in Education: Overview, Benefits, and...Mar 2, 2026 — Peer learning is an educational approach where students interact wit...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of Retrieval Practice in the Health Professions - PMCby MJ Serra · 2025 · Cited by 12 — Retrieval practice, or the active recall of i...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:08:00'
 parent_title: How to Apologise Before Resentment Grows | Better Change
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
@@ -259,7 +260,6 @@ next_link:
   permalink: /behaviour-change/
   short_title: Behaviour Change
   heading_title: What Should Change After the Apology?
-date: '2026-06-05 16:08:00 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-1.webp
@@ -272,7 +272,7 @@ A good apology is supposed to move attention towards the person who was hurt and
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-1-dark.svg" | relative_url }}" alt="Bad Apologies illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters when [apologising before]({{ 'apologies/' | relative_url }}) resentment hardens. Early repair works because it helps the injured person feel seen and understood. Research on apology effectiveness consistently finds that acknowledging responsibility and offering repair carry more weight than elaborate explanations or self-protective language. When [apologies]({{ 'apologies/' | relative_url }}) become vehicles for self-defence, reassurance-seeking, or image management, they lose much of their repairing power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncmr.lps.library.cmu.edu">[NCMR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncmr.lps.library.cmu.edu</span><span class="citation-popover-snippet">Six components of an apology were defined from previous research and presented to...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.osu.edu">[Ohio State News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.osu.edu</span><span class="citation-popover-title">the 6 elements of an effective apology according to science</span><span class="citation-popover-snippet">Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</span></span></span>
+This matters when apologising before resentment hardens. Early repair works because it helps the injured person feel seen and understood. Research on apology effectiveness consistently finds that acknowledging responsibility and offering repair carry more weight than elaborate explanations or self-protective language. When [apologies]({{ 'apologies/' | relative_url }}) become vehicles for self-defence, reassurance-seeking, or image management, they lose much of their repairing power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncmr.lps.library.cmu.edu">[NCMR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncmr.lps.library.cmu.edu</span><span class="citation-popover-snippet">Six components of an apology were defined from previous research and presented to...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.osu.edu">[Ohio State News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.osu.edu</span><span class="citation-popover-title">the 6 elements of an effective apology according to science</span><span class="citation-popover-snippet">Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</span></span></span>
 
 ## The Courtroom Apology and Hidden Self-Defence
 
@@ -338,7 +338,7 @@ Reassurance-seeking says:
 
 That distinction is easy to miss because both may involve tears, anxiety, or visible regret. Yet from the perspective of the injured person, the experiences are very different.
 
-Online discussions about apologising for reassurance reveal a common pattern: the apology contains some genuine regret, but the primary emotional goal is obtaining comfort or reducing shame rather than repairing the impact of the behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/attachment_theory/comments/1d8u0na/apologising_for_reassurance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">This usually happens when I have failed to give someone space.Read more</span><span class="citation-popover-snippet">RedditApologising for Reassurance: r/attachment_theoryJune 5, 2024 — I&#x27;ve noticed a bad tendency that I have, which is, to apologise for...</span><span class="citation-popover-meta">Published: June 5, 2024</span></span></span>
+Online discussions about apologising for reassurance reveal a common pattern: the apology contains some genuine regret, but the primary emotional goal is obtaining comfort or reducing shame rather than repairing the impact of the behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/attachment_theory/comments/1d8u0na/apologising_for_reassurance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">This usually happens when I have failed to give someone space.Read more</span><span class="citation-popover-snippet">Apologising for Reassurance: r/attachment_theoryJune 5, 2024 — I&#x27;ve noticed a bad tendency that I have, which is, to apologise for...</span><span class="citation-popover-meta">Published: June 5, 2024</span></span></span>
 
 A practical test is simple: after apologising, can you tolerate a period in which the other person remains disappointed, angry, or uncertain? If not, the apology may be drifting into reassurance-seeking.
 
@@ -871,164 +871,164 @@ then the apology is much more likely to accomplish what apologies are meant to d
 
 1. <a id="endnote-1"></a>
    Source: ncmr.lps.library.cmu.edu  
-   Link: [https://ncmr.lps.library.cmu.edu/article/id/264/](https://ncmr.lps.library.cmu.edu/article/id/264/)  
+   Link: <a href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow">https://ncmr.lps.library.cmu.edu/article/id/264/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Six components of an apology were defined from previous research and presented to...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: phys.org  
-   Link: [https://phys.org/news/2016-04-elements-effective-science.html](https://phys.org/news/2016-04-elements-effective-science.html)  
+   Link: <a href="https://phys.org/news/2016-04-elements-effective-science.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2016-04-elements-effective-science.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The six elements of an effective apology, according to...12 Apr 2016 — &quot;Our findings showed that the most important component is an ackn...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gottman.com  
-   Link: [https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)  
+   Link: <a href="https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteThe Four Horsemen: Criticism, Contempt, Defensiveness...31 Mar 2026 — Defensiveness will only escalate the conflict...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: gottman.com  
    Title: The Gottman Institute The Four Horsemen: Defensiveness Take responsibility  
-   Link: [https://www.gottman.com/blog/the-four-horsemen-defensiveness/](https://www.gottman.com/blog/the-four-horsemen-defensiveness/)  
+   Link: <a href="https://www.gottman.com/blog/the-four-horsemen-defensiveness/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/the-four-horsemen-defensiveness/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Four Horsemen: DefensivenessTake responsibility. The antidote to defensiveness is to accept responsibility for your role in the situa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gottman.com  
    Title: criticism defensiveness cycle  
-   Link: [https://www.gottman.com/blog/criticism-defensiveness-cycle/](https://www.gottman.com/blog/criticism-defensiveness-cycle/)  
+   Link: <a href="https://www.gottman.com/blog/criticism-defensiveness-cycle/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/criticism-defensiveness-cycle/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteThe Criticism Defensiveness Cycle7 Sept 2023 — This means taking responsibility for your part of the cycle and lower...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: This usually happens when I have failed to give someone space.Read more  
-   Link: [https://www.reddit.com/r/attachment_theory/comments/1d8u0na/apologising_for_reassurance/](https://www.reddit.com/r/attachment_theory/comments/1d8u0na/apologising_for_reassurance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditApologising for Reassurance: r/attachment_theoryJune 5, 2024 — I&#x27;ve noticed a bad tendency that I have, which is, to apologise for...</p></details>
+   Link: <a href="https://www.reddit.com/r/attachment_theory/comments/1d8u0na/apologising_for_reassurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/attachment_theory/comments/1d8u0na/apologising_for_reassurance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apologising for Reassurance: r/attachment_theoryJune 5, 2024 — I&#x27;ve noticed a bad tendency that I have, which is, to apologise for...</p></details>
    Published: June 5, 2024  
 
 7. <a id="endnote-7"></a>
    Source: time.com  
-   Link: [https://time.com/6264614/how-to-apologize-health-benefits/](https://time.com/6264614/how-to-apologize-health-benefits/)  
+   Link: <a href="https://time.com/6264614/how-to-apologize-health-benefits/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6264614/how-to-apologize-health-benefits/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to Marjorie Ingall and experts cited in her book, effective apologies are carefully thought out and genuinely meant. The proces...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: gottman.com  
    Title: how we used the aftermath of a fight to repair our relationship  
-   Link: [https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/](https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/)  
+   Link: <a href="https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteHow We Used the Aftermath of a Fight to Repair Our...9 Jan 2019 — As John Gottman&#x27;s research has shown, it&#x27;s not yo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: gottman.com  
-   Link: [https://www.gottman.com/blog/the-four-horsemen-the-antidotes/](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)  
+   Link: <a href="https://www.gottman.com/blog/the-four-horsemen-the-antidotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/the-four-horsemen-the-antidotes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Four Horsemen: The AntidotesThe antidote is to accept responsibility, even if only for part of the conflict. Defensiveness: “It&#x27;s not...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gottman.com  
    Title: its not my fault why defensiveness is damaging  
-   Link: [https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/](https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/)  
+   Link: <a href="https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It&#x27;s Not My Fault!&#x27;: Why Defensiveness is DamagingMar 31, 2022 — Defensiveness is the &quot;horsemen&quot; that escalates conflict. See why it hur...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: gottman.com  
    Title: r is for repair  
-   Link: [https://www.gottman.com/blog/r-is-for-repair/](https://www.gottman.com/blog/r-is-for-repair/)  
+   Link: <a href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/r-is-for-repair/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — that prevents negativity from escalat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: news.osu.edu  
    Title: the 6 elements of an effective apology according to science  
-   Link: [https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/)  
+   Link: <a href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: psychologicalscience.org  
    Title: Association for Psychological Science Effective Apologies Include Six Elements  
-   Link: [https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html](https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html)  
+   Link: <a href="https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEffective Apologies Include Six ElementsMay 24, 2016 — Across two studies Lewicki and colleagues fou...</p></details>
    Published: May 24, 2016  
 
 14. <a id="endnote-14"></a>
    Source: facultyombuds.ncsu.edu  
    Title: Faculty &amp; Staff Ombuds Office Apology Research  
-   Link: [https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/](https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/)  
+   Link: <a href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow">https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Faculty &amp;amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</p></details>
    Published: May 31, 2016  
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: The Guardian How sorry are you?  
-   Link: [https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry](https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry)  
+   Link: <a href="https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why learning to apologise well could save your relationshipsJune 28, 2025 — Apologizing effectively is a nuanced yet vital interpersonal...</p></details>
    Published: June 28, 2025  
 
 16. <a id="endnote-16"></a>
    Source: psychologytoday.com  
    Title: the power of apology  
-   Link: [https://www.psychologytoday.com/gb/articles/200207/the-power-of-apology](https://www.psychologytoday.com/gb/articles/200207/the-power-of-apology)  
+   Link: <a href="https://www.psychologytoday.com/gb/articles/200207/the-power-of-apology" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/articles/200207/the-power-of-apology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayThe Power of Apology1 Jul 2002 — Apology has the power to repair harm, mend relationships, soothe wounds and heal broken...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Effectiveness](https://en.wikipedia.org/wiki/Effectiveness)  
+   Link: <a href="https://en.wikipedia.org/wiki/Effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Effectiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EffectivenessEffectiveness or effectivity [1] is the capability of producing a desired result or the ability to produce desired output...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a](https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a)  
+   Link: <a href="https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective | Vocabulary (video) | VocabularySomething that is effective tends to, or has the quality of making things happen, of making ou...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: katebennisstudio.com  
-   Link: [https://katebennisstudio.com/blog/defensiveness](https://katebennisstudio.com/blog/defensiveness)  
+   Link: <a href="https://katebennisstudio.com/blog/defensiveness" target="_blank" rel="noopener noreferrer nofollow">https://katebennisstudio.com/blog/defensiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bennis Studio2 Feb 2026 — What does Gottman advise as an antidote to defensiveness? “The antidote is to accept responsibility, even...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/effective](https://www.merriam-webster.com/dictionary/effective)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/effective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTIVE Definition &amp; Meaning1. a: producing a decided, decisive, or desired effect an effective policy b: impressive, striking a gold...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/effective](https://www.dictionary.com/browse/effective)  
+   Link: <a href="https://www.dictionary.com/browse/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/effective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTIVE Definition &amp; Meaningadjective adequate to accomplish a purpose; producing the intended or expected result: effective teaching m...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: couplestherapyinc.com  
-   Link: [https://couplestherapyinc.com/gottman-repair-attempts/](https://couplestherapyinc.com/gottman-repair-attempts/)  
+   Link: <a href="https://couplestherapyinc.com/gottman-repair-attempts/" target="_blank" rel="noopener noreferrer nofollow">https://couplestherapyinc.com/gottman-repair-attempts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gottman Repair AttemptsHappy couples naturally offer repair attempts, according to premier relationship researcher John Gottman. A repair...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient](https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient)  
+   Link: <a href="https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Effective and EfficientEffective means &quot;producing a result that is wanted&quot;. Efficient means &quot;capable of producing desired resu...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mylifepsychologists.com.au  
-   Link: [https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/](https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/)  
+   Link: <a href="https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/" target="_blank" rel="noopener noreferrer nofollow">https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Conflict: The Art of RepairAccording to Dr John Gottman, a renowned relationships researcher, repair attempts are the “happy...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/737313115/Apologizing-Effectively](https://www.scribd.com/document/737313115/Apologizing-Effectively)  
+   Link: <a href="https://www.scribd.com/document/737313115/Apologizing-Effectively" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/737313115/Apologizing-Effectively</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Structure of Effective Apologies | PDF | PsychologyResearch identifies six key components that make an apology effective: an acknowledgme...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair](https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair)  
+   Link: <a href="https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/287124645_The_Art_of_the_ApologyThe_Structure_and_Effectiveness_of_Apologies_in_Trust_Repair</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of the ApologyThe Structure and Effectiveness...They argue that a maximally effective apology should consist of six components i...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: emotionalaffair.org  
-   Link: [https://www.emotionalaffair.org/john-gottmans-four-horsemen/](https://www.emotionalaffair.org/john-gottmans-four-horsemen/)  
+   Link: <a href="https://www.emotionalaffair.org/john-gottmans-four-horsemen/" target="_blank" rel="noopener noreferrer nofollow">https://www.emotionalaffair.org/john-gottmans-four-horsemen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gottman argues that, “defensiveness is fundamentally an attempt to protect yourself and ward off a perceived attack.”...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
    Title: But that ignores a crucial emotional component and [limits](&#123;&#123; 'limits/' | relative_url &#125;&#125;) opportunity  
-   Link: [https://www.facebook.com/psychologytoday/posts/after-a-mistake-or-indiscretion-its-tempting-to-quickly-confess-and-move-on-but-/10158233424798845/](https://www.facebook.com/psychologytoday/posts/after-a-mistake-or-indiscretion-its-tempting-to-quickly-confess-and-move-on-but-/10158233424798845/)  
+   Link: <a href="https://www.facebook.com/psychologytoday/posts/after-a-mistake-or-indiscretion-its-tempting-to-quickly-confess-and-move-on-but-/10158233424798845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/psychologytoday/posts/after-a-mistake-or-indiscretion-its-tempting-to-quickly-confess-and-move-on-but-/10158233424798845/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After a mistake or indiscretion, it&#x27;s tempting to quickly...After a mistake or indiscretion, it’s tempting to quickly confess and move on...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: talktoangel.com  
    Title: gottman informed repair strategies for relationship conflicts  
-   Link: [https://www.talktoangel.com/blog/gottman-informed-repair-strategies-for-relationship-conflicts](https://www.talktoangel.com/blog/gottman-informed-repair-strategies-for-relationship-conflicts)  
+   Link: <a href="https://www.talktoangel.com/blog/gottman-informed-repair-strategies-for-relationship-conflicts" target="_blank" rel="noopener noreferrer nofollow">https://www.talktoangel.com/blog/gottman-informed-repair-strategies-for-relationship-conflicts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gottman-Informed Repair Strategies for Relationship...10 Feb 2026 — Repair attempts can be verbal or non-verbal, such as using humour, e...</p></details>

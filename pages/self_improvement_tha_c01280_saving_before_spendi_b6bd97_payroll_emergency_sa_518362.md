@@ -310,7 +310,7 @@ Importantly, success should not be judged solely by the size of the balance. Eme
 
 One of the biggest policy questions is whether encouraging emergency saving through payroll systems might undermine retirement saving. If workers divert money into accessible accounts, will they reduce pension contributions or opt out of workplace pensions?
 
-Recent evidence from UK workplace trials provides a more encouraging picture than many expected. Nest Insight and academic partners tested payroll-linked emergency savings programmes using opt-in, active-choice and opt-out designs. Automatic enrolment into short-term savings dramatically increased participation compared with traditional voluntary approaches. In one large study, participation rates were roughly 48 percentage points higher under automatic enrolment than under opt-in arrangements, with significantly larger average savings balances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/system/files/working_papers/w32581/w32581.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">NBERAutomating Short-Term Payroll Savingsby SH Berk · 2024 · Cited by 5 — In the first experiment (N = 7,404), employees at two firms wer...</span></span></span>
+Recent evidence from UK workplace trials provides a more encouraging picture than many expected. Nest Insight and academic partners tested payroll-linked emergency savings programmes using opt-in, active-choice and opt-out designs. Automatic enrolment into short-term savings dramatically increased participation compared with traditional voluntary approaches. In one large study, participation rates were roughly 48 percentage points higher under automatic enrolment than under opt-in arrangements, with significantly larger average savings balances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/system/files/working_papers/w32581/w32581.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Automating Short-Term Payroll Savingsby SH Berk · 2024 · Cited by 5 — In the first experiment (N = 7,404), employees at two firms wer...</span></span></span>
 
 The broader workplace emergency savings programme found similar results. Opt-out payroll saving generated much higher take-up than voluntary schemes, overcoming the inertia that often prevents employees from getting started. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/opt-out-payroll-savings-trial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">NEST InsightOpt-out payroll saving trialsOur opt-out payroll saving trials are exploring whether a similar opt-out joining mechanism coul...</span></span></span>
 
@@ -327,13 +327,13 @@ Traditional payroll savings schemes generally require employees to enrol volunta
 
 Opt-out designs reverse the default. Employees are enrolled automatically but retain the right to leave the programme. This approach mirrors the logic used in workplace pension automatic enrolment. Research from payroll-saving trials found that participation increased sharply under opt-out arrangements, while employee acceptance remained high. A large majority of employees reported being comfortable with the approach even when they chose not to continue saving themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/opt-out-payroll-savings-trial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">NEST InsightOpt-out payroll saving trialsOur opt-out payroll saving trials are exploring whether a similar opt-out joining mechanism coul...</span></span></span>
 
-From a governance perspective, this highlights the power of [defaults]({{ 'defaults/' | relative_url }}). The intervention does not remove choice; it changes the starting position. Policymakers and employers are interested in payroll saving not because it forces saving, but because it helps people act on intentions that many already hold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">MaPSPayroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span>
+From a governance perspective, this highlights the power of [defaults]({{ 'defaults/' | relative_url }}). The intervention does not remove choice; it changes the starting position. Policymakers and employers are interested in payroll saving not because it forces saving, but because it helps people act on intentions that many already hold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_payroll_emergency_sa_518362-Illustration-3-dark.svg" | relative_url }}" alt="Payroll saving illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_payroll_emergency_sa_518362-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_payroll_emergency_sa_518362-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When payroll saving works best
 
-Payroll saving is most effective when the emergency account is clearly designated, easy to access during genuine need, and funded automatically from each pay packet. The strongest evidence supports programmes that minimise friction at enrolment while preserving freedom to opt out or alter contributions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/system/files/working_papers/w32581/w32581.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">NBERAutomating Short-Term Payroll Savingsby SH Berk · 2024 · Cited by 5 — In the first experiment (N = 7,404), employees at two firms wer...</span></span></span>
+Payroll saving is most effective when the emergency account is clearly designated, easy to access during genuine need, and funded automatically from each pay packet. The strongest evidence supports programmes that minimise friction at enrolment while preserving freedom to opt out or alter contributions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/system/files/working_papers/w32581/w32581.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Automating Short-Term Payroll Savingsby SH Berk · 2024 · Cited by 5 — In the first experiment (N = 7,404), employees at two firms wer...</span></span></span>
 
 For individuals following a saving-before-spending strategy, payroll saving offers a practical way to create an emergency buffer before discretionary spending decisions occur. Its main strength is not sophisticated investing or high returns. It is the combination of automation, separation and accessibility that allows small, repeated contributions to accumulate into a usable financial cushion over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/opt-out-payroll-savings-trial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">NEST InsightOpt-out payroll saving trialsOur opt-out payroll saving trials are exploring whether a similar opt-out joining mechanism coul...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-title">Consumer Financial Protection Bureau Looking for an easy way to save money?</span><span class="citation-popover-snippet">Make it automatic26 Aug 2019 — Make your savings automatic. Simply put, you choose how often you want a set amount of money to be transfe...</span></span></span>
 
@@ -762,103 +762,103 @@ For individuals following a saving-before-spending strategy, payroll saving offe
 
 1. <a id="endnote-1"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w32581/w32581.pdf](https://www.nber.org/system/files/working_papers/w32581/w32581.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBERAutomating Short-Term Payroll Savingsby SH Berk · 2024 · Cited by 5 — In the first experiment (N = 7,404), employees at two firms wer...</p></details>
+   Link: <a href="https://www.nber.org/system/files/working_papers/w32581/w32581.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w32581/w32581.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automating Short-Term Payroll Savingsby SH Berk · 2024 · Cited by 5 — In the first experiment (N = 7,404), employees at two firms wer...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/161491/html/](https://committees.parliament.uk/writtenevidence/161491/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/161491/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161491/html/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesOur use of cookiesEvidence from our payroll saving trials suggest that the trade-off between emergency saving and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: committees.parliament.uk  
    Title: UK Parliament Committees  
-   Link: [https://committees.parliament.uk/writtenevidence/161491/pdf/](https://committees.parliament.uk/writtenevidence/161491/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/161491/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161491/pdf/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IntroductionEvidence from our payroll saving trials suggest that the trade-off between emergency saving and pension saving is not inevita...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nestinsight.org.uk  
-   Link: [https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/opt-out-payroll-savings-trial/](https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/opt-out-payroll-savings-trial/)  
+   Link: <a href="https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/opt-out-payroll-savings-trial/" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/opt-out-payroll-savings-trial/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEST InsightOpt-out payroll saving trialsOur opt-out payroll saving trials are exploring whether a similar opt-out joining mechanism coul...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: consumerfinance.gov  
    Title: Consumer Financial Protection Bureau Looking for an easy way to save money?  
-   Link: [https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/](https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Make it automatic26 Aug 2019 — Make your savings automatic. Simply put, you choose how often you want a set amount of money to be transfe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: consumerfinance.gov  
    Title: six ways save year  
-   Link: [https://www.consumerfinance.gov/about-us/blog/six-ways-save-year/](https://www.consumerfinance.gov/about-us/blog/six-ways-save-year/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/blog/six-ways-save-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/six-ways-save-year/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauSix ways to save this year25 Feb 2019 — If you have direct deposit, you may be able to arrange for a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: consumerfinance.gov  
    Title: cfpb takes action help employers develop emergency savings programs  
-   Link: [https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-help-employers-develop-emergency-savings-programs/](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-help-employers-develop-emergency-savings-programs/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-help-employers-develop-emergency-savings-programs/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-help-employers-develop-emergency-savings-programs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauCFPB Takes Action to Help Employers Develop...17 Jul 2020 — Under an Autosave program, new and exist...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: consumerfinance.gov  
    Title: evidence based strategies build emergency savings  
-   Link: [https://www.consumerfinance.gov/data-research/research-reports/evidence-based-strategies-build-emergency-savings/](https://www.consumerfinance.gov/data-research/research-reports/evidence-based-strategies-build-emergency-savings/)  
+   Link: <a href="https://www.consumerfinance.gov/data-research/research-reports/evidence-based-strategies-build-emergency-savings/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/data-research/research-reports/evidence-based-strategies-build-emergency-savings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The goal of this...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: files.consumerfinance.gov  
-   Link: [https://files.consumerfinance.gov/f/documents/cfpb_qapital-savings-app-outcomes_report_2022.pdf](https://files.consumerfinance.gov/f/documents/cfpb_qapital-savings-app-outcomes_report_2022.pdf)  
+   Link: <a href="https://files.consumerfinance.gov/f/documents/cfpb_qapital-savings-app-outcomes_report_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_qapital-savings-app-outcomes_report_2022.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A savings app, for example, may provide...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: consumerfinance.gov  
    Title: an essential guide to building an emergency fund  
-   Link: [https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/](https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/)  
+   Link: <a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: consumerfinance.gov  
    Title: start saving today our new savings booklet and email boot camp  
-   Link: [https://www.consumerfinance.gov/about-us/blog/start-saving-today-our-new-savings-booklet-and-email-boot-camp/](https://www.consumerfinance.gov/about-us/blog/start-saving-today-our-new-savings-booklet-and-email-boot-camp/)  
+   Link: <a href="https://www.consumerfinance.gov/about-us/blog/start-saving-today-our-new-savings-booklet-and-email-boot-camp/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/start-saving-today-our-new-savings-booklet-and-email-boot-camp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauStart saving today with our new savings booklet and email...26 Aug 2019 — The CFPB&#x27;s new savings boo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nestinsight.org.uk  
-   Link: [https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/](https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/)  
+   Link: <a href="https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NEST InsightWorkplace emergency savingsAn emergency savings pot allows people to pay for unexpected expenses without having to turn to hi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aspeninstitute.org  
-   Link: [https://www.aspeninstitute.org/wp-content/uploads/2020/09/The-Cycle-of-Savings.pdf](https://www.aspeninstitute.org/wp-content/uploads/2020/09/The-Cycle-of-Savings.pdf)  
+   Link: <a href="https://www.aspeninstitute.org/wp-content/uploads/2020/09/The-Cycle-of-Savings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aspeninstitute.org/wp-content/uploads/2020/09/The-Cycle-of-Savings.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aspen InstituteTHE CYCLE OF SAVINGSThese dynamics of successful saving can be captured by measuring the flow of funds targeted for saving...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: maps.org.uk  
-   Link: [https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes](https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MaPSPayroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</p></details>
+   Link: <a href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nestinsight.org.uk  
    Title: NEST Insight Easier to Save  
-   Link: [https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf](https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf)  
+   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NEST InsightEasier to SaveMarch 30, 2025 — This is the final report summarising the results of the opt-out payroll saving research trials...</p></details>
    Published: March 30, 2025  
 
 16. <a id="endnote-16"></a>
    Source: professionalpensions.com  
    Title: nest insight publishes sidecar savings trial findings  
-   Link: [https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings](https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings)  
+   Link: <a href="https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Apr 2023 — The research found just under half of employees (46%) who were eligible for Jars said they felt the savings tool would be o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: professionalpensions.com  
-   Link: [https://www.professionalpensions.com/news/4041047/nest-insight-selects-partners-%E2%80%98opt-%E2%80%99-trial](https://www.professionalpensions.com/news/4041047/nest-insight-selects-partners-%E2%80%98opt-%E2%80%99-trial)  
+   Link: <a href="https://www.professionalpensions.com/news/4041047/nest-insight-selects-partners-%E2%80%98opt-%E2%80%99-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalpensions.com/news/4041047/nest-insight-selects-partners-%E2%80%98opt-%E2%80%99-trial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nest Insight selects partners for &#x27;opt out&#x27; trialNest Insight will collaborate with SUEZ Recycling and Recovery and TransaveUK to test it...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
    Title: nest insight workplace emergency savings activity 7330151491258769408 Uj78  
-   Link: [https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78](https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78)  
+   Link: <a href="https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK employers boost savings with opt-out payroll schemes19 May 2025 — What has the experience been of employers and providers in offering...</p></details>
    Published: May 2025  
 
@@ -866,56 +866,56 @@ For individuals following a saving-before-spending strategy, payroll saving offe
 
 19. <a id="endnote-19"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3791458_code3155442.pdf?abstractid=3791458](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3791458_code3155442.pdf?abstractid=3791458)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3791458_code3155442.pdf?abstractid=3791458" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3791458_code3155442.pdf?abstractid=3791458</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comEvidence-Based Strategies to Build Emergency SavingsThe Consumer Financial Protection Bureau&#x27;s (CFPB, the Bureau) Start Small, Sa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fincap.org.uk  
-   Link: [https://www.fincap.org.uk/en/insights/exploring-the-potential-for-opt-out-payroll-saving-schemes](https://www.fincap.org.uk/en/insights/exploring-the-potential-for-opt-out-payroll-saving-schemes)  
+   Link: <a href="https://www.fincap.org.uk/en/insights/exploring-the-potential-for-opt-out-payroll-saving-schemes" target="_blank" rel="noopener noreferrer nofollow">https://www.fincap.org.uk/en/insights/exploring-the-potential-for-opt-out-payroll-saving-schemes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the potential for opt-out payroll saving schemesThis report is part of Nest Insight&#x27;s workplace emergency savings research prog...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: transave.co.uk  
-   Link: [https://transave.co.uk/transaveuk-teams-up-with-suez-and-nest-insight-for-opt-out-payroll-savings-trial/](https://transave.co.uk/transaveuk-teams-up-with-suez-and-nest-insight-for-opt-out-payroll-savings-trial/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TransaveUK teamed up with SUEZ and Nest InsightThe trial will compare around 600 SUEZ new-joiners who are offered payroll saving with Tra...</p></details>
+   Link: <a href="https://transave.co.uk/transaveuk-teams-up-with-suez-and-nest-insight-for-opt-out-payroll-savings-trial/" target="_blank" rel="noopener noreferrer nofollow">https://transave.co.uk/transaveuk-teams-up-with-suez-and-nest-insight-for-opt-out-payroll-savings-trial/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK teamed up with SUEZ and Nest InsightThe trial will compare around 600 SUEZ new-joiners who are offered payroll saving with Tra...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf](https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>enrolment: Experiences of workers who have...This report provides the findings of a study commissioned by the Department for Work and Pe...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: files.consumerfinance.gov  
    Title: cfpb evidence based strategies build emergency savings report 2020 07  
-   Link: [https://files.consumerfinance.gov/f/documents/cfpb_evidence-based-strategies-build-emergency-savings_report_2020-07.pdf](https://files.consumerfinance.gov/f/documents/cfpb_evidence-based-strategies-build-emergency-savings_report_2020-07.pdf)  
+   Link: <a href="https://files.consumerfinance.gov/f/documents/cfpb_evidence-based-strategies-build-emergency-savings_report_2020-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_evidence-based-strategies-build-emergency-savings_report_2020-07.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>consumerfinance.govEvidence-Based Strategies to Build Emergency SavingsThe Consumer Financial Protection Bureau&#x27;s (CFPB, the Bureau) Star...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: shrm.org  
    Title: emergency savings accounts funded payroll deductions boost financial wellness  
-   Link: [https://www.shrm.org/topics-tools/news/benefits-compensation/emergency-savings-accounts-funded-payroll-deductions-boost-financial-wellness](https://www.shrm.org/topics-tools/news/benefits-compensation/emergency-savings-accounts-funded-payroll-deductions-boost-financial-wellness)  
+   Link: <a href="https://www.shrm.org/topics-tools/news/benefits-compensation/emergency-savings-accounts-funded-payroll-deductions-boost-financial-wellness" target="_blank" rel="noopener noreferrer nofollow">https://www.shrm.org/topics-tools/news/benefits-compensation/emergency-savings-accounts-funded-payroll-deductions-boost-financial-wellness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emergency Savings Accounts Funded by Payroll...14 Sept 2020 — These programs allow employees to have funds deducted from their paychecks...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pensionsage.com  
    Title: Compelling evidence for wide spread use of opt out savings approach  
-   Link: [https://www.pensionsage.com/pa/Compelling-evidence-for-wide-spread-use-of-opt-out-savings-approach.php](https://www.pensionsage.com/pa/Compelling-evidence-for-wide-spread-use-of-opt-out-savings-approach.php)  
+   Link: <a href="https://www.pensionsage.com/pa/Compelling-evidence-for-wide-spread-use-of-opt-out-savings-approach.php" target="_blank" rel="noopener noreferrer nofollow">https://www.pensionsage.com/pa/Compelling-evidence-for-wide-spread-use-of-opt-out-savings-approach.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nest trials reveal &#x27;compelling&#x27; evidence for opt-out...19 Sept 2023 — Nest Insight first began trialling opt-out approaches to payroll-l...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: securesave.com  
    Title: building a compliant and effective workplace emergency savings plan  
-   Link: [https://www.securesave.com/blog/building-a-compliant-and-effective-workplace-emergency-savings-plan](https://www.securesave.com/blog/building-a-compliant-and-effective-workplace-emergency-savings-plan)  
+   Link: <a href="https://www.securesave.com/blog/building-a-compliant-and-effective-workplace-emergency-savings-plan" target="_blank" rel="noopener noreferrer nofollow">https://www.securesave.com/blog/building-a-compliant-and-effective-workplace-emergency-savings-plan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building a compliant and effective workplace emergency...Jul 11, 2024 — Autosave plans are a version of workplace ESAs that allow employ...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: understandingsociety.ac.uk  
    Title: How does pension automatic enrolment affect savings?  
-   Link: [https://www.understandingsociety.ac.uk/research/publications/publication-578339/](https://www.understandingsociety.ac.uk/research/publications/publication-578339/)  
+   Link: <a href="https://www.understandingsociety.ac.uk/research/publications/publication-578339/" target="_blank" rel="noopener noreferrer nofollow">https://www.understandingsociety.ac.uk/research/publications/publication-578339/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Firth · 2024 — Automatic enrolment into workplace pensions is a strong policy intervention designed to address shortfalls in retirem...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: aarp.org  
    Title: facilitating workplace emergency savings programs  
-   Link: [https://www.aarp.org/pri/topics/work-finances-retirement/employers-workforce/facilitating-workplace-emergency-savings-programs/](https://www.aarp.org/pri/topics/work-finances-retirement/employers-workforce/facilitating-workplace-emergency-savings-programs/)  
+   Link: <a href="https://www.aarp.org/pri/topics/work-finances-retirement/employers-workforce/facilitating-workplace-emergency-savings-programs/" target="_blank" rel="noopener noreferrer nofollow">https://www.aarp.org/pri/topics/work-finances-retirement/employers-workforce/facilitating-workplace-emergency-savings-programs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It uses a debit-like payroll card. Each pay period, a small amount is deducted...Read more...</p></details>

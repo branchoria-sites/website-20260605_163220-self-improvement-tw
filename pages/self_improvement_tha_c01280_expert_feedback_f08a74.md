@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:32:11'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /false-progress/
   short_title: False Progress
   heading_title: When Self Improvement Feels Productive but Fails
-date: '2026-06-05 14:32:11 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74-overview.webp
@@ -514,7 +514,7 @@ Most self-improvement advice assumes the person can see their own problem clearl
 
 Good feedback does three things. It clarifies the target, shows the gap between present behaviour and that target, and points to the next adjustment. Hattie and Timperley’s influential review of feedback in learning describes effective feedback as answering three practical questions: where am I going, how am I going, and where next? That framework transfers well to self improvement: a helpful expert does not merely praise or criticise, but helps the person understand the standard, compare current performance against it, and choose the next practice move. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals The Power of Feedback</span><span class="citation-popover-snippet">Sage Journals The Power of Feedback</span></span></span>
 
-This is why expert help is especially powerful for skill-based goals. [Deliberate practice]({{ 'skill-feedback/' | relative_url }}), as described in research on expert performance, involves focused attempts to improve specific tasks, immediate feedback, time for problem-solving and repeated performance to refine behaviour. That is difficult to do alone because people tend to practise what is comfortable, not what is most diagnostic. A music teacher, sports coach, therapist-supervisor, language tutor, editor or technical mentor can see errors the learner has normalised and can keep practice close to the edge of ability rather than drifting into either boredom or overwhelm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th</span></span></span>
+This is why expert help is especially powerful for skill-based goals. Deliberate practice, as described in research on expert performance, involves focused attempts to improve specific tasks, immediate feedback, time for problem-solving and repeated performance to refine behaviour. That is difficult to do alone because people tend to practise what is comfortable, not what is most diagnostic. A music teacher, sports coach, therapist-supervisor, language tutor, editor or technical mentor can see errors the learner has normalised and can keep practice close to the edge of ability rather than drifting into either boredom or overwhelm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th</span></span></span>
 
 Feedback is not automatically beneficial, however. A major meta-analysis of feedback interventions found that feedback improved performance on average, but more than a third of interventions reduced performance. The lesson is important for self improvement: feedback can backfire when it becomes personal, vague, humiliating, poorly timed or disconnected from a clear task. “You are not disciplined enough” is weaker than “your plan fails at 6 pm because the next action is still too large and your phone is beside you.” Useful expert feedback narrows attention back to behaviour, evidence and the next experiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Effects of Feedback Interventions on Performance</span><span class="citation-popover-snippet">Research Gate(PDF) The Effects of Feedback Interventions on Performance</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrbartonmaths.com">[2mr barton maths]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrbartonmaths.com</span><span class="citation-popover-title">The effects of feedback interventions</span><span class="citation-popover-snippet">The effects of feedback interventions</span></span></span>
 
@@ -530,15 +530,10 @@ Coaching has evidence, but its evidence base is not the same as psychotherapy’
 
 A simple decision split is often enough:
 
-
-<div class="content-enhancement content-enhancement--comparison" markdown="1">
-
 * **Choose a coach** when the issue is goal clarity, accountability, leadership behaviour, career direction, communication, productivity, confidence in a non-clinical context, or repeated failure to execute a plan despite reasonable wellbeing.
 * **Choose a therapist** when the issue involves depression, anxiety, trauma, obsessive thoughts, panic, eating problems, self-harm, addiction, grief that feels disabling, severe shame, relationship abuse, psychosis, mania, or symptoms that disrupt daily functioning.
 * **Choose a subject expert** when the issue is performance against a known standard: pronunciation, exam technique, lifting form, public speaking, management skill, design quality, writing, coding, sales calls or any domain where trained eyes can see the mistake faster than introspection can.
-* **Use more than one support** when the problem has both performance and wellbeing dimensions, such as a founder whose leadership habits need coaching but whose panic attacks require clinical support.
-
-</div>
+* **Use more than one [support]({{ 'support/' | relative_url }})** when the problem has both performance and wellbeing dimensions, such as a founder whose leadership habits need coaching but whose panic attacks require clinical support.
 
 The strongest practitioners also know what they are not. The International Coaching Federation’s guidance on referring clients to therapy says coaches should recognise when a client’s needs fall outside coaching competence and refer to mental health professionals when appropriate. That boundary is not a bureaucratic nicety; it protects clients from receiving motivational tools when they need assessment, treatment or safeguarding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[ICF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-title">ICFReferring a Client to Therapy</span><span class="citation-popover-snippet">ICFReferring a Client to Therapy</span></span></span>
 
@@ -1027,216 +1022,216 @@ The most effective outside help does not replace personal responsibility. It mak
 
 1. <a id="endnote-1"></a>
    Source: england.nhs.uk  
-   Link: [https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/](https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/)  
+   Link: <a href="https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/</a>  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The Effects of Feedback Interventions on Performance  
-   Link: [https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory](https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory</a>  
 
 3. <a id="endnote-3"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/tests-and-treatments/talking-therapies/](https://www.nhs.uk/tests-and-treatments/talking-therapies/)  
+   Link: <a href="https://www.nhs.uk/tests-and-treatments/talking-therapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/talking-therapies/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/](https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/)  
+   Link: <a href="https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/</a>  
 
 5. <a id="endnote-5"></a>
    Source: coachingfederation.org  
    Title: ICFReferring a Client to Therapy  
-   Link: [https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf](https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf)  
+   Link: <a href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: coachingfederation.org  
-   Link: [https://coachingfederation.org/resource/referring-a-client-to-therapy/](https://coachingfederation.org/resource/referring-a-client-to-therapy/)  
+   Link: <a href="https://coachingfederation.org/resource/referring-a-client-to-therapy/" target="_blank" rel="noopener noreferrer nofollow">https://coachingfederation.org/resource/referring-a-client-to-therapy/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ng222](https://www.nice.org.uk/guidance/ng222)  
+   Link: <a href="https://www.nice.org.uk/guidance/ng222" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng222</a>  
 
 8. <a id="endnote-8"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/cg113/chapter/1-guidance](https://www.nice.org.uk/guidance/cg113/chapter/1-guidance)  
+   Link: <a href="https://www.nice.org.uk/guidance/cg113/chapter/1-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/cg113/chapter/1-guidance</a>  
 
 9. <a id="endnote-9"></a>
    Source: nice.org.uk  
    Title: what treatments should i be offered for gad  
-   Link: [https://www.nice.org.uk/guidance/cg113/ifp/chapter/what-treatments-should-i-be-offered-for-gad](https://www.nice.org.uk/guidance/cg113/ifp/chapter/what-treatments-should-i-be-offered-for-gad)  
+   Link: <a href="https://www.nice.org.uk/guidance/cg113/ifp/chapter/what-treatments-should-i-be-offered-for-gad" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/cg113/ifp/chapter/what-treatments-should-i-be-offered-for-gad</a>  
 
 10. <a id="endnote-10"></a>
    Source: hcpc-uk.org  
    Title: the professions  
-   Link: [https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/](https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/)  
+   Link: <a href="https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/" target="_blank" rel="noopener noreferrer nofollow">https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/</a>  
 
 11. <a id="endnote-11"></a>
    Source: hcpc-uk.org  
    Title: understanding the regulation of psychologists  
-   Link: [https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/](https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/)  
+   Link: <a href="https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/" target="_blank" rel="noopener noreferrer nofollow">https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/</a>  
 
 12. <a id="endnote-12"></a>
    Source: bacp.co.uk  
-   Link: [https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/](https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/)  
+   Link: <a href="https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/" target="_blank" rel="noopener noreferrer nofollow">https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/</a>  
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233682110_The_impact_of_life_coaching_on_goal_attainment_metacognition_and_mental_health](https://www.researchgate.net/publication/233682110_The_impact_of_life_coaching_on_goal_attainment_metacognition_and_mental_health)  
+   Link: <a href="https://www.researchgate.net/publication/233682110_The_impact_of_life_coaching_on_goal_attainment_metacognition_and_mental_health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233682110_The_impact_of_life_coaching_on_goal_attainment_metacognition_and_mental_health</a>  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/385981763_Network_meta-analysis_of_the_effectiveness_of_psychotherapies_with_or_without_medication_for_treating_adult_depression](https://www.researchgate.net/publication/385981763_Network_meta-analysis_of_the_effectiveness_of_psychotherapies_with_or_without_medication_for_treating_adult_depression)  
+   Link: <a href="https://www.researchgate.net/publication/385981763_Network_meta-analysis_of_the_effectiveness_of_psychotherapies_with_or_without_medication_for_treating_adult_depression" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385981763_Network_meta-analysis_of_the_effectiveness_of_psychotherapies_with_or_without_medication_for_treating_adult_depression</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/23244224_Deliberate_Practice_and_Acquisition_of_Expert_Performance_A_General_Overview](https://www.researchgate.net/publication/23244224_Deliberate_Practice_and_Acquisition_of_Expert_Performance_A_General_Overview)  
+   Link: <a href="https://www.researchgate.net/publication/23244224_Deliberate_Practice_and_Acquisition_of_Expert_Performance_A_General_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23244224_Deliberate_Practice_and_Acquisition_of_Expert_Performance_A_General_Overview</a>  
 
 16. <a id="endnote-16"></a>
    Source: nhs.uk  
    Title: www.nhs.uk Treatment  
-   Link: [https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/](https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/)  
+   Link: <a href="https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/</a>  
 
 17. <a id="endnote-17"></a>
    Source: best.barnsleyccg.nhs.uk  
-   Link: [https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf](https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf)  
+   Link: <a href="https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: talkingtherapies.cnwl.nhs.uk  
-   Link: [https://talkingtherapies.cnwl.nhs.uk/how-we-can-help](https://talkingtherapies.cnwl.nhs.uk/how-we-can-help)  
+   Link: <a href="https://talkingtherapies.cnwl.nhs.uk/how-we-can-help" target="_blank" rel="noopener noreferrer nofollow">https://talkingtherapies.cnwl.nhs.uk/how-we-can-help</a>  
 
 19. <a id="endnote-19"></a>
    Source: digital.nhs.uk  
    Title: therapy based outcomes  
-   Link: [https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23/therapy-based-outcomes](https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23/therapy-based-outcomes)  
+   Link: <a href="https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23/therapy-based-outcomes" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23/therapy-based-outcomes</a>  
 
 20. <a id="endnote-20"></a>
    Source: archive.datadictionary.nhs.uk  
-   Link: [https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/nhs_business_definitions/health_and_care_professions_council.html](https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/nhs_business_definitions/health_and_care_professions_council.html)  
+   Link: <a href="https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/nhs_business_definitions/health_and_care_professions_council.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/nhs_business_definitions/health_and_care_professions_council.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: mot.southyorkshire.icb.nhs.uk  
    Title: icb.nhs.uk Depression in adults  
-   Link: [https://mot.southyorkshire.icb.nhs.uk/sheffield/files/Sheffield%20Guideline%20Depression%20in%20adults%20-%20treatment%20and%20management%20protocol.pdf](https://mot.southyorkshire.icb.nhs.uk/sheffield/files/Sheffield%20Guideline%20Depression%20in%20adults%20-%20treatment%20and%20management%20protocol.pdf)  
+   Link: <a href="https://mot.southyorkshire.icb.nhs.uk/sheffield/files/Sheffield%20Guideline%20Depression%20in%20adults%20-%20treatment%20and%20management%20protocol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mot.southyorkshire.icb.nhs.uk/sheffield/files/Sheffield%20Guideline%20Depression%20in%20adults%20-%20treatment%20and%20management%20protocol.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: berkshirehealthcare.nhs.uk  
-   Link: [https://www.berkshirehealthcare.nhs.uk/talking-therapies](https://www.berkshirehealthcare.nhs.uk/talking-therapies)  
+   Link: <a href="https://www.berkshirehealthcare.nhs.uk/talking-therapies" target="_blank" rel="noopener noreferrer nofollow">https://www.berkshirehealthcare.nhs.uk/talking-therapies</a>  
 
 23. <a id="endnote-23"></a>
    Source: intranet.sheffieldccg.nhs.uk  
    Title: sheffieldccg.nhs.uk Generalised Anxiety Disorder (GAD)  
-   Link: [https://www.intranet.sheffieldccg.nhs.uk/Downloads/Medicines%20Management/prescribing%20guidelines/Generalised_Anxiety_Disorder.pdf](https://www.intranet.sheffieldccg.nhs.uk/Downloads/Medicines%20Management/prescribing%20guidelines/Generalised_Anxiety_Disorder.pdf)  
+   Link: <a href="https://www.intranet.sheffieldccg.nhs.uk/Downloads/Medicines%20Management/prescribing%20guidelines/Generalised_Anxiety_Disorder.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intranet.sheffieldccg.nhs.uk/Downloads/Medicines%20Management/prescribing%20guidelines/Generalised_Anxiety_Disorder.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: england.nhs.uk  
-   Link: [https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/](https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/)  
+   Link: <a href="https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/</a>  
 
 25. <a id="endnote-25"></a>
    Source: cpft.nhs.uk  
-   Link: [https://www.cpft.nhs.uk/talkingtherapies/](https://www.cpft.nhs.uk/talkingtherapies/)  
+   Link: <a href="https://www.cpft.nhs.uk/talkingtherapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpft.nhs.uk/talkingtherapies/</a>  
 
 26. <a id="endnote-26"></a>
    Source: cdn.who.int  
-   Link: [https://cdn.who.int/media/docs/default-source/mental-health/mhgap/depression/comparative-effectiveness-of-different-formats-of-psychological-treatments-for-depressive-disorder.pdf?sfvrsn=5e99c74a_0](https://cdn.who.int/media/docs/default-source/mental-health/mhgap/depression/comparative-effectiveness-of-different-formats-of-psychological-treatments-for-depressive-disorder.pdf?sfvrsn=5e99c74a_0)  
+   Link: <a href="https://cdn.who.int/media/docs/default-source/mental-health/mhgap/depression/comparative-effectiveness-of-different-formats-of-psychological-treatments-for-depressive-disorder.pdf?sfvrsn=5e99c74a_0" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/mental-health/mhgap/depression/comparative-effectiveness-of-different-formats-of-psychological-treatments-for-depressive-disorder.pdf?sfvrsn=5e99c74a_0</a>  
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5509639/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5509639/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5509639/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5509639/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-based psychotherapies have been shown to be efficacious and cost-effective for a wide range of psychiatric conditions.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals The Power of Feedback  
-   Link: [https://journals.sagepub.com/doi/10.3102/003465430298487](https://journals.sagepub.com/doi/10.3102/003465430298487)  
+   Link: <a href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/003465430298487</a>  
 
 30. <a id="endnote-30"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18778378/](https://pubmed.ncbi.nlm.nih.gov/18778378/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18778378/</a>  
 
 31. <a id="endnote-31"></a>
    Source: mrbartonmaths.com  
    Title: The effects of feedback interventions  
-   Link: [https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf](https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf)  
+   Link: <a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors](https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors)  
+   Link: <a href="https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors</a>  
 
 33. <a id="endnote-33"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/society/2024/oct/19/when-therapy-goes-wrong-the-problem-of-underqualified-psychotherapists](https://www.theguardian.com/society/2024/oct/19/when-therapy-goes-wrong-the-problem-of-underqualified-psychotherapists)  
+   Link: <a href="https://www.theguardian.com/society/2024/oct/19/when-therapy-goes-wrong-the-problem-of-underqualified-psychotherapists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/oct/19/when-therapy-goes-wrong-the-problem-of-underqualified-psychotherapists</a>  
 
 34. <a id="endnote-34"></a>
    Source: professionalstandards.org.uk  
-   Link: [https://www.professionalstandards.org.uk/practitioners/counsellor](https://www.professionalstandards.org.uk/practitioners/counsellor)  
+   Link: <a href="https://www.professionalstandards.org.uk/practitioners/counsellor" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/practitioners/counsellor</a>  
 
 35. <a id="endnote-35"></a>
    Source: professionalstandards.org.uk  
-   Link: [https://www.professionalstandards.org.uk/practitioners/psychotherapist](https://www.professionalstandards.org.uk/practitioners/psychotherapist)  
+   Link: <a href="https://www.professionalstandards.org.uk/practitioners/psychotherapist" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/practitioners/psychotherapist</a>  
 
 36. <a id="endnote-36"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25511982/](https://pubmed.ncbi.nlm.nih.gov/25511982/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25511982/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25511982/</a>  
 
 37. <a id="endnote-37"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/20182507](https://www.jstor.org/stable/20182507)  
+   Link: <a href="https://www.jstor.org/stable/20182507" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/20182507</a>  
 
 38. <a id="endnote-38"></a>
    Source: jsomers.net  
    Title: deliberate practice  
-   Link: [https://jsomers.net/blog/deliberate-practice](https://jsomers.net/blog/deliberate-practice)  
+   Link: <a href="https://jsomers.net/blog/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://jsomers.net/blog/deliberate-practice</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Life Coaching vs Therapy (Life Coaching Ethics) (Life Coaching 101 4/6)  
-   Link: [https://www.youtube.com/watch?v=BO1t7Y0Lz7Q](https://www.youtube.com/watch?v=BO1t7Y0Lz7Q)  
+   Link: <a href="https://www.youtube.com/watch?v=BO1t7Y0Lz7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BO1t7Y0Lz7Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pam Pappas MD - Coaching vs Therapy for Physician Burnout...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Pam Pappas MD  
-   Link: [https://www.youtube.com/watch?v=x7_7R9ngQck](https://www.youtube.com/watch?v=x7_7R9ngQck)  
+   Link: <a href="https://www.youtube.com/watch?v=x7_7R9ngQck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7_7R9ngQck</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Differences between Coaching, Mentoring and Counselling...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: Differences between Coaching, Mentoring and Counselling  
-   Link: [https://www.youtube.com/watch?v=PA6SMcV3aVc](https://www.youtube.com/watch?v=PA6SMcV3aVc)  
+   Link: <a href="https://www.youtube.com/watch?v=PA6SMcV3aVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PA6SMcV3aVc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Sort Of Feedback | Deliberate Practice 4/6...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Coaching vs Therapy (Accelerator vs Brake)  
-   Link: [https://www.youtube.com/watch?v=jD8LMiJLDKk](https://www.youtube.com/watch?v=jD8LMiJLDKk)  
+   Link: <a href="https://www.youtube.com/watch?v=jD8LMiJLDKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jD8LMiJLDKk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Life Coaching vs Therapy (Life Coaching Ethics) (Life Coaching 101 4/6)...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: baat.org  
-   Link: [https://baat.org/publications/insight/winter-2024/art-therapist-as-protected-title/](https://baat.org/publications/insight/winter-2024/art-therapist-as-protected-title/)  
+   Link: <a href="https://baat.org/publications/insight/winter-2024/art-therapist-as-protected-title/" target="_blank" rel="noopener noreferrer nofollow">https://baat.org/publications/insight/winter-2024/art-therapist-as-protected-title/</a>  
 
 44. <a id="endnote-44"></a>
    Source: envertiz.com  
-   Link: [https://www.envertiz.com/about-hcpc](https://www.envertiz.com/about-hcpc)  
+   Link: <a href="https://www.envertiz.com/about-hcpc" target="_blank" rel="noopener noreferrer nofollow">https://www.envertiz.com/about-hcpc</a>  
 
 45. <a id="endnote-45"></a>
    Source: hgi.org.uk  
-   Link: [https://www.hgi.org.uk/our-registers/psa-accreditation/](https://www.hgi.org.uk/our-registers/psa-accreditation/)  
+   Link: <a href="https://www.hgi.org.uk/our-registers/psa-accreditation/" target="_blank" rel="noopener noreferrer nofollow">https://www.hgi.org.uk/our-registers/psa-accreditation/</a>  
 
 46. <a id="endnote-46"></a>
    Source: ncps.com  
-   Link: [https://ncps.com/about-us/accredited-register-programme-regulation](https://ncps.com/about-us/accredited-register-programme-regulation)  
+   Link: <a href="https://ncps.com/about-us/accredited-register-programme-regulation" target="_blank" rel="noopener noreferrer nofollow">https://ncps.com/about-us/accredited-register-programme-regulation</a>  
 
 47. <a id="endnote-47"></a>
    Source: bacp.co.uk  
-   Link: [https://www.bacp.co.uk/about-us/protecting-the-public/bacp-register/](https://www.bacp.co.uk/about-us/protecting-the-public/bacp-register/)  
+   Link: <a href="https://www.bacp.co.uk/about-us/protecting-the-public/bacp-register/" target="_blank" rel="noopener noreferrer nofollow">https://www.bacp.co.uk/about-us/protecting-the-public/bacp-register/</a>  
 
 48. <a id="endnote-48"></a>
    Source: professionalstandards.org.uk  
-   Link: [https://www.professionalstandards.org.uk/organisations-we-oversee/find-a-register/british-association-counselling-psychotherapy](https://www.professionalstandards.org.uk/organisations-we-oversee/find-a-register/british-association-counselling-psychotherapy)  
+   Link: <a href="https://www.professionalstandards.org.uk/organisations-we-oversee/find-a-register/british-association-counselling-psychotherapy" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/organisations-we-oversee/find-a-register/british-association-counselling-psychotherapy</a>  

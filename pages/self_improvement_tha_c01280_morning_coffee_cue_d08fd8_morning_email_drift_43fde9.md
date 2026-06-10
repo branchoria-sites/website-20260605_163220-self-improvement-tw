@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:40:42'
 parent_title: How Coffee Can Trigger the First Work Task | Better Change
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
@@ -265,7 +266,6 @@ next_link:
   permalink: /if-then-plan/
   short_title: If Then Plan
   heading_title: Why If Then Coffee Plans Work
-date: '2026-06-05 15:40:42 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-1.webp
@@ -302,7 +302,7 @@ Email creates uncertainty. Each message carries a small question: reply, ignore,
 
 Research by Gloria Mark and colleagues has repeatedly shown that interruptions and attention switching are associated with greater stress and fragmented focus. Workers often compensate by working faster, but at a psychological cost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ics.uci.edu">[UCI Bren School of ICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ics.uci.edu</span><span class="citation-popover-snippet">UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</span></span></span>
 
-The inbox also encourages self-interruption. You may enter to check one message and leave having followed several threads, opened documents, scheduled meetings and answered low-value requests. Studies of email behaviour suggest that batching email can reduce interruptions and emotional exhaustion, particularly for people handling large email volumes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central For whom and under what circumstances does email</span><span class="citation-popover-snippet">PMCby I Wijngaards · 2022 · Cited by 11 — Email batching was negatively related to email interruptions and emotional exhaustion but was u...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">Email20Duration20Camera20Ready20submission3 1</span><span class="citation-popover-snippet">Email Duration, Batching and Self-interruption: Patterns of...by G Mark · 2016 · Cited by 287 — With high email use, people who chose wh...</span></span></span> The deeper risk is strategic rather than tactical. When the first clear attention of the day is spent processing incoming requests, the day's agenda can become externally defined before any progress has been made on high-value work.
+The inbox also encourages self-interruption. You may enter to check one message and leave having followed several threads, opened documents, scheduled meetings and answered low-value requests. Studies of email behaviour suggest that batching email can reduce interruptions and emotional exhaustion, particularly for people handling large email volumes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central For whom and under what circumstances does email</span><span class="citation-popover-snippet">by I Wijngaards · 2022 · Cited by 11 — Email batching was negatively related to email interruptions and emotional exhaustion but was u...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">Email20Duration20Camera20Ready20submission3 1</span><span class="citation-popover-snippet">Email Duration, Batching and Self-interruption: Patterns of...by G Mark · 2016 · Cited by 287 — With high email use, people who chose wh...</span></span></span> The deeper risk is strategic rather than tactical. When the first clear attention of the day is spent processing incoming requests, the day's agenda can become externally defined before any progress has been made on high-value work.
 
 That is why email drift often feels productive while producing surprisingly little of what people intended to accomplish.
 
@@ -813,108 +813,108 @@ When coffee becomes a cue for starting meaningful work rather than opening commu
 
 1. <a id="endnote-1"></a>
    Source: ics.uci.edu  
-   Link: [https://ics.uci.edu/~gmark/chi08-mark.pdf](https://ics.uci.edu/~gmark/chi08-mark.pdf)  
+   Link: <a href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ics.uci.edu/~gmark/chi08-mark.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/1357054.1357072](https://dl.acm.org/doi/10.1145/1357054.1357072)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/1357054.1357072</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: microsoft.com  
    Title: Email20Duration20Camera20Ready20submission3 1  
-   Link: [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf)  
+   Link: <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Email Duration, Batching and Self-interruption: Patterns of...by G Mark · 2016 · Cited by 287 — With high email use, people who chose wh...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central For whom and under what circumstances does email  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby I Wijngaards · 2022 · Cited by 11 — Email batching was negatively related to email interruptions and emotional exhaustion but was u...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Wijngaards · 2022 · Cited by 11 — Email batching was negatively related to email interruptions and emotional exhaustion but was u...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lauravanderkam.com  
    Title: Laura Vanderkam How to never check email in the morning (while still  
-   Link: [https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/](https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/)  
+   Link: <a href="https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/" target="_blank" rel="noopener noreferrer nofollow">https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laura VanderkamHow to never check email in the morning (while still...May 3, 2016 — The most dramatic, effective way to boost your produ...</p></details>
    Published: May 3, 2016  
 
 6. <a id="endnote-6"></a>
    Source: hbr.org  
    Title: respond to complicated emails first thing in the morning  
-   Link: [https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning](https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning)  
+   Link: <a href="https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewRespond to Complicated Emails First Thing in the MorningJul 12, 2016 — We&#x27;ve been warned repeatedly that it&#x27;s a ba...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: jamesclear.com  
    Title: James Clear Achieve Your Goals: The Simple Trick That Doubles  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearAchieve Your Goals: The Simple Trick That Doubles...May 16, 2013 — An implementation intention sweeps away foggy notions like...</p></details>
    Published: May 16, 2013  
 
 8. <a id="endnote-8"></a>
    Source: rightprose.co  
    Title: Right Prose Implementation Intentions  
-   Link: [https://rightprose.co/implementation-intentions/](https://rightprose.co/implementation-intentions/)  
+   Link: <a href="https://rightprose.co/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://rightprose.co/implementation-intentions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions - Right ProseAn implementation intention is a plan you make beforehand about when and where to act. It can help...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: marishamanahova.com  
    Title: implementation intentions  
-   Link: [https://marishamanahova.com/tag/implementation-intentions/](https://marishamanahova.com/tag/implementation-intentions/)  
+   Link: <a href="https://marishamanahova.com/tag/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://marishamanahova.com/tag/implementation-intentions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Good Life14 Dec 2018 — Implementation intentions are examples of simple, explicit planning: “If situation X arises, then I will do Y.”R...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/habit-stacking-productivity-creativity/](https://goalsandprogress.com/habit-stacking-productivity-creativity/)  
+   Link: <a href="https://goalsandprogress.com/habit-stacking-productivity-creativity/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/habit-stacking-productivity-creativity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Stacking for Productivity: Build Work RoutinesHabit stacking for productivity uses the Anchor-Stack-Seal method to build work routi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40caephler/implementation-intentions-starting-a-new-habit-88dbae463b26](https://medium.com/%40caephler/implementation-intentions-starting-a-new-habit-88dbae463b26)  
+   Link: <a href="https://medium.com/%40caephler/implementation-intentions-starting-a-new-habit-88dbae463b26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40caephler/implementation-intentions-starting-a-new-habit-88dbae463b26</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Starting a New HabitAn implementation intention that I used for the start of my morning routine goes like this...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/301935517_Email_Duration_Batching_and_Self-interruption_Patterns_of_Email_Use_on_Productivity_and_Stress](https://www.researchgate.net/publication/301935517_Email_Duration_Batching_and_Self-interruption_Patterns_of_Email_Use_on_Productivity_and_Stress)  
+   Link: <a href="https://www.researchgate.net/publication/301935517_Email_Duration_Batching_and_Self-interruption_Patterns_of_Email_Use_on_Productivity_and_Stress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301935517_Email_Duration_Batching_and_Self-interruption_Patterns_of_Email_Use_on_Productivity_and_Stress</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Email Duration, Batching and Self-interruption: Patterns of...We investigate how three email use patterns: duration, interruption habit...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/strengthen-action-taking-habits-success-gabriel-dibble--yrnqc](https://www.linkedin.com/pulse/strengthen-action-taking-habits-success-gabriel-dibble--yrnqc)  
+   Link: <a href="https://www.linkedin.com/pulse/strengthen-action-taking-habits-success-gabriel-dibble--yrnqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/strengthen-action-taking-habits-success-gabriel-dibble--yrnqc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening Action-Taking Habits for Career SuccessIn a professional setting, a morning email-check ritual (cue) can trigger anxious co...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchmasterminds.com  
    Title: the researchers superpower habit formation academic productivity  
-   Link: [https://www.researchmasterminds.com/blog/the-researchers-superpower-habit-formation-academic-productivity](https://www.researchmasterminds.com/blog/the-researchers-superpower-habit-formation-academic-productivity)  
+   Link: <a href="https://www.researchmasterminds.com/blog/the-researchers-superpower-habit-formation-academic-productivity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchmasterminds.com/blog/the-researchers-superpower-habit-formation-academic-productivity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How habit formation impacts academic productivity4 Aug 2025 — Examples of effective habit stacks phrased as implementation intentions: &quot;A...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/new-writers-welcome/how-to-resist-the-urge-to-check-emails-first-thing-in-the-morning-f1bdf49047bf](https://medium.com/new-writers-welcome/how-to-resist-the-urge-to-check-emails-first-thing-in-the-morning-f1bdf49047bf)  
+   Link: <a href="https://medium.com/new-writers-welcome/how-to-resist-the-urge-to-check-emails-first-thing-in-the-morning-f1bdf49047bf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/new-writers-welcome/how-to-resist-the-urge-to-check-emails-first-thing-in-the-morning-f1bdf49047bf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick morning fix. Start by setting a 5-minute timer to briefly look at emails in the morning, but only to flag important ones. · 2. Time...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/productivity/comments/1ne5sgm/does_anyone_else_spend_their_whole_morning_just/](https://www.reddit.com/r/productivity/comments/1ne5sgm/does_anyone_else_spend_their_whole_morning_just/)  
+   Link: <a href="https://www.reddit.com/r/productivity/comments/1ne5sgm/does_anyone_else_spend_their_whole_morning_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/productivity/comments/1ne5sgm/does_anyone_else_spend_their_whole_morning_just/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for anything marked as (!) high priority. I then use my most...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: hughculver.com  
    Title: seriously need stop checking email morning  
-   Link: [https://www.hughculver.com/blog/seriously-need-stop-checking-email-morning](https://www.hughculver.com/blog/seriously-need-stop-checking-email-morning)  
+   Link: <a href="https://www.hughculver.com/blog/seriously-need-stop-checking-email-morning" target="_blank" rel="noopener noreferrer nofollow">https://www.hughculver.com/blog/seriously-need-stop-checking-email-morning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, You Need to Stop Checking Email in the MorningJan 12, 2018 — The latest research found we are now burning up one-third of our...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31704939/](https://pubmed.ncbi.nlm.nih.gov/31704939/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31704939/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31704939/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and productivity patterns of interrupted, synergistic...by S Zaman · 2019 · Cited by 20 — We describe a controlled experiment, aiming t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/stevenbartlett-123_checking-your-emails-in-the-morning-is-a-activity-7236418916502188032-mWn_](https://www.linkedin.com/posts/stevenbartlett-123_checking-your-emails-in-the-morning-is-a-activity-7236418916502188032-mWn_)  
+   Link: <a href="https://www.linkedin.com/posts/stevenbartlett-123_checking-your-emails-in-the-morning-is-a-activity-7236418916502188032-mWn_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stevenbartlett-123_checking-your-emails-in-the-morning-is-a-activity-7236418916502188032-mWn_</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ions at the mercy of whatever is at the other end.Read more...</p></details>

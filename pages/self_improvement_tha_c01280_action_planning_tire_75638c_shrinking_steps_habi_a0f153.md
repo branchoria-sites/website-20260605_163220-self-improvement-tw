@@ -297,7 +297,7 @@ A plan is probably too large when:
 
 </div>
 
-The important distinction is between a challenge and a barrier. A challenging habit can still be performed consistently. A barrier-heavy habit only works under favourable conditions. Research on behaviour maintenance emphasises that long-term change depends on adapting behaviour to real-life circumstances and preventing lapses from becoming full relapses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTheoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1848 — Relapse prevention theory includes...</span></span></span>
+The important distinction is between a challenge and a barrier. A challenging habit can still be performed consistently. A barrier-heavy habit only works under favourable conditions. Research on behaviour maintenance emphasises that long-term change depends on adapting behaviour to real-life circumstances and preventing lapses from becoming full relapses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Theoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1848 — Relapse prevention theory includes...</span></span></span>
 
 Consider a reading habit planned as "read for thirty minutes every night". If that goal is skipped three evenings each week, the problem may not be commitment to reading. The problem may be that thirty uninterrupted minutes is incompatible with the person's actual evenings.
 
@@ -405,7 +405,7 @@ People frequently treat habits as cumulative projects where only output counts. 
 
 A missed workout loses fitness progress slowly. A broken exercise routine can lose momentum much faster.
 
-This is why many habit researchers emphasise small, repeatable actions. BJ Fogg's work on Tiny Habits argues that making behaviours extremely easy increases the likelihood of repetition and successful execution. Small successes create positive reinforcement and reduce procrastination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.library.uu.nl">[BJ Fogg, PhD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.library.uu.nl</span><span class="citation-popover-title">Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat</span><span class="citation-popover-snippet">DSpaceBreaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Research indeed demonstrates that implementat...</span></span></span>
+This is why many habit researchers emphasise small, repeatable actions. BJ Fogg's work on Tiny Habits argues that making behaviours extremely easy increases the likelihood of repetition and successful execution. Small successes create positive reinforcement and reduce procrastination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.library.uu.nl">[BJ Fogg, PhD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.library.uu.nl</span><span class="citation-popover-title">Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat</span><span class="citation-popover-snippet">Breaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Research indeed demonstrates that implementat...</span></span></span>
 
 The key insight is that habit maintenance and performance optimisation are not always the same task.
 
@@ -420,7 +420,7 @@ Shrinking the behaviour works best when the cue remains unchanged.
 
 Suppose the habit is:
 
-"After making [morning coffee]({{ 'coffee-cue/' | relative_url }}), I write."
+"After making morning coffee, I write."
 
 On a productive day:
 
@@ -432,7 +432,7 @@ On a difficult day:
 
 The cue stays the same. Only the size changes.
 
-This stability matters because habits depend heavily on repeated cue-behaviour associations. Implementation-intention research and habit-formation theory both point to the value of linking behaviour to specific situations and repeating that link over time. White Rose Research Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.library.uu.nl">[dspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.library.uu.nl</span><span class="citation-popover-title">Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat</span><span class="citation-popover-snippet">DSpaceBreaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Research indeed demonstrates that implementat...</span></span></span> When the cue remains constant, the brain continues to learn that the behaviour belongs in that context. The routine survives even when output fluctuates.
+This stability matters because habits depend heavily on repeated cue-behaviour associations. Implementation-intention research and habit-formation theory both point to the value of linking behaviour to specific situations and repeating that link over time. White Rose Research Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.library.uu.nl">[dspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.library.uu.nl</span><span class="citation-popover-title">Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat</span><span class="citation-popover-snippet">Breaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Research indeed demonstrates that implementat...</span></span></span> When the cue remains constant, the brain continues to learn that the behaviour belongs in that context. The routine survives even when output fluctuates.
 
 Habit stacking uses the same logic. A new behaviour attached to an existing routine benefits from an already stable trigger. Consistent cues reduce the need for daily deliberation and make small versions easier to perform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-title">Real Simple Habit Stacking Makes New Habits Last-Here&#x27;s How It Works</span><span class="citation-popover-snippet">This technique capitalizes on the brain&#x27;s established neural pathways, making new habits easier to adopt by tying them to familiar routin...</span></span></span>
 
@@ -452,7 +452,7 @@ Questions worth asking include:
 
 The goal is adaptability rather than retreat.
 
-Research on behaviour maintenance highlights the importance of recovering from setbacks while continuing progress. Successful maintenance is not perfect consistency at maximum effort. It is the ability to adjust, recover and continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTheoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1848 — Relapse prevention theory includes...</span></span></span>
+Research on behaviour maintenance highlights the importance of recovering from setbacks while continuing progress. Successful maintenance is not perfect consistency at maximum effort. It is the ability to adjust, recover and continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Theoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1848 — Relapse prevention theory includes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GECcjrYHH8w" title="How small habits and a two-minute rule can help your productivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GECcjrYHH8w" target="_blank" rel="noopener noreferrer">How small habits and a two-minute rule can help your productivity</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 174.2K &middot; Uploaded: February 2018 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GECcjrYHH8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GECcjrYHH8w">Open on YouTube</a></p></div></div></div>
@@ -888,118 +888,118 @@ Repeatedly skipped plans often need redesign, not more self-criticism. Shrinking
 
 1. <a id="endnote-1"></a>
    Source: gsb.stanford.edu  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTheoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1848 — Relapse prevention theory includes...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Theoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1848 — Relapse prevention theory includes...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: eprints.gla.ac.uk  
    Title: Enlighten Publications Can a simple plan change a complex behavior?  
-   Link: [https://eprints.gla.ac.uk/289340/1/289340.pdf](https://eprints.gla.ac.uk/289340/1/289340.pdf)  
+   Link: <a href="https://eprints.gla.ac.uk/289340/1/289340.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/289340/1/289340.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 20, 2023 — by A Rodger · 2023 · Cited by 24 — Implementation intentions have been found to effectively promote many health behavi...</p></details>
    Published: January 20, 2023  
 
 6. <a id="endnote-6"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bjfogg.com  
-   Link: [https://www.bjfogg.com/tiny-habits](https://www.bjfogg.com/tiny-habits)  
+   Link: <a href="https://www.bjfogg.com/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.bjfogg.com/tiny-habits</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg, PhDBehavior Scientist &amp; Author of Tiny HabitsLearn the Fogg Behavior Model in depth with Tiny Habits - the only authoritative so...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DSpaceBreaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Research indeed demonstrates that implementat...</p></details>
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Research indeed demonstrates that implementat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: realsimple.com  
    Title: Real Simple Habit Stacking Makes New Habits Last-Here's How It Works  
-   Link: [https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking](https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking)  
+   Link: <a href="https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This technique capitalizes on the brain&#x27;s established neural pathways, making new habits easier to adopt by tying them to familiar routin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bjfogg.com  
-   Link: [https://www.bjfogg.com/](https://www.bjfogg.com/)  
+   Link: <a href="https://www.bjfogg.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bjfogg.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg, PhD - BJ Fogg - Behavior Scientist &amp; Author of Tiny...My expertise is any aspect of behavior change, from habit formation to co...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation Intentions are proven strategies helping you achi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: forbes.com  
    Title: stanford behavior scientist says this one thing is the key to change  
-   Link: [https://www.forbes.com/sites/alisacohn/2020/02/25/stanford-behavior-scientist-says-this-one-thing-is-the-key-to-change/](https://www.forbes.com/sites/alisacohn/2020/02/25/stanford-behavior-scientist-says-this-one-thing-is-the-key-to-change/)  
+   Link: <a href="https://www.forbes.com/sites/alisacohn/2020/02/25/stanford-behavior-scientist-says-this-one-thing-is-the-key-to-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/alisacohn/2020/02/25/stanford-behavior-scientist-says-this-one-thing-is-the-key-to-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In his new book BJ Fogg wants you to create big changes from tiny habits. Stephanie Weldy. Fogg...Read more...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/293478713_Theoretical_explanations_for_maintenance_of_behavior_change_a_systematic_review_of_behavior_theories](https://www.researchgate.net/publication/293478713_Theoretical_explanations_for_maintenance_of_behavior_change_a_systematic_review_of_behavior_theories)  
+   Link: <a href="https://www.researchgate.net/publication/293478713_Theoretical_explanations_for_maintenance_of_behavior_change_a_systematic_review_of_behavior_theories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/293478713_Theoretical_explanations_for_maintenance_of_behavior_change_a_systematic_review_of_behavior_theories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theoretical explanations for maintenance of behavior change7 Mar 2016 — The aim of this review was to identify and synthesise current the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: lifering.org  
-   Link: [https://lifering.org/wp-content/uploads/lifering_recovery/outside-recovery-articles/urges/Changing%20Addictive%20Thought%20Patterns.pdf](https://lifering.org/wp-content/uploads/lifering_recovery/outside-recovery-articles/urges/Changing%20Addictive%20Thought%20Patterns.pdf)  
+   Link: <a href="https://lifering.org/wp-content/uploads/lifering_recovery/outside-recovery-articles/urges/Changing%20Addictive%20Thought%20Patterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lifering.org/wp-content/uploads/lifering_recovery/outside-recovery-articles/urges/Changing%20Addictive%20Thought%20Patterns.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Changing Addictive Thought PatternsChanging your old addictive thought patterns is important for recovery and plays a key role in your re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: europepmc.org  
-   Link: [https://europepmc.org/books/n/tip35v2/ch7/](https://europepmc.org/books/n/tip35v2/ch7/)  
+   Link: <a href="https://europepmc.org/books/n/tip35v2/ch7/" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/books/n/tip35v2/ch7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7—From Action to Maintenance: Stabilizing ChangeIt presents strategies for stabilizing change, supporting lifestyle changes, mana...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thebettercompany.io  
-   Link: [https://thebettercompany.io/en/tiny-habits-method/](https://thebettercompany.io/en/tiny-habits-method/)  
+   Link: <a href="https://thebettercompany.io/en/tiny-habits-method/" target="_blank" rel="noopener noreferrer nofollow">https://thebettercompany.io/en/tiny-habits-method/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tiny habits methodIn this article, we summarize the core ideas of the Tiny Habits Method and provide practical tools to apply them im...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/](https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/)  
+   Link: <a href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/book/](https://tinyhabits.com/book/)  
+   Link: <a href="https://tinyhabits.com/book/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Book | BJ FoggFogg has coined “Behavior Design”—cracks the code of habit formation. The content in this book is practical, im...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83](https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83)  
+   Link: <a href="https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingFogg outlines the ABCs of habit formation: Anchor (establishing a trigger), Behavior...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theonlinegp.com  
-   Link: [https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick](https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick)  
+   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...12 Aug 2025 — Implementation intentions specify exactly when and where new behaviou...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: oneyoufeed.net  
-   Link: [https://www.oneyoufeed.net/why-[willpower](https://www.oneyoufeed.net/why-[willpower)  
+   Link: <a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg shares practical strategies for designing habits that fit individual contexts, explains his behavior model, and discusses how positi...</p></details>

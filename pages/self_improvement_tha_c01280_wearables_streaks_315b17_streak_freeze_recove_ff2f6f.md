@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:45:33'
 parent_title: When Streaks Help and When They Trap You | Better Change
 parent_permalink: /wearables/
 parent_nav_short_title: Wearables
@@ -265,7 +266,6 @@ next_link:
   permalink: /minimums-1cfcfe/
   short_title: Minimums
   heading_title: The Smallest Version That Still Counts
-date: '2026-06-05 15:45:33 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_streak_freeze_recove_ff2f6f-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_streak_freeze_recove_ff2f6f-Illustration-1.webp
@@ -282,9 +282,9 @@ This is why many modern habit systems include grace features such as Streak Free
 
 ## Should Habit Apps Let You Miss a Day?
 
-The strongest argument for strict streaks is that they create clarity. A streak measures one thing: did the behaviour happen today? There is no negotiation and no ambiguity. Because people are often motivated by loss aversion—the tendency to feel losses more strongly than gains—the prospect of losing a long streak can be a powerful reason to act. This is one reason why streaks became central to products such as Duolingo and many fitness and habit-tracking apps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justanotherpm.com">[JustAnotherPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justanotherpm.com</span><span class="citation-popover-snippet">JustAnotherPMThe Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The strongest argument for strict streaks is that they create clarity. A streak measures one thing: did the behaviour happen today? There is no negotiation and no ambiguity. Because people are often motivated by loss aversion—the tendency to feel losses more strongly than gains—the prospect of losing a long streak can be a powerful reason to act. This is one reason why streaks became central to products such as Duolingo and many fitness and habit-tracking apps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justanotherpm.com">[JustAnotherPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justanotherpm.com</span><span class="citation-popover-snippet">The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The problem is that strict streaks are fragile. A system that treats one missed day exactly the same as a month-long [abandonment]({{ 'abandonment/' | relative_url }}) can create an all-or-nothing mindset. The user who misses a day may feel that weeks of effort have been erased. In behaviour-change research, a lapse is often most dangerous when it is interpreted as evidence of personal failure rather than a temporary interruption. Researchers studying behaviour change and relapse have repeatedly noted that setbacks are a normal part of the change process, not proof that the attempt has failed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
+The problem is that strict streaks are fragile. A system that treats one missed day exactly the same as a month-long [abandonment]({{ 'abandonment/' | relative_url }}) can create an all-or-nothing mindset. The user who misses a day may feel that weeks of effort have been erased. In behaviour-change research, a lapse is often most dangerous when it is interpreted as evidence of personal failure rather than a temporary interruption. Researchers studying [behaviour change]({{ 'behaviour-change/' | relative_url }}) and relapse have repeatedly noted that setbacks are a normal part of the change process, not proof that the attempt has failed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
 
 For self-improvement that works in the real world, the important outcome is not an unbroken chain. It is whether the behaviour survives disruptions.
 
@@ -336,7 +336,7 @@ Importantly, the habit remains visible. The user still notices the interruption.
 
 The strongest case for flexibility emerges from what is known about habit formation and behavioural lapses.
 
-Habit formation is not a perfectly linear process. Reviews of habit research show that [automaticity]({{ 'automaticity/' | relative_url }}) develops over time through repetition, but the process varies widely across individuals and behaviours. Studies have reported median formation periods around two months, while some habits take much longer. A single missed occurrence does not erase the learning accumulated through weeks of repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">how long does it take form habit</span><span class="citation-popover-snippet">University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</span></span></span>
+Habit formation is not a perfectly linear process. Reviews of habit research show that automaticity develops over time through repetition, but the process varies widely across individuals and behaviours. Studies have reported median formation periods around two months, while some habits take much longer. A single missed occurrence does not erase the learning accumulated through weeks of repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">how long does it take form habit</span><span class="citation-popover-snippet">University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</span></span></span>
 
 Grace mechanisms can therefore support habit persistence in several ways.
 
@@ -354,7 +354,7 @@ A grace-day policy effectively embeds a form of self-compassion into product des
 
 ### They encourage return behaviour
 
-Evidence from Duolingo's experimentation suggests that allowing users more flexibility through additional streak freezes improved return rates among people who had taken time away from the app. The company observed that users who experienced interruptions were more likely to come back when recovery mechanisms existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInThe thinking behind Duolingo&#x27;s streak freezes feature, and...So basically users who had taken a day off, we were getting them to...</span></span></span>
+Evidence from Duolingo's experimentation suggests that allowing users more flexibility through additional streak freezes improved return rates among people who had taken time away from the app. The company observed that users who experienced interruptions were more likely to come back when recovery mechanisms existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">The thinking behind Duolingo&#x27;s streak freezes feature, and...So basically users who had taken a day off, we were getting them to...</span></span></span>
 
 This is a critical distinction. The goal is not preserving a number. The goal is preserving the habit.
 
@@ -504,7 +504,7 @@ A streak can be a useful form of visible feedback, but the most valuable number 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -514,111 +514,36 @@ A streak can be a useful form of visible feedback, but the most valuable number 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook"><img src="{{ '/assets/images/marketplace-covers/656556146176608bf460.jpg' | relative_url }}" alt="Listing image for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Habit Tracker 12 Pack - A5 Inserts for Binder / Journal / Diary"><img src="https://i.ebayimg.com/images/g/-00AAeSwGgVqDMHe/s-l225.jpg" alt="Listing image for Monthly Habit Tracker 12 Pack - A5 Inserts for Binder / Journal / Diary" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Monthly Habit Tracker 12 Pack - A5 Inserts for Binder / Journal / Diary</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer"><img src="{{ '/assets/images/marketplace-covers/3010e87cba76df4a7ce3.jpg' | relative_url }}" alt="Listing image for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal"><img src="{{ '/assets/images/marketplace-covers/2f35d7fbbee14e036f45.jpg' | relative_url }}" alt="Listing image for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover"><img src="{{ '/assets/images/marketplace-covers/37e1fc094899359e87d2.jpg' | relative_url }}" alt="Listing image for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,15 +551,15 @@ A streak can be a useful form of visible feedback, but the most valuable number 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="{{ '/assets/images/marketplace-covers/2781fd9e9858633c2124.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal: Make Habit F..., Designs, Daily"><img src="https://i.ebayimg.com/images/g/qFcAAeSwpHRp3YVV/s-l225.jpg" alt="Listing image for Habit Tracker Journal: Make Habit F..., Designs, Daily" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal: Make Habit F..., Designs, Daily</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,15 +567,15 @@ A streak can be a useful form of visible feedback, but the most valuable number 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elevation Habit Tracker &amp; Goal Journal – Undated A4 Planner for Habits, Producti"><img src="https://i.ebayimg.com/images/g/pREAAeSwEk1o91iM/s-l225.jpg" alt="Listing image for Elevation Habit Tracker &amp; Goal Journal – Undated A4 Planner for Habits, Producti" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Elevation Habit Tracker &amp; Goal Journal – Undated A4 Planner for Habits, Producti</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,15 +583,15 @@ A streak can be a useful form of visible feedback, but the most valuable number 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="{{ '/assets/images/marketplace-covers/4490bc55c38326362da3.jpg' | relative_url }}" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Life Tracker: A Habit Journal to Help You Map Out and Manage Your Life by Ann"><img src="https://i.ebayimg.com/images/g/iGYAAeSwATdqEMUt/s-l225.jpg" alt="Listing image for My Life Tracker: A Habit Journal to Help You Map Out and Manage Your Life by Ann" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">My Life Tracker: A Habit Journal to Help You Map Out and Manage Your Life by Ann</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -674,7 +599,7 @@ A streak can be a useful form of visible feedback, but the most valuable number 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grace-days-should-habit-apps-let-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,17 +676,31 @@ A streak can be a useful form of visible feedback, but the most valuable number 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -774,42 +713,73 @@ A streak can be a useful form of visible feedback, but the most valuable number 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -824,192 +794,196 @@ A streak can be a useful form of visible feedback, but the most valuable number 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: blog.duolingo.com  
    Title: how duolingo streak builds habit  
-   Link: [https://blog.duolingo.com/how-duolingo-streak-builds-habit/](https://blog.duolingo.com/how-duolingo-streak-builds-habit/)  
+   Link: <a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: justanotherpm.com  
-   Link: [https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature](https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JustAnotherPMThe Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = s...</p></details>
+   Link: <a href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = s...</p></details>
    Published: May 2025  
 
 3. <a id="endnote-3"></a>
    Source: duolingo.com  
    Title: Help Center  
-   Link: [https://www.duolingo.com/help/what-is-a-streak](https://www.duolingo.com/help/what-is-a-streak)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DuolingoHelp Center - What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak free...</p></details>
+   Link: <a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Help Center - What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak free...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ](https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInThe thinking behind Duolingo&#x27;s streak freezes feature, and...So basically users who had taken a day off, we were getting them to...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The thinking behind Duolingo&#x27;s streak freezes feature, and...So basically users who had taken a day off, we were getting them to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: self-compassion.org  
-   Link: [https://self-compassion.org/self-compassion-practices/](https://self-compassion.org/self-compassion-practices/)  
+   Link: <a href="https://self-compassion.org/self-compassion-practices/" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/self-compassion-practices/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Compassion Practices: Cultivate Inner Peace and JoyExplore the benefits of self-compassion practices. Foster self-love, resilience...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: blog.duolingo.com  
    Title: improving the streak  
-   Link: [https://blog.duolingo.com/improving-the-streak/](https://blog.duolingo.com/improving-the-streak/)  
+   Link: <a href="https://blog.duolingo.com/improving-the-streak/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/improving-the-streak/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the streak: Forming habits one lesson at a time19 Nov 2020 — Under our new change, learners complete just one lesson to extend their stre...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: blog.duolingo.com  
    Title: how to keep your streak on vacation  
-   Link: [https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/](https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/)  
+   Link: <a href="https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Do lessons that feel the most manageable.; Adapt to your new schedule · Find yourself a...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/habit-formation-science-backed-strategies-leaders-pedro-qsahf](https://www.linkedin.com/pulse/habit-formation-science-backed-strategies-leaders-pedro-qsahf)  
+   Link: <a href="https://www.linkedin.com/pulse/habit-formation-science-backed-strategies-leaders-pedro-qsahf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/habit-formation-science-backed-strategies-leaders-pedro-qsahf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies for Leaders to...Streak maintenance: The psychological power of unbroken streaks has been val...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: It is always  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRelapse on the Road to Recovery: Learning the Lessons of...by CC DiClemente · 2022 · Cited by 64 — Relapse, or the failure...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f](https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f)  
+   Link: <a href="https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sychology of commitment and loss aversion, people feel...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 856 — Psychological theor...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralQualitative study examining streaking as a behaviour change...by M Curran · 2024 · Cited by 4 — The aim of the study is to...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;) to form a new habit, according to...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our findings showed that self-...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thesun.co.uk  
    Title: The Sun Lost your Duolingo streak?  
-   Link: [https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/](https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/)  
+   Link: <a href="https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s a new way you can get it BACK3 days ago — Duolingo has introduced a long-requested feature allowing users to recover lost activit...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/duolingo/comments/11qqo47/duolingo_applies_a_streak_freeze_even_though_a/](https://www.reddit.com/r/duolingo/comments/11qqo47/duolingo_applies_a_streak_freeze_even_though_a/)  
+   Link: <a href="https://www.reddit.com/r/duolingo/comments/11qqo47/duolingo_applies_a_streak_freeze_even_though_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/duolingo/comments/11qqo47/duolingo_applies_a_streak_freeze_even_though_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ied over otherwise I never would have lost my biggest streak.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: duolingo.fandom.com  
    Title: Streak freeze  
-   Link: [https://duolingo.fandom.com/wiki/Shop/Streak_freeze](https://duolingo.fandom.com/wiki/Shop/Streak_freeze)  
+   Link: <a href="https://duolingo.fandom.com/wiki/Shop/Streak_freeze" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Shop/Streak_freeze</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comShop/Streak freeze - Duolingo Wiki - FandomA streak freeze can be bought at any time and will stay equipped until you miss a da...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: duolingo.fandom.com  
-   Link: [https://duolingo.fandom.com/wiki/Streak](https://duolingo.fandom.com/wiki/Streak)  
+   Link: <a href="https://duolingo.fandom.com/wiki/Streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Wiki - FandomYou can freeze your streak to avoid it resetting from a day of inactivity by buying a streak freeze in the gems sto...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/duolingo-and-the-psychology-of-streaks-why-you-cant-stop-learning-e926b190acaa](https://medium.com/design-bootcamp/duolingo-and-the-psychology-of-streaks-why-you-cant-stop-learning-e926b190acaa)  
+   Link: <a href="https://medium.com/design-bootcamp/duolingo-and-the-psychology-of-streaks-why-you-cant-stop-learning-e926b190acaa" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/duolingo-and-the-psychology-of-streaks-why-you-cant-stop-learning-e926b190acaa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>st to avoid losing progress? Congrats, you&#x27;ve been loss-averse!Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: duoplanet.com  
    Title: Duolingo Streak Freeze  
-   Link: [https://duoplanet.com/duolingo-streak-freeze/](https://duoplanet.com/duolingo-streak-freeze/)  
+   Link: <a href="https://duoplanet.com/duolingo-streak-freeze/" target="_blank" rel="noopener noreferrer nofollow">https://duoplanet.com/duolingo-streak-freeze/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This means that if you miss a day — i.e. you don&#x27;t login...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: duolingo.hobune.stream  
-   Link: [https://duolingo.hobune.stream/comment/10483341/Hey-Duo-here-s-a-better-way-for-folks-to-preserve-their-streak](https://duolingo.hobune.stream/comment/10483341/Hey-Duo-here-s-a-better-way-for-folks-to-preserve-their-streak)  
+   Link: <a href="https://duolingo.hobune.stream/comment/10483341/Hey-Duo-here-s-a-better-way-for-folks-to-preserve-their-streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.hobune.stream/comment/10483341/Hey-Duo-here-s-a-better-way-for-folks-to-preserve-their-streak</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Duo, here&#x27;s a better way for folks to preserve their &quot;...You say buying a streak freeze leads to less study, but you have to have studie...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: orizon.co  
    Title: duolingos gamification secrets  
-   Link: [https://www.orizon.co/blog/duolingos-gamification-secrets](https://www.orizon.co/blog/duolingos-gamification-secrets)  
+   Link: <a href="https://www.orizon.co/blog/duolingos-gamification-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.orizon.co/blog/duolingos-gamification-secrets</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo&#x27;s Gamification Secrets: How Streaks &amp; XP Boost...19 Feb 2025 — In this article, we break down Duolingo&#x27;s most impactful UX stra...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students](https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students)  
+   Link: <a href="https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Compassion is Associated with Improved Well...8 Jul 2024 — Conclusions These results confirm that self-compassion may be prot...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/383867423_Self-compassion_and_mental_health_a_systematic_review_and_transactional_model_on_mechanisms_of_change](https://www.researchgate.net/publication/383867423_Self-compassion_and_mental_health_a_systematic_review_and_transactional_model_on_mechanisms_of_change)  
+   Link: <a href="https://www.researchgate.net/publication/383867423_Self-compassion_and_mental_health_a_systematic_review_and_transactional_model_on_mechanisms_of_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383867423_Self-compassion_and_mental_health_a_systematic_review_and_transactional_model_on_mechanisms_of_change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-compassion and mental health: a systematic review...12 Sept 2024 — There is strong evidence that self-compassion improves both face...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/habit](https://www.merriam-webster.com/dictionary/habit)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning6 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/science/comments/1i9xaah/myth_busted_healthy_habits_take_longer_than_21/](https://www.reddit.com/r/science/comments/1i9xaah/myth_busted_healthy_habits_take_longer_than_21/)  
+   Link: <a href="https://www.reddit.com/r/science/comments/1i9xaah/myth_busted_healthy_habits_take_longer_than_21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1i9xaah/myth_busted_healthy_habits_take_longer_than_21/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myth busted: Healthy habits take longer than 21 days to set inResearchers found that new habits can begin forming within about two months...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca](https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca)  
+   Link: <a href="https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks: The Gamification Feature Everyone Gets WrongDuolingo&#x27;s solution was the streak freeze: an item users can earn or purchase that p...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: theonlinegp.com  
-   Link: [https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick](https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick)  
+   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...12 Aug 2025 — Self-compassion research reveals that individuals who treat themselve...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: thelakestreatmentcenter.com  
-   Link: [https://www.thelakestreatmentcenter.com/bad-habits-in-recovery/](https://www.thelakestreatmentcenter.com/bad-habits-in-recovery/)  
+   Link: <a href="https://www.thelakestreatmentcenter.com/bad-habits-in-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.thelakestreatmentcenter.com/bad-habits-in-recovery/</a>  
 
 31. <a id="endnote-31"></a>
    Source: trophy.so  
-   Link: [https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them](https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them)  
+   Link: <a href="https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaks: How Sylvi Weaponized Duolingo&#x27;s...30 Jun 2025 — The research revealed that consecutive daily activity creates...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ann_p/when-life-resets-how-to-rebuild-habits-that-hold-you-steady-d979f23d38d7](https://medium.com/%40ann_p/when-life-resets-how-to-rebuild-habits-that-hold-you-steady-d979f23d38d7)  
+   Link: <a href="https://medium.com/%40ann_p/when-life-resets-how-to-rebuild-habits-that-hold-you-steady-d979f23d38d7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ann_p/when-life-resets-how-to-rebuild-habits-that-hold-you-steady-d979f23d38d7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Treat it as information about triggers, not moral failure. Practice self-compassion deliberately. Self...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: medium.com  
-   Link: [https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730](https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730)  
+   Link: <a href="https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks can drive engagement through loss aversion psychology. But when the streak resets to zero...Read more...</p></details>

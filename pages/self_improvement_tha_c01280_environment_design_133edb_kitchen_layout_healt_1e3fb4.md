@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_kitc
 
 ## Introduction
 
-Healthy eating often begins before a person consciously decides what to eat. The layout of a kitchen influences what gets noticed first, what is easiest to reach, and what feels convenient enough to repeat. In practice, this means that the position of foods, containers and snacks can shape daily eating patterns with far less effort than most people realise. Research on food environments consistently finds that visibility, proximity and ease of access influence consumption, while healthier home food environments are associated with better dietary quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCHome food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
+Healthy eating often begins before a person consciously decides what to eat. The layout of a kitchen influences what gets noticed first, what is easiest to reach, and what feels convenient enough to repeat. In practice, this means that the position of foods, containers and snacks can shape daily eating patterns with far less effort than most people realise. Research on food environments consistently finds that visibility, proximity and ease of access influence consumption, while healthier home food environments are associated with better dietary quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-dark.svg" | relative_url }}" alt="Kitchen Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ Within the broader idea of designing environments instead of relying on [willpow
 
 The key principle is simple: foods that are visible and convenient tend to be eaten more often, while foods that require extra effort tend to be chosen less frequently. Experimental research has shown that simply moving healthy foods closer increases consumption, and making certain foods more visible can increase intake as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</span></span></span>
 
-This does not mean every visible food becomes irresistible. Rather, kitchen layouts subtly guide attention. When a person walks into the kitchen, the first foods they encounter become candidates for consumption before deliberate decision-making fully engages. Over weeks and months, those small nudges accumulate into meaningful differences in eating habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCHome food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
+This does not mean every visible food becomes irresistible. Rather, kitchen layouts subtly guide attention. When a person walks into the kitchen, the first foods they encounter become candidates for consumption before deliberate decision-making fully engages. Over weeks and months, those small nudges accumulate into meaningful differences in eating habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
 A useful way to think about kitchen design is to ask three questions:
 
@@ -303,7 +303,7 @@ The healthiest kitchens tend to make the answers align with healthy intentions.
 
 ### What should be easiest to notice?
 
-Visibility is one of the strongest kitchen cues. Studies examining food environments have repeatedly found that the availability and visibility of foods influence eating behaviour. Homes with greater availability of fruits and vegetables tend to [support]({{ 'support/' | relative_url }}) healthier dietary patterns, while greater availability of sweets and highly processed snacks is associated with less healthy eating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Home food environment shapes adolescent dietary choices</span><span class="citation-popover-snippet">News-MedicalHome food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span> MDPI The practical implication is straightforward: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/21/9/1187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Fostering a...Read more...</span></span></span>
+Visibility is one of the strongest kitchen cues. Studies examining food environments have repeatedly found that the availability and visibility of foods influence eating behaviour. Homes with greater availability of fruits and vegetables tend to [support]({{ 'support/' | relative_url }}) healthier dietary patterns, while greater availability of sweets and highly processed snacks is associated with less healthy eating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Home food environment shapes adolescent dietary choices</span><span class="citation-popover-snippet">Home food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span> MDPI The practical implication is straightforward: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/21/9/1187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Fostering a...Read more...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -324,7 +324,7 @@ When healthy foods occupy prime visual territory, they become the default option
 
 The same principle works in reverse.
 
-Snack foods do not necessarily need to be banned, but moving them out of immediate sight changes the number of eating opportunities they create. Research on home food environments suggests that visible food availability is linked to dietary behaviour and weight-related outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2015/04/150428105631.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">ScienceDailyKeeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</span></span></span>
+Snack foods do not necessarily need to be banned, but moving them out of immediate sight changes the number of eating opportunities they create. Research on home food environments suggests that visible food availability is linked to dietary behaviour and weight-related outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2015/04/150428105631.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Keeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</span></span></span>
 
 Useful changes include:
 
@@ -360,7 +360,7 @@ For example:
 
 </div>
 
-When healthy options are already prepared, the distance between intention and action becomes much smaller. This aligns with broader behaviour-design evidence showing that reducing effort increases the likelihood of a behaviour occurring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCHome food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
+When healthy options are already prepared, the distance between intention and action becomes much smaller. This aligns with broader behaviour-design evidence showing that reducing effort increases the likelihood of a behaviour occurring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lPkkEnHx0I8" title="Simple routines for a healthful kitchen - habits that encourage healthy eating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lPkkEnHx0I8" target="_blank" rel="noopener noreferrer">Simple routines for a healthful kitchen - habits that encourage healthy eating</a></p><p class="youtube-embed-meta">Channel: Healthy Elizabeth &middot; Views: 25.0K &middot; Uploaded: January 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lPkkEnHx0I8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lPkkEnHx0I8">Open on YouTube</a></p></div></div></div>
@@ -829,39 +829,39 @@ In the context of self-improvement that works, that is the real advantage of kit
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCHome food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1660-4601/21/9/1187](https://www.mdpi.com/1660-4601/21/9/1187)  
+   Link: <a href="https://www.mdpi.com/1660-4601/21/9/1187" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/21/9/1187</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering a...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: news-medical.net  
    Title: Home food environment shapes adolescent dietary choices  
-   Link: [https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx](https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News-MedicalHome food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</p></details>
+   Link: <a href="https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</p></details>
    Published: December 19, 2024  
 
 4. <a id="endnote-4"></a>
    Source: sciencedaily.com  
-   Link: [https://www.sciencedaily.com/releases/2015/04/150428105631.htm](https://www.sciencedaily.com/releases/2015/04/150428105631.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDailyKeeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</p></details>
+   Link: <a href="https://www.sciencedaily.com/releases/2015/04/150428105631.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2015/04/150428105631.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2071-1050/16/15/6365](https://www.mdpi.com/2071-1050/16/15/6365)  
+   Link: <a href="https://www.mdpi.com/2071-1050/16/15/6365" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/16/15/6365</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designers&#x27; Needs in Leveraging the Evolving Role of...by R Chu · 2024 · Cited by 8 — A design brief was created to briefly describe the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0013916512442892](https://journals.sagepub.com/doi/10.1177/0013916512442892)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0013916512442892</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: chear.ucsd.edu  
-   Link: [https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success](https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success)  
+   Link: <a href="https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success" target="_blank" rel="noopener noreferrer nofollow">https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Healthy Eating ResearchThe Art of Organizing Your Home for Healthy Eating SuccessMarch 29, 2024 — 29 Mar 2024 — Prioritizing Visibility o...</p></details>
    Published: March 29, 2024  
 
@@ -869,52 +869,52 @@ In the context of self-improvement that works, that is the real advantage of kit
 
 8. <a id="endnote-8"></a>
    Source: healthline.com  
-   Link: [https://www.healthline.com/nutrition/best-meal-prep-containers](https://www.healthline.com/nutrition/best-meal-prep-containers)  
+   Link: <a href="https://www.healthline.com/nutrition/best-meal-prep-containers" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/nutrition/best-meal-prep-containers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Best Meal Prep ContainersMeal planning makes it easier to achieve your healthy eating goals. Our nutrition experts share their picks o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: kitchen-experts.co.uk  
-   Link: [https://kitchen-experts.co.uk/blog/kitchen-design-for-healthy-eating/](https://kitchen-experts.co.uk/blog/kitchen-design-for-healthy-eating/)  
+   Link: <a href="https://kitchen-experts.co.uk/blog/kitchen-design-for-healthy-eating/" target="_blank" rel="noopener noreferrer nofollow">https://kitchen-experts.co.uk/blog/kitchen-design-for-healthy-eating/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing a Kitchen for Healthy EatingDiscover how thoughtful kitchen design for healthy eating can inspire better habits &amp; make nutritio...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ker5wz0jmK0](https://www.youtube.com/watch?v=Ker5wz0jmK0)  
+   Link: <a href="https://www.youtube.com/watch?v=Ker5wz0jmK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ker5wz0jmK0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Your Kitchen Design Influences Your Eating HabitsIn this video, I explain how design psychology in interior design can transform your...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: danoneinstitute.org  
-   Link: [https://www.danoneinstitute.org/wp-content/uploads/2017/06/DII-Sympo-IUNS-Lytle-Home-environment.pdf](https://www.danoneinstitute.org/wp-content/uploads/2017/06/DII-Sympo-IUNS-Lytle-Home-environment.pdf)  
+   Link: <a href="https://www.danoneinstitute.org/wp-content/uploads/2017/06/DII-Sympo-IUNS-Lytle-Home-environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.danoneinstitute.org/wp-content/uploads/2017/06/DII-Sympo-IUNS-Lytle-Home-environment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Healthy home food environmentFamily and the home environment are especially important: • 65-72% of children&#x27;s daily calories are consumed...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sacbar.com  
-   Link: [https://sacbar.com/visible-food-obesity/](https://sacbar.com/visible-food-obesity/)  
+   Link: <a href="https://sacbar.com/visible-food-obesity/" target="_blank" rel="noopener noreferrer nofollow">https://sacbar.com/visible-food-obesity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Home Food Visibility and Weight: Simple Changes That WorkOhio State study shows visible food placement affects eating habits. Learn evide...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: exclusive.multibriefs.com  
-   Link: [https://exclusive.multibriefs.com/content/designing-kitchens-for-healthy-eating](https://exclusive.multibriefs.com/content/designing-kitchens-for-healthy-eating)  
+   Link: <a href="https://exclusive.multibriefs.com/content/designing-kitchens-for-healthy-eating" target="_blank" rel="noopener noreferrer nofollow">https://exclusive.multibriefs.com/content/designing-kitchens-for-healthy-eating</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>multibriefs.comMultiBrief: Designing kitchens for healthy eatingSetting a basket of fruit on a green surface will make the healthier choi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cubep.com  
-   Link: [https://www.cubep.com/round-food-containers-eco-friendly-kitchen](https://www.cubep.com/round-food-containers-eco-friendly-kitchen)  
+   Link: <a href="https://www.cubep.com/round-food-containers-eco-friendly-kitchen" target="_blank" rel="noopener noreferrer nofollow">https://www.cubep.com/round-food-containers-eco-friendly-kitchen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cy that makes them an ideal choice for eco-conscious kitchens.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
    Title: Kitchen Design Promotes Healthy Eating  
-   Link: [https://www.scribd.com/document/961359536/Kitchen-Design-Promotes-Healthy-Eating](https://www.scribd.com/document/961359536/Kitchen-Design-Promotes-Healthy-Eating)  
+   Link: <a href="https://www.scribd.com/document/961359536/Kitchen-Design-Promotes-Healthy-Eating" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/961359536/Kitchen-Design-Promotes-Healthy-Eating</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kitchen Design for Healthy Eating | PDF3 Dec 2025 — In a home kitchen setting, placing healthy items like fruits and pre-cut vegetables i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: travelingauthentic.com  
-   Link: [https://travelingauthentic.com/sites/detail/newest/?p=How-to-Design-Your-Kitchen-for-Healthier-Automatic-Decisions-eGuTNJD79LaHc](https://travelingauthentic.com/sites/detail/newest/?p=How-to-Design-Your-Kitchen-for-Healthier-Automatic-Decisions-eGuTNJD79LaHc)  
+   Link: <a href="https://travelingauthentic.com/sites/detail/newest/?p=How-to-Design-Your-Kitchen-for-Healthier-Automatic-Decisions-eGuTNJD79LaHc" target="_blank" rel="noopener noreferrer nofollow">https://travelingauthentic.com/sites/detail/newest/?p=How-to-Design-Your-Kitchen-for-Healthier-Automatic-Decisions-eGuTNJD79LaHc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Design Your Kitchen for Healthier Automatic DecisionsIncrease the visibility and convenience of foods you want to eat more of (e.g...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: health.yahoo.com  
    Title: best meal prep containers 205045857  
-   Link: [https://health.yahoo.com/wellness/nutrition/healthy-eating/article/best-meal-prep-containers-205045857.html](https://health.yahoo.com/wellness/nutrition/healthy-eating/article/best-meal-prep-containers-205045857.html)  
+   Link: <a href="https://health.yahoo.com/wellness/nutrition/healthy-eating/article/best-meal-prep-containers-205045857.html" target="_blank" rel="noopener noreferrer nofollow">https://health.yahoo.com/wellness/nutrition/healthy-eating/article/best-meal-prep-containers-205045857.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 best meal prep containers for healthy eating...6 Mar 2026 — I evaluated each one for durability, portability, leak resistance, ease o...</p></details>

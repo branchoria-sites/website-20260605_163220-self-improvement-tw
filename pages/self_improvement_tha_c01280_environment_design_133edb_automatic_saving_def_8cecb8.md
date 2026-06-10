@@ -278,7 +278,7 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_auto
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_automatic_saving_def_8cecb8-Illustration-1-dark.svg" | relative_url }}" alt="Money Defaults illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_automatic_saving_def_8cecb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_automatic_saving_def_8cecb8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is a classic example of [environment design]({{ 'environment/' | relative_url }}). Rather than asking people to win the same internal argument over and over again, automatic transfers move money before spending decisions occur. Research on defaults, automatic enrolment and [payroll savings]({{ 'payroll-saving/' | relative_url }}) consistently shows that people save more when saving happens automatically and requires action to stop rather than action to start. NBER <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIRetirement Benefits</span><span class="citation-popover-snippet">Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</span></span></span>
+This is a classic example of [environment]({{ 'environment/' | relative_url }}) design. Rather than asking people to win the same internal argument over and over again, automatic transfers move money before spending decisions occur. Research on defaults, automatic enrolment and [payroll savings]({{ 'payroll-saving/' | relative_url }}) consistently shows that people save more when saving happens automatically and requires action to stop rather than action to start. NBER <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIRetirement Benefits</span><span class="citation-popover-snippet">Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</span></span></span>
 
 ## How defaults remove repeated money decisions
 
@@ -288,18 +288,18 @@ Every discretionary saving decision creates an opportunity to delay, rationalise
 
 Automatic [defaults]({{ 'defaults/' | relative_url }}) remove those repeated choices. A transfer is scheduled in advance, often on the day income arrives. The saving occurs before the individual decides what to buy, reducing the need for ongoing self-control.
 
-Behavioural economists have documented the power of defaults in many settings, but retirement saving has provided some of the strongest evidence. Studies of automatic enrolment found that participation rates rose dramatically when workers were enrolled by default and had to opt out rather than opt in. In one influential example, participation increased from roughly 49% to 86% after automatic enrolment was introduced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 6 Retirement BenefitsHowever, the authors found that making automatic enrollment the default dramatically incr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-title">auto enrollment changes who passive saver</span><span class="citation-popover-snippet">CEPRAuto-enrollment changes who is a passive saverFeb 11, 2020 — A subsequent change of the default to auto-enrollment increases the part...</span></span></span>
+Behavioural economists have documented the power of defaults in many settings, but retirement saving has provided some of the strongest evidence. Studies of automatic enrolment found that participation rates rose dramatically when workers were enrolled by default and had to opt out rather than opt in. In one influential example, participation increased from roughly 49% to 86% after automatic enrolment was introduced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 6 Retirement BenefitsHowever, the authors found that making automatic enrollment the default dramatically incr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-title">auto enrollment changes who passive saver</span><span class="citation-popover-snippet">Auto-enrollment changes who is a passive saverFeb 11, 2020 — A subsequent change of the default to auto-enrollment increases the part...</span></span></span>
 
 The lesson extends beyond pensions. The broader finding is that people frequently accept default arrangements, especially when taking action requires effort or attention. Saving becomes easier when the system assumes saving will happen unless someone actively intervenes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">Under “standard enrollment,” employees are by default not enrolled and can choose to opt into the plan.Read more...</span></span></span>
 
-From an [environment]({{ 'environment/' | relative_url }})-design perspective, the important change is that the desired behaviour occurs before [motivation]({{ 'motivation/' | relative_url }}) has a chance to fluctuate.
+From an environment-design perspective, the important change is that the desired behaviour occurs before [motivation]({{ 'motivation/' | relative_url }}) has a chance to fluctuate.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hQGf4oNHDNo" title="[Review] Nudge (Richard H. Thaler) Summarized." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hQGf4oNHDNo" target="_blank" rel="noopener noreferrer">[Review] Nudge (Richard H. Thaler) Summarized.</a></p><p class="youtube-embed-meta">Channel: 9Natree &middot; Views: 1.3K &middot; Uploaded: January 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hQGf4oNHDNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hQGf4oNHDNo">Open on YouTube</a></p></div></div></div>
 
 ## Why convenience usually favours spending
 
-Money habits are especially sensitive to convenience because spending offers immediate rewards while saving delays gratification.
+Money habits are especially sensitive to convenience because spending offers [immediate rewards]({{ 'immediate-rewards/' | relative_url }}) while saving delays gratification.
 
 Behavioural research has repeatedly found that people place disproportionate weight on immediate outcomes relative to future ones. This tendency helps explain why many individuals sincerely intend to save more yet struggle to act consistently. Automatic systems work because they move the decision into the present and then execute it in the future without requiring further effort. UCLA Anderson School of Management <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</span></span></span>
 
@@ -318,9 +318,9 @@ One of the most effective implementations is the combination of automatic transf
 
 A transfer scheduled for payday captures money before it is mixed with everyday spending funds. Separate accounts create a mental and practical boundary that makes savings less likely to be spent impulsively.
 
-Payroll-deducted savings programmes apply this principle directly. Contributions are removed from pay before reaching a primary spending account, making saving the path of least resistance. Organisations promoting workplace financial wellbeing have highlighted payroll deduction as a particularly effective method because it reduces friction and helps people accumulate funds consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">MaPSPayroll-deducted saving schemesWorkplace savings deducted from payroll can help your employees save and build financial security for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Payroll savings schemesPayroll savings schemes aim to help people save by automatically diverting a proportion of their salary into a sav...</span></span></span>
+Payroll-deducted savings programmes apply this principle directly. Contributions are removed from pay before reaching a primary spending account, making saving the path of least resistance. Organisations promoting workplace financial wellbeing have highlighted payroll deduction as a particularly effective method because it reduces friction and helps people accumulate funds consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesWorkplace savings deducted from payroll can help your employees save and build financial security for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Payroll savings schemesPayroll savings schemes aim to help people save by automatically diverting a proportion of their salary into a sav...</span></span></span>
 
-Evidence from workplace and retirement savings programmes repeatedly shows that payroll deduction dramatically increases participation and accumulated balances compared with systems that require individuals to initiate transfers themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pew.org">[Pew Charitable Trusts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pew.org</span><span class="citation-popover-title">state automated savings programs</span><span class="citation-popover-snippet">Pew Charitable TrustsState Automated Savings ProgramsNov 1, 2022 — Research shows that workers are 15 times more likely to save for retir...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">NBERDEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1065 — As a result, automatic enrollment has a dramatic i...</span></span></span>
+Evidence from workplace and retirement savings programmes repeatedly shows that payroll deduction dramatically increases participation and accumulated balances compared with systems that require individuals to initiate transfers themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pew.org">[Pew Charitable Trusts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pew.org</span><span class="citation-popover-title">state automated savings programs</span><span class="citation-popover-snippet">Pew Charitable TrustsState Automated Savings ProgramsNov 1, 2022 — Research shows that workers are 15 times more likely to save for retir...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1065 — As a result, automatic enrollment has a dramatic i...</span></span></span>
 
 The practical pattern is straightforward:
 
@@ -356,7 +356,7 @@ This illustrates an important principle of environment design. The best default 
 
 Automatic saving is powerful, but it is not infallible.
 
-One risk is treating a default as automatically optimal. Research has shown that many people remain at default contribution rates even when higher rates might better serve their long-term goals. In some plans, participants continue using default settings simply because changing them requires attention and effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">nber w12009</span><span class="citation-popover-snippet">SSRNThe Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 970 — Under automatic enrollment, however...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/bah/summer06/effect-default-options-retirement-savings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">The authors look at the experience of one firm that switched from standard to automatic enrollment, where only workers...Read more...</span></span></span>
+One risk is treating a default as automatically optimal. Research has shown that many people remain at default contribution rates even when higher rates might better serve their long-term goals. In some plans, participants continue using default settings simply because changing them requires attention and effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">nber w12009</span><span class="citation-popover-snippet">The Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 970 — Under automatic enrollment, however...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/bah/summer06/effect-default-options-retirement-savings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">The authors look at the experience of one firm that switched from standard to automatic enrollment, where only workers...Read more...</span></span></span>
 
 There is also evidence that automatic enrolment can produce smaller long-term gains than headline participation figures suggest. Some workers leave jobs, withdraw funds early, opt out of contribution increases or offset additional saving through borrowing. These effects do not eliminate the benefits of automation, but they show why periodic review matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crr.bc.edu">[Center for Retirement Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crr.bc.edu</span><span class="citation-popover-title">savings boost from auto enrollment wanes over time</span><span class="citation-popover-snippet">Center for Retirement ResearchSavings Boost from Auto-Enrollment Wanes Over TimeOct 24, 2024 — The study, conducted by some of the pionee...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.uchicago.edu">[Becker Friedman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.uchicago.edu</span><span class="citation-popover-title">Becker Friedman Institute Smaller than We Thought?</span><span class="citation-popover-snippet">The Effect of Automatic Savings...by JJ Choi · 2024 · Cited by 23 — Across nine natural experiments, steady-state saving rates increase...</span></span></span>
 
@@ -812,138 +812,138 @@ When saving depends on a monthly act of resolve, every month becomes a fresh tes
 
 1. <a id="endnote-1"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w8651/w8651.pdf](https://www.nber.org/system/files/working_papers/w8651/w8651.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBERDEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1065 — As a result, automatic enrollment has a dramatic i...</p></details>
+   Link: <a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1065 — As a result, automatic enrollment has a dramatic i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIRetirement Benefits  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK593519/](https://www.ncbi.nlm.nih.gov/books/NBK593519/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK593519/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: papers.ssrn.com  
    Title: nber w12009  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243](https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNThe Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 970 — Under automatic enrollment, however...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 970 — Under automatic enrollment, however...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cepr.org  
    Title: auto enrollment changes who passive saver  
-   Link: [https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver](https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEPRAuto-enrollment changes who is a passive saverFeb 11, 2020 — A subsequent change of the default to auto-enrollment increases the part...</p></details>
+   Link: <a href="https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-enrollment changes who is a passive saverFeb 11, 2020 — A subsequent change of the default to auto-enrollment increases the part...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOptimal Defaults and Active Decisions  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Under “standard enrollment,” employees are by default not enrolled and can choose to opt into the plan.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: anderson.ucla.edu  
-   Link: [https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf](https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf)  
+   Link: <a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA Anderson School of ManagementUsing Behavioral Economics to Increase Employee Savingby RH Thaler · 2003 · Cited by 4362 — The program...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pew.org  
    Title: state automated savings programs  
-   Link: [https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs](https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs)  
+   Link: <a href="https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Charitable TrustsState Automated Savings ProgramsNov 1, 2022 — Research shows that workers are 15 times more likely to save for retir...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/rof/article/29/5/1587/8195745](https://academic.oup.com/rof/article/29/5/1587/8195745)  
+   Link: <a href="https://academic.oup.com/rof/article/29/5/1587/8195745" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/rof/article/29/5/1587/8195745</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicSave more tomorrow, today: experimental evidence on the...by CE Freeman · 2025 — The original analysis estimates participati...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: papers.ssrn.com  
    Title: nber W8651  
-   Link: [https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089](https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089)  
+   Link: <a href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. For example...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/bah/summer06/effect-default-options-retirement-savings](https://www.nber.org/bah/summer06/effect-default-options-retirement-savings)  
+   Link: <a href="https://www.nber.org/bah/summer06/effect-default-options-retirement-savings" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/bah/summer06/effect-default-options-retirement-savings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The authors look at the experience of one firm that switched from standard to automatic enrollment, where only workers...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w32581/revisions/w32581.rev0.pdf](https://www.nber.org/system/files/working_papers/w32581/revisions/w32581.rev0.pdf)  
+   Link: <a href="https://www.nber.org/system/files/working_papers/w32581/revisions/w32581.rev0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w32581/revisions/w32581.rev0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automating Short-Term Payroll SavingsIn the automatic enrollment arm, new members were by default enrolled to contribute £40 to the savin...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools](https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools)  
+   Link: <a href="https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencing Retirement Savings Decisions with Automatic...Oct 22, 2024 — Overall, this study suggested that 401(k) automatic enrollment...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867445](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867445)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867445" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867445</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Short-Term Payroll Savingsby S Holmes · 2024 · Cited by 3 — We evaluate two experiments in the UK at employers that enable workers to set...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: anderson.ucla.edu  
-   Link: [https://www.anderson.ucla.edu/faculty/shlomo.benartzi/savemore.htm](https://www.anderson.ucla.edu/faculty/shlomo.benartzi/savemore.htm)  
+   Link: <a href="https://www.anderson.ucla.edu/faculty/shlomo.benartzi/savemore.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/faculty/shlomo.benartzi/savemore.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>More Tomorrowby RH Thaler · Cited by 4416 — The essence of the plan is straightforward: people commit in advance to allocate a portion of...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/26874/chapter/10](https://www.nationalacademies.org/read/26874/chapter/10)  
+   Link: <a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 6 Retirement BenefitsHowever, the authors found that making automatic enrollment the default dramatically incr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: journals.uchicago.edu  
-   Link: [https://www.journals.uchicago.edu/doi/10.1086/380085](https://www.journals.uchicago.edu/doi/10.1086/380085)  
+   Link: <a href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/10.1086/380085</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: maps.org.uk  
-   Link: [https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes](https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MaPSPayroll-deducted saving schemesWorkplace savings deducted from payroll can help your employees save and build financial security for...</p></details>
+   Link: <a href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll-deducted saving schemesWorkplace savings deducted from payroll can help your employees save and build financial security for...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nestinsight.org.uk  
-   Link: [https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf](https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf)  
+   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll savings schemesPayroll savings schemes aim to help people save by automatically diverting a proportion of their salary into a sav...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: clear.dol.gov  
-   Link: [https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004](https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004)  
+   Link: <a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2004). Save More Tomorrow™: Using behavioral economics to increase employee saving. Journal of Political Economy, 112(S1), S164-S187...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: studeersnel.nl  
-   Link: [https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660](https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660)  
+   Link: <a href="https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660" target="_blank" rel="noopener noreferrer nofollow">https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuPaper 11: Week 7 - Save More Tomorrow: Behavioral...Even with this aggressive strategy of increasing saving rates, the SMarT plan...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: crr.bc.edu  
    Title: savings boost from auto enrollment wanes over time  
-   Link: [https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/](https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/)  
+   Link: <a href="https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/" target="_blank" rel="noopener noreferrer nofollow">https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Retirement ResearchSavings Boost from Auto-Enrollment Wanes Over TimeOct 24, 2024 — The study, conducted by some of the pionee...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bfi.uchicago.edu  
    Title: Becker Friedman Institute Smaller than We Thought?  
-   Link: [https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf](https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf)  
+   Link: <a href="https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Automatic Savings...by JJ Choi · 2024 · Cited by 23 — Across nine natural experiments, steady-state saving rates increase...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: crr.bc.edu  
    Title: how helpful is auto enrollment in 401k plans  
-   Link: [https://crr.bc.edu/how-helpful-is-auto-enrollment-in-401k-plans/](https://crr.bc.edu/how-helpful-is-auto-enrollment-in-401k-plans/)  
+   Link: <a href="https://crr.bc.edu/how-helpful-is-auto-enrollment-in-401k-plans/" target="_blank" rel="noopener noreferrer nofollow">https://crr.bc.edu/how-helpful-is-auto-enrollment-in-401k-plans/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Retirement ResearchHow Much Does 401(k) Auto-Enrollment Help Workers Save...Jan 9, 2025 — The positive effect of auto-enrollm...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nestinsight.org.uk  
    Title: millions are saving more for tomorrow  
-   Link: [https://www.nestinsight.org.uk/millions-are-saving-more-for-tomorrow/](https://www.nestinsight.org.uk/millions-are-saving-more-for-tomorrow/)  
+   Link: <a href="https://www.nestinsight.org.uk/millions-are-saving-more-for-tomorrow/" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/millions-are-saving-more-for-tomorrow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jun 2020 — Our latest research shines a light on auto enrolment&#x27;s smart design and provides strong evidence that even when a system do...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ifs.org.uk  
    Title: Automatic enrolment  
-   Link: [https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving](https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving)  
+   Link: <a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>too successful a nudge to boost...18 May 2020 — Automatic enrolment increased pension membership across all eligible employees from unde...</p></details>
    Published: May 2020  
 
@@ -951,50 +951,50 @@ When saving depends on a monthly act of resolve, every month becomes a fresh tes
 
 26. <a id="endnote-26"></a>
    Source: newamerica.org  
-   Link: [https://www.newamerica.org/insights/autosave-concept-paper/](https://www.newamerica.org/insights/autosave-concept-paper/)  
+   Link: <a href="https://www.newamerica.org/insights/autosave-concept-paper/" target="_blank" rel="noopener noreferrer nofollow">https://www.newamerica.org/insights/autosave-concept-paper/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoSave Concept PaperAutoSave is a unique saving plan that automatically diverts through payroll deduction a small amount of post-tax wa...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: troweprice.com  
-   Link: [https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/Auto-Enroll-2020-White-Paper.pdf](https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/Auto-Enroll-2020-White-Paper.pdf)  
+   Link: <a href="https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/Auto-Enroll-2020-White-Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/Auto-Enroll-2020-White-Paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-enrollment&#x27;s Long-term effect on Retirement SavingThe research also suggests that the employees who are auto-enrolled run the risk o...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: chicagobooth.edu  
-   Link: [https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis](https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis)  
+   Link: <a href="https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Economics and the Retirement Savings CrisisWe argue that the solution to the problem of saving too little is automatic escalat...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: chicagobooth.edu  
-   Link: [https://www.chicagobooth.edu/review/save-more-tomorrow](https://www.chicagobooth.edu/review/save-more-tomorrow)  
+   Link: <a href="https://www.chicagobooth.edu/review/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/save-more-tomorrow</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Booth School of BusinessSave More Tomorrow | Chicago Booth ReviewThe Save More Tomorrow plan allows employees to allocate a portion of th...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: professionalpensions.com  
-   Link: [https://www.professionalpensions.com/analysis/2472941/-save-tomorrow-programmes](https://www.professionalpensions.com/analysis/2472941/-save-tomorrow-programmes)  
+   Link: <a href="https://www.professionalpensions.com/analysis/2472941/-save-tomorrow-programmes" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalpensions.com/analysis/2472941/-save-tomorrow-programmes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Save More Tomorrow&#x27; programmes workJonathan Stapleton looks at how the concept of &#x27;Save More Tomorrow&#x27; can help firms increase emplo...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: povertyactionlab.org  
-   Link: [https://www.povertyactionlab.org/evaluation/impact-defaults-and-financial-incentives-savings-decisions-mobile-money-platform](https://www.povertyactionlab.org/evaluation/impact-defaults-and-financial-incentives-savings-decisions-mobile-money-platform)  
+   Link: <a href="https://www.povertyactionlab.org/evaluation/impact-defaults-and-financial-incentives-savings-decisions-mobile-money-platform" target="_blank" rel="noopener noreferrer nofollow">https://www.povertyactionlab.org/evaluation/impact-defaults-and-financial-incentives-savings-decisions-mobile-money-platform</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Defaults and Financial Incentives on Savings...Default assignments influence behavior: from organ donation to retirement s...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: revfin.org  
-   Link: [https://revfin.org/save-more-tomorrow-today-experimental-evidence-on-the-role-of-[precommitment](https://revfin.org/save-more-tomorrow-today-experimental-evidence-on-the-role-of-[precommitment)  
+   Link: <a href="https://revfin.org/save-more-tomorrow-today-experimental-evidence-on-the-role-of-[precommitment" target="_blank" rel="noopener noreferrer nofollow">https://revfin.org/save-more-tomorrow-today-experimental-evidence-on-the-role-of-[precommitment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of FinanceSave more tomorrow, today: experimental evidence on the...Our research contributes to the retirement savings literature...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: shlomobenartzi.com  
-   Link: [https://www.shlomobenartzi.com/save-more-tomorrow](https://www.shlomobenartzi.com/save-more-tomorrow)  
+   Link: <a href="https://www.shlomobenartzi.com/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.shlomobenartzi.com/save-more-tomorrow</a>  
 
 34. <a id="endnote-34"></a>
    Source: financialplanningassociation.org  
-   Link: [https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN](https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN)  
+   Link: <a href="https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN" target="_blank" rel="noopener noreferrer nofollow">https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of Behavioral Nudges: Using Choice...by SJ Eckert · 2024 · Cited by 2 — Setting up a separate savings account dedicated to...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: clear.dol.gov  
    Title: better or worse default effects and 401k savings behavior choi et al 2004  
-   Link: [https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004](https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004)  
+   Link: <a href="https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In addition, automatic enrollment led to a larger percentage of participants investing...Read more...</p></details>

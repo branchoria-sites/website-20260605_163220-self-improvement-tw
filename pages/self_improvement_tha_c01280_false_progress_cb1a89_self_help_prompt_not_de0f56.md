@@ -278,7 +278,7 @@ Self-help content is most useful when it acts as a prompt, not a product. A book
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_self_help_prompt_not_de0f56-Illustration-1-dark.svg" | relative_url }}" alt="Prompt Not Product illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_self_help_prompt_not_de0f56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_self_help_prompt_not_de0f56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because behaviour change research consistently finds that change is driven by practical mechanisms such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, prompts, self-monitoring, [feedback]({{ 'feedback/' | relative_url }}) and repeated practice. Information can support those mechanisms, but information alone is rarely the active ingredient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10337339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring the Use of the Behavior Change Technique</span><span class="citation-popover-snippet">PMCby M Silva · 2023 · Cited by 5 — The BCTTv1 taxonomy defines 93 distinct behavior change techniques (BCTs) categorized into 16 behavio...</span></span></span>
+This distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) research consistently finds that change is driven by practical mechanisms such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, prompts, self-monitoring, feedback and repeated practice. Information can support those mechanisms, but information alone is rarely the active ingredient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10337339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring the Use of the Behavior Change Technique</span><span class="citation-popover-snippet">by M Silva · 2023 · Cited by 5 — The BCTTv1 taxonomy defines 93 distinct behavior change techniques (BCTs) categorized into 16 behavio...</span></span></span>
 
 ## Did the Advice Change Your Next Action?
 
@@ -286,7 +286,7 @@ The easiest way to evaluate self-help content is not to ask whether it was inspi
 
 Many people finish a book feeling motivated, complete a course feeling informed, or leave a seminar feeling transformed. These experiences can be genuine. The problem is that motivation and understanding are not the same as behavioural change. The gap between knowing and doing is where [false progress]({{ 'false-progress/' | relative_url }}) often hides.
 
-Behavioural science increasingly treats interventions as collections of specific techniques rather than collections of ideas. Researchers have identified techniques such as prompts, self-monitoring, feedback, problem-solving, goal review and action planning as recurring components of successful interventions. The practical implication is simple: content matters most when it delivers one of these functions and connects it to real-world action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — Previous meta-analyses have consistently shown that interv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — In the health psychology literature...</span></span></span>
+Behavioural science increasingly treats interventions as collections of specific techniques rather than collections of ideas. Researchers have identified techniques such as prompts, self-monitoring, feedback, problem-solving, goal review and action planning as recurring components of successful interventions. The practical implication is simple: content matters most when it delivers one of these functions and connects it to real-world action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — Previous meta-analyses have consistently shown that interv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — In the health psychology literature...</span></span></span>
 
 A useful self-help chapter is therefore not one that gives ten new concepts. It is one that causes a reader to take a specific action at a specific time under specific conditions.
 
@@ -301,7 +301,7 @@ Consider two readers who finish the same book about exercise:
 
 Both gained knowledge. Only one changed behaviour.
 
-Research on habit formation suggests that lasting habits emerge when behaviours become linked to [stable cues]({{ 'stable-cues/' | relative_url }}) and repeated in consistent contexts. Repetition within a real environment matters more than repeated exposure to advice about the behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 876 — Psychological theory and evidence around...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCby Y Zhu · 2024 · Cited by 78 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+Research on habit formation suggests that lasting habits emerge when behaviours become linked to [stable cues]({{ 'stable-cues/' | relative_url }}) and repeated in consistent contexts. Repetition within a real environment matters more than repeated exposure to advice about the behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 876 — Psychological theory and evidence around...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 78 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 This explains why some people consume large amounts of self-help content without seeing corresponding results. The content increases awareness but never becomes attached to a cue, routine or practice opportunity. Knowledge accumulates while behaviour remains unchanged.
 
@@ -326,21 +326,26 @@ Instead of asking, "What did I learn?", ask:
 
 </div>
 
-This approach resembles implementation intentions, often described as "if-then" plans. Rather than relying on future motivation, the person decides in advance how to respond when a particular situation appears. Research has repeatedly linked such planning approaches to improved goal attainment and habit formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</span></span></span> University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.library.uu.nl">[DSpace For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.library.uu.nl</span><span class="citation-popover-snippet">DSpaceBreaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Results revealed that forming implementation...</span></span></span>
+This approach resembles implementation intentions, often described as "if-then" plans. Rather than relying on future motivation, the person decides in advance how to respond when a particular situation appears. Research has repeatedly linked such planning approaches to improved goal attainment and habit formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</span></span></span> University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.library.uu.nl">[DSpace For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.library.uu.nl</span><span class="citation-popover-snippet">Breaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Results revealed that forming implementation...</span></span></span>
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A productivity article becomes: "If it is 9:00 am, I will work on the report for fifteen minutes before opening email."
-* A book about fitness becomes: "After making [morning coffee]({{ 'coffee-cue/' | relative_url }}), I will do five minutes of stretching."
+* A book about fitness becomes: "After making morning coffee, I will do five minutes of stretching."
 * A lesson on better sleep becomes: "At 10:00 pm, I will place my phone in the kitchen and charge it there overnight."
+
+</div>
 
 The advice itself is not the intervention. The cue-behaviour link is.
 
-Studies of digital and health-related behaviour change interventions repeatedly find that techniques such as prompts, cues, self-monitoring and goal setting appear among the most commonly used and effective components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — By providing a variety of behavioral techniques such as...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</span></span></span>
+Studies of digital and health-related behaviour change interventions repeatedly find that techniques such as prompts, cues, self-monitoring and goal setting appear among the most commonly used and effective components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — By providing a variety of behavioral techniques such as...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_self_help_prompt_not_de0f56-Illustration-2-dark.svg" | relative_url }}" alt="Prompt Not Product illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_self_help_prompt_not_de0f56-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_self_help_prompt_not_de0f56-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Content Consumption Feels Like Progress
 
-Self-help content provides immediate rewards.
+Self-help content provides [immediate rewards]({{ 'immediate-rewards/' | relative_url }}).
 
 Reading creates a sense of movement. Watching a video reduces uncertainty. Completing a worksheet produces visible evidence of effort. These experiences are psychologically satisfying because they deliver benefits now, while real behavioural change often delivers benefits later.
 
@@ -367,7 +372,7 @@ Examples include:
 
 </div>
 
-Behaviour-change technologies face a similar problem. Researchers studying behaviour-change tools have noted that some systems become good at maintaining engagement with the intervention itself rather than with the underlying behaviour being targeted. In other words, people can become attached to the tool while the intended change remains weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDesigning for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+Behaviour-change technologies face a similar problem. Researchers studying behaviour-change tools have noted that some systems become good at maintaining engagement with the intervention itself rather than with the underlying behaviour being targeted. In other words, people can become attached to the tool while the intended change remains weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
 The same risk applies to self-help content. A person can become highly engaged with learning, reflection and planning while remaining largely unchanged in daily conduct.
 
@@ -835,136 +840,136 @@ Within self-improvement that works, content is best treated as a trigger. Its pu
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring the Use of the Behavior Change Technique  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10337339/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10337339/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M Silva · 2023 · Cited by 5 — The BCTTv1 taxonomy defines 93 distinct behavior change techniques (BCTs) categorized into 16 behavio...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10337339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10337339/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Silva · 2023 · Cited by 5 — The BCTTv1 taxonomy defines 93 distinct behavior change techniques (BCTs) categorized into 16 behavio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — Previous meta-analyses have consistently shown that interv...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — In the health psychology literature...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — In the health psychology literature...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 876 — Psychological theory and evidence around...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby Y Zhu · 2024 · Cited by 78 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 78 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — By providing a variety of behavioral techniques such as...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2402.00121](https://arxiv.org/abs/2402.00121)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDesigning for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</p></details>
    Published: January 31, 2024  
 
 10. <a id="endnote-10"></a>
    Source: self.software  
-   Link: [https://self.software/](https://self.software/)  
+   Link: <a href="https://self.software/" target="_blank" rel="noopener noreferrer nofollow">https://self.software/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF（セルフ）SELFアプリはロボットと会話するだけでなく、情報の提供や記録など生活をサポートする様々な機能があります。 情報提供は単なる情報の表示ではなく、AIがユーザーを理解...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cambridge.org  
    Title: Monitoring Interventions (Chapter 37)  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37](https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring involves a person, group, or organization taking stock of the...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dspace.library.uu.nl  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DSpaceBreaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Results revealed that forming implementation...</p></details>
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Results revealed that forming implementation...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sammatla.com  
    Title: Sam Matla The Learning Loop: Why Information-Seeking is  
-   Link: [https://sammatla.com/the-learning-loop/](https://sammatla.com/the-learning-loop/)  
+   Link: <a href="https://sammatla.com/the-learning-loop/" target="_blank" rel="noopener noreferrer nofollow">https://sammatla.com/the-learning-loop/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sam MatlaThe Learning Loop: Why Information-Seeking is...July 29, 2024 — Learning is not doing. In fact it&#x27;s often a form of procrastina...</p></details>
    Published: July 29, 2024  
 
 14. <a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362](https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 155 — Theory suggests that making...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translation of goal intentions into ac...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: lemon8-app.com  
-   Link: [https://www.lemon8-app.com/%40bellemgrubb/7267253431789044230?region=us](https://www.lemon8-app.com/%40bellemgrubb/7267253431789044230?region=us)  
+   Link: <a href="https://www.lemon8-app.com/%40bellemgrubb/7267253431789044230?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40bellemgrubb/7267253431789044230?region=us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Book Review: The Power of HabitIn &#x27;The Power of Habit&#x27;, Charles Duhigg explores the science behind why habits exist and how they can be c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: worklearning.com  
-   Link: [https://www.worklearning.com/category/books/books-on-self-improvement/](https://www.worklearning.com/category/books/books-on-self-improvement/)  
+   Link: <a href="https://www.worklearning.com/category/books/books-on-self-improvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.worklearning.com/category/books/books-on-self-improvement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Books on Self-Improvement ArchivesFor workplace learning professionals, Tiny Habits offers a practical framework for facilitating behavio...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: envisialearning.com  
-   Link: [https://www.envisialearning.com/system/resources/141/Turning_Intentions_into_Action_Nowack_and_Mashihi_2025.pdf?1770664581=](https://www.envisialearning.com/system/resources/141/Turning_Intentions_into_Action_Nowack_and_Mashihi_2025.pdf?1770664581=)  
+   Link: <a href="https://www.envisialearning.com/system/resources/141/Turning_Intentions_into_Action_Nowack_and_Mashihi_2025.pdf?1770664581=" target="_blank" rel="noopener noreferrer nofollow">https://www.envisialearning.com/system/resources/141/Turning_Intentions_into_Action_Nowack_and_Mashihi_2025.pdf?1770664581=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intention is a self-regulatory strategy using if-then-plans that can lead to goal attainment and habit formation (...Read...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sweetinstitute.com  
-   Link: [https://sweetinstitute.com/cognitive-behavioral-therapy-for-habit-formation-and-behavior-change-a-practical-model-for-sustainable-self-directed-growth/](https://sweetinstitute.com/cognitive-behavioral-therapy-for-habit-formation-and-behavior-change-a-practical-model-for-sustainable-self-directed-growth/)  
+   Link: <a href="https://sweetinstitute.com/cognitive-behavioral-therapy-for-habit-formation-and-behavior-change-a-practical-model-for-sustainable-self-directed-growth/" target="_blank" rel="noopener noreferrer nofollow">https://sweetinstitute.com/cognitive-behavioral-therapy-for-habit-formation-and-behavior-change-a-practical-model-for-sustainable-self-directed-growth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Behavioral Therapy for Habit Formation and...20 Aug 2025 — This article presents a practical, stepwise CBT model to [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) ha...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/behavior](https://www.merriam-webster.com/dictionary/behavior)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavior</a>  
 
 21. <a id="endnote-21"></a>
    Source: effectiveselfhelp.org  
-   Link: [https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/](https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/)  
+   Link: <a href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow">https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/</a>  
 
 22. <a id="endnote-22"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/](https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/)  
+   Link: <a href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring of behavior by others without feedback · 11. Feedback on behavior · 12. Self-monitoring of behavior · 13. Self-monitoring of o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: deconstructingstigma.org  
    Title: Learn what's really behind it and how to break the cycle for good  
-   Link: [https://deconstructingstigma.org/guides/procrastination](https://deconstructingstigma.org/guides/procrastination)  
+   Link: <a href="https://deconstructingstigma.org/guides/procrastination" target="_blank" rel="noopener noreferrer nofollow">https://deconstructingstigma.org/guides/procrastination</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Putting It Off: A Guide to Understanding Procrastination13 Jul 2025 — Procrastination isn&#x27;t laziness—it&#x27;s often stress, fear, or per...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: online.nursing.georgetown.edu  
    Title: how to stop procrastinating there is a science to it  
-   Link: [https://online.nursing.georgetown.edu/blog/how-to-stop-procrastinating-there-is-a-science-to-it/](https://online.nursing.georgetown.edu/blog/how-to-stop-procrastinating-there-is-a-science-to-it/)  
+   Link: <a href="https://online.nursing.georgetown.edu/blog/how-to-stop-procrastinating-there-is-a-science-to-it/" target="_blank" rel="noopener noreferrer nofollow">https://online.nursing.georgetown.edu/blog/how-to-stop-procrastinating-there-is-a-science-to-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Stop Procrastinating: There Is a Science to It2 Nov 2021 — Learn the psychological science behind why we delay tasks and discover acti...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: openresearch.surrey.ac.uk  
    Title: surrey.ac.uk Habit Formation and Behavior Change  
-   Link: [https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346](https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346)  
+   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 415 — Research around the application of habit formatio...</p></details>

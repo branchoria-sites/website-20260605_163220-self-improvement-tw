@@ -310,7 +310,7 @@ There is substantial research showing that evening light exposure can affect cir
 
 This distinction strengthens the case for physical distance.
 
-If the problem were only light, a filter or night mode might solve most of it. But if the problem includes anticipation, notifications, social interaction, unfinished stories and endless content, then keeping the phone beside the pillow preserves the very triggers that delay sleep. Studies examining restrictions on in-bed smartphone use have found improvements in sleep quality that appear to be linked partly to reductions in pre-sleep cognitive arousal—the racing, engaged mental state that keeps people awake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCan restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</span></span></span>
+If the problem were only light, a filter or night mode might solve most of it. But if the problem includes anticipation, notifications, social interaction, unfinished stories and endless content, then keeping the phone beside the pillow preserves the very triggers that delay sleep. Studies examining restrictions on in-bed smartphone use have found improvements in sleep quality that appear to be linked partly to reductions in pre-sleep cognitive arousal—the racing, engaged mental state that keeps people awake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</span></span></span>
 
 In other words, the phone does not merely emit light. It emits possibilities.
 
@@ -471,7 +471,7 @@ For people trying to sleep before the next episode starts, that distinction matt
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -480,62 +480,94 @@ For people trying to sleep before the next episode starts, that distinction matt
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pockets Bedside Caddy Felt Bed Storage Organizer Hanging Bag Table Holder Pouch"><img src="{{ '/assets/images/marketplace-covers/a21c0ec949b9ec4d439d.jpg' | relative_url }}" alt="Listing image for Pockets Bedside Caddy Felt Bed Storage Organizer Hanging Bag Table Holder Pouch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK"><img src="https://i.ebayimg.com/images/g/NkcAAeSw~mxpN7sA/s-l225.jpg" alt="Listing image for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pockets Bedside Caddy Felt Bed Storage Organizer Hanging Bag Table Holder Pouch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search <span data-ebay-domain-label>eBay.com</span>: bedside organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 Pack Bedside Caddy Storage Organizer Sofa Desk 6 Pockets Phone Remote Control"><img src="{{ '/assets/images/marketplace-covers/eeadd2f0413075d7e4fc.jpg' | relative_url }}" alt="Listing image for 2 Pack Bedside Caddy Storage Organizer Sofa Desk 6 Pockets Phone Remote Control" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds"><img src="https://i.ebayimg.com/images/g/SoIAAeSwCVhooiQ8/s-l225.jpg" alt="Listing image for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2 Pack Bedside Caddy Storage Organizer Sofa Desk 6 Pockets Phone Remote Control</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search <span data-ebay-domain-label>eBay.com</span>: bedside organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Cable Bag Organizer Charger Storage Electronics USB Case Cord Accessories"><img src="{{ '/assets/images/marketplace-covers/d014fb581333bf6998c2.jpg' | relative_url }}" alt="Listing image for Travel Cable Bag Organizer Charger Storage Electronics USB Case Cord Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable Sleep Sound Machine - White Noise Machine for Office Privacy and Noise"><img src="https://i.ebayimg.com/images/g/pMcAAeSwtGBpMEXJ/s-l225.jpg" alt="Listing image for Portable Sleep Sound Machine - White Noise Machine for Office Privacy and Noise" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Travel Cable Bag Organizer Charger Storage Electronics USB Case Cord Accessories</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Portable Sleep Sound Machine - White Noise Machine for Office Privacy and Noise</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search <span data-ebay-domain-label>eBay.com</span>: bedside organizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lectrofan White Noise Machine Fan Sound Generator"><img src="https://i.ebayimg.com/images/g/gEcAAeSwAx5qIYfb/s-l225.jpg" alt="Listing image for Lectrofan White Noise Machine Fan Sound Generator" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Lectrofan White Noise Machine Fan Sound Generator</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distance-why-your-phone-should-sleep-elsewhere-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -611,17 +643,31 @@ For people trying to sleep before the next episode starts, that distinction matt
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -634,42 +680,73 @@ For people trying to sleep before the next episode starts, that distinction matt
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -684,160 +761,164 @@ For people trying to sleep before the next episode starts, that distinction matt
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204](https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCan restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022395616307786](https://www.sciencedirect.com/science/article/abs/pii/S0022395616307786)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022395616307786" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022395616307786</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of smartphone use with and without blue light at...by JY Heo · 2017 · Cited by 279 — Use of blue light LED smartphones at night...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352721823000347](https://www.sciencedirect.com/science/article/pii/S2352721823000347)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352721823000347" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352721823000347</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bedtime screen use behaviors and sleep outcomesby JM Nagata · 2023 · Cited by 77 — Overall, 16% of adolescents had at least some trouble...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: time.com  
    Title: doom scroll phone night melatonin  
-   Link: [https://time.com/7335087/doom-scroll-phone-night-melatonin/](https://time.com/7335087/doom-scroll-phone-night-melatonin/)  
+   Link: <a href="https://time.com/7335087/doom-scroll-phone-night-melatonin/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7335087/doom-scroll-phone-night-melatonin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Your Phone at Night May Not Be as Bad as You Think20 Nov 2025 — A new study from Canada finds that blue light before bed might not...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 65 — This large study streng...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thensf.org  
-   Link: [https://www.thensf.org/screen-use-disrupts-precious-sleep-time/](https://www.thensf.org/screen-use-disrupts-precious-sleep-time/)  
+   Link: <a href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/screen-use-disrupts-precious-sleep-time/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Sleep FoundationScreen Use Disrupts Precious Sleep Time13 Mar 2022 — Yes, you probably need your phone in the bedroom, but not i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/sleep-habits](https://www.sleepfoundation.org/sleep-habits)  
+   Link: <a href="https://www.sleepfoundation.org/sleep-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-habits</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationHealthy Sleep Habits: The Ultimate Sleep Improvement PlanWhat you can do: Try not to keep your phone or alarm clock right...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9424753/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9424753/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MI Silvani · 2022 · Cited by 241 — The general consensus was that f blue light from electronic media negatively affects sleep quali...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9424753/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9424753/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MI Silvani · 2022 · Cited by 241 — The general consensus was that f blue light from electronic media negatively affects sleep quali...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: chronobiologyinmedicine.org  
-   Link: [https://www.chronobiologyinmedicine.org/journal/view.php?number=167&viewtype=pubreader](https://www.chronobiologyinmedicine.org/journal/view.php?number=167&viewtype=pubreader)  
+   Link: <a href="https://www.chronobiologyinmedicine.org/journal/view.php?number=167&amp;viewtype=pubreader" target="_blank" rel="noopener noreferrer nofollow">https://www.chronobiologyinmedicine.org/journal/view.php?number=167&amp;viewtype=pubreader</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impacts of Blue Light Exposure From Electronic Devices...A variety of scientific studies have shown that blue light exposure, especially...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian Is it true that  
-   Link: [https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping](https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the blue light from night-time scrolling can stop you sleeping?Research indicates that while blue light from smartphones can disrupt our...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sleepfoundation.org  
    Title: technology in the bedroom  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom](https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Looking at your phone or tablet can create light exposure and trigger your mind to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sleepfoundation.org  
    Title: how electronics affect sleep  
-   Link: [https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep](https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep)  
+   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 10, 2025 — In fact, we recommend removing all of your electronic devices from your bedroom – and encourage your kids to do the same...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sleepfoundation.org  
-   Link: [https://www.sleepfoundation.org/bedroom-environment/blue-light](https://www.sleepfoundation.org/bedroom-environment/blue-light)  
+   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Light: What It Is and How It Affects Sleep11 July 2025 — Make it a routine: Set an alarm that reminds you to turn off electronics tw...</p></details>
    Published: July 2025  
 
 15. <a id="endnote-15"></a>
    Source: sleepfoundation.org  
    Title: sleep and social media  
-   Link: [https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media](https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media)  
+   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep &amp; Social Media: Staying Connected Can Keep You Up10 Jul 2025 — Excessive use of social media close to bedtime can reduce sleep qual...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sleepfoundation.org  
    Title: best alarm clocks  
-   Link: [https://www.sleepfoundation.org/best-alarm-clocks](https://www.sleepfoundation.org/best-alarm-clocks)  
+   Link: <a href="https://www.sleepfoundation.org/best-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/best-alarm-clocks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of 2026 – Options for Heavy Sleepers3 days ago — Many experts believe it is best to keep devices like smartphones away from the sleep spa...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: sleephealthfoundation.org.au  
-   Link: [https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep](https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep)  
+   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepTechnology use in the evenings may delay bedtime and interfere with sleep. Using a bright screen for 1.5 hours or mor...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/blue-light-smartphone-screen-sleep](https://www.wired.com/story/blue-light-smartphone-screen-sleep)  
+   Link: <a href="https://www.wired.com/story/blue-light-smartphone-screen-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/blue-light-smartphone-screen-sleep</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, recent evidence suggests the impact of blue light on sleep may be overstated. Studies indicate the amount of blue light emitted...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: healthyacadia.org  
    Title: better sleep better health why phones dont belong in kids bedrooms  
-   Link: [https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms](https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms)  
+   Link: <a href="https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms" target="_blank" rel="noopener noreferrer nofollow">https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Better Sleep, Better Health: Why Phones Don&#x27;t Belong in...Dec 1, 2025 — A small change like keeping phones and screens out of the bedroo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: clinicbarcelona.org  
    Title: insomnia and screens why blue light might not be the only culprit  
-   Link: [https://www.clinicbarcelona.org/en/news/insomnia-and-screens-why-blue-light-might-not-be-the-only-culprit](https://www.clinicbarcelona.org/en/news/insomnia-and-screens-why-blue-light-might-not-be-the-only-culprit)  
+   Link: <a href="https://www.clinicbarcelona.org/en/news/insomnia-and-screens-why-blue-light-might-not-be-the-only-culprit" target="_blank" rel="noopener noreferrer nofollow">https://www.clinicbarcelona.org/en/news/insomnia-and-screens-why-blue-light-might-not-be-the-only-culprit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insomnia and screens: more than just blue light—causes...26 Sept 2025 — A recent study has found that looking at screens before bedtime...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: wral.com  
    Title: what s one small thing to help your sleep a real alarm clock  
-   Link: [https://www.wral.com/story/what-s-one-small-thing-to-help-your-sleep-a-real-alarm-clock/21828129/](https://www.wral.com/story/what-s-one-small-thing-to-help-your-sleep-a-real-alarm-clock/21828129/)  
+   Link: <a href="https://www.wral.com/story/what-s-one-small-thing-to-help-your-sleep-a-real-alarm-clock/21828129/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/what-s-one-small-thing-to-help-your-sleep-a-real-alarm-clock/21828129/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why your phone doesn&#x27;t make for the best alarm clockJan 26, 2025 — Switching out your phone for a dedicated alarm clock might help you sl...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
    Title: Do blue light filter applications improve sleep outcomes?  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/15368378.2024.2327432](https://www.tandfonline.com/doi/abs/10.1080/15368378.2024.2327432)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/15368378.2024.2327432" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/15368378.2024.2327432</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>M Rabiei · 2024 · Cited by 16 — Our findings matched what other studies have found before, that using blue light filters on smart...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/everydayhealth/posts/is-your-phone-your-constant-companion-all-the-way-through-bedtime-it-might-be-me/1030239438965752/](https://www.facebook.com/everydayhealth/posts/is-your-phone-your-constant-companion-all-the-way-through-bedtime-it-might-be-me/1030239438965752/)  
+   Link: <a href="https://www.facebook.com/everydayhealth/posts/is-your-phone-your-constant-companion-all-the-way-through-bedtime-it-might-be-me/1030239438965752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/everydayhealth/posts/is-your-phone-your-constant-companion-all-the-way-through-bedtime-it-might-be-me/1030239438965752/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ces, like your cellphone, at least 30 minutes before bedtime.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: intermountainhealthcare.org  
    Title: why it is time to ditch the phone before bed  
-   Link: [https://intermountainhealthcare.org/blogs/article/why-it-is-time-to-ditch-the-phone-before-bed](https://intermountainhealthcare.org/blogs/article/why-it-is-time-to-ditch-the-phone-before-bed)  
+   Link: <a href="https://intermountainhealthcare.org/blogs/article/why-it-is-time-to-ditch-the-phone-before-bed" target="_blank" rel="noopener noreferrer nofollow">https://intermountainhealthcare.org/blogs/article/why-it-is-time-to-ditch-the-phone-before-bed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why It&#x27;s Time to Ditch the Phone Before Bed27 Sept 2019 — The National Sleep Foundation recommends that you should stop using electronic...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/digitalminimalism/comments/1fxbg3e/did_you_sleep_better_after_removing_phone_from/](https://www.reddit.com/r/digitalminimalism/comments/1fxbg3e/did_you_sleep_better_after_removing_phone_from/)  
+   Link: <a href="https://www.reddit.com/r/digitalminimalism/comments/1fxbg3e/did_you_sleep_better_after_removing_phone_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalminimalism/comments/1fxbg3e/did_you_sleep_better_after_removing_phone_from/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>not scrolling or even reading on it right before sleep. I&#x27;ve always...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: health.clevelandclinic.org  
-   Link: [https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit](https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit)  
+   Link: <a href="https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.org3 Reasons to Ditch Your Phone Before Bed20 May 2022 — Generally, however, tucking your devices away for the night an h...</p></details>
    Published: May 2022  

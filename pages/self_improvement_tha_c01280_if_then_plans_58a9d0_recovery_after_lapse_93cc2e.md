@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_recovery_
 
 ## Introduction
 
-A recovery plan answers a question that many self-improvement systems neglect: what happens after a slip? Missing a workout, breaking a spending rule, overeating at a party, or losing an evening to distraction does not automatically destroy progress. The greater danger is often the reaction to the lapse rather than the lapse itself. Research on relapse prevention has long shown that people frequently turn a small setback into a larger one when they interpret it as proof of failure rather than as a temporary deviation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRelapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">PMCby ME Larimer · 1999 · Cited by 1168 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span>
+A recovery plan answers a question that many self-improvement systems neglect: what happens after a slip? Missing a workout, breaking a spending rule, overeating at a party, or losing an evening to distraction does not automatically destroy progress. The greater danger is often the reaction to the lapse rather than the lapse itself. Research on relapse prevention has long shown that people frequently turn a small setback into a larger one when they interpret it as proof of failure rather than as a temporary deviation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRelapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1168 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_recovery_after_lapse_93cc2e-Illustration-1-dark.svg" | relative_url }}" alt="Recovery illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_recovery_after_lapse_93cc2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_recovery_after_lapse_93cc2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,11 +282,11 @@ Within an if-then planning approach, recovery plans treat the lapse itself as a 
 
 ## Why Lapses Easily Turn Into Abandonment
 
-The idea that one mistake ruins everything appears in many forms of behaviour change. In addiction research, it is known as the [abstinence violation]({{ 'guilt-spiral/' | relative_url }}) effect: after a lapse, people may experience guilt, shame, self-blame, and a sense that control has been lost. Those reactions can make further lapses more likely. The original relapse-prevention literature distinguished between a lapse and a full relapse precisely because the two are not the same event. What happens immediately afterwards matters. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOordJvXAIxGgxz4xlk5T5tC5YgCjhRyN2rJcJ5WNFSKl0wN35pTb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guilford.com">[Guilford Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guilford.com</span><span class="citation-popover-snippet">Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</span></span></span>
+The idea that one mistake ruins everything appears in many forms of [behaviour change]({{ 'behaviour-change/' | relative_url }}). In addiction research, it is known as the abstinence violation effect: after a lapse, people may experience guilt, shame, self-blame, and a sense that control has been lost. Those reactions can make further lapses more likely. The original relapse-prevention literature distinguished between a lapse and a full relapse precisely because the two are not the same event. What happens immediately afterwards matters. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOordJvXAIxGgxz4xlk5T5tC5YgCjhRyN2rJcJ5WNFSKl0wN35pTb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guilford.com">[Guilford Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guilford.com</span><span class="citation-popover-snippet">Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</span></span></span>
 
-Although the concept emerged in addiction treatment, the underlying mechanism appears in ordinary self-improvement efforts as well. Someone misses one training session and concludes they are “back to being inactive”. Someone exceeds a calorie target at lunch and decides the entire day is ruined. Someone skips a planned study block and abandons the week's schedule. The initial mistake is often smaller than the story attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">ScienceDirectAbstinence Violation - an overviewThe abstinence violation effect can be defined as a tendency to continue to engage in a pr...</span></span></span>
+Although the concept emerged in addiction treatment, the underlying mechanism appears in ordinary self-improvement efforts as well. Someone misses one training session and concludes they are “back to being inactive”. Someone exceeds a calorie target at lunch and decides the entire day is ruined. Someone skips a planned study block and abandons the week's schedule. The initial mistake is often smaller than the story attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewThe abstinence violation effect can be defined as a tendency to continue to engage in a pr...</span></span></span>
 
-Recent research on exercise behaviour has highlighted the role of all-or-nothing thinking in disrupting consistency. People who view plans in rigid terms can interpret a disruption as evidence that the plan has failed, making it harder to resume normal behaviour after an interruption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12831378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe secret life of all-or-nothing thinking with exercise</span><span class="citation-popover-snippet">PMCby ML Segar · 2025 · Cited by 2 — Exercise-related all-or-nothing thinking seemed to exist among individuals who have tried but failed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/398875558_The_secret_life_of_all-or-nothing_thinking_with_exercise_new_insights_into_an_overlooked_barrier" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) The secret life of all-or-nothing thinking with exercise29 Mar 2026 — The purpose of this study was to investigate all-or-nothing t...</span></span></span>
+Recent research on exercise behaviour has highlighted the role of all-or-nothing thinking in disrupting consistency. People who view plans in rigid terms can interpret a disruption as evidence that the plan has failed, making it harder to resume normal behaviour after an interruption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12831378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe secret life of all-or-nothing thinking with exercise</span><span class="citation-popover-snippet">by ML Segar · 2025 · Cited by 2 — Exercise-related all-or-nothing thinking seemed to exist among individuals who have tried but failed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/398875558_The_secret_life_of_all-or-nothing_thinking_with_exercise_new_insights_into_an_overlooked_barrier" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) The secret life of all-or-nothing thinking with exercise29 Mar 2026 — The purpose of this study was to investigate all-or-nothing t...</span></span></span>
 
 The practical lesson is that recovery plans are not mainly about [motivation]({{ 'motivation/' | relative_url }}). They are about interrupting the interpretation process that turns “I missed once” into “I have failed completely”.
 
@@ -342,7 +342,7 @@ A person tries to “make up” for a lapse through punishment or excessive effo
 
 **The [identity]({{ 'identity/' | relative_url }}) trap.**
 
-The lapse is treated as evidence about character: “I am lazy”, “I lack discipline”, “I always quit”. Research on relapse processes suggests that attributing setbacks to stable personal defects can make continued failure more likely than viewing them as temporary and specific events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">ScienceDirectAbstinence Violation - an overviewThe abstinence violation effect can be defined as a tendency to continue to engage in a pr...</span></span></span>
+The lapse is treated as evidence about character: “I am lazy”, “I lack discipline”, “I always quit”. Research on relapse processes suggests that attributing setbacks to stable personal defects can make continued failure more likely than viewing them as temporary and specific events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewThe abstinence violation effect can be defined as a tendency to continue to engage in a pr...</span></span></span>
 
 **The [streak trap]({{ 'streak-trap/' | relative_url }}).**
 
@@ -379,22 +379,22 @@ Notice that these plans do not require analysis, self-criticism, or negotiation.
 This reflects a broader finding from implementation-intention research: planning is most effective when it creates a direct link between a recognisable situation and a chosen response. ResearchGate <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zew.de/fileadmin/FTP/veranstaltungen/NCS_Konferenz/paper/Gollwitzer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zew.de">[2zew.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zew.de</span><span class="citation-popover-title">Effective Self-Regulation of Goal Striving Peter M</span><span class="citation-popover-snippet">Gollwitzerby PM Gollwitzer · Cited by 14 — The mental links created by implementation intentions facilitate goal attainment on the basis...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CrEhGIBCAPU" title="How to Turn Setbacks into Success | Amy Shoenthal | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CrEhGIBCAPU" target="_blank" rel="noopener noreferrer">How to Turn Setbacks into Success | Amy Shoenthal | TED</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 79.4K &middot; Uploaded: January 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CrEhGIBCAPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CrEhGIBCAPU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vmR03B4cnYI" title="How to Restart a Habit After Missing Days (So You Don’t Quit)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vmR03B4cnYI" target="_blank" rel="noopener noreferrer">How to Restart a Habit After Missing Days (So You Don’t Quit)</a></p><p class="youtube-embed-meta">Channel: UnshakableMe &middot; Views: 387 &middot; Uploaded: January 2026 &middot; Length: 4 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vmR03B4cnYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vmR03B4cnYI">Open on YouTube</a></p></div></div></div>
 
 ## The Goal Is Not Perfection but Rapid Recovery
 
 People often imagine that successful self-improvement comes from avoiding mistakes. In practice, long-term success frequently depends on something less dramatic: shortening the time between a lapse and a restart.
 
-The distinction between a lapse and a collapse is central to relapse-prevention theory. A lapse is a momentary deviation. A spiral occurs when that deviation is interpreted as proof that the goal is lost. Recovery plans exist to break that chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRelapse prevention</span><span class="citation-popover-snippet">prevention - PMC - NIHby J Menon · 2018 · Cited by 152 — Relapse prevention (RP) is a strategy for reducing the likelihood and severity o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRelapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">PMCby ME Larimer · 1999 · Cited by 1168 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span>
+The distinction between a lapse and a collapse is central to relapse-prevention theory. A lapse is a momentary deviation. A spiral occurs when that deviation is interpreted as proof that the goal is lost. Recovery plans exist to break that chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRelapse prevention</span><span class="citation-popover-snippet">prevention - PMC - NIHby J Menon · 2018 · Cited by 152 — Relapse prevention (RP) is a strategy for reducing the likelihood and severity o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRelapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1168 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span>
 
 An effective recovery if-then plan therefore sounds surprisingly simple:
 
 *If I slip, then I restart at the very next cue.*
 
-That rule does not eliminate mistakes. It prevents mistakes from becoming identities, and interruptions from becoming abandonments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12831378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe secret life of all-or-nothing thinking with exercise</span><span class="citation-popover-snippet">PMCby ML Segar · 2025 · Cited by 2 — Exercise-related all-or-nothing thinking seemed to exist among individuals who have tried but failed...</span></span></span>
+That rule does not eliminate mistakes. It prevents mistakes from becoming identities, and interruptions from becoming abandonments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12831378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe secret life of all-or-nothing thinking with exercise</span><span class="citation-popover-snippet">by ML Segar · 2025 · Cited by 2 — Exercise-related all-or-nothing thinking seemed to exist among individuals who have tried but failed...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vmR03B4cnYI" title="How to Restart a Habit After Missing Days (So You Don’t Quit)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vmR03B4cnYI" target="_blank" rel="noopener noreferrer">How to Restart a Habit After Missing Days (So You Don’t Quit)</a></p><p class="youtube-embed-meta">Channel: UnshakableMe &middot; Views: 387 &middot; Uploaded: January 2026 &middot; Length: 4 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vmR03B4cnYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vmR03B4cnYI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cHJccsve6kw" title="How to BOUNCE back after a setback" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cHJccsve6kw" target="_blank" rel="noopener noreferrer">How to BOUNCE back after a setback</a></p><p class="youtube-embed-meta">Channel: Exclusively Cindy &middot; Views: 47 &middot; Uploaded: January 2025 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cHJccsve6kw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cHJccsve6kw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -819,167 +819,167 @@ That rule does not eliminate mistakes. It prevents mistakes from becoming identi
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRelapse Prevention: An Overview of Marlatt's Cognitive  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby ME Larimer · 1999 · Cited by 1168 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by ME Larimer · 1999 · Cited by 1168 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 133 — The idea is that intention realization can be promoted by forming if-then plans...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: guilford.com  
-   Link: [https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOordJvXAIxGgxz4xlk5T5tC5YgCjhRyN2rJcJ5WNFSKl0wN35pTb](https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOordJvXAIxGgxz4xlk5T5tC5YgCjhRyN2rJcJ5WNFSKl0wN35pTb)  
+   Link: <a href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOordJvXAIxGgxz4xlk5T5tC5YgCjhRyN2rJcJ5WNFSKl0wN35pTb" target="_blank" rel="noopener noreferrer nofollow">https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOordJvXAIxGgxz4xlk5T5tC5YgCjhRyN2rJcJ5WNFSKl0wN35pTb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Abstinence Violation  
-   Link: [https://www.sciencedirect.com/topics/psychology/abstinence-violation](https://www.sciencedirect.com/topics/psychology/abstinence-violation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAbstinence Violation - an overviewThe abstinence violation effect can be defined as a tendency to continue to engage in a pr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/abstinence-violation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation - an overviewThe abstinence violation effect can be defined as a tendency to continue to engage in a pr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe secret life of all-or-nothing thinking with exercise  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12831378/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12831378/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby ML Segar · 2025 · Cited by 2 — Exercise-related all-or-nothing thinking seemed to exist among individuals who have tried but failed...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12831378/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12831378/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by ML Segar · 2025 · Cited by 2 — Exercise-related all-or-nothing thinking seemed to exist among individuals who have tried but failed...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398875558_The_secret_life_of_all-or-nothing_thinking_with_exercise_new_insights_into_an_overlooked_barrier](https://www.researchgate.net/publication/398875558_The_secret_life_of_all-or-nothing_thinking_with_exercise_new_insights_into_an_overlooked_barrier)  
+   Link: <a href="https://www.researchgate.net/publication/398875558_The_secret_life_of_all-or-nothing_thinking_with_exercise_new_insights_into_an_overlooked_barrier" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398875558_The_secret_life_of_all-or-nothing_thinking_with_exercise_new_insights_into_an_overlooked_barrier</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The secret life of all-or-nothing thinking with exercise29 Mar 2026 — The purpose of this study was to investigate all-or-nothing t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0306460394900337](https://www.sciencedirect.com/science/article/pii/0306460394900337)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe role of attributions in abstinence, lapse, and relapse...by MA Walton · 1994 · Cited by 84 — Combined, these findings h...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0306460394900337" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0306460394900337</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of attributions in abstinence, lapse, and relapse...by MA Walton · 1994 · Cited by 84 — Combined, these findings h...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation IntentionsImplementation intentions delegate the control of goal-directed responses to anticipated situa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: zew.de  
    Title: Effective Self-Regulation of Goal Striving Peter M  
-   Link: [https://www.zew.de/fileadmin/FTP/veranstaltungen/NCS_Konferenz/paper/Gollwitzer.pdf](https://www.zew.de/fileadmin/FTP/veranstaltungen/NCS_Konferenz/paper/Gollwitzer.pdf)  
+   Link: <a href="https://www.zew.de/fileadmin/FTP/veranstaltungen/NCS_Konferenz/paper/Gollwitzer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zew.de/fileadmin/FTP/veranstaltungen/NCS_Konferenz/paper/Gollwitzer.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzerby PM Gollwitzer · Cited by 14 — The mental links created by implementation intentions facilitate goal attainment on the basis...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRelapse prevention  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>prevention - PMC - NIHby J Menon · 2018 · Cited by 152 — Relapse prevention (RP) is a strategy for reducing the likelihood and severity o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001691819305402](https://www.sciencedirect.com/science/article/abs/pii/S0001691819305402)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691819305402" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691819305402</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion regulation by implementation intention is...by X Huang · 2020 · Cited by 14 — Implementation intentions (II), which specify how...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048](https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intention effects in non-planned situationsby M Bieleke · 2018 · Cited by 44 — Forming implementation intentions (i.e., if...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936](https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 123 — The self-regulation strategy of forming impleme...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bps.org.uk  
    Title: all or nothing thinking ruining your [gym routine](&#123;&#123; 'gym-routine/' | relative_url &#125;&#125;)  
-   Link: [https://www.bps.org.uk/research-digest/all-or-nothing-thinking-ruining-your-gym-routine](https://www.bps.org.uk/research-digest/all-or-nothing-thinking-ruining-your-gym-routine)  
+   Link: <a href="https://www.bps.org.uk/research-digest/all-or-nothing-thinking-ruining-your-gym-routine" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/all-or-nothing-thinking-ruining-your-gym-routine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British Psychological SocietyAll-or-nothing thinking is ruining your gym routine13 Mar 2026 — New research identifies a major psychologic...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ojs.lib.uwo.ca  
-   Link: [https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249](https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249)  
+   Link: <a href="https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249" target="_blank" rel="noopener noreferrer nofollow">https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Abstinence Violation Effect and its role...by T Breddy · 2022 · Cited by 4 — This paper presents the abstinence violat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation](https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Cambridge English Dictionary에서의 의미the act of putting a plan into action or of starting to use something: implementation of a change/pol...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge English Dictionary에서의 의미the act of putting a plan into action or of starting to use something: implementation of a change/pol...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ojs.lib.uwo.ca  
-   Link: [https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249/11940](https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249/11940)  
+   Link: <a href="https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249/11940" target="_blank" rel="noopener noreferrer nofollow">https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249/11940</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lapse which increase the likelihood of relapse in individuals with SUD.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis of the Effects of Mental Contrasting With...by G Wang · 2021 · Cited by 97 — Mental contrasting with implementation inte...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: rehabcenter.net  
    Title: abstinence violation effect  
-   Link: [https://www.rehabcenter.net/abstinence-violation-effect/](https://www.rehabcenter.net/abstinence-violation-effect/)  
+   Link: <a href="https://www.rehabcenter.net/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.rehabcenter.net/abstinence-violation-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of learning and growing from their mistake, an individual may...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation intentions are self-regulating strategies – creat...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: mayo.edu  
-   Link: [https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942](https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942)  
+   Link: <a href="https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942" target="_blank" rel="noopener noreferrer nofollow">https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relapse Prevention and Follow-UpAbstinence Violation Effect (AVE). • Lapse creates dissonance with self imposed rule (abstinence). • Nega...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sparq.stanford.edu  
    Title: gollwitzer brandstatter 1997 implementation intentions effective goal pursuit  
-   Link: [https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/gollwitzer_brandstatter_1997_-_implementation_intentions_effective_goal_pursuit.pdf](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/gollwitzer_brandstatter_1997_-_implementation_intentions_effective_goal_pursuit.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SPARQImplementation Intentions and Effective Goal Pursuitby PM Gollwitzer · 1997 · Cited by 2160 — Gollwitzer (1993) suggested that formi...</p></details>
+   Link: <a href="https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/gollwitzer_brandstatter_1997_-_implementation_intentions_effective_goal_pursuit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/gollwitzer_brandstatter_1997_-_implementation_intentions_effective_goal_pursuit.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions and Effective Goal Pursuitby PM Gollwitzer · 1997 · Cited by 2160 — Gollwitzer (1993) suggested that formi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: prairieviewpsychology.ca  
    Title: abstinence violation effect understanding its impact on addiction recovery  
-   Link: [https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery](https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery)  
+   Link: <a href="https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery" target="_blank" rel="noopener noreferrer nofollow">https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does the Abstinence Violation Effect Impact Addiction...Aug 27, 2025 — The Abstinence Violation Effect is characterized by intense f...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: leantime.io  
    Title: how to use implementation intentions to reach your goals  
-   Link: [https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/](https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/)  
+   Link: <a href="https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/" target="_blank" rel="noopener noreferrer nofollow">https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: A Tried and True Approach...3 Nov 2024 — To effectively implement implementation intentions, individuals must...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reshapeapp.ai  
-   Link: [https://www.reshapeapp.ai/blog/beat-all-or-nothing-thinking-in-your-health-journey](https://www.reshapeapp.ai/blog/beat-all-or-nothing-thinking-in-your-health-journey)  
+   Link: <a href="https://www.reshapeapp.ai/blog/beat-all-or-nothing-thinking-in-your-health-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.reshapeapp.ai/blog/beat-all-or-nothing-thinking-in-your-health-journey</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beat All-Or-Nothing Thinking In Your Health Journey16 Dec 2025 — All-or-nothing thinking quietly sabotages workouts, nutrition, and consi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: psychologytoday.com  
    Title: the abstinence violation effect and overcoming it  
-   Link: [https://www.psychologytoday.com/au/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it](https://www.psychologytoday.com/au/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it)  
+   Link: <a href="https://www.psychologytoday.com/au/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/au/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jan 2024 — AVE occurs when someone who is striving for abstinence from a particular behavior or substance experiences a setback, such a...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: psychologytoday.com  
    Title: the abstinence violation effect and overcoming it  
-   Link: [https://www.psychologytoday.com/gb/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it](https://www.psychologytoday.com/gb/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jan 2024 — AVE occurs when someone who is striving for abstinence from a particular behavior or substance experiences a setback, such a...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: cogbtherapy.com  
    Title: cognitive distortions all or nothing thinking  
-   Link: [https://cogbtherapy.com/cbt-blog/cognitive-distortions-all-or-nothing-thinking](https://cogbtherapy.com/cbt-blog/cognitive-distortions-all-or-nothing-thinking)  
+   Link: <a href="https://cogbtherapy.com/cbt-blog/cognitive-distortions-all-or-nothing-thinking" target="_blank" rel="noopener noreferrer nofollow">https://cogbtherapy.com/cbt-blog/cognitive-distortions-all-or-nothing-thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Distortions: All-Or-Nothing Thinking30 Apr 2025 — All-or-nothing thinking is a distortion in which people view situations, them...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: lib.adai.washington.edu  
-   Link: [https://lib.adai.washington.edu/pubs/Relapse%20Prevention_NIDA%20Clinical%20Report%20Series.pdf](https://lib.adai.washington.edu/pubs/Relapse%20Prevention_NIDA%20Clinical%20Report%20Series.pdf)  
+   Link: <a href="https://lib.adai.washington.edu/pubs/Relapse%20Prevention_NIDA%20Clinical%20Report%20Series.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lib.adai.washington.edu/pubs/Relapse%20Prevention_NIDA%20Clinical%20Report%20Series.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute on Drug Abuse - Clinical Report SeriesWhatever its causes, a lapse can ultimately result in relapse through a process Marlatt c...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Relapse prevention  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10890810/](https://pubmed.ncbi.nlm.nih.gov/10890810/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10890810/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10890810/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An overview of Marlatt&#x27;s cognitive...by ME Larimer · 1999 · Cited by 1168 — Relapse prevention (RP) is an important component of alcohol...</p></details>

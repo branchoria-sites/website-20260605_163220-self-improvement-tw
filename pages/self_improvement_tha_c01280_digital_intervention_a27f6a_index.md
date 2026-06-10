@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-digital/
 description: Focused pages that expand on Digital Tools.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_digital_intervention_a27f6a
 parent_title: Digital Tools | Self Improvement That Works

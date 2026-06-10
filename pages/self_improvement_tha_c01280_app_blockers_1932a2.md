@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:27:10'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /automaticity/
   short_title: Automaticity
   heading_title: How Repetition Becomes Automatic
-date: '2026-06-05 14:27:10 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2-overview.webp
@@ -506,7 +506,7 @@ App [blockers]({{ 'blockers/' | relative_url }}) help when they turn a vague int
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-overview.webp" | relative_url }}" alt="Overview image for App Blockers" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is strongest for app blockers as part of behaviour design, not as a moral cure for distraction. Studies of digital self-control tools suggest that blocking, delays, scheduling and usage [feedback]({{ 'feedback/' | relative_url }}) can reduce unwanted use, especially when the person has chosen the target apps and the block fits a real routine. The main risk is either too little friction, which is easy to ignore, or too much prohibition, which feels punitive and gets abandoned. The best version is a planned, adjustable barrier that protects a specific time, place or activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+The evidence is strongest for app blockers as part of behaviour design, not as a moral cure for distraction. Studies of digital self-control tools suggest that blocking, delays, scheduling and usage [feedback]({{ 'feedback/' | relative_url }}) can reduce unwanted use, especially when the person has chosen the target apps and the block fits a real routine. The main risk is either too little friction, which is easy to ignore, or too much prohibition, which feels punitive and gets abandoned. The best version is a planned, adjustable barrier that protects a specific time, place or activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 ## Friction beats willpower at the moment of temptation
 
@@ -514,7 +514,7 @@ Most people do not open distracting apps after a careful cost-benefit analysis. 
 
 This is why “digital friction” is often more realistic than pure prohibition. Friction can mean a full block, but it can also mean a delay, a breathing prompt, a password held by someone else, a scheduled lockout, a greyscale mode, or moving an app off the home screen. The point is not to make technology unusable. It is to make the unwanted action less automatic than the intended action.
 
-A clear example comes from research on the “one sec” app, a self-nudge tool that inserts a short delay before selected apps open. In a large field study, the app reduced actual openings of target apps by 57% after six consecutive weeks. The intervention combined delay, a breathing cue and a prompt to reconsider the intended app use, so the effect should not be attributed to delay alone; still, it shows the practical power of interrupting the first tap rather than relying on later regret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span>
+A clear example comes from research on the “one sec” app, a self-nudge tool that inserts a short delay before selected apps open. In a large field study, the app reduced actual openings of target apps by 57% after six consecutive weeks. The intervention combined delay, a breathing cue and a prompt to reconsider the intended app use, so the effect should not be attributed to delay alone; still, it shows the practical power of interrupting the first tap rather than relying on later regret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span>
 
 The same logic appears in broader reviews of digital self-control tools. Researchers have found that these tools use several mechanisms: blocking access, setting goals, showing usage data, adding [reminders]({{ 'reminders/' | relative_url }}), rewarding restraint, or making distraction socially visible. The evidence base is still uneven, but interventions that change the action [environment]({{ 'environment/' | relative_url }}) tend to be more promising than tools that merely increase awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryDigital self‐control interventions for distracting media...13 Aug 2021 — These interventions use different approache...</span></span></span>
 
@@ -524,7 +524,7 @@ The same logic appears in broader reviews of digital self-control tools. Researc
 
 A useful app blocker does not have to be the harshest one. In fact, the design problem is finding the right amount of resistance for the behaviour being changed. A five-second pause may be enough for compulsive app opening. A locked work-session block may be better for writing, study or deep work. A full mobile-internet block may be appropriate for a short reset, but too disruptive for ordinary weeks.
 
-Research on user reviews of 334 digital self-control tools described this as a “Goldilocks” problem: users want [support]({{ 'support/' | relative_url }}) that is strong enough to change behaviour but not so coercive that it feels hostile or unusable. The same study found that users want tools to match their personal definitions of distraction, because the same app can be useful in one context and harmful in another. WhatsApp may be necessary for family logistics at 6 pm, but a distraction during an exam revision session. YouTube may be education at 3 pm and sleep sabotage at midnight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+Research on user reviews of 334 digital self-control tools described this as a “Goldilocks” problem: users want [support]({{ 'support/' | relative_url }}) that is strong enough to change behaviour but not so coercive that it feels hostile or unusable. The same study found that users want tools to match their personal definitions of distraction, because the same app can be useful in one context and harmful in another. WhatsApp may be necessary for family logistics at 6 pm, but a distraction during an exam revision session. YouTube may be education at 3 pm and sleep sabotage at midnight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 That distinction matters because prohibition can create brittle systems. If every block feels like a fight, the user learns to hunt for loopholes: another browser, another device, deleting the extension, changing the time, overriding a limit, or moving the habit to a different app. Friction works better when it preserves enough agency to feel self-chosen while still making the impulsive path inconvenient.
 
@@ -577,11 +577,11 @@ The evidence for app blockers is promising but not uniform. Reviews of digital s
 
 One reason the evidence is mixed is that “screen time” is not one behaviour. Blocking TikTok during revision, limiting work email after dinner, preventing gambling-site access, delaying Instagram, and removing mobile internet for two weeks are different interventions. They target different cues, rewards and harms. A single headline about app blockers “working” or “not working” usually hides this variation.
 
-A striking recent experiment found that blocking mobile internet on smartphones for two weeks reduced smartphone use and improved subjective wellbeing, mental health and sustained attention. Participants could still make calls and send texts, and they could use the internet on other devices, so the intervention specifically reduced constant phone-based internet access rather than removing the internet from life altogether. However, adherence was a challenge: not everyone who agreed to the intervention fully maintained the block. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Afterward, participants also reported</span><span class="citation-popover-snippet">PubMedDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased users&#x27; ac...</span></span></span>
+A striking recent experiment found that blocking mobile internet on smartphones for two weeks reduced smartphone use and improved subjective wellbeing, mental health and sustained attention. Participants could still make calls and send texts, and they could use the internet on other devices, so the intervention specifically reduced constant phone-based internet access rather than removing the internet from life altogether. However, adherence was a challenge: not everyone who agreed to the intervention fully maintained the block. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Afterward, participants also reported</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased users&#x27; ac...</span></span></span>
 
 That makes the practical lesson more modest than “delete the internet”. The lesson is that constant access has costs for some people, and stronger friction can reveal what life feels like when the phone is no longer the default portal for every impulse. But the same study also shows that strong blocks are hard to sustain. For everyday self improvement, a durable scheduled boundary may beat an impressive but short-lived digital detox.
 
-There is also evidence that soft commitment devices can reduce use. In an experimental study of 629 participants, people tended to spend more time on phones and social media than they predicted or wanted, and those who adopted limits significantly reduced phone and Facebook use. This fits a common lived experience: the problem is not always ignorance. Many people already know what they want; they need a system that makes the chosen limit easier to keep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+There is also evidence that soft commitment devices can reduce use. In an experimental study of 629 participants, people tended to spend more time on phones and social media than they predicted or wanted, and those who adopted limits significantly reduced phone and Facebook use. This fits a common lived experience: the problem is not always ignorance. Many people already know what they want; they need a system that makes the chosen limit easier to keep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HWYOC7zwvgs" title="Password Locker with Max Gazeroglu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer">Password Locker with Max Gazeroglu</a></p><p class="youtube-embed-meta">Channel: Jose Briones - Dumbphone Reviews &middot; Views: 85 &middot; Uploaded: January 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HWYOC7zwvgs">Open on YouTube</a></p></div></div></div>
@@ -628,9 +628,9 @@ Start with a one-week experiment:
 
 </div>
 
-This approach fits the broader evidence on behaviour change: self improvement is more reliable when it changes cues, friction and feedback instead of depending on motivation alone. App blockers are valuable because they operate at the point where intention usually collapses — the instant before the tap, the search, the scroll or the “just for a minute” decision.
+This approach fits the broader evidence on [behaviour change]({{ 'behaviour-change/' | relative_url }}): self improvement is more reliable when it changes cues, friction and feedback instead of depending on motivation alone. App blockers are valuable because they operate at the point where intention usually collapses — the instant before the tap, the search, the scroll or the “just for a minute” decision.
 
-The best test is behavioural, not aesthetic. A blocker is helping if the desired action becomes more likely on a tired day: the essay opens before the feed, sleep begins before the next video, the walk happens before the news spiral, and breaks become deliberate rather than hijacked. When digital friction produces that shift, it is not a gimmick. It is a small piece of [environment design]({{ 'environment/' | relative_url }}) doing exactly what self improvement needs it to do.
+The best test is behavioural, not aesthetic. A blocker is helping if the desired action becomes more likely on a tired day: the essay opens before the feed, sleep begins before the next video, the walk happens before the news spiral, and breaks become deliberate rather than hijacked. When digital friction produces that shift, it is not a gimmick. It is a small piece of environment design doing exactly what self improvement needs it to do.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1We3iNJoTVY" title="A Health Coach’s Guide to Managing Client Screen Time &amp; Mental Wellbeing | HCA Talks Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer">A Health Coach’s Guide to Managing Client Screen Time &amp; Mental Wellbeing | HCA Talks Health</a></p><p class="youtube-embed-meta">Channel: Health Coaches Academy &middot; Views: 69 &middot; Uploaded: April 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1We3iNJoTVY">Open on YouTube</a></p></div></div></div>
@@ -1057,246 +1057,246 @@ The best test is behavioural, not aesthetic. A blocker is helping if the desired
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2213114120](https://www.pnas.org/doi/10.1073/pnas.2213114120)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2213114120</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1071581922000957](https://www.sciencedirect.com/science/article/pii/S1071581922000957)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581922000957</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDigital self‐control interventions for distracting media...13 Aug 2021 — These interventions use different approache...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1902.00157](https://arxiv.org/abs/1902.00157)  
+   Link: <a href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.00157</a>  
 
 5. <a id="endnote-5"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/en-us/108806](https://support.apple.com/en-us/108806)  
+   Link: <a href="https://support.apple.com/en-us/108806" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-us/108806</a>  
 
 6. <a id="endnote-6"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/android/answer/9346420?hl=en](https://support.google.com/android/answer/9346420?hl=en)  
+   Link: <a href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9346420?hl=en</a>  
 
 7. <a id="endnote-7"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios](https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios)  
+   Link: <a href="https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios</a>  
 
 8. <a id="endnote-8"></a>
    Source: play.google.com  
    Title: Play Digital Wellbeing  
-   Link: [https://play.google.com/store/apps/details?hl=en&id=com.google.android.apps.wellbeing](https://play.google.com/store/apps/details?hl=en&id=com.google.android.apps.wellbeing)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.apps.wellbeing" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.apps.wellbeing</a>  
 
 9. <a id="endnote-9"></a>
    Source: microsoft.com  
    Title: how blocking distractions affects workplace focus and productivity  
-   Link: [https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/](https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/</a>  
 
 10. <a id="endnote-10"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3571810](https://dl.acm.org/doi/10.1145/3571810)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3571810</a>  
 
 11. <a id="endnote-11"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017](https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017)  
+   Link: <a href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0014292121002269](https://www.sciencedirect.com/science/article/abs/pii/S0014292121002269)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0014292121002269" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0014292121002269</a>  
 
 13. <a id="endnote-13"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/us/app/freedom-control-screen-time/id1269788228](https://apps.apple.com/us/app/freedom-control-screen-time/id1269788228)  
+   Link: <a href="https://apps.apple.com/us/app/freedom-control-screen-time/id1269788228" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/freedom-control-screen-time/id1269788228</a>  
 
 14. <a id="endnote-14"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228](https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228)  
+   Link: <a href="https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228</a>  
 
 15. <a id="endnote-15"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/255507853](https://discussions.apple.com/thread/255507853)  
+   Link: <a href="https://discussions.apple.com/thread/255507853" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255507853</a>  
 
 16. <a id="endnote-16"></a>
    Source: support.apple.com  
-   Link: [https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995/ios](https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995/ios)  
+   Link: <a href="https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995/ios</a>  
 
 17. <a id="endnote-17"></a>
    Source: discussions.apple.com  
-   Link: [https://discussions.apple.com/thread/254579041](https://discussions.apple.com/thread/254579041)  
+   Link: <a href="https://discussions.apple.com/thread/254579041" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/254579041</a>  
 
 18. <a id="endnote-18"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_US&id=com.stayfocused](https://play.google.com/store/apps/details?hl=en_US&id=com.stayfocused)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.stayfocused" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.stayfocused</a>  
 
 19. <a id="endnote-19"></a>
    Source: chromewebstore.google.com  
-   Link: [https://chromewebstore.google.com/detail/self-control-block-sites/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en](https://chromewebstore.google.com/detail/self-control-block-sites/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en)  
+   Link: <a href="https://chromewebstore.google.com/detail/self-control-block-sites/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/self-control-block-sites/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en</a>  
 
 20. <a id="endnote-20"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en&id=cz.mobilesoft.appblock](https://play.google.com/store/apps/details?hl=en&id=cz.mobilesoft.appblock)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=cz.mobilesoft.appblock" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=cz.mobilesoft.appblock</a>  
 
 21. <a id="endnote-21"></a>
    Source: chromewebstore.google.com  
-   Link: [https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji](https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji)  
+   Link: <a href="https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji</a>  
 
 22. <a id="endnote-22"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en&id=com.stayfocused](https://play.google.com/store/apps/details?hl=en&id=com.stayfocused)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.stayfocused" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.stayfocused</a>  
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2214782921000324](https://www.sciencedirect.com/science/article/pii/S2214782921000324)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2214782921000324" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782921000324</a>  
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S245195882600103X](https://www.sciencedirect.com/science/article/pii/S245195882600103X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S245195882600103X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S245195882600103X</a>  
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352853221000286](https://www.sciencedirect.com/science/article/pii/S2352853221000286)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352853221000286" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352853221000286</a>  
 
 26. <a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1386505625002059](https://www.sciencedirect.com/science/article/pii/S1386505625002059)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625002059" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625002059</a>  
 
 27. <a id="endnote-27"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/full/10.1145/3571810](https://dl.acm.org/doi/full/10.1145/3571810)  
+   Link: <a href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3571810</a>  
 
 28. <a id="endnote-28"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3613904.3642946](https://dl.acm.org/doi/10.1145/3613904.3642946)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3613904.3642946" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3613904.3642946</a>  
 
 29. <a id="endnote-29"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3123024.3124558](https://dl.acm.org/doi/10.1145/3123024.3124558)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3123024.3124558" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3123024.3124558</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
    Title: we often blame stress or burnout for lack of focus but what if the real issue is  
-   Link: [https://www.facebook.com/jimkwikofficial/posts/we-often-blame-stress-or-burnout-for-lack-of-focus-but-what-if-the-real-issue-is/1262263855256667/](https://www.facebook.com/jimkwikofficial/posts/we-often-blame-stress-or-burnout-for-lack-of-focus-but-what-if-the-real-issue-is/1262263855256667/)  
+   Link: <a href="https://www.facebook.com/jimkwikofficial/posts/we-often-blame-stress-or-burnout-for-lack-of-focus-but-what-if-the-real-issue-is/1262263855256667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jimkwikofficial/posts/we-often-blame-stress-or-burnout-for-lack-of-focus-but-what-if-the-real-issue-is/1262263855256667/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/payetteforward/posts/2829326190710183/](https://www.facebook.com/groups/payetteforward/posts/2829326190710183/)  
+   Link: <a href="https://www.facebook.com/groups/payetteforward/posts/2829326190710183/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/payetteforward/posts/2829326190710183/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
    Title: how to set a daily time limit for unproductive apps on iphone or ipad  
-   Link: [https://www.facebook.com/iDownloadBlog/posts/how-to-set-a-daily-time-limit-for-unproductive-apps-on-iphone-or-ipad/960588076686960/](https://www.facebook.com/iDownloadBlog/posts/how-to-set-a-daily-time-limit-for-unproductive-apps-on-iphone-or-ipad/960588076686960/)  
+   Link: <a href="https://www.facebook.com/iDownloadBlog/posts/how-to-set-a-daily-time-limit-for-unproductive-apps-on-iphone-or-ipad/960588076686960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iDownloadBlog/posts/how-to-set-a-daily-time-limit-for-unproductive-apps-on-iphone-or-ipad/960588076686960/</a>  
 
 33. <a id="endnote-33"></a>
    Source: instagram.com  
    Title: DVjzy5b Et QK  
-   Link: [https://www.instagram.com/reel/DVjzy5bEtQK/](https://www.instagram.com/reel/DVjzy5bEtQK/)  
+   Link: <a href="https://www.instagram.com/reel/DVjzy5bEtQK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVjzy5bEtQK/</a>  
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
    Title: DS2ZV02l Hzq  
-   Link: [https://www.instagram.com/p/DS2ZV02lHzq/?hl=en](https://www.instagram.com/p/DS2ZV02lHzq/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DS2ZV02lHzq/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DS2ZV02lHzq/?hl=en</a>  
 
 35. <a id="endnote-35"></a>
    Source: one-sec.app  
-   Link: [https://one-sec.app/](https://one-sec.app/)  
+   Link: <a href="https://one-sec.app/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/</a>  
 
 36. <a id="endnote-36"></a>
    Source: one-sec.app  
    Title: friction will change your behavior  
-   Link: [https://one-sec.app/blog/friction-will-change-your-behavior/](https://one-sec.app/blog/friction-will-change-your-behavior/)  
+   Link: <a href="https://one-sec.app/blog/friction-will-change-your-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/blog/friction-will-change-your-behavior/</a>  
 
 37. <a id="endnote-37"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12581](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12581)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12581</a>  
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Stop Mindless Scrolling: The Power of Digital Friction  
-   Link: [https://www.youtube.com/watch?v=_IARhO52I0Y](https://www.youtube.com/watch?v=_IARhO52I0Y)  
+   Link: <a href="https://www.youtube.com/watch?v=_IARhO52I0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_IARhO52I0Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m Unplugging From Screens... While My AI Takes Notes...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ub3Fabnr58o](https://www.youtube.com/watch?v=Ub3Fabnr58o)  
+   Link: <a href="https://www.youtube.com/watch?v=Ub3Fabnr58o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ub3Fabnr58o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Health Coach&#x27;s Guide to Managing Client Screen Time &amp; Mental Wellbeing...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: A Health Coach's Guide to Managing Client Screen Time & Mental Wellbeing  
-   Link: [https://www.youtube.com/watch?v=1We3iNJoTVY](https://www.youtube.com/watch?v=1We3iNJoTVY)  
+   Link: <a href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1We3iNJoTVY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Powerful App To Block Digital Distractions...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: The Most Powerful App To Block Digital Distractions  
-   Link: [https://www.youtube.com/watch?v=v5Zc8cwr1Pw](https://www.youtube.com/watch?v=v5Zc8cwr1Pw)  
+   Link: <a href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v5Zc8cwr1Pw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Password Locker with Max Gazeroglu...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Password Locker with Max Gazeroglu  
-   Link: [https://www.youtube.com/watch?v=HWYOC7zwvgs](https://www.youtube.com/watch?v=HWYOC7zwvgs)  
+   Link: <a href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HWYOC7zwvgs</a>  
 
 43. <a id="endnote-43"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Afterward, participants also reported  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36795756/](https://pubmed.ncbi.nlm.nih.gov/36795756/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedDirecting smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased users&#x27; ac...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36795756/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased users&#x27; ac...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/</a>  
 
 45. <a id="endnote-45"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39967678/](https://pubmed.ncbi.nlm.nih.gov/39967678/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39967678/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39967678/</a>  
 
 46. <a id="endnote-46"></a>
    Source: inria.hal.science  
-   Link: [https://inria.hal.science/hal-04215514/document](https://inria.hal.science/hal-04215514/document)  
+   Link: <a href="https://inria.hal.science/hal-04215514/document" target="_blank" rel="noopener noreferrer nofollow">https://inria.hal.science/hal-04215514/document</a>  
 
 ### Additional References
 
 47. <a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review](https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review</a>  
 
 48. <a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389106770_Blocking_mobile_internet_on_smartphones_improves_sustained_attention_mental_health_and_subjective_well-being](https://www.researchgate.net/publication/389106770_Blocking_mobile_internet_on_smartphones_improves_sustained_attention_mental_health_and_subjective_well-being)  
+   Link: <a href="https://www.researchgate.net/publication/389106770_Blocking_mobile_internet_on_smartphones_improves_sustained_attention_mental_health_and_subjective_well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389106770_Blocking_mobile_internet_on_smartphones_improves_sustained_attention_mental_health_and_subjective_well-being</a>  
 
 49. <a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389215642_Smartphone_screen_time_reduction_improves_mental_health_a_randomized_controlled_trial](https://www.researchgate.net/publication/389215642_Smartphone_screen_time_reduction_improves_mental_health_a_randomized_controlled_trial)  
+   Link: <a href="https://www.researchgate.net/publication/389215642_Smartphone_screen_time_reduction_improves_mental_health_a_randomized_controlled_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389215642_Smartphone_screen_time_reduction_improves_mental_health_a_randomized_controlled_trial</a>  
 
 50. <a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398782642_Digital_detox_and_the_%27app-blocking_app%27_abstinence_as_a_desire-regenerating_force](https://www.researchgate.net/publication/398782642_Digital_detox_and_the_%27app-blocking_app%27_abstinence_as_a_desire-regenerating_force)  
+   Link: <a href="https://www.researchgate.net/publication/398782642_Digital_detox_and_the_%27app-blocking_app%27_abstinence_as_a_desire-regenerating_force" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398782642_Digital_detox_and_the_%27app-blocking_app%27_abstinence_as_a_desire-regenerating_force</a>  
 
 51. <a id="endnote-51"></a>
    Source: raz-lab.org  
-   Link: [https://raz-lab.org/wp-content/uploads/2021/01/ten-steps.pdf](https://raz-lab.org/wp-content/uploads/2021/01/ten-steps.pdf)  
+   Link: <a href="https://raz-lab.org/wp-content/uploads/2021/01/ten-steps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raz-lab.org/wp-content/uploads/2021/01/ten-steps.pdf</a>  
 
 52. <a id="endnote-52"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis</a>  
 
 53. <a id="endnote-53"></a>
    Source: hbs.edu  
-   Link: [https://www.hbs.edu/faculty/Pages/item.aspx?num=62971](https://www.hbs.edu/faculty/Pages/item.aspx?num=62971)  
+   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=62971" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=62971</a>  
 
 54. <a id="endnote-54"></a>
    Source: refubium.fu-berlin.de  
-   Link: [https://refubium.fu-berlin.de/bitstream/handle/fub188/46428/Applied%20Psych%20Health%20Well%20-%202025%20-%20Brockmeier%20-%20Effects%20of%20an%20intervention%20targeting%20social%20media%20app%20use%20on%20well%E2%80%90being.pdf](https://refubium.fu-berlin.de/bitstream/handle/fub188/46428/Applied%20Psych%20Health%20Well%20-%202025%20-%20Brockmeier%20-%20Effects%20of%20an%20intervention%20targeting%20social%20media%20app%20use%20on%20well%E2%80%90being.pdf)  
+   Link: <a href="https://refubium.fu-berlin.de/bitstream/handle/fub188/46428/Applied%20Psych%20Health%20Well%20-%202025%20-%20Brockmeier%20-%20Effects%20of%20an%20intervention%20targeting%20social%20media%20app%20use%20on%20well%E2%80%90being.pdf" target="_blank" rel="noopener noreferrer nofollow">https://refubium.fu-berlin.de/bitstream/handle/fub188/46428/Applied%20Psych%20Health%20Well%20-%202025%20-%20Brockmeier%20-%20Effects%20of%20an%20intervention%20targeting%20social%20media%20app%20use%20on%20well%E2%80%90being.pdf</a>  
 
 55. <a id="endnote-55"></a>
    Source: blocksite.co  
-   Link: [https://blocksite.co/](https://blocksite.co/)  
+   Link: <a href="https://blocksite.co/" target="_blank" rel="noopener noreferrer nofollow">https://blocksite.co/</a>  
 
 56. <a id="endnote-56"></a>
    Source: freedom.to  
-   Link: [https://freedom.to/](https://freedom.to/)  
+   Link: <a href="https://freedom.to/" target="_blank" rel="noopener noreferrer nofollow">https://freedom.to/</a>  

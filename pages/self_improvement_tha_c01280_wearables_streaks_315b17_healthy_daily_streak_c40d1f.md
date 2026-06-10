@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:44:03'
 parent_title: When Streaks Help and When They Trap You | Better Change
 parent_permalink: /wearables/
 parent_nav_short_title: Wearables
@@ -259,7 +260,6 @@ prev_link:
   permalink: /step-counts/
   short_title: Step Counts
   heading_title: What Step Counts Can and Cannot Tell You
-date: '2026-06-05 15:44:03 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-1.webp
@@ -272,7 +272,7 @@ Daily streaks are one of the most popular forms of visible [feedback]({{ 'feedba
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-1-dark.svg" | relative_url }}" alt="Streaks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most effective streak systems do not treat a missed day as failure. They treat it as an interruption. Research on goal monitoring suggests that [visible progress]({{ 'visible-records/' | relative_url }}) tracking helps people stay engaged with goals, especially when progress is recorded and reviewed. Yet evidence from habit formation research, user experience studies and real-world app design points to a consistent risk: when people see one missed day as the end of the story, [motivation]({{ 'motivation/' | relative_url }}) often collapses. A healthy streak helps people come back after disruption rather than making perfection the price of participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychiatry.ucsd.edu">[2psychiatry.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychiatry.ucsd.edu</span><span class="citation-popover-snippet">Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases frequency of progress monitoring beh...</span></span></span>
+The most effective streak systems do not treat a missed day as failure. They treat it as an interruption. Research on goal monitoring suggests that visible progress tracking helps people stay engaged with goals, especially when progress is recorded and reviewed. Yet evidence from habit formation research, user experience studies and real-world app design points to a consistent risk: when people see one missed day as the end of the story, [motivation]({{ 'motivation/' | relative_url }}) often collapses. A healthy streak helps people come back after disruption rather than making perfection the price of participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychiatry.ucsd.edu">[2psychiatry.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychiatry.ucsd.edu</span><span class="citation-popover-snippet">Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases frequency of progress monitoring beh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJE_KAnQtiM" title="You Didn’t Build a Habit. You Built a Streak." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJE_KAnQtiM" target="_blank" rel="noopener noreferrer">You Didn’t Build a Habit. You Built a Streak.</a></p><p class="youtube-embed-meta">Channel: Berrohn &middot; Views: 20.3K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJE_KAnQtiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJE_KAnQtiM">Open on YouTube</a></p></div></div></div>
@@ -334,7 +334,7 @@ Several habit-building frameworks emphasise that missing a single day has little
 
 A useful test is to ask what behaviour the streak encourages after a disruption.
 
-A fragile streak says, “You failed.” A [resilient streak]({{ 'better-tracking/' | relative_url }}) says, “Welcome back.”
+A fragile streak says, “You failed.” A resilient streak says, “Welcome back.”
 
 This distinction matters because real improvement rarely follows a perfectly straight line. People get sick, travel, work late, care for family members and face unexpected disruptions. Any self-improvement system that assumes uninterrupted performance will eventually collide with reality.
 
@@ -675,82 +675,82 @@ Visible feedback remains valuable, but the metric should support the behaviour i
 
 1. <a id="endnote-1"></a>
    Source: psychiatry.ucsd.edu  
-   Link: [https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html](https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html)  
+   Link: <a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) of progress monitoring beh...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2203.16175](https://arxiv.org/abs/2203.16175)  
+   Link: <a href="https://arxiv.org/abs/2203.16175" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.16175</a>  
 
 3. <a id="endnote-3"></a>
    Source: justanotherpm.com  
-   Link: [https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature](https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature)  
+   Link: <a href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = sticky behavior...</p></details>
    Published: May 2025  
 
 4. <a id="endnote-4"></a>
    Source: blog.duolingo.com  
    Title: how duolingo streak builds habit  
-   Link: [https://blog.duolingo.com/how-duolingo-streak-builds-habit/](https://blog.duolingo.com/how-duolingo-streak-builds-habit/)  
+   Link: <a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: duolingo.com  
    Title: Help Center  
-   Link: [https://www.duolingo.com/help/what-is-a-streak](https://www.duolingo.com/help/what-is-a-streak)  
+   Link: <a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak freeze must be purchased i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ehm-tech.com  
    Title: EHM Tech Habit Streaks: Why They Work and When They Backfire  
-   Link: [https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/](https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/)  
+   Link: <a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lally&#x27;s research shows that missing one day has no measurable impact on habit formation.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: habit-streak.com  
    Title: habit tracking mistakes  
-   Link: [https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes](https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes)  
+   Link: <a href="https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Focus on the &#x27;never miss twice&#x27;...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: blog.duolingo.com  
    Title: protecting streaks from site issues  
-   Link: [https://blog.duolingo.com/protecting-streaks-from-site-issues/](https://blog.duolingo.com/protecting-streaks-from-site-issues/)  
+   Link: <a href="https://blog.duolingo.com/protecting-streaks-from-site-issues/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/protecting-streaks-from-site-issues/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>we protect learner streaks from site issues1 Nov 2021 — To keep their streak protected, learners must equip a “streak freeze” in advance...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: blog.duolingo.com  
    Title: how to keep your streak on vacation  
-   Link: [https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/](https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/)  
+   Link: <a href="https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>can I keep my streak while on vacation?18 Apr 2023 — By foregoing a few timer boosts or Streak Freezes before your trip, you can use thos...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26479070/](https://pubmed.ncbi.nlm.nih.gov/26479070/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian Don't break the streak!  
-   Link: [https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession](https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: duolingo.fandom.com  
    Title: Streak freeze  
-   Link: [https://duolingo.fandom.com/wiki/Shop/Streak_freeze](https://duolingo.fandom.com/wiki/Shop/Streak_freeze)  
+   Link: <a href="https://duolingo.fandom.com/wiki/Shop/Streak_freeze" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Shop/Streak_freeze</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comShop/Streak freeze - Duolingo Wiki - FandomA streak freeze can be bought at any time and will stay equipped until you miss a da...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: duolingo.fandom.com  
-   Link: [https://duolingo.fandom.com/wiki/Streak](https://duolingo.fandom.com/wiki/Streak)  
+   Link: <a href="https://duolingo.fandom.com/wiki/Streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Wiki - FandomYou can freeze your streak to avoid it resetting from a day of inactivity by buying a streak freeze in the gems sto...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: forum.duome.eu  
    Title: eu Streak Freeze  
-   Link: [https://forum.duome.eu/viewtopic.php?t=29919](https://forum.duome.eu/viewtopic.php?t=29919)  
+   Link: <a href="https://forum.duome.eu/viewtopic.php?t=29919" target="_blank" rel="noopener noreferrer nofollow">https://forum.duome.eu/viewtopic.php?t=29919</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Freeze - Duolingo Forum27 May 2024 — If you use one streak freeze and then come back the next day, Duolingo will refill your streak freez...</p></details>
    Published: May 2024  
 
@@ -758,55 +758,55 @@ Visible feedback remains valuable, but the metric should support the behaviour i
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/duolingo/comments/1cr0jk4/how_do_i_freeze_my_streak_for_3_days/](https://www.reddit.com/r/duolingo/comments/1cr0jk4/how_do_i_freeze_my_streak_for_3_days/)  
+   Link: <a href="https://www.reddit.com/r/duolingo/comments/1cr0jk4/how_do_i_freeze_my_streak_for_3_days/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/duolingo/comments/1cr0jk4/how_do_i_freeze_my_streak_for_3_days/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do I freeze my streak for 3 days?: r/duolingoSo, in less than a month I&#x27;m going to a field trip that will last 4 days, but I can&#x27;t b...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: uxmag.medium.com  
-   Link: [https://uxmag.medium.com/the-psychology-of-hot-streak-game-design-how-to-keep-players-coming-back-every-day-without-shame-3dde153f239c](https://uxmag.medium.com/the-psychology-of-hot-streak-game-design-how-to-keep-players-coming-back-every-day-without-shame-3dde153f239c)  
+   Link: <a href="https://uxmag.medium.com/the-psychology-of-hot-streak-game-design-how-to-keep-players-coming-back-every-day-without-shame-3dde153f239c" target="_blank" rel="noopener noreferrer nofollow">https://uxmag.medium.com/the-psychology-of-hot-streak-game-design-how-to-keep-players-coming-back-every-day-without-shame-3dde153f239c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Hot Streak Game Design - UX MagazineThe purpose of a streak is to encourage the creation and sustaining of new habits that...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: trophy.so  
-   Link: [https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them](https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them)  
+   Link: <a href="https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaks: How Sylvi Weaponized Duolingo&#x27;s...30 June 2025 — The research revealed that consecutive daily activity create...</p></details>
    Published: June 2025  
 
 18. <a id="endnote-18"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/87431/](https://eprints.whiterose.ac.uk/id/eprint/87431/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 738 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20Harkin%20raw%20FINAL.pdf](https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20Harkin%20raw%20FINAL.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20Harkin%20raw%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20Harkin%20raw%20FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 745 — The present meta-analysis includes only studies that randomly allocated participants to a treatment c...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/91437/](https://eprints.whiterose.ac.uk/id/eprint/91437/)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 742 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
    Title: 315582603 Which Factors Are Associated with Monitoring Goal Progress  
-   Link: [https://www.researchgate.net/publication/315582603_Which_Factors_Are_Associated_with_Monitoring_Goal_Progress](https://www.researchgate.net/publication/315582603_Which_Factors_Are_Associated_with_Monitoring_Goal_Progress)  
+   Link: <a href="https://www.researchgate.net/publication/315582603_Which_Factors_Are_Associated_with_Monitoring_Goal_Progress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315582603_Which_Factors_Are_Associated_with_Monitoring_Goal_Progress</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>progress monitoring can increase the likelihood. that people will achieve their goal (e.g., Harkin et al., 2016). Furthermore, we examine...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ovid.com  
-   Link: [https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a](https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a)  
+   Link: <a href="https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Monitoring Goal Progress Promote Goal...by B Harkin · 2016 · Cited by 745 — Taken together, the findings suggest that monitoring goa...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchdataanalysis.com  
    Title: ben harkin data analysis innovation best researcher award 2436  
-   Link: [https://researchdataanalysis.com/ben-harkin-data-analysis-innovation-best-researcher-award-2436/](https://researchdataanalysis.com/ben-harkin-data-analysis-innovation-best-researcher-award-2436/)  
+   Link: <a href="https://researchdataanalysis.com/ben-harkin-data-analysis-innovation-best-researcher-award-2436/" target="_blank" rel="noopener noreferrer nofollow">https://researchdataanalysis.com/ben-harkin-data-analysis-innovation-best-researcher-award-2436/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Does Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence,” Psychological Bulletin. Harkin, B...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ](https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ)  
+   Link: <a href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A perfect element for user retention and engagement. Check out www.mybumpsocial...Read more...</p></details>

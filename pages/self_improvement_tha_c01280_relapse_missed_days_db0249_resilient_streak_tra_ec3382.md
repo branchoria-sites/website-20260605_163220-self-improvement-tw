@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:59:53'
 parent_title: What to Do After You Miss a Day | Better Change
 parent_permalink: /missed-days/
 parent_nav_short_title: Missed Days
@@ -259,7 +260,6 @@ next_link:
   permalink: /design-feedback/
   short_title: Design feedback
   heading_title: What Repeated Missed Days Are Telling You
-date: '2026-06-05 15:59:53 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_resilient_streak_tra_ec3382-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_resilient_streak_tra_ec3382-Illustration-1.webp
@@ -278,9 +278,9 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
 
 Streaks solve a real problem. They provide visible [feedback]({{ 'feedback/' | relative_url }}), make progress concrete, and create a reason to show up today rather than postponing until tomorrow. Many people find that a growing chain of completed days increases attention and consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-snippet">EHM TechHabit Streaks: Why They Work and When They BackfireMarch 10, 2026 — 10 Mar 2026 — Apply the Two-Day Rule: never miss two days in...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
-The problem appears when the streak becomes more important than the behaviour itself. A person who has exercised for thirty days may begin protecting the number rather than building a durable exercise routine. When the chain breaks because of illness, travel, family responsibilities or simple forgetfulness, the emotional reaction can be disproportionate to the event. Instead of seeing one missed session, the person sees a lost achievement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works | Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
+The problem appears when the streak becomes more important than the behaviour itself. A person who has exercised for thirty days may begin protecting the number rather than building a durable exercise routine. When the chain breaks because of illness, travel, family responsibilities or simple forgetfulness, the emotional reaction can be disproportionate to the event. Instead of seeing one missed session, the person sees a lost achievement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
 
-This risk fits closely with the abstinence violation effect described in relapse-prevention research. A lapse can trigger guilt, self-criticism and the belief that previous progress has been erased. The resulting discouragement may cause more damage than the original missed day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works | Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
+This risk fits closely with the abstinence violation effect described in relapse-prevention research. A lapse can trigger guilt, self-criticism and the belief that previous progress has been erased. The resulting discouragement may cause more damage than the original missed day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
 
 A helpful tracker therefore treats streaks as information, not as judgement. It encourages the question, “What happened yesterday?” rather than the conclusion, “I failed.”
 
@@ -310,7 +310,7 @@ DayTraditional TrackerRecovery-Oriented TrackerMondayCompleteCompleteTuesdayComp
 
 The second record contains information that can improve future behaviour. The first only records a broken chain.
 
-Neutral miss labels are especially valuable. A missed day caused by illness, family care or travel is not the same as abandoning a habit. Recording the reason can reveal patterns that guide future adjustments. If every interruption occurs on late-shift workdays, the problem may be scheduling rather than motivation.
+Neutral miss labels are especially valuable. A missed day caused by illness, family care or travel is not the same as abandoning a habit. Recording the reason can reveal patterns that guide future adjustments. If every interruption occurs on late-shift workdays, the problem may be scheduling rather than [motivation]({{ 'motivation/' | relative_url }}).
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nfRZPf_6a1c" title="The Problem with Habit Trackers (And What to Do Instead)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer">The Problem with Habit Trackers (And What to Do Instead)</a></p><p class="youtube-embed-meta">Channel: Sam Mas &middot; Views: 5.4K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nfRZPf_6a1c">Open on YouTube</a></p></div></div></div>
@@ -399,7 +399,7 @@ Consider two users:
 * User A maintains a 60-day streak and quits after it breaks.
 * User B misses occasionally but restarts within 24 hours every time.
 
-Traditional tracking praises User A. Long-term behaviour change may favour User B.
+Traditional tracking praises User A. Long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}) may favour User B.
 
 The second user has learned a more transferable skill: how to resume action after disruption.
 
@@ -422,7 +422,7 @@ The critical warning appears after repeated absence rather than after a single i
 That design communicates a more accurate message: one interruption is normal; a growing pattern deserves attention.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cCWYiCMEQDk" title="The Psychology Behind Duolingo&#x27;s Streak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cCWYiCMEQDk" target="_blank" rel="noopener noreferrer">The Psychology Behind Duolingo&#x27;s Streak</a></p><p class="youtube-embed-meta">Channel: Tarek Reslan &middot; Views: 4.4K &middot; Uploaded: February 2024 &middot; Length: 3 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cCWYiCMEQDk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cCWYiCMEQDk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qvnOcNbXoN0" title="The 5/7 Rule: How to Build Habits Easier" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qvnOcNbXoN0" target="_blank" rel="noopener noreferrer">The 5/7 Rule: How to Build Habits Easier</a></p><p class="youtube-embed-meta">Channel: Demetri Panici &middot; Views: 846 &middot; Uploaded: July 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qvnOcNbXoN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qvnOcNbXoN0">Open on YouTube</a></p></div></div></div>
 
 ## Better Tracking Means Better Restarting
 
@@ -606,119 +606,119 @@ For people navigating relapse and missed days, the most valuable tracking questi
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3715 — To investigate the proc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ehm-tech.com  
-   Link: [https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/](https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/)  
+   Link: <a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EHM TechHabit Streaks: Why They Work and When They BackfireMarch 10, 2026 — 10 Mar 2026 — Apply the Two-Day Rule: never miss two days in...</p></details>
    Published: March 10, 2026  
 
 3. <a id="endnote-3"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: productivity-hub.app  
-   Link: [https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily](https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily)  
+   Link: <a href="https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily" target="_blank" rel="noopener noreferrer nofollow">https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make New Habits Stick Easily and Consistently?4 days ago — Instead of abandoning a habit entirely after a missed day, employ the &#x27;...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: professorgame.com  
-   Link: [https://www.professorgame.com/podcast/423/](https://www.professorgame.com/podcast/423/)  
+   Link: <a href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow">https://www.professorgame.com/podcast/423/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor GameWhy streaks backfire and what works | Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</p></details>
    Published: December 15, 2025  
 
 7. <a id="endnote-7"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>You set the bar low (just two pushups, just one breath) and you keep it low. Even...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thebehavioralscientist.com  
    Title: The Behavioral Scientist How Long Does It Take to Form a Habit?  
-   Link: [https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit](https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit)  
+   Link: <a href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Lally et al...by J Hreha — It showed that missing a single day doesn&#x27;t derail habit formation. A missed opportunity reduced automat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: surrey.ac.uk  
    Title: does it really take [66 days](&#123;&#123; '66-days/' | relative_url &#125;&#125;) form habit we asked expert dr pippa lally  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Research emphasises the im...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: goalsandprogress.com  
    Title: two day rule habit recovery  
-   Link: [https://goalsandprogress.com/two-day-rule-habit-recovery/](https://goalsandprogress.com/two-day-rule-habit-recovery/)  
+   Link: <a href="https://goalsandprogress.com/two-day-rule-habit-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/two-day-rule-habit-recovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goals and ProgressThe Two-day Rule: Recover From a Missed Habit (2026)4 days ago — The Two-day rule for habit recovery: one missed day is...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: goalsandprogress.com  
-   Link: [https://goalsandprogress.com/atomic-habits-vs-tiny-habits/](https://goalsandprogress.com/atomic-habits-vs-tiny-habits/)  
+   Link: <a href="https://goalsandprogress.com/atomic-habits-vs-tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/atomic-habits-vs-tiny-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Use our Fit-First Filter to match Clear&#x27;s systems or Fogg&#x27;s micro-behaviors to where you are stuck...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: epyst.com  
-   Link: [https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802](https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802)  
+   Link: <a href="https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802" target="_blank" rel="noopener noreferrer nofollow">https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2-Day Rule: Why Missing Twice Kills HabitsNever miss twice. The behavioral science behind why two consecutive misses collapse a habit...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/book/](https://tinyhabits.com/book/)  
+   Link: <a href="https://tinyhabits.com/book/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Book | BJ FoggFogg has coined “Behavior Design”—cracks the code of habit formation. The content in this book is practical, im...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83](https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83)  
+   Link: <a href="https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingFogg outlines the ABCs of habit formation: Anchor (establishing a trigger), Behavior...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf](https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 32898894 How are habits formed Modeling habit formation in the real world  
-   Link: [https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world](https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFAccording to the literature, it takes an average of 66 days, with a range of 18 t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp](https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: Why [Starting Small](&amp;#123;&amp;#123; &#x27;small-starts/&#x27; | relative_url &amp;#125;&amp;#125;) Makes Lasting Change EasyBJ Fogg is the founder and director of the Behaviour Design Lab at Stanford...</p></details>
+   Link: <a href="https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: Why Starting Small Makes Lasting Change EasyBJ Fogg is the founder and director of the Behaviour Design Lab at Stanford...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: madinamerica.com  
-   Link: [https://www.madinamerica.com/2026/03/the-compliance-machine-how-adhd-habit-tracking-apps-enforce-the-disease-model/](https://www.madinamerica.com/2026/03/the-compliance-machine-how-adhd-habit-tracking-apps-enforce-the-disease-model/)  
+   Link: <a href="https://www.madinamerica.com/2026/03/the-compliance-machine-how-adhd-habit-tracking-apps-enforce-the-disease-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.madinamerica.com/2026/03/the-compliance-machine-how-adhd-habit-tracking-apps-enforce-the-disease-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How ADHD Habit-Tracking Apps Enforce the Disease Model17 Mar 2026 — Users are rewarded with ”streaks,” miss one day and the streak collap...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: coachpedropinto.com  
    Title: habit formation science backed strategies for leaders  
-   Link: [https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/](https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/)  
+   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Effective recovery strategies include: The “never miss twice” rule...</p></details>

@@ -272,7 +272,7 @@ The idea that “it takes [66 days]({{ '66-days/' | relative_url }}) to form a h
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_sixty_six_day_habit_93d33d-Illustration-1-dark.svg" | relative_url }}" alt="66 Day Myth illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_sixty_six_day_habit_93d33d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_sixty_six_day_habit_93d33d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The underlying research says something quite different. The famous number came from a study of [habit automaticity]({{ 'automaticity/' | relative_url }}) that found substantial variation between people and behaviours. More importantly, the researchers observed that habits tend to strengthen gradually along a curve rather than switching on at a fixed point. For anyone interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the practical lesson is not to chase a specific day count but to focus on repeatedly performing the same behaviour in response to the same cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3613 — The median time to reac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found that automa...</span></span></span>
+The underlying research says something quite different. The famous number came from a study of habit [automaticity]({{ 'automaticity/' | relative_url }}) that found substantial variation between people and behaviours. More importantly, the researchers observed that habits tend to strengthen gradually along a curve rather than switching on at a fixed point. For anyone interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the practical lesson is not to chase a specific day count but to focus on repeatedly performing the same behaviour in response to the same cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3613 — The median time to reac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found that automa...</span></span></span>
 
 ## Does It Really Take 66 Days?
 
@@ -280,7 +280,7 @@ The answer is no—not in the way the claim is usually presented.
 
 The number comes from a study led by health psychologist Phillippa Lally. Participants selected a simple daily behaviour, such as eating fruit with lunch or going for a walk, and repeated it in a consistent context over a 12-week period. Researchers tracked how automatic the behaviour felt over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3613 — The median time to reac...</span></span></span>
 
-A crucial detail is often lost when the finding is summarised online. The study did not discover a universal habit-formation deadline. Instead, it found that the median time required to reach near-maximum [automaticity]({{ 'automaticity/' | relative_url }}) was 66 days, with individual estimates ranging from 18 to 254 days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3613 — The median time to reac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.vn">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.vn</span><span class="citation-popover-snippet">54 days. There was substantial variation in curve parameters across...</span></span></span>
+A crucial detail is often lost when the finding is summarised online. The study did not discover a universal habit-formation deadline. Instead, it found that the median time required to reach near-maximum automaticity was 66 days, with individual estimates ranging from 18 to 254 days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3613 — The median time to reac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.vn">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.vn</span><span class="citation-popover-snippet">54 days. There was substantial variation in curve parameters across...</span></span></span>
 
 That range matters far more than the headline number.
 
@@ -345,10 +345,10 @@ The strongest lesson from the research is not “wait 66 days.” It is “keep 
 
 [Stable cues]({{ 'stable-cues/' | relative_url }}) help the brain learn what action follows a particular situation. Repetition strengthens that association. Automaticity then grows gradually, often unevenly, over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3613 — The median time to reac...</span></span></span>
 
-For self improvement that works, success is better measured by the reliability of the cue-response pattern than by the number of days on a calendar. The famous 66-day figure is best understood as a statistical summary from one study, not a deadline. What predicts lasting habits is not reaching day 66—it is continuing to perform the behaviour when the cue appears, long enough for the behaviour to become the normal response. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surrey.ac.uk">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surrey.ac.uk</span><span class="citation-popover-snippet">University of SurreyDoes it really take 66 days to form a habit?Jan 21, 2026 — The average time it took for the participants in my study...</span></span></span>
+For [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) that works, success is better measured by the reliability of the cue-response pattern than by the number of days on a calendar. The famous 66-day figure is best understood as a statistical summary from one study, not a deadline. What predicts lasting habits is not reaching day 66—it is continuing to perform the behaviour when the cue appears, long enough for the behaviour to become the normal response. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surrey.ac.uk">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surrey.ac.uk</span><span class="citation-popover-snippet">University of SurreyDoes it really take 66 days to form a habit?Jan 21, 2026 — The average time it took for the participants in my study...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8GBQwnoSPKs" title="415 | 21 Days to Form a Habit or is it 66 days with James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8GBQwnoSPKs" target="_blank" rel="noopener noreferrer">415 | 21 Days to Form a Habit or is it 66 days with James Clear</a></p><p class="youtube-embed-meta">Channel: Gene Hammett &middot; Views: 819 &middot; Uploaded: April 2019 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8GBQwnoSPKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8GBQwnoSPKs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wdHZMysC6Ac" title="The 21 Day Habit Myth EXPOSED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wdHZMysC6Ac" target="_blank" rel="noopener noreferrer">The 21 Day Habit Myth EXPOSED</a></p><p class="youtube-embed-meta">Channel: Capt. Preetham Madhukar &middot; Views: 66 &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wdHZMysC6Ac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wdHZMysC6Ac">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -772,118 +772,118 @@ For self improvement that works, success is better measured by the reliability o
 
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3613 — The median time to reac...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found that automa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&d2101103_page=2&ref_=b2b_cm_3p_cs_t_ww](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&d2101103_page=2&ref_=b2b_cm_3p_cs_t_ww)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...16 Jul 2009 — The present study therefore addressed the fo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: studocu.vn  
-   Link: [https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686](https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686)  
+   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>54 days. There was substantial variation in curve parameters across...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: repositorio.ispa.pt  
-   Link: [https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688](https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688)  
+   Link: <a href="https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688" target="_blank" rel="noopener noreferrer nofollow">https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688</a>  
 
 6. <a id="endnote-6"></a>
    Source: studocu.vn  
    Title: Modelling Habit Formation: Insights from Eur  
-   Link: [https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239](https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239)  
+   Link: <a href="https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The time it took participants to reach 95% of their asymptote of automaticity ranged from 18 to 254 days; indicating considera...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>median time to reach 95% automaticity was 66 days (range: 18 to 254 days). Lally et al.&#x27;s earlier [37] study focused on healthy eating an...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: surrey.ac.uk  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyDoes it really take 66 days to form a habit?Jan 21, 2026 — The average time it took for the participants in my study...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/lally](https://www.vocabulary.com/dictionary/lally)  
+   Link: <a href="https://www.vocabulary.com/dictionary/lally" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/lally</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, [Meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Synonymssupport column consisting of a steel cylinder filled with concrete. synonyms: lally column. see moresee les...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: music.apple.com  
-   Link: [https://music.apple.com/kr/artist/lally/205825655](https://music.apple.com/kr/artist/lally/205825655)  
+   Link: <a href="https://music.apple.com/kr/artist/lally/205825655" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/kr/artist/lally/205825655</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Music에서 Lally의 음악을 감상하세요. Glass in hand (feat. Lally), Mirror (feat. Lally) 등 Lally의 인기곡 및 앨범을 찾아보세요...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lally](https://en.wikipedia.org/wiki/Lally)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lally" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LallyPeople with the given name · Lally Bowers, British actress · Lally Cadeau, Canadian actress · Lally Horstmann, German writer · La...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/modelling](https://dictionary.cambridge.org/dictionary/english/modelling)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarythe activity of using mathematical models (= simple descriptions of a system or process) to make...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/modelling" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/modelling</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe activity of using mathematical models (= simple descriptions of a system or process) to make...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/lally](https://en.wiktionary.org/wiki/lally)  
+   Link: <a href="https://en.wiktionary.org/wiki/lally" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(plural lallies). (Polari, usually in the plural) Leg. 1967, Kenneth Horne, Bona Bijou Tourettes (Round the Horne), season 3, episode 12...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: models1.co.uk  
-   Link: [https://www.models1.co.uk/apply](https://www.models1.co.uk/apply)  
+   Link: <a href="https://www.models1.co.uk/apply" target="_blank" rel="noopener noreferrer nofollow">https://www.models1.co.uk/apply</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>APPLYModels1 stands as the ultimate platform for aspiring models in London and beyond, supporting the talent behind today&#x27;s most iconic c...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: modelsdirect.com  
-   Link: [https://www.modelsdirect.com/become-a-model](https://www.modelsdirect.com/become-a-model)  
+   Link: <a href="https://www.modelsdirect.com/become-a-model" target="_blank" rel="noopener noreferrer nofollow">https://www.modelsdirect.com/become-a-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Become a modelModels Direct is a trusted modelling agency connecting real people with exciting opportunities in fashion, TV, film, promot...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalcareers.service.gov.uk  
-   Link: [https://nationalcareers.service.gov.uk/job-profiles/fashion-model](https://nationalcareers.service.gov.uk/job-profiles/fashion-model)  
+   Link: <a href="https://nationalcareers.service.gov.uk/job-profiles/fashion-model" target="_blank" rel="noopener noreferrer nofollow">https://nationalcareers.service.gov.uk/job-profiles/fashion-model</a>  
 
 17. <a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/Lally](https://www.merriam-webster.com/dictionary/Lally)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/Lally" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/Lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LALLY Definition &amp; Meaningnoun Lal· ly ˈlä-lē civil engineering: a concrete-filled cylindrical steel structural column formerly a US reg...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: blog.theteamw.com  
-   Link: [https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/](https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/)  
+   Link: <a href="https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/" target="_blank" rel="noopener noreferrer nofollow">https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time To Form A Habit Is 66 Days – The Team W, Inc.18 Mar 2011 — For some people and some behaviors it took 18 days, but depending on the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 32898894 How are habits formed Modeling habit formation in the real world  
-   Link: [https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world](https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFAccording to the literature, it takes an average of 66 days, with a range of 18 t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: bmamodels.com  
-   Link: [https://bmamodels.com/](https://bmamodels.com/)  
+   Link: <a href="https://bmamodels.com/" target="_blank" rel="noopener noreferrer nofollow">https://bmamodels.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>our goal is to be seen as the modelling agency by which all others are measured.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: basemodels.co.uk  
-   Link: [https://www.basemodels.co.uk/](https://www.basemodels.co.uk/)  
+   Link: <a href="https://www.basemodels.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.basemodels.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We are London based and represent a variety of Models, Artist&#x27;s &amp; Content...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: keelify.com  
    Title: The 66-day habit rule explained — what Lally's data  
-   Link: [https://keelify.com/blog/66-day-habit-rule-explained](https://keelify.com/blog/66-day-habit-rule-explained)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KeelifyApr 26, 2026 — It&#x27;s the median. In Lally&#x27;s 2010 study, half of behaviors reached automaticity in fewer than 66 days; the other hal...</p></details>
+   Link: <a href="https://keelify.com/blog/66-day-habit-rule-explained" target="_blank" rel="noopener noreferrer nofollow">https://keelify.com/blog/66-day-habit-rule-explained</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 26, 2026 — It&#x27;s the median. In Lally&#x27;s 2010 study, half of behaviors reached automaticity in fewer than 66 days; the other hal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scienceofselfhelp.org  
-   Link: [https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a](https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a)  
+   Link: <a href="https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a" target="_blank" rel="noopener noreferrer nofollow">https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit26 Jul 2013 — The study suggests that some tasks take less time and some tasks more time before they are considered a habit, but the...</p></details>

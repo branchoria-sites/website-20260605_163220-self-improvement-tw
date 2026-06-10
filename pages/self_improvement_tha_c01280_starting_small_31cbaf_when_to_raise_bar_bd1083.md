@@ -278,7 +278,7 @@ A small habit is ready to grow when it remains reliable under ordinary pressure,
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-1-dark.svg" | relative_url }}" alt="Raise Bar illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the context of [starting small]({{ 'small-starts/' | relative_url }}) without staying small, the goal is not to protect a habit forever. It is to build a version that survives real life and then expand it at the right moment. Research on habit formation suggests that repetition in a stable context gradually increases [automaticity]({{ 'automaticity/' | relative_url }}), but the process varies widely between people and behaviours. What matters is not reaching a particular number of days but developing a behaviour that continues to occur with decreasing reliance on motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</span></span></span>
+In the context of starting small without staying small, the goal is not to protect a habit forever. It is to build a version that survives real life and then expand it at the right moment. Research on habit formation suggests that repetition in a stable context gradually increases [automaticity]({{ 'automaticity/' | relative_url }}), but the process varies widely between people and behaviours. What matters is not reaching a particular number of days but developing a behaviour that continues to occur with decreasing reliance on [motivation]({{ 'motivation/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</span></span></span>
 
 ## How to Tell Whether a Habit Is Stable Enough
 
@@ -312,9 +312,9 @@ People often use the wrong signal when deciding whether to increase a habit. The
 
 Ease can be misleading.
 
-A new runner may feel energetic after several successful sessions and immediately double training volume. A writer may experience a productive week and suddenly raise a daily target from 100 words to 1,000. In both cases, the feeling of readiness may reflect temporary [motivation]({{ 'motivation/' | relative_url }}) rather than genuine habit strength.
+A new runner may feel energetic after several successful sessions and immediately double training volume. A writer may experience a productive week and suddenly raise a daily target from 100 words to 1,000. In both cases, the feeling of readiness may reflect temporary motivation rather than genuine habit strength.
 
-Research on habit formation consistently points to repetition in stable contexts as the key driver of automaticity. The behaviour becomes easier because it has been repeated, not because motivation permanently increased. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found t...</span></span></span>
+Research on habit formation consistently points to repetition in stable contexts as the key driver of automaticity. The behaviour becomes easier because it has been repeated, not because motivation permanently increased. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found t...</span></span></span>
 
 This is why repetition is generally better evidence than emotion. Motivation fluctuates from day to day. Behaviour repeated across different conditions provides a more reliable signal that the underlying routine is becoming established.
 
@@ -410,7 +410,7 @@ The purpose of starting small is to create a behaviour that can survive real lif
 
 The right moment to grow a habit arrives when repetition has become dependable enough that the current version feels normal even during ordinary disruptions. Stability across difficult days is stronger evidence than enthusiasm, confidence, or a temporary burst of motivation. Once that evidence exists, a modest increase keeps progress moving without sacrificing consistency.
 
-A habit that grows at the pace of proven stability is usually slower than people expect, but it is also far more likely to last. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</span></span></span>
+A habit that grows at the pace of proven stability is usually slower than people expect, but it is also far more likely to last. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -498,7 +498,7 @@ A habit that grows at the pace of proven stability is usually slower than people
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -507,78 +507,94 @@ A habit that grows at the pace of proven stability is usually slower than people
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dry Erase Vision Dream Board Framed Wall Planner 17.5x21 Goal Tracker"><img src="{{ '/assets/images/marketplace-covers/5e7bd57ad5f3bb0f672a.jpg' | relative_url }}" alt="Listing image for Dry Erase Vision Dream Board Framed Wall Planner 17.5x21 Goal Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker: Undated Calendar the Motivational Journal Features Space for 20 D"><img src="https://i.ebayimg.com/images/g/FIAAAOSw9uVnXgo6/s-l225.jpg" alt="Listing image for Habit Tracker: Undated Calendar the Motivational Journal Features Space for 20 D" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dry Erase Vision Dream Board Framed Wall Planner 17.5x21 Goal Tracker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker: Undated Calendar the Motivational Journal Features Space for 20 D</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.com</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AT A GLANCE Harmony Denim Planner 2025 2026 Goal Tracker Vision Board Organizer"><img src="{{ '/assets/images/marketplace-covers/c059d95b4aaa669595a7.jpg' | relative_url }}" alt="Listing image for AT A GLANCE Harmony Denim Planner 2025 2026 Goal Tracker Vision Board Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Savvy Bee Habit Tracker Calendar: 24-Month Goal Planner with 120GSM Paper"><img src="https://i.ebayimg.com/images/g/kzUAAeSwHzxo3D0L/s-l225.jpg" alt="Listing image for Savvy Bee Habit Tracker Calendar: 24-Month Goal Planner with 120GSM Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AT A GLANCE Harmony Denim Planner 2025 2026 Goal Tracker Vision Board Organizer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Savvy Bee Habit Tracker Calendar: 24-Month Goal Planner with 120GSM Paper</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.com</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 Pcs Goal Chart Fundraising Thermometer Goal Setter Board Goal Tracker Giant Go"><img src="{{ '/assets/images/marketplace-covers/7edc27b69283ca0466c7.jpg' | relative_url }}" alt="Listing image for 5 Pcs Goal Chart Fundraising Thermometer Goal Setter Board Goal Tracker Giant Go" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clever Fox Habit Calendar Circle – 2-Year Inspirational Habit Tracker for Ato..."><img src="https://i.ebayimg.com/images/g/SbYAAeSwPSxpzAz8/s-l225.jpg" alt="Listing image for Clever Fox Habit Calendar Circle – 2-Year Inspirational Habit Tracker for Ato..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">5 Pcs Goal Chart Fundraising Thermometer Goal Setter Board Goal Tracker Giant Go</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Clever Fox Habit Calendar Circle – 2-Year Inspirational Habit Tracker for Ato...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.com</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hunger For Words Talking Pet Goal Tracker Magnetic Chart Board 129 Pieces"><img src="{{ '/assets/images/marketplace-covers/08d730182fdf0b838c6f.jpg' | relative_url }}" alt="Listing image for Hunger For Words Talking Pet Goal Tracker Magnetic Chart Board 129 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 Sheets Habit Tracker Calendar Daily Work Planner Date"><img src="https://i.ebayimg.com/images/g/GDsAAeSwA71pEX4E/s-l225.jpg" alt="Listing image for 20 Sheets Habit Tracker Calendar Daily Work Planner Date" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hunger For Words Talking Pet Goal Tracker Magnetic Chart Board 129 Pieces</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">20 Sheets Habit Tracker Calendar Daily Work Planner Date</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.com</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raise-bar-when-is-a-habit-ready-to-grow-self-improvement-that-works-goal-tracker-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -654,17 +670,31 @@ A habit that grows at the pace of proven stability is usually slower than people
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -677,42 +707,73 @@ A habit that grows at the pace of proven stability is usually slower than people
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -727,70 +788,74 @@ A habit that grows at the pace of proven stability is usually slower than people
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — More relevant research found t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: repositorio.ispa.pt  
    Title: IJSP 998 1009  
-   Link: [https://repositorio.ispa.pt/bitstream/10400.12/3364/1/IJSP_998-1009.pdf](https://repositorio.ispa.pt/bitstream/10400.12/3364/1/IJSP_998-1009.pdf)  
+   Link: <a href="https://repositorio.ispa.pt/bitstream/10400.12/3364/1/IJSP_998-1009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repositorio.ispa.pt/bitstream/10400.12/3364/1/IJSP_998-1009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repositório ISPAModelling habit formation in the real worldby HWW POTTS · 2010 · Cited by 3693 — The aim of the present study was to inve...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When encountered, cues activate a single, specific well-learned behavioral response...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world](https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2010) demonstrated that new behavioural patterns require between 18 and 254 days to reach automaticity, with a median of approximately 6...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332776492_Using_Reinforced_Implementation_Intentions_to_Support_Habit_Formation](https://www.researchgate.net/publication/332776492_Using_Reinforced_Implementation_Intentions_to_Support_Habit_Formation)  
+   Link: <a href="https://www.researchgate.net/publication/332776492_Using_Reinforced_Implementation_Intentions_to_Support_Habit_Formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332776492_Using_Reinforced_Implementation_Intentions_to_Support_Habit_Formation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>level of compliance but it is not necessarily the same in terms of automaticity.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: We then  
-   Link: [https://www.researchgate.net/publication/366560197_Self-Regulatory_Strategy_Use_Efficacy_and_Strategy-Situation-Fit_in_Self-Control_Conflicts_of_Initiation_Persistence_and_Inhibition](https://www.researchgate.net/publication/366560197_Self-Regulatory_Strategy_Use_Efficacy_and_Strategy-Situation-Fit_in_Self-Control_Conflicts_of_Initiation_Persistence_and_Inhibition)  
+   Link: <a href="https://www.researchgate.net/publication/366560197_Self-Regulatory_Strategy_Use_Efficacy_and_Strategy-Situation-Fit_in_Self-Control_Conflicts_of_Initiation_Persistence_and_Inhibition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366560197_Self-Regulatory_Strategy_Use_Efficacy_and_Strategy-Situation-Fit_in_Self-Control_Conflicts_of_Initiation_Persistence_and_Inhibition</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Regulatory Strategy Use, Efficacy, and...11 Jan 2023 — A pilot study identified 22 different self-regulatory strategies that...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>39 - Planning and Implementation Intention InterventionsSeveral reviews and meta-analyses have explored the effectiveness of implementati...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12795](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12795)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12795" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjhp.12795</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with imagery increases...by A Divine · 2025 · Cited by 7 — Thus, reinforcing implementation intentions with me...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cmu.edu  
    Title: Carnegie Mellon University Adaptive Self-Regulation of Unattainable Goals  
-   Link: [https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf](https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf)  
+   Link: <a href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable GoalsDecember 1, 2003 — by C Wrosch · 2003 · Cited by 1570 — The overa...</p></details>
    Published: December 1, 2003  
 
@@ -798,55 +863,55 @@ A habit that grows at the pace of proven stability is usually slower than people
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/future-of-education-and-skills/learning-compass-constructs/Self-Regulation.pdf](https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/future-of-education-and-skills/learning-compass-constructs/Self-Regulation.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/future-of-education-and-skills/learning-compass-constructs/Self-Regulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/future-of-education-and-skills/learning-compass-constructs/Self-Regulation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation/ self-controlSelf-regulation is a broad term, often defined as the “internally-directed capacity to regulate affect, atte...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: blog.theteamw.com  
-   Link: [https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/](https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/)  
+   Link: <a href="https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/" target="_blank" rel="noopener noreferrer nofollow">https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time To Form A Habit Is [66 Days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;) – The Team W, Inc.18 Mar 2011 — The average amount of time it took for people to form a habit was 66 days...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Title: Implementation intentions are simple and quick techniques  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Title: Implementation intentions are simple and quick [techniques](&#123;&#123; 'techniques/' | relative_url &#125;&#125;)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — RFCBT (Watkins, 2018) incorporates implementation...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: surrey.ac.uk  
    Title: does it really take 66 days form habit we asked expert dr pippa lally  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?21 Jan 2026 — Dr Pippa Lally, expert in health psychology at the University of Surrey, tells...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: workmate.com  
    Title: implementation intentions vs habit stacking for professionals  
-   Link: [https://www.workmate.com/blog/implementation-intentions-vs-habit-stacking-for-professionals](https://www.workmate.com/blog/implementation-intentions-vs-habit-stacking-for-professionals)  
+   Link: <a href="https://www.workmate.com/blog/implementation-intentions-vs-habit-stacking-for-professionals" target="_blank" rel="noopener noreferrer nofollow">https://www.workmate.com/blog/implementation-intentions-vs-habit-stacking-for-professionals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 3, 2025 — Implementation intentions provide precise if-then plans that reliably improve follow-through for high-impulsivity professio...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/papers/using-reinforced-implementation-intentions-to-[support](https://scispace.com/papers/using-reinforced-implementation-intentions-to-[support)  
+   Link: <a href="https://scispace.com/papers/using-reinforced-implementation-intentions-to-[support" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/using-reinforced-implementation-intentions-to-[support</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>level of compliance but it is not necessarily the same in terms of automaticity.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: individualandsociety.org  
-   Link: [https://individualandsociety.org/journal/2022/2/self-regulation-as-a-link-between-goal-attainment-and-decision-making](https://individualandsociety.org/journal/2022/2/self-regulation-as-a-link-between-goal-attainment-and-decision-making)  
+   Link: <a href="https://individualandsociety.org/journal/2022/2/self-regulation-as-a-link-between-goal-attainment-and-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://individualandsociety.org/journal/2022/2/self-regulation-as-a-link-between-goal-attainment-and-decision-making</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>elf-regulation as a not entirely researched link between decision-making and goal...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: keelify.com  
    Title: The 66-day habit rule explained — what Lally's data  
-   Link: [https://keelify.com/blog/66-day-habit-rule-explained](https://keelify.com/blog/66-day-habit-rule-explained)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keelify26 Apr 2026 — 66 days is the median time for a behavior to become automatic — not 21 days. The &quot;21 days&quot; claim is a 1960 plastic-s...</p></details>
+   Link: <a href="https://keelify.com/blog/66-day-habit-rule-explained" target="_blank" rel="noopener noreferrer nofollow">https://keelify.com/blog/66-day-habit-rule-explained</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Apr 2026 — 66 days is the median time for a behavior to become automatic — not 21 days. The &quot;21 days&quot; claim is a 1960 plastic-s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scienceofselfhelp.org  
-   Link: [https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a](https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a)  
+   Link: <a href="https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a" target="_blank" rel="noopener noreferrer nofollow">https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit26 Jul 2013 — The study suggests that some tasks take less time and some tasks more time before they are considered a habit, but the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online How does habit form?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277](https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 113 — This paper proposes methodological criteria for studies tracki...</p></details>

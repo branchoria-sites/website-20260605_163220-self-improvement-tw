@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:19:44'
 parent_title: The Weekly Review That Fixes the Plan | Better Change
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
@@ -265,7 +266,6 @@ next_link:
   permalink: /friction-audit/
   short_title: Friction Audit
   heading_title: The Hidden Steps Breaking Your Habit
-date: '2026-06-05 15:19:44 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-1.webp
@@ -441,7 +441,7 @@ Another safeguard is to review how often fallback mode appears. If the minimum v
 
 The purpose of a fallback habit is resilience, not avoidance.
 
-Implementation-intention research highlights the value of planning responses to obstacles before they occur. The plan should anticipate disruption while still protecting the original goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectLeveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 45 — Both chunking and habit stacking le...</span></span></span>
+Implementation-intention research highlights the value of planning responses to obstacles before they occur. The plan should anticipate disruption while still protecting the original goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 45 — Both chunking and habit stacking le...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DSnxsTRFeYA" title="2 MINUTE MIRACLE - Atomic Habits: The 2-Minute Rule" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DSnxsTRFeYA" target="_blank" rel="noopener noreferrer">2 MINUTE MIRACLE - Atomic Habits: The 2-Minute Rule</a></p><p class="youtube-embed-meta">Channel: Simple Success Labs &middot; Views: 26 &middot; Uploaded: July 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DSnxsTRFeYA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DSnxsTRFeYA">Open on YouTube</a></p></div></div></div>
@@ -456,7 +456,7 @@ A more useful question is:
 
 > "What version of this habit can survive my worst reasonable week?"
 
-That question forces the review process to engage with reality rather than fantasy. It acknowledges that behaviour change succeeds not because life becomes predictable, but because the system remains functional when life becomes unpredictable.
+That question forces the review process to engage with reality rather than fantasy. It acknowledges that [behaviour change]({{ 'behaviour-change/' | relative_url }}) succeeds not because life becomes predictable, but because the system remains functional when life becomes unpredictable.
 
 The most durable habits are often not the most ambitious. They are the ones with a credible backup plan. When a difficult week arrives, the minimum viable version keeps the chain intact, preserves momentum, and makes recovery far easier than starting again from zero.
 
@@ -790,152 +790,152 @@ The most durable habits are often not the most ambitious. They are the ones with
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X](https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are plans that s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661324002663](https://www.sciencedirect.com/science/article/pii/S1364661324002663)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectLeveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 45 — Both chunking and habit stacking le...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661324002663</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 45 — Both chunking and habit stacking le...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: 2 MINUTE MIRACLE  
-   Link: [http://www.youtube.com/watch?v=DSnxsTRFeYA](http://www.youtube.com/watch?v=DSnxsTRFeYA)  
+   Link: <a href="http://www.youtube.com/watch?v=DSnxsTRFeYA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DSnxsTRFeYA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny habits consistency fallback version routine ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear After Skool...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maria ShriverStanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/start-tiny/](https://tinyhabits.com/start-tiny/)  
+   Link: <a href="https://tinyhabits.com/start-tiny/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/start-tiny/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Start TinyJust like with plants: You start small. It takes root. And then it can grow. Simplicity changes behavior. The most important th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing results. It&#x27;s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This myth appears to have originated from anecdotal evidence of patients who had received plastic...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: squarehealth.com  
    Title: Square Health Habit Stacking  
-   Link: [https://www.squarehealth.com/innovation-lab/habit-stacking-the-easy-way-to-create-great-habits](https://www.squarehealth.com/innovation-lab/habit-stacking-the-easy-way-to-create-great-habits)  
+   Link: <a href="https://www.squarehealth.com/innovation-lab/habit-stacking-the-easy-way-to-create-great-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.squarehealth.com/innovation-lab/habit-stacking-the-easy-way-to-create-great-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Stacking - the easy way to create great habitsTry habit stacking to replace some of your &#x27;bad habits&#x27; with &#x27;great habits&#x27; and impro...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — While habits can start for...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=S_8e-6ZHKLs](https://www.youtube.com/watch?v=S_8e-6ZHKLs)  
+   Link: <a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_8e-6ZHKLs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TINY HABITS by BJ Fogg | Core MessageForget big change, start with a tiny habit: BJ Fogg at TEDxFremont. TEDx Talks &amp;middot; 2.3M views...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/book/](https://tinyhabits.com/book/)  
+   Link: <a href="https://tinyhabits.com/book/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Book | BJ FoggFogg has coined “Behavior Design”—cracks the code of habit formation. The content in this book is practical, im...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/book/show/43261127-tiny-habits](https://www.goodreads.com/book/show/43261127-tiny-habits)  
+   Link: <a href="https://www.goodreads.com/book/show/43261127-tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/43261127-tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingBJ Fogg PhD is the leading expert in behavior change and habit formation. He has coa...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: drpaulmccarthy.com  
    Title: Specific and clearly defined.Read more  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...10 Feb 2026 — BJ Fogg&#x27;s tiny habits approach suggests picking behaviors that a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bodybrainalliance.com  
    Title: tiny habits a behavior change experts perspective  
-   Link: [https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/](https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/)  
+   Link: <a href="https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: A Behavior Change Expert&#x27;s Perspective29 May 2023 — Are Tiny Habits actually helping you reach your goals? Read to find out...</p></details>
    Published: May 2023  
 
 17. <a id="endnote-17"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83](https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83)  
+   Link: <a href="https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingFogg outlines the ABCs of habit formation: Anchor (establishing a trigger), Behavior...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation Intentions are proven strategies helping you achi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp](https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: Why [Starting Small](&amp;#123;&amp;#123; &#x27;small-starts/&#x27; | relative_url &amp;#125;&amp;#125;) Makes Lasting Change EasyBJ Fogg is the founder and director of the Behaviour Design Lab at Stanford...</p></details>
+   Link: <a href="https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: Why Starting Small Makes Lasting Change EasyBJ Fogg is the founder and director of the Behaviour Design Lab at Stanford...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf](https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with imagery...by A Divine · 2025 · Cited by 7 — Evidence suggests that general action planning and implementa...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: therapyroute.com  
-   Link: [https://www.therapyroute.com/article/habit-formation-by-therapyroute](https://www.therapyroute.com/article/habit-formation-by-therapyroute)  
+   Link: <a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit FormationHabit formation is the process by which behaviours become automatic through repetition and practice. It&#x27;s how your brain c...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: brain.health  
-   Link: [https://brain.health/tiny-habits/](https://brain.health/tiny-habits/)  
+   Link: <a href="https://brain.health/tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://brain.health/tiny-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NetworkTiny Habits® by BJ FoggWith the Tiny Habits method, you focus on small actions that you can do in less than thirty seconds. When s...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: realsimple.com  
-   Link: [https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking](https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking)  
+   Link: <a href="https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This technique capitalizes on the brain&#x27;s established neural pathways, making new habits easier to adopt by tying them to familiar routin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward](https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward)  
+   Link: <a href="https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260486103_Implementation_Intention_and_Action_Planning_Interventions_in_Health_Contexts_State_of_the_Research_and_Proposals_for_the_Way_Forward</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intention and Action Planning Interventions...We focused our review on four key areas: (1) definition and conceptualisati...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Goal AchievementFindings from 94 independent tests showed that implementation intentions had a positi...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theonlinegp.com  
-   Link: [https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick](https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick)  
+   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...12 Aug 2025 — Implementation intentions specify exactly when and where new behaviou...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z](https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z)  
+   Link: <a href="https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z</a>  

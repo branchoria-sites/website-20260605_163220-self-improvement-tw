@@ -285,9 +285,9 @@ Simple habits usually reach this stage sooner because they place fewer demands o
 
 The first requires almost no planning, equipment, scheduling or [motivation]({{ 'motivation/' | relative_url }}). The second depends on sleep, time availability, physical energy, suitable clothing, weather conditions in some cases, and the ability to overcome discomfort.
 
-Every additional requirement creates another point where the routine can fail. When a behaviour fails to occur, the cue-action connection is not reinforced. Fewer successful repetitions generally mean slower growth in automaticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3493 — To investigate the proc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCHabits, Quick and Easy: Perceived Complexity Moderates the...by K McCloskey · 2019 · Cited by 65 — The present study examines how eac...</span></span></span>
+Every additional requirement creates another point where the routine can fail. When a behaviour fails to occur, the cue-action connection is not reinforced. Fewer successful repetitions generally mean slower growth in automaticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3493 — To investigate the proc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habits, Quick and Easy: Perceived Complexity Moderates the...by K McCloskey · 2019 · Cited by 65 — The present study examines how eac...</span></span></span>
 
-Research examining behavioural complexity has found that perceived complexity influences how easily automaticity develops. More [complex behaviours]({{ 'complex-goals/' | relative_url }}) often depend more heavily on supportive conditions and stable environments than simpler actions do. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Stability in Habit Building Increases Automaticity and...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the effect...</span></span></span>
+Research examining behavioural complexity has found that perceived complexity influences how easily automaticity develops. More complex behaviours often depend more heavily on supportive conditions and stable environments than simpler actions do. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Stability in Habit Building Increases Automaticity and...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the effect...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/krm3Mv77Olw" title="How to Pronounce Philippa? (CORRECTLY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=krm3Mv77Olw" target="_blank" rel="noopener noreferrer">How to Pronounce Philippa? (CORRECTLY)</a></p><p class="youtube-embed-meta">Channel: Julien Miquel &middot; Views: 24.1K &middot; Uploaded: May 2021 &middot; Length: 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=krm3Mv77Olw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=krm3Mv77Olw">Open on YouTube</a></p></div></div></div>
@@ -325,15 +325,20 @@ Simple habits are often easier to attach to a stable cue.
 
 A person can decide:
 
-* After I pour my [morning coffee]({{ 'coffee-cue/' | relative_url }}), I will drink a glass of water.
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* After I pour my morning coffee, I will drink a glass of water.
 * After I sit at my desk, I will write one sentence.
 * After I brush my teeth, I will floss one tooth.
+
+</div>
 
 The cue is clear, frequent and predictable.
 
 More complex routines often depend on contexts that are less stable. A full workout might require free time, access to equipment, suitable clothing and sufficient energy. When the context changes, the cue becomes less reliable.
 
-Studies of habit building show that context stability helps automaticity grow. Consistent environments make it easier for the brain to learn the association between a situation and an action. Simple habits frequently benefit because they can be linked to everyday events that rarely change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investiga...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11891988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSome habits are more work than others: Deliberate self...by B Saunders · 2024 · Cited by 26 — We tested the hypothesis that complex b...</span></span></span>
+Studies of habit building show that context stability helps automaticity grow. Consistent environments make it easier for the brain to learn the association between a situation and an action. Simple habits frequently benefit because they can be linked to everyday events that rarely change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investiga...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11891988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Some habits are more work than others: Deliberate self...by B Saunders · 2024 · Cited by 26 — We tested the hypothesis that complex b...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_simple_habit_speed_1abb51-Illustration-2-dark.svg" | relative_url }}" alt="Simple Habits illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_simple_habit_speed_1abb51-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_simple_habit_speed_1abb51-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -395,11 +400,11 @@ Try:
 This approach preserves the [identity]({{ 'identity/' | relative_url }}) and direction of the habit while reducing friction. The goal is not that the tiny version delivers the entire benefit. The goal is to establish a reliable cue-action relationship that can later support larger amounts of behaviour. This principle sits behind several habit-building frameworks that emphasise starting with actions small enough to be repeated consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXM2lIRCjc0" title="BJ Fogg: Why Big Change Starts With Tiny Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXM2lIRCjc0" target="_blank" rel="noopener noreferrer">BJ Fogg: Why Big Change Starts With Tiny Habits</a></p><p class="youtube-embed-meta">Channel: FranklinCovey &middot; Views: 458 &middot; Uploaded: January 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXM2lIRCjc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXM2lIRCjc0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q8atUEtqVhc" title="Atomic Habits Chapter 13: How to Stop Procrastinating with the Two-Minute Rule | Book Summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q8atUEtqVhc" target="_blank" rel="noopener noreferrer">Atomic Habits Chapter 13: How to Stop Procrastinating with the Two-Minute Rule | Book Summary</a></p><p class="youtube-embed-meta">Channel: AllBooksWisdom &middot; Views: 150 &middot; Uploaded: August 2025 &middot; Length: 2 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q8atUEtqVhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q8atUEtqVhc">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for Real Habit Formation
 
-The lesson from habit research is not that some people have stronger willpower than others. It is that behaviours differ in complexity.
+The lesson from habit research is not that some people have stronger [willpower]({{ 'willpower/' | relative_url }}) than others. It is that behaviours differ in complexity.
 
 Simple habits become automatic faster because they require fewer decisions, less motivation, fewer resources and fewer supporting conditions. They can be repeated more consistently, attached to stable cues more easily and practised across a wider range of circumstances. Those repeated successful performances strengthen the cue-action link that lies at the heart of habit formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3493 — To investigate the proc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 871 — Participants in one study repeated a sel...</span></span></span>
 
@@ -827,157 +832,157 @@ Within the broader discussion of habit timelines beyond 21 days, this helps expl
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3493 — To investigate the proc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reinforcement motivates and strengthens repetition. With ongoing repetition, the stable context cue...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>After many repetitions, mental representations of habitual action are formed...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 871 — Participants in one study repeated a sel...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCHabits, Quick and Easy: Perceived Complexity Moderates the...by K McCloskey · 2019 · Cited by 65 — The present study examines how eac...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6667662/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits, Quick and Easy: Perceived Complexity Moderates the...by K McCloskey · 2019 · Cited by 65 — The present study examines how eac...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stability in Habit Building Increases Automaticity and...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the effect...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11891988/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11891988/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSome habits are more work than others: Deliberate self...by B Saunders · 2024 · Cited by 26 — We tested the hypothesis that complex b...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11891988/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11891988/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some habits are more work than others: Deliberate self...by B Saunders · 2024 · Cited by 26 — We tested the hypothesis that complex b...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: surrey.ac.uk  
    Title: does it really take [66 days](&#123;&#123; '66-days/' | relative_url &#125;&#125;) form habit we asked expert dr pippa lally  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: compass.onlinelibrary.wiley.com  
-   Link: [https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975](https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975)  
+   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is habit and how can it be used to change real‐world...by B Gardner · 2024 · Cited by 70 — Habit formation approaches need not seek to f...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: openresearch.surrey.ac.uk  
    Title: Habit Formation and Behavior Change  
-   Link: [https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346](https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346)  
+   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Research SurreyHabit Formation and Behavior Changeby AL Rebar · 2019 · Cited by 409 — Within psychology, the term habit refers to a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/prompts](https://www.behaviormodel.org/prompts)  
+   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelPrompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design eff...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investiga...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 65 — Both contextual stability and [rewards](&amp;#123;&amp;#123; &#x27;rewards/&#x27; | relative_url &amp;#125;&amp;#125;) wer...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: drpaulmccarthy.com  
    Title: Specific and clearly defined.Read more  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...10 Feb 2026 — BJ Fogg&#x27;s tiny habits approach suggests picking behaviors that a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nehrlich.com  
    Title: tiny habits by bj fogg  
-   Link: [https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/](https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/)  
+   Link: <a href="https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits, by BJ Fogg3 Mar 2020 — Fogg suggests troubleshooting first the prompt, then ability, then motivation. If the prompt isn&#x27;t cl...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelCommercial exploitation: The goal of the Fogg Behavior Model is to strike a balance between motivation, ability, and p...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31396122/](https://pubmed.ncbi.nlm.nih.gov/31396122/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31396122/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31396122/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govHabits, Quick and Easy: Perceived Complexity Moderates the...The present study examines how each of these factors are associated...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ali-abdaal_the-secret-to-building-lifelong-habits-fits-activity-7372615066644320256-ADl2](https://www.linkedin.com/posts/ali-abdaal_the-secret-to-building-lifelong-habits-fits-activity-7372615066644320256-ADl2)  
+   Link: <a href="https://www.linkedin.com/posts/ali-abdaal_the-secret-to-building-lifelong-habits-fits-activity-7372615066644320256-ADl2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ali-abdaal_the-secret-to-building-lifelong-habits-fits-activity-7372615066644320256-ADl2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ali Abdaal&#x27;s PostLove how simple BJ Fogg makes it with MAP, most people overcomplicate habits. The reminder that ability (removing fricti...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: filippa-k.com  
-   Link: [https://www.filippa-k.com/](https://www.filippa-k.com/)  
+   Link: <a href="https://www.filippa-k.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.filippa-k.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FILIPPA K | Effortless Scandinavian MinimalismAt FILIPPA K, we stand for effortless style, simplicity, and quality, crafting timeless, hi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: triagemethod.com  
-   Link: [https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/](https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding The Basics of Behaviour Change and Habit...The habit loop (cue, routine, reward) governs every behaviour, and successful c...</p></details>
+   Link: <a href="https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding The Basics of [Behaviour Change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) and Habit...The habit loop (cue, routine, reward) governs every behaviour, and successful c...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: oneyoufeed.net  
-   Link: [https://www.oneyoufeed.net/why-willpower-isnt-enough-the-tiny-habits-method-explained-with-dr-bj-foggwhy-willpower-isnt-enough/](https://www.oneyoufeed.net/why-willpower-isnt-enough-the-tiny-habits-method-explained-with-dr-bj-foggwhy-willpower-isnt-enough/)  
+   Link: <a href="https://www.oneyoufeed.net/why-willpower-isnt-enough-the-tiny-habits-method-explained-with-dr-bj-foggwhy-willpower-isnt-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-willpower-isnt-enough-the-tiny-habits-method-explained-with-dr-bj-foggwhy-willpower-isnt-enough/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg shares practical strategies for designing habits that fit individual contexts, explains his behavior model, and discusses how positi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/habit](https://www.merriam-webster.com/dictionary/habit)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; MeaningThe word habit most often refers to a usual way of behaving or a tendency that someone has settled into, as in...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: peterhbrownpsych.com  
-   Link: [https://peterhbrownpsych.com/2009/10/08/it-takes-how-long-to-form-a-habit-research-shows-a-curved-relationship-between-practice-and-automaticity/](https://peterhbrownpsych.com/2009/10/08/it-takes-how-long-to-form-a-habit-research-shows-a-curved-relationship-between-practice-and-automaticity/)  
+   Link: <a href="https://peterhbrownpsych.com/2009/10/08/it-takes-how-long-to-form-a-habit-research-shows-a-curved-relationship-between-practice-and-automaticity/" target="_blank" rel="noopener noreferrer nofollow">https://peterhbrownpsych.com/2009/10/08/it-takes-how-long-to-form-a-habit-research-shows-a-curved-relationship-between-practice-and-automaticity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It Takes HOW Long to Form a Habit?: Research Shows a...8 Oct 2009 — Although the average was 66 days, there was marked variation in how...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361222550_Context_Stability_in_Habit_Building_Increases_Automaticity_and_Goal_Attainment](https://www.researchgate.net/publication/361222550_Context_Stability_in_Habit_Building_Increases_Automaticity_and_Goal_Attainment)  
+   Link: <a href="https://www.researchgate.net/publication/361222550_Context_Stability_in_Habit_Building_Increases_Automaticity_and_Goal_Attainment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361222550_Context_Stability_in_Habit_Building_Increases_Automaticity_and_Goal_Attainment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Context Stability in Habit Building Increases Automaticity...Jun 10, 2022 — In this paper, we investigate the effects of context stabili...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
    Title: 32898894 How are habits formed Modeling habit formation in the real world  
-   Link: [https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world](https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFThese students reached their peak automaticity after about 56 days (or 8 weeks)...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: philippalondon.com  
-   Link: [https://www.philippalondon.com/](https://www.philippalondon.com/)  
+   Link: <a href="https://www.philippalondon.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.philippalondon.com/</a>  

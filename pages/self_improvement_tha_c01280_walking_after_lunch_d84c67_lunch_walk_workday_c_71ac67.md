@@ -272,7 +272,7 @@ A lunch walk becomes reliable not when you feel motivated, but when lunch itself
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-dark.svg" | relative_url }}" alt="Workday Cue illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For people trying to make [walking after lunch]({{ 'lunch-walks/' | relative_url }}) a lasting self-improvement habit, the challenge is rarely understanding the benefits. The challenge is surviving busy calendars, unexpected meetings, working from home, office distractions, and the temptation to return straight to a chair. A durable cue system is designed specifically for those disruptions.
+For people trying to make walking after lunch a lasting self-improvement habit, the challenge is rarely understanding the benefits. The challenge is surviving busy calendars, unexpected meetings, working from home, office distractions, and the temptation to return straight to a chair. A durable cue system is designed specifically for those disruptions.
 
 ## Turning lunch into a cue
 
@@ -291,7 +291,7 @@ For a lunch walk, the strongest cues tend to be concrete and observable:
 
 </div>
 
-These cues work better than vague intentions such as “sometime after lunch” because they happen in a clearly identifiable moment. Habit-formation research repeatedly points to the value of context-dependent repetition: the same trigger, followed by the same action, in the same setting whenever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">How are habits formed Modelling habit</span><span class="citation-popover-snippet">Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</span></span></span>
+These cues work better than vague intentions such as “sometime after lunch” because they happen in a clearly identifiable moment. Habit-formation research repeatedly points to the value of context-dependent repetition: the same trigger, followed by the same action, in the same setting whenever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">How are habits formed Modelling habit</span><span class="citation-popover-snippet">Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</span></span></span>
 
 A useful rule is to define lunch as incomplete until the walk starts. In practical terms, the meal is not finished when the food is gone; it is finished when you are moving.
 
@@ -366,7 +366,7 @@ For example:
 
 This approach works because it removes competition between the walk and afternoon work. The walk occupies protected time rather than borrowing from work time.
 
-From a habit perspective, consistency matters more than duration. A five- or ten-minute walk completed nearly every workday strengthens the cue-response relationship more effectively than an occasional ambitious walk that is frequently skipped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMC - NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</span></span></span>
+From a habit perspective, consistency matters more than duration. A five- or ten-minute walk completed nearly every workday strengthens the cue-response relationship more effectively than an occasional ambitious walk that is frequently skipped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-dark.svg" | relative_url }}" alt="Workday Cue illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -800,131 +800,131 @@ Habit research shows that behaviours become more automatic when they are repeate
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When encountered, cues activate a single, specific well-learned behavioral response.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2010) showed that when people perform a behavior repeatedly in the same context (e.g., taking a walk after dinner), over time the contex...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: veri.co  
-   Link: [https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0](https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0)  
+   Link: <a href="https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0" target="_blank" rel="noopener noreferrer nofollow">https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Setting an alarm on your phone as a reminder to take a short walk after lunch. Routine: Going for a brisk walk...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery How does habit form?  
-   Link: [https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf](https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking realby B Gardner · 2022 · Cited by 104 — Habit develops when a behaviour is repeated in a consistent context (Fou...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/20658824/](https://pubmed.ncbi.nlm.nih.gov/20658824/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20658824/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20658824/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>automatic component of habit in health behaviorby S Orbell · 2010 · Cited by 707 — Objective: Habit might be usefully characterized as a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: openresearch.surrey.ac.uk  
    Title: How are habits formed Modelling habit  
-   Link: [https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346](https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346)  
+   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 19 — In this paper, we investiga...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: behaviouralleeway.com  
-   Link: [https://behaviouralleeway.com/behaviour-frameworks-to-[support](https://behaviouralleeway.com/behaviour-frameworks-to-[support)  
+   Link: <a href="https://behaviouralleeway.com/behaviour-frameworks-to-[support" target="_blank" rel="noopener noreferrer nofollow">https://behaviouralleeway.com/behaviour-frameworks-to-[support</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural LeewayBehaviour Frameworks to Support Habit Formation8 May 2024 — Habits form through repeated behaviours in stable contexts...</p></details>
    Published: May 2024  
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21749245/](https://pubmed.ncbi.nlm.nih.gov/21749245/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of habit formation: a qualitative studyby P Lally · 2011 · Cited by 362 — This study documented experiences of habit development in 10 pa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oxford-review.com  
    Title: Habit Formation  
-   Link: [https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/](https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/)  
+   Link: <a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Neuroscience is SayingFormed through repeated actions in stable environments · Strengthened by positive reinforcement · Develops...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/39279827/How_Habits_are_Formed](https://www.academia.edu/39279827/How_Habits_are_Formed)  
+   Link: <a href="https://www.academia.edu/39279827/How_Habits_are_Formed" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/39279827/How_Habits_are_Formed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Habits are FormedTo investigate the process of habit formation in everyday life, 96 volunteers chose an eating, drinking or act...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: therapyroute.com  
-   Link: [https://www.therapyroute.com/article/habit-formation-by-therapyroute](https://www.therapyroute.com/article/habit-formation-by-therapyroute)  
+   Link: <a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit FormationHabit formation is the process by which behaviours become automatic through repetition and practice. It&#x27;s how your brain c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: repository.essex.ac.uk  
    Title: The relationship of habit formation ([frequency](&#123;&#123; 'frequency/' | relative_url &#125;&#125;), complexity, context  
-   Link: [https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf](https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf)  
+   Link: <a href="https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>essex.ac.ukattitudes, habits and behavior changeby B Verplanken · 2022 · Cited by 521 — This study demonstrated that habit formation can...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: lilyandloaf.com  
    Title: walking after meals a simple habit for blood sugar and digestion  
-   Link: [https://lilyandloaf.com/a/blog/post/walking-after-meals-a-simple-habit-for-blood-sugar-and-digestion?srsltid=AfmBOooaLiUKlhZ6aD9_NH0rHl_VV0EipH4rhCzQS7YKLhySq2w4tyjg](https://lilyandloaf.com/a/blog/post/walking-after-meals-a-simple-habit-for-blood-sugar-and-digestion?srsltid=AfmBOooaLiUKlhZ6aD9_NH0rHl_VV0EipH4rhCzQS7YKLhySq2w4tyjg)  
+   Link: <a href="https://lilyandloaf.com/a/blog/post/walking-after-meals-a-simple-habit-for-blood-sugar-and-digestion?srsltid=AfmBOooaLiUKlhZ6aD9_NH0rHl_VV0EipH4rhCzQS7YKLhySq2w4tyjg" target="_blank" rel="noopener noreferrer nofollow">https://lilyandloaf.com/a/blog/post/walking-after-meals-a-simple-habit-for-blood-sugar-and-digestion?srsltid=AfmBOooaLiUKlhZ6aD9_NH0rHl_VV0EipH4rhCzQS7YKLhySq2w4tyjg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walking After Meals for Digestion14 Nov 2025 — Discover how a short walk after meals can aid digestion, balance blood sugar, and improve...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: companyaddress.co.uk  
-   Link: [https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR](https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR)  
+   Link: <a href="https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR" target="_blank" rel="noopener noreferrer nofollow">https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eliable contextual cue in your daily routine (e.g., &quot;after I brush my teeth&quot; or...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: advetresearch.com  
-   Link: [https://www.advetresearch.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.c.openf1.cloud%2Fbs%2F&id=0iH8N5](https://www.advetresearch.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.c.openf1.cloud%2Fbs%2F&id=0iH8N5)  
+   Link: <a href="https://www.advetresearch.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.c.openf1.cloud%2Fbs%2F&amp;id=0iH8N5" target="_blank" rel="noopener noreferrer nofollow">https://www.advetresearch.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.c.openf1.cloud%2Fbs%2F&amp;id=0iH8N5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>luggish after lunch, a short post-meal walk can make a noticeable difference in...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: news-medical.net  
    Title: Walking After Meals Small Habit Big Metabolic Gains.aspx  
-   Link: [https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx](https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx)  
+   Link: <a href="https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walking After Meals: Small Habit, Big Metabolic Gains29 Apr 2025 — Emerging research shows that the simple act of walking after meals may...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: coachpedropinto.com  
    Title: habit formation science backed strategies for leaders  
-   Link: [https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/](https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/)  
+   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Through a process called automaticity, it transforms frequently re...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scienceopen.com  
-   Link: [https://www.scienceopen.com/document_citation/cbbfec42-2c4f-4f97-9ce2-40bd5823aadd/BIBTEX](https://www.scienceopen.com/document_citation/cbbfec42-2c4f-4f97-9ce2-40bd5823aadd/BIBTEX)  
+   Link: <a href="https://www.scienceopen.com/document_citation/cbbfec42-2c4f-4f97-9ce2-40bd5823aadd/BIBTEX" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document_citation/cbbfec42-2c4f-4f97-9ce2-40bd5823aadd/BIBTEX</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lally, Cornelia H. M. van Jaarsveld and Henry W. W. Potts et al. }, title = {How are habits formed: Modelling habit formation... 2010, v...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: shieldmedicalgroup.com  
    Title: healthy habits start with a 10 minute walk after meals  
-   Link: [https://shieldmedicalgroup.com/healthy-habits-start-with-a-10-minute-walk-after-meals/](https://shieldmedicalgroup.com/healthy-habits-start-with-a-10-minute-walk-after-meals/)  
+   Link: <a href="https://shieldmedicalgroup.com/healthy-habits-start-with-a-10-minute-walk-after-meals/" target="_blank" rel="noopener noreferrer nofollow">https://shieldmedicalgroup.com/healthy-habits-start-with-a-10-minute-walk-after-meals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A 10-minute walk after meals offers significant health benefits, making it a great starting point for a healthier lifestyle.Read more...</p></details>

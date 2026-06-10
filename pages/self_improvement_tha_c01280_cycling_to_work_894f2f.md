@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:31:29'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /defaults/
   short_title: Defaults
   heading_title: How Defaults Quietly Shape Your Day
-date: '2026-06-05 14:31:29 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-overview.webp
@@ -506,17 +506,17 @@ Cycling to work becomes much easier when the habit starts the night before. The 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-overview.webp" | relative_url }}" alt="Overview image for Cycle Commute" loading="eager" decoding="sync" fetchpriority="high">
-Within [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), cycle commuting is a useful case because the supporting action is separate from the main behaviour. The main behaviour is riding to work. The supporting behaviour is preparing the night before. Behaviour-change research distinguishes between wanting to act and having a concrete plan for when, where and how to act; action planning and coping planning are specifically designed to bridge that intention–behaviour gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">D-NBPlanning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</span><span class="citation-popover-meta">Published: December 17, 2012</span></span></span>
+Within [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), cycle commuting is a useful case because the supporting action is separate from the main behaviour. The main behaviour is riding to work. The supporting behaviour is preparing the night before. Behaviour-change research distinguishes between wanting to act and having a concrete plan for when, where and how to act; action planning and coping planning are specifically designed to bridge that intention–behaviour gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</span><span class="citation-popover-meta">Published: December 17, 2012</span></span></span>
 
 ## Why the Ride Is Won or Lost Before Breakfast
 
 A morning cycle commute looks like one decision, but it is really a chain of small decisions: what to wear, whether the weather is tolerable, where the keys are, whether the lights are charged, whether the laptop is protected, whether there is a clean shirt at work, whether there is enough time, and whether the route still feels safe. Each unresolved question adds friction. The night-before routine works because it moves those decisions to a calmer moment.
 
-This is a classic implementation problem. An implementation intention is a specific “if–then” plan that connects a cue to an action, while action planning names the when, where and how of a behaviour. Research on planning and physical activity finds that planning can help translate good intentions into actual behaviour, especially when it includes both action planning and coping planning: the plan for doing the behaviour and the plan for dealing with barriers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">D-NBPlanning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</span><span class="citation-popover-meta">Published: December 17, 2012</span></span></span>
+This is a classic implementation problem. An implementation intention is a specific “if–then” plan that connects a cue to an action, while action planning names the when, where and how of a behaviour. Research on planning and physical activity finds that planning can help translate good intentions into actual behaviour, especially when it includes both action planning and coping planning: the plan for doing the behaviour and the plan for dealing with barriers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</span><span class="citation-popover-meta">Published: December 17, 2012</span></span></span>
 
 For commuting, the useful plan is not just “I will cycle more”. It is more like: “On Monday and Thursday, after dinner, I will pack my work clothes, check the forecast, charge my lights and put my bike bag by the door.” That supporting habit makes the morning version of the decision much simpler: get dressed, take the bag, leave.
 
-The health case for making the ride repeatable is strong enough to justify this small logistical ritual. A large UK Biobank study published in the BMJ found that cycle commuting was associated with lower risk of cardiovascular disease, cancer and all-cause mortality compared with non-active commuting, while a later Scottish study found population-level health benefits from active commuting, including associations with lower mental-health medication prescribing. These are observational findings rather than proof that cycling alone caused every difference, but they show why a reliable commute habit is worth designing carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/357/bmj.j1456" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">BMJAssociation between active commuting and incident...by CA Celis-Morales · 2017 · Cited by 729 — Cycle commuting was associated with a...</span></span></span>
+The health case for making the ride repeatable is strong enough to justify this small logistical ritual. A large UK Biobank study published in the BMJ found that cycle commuting was associated with lower risk of cardiovascular disease, cancer and all-cause mortality compared with non-active commuting, while a later Scottish study found population-level health benefits from active commuting, including associations with lower mental-health medication prescribing. These are observational findings rather than proof that cycling alone caused every difference, but they show why a reliable commute habit is worth designing carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/357/bmj.j1456" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Association between active commuting and incident...by CA Celis-Morales · 2017 · Cited by 729 — Cycle commuting was associated with a...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-1-dark.svg" | relative_url }}" alt="Cycle Commute illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -620,7 +620,7 @@ A strong routine might look like this:
 
 </div>
 
-The key design feature is that the routine ends with a visible prompt. A packed pannier by the door, helmet on the bag, or lights beside the keys turns tomorrow’s intention into a physical cue. Behaviour-change taxonomies treat prompts, cues, action planning and restructuring the physical [environment]({{ 'environment/' | relative_url }}) as distinct behaviour-change [techniques]({{ 'techniques/' | relative_url }}) because they change the conditions under which action happens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedhabit strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 333 — In summary, habit strength moderate...</span></span></span>
+The key design feature is that the routine ends with a visible prompt. A packed pannier by the door, helmet on the bag, or lights beside the keys turns tomorrow’s intention into a physical cue. Behaviour-change taxonomies treat prompts, cues, action planning and restructuring the physical [environment]({{ 'environment/' | relative_url }}) as distinct behaviour-change [techniques]({{ 'techniques/' | relative_url }}) because they change the conditions under which action happens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">habit strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 333 — In summary, habit strength moderate...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-3-dark.svg" | relative_url }}" alt="Cycle Commute illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -724,7 +724,7 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -733,78 +733,94 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Habit take a trip to the magic field of dreams poster 23.75&quot; X 35.50&quot;(Fair )"><img src="{{ '/assets/images/marketplace-covers/baa61c955cc3d5ef5b9e.jpg' | relative_url }}" alt="Listing image for The Habit take a trip to the magic field of dreams poster 23.75&quot; X 35.50&quot;(Fair )" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/0xkAAeSwySxpY7Z5/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Habit take a trip to the magic field of dreams poster 23.75&quot; X 35.50&quot;(Fair )</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit poster">Search <span data-ebay-domain-label>eBay.com</span>: habit poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit rolled art poster 23&quot; X 33&quot; #8907 By Capitol Concepts 1989 USA"><img src="{{ '/assets/images/marketplace-covers/d795838cb82323ab1843.jpg' | relative_url }}" alt="Listing image for Habit rolled art poster 23&quot; X 33&quot; #8907 By Capitol Concepts 1989 USA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated 24-Month Habit Tracker Calendar Journal | 8x10in Pastel Design"><img src="https://i.ebayimg.com/images/g/CQMAAeSw99dpnSjG/s-l225.jpg" alt="Listing image for Undated 24-Month Habit Tracker Calendar Journal | 8x10in Pastel Design" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit rolled art poster 23&quot; X 33&quot; #8907 By Capitol Concepts 1989 USA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Undated 24-Month Habit Tracker Calendar Journal | 8x10in Pastel Design</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit poster">Search <span data-ebay-domain-label>eBay.com</span>: habit poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 612854 Habit Movie Thriller Drama Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/469831d360a2bc179b0d.jpg' | relative_url }}" alt="Listing image for 612854 Habit Movie Thriller Drama Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/~0oAAeSwKCNo8eh-/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">612854 Habit Movie Thriller Drama Wall Print Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit poster">Search <span data-ebay-domain-label>eBay.com</span>: habit poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hot Woman In A Nun’s Habit Personality Poster -Excellent! 29x63 Hot Nun"><img src="{{ '/assets/images/marketplace-covers/ae4592b848dc535e7c04.jpg' | relative_url }}" alt="Listing image for Hot Woman In A Nun’s Habit Personality Poster -Excellent! 29x63 Hot Nun" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/OiYAAeSwK4VqHk0N/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hot Woman In A Nun’s Habit Personality Poster -Excellent! 29x63 Hot Nun</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit poster">Search <span data-ebay-domain-label>eBay.com</span>: habit poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=habit+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cycle-commute-why-the-habit-starts-the-night-before-self-improvement-that-works-habit-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="why-the-habit-starts-the-night-before-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -880,17 +896,31 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -903,42 +933,73 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -953,169 +1014,173 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1104173190/34](https://d-nb.info/1104173190/34)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>D-NBPlanning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</p></details>
+   Link: <a href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1104173190/34</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</p></details>
    Published: December 17, 2012  
 
 2. <a id="endnote-2"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/357/bmj.j1456](https://www.bmj.com/content/357/bmj.j1456)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJAssociation between active commuting and incident...by CA Celis-Morales · 2017 · Cited by 729 — Cycle commuting was associated with a...</p></details>
+   Link: <a href="https://www.bmj.com/content/357/bmj.j1456" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/357/bmj.j1456</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association between active commuting and incident...by CA Celis-Morales · 2017 · Cited by 729 — Cycle commuting was associated with a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: The Highway Code  
-   Link: [https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82](https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82)  
+   Link: <a href="https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82</a>  
 
 4. <a id="endnote-4"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/lighting-regulations](https://www.cyclinguk.org/lighting-regulations)  
+   Link: <a href="https://www.cyclinguk.org/lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/lighting-regulations</a>  
 
 5. <a id="endnote-5"></a>
    Source: bikewalknc.org  
-   Link: [https://www.bikewalknc.org/bicycle-commuting/](https://www.bikewalknc.org/bicycle-commuting/)  
+   Link: <a href="https://www.bikewalknc.org/bicycle-commuting/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikewalknc.org/bicycle-commuting/</a>  
 
 6. <a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling</a>  
 
 7. <a id="endnote-7"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/357/bmj.j1944](https://www.bmj.com/content/357/bmj.j1944)  
+   Link: <a href="https://www.bmj.com/content/357/bmj.j1944" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/357/bmj.j1944</a>  
 
 8. <a id="endnote-8"></a>
    Source: blogs.bmj.com  
    Title: pedal power the health benefits of cycling outweigh the risks by far  
-   Link: [https://blogs.bmj.com/bjsm/2018/12/12/pedal-power-the-health-benefits-of-cycling-outweigh-the-risks-by-far/](https://blogs.bmj.com/bjsm/2018/12/12/pedal-power-the-health-benefits-of-cycling-outweigh-the-risks-by-far/)  
+   Link: <a href="https://blogs.bmj.com/bjsm/2018/12/12/pedal-power-the-health-benefits-of-cycling-outweigh-the-risks-by-far/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bjsm/2018/12/12/pedal-power-the-health-benefits-of-cycling-outweigh-the-risks-by-far/</a>  
 
 9. <a id="endnote-9"></a>
    Source: bmjpublichealth.bmj.com  
-   Link: [https://bmjpublichealth.bmj.com/content/2/1/e001295](https://bmjpublichealth.bmj.com/content/2/1/e001295)  
+   Link: <a href="https://bmjpublichealth.bmj.com/content/2/1/e001295" target="_blank" rel="noopener noreferrer nofollow">https://bmjpublichealth.bmj.com/content/2/1/e001295</a>  
 
 10. <a id="endnote-10"></a>
    Source: metoffice.gov.uk  
    Title: climate action taking corporate responsibility  
-   Link: [https://www.metoffice.gov.uk/blog/2023/climate-action-taking-corporate-responsibility](https://www.metoffice.gov.uk/blog/2023/climate-action-taking-corporate-responsibility)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2023/climate-action-taking-corporate-responsibility" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2023/climate-action-taking-corporate-responsibility</a>  
 
 11. <a id="endnote-11"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/forecast/gcpvj0v07](https://weather.metoffice.gov.uk/forecast/gcpvj0v07)  
+   Link: <a href="https://weather.metoffice.gov.uk/forecast/gcpvj0v07" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gcpvj0v07</a>  
 
 12. <a id="endnote-12"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/](https://www.metoffice.gov.uk/)  
+   Link: <a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
 
 13. <a id="endnote-13"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en&id=uk.gov.metoffice.weather.android](https://play.google.com/store/apps/details?hl=en&id=uk.gov.metoffice.weather.android)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=uk.gov.metoffice.weather.android" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=uk.gov.metoffice.weather.android</a>  
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: www.gov.uk Pedal cycles  
-   Link: [https://www.gov.uk/government/publications/pedal-cycles-lighting/pedal-cycles-lighting](https://www.gov.uk/government/publications/pedal-cycles-lighting/pedal-cycles-lighting)  
+   Link: <a href="https://www.gov.uk/government/publications/pedal-cycles-lighting/pedal-cycles-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/pedal-cycles-lighting/pedal-cycles-lighting</a>  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18851764/](https://pubmed.ncbi.nlm.nih.gov/18851764/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedhabit strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 333 — In summary, habit strength moderate...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>habit strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 333 — In summary, habit strength moderate...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Health benefits of pedestrian and cyclist commuting  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11812918/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11812918/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11812918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11812918/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/beginners-guide-commuting](https://www.cyclinguk.org/article/beginners-guide-commuting)  
+   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-commuting" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-commuting</a>  
 
 18. <a id="endnote-18"></a>
    Source: cyclescheme.co.uk  
-   Link: [https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat](https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat)  
+   Link: <a href="https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat</a>  
 
 19. <a id="endnote-19"></a>
    Source: biketoeverything.com  
    Title: Bike to Everything How to Plan a Fun Bike Route with Google Maps  
-   Link: [https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/](https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/)  
+   Link: <a href="https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/" target="_blank" rel="noopener noreferrer nofollow">https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/</a>  
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28424154/](https://pubmed.ncbi.nlm.nih.gov/28424154/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28424154/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28424154/</a>  
 
 21. <a id="endnote-21"></a>
    Source: forum.cyclinguk.org  
-   Link: [https://forum.cyclinguk.org/viewtopic.php?t=113916](https://forum.cyclinguk.org/viewtopic.php?t=113916)  
+   Link: <a href="https://forum.cyclinguk.org/viewtopic.php?t=113916" target="_blank" rel="noopener noreferrer nofollow">https://forum.cyclinguk.org/viewtopic.php?t=113916</a>  
 
 22. <a id="endnote-22"></a>
    Source: transport.ed.ac.uk  
    Title: highway code  
-   Link: [https://transport.ed.ac.uk/cycling/safety/highway-code](https://transport.ed.ac.uk/cycling/safety/highway-code)  
+   Link: <a href="https://transport.ed.ac.uk/cycling/safety/highway-code" target="_blank" rel="noopener noreferrer nofollow">https://transport.ed.ac.uk/cycling/safety/highway-code</a>  
 
 23. <a id="endnote-23"></a>
    Source: cyclescheme.co.uk  
-   Link: [https://www.cyclescheme.co.uk/community/how-to/how-to-weatherproof-your-commute](https://www.cyclescheme.co.uk/community/how-to/how-to-weatherproof-your-commute)  
+   Link: <a href="https://www.cyclescheme.co.uk/community/how-to/how-to-weatherproof-your-commute" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-weatherproof-your-commute</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: cyclingweekly.com  
-   Link: [https://www.cyclingweekly.com/group-tests/commuting-to-work-by-bike-what-to-wear-throughout-the-year-463755](https://www.cyclingweekly.com/group-tests/commuting-to-work-by-bike-what-to-wear-throughout-the-year-463755)  
+   Link: <a href="https://www.cyclingweekly.com/group-tests/commuting-to-work-by-bike-what-to-wear-throughout-the-year-463755" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclingweekly.com/group-tests/commuting-to-work-by-bike-what-to-wear-throughout-the-year-463755</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For short city commutes, casual bike-friendly clothing such as waterproof jackets and trousers may suffice. However, for longer commutes...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Everything You Need To Take On A Bike Ride (& How To Carry It)  
-   Link: [https://www.youtube.com/watch?v=DkDUoHPJ6yI](https://www.youtube.com/watch?v=DkDUoHPJ6yI)  
+   Link: <a href="https://www.youtube.com/watch?v=DkDUoHPJ6yI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DkDUoHPJ6yI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;How to pack&quot; bike commute clothes pack bag morning preparation How to carry your work clothes on a bicycle...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/active-commuting-and-health-outcomes](https://www.nature.com/nature-index/topics/l4/active-commuting-and-health-outcomes)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/active-commuting-and-health-outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/active-commuting-and-health-outcomes</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: 7 Hacks To Make Commuting By Bike Work For You | Cycle Commuting Made Easy  
-   Link: [https://www.youtube.com/watch?v=lWInrzfAf14](https://www.youtube.com/watch?v=lWInrzfAf14)  
+   Link: <a href="https://www.youtube.com/watch?v=lWInrzfAf14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lWInrzfAf14</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to carry your work clothes on a bicycle...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: 6 HACKS to make Commuting by Bike WORK FOR YOU!  
-   Link: [https://www.youtube.com/watch?v=W8P9rdOU660](https://www.youtube.com/watch?v=W8P9rdOU660)  
+   Link: <a href="https://www.youtube.com/watch?v=W8P9rdOU660" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8P9rdOU660</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Hacks To Make Commuting By Bike Work For You | Cycle Commuting Made Easy...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: kops.uni-konstanz.de  
-   Link: [https://kops.uni-konstanz.de/bitstreams/23250a50-e2a8-4b49-b831-9c2e0c055721/download](https://kops.uni-konstanz.de/bitstreams/23250a50-e2a8-4b49-b831-9c2e0c055721/download)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KopsPlanning, self-efficacy, and action control in the adoption...by FF Sniehotta · 2005 · Cited by 2069 — Gollwitzer (1999) calls such...</p></details>
+   Link: <a href="https://kops.uni-konstanz.de/bitstreams/23250a50-e2a8-4b49-b831-9c2e0c055721/download" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/bitstreams/23250a50-e2a8-4b49-b831-9c2e0c055721/download</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning, self-efficacy, and action control in the adoption...by FF Sniehotta · 2005 · Cited by 2069 — Gollwitzer (1999) calls such...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360690716_Adults%27_self-reported_barriers_and_enablers_to_riding_a_bike_for_transport_a_systematic_review](https://www.researchgate.net/publication/360690716_Adults%27_self-reported_barriers_and_enablers_to_riding_a_bike_for_transport_a_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/360690716_Adults%27_self-reported_barriers_and_enablers_to_riding_a_bike_for_transport_a_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360690716_Adults%27_self-reported_barriers_and_enablers_to_riding_a_bike_for_transport_a_systematic_review</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/316271734_Active_commuting_is_beneficial_for_health](https://www.researchgate.net/publication/316271734_Active_commuting_is_beneficial_for_health)  
+   Link: <a href="https://www.researchgate.net/publication/316271734_Active_commuting_is_beneficial_for_health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316271734_Active_commuting_is_beneficial_for_health</a>  
 
 32. <a id="endnote-32"></a>
    Source: activetravelstudies.org  
-   Link: [https://activetravelstudies.org/articles/](https://activetravelstudies.org/articles/)  
+   Link: <a href="https://activetravelstudies.org/articles/" target="_blank" rel="noopener noreferrer nofollow">https://activetravelstudies.org/articles/</a>  
 
 33. <a id="endnote-33"></a>
    Source: surlybikes.com  
-   Link: [https://surlybikes.com/pages/bike-commuting-101-8-tips-for-your-commute-to-work?srsltid=AfmBOopEwANNWy9vKyZxJmuXVma8Jbt14r3sTeX5ZlehecysZ5NUDWki](https://surlybikes.com/pages/bike-commuting-101-8-tips-for-your-commute-to-work?srsltid=AfmBOopEwANNWy9vKyZxJmuXVma8Jbt14r3sTeX5ZlehecysZ5NUDWki)  
+   Link: <a href="https://surlybikes.com/pages/bike-commuting-101-8-tips-for-your-commute-to-work?srsltid=AfmBOopEwANNWy9vKyZxJmuXVma8Jbt14r3sTeX5ZlehecysZ5NUDWki" target="_blank" rel="noopener noreferrer nofollow">https://surlybikes.com/pages/bike-commuting-101-8-tips-for-your-commute-to-work?srsltid=AfmBOopEwANNWy9vKyZxJmuXVma8Jbt14r3sTeX5ZlehecysZ5NUDWki</a>  

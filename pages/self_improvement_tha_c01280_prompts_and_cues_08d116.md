@@ -506,15 +506,15 @@ Good cues make habits easier because they move the burden from memory to design.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-overview.webp" | relative_url }}" alt="Overview image for Cues" loading="eager" decoding="sync" fetchpriority="high">
-This matters because [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) is rarely about summoning more discipline in the abstract. Habits form through repeated behaviour in consistent contexts; over time, the context itself can begin to trigger the response with less conscious effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> A good cue is therefore not just a reminder. It is a small redesign of the moment before action. The practical question is not “How do I become more motivated?” but “What will make the wanted action obvious, available and timely when real life is noisy?”
+This matters because [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) is rarely about summoning more discipline in the abstract. Habits form through repeated behaviour in consistent contexts; over time, the context itself can begin to trigger the response with less conscious effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> A good cue is therefore not just a reminder. It is a small redesign of the moment before action. The practical question is not “How do I become more motivated?” but “What will make the wanted action obvious, available and timely when real life is noisy?”
 
 ## Why a cue beats a good intention
 
-Intentions are fragile because they have to survive delay, distraction, mood, competing demands and the ordinary clutter of the day. A cue helps by narrowing the gap between deciding and doing. The Behaviour Change Technique Taxonomy defines “prompts/cues” as introducing or defining an environmental or social stimulus that prompts the behaviour, normally at the time or place of performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Open source on digitalwellbeing.org.</span></span></span> That timing is the key. A reminder to stretch is less useful during a meeting than when you close your laptop; a reminder to prepare lunch is less useful at lunchtime than when you are putting dinner away.
+Intentions are fragile because they have to survive delay, distraction, mood, competing demands and the ordinary clutter of the day. A cue helps by narrowing the gap between deciding and doing. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy defines “prompts/cues” as introducing or defining an environmental or social stimulus that prompts the behaviour, normally at the time or place of performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Open source on digitalwellbeing.org.</span></span></span> That timing is the key. A reminder to stretch is less useful during a meeting than when you close your laptop; a reminder to prepare lunch is less useful at lunchtime than when you are putting dinner away.
 
 Habit theory explains why this is more than a productivity trick. A habit is not simply something done often; it is a learned tendency for a behaviour to be triggered by a context. Gardner and colleagues argue that habit is best understood as [automaticity]({{ 'automaticity/' | relative_url }}) rather than raw [frequency]({{ 'frequency/' | relative_url }}), because strong habits are activated directly and quickly by associated settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehps.net">[ehps.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehps.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Repetition still matters, but repetition in a stable context matters most because it strengthens the link between “this situation” and “this action”.
 
-This is also why vague goals such as “read more”, “eat better” or “use my phone less” often collapse in the moment. They ask for fresh decision-making every time. A cue turns the goal into a situation-response link: “When I make [morning coffee]({{ 'coffee-cue/' | relative_url }}), I fill the water bottle”; “When I sit on the train, I open the saved article”; “When the workday ends, social media apps are blocked for an hour.” The cue does not remove choice altogether, but it reduces the number of choices that must be made while tired or distracted.
+This is also why vague goals such as “read more”, “eat better” or “use my phone less” often collapse in the moment. They ask for fresh decision-making every time. A cue turns the goal into a situation-response link: “When I make morning coffee, I fill the water bottle”; “When I sit on the train, I open the saved article”; “When the workday ends, social media apps are blocked for an hour.” The cue does not remove choice altogether, but it reduces the number of choices that must be made while tired or distracted.
 
 Implementation intentions use the same logic in plan form. They specify an “if situation X, then I will do Y” response, and research on implementation intentions links their effects to better cue detection and stronger cue-response associations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCPromoting the translation of intentions into action by</span></span></span> The point is not to write a clever sentence and stop there. The point is to choose a real cue that will reliably appear in the life you actually live.
 
@@ -1055,185 +1055,185 @@ The strongest cues are not motivational slogans. They are well-placed prompts th
 1. <a id="endnote-1"></a>
    Source: digitalwellbeing.org  
    Title: i BCT Taxonomy (v1): 93 hierarchically-clustered [techniques](&#123;&#123; 'techniques/' | relative_url &#125;&#125;) Prompts/cues  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduce or define environmental or social stimulus with the purpose of prompting or cueing the behavior. The prompt or cue would normal...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
 
 4. <a id="endnote-4"></a>
    Source: ehps.net  
-   Link: [https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012)  
+   Link: <a href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow">https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
 
 7. <a id="endnote-7"></a>
    Source: phwwhocc.co.uk  
    Title: Identifying and Applying Behaviour Change Techniques  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: jmir.org  
    Title: Digital Behavior Change Intervention Designs for Habit Formation  
-   Link: [https://www.jmir.org/2024/1/e54375/](https://www.jmir.org/2024/1/e54375/)  
+   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
 
 10. <a id="endnote-10"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/abm/article/57/10/817/7251346](https://academic.oup.com/abm/article/57/10/817/7251346)  
+   Link: <a href="https://academic.oup.com/abm/article/57/10/817/7251346" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/abm/article/57/10/817/7251346</a>  
 
 11. <a id="endnote-11"></a>
    Source: usabilitypanda.com  
-   Link: [https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf](https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf)  
+   Link: <a href="https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581</a>  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2001.04180](https://arxiv.org/abs/2001.04180)  
+   Link: <a href="https://arxiv.org/abs/2001.04180" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2001.04180</a>  
 
 14. <a id="endnote-14"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41539-024-00253-7](https://www.nature.com/articles/s41539-024-00253-7)  
+   Link: <a href="https://www.nature.com/articles/s41539-024-00253-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-024-00253-7</a>  
 
 15. <a id="endnote-15"></a>
    Source: nice.org.uk  
-   Link: [https://www.nice.org.uk/guidance/ng183/chapter/Recommendations](https://www.nice.org.uk/guidance/ng183/chapter/Recommendations)  
+   Link: <a href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/chapter/Recommendations</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: The 4 Laws of Behavior Change that make good habits stick  
-   Link: [https://www.facebook.com/samdrupjongkharHSS/posts/the-4-laws-of-behavior-change-that-make-good-habits-stick1-make-it-obvious-set-c/1279034134015333/](https://www.facebook.com/samdrupjongkharHSS/posts/the-4-laws-of-behavior-change-that-make-good-habits-stick1-make-it-obvious-set-c/1279034134015333/)  
+   Link: <a href="https://www.facebook.com/samdrupjongkharHSS/posts/the-4-laws-of-behavior-change-that-make-good-habits-stick1-make-it-obvious-set-c/1279034134015333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samdrupjongkharHSS/posts/the-4-laws-of-behavior-change-that-make-good-habits-stick1-make-it-obvious-set-c/1279034134015333/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/](https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/)  
+   Link: <a href="https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/</a>  
 
 18. <a id="endnote-18"></a>
    Source: compass.onlinelibrary.wiley.com  
-   Link: [https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975](https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975)  
+   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975</a>  
 
 19. <a id="endnote-19"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2017/11/e397/](https://www.jmir.org/2017/11/e397/)  
+   Link: <a href="https://www.jmir.org/2017/11/e397/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2017/11/e397/</a>  
 
 20. <a id="endnote-20"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/](https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/)  
+   Link: <a href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/</a>  
 
 21. <a id="endnote-21"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery RUNNING  
    Title: Old habits and weight maintenance  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf](https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: discovery.ucl.ac.uk  
    Title: StawarzCoxBlandford2014 reminders submittedManuscript  
-   Link: [https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf](https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/1418104/](https://discovery.ucl.ac.uk/1418104/)  
+   Link: <a href="https://discovery.ucl.ac.uk/1418104/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1418104/</a>  
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25099386/](https://pubmed.ncbi.nlm.nih.gov/25099386/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25099386/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25099386/</a>  
 
 25. <a id="endnote-25"></a>
    Source: research.wur.nl  
    Title: identifying the if for if then plans combining implementation int  
-   Link: [https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int](https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int)  
+   Link: <a href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow">https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int</a>  
 
 26. <a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
 27. <a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29191800/](https://pubmed.ncbi.nlm.nih.gov/29191800/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
 
 28. <a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21749245/](https://pubmed.ncbi.nlm.nih.gov/21749245/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
 
 29. <a id="endnote-29"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
 
 30. <a id="endnote-30"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
 31. <a id="endnote-31"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: [https://durmonski.com/psychology/implementation-intentions/](https://durmonski.com/psychology/implementation-intentions/)  
+   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: bct-taxonomy.com  
-   Link: [https://www.bct-taxonomy.com/about](https://www.bct-taxonomy.com/about)  
+   Link: <a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EurFYCWm0wg](https://www.youtube.com/watch?v=EurFYCWm0wg)  
+   Link: <a href="https://www.youtube.com/watch?v=EurFYCWm0wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EurFYCWm0wg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3966: The Habit Ladder: How To Make A New Routine Stick by Tyler Tervooren of Riskology on...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=T58Vg_eRYYI](https://www.youtube.com/watch?v=T58Vg_eRYYI)  
+   Link: <a href="https://www.youtube.com/watch?v=T58Vg_eRYYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T58Vg_eRYYI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Break Bad Habits &amp; Build Good Ones - The Science of Habit Formation...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: ATOMIC HABIT: MODULE 2: The 1st Law – Make It Obvious (Cues)  
-   Link: [https://www.youtube.com/watch?v=vqKawb-4tkI](https://www.youtube.com/watch?v=vqKawb-4tkI)  
+   Link: <a href="https://www.youtube.com/watch?v=vqKawb-4tkI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vqKawb-4tkI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you make your habits stick? Environmental Design &amp; Implementation Intention - James Clear...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: How to Break Bad Habits & Build Good Ones  
-   Link: [https://www.youtube.com/watch?v=Q8uqza4wz2Y](https://www.youtube.com/watch?v=Q8uqza4wz2Y)  
+   Link: <a href="https://www.youtube.com/watch?v=Q8uqza4wz2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q8uqza4wz2Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE 1ST LAW: Make It Obvious (Part Two of Atomic Habits Book)...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface](https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface)  
+   Link: <a href="https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface</a>  
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour](https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour</a>  
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/265236901_Don%27t_Forget_Your_Pill_Designing_Effective_Medication_Reminder_Apps_That_Support_Users%27_Daily_Routines](https://www.researchgate.net/publication/265236901_Don%27t_Forget_Your_Pill_Designing_Effective_Medication_Reminder_Apps_That_Support_Users%27_Daily_Routines)  
+   Link: <a href="https://www.researchgate.net/publication/265236901_Don%27t_Forget_Your_Pill_Designing_Effective_Medication_Reminder_Apps_That_Support_Users%27_Daily_Routines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265236901_Don%27t_Forget_Your_Pill_Designing_Effective_Medication_Reminder_Apps_That_Support_Users%27_Daily_Routines</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation](https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation)  
+   Link: <a href="https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation</a>  

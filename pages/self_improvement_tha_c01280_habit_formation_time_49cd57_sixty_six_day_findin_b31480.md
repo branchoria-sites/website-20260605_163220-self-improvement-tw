@@ -348,7 +348,7 @@ A more productive way to use the finding is to adopt three assumptions:
 
 </div>
 
-The research points towards a patience-based model of behaviour change. Automaticity grows through repetition in a stable context, but it does not obey a universal timetable. The number 66 is therefore best viewed as a reminder that habits often take longer than the popular 21-day myth suggests, while still varying widely from one person and behaviour to another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
+The research points towards a patience-based model of [behaviour change]({{ 'behaviour-change/' | relative_url }}). Automaticity grows through repetition in a stable context, but it does not obey a universal timetable. The number 66 is therefore best viewed as a reminder that habits often take longer than the popular 21-day myth suggests, while still varying widely from one person and behaviour to another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-3-dark.svg" | relative_url }}" alt="66 Days illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -683,136 +683,136 @@ The research points towards a patience-based model of behaviour change. Automati
 
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTowards parsimony in habit measurement  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This measure characterises...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: studocu.vn  
    Title: Modelling Habit Formation: Insights from Eur  
-   Link: [https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686](https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686)  
+   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The median time to reach 95% of asymptote was 66 days, with a range from 18 to 254 days. There was substantial variation in cu...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
    Title: asymptote was 66 days, with a range from 18 to 254 days.Read more  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&d2101103_page=2&ref_=b2b_cm_3p_cs_t_ww](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&d2101103_page=2&ref_=b2b_cm_3p_cs_t_ww)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...16 Jul 2009 — In this study, we consider how a single miss...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 871 — More relevant research found t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 871 — More relevant research found t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: studocu.vn  
    Title: Modelling Habit Formation: Insights from Eur  
-   Link: [https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239](https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239)  
+   Link: <a href="https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The time it took participants to reach 95% of their asymptote of automaticity ranged from 18 to 254 days; indicating considera...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: [https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12600](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12600)  
+   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12600" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12600</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comCan—and should—automaticity be self‐reported using a...by B Gardner · 2024 · Cited by 14 — The most used measure, the Self-Repo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained)  
-   Link: [https://www.youtube.com/watch?v=DjPiyRZLgkY](https://www.youtube.com/watch?v=DjPiyRZLgkY)  
+   Link: <a href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DjPiyRZLgkY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Surrey...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: surrey.ac.uk  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyDoes it really take 66 days to form a habit?Jan 21, 2026 — The average time it took for the participants in my study...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thebehavioralscientist.com  
    Title: The Behavioral Scientist How Long Does It Take to Form a Habit?  
-   Link: [https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit](https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit)  
+   Link: <a href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Lally et al...by J Hreha — The researchers used the Self-Report Habit Index to measure automaticity, a participant&#x27;s subjective sen...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: surrey.ac.uk  
    Title: theory and methods  
-   Link: [https://www.surrey.ac.uk/habitat-surrey-habit-application-and-theory-group/research/theory-and-methods](https://www.surrey.ac.uk/habitat-surrey-habit-application-and-theory-group/research/theory-and-methods)  
+   Link: <a href="https://www.surrey.ac.uk/habitat-surrey-habit-application-and-theory-group/research/theory-and-methods" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/habitat-surrey-habit-application-and-theory-group/research/theory-and-methods</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyTheory and Methods(2012) Towards parsimony in habit measurement: Testing the convergent and predictive validity of an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cir.nii.ac.jp  
-   Link: [https://cir.nii.ac.jp/crid/1361418518778992640](https://cir.nii.ac.jp/crid/1361418518778992640)  
+   Link: <a href="https://cir.nii.ac.jp/crid/1361418518778992640" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1361418518778992640</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CiNii ResearchHow are habits formed: Modelling habit formation in the real...by P Lally · 2009 · Cited by 3684 — How are habits formed...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In our study we showed that missing one opportunity did not significantly impact the habit...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/how](https://dictionary.cambridge.org/dictionary/english/how)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge DictionaryHOW definition: 1. in what way, or by what methods: 2. used to ask about someone&#x27;s physical or em...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/how</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge DictionaryHOW definition: 1. in what way, or by what methods: 2. used to ask about someone&#x27;s physical or em...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/How](https://en.wikipedia.org/wiki/How)  
+   Link: <a href="https://en.wikipedia.org/wiki/How" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/How</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How - WikipediaHow (greeting), an anglicization of the Lakota word háu; How, an interrogative word in English grammar. Contents. 1 Art...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/how](https://www.dictionary.com/browse/how)  
+   Link: <a href="https://www.dictionary.com/browse/how" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/how</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HOW Definition &amp; Meaninga way or manner of doing something. to consider all the hows and wherefores. a word formerly used in communicatio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: langeek.co  
-   Link: [https://langeek.co/en/grammar/course/636/how](https://langeek.co/en/grammar/course/636/how)  
+   Link: <a href="https://langeek.co/en/grammar/course/636/how" target="_blank" rel="noopener noreferrer nofollow">https://langeek.co/en/grammar/course/636/how</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use &quot;How&quot; in the English GrammarUse How as an interrogative adverb is used to ask questions about the way an action occurs. It als...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/how](https://www.merriam-webster.com/dictionary/how)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/how" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/how</a>  
 
 19. <a id="endnote-19"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/LALHAH](https://philpapers.org/rec/LALHAH)  
+   Link: <a href="https://philpapers.org/rec/LALHAH" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/LALHAH</a>  
 
 20. <a id="endnote-20"></a>
    Source: blog.theteamw.com  
-   Link: [https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/](https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/)  
+   Link: <a href="https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/" target="_blank" rel="noopener noreferrer nofollow">https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time To Form A Habit Is 66 Days – The Team W, Inc.Mar 18, 2011 — The average amount of time it took for people to form a habit was 66 day...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/how](https://www.collinsdictionary.com/dictionary/english/how)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/how</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in what way or manner; by what means? How did the accident happen? · 2. to what extent, degree, etc.? How damaged...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100075645770251/posts/a-2009-study-of-phillippa-lally-et-al-showed-that-the-average-days-in-forming-a-/204505905414267/](https://www.facebook.com/100075645770251/posts/a-2009-study-of-phillippa-lally-et-al-showed-that-the-average-days-in-forming-a-/204505905414267/)  
+   Link: <a href="https://www.facebook.com/100075645770251/posts/a-2009-study-of-phillippa-lally-et-al-showed-that-the-average-days-in-forming-a-/204505905414267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100075645770251/posts/a-2009-study-of-phillippa-lally-et-al-showed-that-the-average-days-in-forming-a-/204505905414267/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2009 study of Phillippa Lally et al., showed that the...According to a 2009 study, it can take anywhere from 18 to 254 days to develop...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mentalzon.com  
    Title: 66 days to build a new habit why it’s not a myth but real habit psychology  
-   Link: [https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology](https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology)  
+   Link: <a href="https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology" target="_blank" rel="noopener noreferrer nofollow">https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>66 Days to Build a New Habit: Why It&#x27;s Not a Myth, But Real...Nov 1, 2025 — The result: on average, it took 66 days for the new behavior...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
    Title: Modeling habit formation in the real world | Request PDFLally et al  
-   Link: [https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world](https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2010) demonstrated that new behavioural patterns require between 18 and 254 days to reach automaticity, with a median of approximately 6...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: openresearch.surrey.ac.uk  
    Title: Open Research Surrey Modelling habit formation in the real world  
-   Link: [https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346](https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346)  
+   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How are habits formed: Modelling habit formation in the real world; Publication Details. European journal of social psychology, Vol.40(6...</p></details>

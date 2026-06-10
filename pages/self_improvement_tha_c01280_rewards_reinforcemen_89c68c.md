@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:47:25'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /saving/
   short_title: Saving
   heading_title: How to Save Before You Spend
-date: '2026-06-05 14:47:25 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c-overview.webp
@@ -506,7 +506,7 @@ Rewards can help [self improvement]({{ 'self-improvement-that-works/' | relative
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c-overview.webp" | relative_url }}" alt="Overview image for Rewards" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is mixed in a useful way. Behavioural research shows that rewards and incentives can increase actions such as exercising or stopping smoking, especially when the target is concrete and the reward is tied to verified behaviour. But [motivation]({{ 'motivation/' | relative_url }}) research also shows that expected tangible rewards can reduce intrinsic motivation for activities people already find interesting, particularly when rewards feel controlling rather than supportive. The best reward is therefore not the biggest prize. It is the smallest satisfying consequence that helps the behaviour connect back to autonomy, competence and personal [meaning]({{ 'meaning/' | relative_url }}). Self Determination Theory 3Cochrane <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=905026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNIncentives to Exercise by Gary Charness, Uri Gneezyby G Charness · 2008 · Cited by 1053 — We investigate the effect of paying people...</span></span></span>
+The evidence is mixed in a useful way. Behavioural research shows that rewards and incentives can increase actions such as exercising or stopping smoking, especially when the target is concrete and the reward is tied to verified behaviour. But [motivation]({{ 'motivation/' | relative_url }}) research also shows that expected tangible rewards can reduce intrinsic motivation for activities people already find interesting, particularly when rewards feel controlling rather than supportive. The best reward is therefore not the biggest prize. It is the smallest satisfying consequence that helps the behaviour connect back to autonomy, competence and personal [meaning]({{ 'meaning/' | relative_url }}). Self Determination Theory 3Cochrane <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=905026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Incentives to Exercise by Gary Charness, Uri Gneezyby G Charness · 2008 · Cited by 1053 — We investigate the effect of paying people...</span></span></span>
 
 ## Why immediate rewards matter when the real payoff is delayed
 
@@ -545,9 +545,9 @@ The risk is strongest when a reward is expected, tangible and tied to doing an a
 
 ## When incentives help rather than spoil the habit
 
-There are situations where external incentives are not only defensible but useful. They can help people start a behaviour with high immediate friction, visible health stakes, or delayed benefits. Smoking cessation is a strong example. A 2025 Cochrane summary reported that financial rewards helped people quit smoking at six months or longer: about 10 in 100 people receiving incentives had quit, compared with about 7 in 100 without incentives. Among pregnant people, the estimated difference was larger: about 13 in 100 receiving rewards compared with 6 in 100 without. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">CD004307 can rewards help people quit smoking and do they work long term</span><span class="citation-popover-snippet">CochraneCan rewards help people quit smoking, and do they work...13 Jan 2025 — For every 100 people who received financial incentives, 1...</span></span></span>
+There are situations where external incentives are not only defensible but useful. They can help people start a behaviour with high immediate friction, visible health stakes, or delayed benefits. Smoking cessation is a strong example. A 2025 Cochrane summary reported that financial rewards helped people quit smoking at six months or longer: about 10 in 100 people receiving incentives had quit, compared with about 7 in 100 without incentives. Among pregnant people, the estimated difference was larger: about 13 in 100 receiving rewards compared with 6 in 100 without. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">CD004307 can rewards help people quit smoking and do they work long term</span><span class="citation-popover-snippet">Can rewards help people quit smoking, and do they work...13 Jan 2025 — For every 100 people who received financial incentives, 1...</span></span></span>
 
-Exercise research shows a similar but more cautious pattern. Reviews of financial incentives for exercise have found that incentives often improve behaviour while they are in place, but evidence for sustained behaviour after incentives end is mixed. A field experiment by Gary Charness and Uri Gneezy found that paying people to attend a gym increased attendance even after the incentive period ended, suggesting that incentives can sometimes create enough repetition for a habit to begin. Later work has also found short-run habit formation, while noting decay over interruptions such as a semester break. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=905026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNIncentives to Exercise by Gary Charness, Uri Gneezyby G Charness · 2008 · Cited by 1053 — We investigate the effect of paying people...</span></span></span>
+Exercise research shows a similar but more cautious pattern. Reviews of financial incentives for exercise have found that incentives often improve behaviour while they are in place, but evidence for sustained behaviour after incentives end is mixed. A field experiment by Gary Charness and Uri Gneezy found that paying people to attend a gym increased attendance even after the incentive period ended, suggesting that incentives can sometimes create enough repetition for a habit to begin. Later work has also found short-run habit formation, while noting decay over interruptions such as a semester break. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=905026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Incentives to Exercise by Gary Charness, Uri Gneezyby G Charness · 2008 · Cited by 1053 — We investigate the effect of paying people...</span></span></span>
 
 The practical lesson is that incentives are best used as scaffolding. Scaffolding helps people cross the hardest early gap: joining the gym, attending enough times to learn the machines, getting through withdrawal, building a streak, or proving that a new routine is possible. But scaffolding is not the house. If the incentive never helps the person build a more internal reason — feeling better, belonging to a group, valuing health, enjoying mastery — the behaviour may fade when the reward disappears.
 
@@ -1043,181 +1043,181 @@ This is the difference between reinforcement and bribery. Reinforcement strength
 1. <a id="endnote-1"></a>
    Source: cochrane.org  
    Title: CD004307 can rewards help people quit smoking and do they work long term  
-   Link: [https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term](https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CochraneCan rewards help people quit smoking, and do they work...13 Jan 2025 — For every 100 people who received financial incentives, 1...</p></details>
+   Link: <a href="https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD004307_can-rewards-help-people-quit-smoking-and-do-they-work-long-term</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can rewards help people quit smoking, and do they work...13 Jan 2025 — For every 100 people who received financial incentives, 1...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=905026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=905026)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNIncentives to Exercise by Gary Charness, Uri Gneezyby G Charness · 2008 · Cited by 1053 — We investigate the effect of paying people...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=905026" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=905026</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incentives to Exercise by Gary Charness, Uri Gneezyby G Charness · 2008 · Cited by 1053 — We investigate the effect of paying people...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2402.00121](https://arxiv.org/abs/2402.00121)  
+   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
 
 4. <a id="endnote-4"></a>
    Source: cochrane.org  
    Title: featured review incentives smoking cessation 0  
-   Link: [https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0](https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0)  
+   Link: <a href="https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/featured-review-incentives-smoking-cessation-0</a>  
 
 5. <a id="endnote-5"></a>
    Source: self.inc  
-   Link: [https://www.self.inc/](https://www.self.inc/)  
+   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Bribery vs. Reinforcement: The Differences and Why It Matters  
-   Link: [https://www.youtube.com/watch?v=CjmVT2oq88Q](https://www.youtube.com/watch?v=CjmVT2oq88Q)  
+   Link: <a href="https://www.youtube.com/watch?v=CjmVT2oq88Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CjmVT2oq88Q</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Self-Determination Theory Explained  
-   Link: [https://www.youtube.com/watch?v=ZpAwJKq8TOc](https://www.youtube.com/watch?v=ZpAwJKq8TOc)  
+   Link: <a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZpAwJKq8TOc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Deci&#x27;s Self-Determination Theory | Motivation Psychology...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10589297/](https://pubmed.ncbi.nlm.nih.gov/10589297/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10589297/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As predicted, engagement-contingent, completion-contingent...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 RyanDeci SDT  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 88470 — The findings...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/</a>  
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Operant Conditioning  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1473025/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1473025/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1473025/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1473025/</a>  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Impact of Incentives on Exercise Behavior  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4412849/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4412849/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4412849/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4412849/</a>  
 
 14. <a id="endnote-14"></a>
    Source: selfdeterminationtheory.org  
    Title: 1999 DeciKoestnerRyan Meta  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2014/04/1999_DeciKoestnerRyan_Meta.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/1999_DeciKoestnerRyan_Meta.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/1999_DeciKoestnerRyan_Meta.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/1999_DeciKoestnerRyan_Meta.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24307474/](https://pubmed.ncbi.nlm.nih.gov/24307474/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24307474/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24307474/</a>  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/self-determination-theory](https://www.sciencedirect.com/topics/social-sciences/self-determination-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Self](https://en.wikipedia.org/wiki/Self)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Self determination theory  
-   Link: [https://en.wikipedia.org/wiki/Self-determination_theory](https://en.wikipedia.org/wiki/Self-determination_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Operant conditioning  
-   Link: [https://en.wikipedia.org/wiki/Operant_conditioning](https://en.wikipedia.org/wiki/Operant_conditioning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Operant_conditioning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operant_conditioning</a>  
 
 20. <a id="endnote-20"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_juPDoa3GBY](https://www.youtube.com/watch?v=_juPDoa3GBY)  
+   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
 
 22. <a id="endnote-22"></a>
    Source: people-shift.com  
    Title: self determination theory autonomy competence and relatedness at work  
-   Link: [https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/](https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/)  
+   Link: <a href="https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/</a>  
 
 23. <a id="endnote-23"></a>
    Source: faculty.econ.ucsb.edu  
-   Link: [https://faculty.econ.ucsb.edu/~charness/papers/exercise.pdf](https://faculty.econ.ucsb.edu/~charness/papers/exercise.pdf)  
+   Link: <a href="https://faculty.econ.ucsb.edu/~charness/papers/exercise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.econ.ucsb.edu/~charness/papers/exercise.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: calm.com  
    Title: operant conditioning  
-   Link: [https://www.calm.com/blog/operant-conditioning](https://www.calm.com/blog/operant-conditioning)  
+   Link: <a href="https://www.calm.com/blog/operant-conditioning" target="_blank" rel="noopener noreferrer nofollow">https://www.calm.com/blog/operant-conditioning</a>  
 
 25. <a id="endnote-25"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/](https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
 
 26. <a id="endnote-26"></a>
    Source: cochranelibrary.com  
    Title: Incentives for smoking cessation  
-   Link: [https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub7/references](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub7/references)  
+   Link: <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub7/references" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004307.pub7/references</a>  
 
 27. <a id="endnote-27"></a>
    Source: coachpedropinto.com  
    Title: habit formation  
-   Link: [https://coachpedropinto.com/habit-formation/](https://coachpedropinto.com/habit-formation/)  
+   Link: <a href="https://coachpedropinto.com/habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation/</a>  
 
 28. <a id="endnote-28"></a>
    Source: yukaichou.com  
    Title: Self-Determination Theory: All 6 Mini-Theories  
-   Link: [https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/](https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/)  
+   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Behavior Mini-Course Episode 5  
-   Link: [https://www.youtube.com/watch?v=Lklr75nqCsA](https://www.youtube.com/watch?v=Lklr75nqCsA)  
+   Link: <a href="https://www.youtube.com/watch?v=Lklr75nqCsA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lklr75nqCsA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Duhigg&#x27;s Habit Loop to Power Your Personal Development Goals...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Edward Deci's Self-Determination Theory | Motivation Psychology  
-   Link: [https://www.youtube.com/watch?v=M4wNIOREiVU](https://www.youtube.com/watch?v=M4wNIOREiVU)  
+   Link: <a href="https://www.youtube.com/watch?v=M4wNIOREiVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M4wNIOREiVU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Mini-Course Episode 5 - From Bribery to Reinforcement...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/329822565_Exploratory_study_of_the_impact_of_perceived_reward_on_habit_formation](https://www.researchgate.net/publication/329822565_Exploratory_study_of_the_impact_of_perceived_reward_on_habit_formation)  
+   Link: <a href="https://www.researchgate.net/publication/329822565_Exploratory_study_of_the_impact_of_perceived_reward_on_habit_formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329822565_Exploratory_study_of_the_impact_of_perceived_reward_on_habit_formation</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
 33. <a id="endnote-33"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/behavior](https://www.merriam-webster.com/dictionary/behavior)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavior</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/upseducation/posts/can-rewards-actually-kill-motivation-this-post-breaks-down-the-overjustification/1301895868633964/](https://www.facebook.com/upseducation/posts/can-rewards-actually-kill-motivation-this-post-breaks-down-the-overjustification/1301895868633964/)  
+   Link: <a href="https://www.facebook.com/upseducation/posts/can-rewards-actually-kill-motivation-this-post-breaks-down-the-overjustification/1301895868633964/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/upseducation/posts/can-rewards-actually-kill-motivation-this-post-breaks-down-the-overjustification/1301895868633964/</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/319864959_Do_Self-Incentives_Change_Behavior_A_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/319864959_Do_Self-Incentives_Change_Behavior_A_Systematic_Review_and_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/319864959_Do_Self-Incentives_Change_Behavior_A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319864959_Do_Self-Incentives_Change_Behavior_A_Systematic_Review_and_Meta-Analysis</a>  
 
 36. <a id="endnote-36"></a>
    Source: minihabits.com  
-   Link: [https://minihabits.com/dont-use-rewards-for-motivation/](https://minihabits.com/dont-use-rewards-for-motivation/)  
+   Link: <a href="https://minihabits.com/dont-use-rewards-for-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://minihabits.com/dont-use-rewards-for-motivation/</a>  
 
 37. <a id="endnote-37"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-mission/dont-use-rewards-for-motivation-e88c933e26a3](https://medium.com/the-mission/dont-use-rewards-for-motivation-e88c933e26a3)  
+   Link: <a href="https://medium.com/the-mission/dont-use-rewards-for-motivation-e88c933e26a3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mission/dont-use-rewards-for-motivation-e88c933e26a3</a>  
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Judy-Cameron/publication/12712630_Effects_of_reward_on_intrinsic_motivation_-_Negative_neutral_and_positive_Comment_on_Deci_Koestner_and_Ryan_1999/links/54bd6c190cf218da9391b130/Effects-of-reward-on-intrinsic-motivation-Negative-neutral-and-positive-Comment-on-Deci-Koestner-and-Ryan-1999.pdf](https://www.researchgate.net/profile/Judy-Cameron/publication/12712630_Effects_of_reward_on_intrinsic_motivation_-_Negative_neutral_and_positive_Comment_on_Deci_Koestner_and_Ryan_1999/links/54bd6c190cf218da9391b130/Effects-of-reward-on-intrinsic-motivation-Negative-neutral-and-positive-Comment-on-Deci-Koestner-and-Ryan-1999.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Judy-Cameron/publication/12712630_Effects_of_reward_on_intrinsic_motivation_-_Negative_neutral_and_positive_Comment_on_Deci_Koestner_and_Ryan_1999/links/54bd6c190cf218da9391b130/Effects-of-reward-on-intrinsic-motivation-Negative-neutral-and-positive-Comment-on-Deci-Koestner-and-Ryan-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Judy-Cameron/publication/12712630_Effects_of_reward_on_intrinsic_motivation_-_Negative_neutral_and_positive_Comment_on_Deci_Koestner_and_Ryan_1999/links/54bd6c190cf218da9391b130/Effects-of-reward-on-intrinsic-motivation-Negative-neutral-and-positive-Comment-on-Deci-Koestner-and-Ryan-1999.pdf</a>  

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 16:11:15'
 parent_title: What Makes a Self Improvement App Useful? | Better Change
 parent_permalink: /digital-tools/
 parent_nav_short_title: Digital Tools
@@ -265,7 +266,6 @@ next_link:
   permalink: /streaks-78cd9d/
   short_title: Streaks
   heading_title: Do streaks motivate or set you up to quit?
-date: '2026-06-05 16:11:15 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-1.webp
@@ -278,13 +278,13 @@ Most reminders fail for a simple reason: they assume forgetting is the problem. 
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-1-dark.svg" | relative_url }}" alt="Reminders illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on digital behaviour-change interventions consistently finds that [prompts and cues]({{ 'cues/' | relative_url }}) can [support]({{ 'support/' | relative_url }}) action, but their effectiveness depends heavily on timing, context and the user's ability to act. The most useful reminders do not merely repeat instructions. They increase the chances that a person can do something useful right now. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg | Core Message...</span></span></span>
+Research on digital behaviour-change interventions consistently finds that prompts and cues can [support]({{ 'support/' | relative_url }}) action, but their effectiveness depends heavily on timing, context and the user's ability to act. The most useful reminders do not merely repeat instructions. They increase the chances that a person can do something useful right now. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg &#124; Core Message...</span></span></span>
 
 ## What a good cue can do
 
 A reminder is best understood as a cue rather than a motivational speech. Its job is not to create determination from nothing. Its job is to bring an intended behaviour to mind at the right moment.
 
-Behaviour scientist BJ Fogg's Behaviour Model argues that behaviour occurs when [motivation]({{ 'motivation/' | relative_url }}), ability and a prompt converge at the same time. If the prompt arrives but the person lacks the ability to act, the behaviour is unlikely to happen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg | Core Message...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
+Behaviour scientist BJ Fogg's Behaviour Model argues that behaviour occurs when [motivation]({{ 'motivation/' | relative_url }}), ability and a prompt converge at the same time. If the prompt arrives but the person lacks the ability to act, the behaviour is unlikely to happen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg &#124; Core Message...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
 This helps explain why some app reminders feel surprisingly useful:
 
@@ -310,20 +310,20 @@ Imagine an exercise app that sends the same notification every day at 6 pm. If t
 
 This distinction matters because repeated prompts can create several unintended effects:
 
-**Prompt fatigue.** Notifications become background noise and are ignored automatically. The user stops distinguishing between important and unimportant alerts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCJust-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2532 — JITAI is an intervention design...</span></span></span>
+**Prompt fatigue.** Notifications become background noise and are ignored automatically. The user stops distinguishing between important and unimportant alerts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2532 — JITAI is an intervention design...</span></span></span>
 
 **Learned dismissal.** If reminders repeatedly arrive when action is impossible, users learn that opening or responding is not worth the effort.
 
-**Guilt without progress.** A reminder can increase awareness of a goal while doing nothing to increase the ability to pursue it. The result is frustration rather than behaviour change.
+**Guilt without progress.** A reminder can increase awareness of a goal while doing nothing to increase the ability to pursue it. The result is frustration rather than [behaviour change]({{ 'behaviour-change/' | relative_url }}).
 
 **Notification blindness.** Modern smartphones compete for attention. A reminder must compete with messages, emails, news alerts and social media notifications. Generic prompts are easily lost.
 
 The practical lesson is that reminders are poor solutions for barriers involving energy, pain, money, workload or major life constraints. When those factors dominate, changing the task itself is often more effective than increasing reminder [frequency]({{ 'frequency/' | relative_url }}). A ten-minute walk may be feasible where a one-hour workout is not. A reminder to read one page may succeed where a reminder to study for an hour fails.
 
-This insight is reflected in behaviour-design frameworks that emphasise ability and simplicity alongside prompting. When behaviour does not occur, the [missing ingredient]({{ 'missing-ingredient/' | relative_url }}) is often feasibility rather than motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg | Core Message...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Fogg Behavior ModelMotivation: The desire to perform the behavior, driven by factors such as pleasure/pain, hope/fear, and social accepta...</span></span></span>
+This insight is reflected in behaviour-design frameworks that emphasise ability and simplicity alongside prompting. When behaviour does not occur, the missing ingredient is often feasibility rather than motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg &#124; Core Message...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Fogg Behavior ModelMotivation: The desire to perform the behavior, driven by factors such as pleasure/pain, hope/fear, and social accepta...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pRB5gxmf2yQ" title="A Survey of Notification Designs in Commercial mHealth Apps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pRB5gxmf2yQ" target="_blank" rel="noopener noreferrer">A Survey of Notification Designs in Commercial mHealth Apps</a></p><p class="youtube-embed-meta">Channel: ACM SIGCHI &middot; Views: 96 &middot; Uploaded: May 2021 &middot; Length: 4 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pRB5gxmf2yQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pRB5gxmf2yQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oRkKWPqEkYU" title="How Simplicity Changes Behavior -- BJ Fogg&#x27;s Behavior Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oRkKWPqEkYU" target="_blank" rel="noopener noreferrer">How Simplicity Changes Behavior -- BJ Fogg&#x27;s Behavior Model</a></p><p class="youtube-embed-meta">Channel: Dr. BJ Fogg &middot; Views: 8.9K &middot; Uploaded: November 2020 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oRkKWPqEkYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oRkKWPqEkYU">Open on YouTube</a></p></div></div></div>
 
 ## Designing prompts around feasible actions
 
@@ -345,7 +345,7 @@ The smaller the required action, the less the reminder depends on high motivatio
 
 A reminder is more useful when it reflects current circumstances.
 
-Researchers describe this approach as a Just-In-Time Adaptive Intervention (JITAI): support delivered at the right moment, based on changing conditions rather than a fixed schedule. Instead of sending the same notification every day, a system adapts according to location, activity patterns, time availability or behavioural risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10337295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCHow Notifications Affect Engagement With a Behavior Change...by L Bell · 2023 · Cited by 38 — Push notifications (reminders or pop-up...</span></span></span>
+Researchers describe this approach as a Just-In-Time Adaptive Intervention ([JITAI]({{ 'jitai/' | relative_url }})): support delivered at the right moment, based on changing conditions rather than a fixed schedule. Instead of sending the same notification every day, a system adapts according to location, activity patterns, time availability or behavioural risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10337295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">How Notifications Affect Engagement With a Behavior Change...by L Bell · 2023 · Cited by 38 — Push notifications (reminders or pop-up...</span></span></span>
 
 Examples include:
 
@@ -362,13 +362,13 @@ Examples include:
 The key idea is responsiveness. The reminder is triggered by opportunity rather than merely by the clock.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iQLhihcfBSY" title="Just-In-Time Adaptive Interventions (JITAI) in mHealth | DIGIT-MI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iQLhihcfBSY" target="_blank" rel="noopener noreferrer">Just-In-Time Adaptive Interventions (JITAI) in mHealth | DIGIT-MI</a></p><p class="youtube-embed-meta">Channel: Eisenberg Family Depression Center &middot; Views: 710 &middot; Uploaded: December 2023 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iQLhihcfBSY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iQLhihcfBSY">Open on YouTube</a></p></div></div></div>
 
 ### Respect receptiveness
 
 Even a well-designed suggestion can fail if delivered at the wrong moment.
 
-A growing area of digital-health research examines "receptiveness"—whether a user is currently able and willing to engage with support. Some systems attempt to infer this from behavioural data, while others allow users to customise reminder windows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchprotocols.org/2020/8/e18690/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchprotocols.org">[JMIR Research Protocols]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchprotocols.org</span><span class="citation-popover-snippet">JMIR Research ProtocolsNotifications to Improve Engagement With an Alcohol...by L Bell · 2020 · Cited by 35 — The primary objective is t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCJust-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2532 — JITAI is an intervention design...</span></span></span>
+A growing area of digital-health research examines "receptiveness"—whether a user is currently able and willing to engage with support. Some systems attempt to infer this from behavioural data, while others allow users to customise reminder windows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchprotocols.org/2020/8/e18690/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchprotocols.org">[JMIR Research Protocols]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchprotocols.org</span><span class="citation-popover-snippet">JMIR Research ProtocolsNotifications to Improve Engagement With an Alcohol...by L Bell · 2020 · Cited by 35 — The primary objective is t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2532 — JITAI is an intervention design...</span></span></span>
 
 This reflects a simple truth: the best reminder is often the one that arrives when the user has spare attention.
 
@@ -389,7 +389,7 @@ If reminders are consistently dismissed, the system can:
 
 </div>
 
-Adaptive reminder systems using machine learning and reinforcement learning have been explored specifically to identify moments when users are more likely to respond. Early studies suggest that timing can be improved by learning from behavioural patterns rather than relying on fixed schedules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edepot.wur.nl/549193" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edepot.wur.nl">[eDepot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edepot.wur.nl</span><span class="citation-popover-title">e Depot Reinforcement Learning to Send Reminders at Right Moments</span><span class="citation-popover-snippet">eDepotReinforcement Learning to Send Reminders at Right Moments...June 4, 2021 — by S Wang · 2021 · Cited by 36 — In our study, a smartp...</span><span class="citation-popover-meta">Published: June 4, 2021</span></span></span>
+Adaptive reminder systems using machine learning and reinforcement learning have been explored specifically to identify moments when users are more likely to respond. Early studies suggest that timing can be improved by learning from behavioural patterns rather than relying on fixed schedules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edepot.wur.nl/549193" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edepot.wur.nl">[eDepot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edepot.wur.nl</span><span class="citation-popover-title">e Depot Reinforcement Learning to Send Reminders at Right Moments</span><span class="citation-popover-snippet">Reinforcement Learning to Send Reminders at Right Moments...June 4, 2021 — by S Wang · 2021 · Cited by 36 — In our study, a smartp...</span><span class="citation-popover-meta">Published: June 4, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-3-dark.svg" | relative_url }}" alt="Reminders illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -414,13 +414,13 @@ For example:
 In these cases, the app reminder acts as temporary scaffolding. Once the behaviour becomes reliably attached to an existing routine, the notification can often be reduced or removed.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oRkKWPqEkYU" title="How Simplicity Changes Behavior -- BJ Fogg&#x27;s Behavior Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oRkKWPqEkYU" target="_blank" rel="noopener noreferrer">How Simplicity Changes Behavior -- BJ Fogg&#x27;s Behavior Model</a></p><p class="youtube-embed-meta">Channel: Dr. BJ Fogg &middot; Views: 8.9K &middot; Uploaded: November 2020 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oRkKWPqEkYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oRkKWPqEkYU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jsbF9z6adAo" title="Fogg behavior model in 2 minutes and 30 seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer">Fogg behavior model in 2 minutes and 30 seconds</a></p><p class="youtube-embed-meta">Channel: Kris Skrinak &middot; Views: 78.3K &middot; Uploaded: March 2015 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jsbF9z6adAo">Open on YouTube</a></p></div></div></div>
 
 ## The practical takeaway
 
 A helpful reminder answers the question, "Can I realistically do something useful right now?" A nagging reminder repeatedly asks, "Why haven't you done this yet?"
 
-The difference is not mainly frequency. It is alignment with real-world constraints. Effective prompts arrive near an opportunity for action, point to a feasible next step and adapt when circumstances change. When the true barrier is low energy, lack of time, stress, pain or cost, additional reminders rarely solve the problem. In those situations, simplifying the behaviour or removing obstacles is usually more powerful than sending another notification. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg | Core Message...</span></span></span>
+The difference is not mainly frequency. It is alignment with real-world constraints. Effective prompts arrive near an opportunity for action, point to a feasible next step and adapt when circumstances change. When the true barrier is low energy, lack of time, stress, pain or cost, additional reminders rarely solve the problem. In those situations, simplifying the behaviour or removing obstacles is usually more powerful than sending another notification. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg &#124; Core Message...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -843,177 +843,177 @@ The difference is not mainly frequency. It is alignment with real-world constrai
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCJust-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2532 — JITAI is an intervention design...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2532 — JITAI is an intervention design...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Five studies reported a theory  
-   Link: [https://www.researchgate.net/publication/352143472_Reinforcement_Learning_to_Send_Reminders_at_Right_Moments_in_Smartphone_Exercise_Application_A_Feasibility_Study](https://www.researchgate.net/publication/352143472_Reinforcement_Learning_to_Send_Reminders_at_Right_Moments_in_Smartphone_Exercise_Application_A_Feasibility_Study)  
+   Link: <a href="https://www.researchgate.net/publication/352143472_Reinforcement_Learning_to_Send_Reminders_at_Right_Moments_in_Smartphone_Exercise_Application_A_Feasibility_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352143472_Reinforcement_Learning_to_Send_Reminders_at_Right_Moments_in_Smartphone_Exercise_Application_A_Feasibility_Study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Reinforcement Learning to Send Reminders at Right...June 4, 2021 — Common behaviour change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) were goal settin...</p></details>
    Published: June 4, 2021  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10337295/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10337295/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCHow Notifications Affect Engagement With a Behavior Change...by L Bell · 2023 · Cited by 38 — Push notifications (reminders or pop-up...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10337295/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10337295/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Notifications Affect Engagement With a Behavior Change...by L Bell · 2023 · Cited by 38 — Push notifications (reminders or pop-up...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=k-TCLz37IPE](https://www.youtube.com/watch?v=k-TCLz37IPE)  
+   Link: <a href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k-TCLz37IPE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fogg Behavior Model: How to Turn Learning into ActionFog argues that making a behavior easier is often more efficient than try...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332205632_A_systematic_review_of_just-in-time_adaptive_interventions_JITAIs_to_promote_physical_activity](https://www.researchgate.net/publication/332205632_A_systematic_review_of_just-in-time_adaptive_interventions_JITAIs_to_promote_physical_activity)  
+   Link: <a href="https://www.researchgate.net/publication/332205632_A_systematic_review_of_just-in-time_adaptive_interventions_JITAIs_to_promote_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332205632_A_systematic_review_of_just-in-time_adaptive_interventions_JITAIs_to_promote_physical_activity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic review of just-in-time adaptive interventions...We define JITAIs as having three features: behavioural support that directl...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: usabilitypanda.com  
-   Link: [https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf](https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf)  
+   Link: <a href="https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4-weeN study exploring the impact of different types of cues and positive reinforcement on the development...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: formative.jmir.org  
-   Link: [https://formative.jmir.org/2021/1/e15369/](https://formative.jmir.org/2021/1/e15369/)  
+   Link: <a href="https://formative.jmir.org/2021/1/e15369/" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2021/1/e15369/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone App to Support Sedentary Behavior Change by...by Y Wang · 2021 · Cited by 26 — The app provides personal mobility pattern vis...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2021/9/e29412/](https://www.jmir.org/2021/9/e29412/)  
+   Link: <a href="https://www.jmir.org/2021/9/e29412/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2021/9/e29412/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Mechanisms of Popular Mobile Apps...by GW Teepe · 2021 · Cited by 69 — The aim of this study is to systematically...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=iQLhihcfBSY](https://www.youtube.com/watch?v=iQLhihcfBSY)  
+   Link: <a href="https://www.youtube.com/watch?v=iQLhihcfBSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iQLhihcfBSY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-In-Time Adaptive Interventions (JITAI) in mHealthIn this session, Drs. Mike Dorsch and Jessie Golbus present on just-in-time adaptiv...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont  
-   Link: [https://www.youtube.com/watch?v=AdKUJxjn-R8](https://www.youtube.com/watch?v=AdKUJxjn-R8)  
+   Link: <a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AdKUJxjn-R8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TINY HABITS by BJ Fogg | Core Message...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: TINY HABITS by BJ Fogg | Core Message  
-   Link: [https://www.youtube.com/watch?v=S_8e-6ZHKLs](https://www.youtube.com/watch?v=S_8e-6ZHKLs)  
+   Link: <a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_8e-6ZHKLs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg behavior model in 2 minutes and 30 seconds...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Fogg behavior model in 2 minutes and 30 seconds  
-   Link: [https://www.youtube.com/watch?v=jsbF9z6adAo](https://www.youtube.com/watch?v=jsbF9z6adAo)  
+   Link: <a href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jsbF9z6adAo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey of Notification Designs in Commercial mHealth Apps...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: A Survey of Notification Designs in Commercial m Health Apps  
-   Link: [https://www.youtube.com/watch?v=pRB5gxmf2yQ](https://www.youtube.com/watch?v=pRB5gxmf2yQ)  
+   Link: <a href="https://www.youtube.com/watch?v=pRB5gxmf2yQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pRB5gxmf2yQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Simplicity Changes Behavior -- BJ Fogg&#x27;s Behavior Model...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How Simplicity Changes Behavior -- BJ Fogg's Behavior Model  
-   Link: [https://www.youtube.com/watch?v=oRkKWPqEkYU](https://www.youtube.com/watch?v=oRkKWPqEkYU)  
+   Link: <a href="https://www.youtube.com/watch?v=oRkKWPqEkYU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oRkKWPqEkYU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg prompts tiny habits TINY HABITS by BJ Fogg | Core Message Productivity Game...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/](https://www.behaviormodel.org/)  
+   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/prompts](https://www.behaviormodel.org/prompts)  
+   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelPrompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design eff...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchprotocols.org  
-   Link: [https://www.researchprotocols.org/2020/8/e18690/](https://www.researchprotocols.org/2020/8/e18690/)  
+   Link: <a href="https://www.researchprotocols.org/2020/8/e18690/" target="_blank" rel="noopener noreferrer nofollow">https://www.researchprotocols.org/2020/8/e18690/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR Research ProtocolsNotifications to Improve Engagement With an Alcohol...by L Bell · 2020 · Cited by 35 — The primary objective is t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelMotivation: The desire to perform the behavior, driven by factors such as pleasure/pain, hope/fear, and social accepta...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchprotocols.org  
-   Link: [https://www.researchprotocols.org/2026/1/e79022](https://www.researchprotocols.org/2026/1/e79022)  
+   Link: <a href="https://www.researchprotocols.org/2026/1/e79022" target="_blank" rel="noopener noreferrer nofollow">https://www.researchprotocols.org/2026/1/e79022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR Research ProtocolsJust-in-Time Adaptive Intervention to Promote Walking...by CJ Firkin · 2026 · Cited by 1 — Our JITAI approach wil...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: edepot.wur.nl  
    Title: e Depot Reinforcement Learning to Send Reminders at Right Moments  
-   Link: [https://edepot.wur.nl/549193](https://edepot.wur.nl/549193)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eDepotReinforcement Learning to Send Reminders at Right Moments...June 4, 2021 — by S Wang · 2021 · Cited by 36 — In our study, a smartp...</p></details>
+   Link: <a href="https://edepot.wur.nl/549193" target="_blank" rel="noopener noreferrer nofollow">https://edepot.wur.nl/549193</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reinforcement Learning to Send Reminders at Right Moments...June 4, 2021 — by S Wang · 2021 · Cited by 36 — In our study, a smartp...</p></details>
    Published: June 4, 2021  
 
 22. <a id="endnote-22"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: [https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts](https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts)  
+   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069](https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069)  
+   Link: <a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesHow Understanding Motivation, Ability, and Prompts Can Enhance User Engagement and D...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: digitalcharitylab.org  
-   Link: [https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/](https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/)  
+   Link: <a href="https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior = Motivation + Ability + Prompt: The Fogg...27 Jun 2019 — Three elements must converge at the same moment for a behavior to occ...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thebettercompany.io  
-   Link: [https://thebettercompany.io/en/tiny-habits-method/](https://thebettercompany.io/en/tiny-habits-method/)  
+   Link: <a href="https://thebettercompany.io/en/tiny-habits-method/" target="_blank" rel="noopener noreferrer nofollow">https://thebettercompany.io/en/tiny-habits-method/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tivation (motivation), Ability (capability/simplicity) and a Prompt (cue/trigger)...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30943983/](https://pubmed.ncbi.nlm.nih.gov/30943983/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30943983/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30943983/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>systematic review of just-in-time adaptive interventions...by W Hardeman · 2019 · Cited by 438 — We conducted a systematic review of JIT...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ui-patterns.com  
    Title: making the fogg behavior model actionable  
-   Link: [https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable](https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable)  
+   Link: <a href="https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable" target="_blank" rel="noopener noreferrer nofollow">https://ui-patterns.com/blog/making-the-fogg-behavior-model-actionable</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Apr 2019 — BJ Fogg outlines three types of prompts, facilitators, sparks, and signals. A spark motivates behavior, a facilitator makes...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
    Title: For a behavior to happen, you need some  
-   Link: [https://www.facebook.com/NPR/posts/for-a-habit-to-stick-you-need-to-do-more-than-just-repeat-it-says-behavioral-sci/1357831806213815/](https://www.facebook.com/NPR/posts/for-a-habit-to-stick-you-need-to-do-more-than-just-repeat-it-says-behavioral-sci/1357831806213815/)  
+   Link: <a href="https://www.facebook.com/NPR/posts/for-a-habit-to-stick-you-need-to-do-more-than-just-repeat-it-says-behavioral-sci/1357831806213815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NPR/posts/for-a-habit-to-stick-you-need-to-do-more-than-just-repeat-it-says-behavioral-sci/1357831806213815/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For a habit to stick, you need to do more than just repeat it...Fogg&#x27;s model for behavior change relies on three components: Motivation...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: habitweekly.com  
-   Link: [https://www.habitweekly.com/models-frameworks/the-fogg-model](https://www.habitweekly.com/models-frameworks/the-fogg-model)  
+   Link: <a href="https://www.habitweekly.com/models-frameworks/the-fogg-model" target="_blank" rel="noopener noreferrer nofollow">https://www.habitweekly.com/models-frameworks/the-fogg-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on the person&#x27;s level of motivation and ability.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: triplewhale.com  
    Title: What Is the Fogg Behavior Model?  
-   Link: [https://www.triplewhale.com/blog/fogg-behavior-model](https://www.triplewhale.com/blog/fogg-behavior-model)  
+   Link: <a href="https://www.triplewhale.com/blog/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://www.triplewhale.com/blog/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Complete Guide to...12 Mar 2026 — The Fogg Behavior Model explains why behavior happens when motivation, ability, and a prompt align...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: yukaichou.com  
    Title: bj fogg extended part 1 of 2  
-   Link: [https://yukaichou.com/behavioral-analysis/bj-fogg-extended-part-1-of-2/](https://yukaichou.com/behavioral-analysis/bj-fogg-extended-part-1-of-2/)  
+   Link: <a href="https://yukaichou.com/behavioral-analysis/bj-fogg-extended-part-1-of-2/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/behavioral-analysis/bj-fogg-extended-part-1-of-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg Behavior Model: B=MAP Explained (2026)12 Nov 2019 — P stands for Prompt (the cue that tells them to do it now). The formula is mu...</p></details>

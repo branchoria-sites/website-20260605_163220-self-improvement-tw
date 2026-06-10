@@ -278,11 +278,11 @@ A common mistake in self-improvement is assuming that the most effective goal is
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-1-dark.svg" | relative_url }}" alt="Frequency illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A behaviour goal succeeds when it can be repeated over months, not when it survives a perfect week. Research on habit formation and self-regulation consistently points toward repetition in stable contexts, but it does not suggest that every worthwhile behaviour must occur daily. Sustainable frequency matters because missed days are inevitable, and a goal that collapses after ordinary disruption is often poorly designed rather than poorly motivated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The meta-analysis showed significant...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span>
+A behaviour goal succeeds when it can be repeated over months, not when it survives a perfect week. Research on habit formation and self-regulation consistently points toward repetition in stable contexts, but it does not suggest that every worthwhile behaviour must occur daily. Sustainable frequency matters because missed days are inevitable, and a goal that collapses after ordinary disruption is often poorly designed rather than poorly motivated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The meta-analysis showed significant...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span>
 
 ## Should Your Goal Really Be Daily?
 
-Daily goals have obvious advantages. They create regular cues, reduce decision-making and can speed the development of routines. Repetition in consistent contexts is a key ingredient of habit formation, which is one reason daily behaviours are often recommended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The meta-analysis showed significant...</span></span></span>
+Daily goals have obvious advantages. They create regular cues, reduce decision-making and can speed the development of routines. Repetition in consistent contexts is a key ingredient of habit formation, which is one reason daily behaviours are often recommended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The meta-analysis showed significant...</span></span></span>
 
 The problem is that people often confuse “daily” with “better”.
 
@@ -293,7 +293,7 @@ Consider two reading goals:
 
 The first sounds more ambitious. The second may be more durable. A person who misses Monday can still succeed. A person with the daily goal may feel they have already broken the streak and mentally write off the week.
 
-This is one reason overly rigid schedules can backfire. They create an all-or-nothing standard in which one interruption becomes evidence of failure. Self-regulation research has long shown that maintaining goal-directed behaviour requires adaptation to changing circumstances, not simply stronger [willpower]({{ 'willpower/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0148296322009006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSelf-regulation and goal-directed behavior: A systematic...by S Billore · 2023 · Cited by 112 — This article is one of the...</span></span></span>
+This is one reason overly rigid schedules can backfire. They create an all-or-nothing standard in which one interruption becomes evidence of failure. Self-regulation research has long shown that maintaining goal-directed behaviour requires adaptation to changing circumstances, not simply stronger [willpower]({{ 'willpower/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0148296322009006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-regulation and goal-directed behavior: A systematic...by S Billore · 2023 · Cited by 112 — This article is one of the...</span></span></span>
 
 A useful question is not “What frequency would be ideal in a perfect month?” but “What frequency would I still achieve during a stressful month?”
 
@@ -316,7 +316,7 @@ A daily goal assumes that every day offers a reasonable opportunity to act. Real
 
 When goals repeatedly collide with circumstances, people often draw the wrong conclusion. Instead of questioning the schedule, they question themselves. They assume the problem is laziness or lack of discipline when the real issue is that the frequency requirement exceeded what their [environment]({{ 'environment/' | relative_url }}) could [support]({{ 'support/' | relative_url }}).
 
-Research on habit formation also suggests that [automaticity]({{ 'automaticity/' | relative_url }}) develops through consistent repetition over time, but the process is highly variable. Some habits form relatively quickly, while others take many months. The critical factor is sustained repetition, not perfection. Missing occasional opportunities does not erase progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</span></span></span>
+Research on habit formation also suggests that [automaticity]({{ 'automaticity/' | relative_url }}) develops through consistent repetition over time, but the process is highly variable. Some habits form relatively quickly, while others take many months. The critical factor is sustained repetition, not perfection. Missing occasional opportunities does not erase progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</span></span></span>
 
 This distinction matters. A goal that can survive occasional misses is often stronger than a goal that demands uninterrupted compliance.
 
@@ -445,7 +445,7 @@ For these behaviours, forcing daily action may add complexity without adding val
 The schedule should reflect the behaviour's natural rhythm.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bdsc3Spm6Sw" title="Best Ways to Build Better Habits &amp; Break Bad Ones | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bdsc3Spm6Sw" target="_blank" rel="noopener noreferrer">Best Ways to Build Better Habits &amp; Break Bad Ones | James Clear</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 577.3K &middot; Uploaded: January 2026 &middot; Length: 2 hours 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bdsc3Spm6Sw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bdsc3Spm6Sw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/baBs0--gxjw" title="Stephen Guise on Using “Elastic Habits” to Create Positive Changes That Stick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=baBs0--gxjw" target="_blank" rel="noopener noreferrer">Stephen Guise on Using “Elastic Habits” to Create Positive Changes That Stick</a></p><p class="youtube-embed-meta">Channel: Muscle for Life with Mike Matthews &middot; Views: 4.8K &middot; Uploaded: December 2019 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=baBs0--gxjw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=baBs0--gxjw">Open on YouTube</a></p></div></div></div>
 
 ## The Hidden Advantage of Undercommitting
 
@@ -563,87 +563,103 @@ The most effective behaviour goals are not the most ambitious on paper. They are
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2006 Panini World Cup UNITED STATES Team Goal Masters #GM2 USA"><img src="{{ '/assets/images/marketplace-covers/f996a6756d950161d9af.jpg' | relative_url }}" alt="Listing image for 2006 Panini World Cup UNITED STATES Team Goal Masters #GM2 USA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Premier League 2026 Tins Globaller Goal Machine Big Game Baller Full Set"><img src="https://i.ebayimg.com/images/g/uVIAAeSweDNp5N1M/s-l225.jpg" alt="Listing image for Topps Premier League 2026 Tins Globaller Goal Machine Big Game Baller Full Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2006 Panini World Cup UNITED STATES Team Goal Masters #GM2 USA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Premier League 2026 Tins Globaller Goal Machine Big Game Baller Full Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.com</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Line Art cards signed -MT You Choose Complete Your set O24 COA"><img src="{{ '/assets/images/marketplace-covers/db4c6167d818ae838f61.jpg' | relative_url }}" alt="Listing image for Goal Line Art cards signed -MT You Choose Complete Your set O24 COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set"><img src="https://i.ebayimg.com/images/g/KpIAAeSwih9pQD2K/s-l225.jpg" alt="Listing image for Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Goal Line Art cards signed -MT You Choose Complete Your set O24 COA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.com</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vision Board Kit 150 Aesthetic Images Affirmation Cards &amp; Goal-Setting Tools"><img src="{{ '/assets/images/marketplace-covers/c40a45f3bca7162c460c.jpg' | relative_url }}" alt="Listing image for Vision Board Kit 150 Aesthetic Images Affirmation Cards &amp; Goal-Setting Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps 2026 Premier League Goal Machines Set SEALED"><img src="https://i.ebayimg.com/images/g/~psAAeSwyUlqHf-8/s-l225.jpg" alt="Listing image for Topps 2026 Premier League Goal Machines Set SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vision Board Kit 150 Aesthetic Images Affirmation Cards &amp; Goal-Setting Tools</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps 2026 Premier League Goal Machines Set SEALED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.com</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NHL &#x27;94 EA Sports Official Game Card Set Brand New 225 Cards Awesome Goal Tips++"><img src="{{ '/assets/images/marketplace-covers/5cc35a9bcc4ad629c527.jpg' | relative_url }}" alt="Listing image for NHL &#x27;94 EA Sports Official Game Card Set Brand New 225 Cards Awesome Goal Tips++" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Blue/Grey Back 1976 UK Football Gum Card 1 to 165 #Pick from List"><img src="https://i.ebayimg.com/images/g/uDoAAeSwpFxp3Cpv/s-l225.jpg" alt="Listing image for Topps Blue/Grey Back 1976 UK Football Gum Card 1 to 165 #Pick from List" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">NHL &#x27;94 EA Sports Official Game Card Set Brand New 225 Cards Awesome Goal Tips++</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Blue/Grey Back 1976 UK Football Gum Card 1 to 165 #Pick from List</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.com</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-should-your-goal-really-be-daily-self-improvement-that-works-goal-setting-cards&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -719,17 +735,31 @@ The most effective behaviour goals are not the most ambitious on paper. They are
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -742,42 +772,73 @@ The most effective behaviour goals are not the most ambitious on paper. They are
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -792,109 +853,113 @@ The most effective behaviour goals are not the most ambitious on paper. They are
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The meta-analysis showed significant...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The meta-analysis showed significant...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dornsife.usc.edu  
    Title: Wood.Mazar.Neal.2021  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Mazar_.Neal_.2021.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Mazar_.Neal_.2021.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Mazar_.Neal_.2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Mazar_.Neal_.2021.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeHabits and Goals in Human Behavior: Separate but Interacting...by W Wood · 2021 · Cited by 195 — Other lines of research hav...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0148296322009006](https://www.sciencedirect.com/science/article/pii/S0148296322009006)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSelf-regulation and goal-directed behavior: A systematic...by S Billore · 2023 · Cited by 112 — This article is one of the...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0148296322009006" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0148296322009006</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation and goal-directed behavior: A systematic...by S Billore · 2023 · Cited by 112 — This article is one of the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants](https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants)  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: who.int  
    Title: physical activity  
-   Link: [https://www.who.int/news-room/fact-sheets/detail/physical-activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)  
+   Link: <a href="https://www.who.int/news-room/fact-sheets/detail/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/fact-sheets/detail/physical-activity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationPhysical activity26 Jun 2024 — The WHO Global guidelines on physical activity and sedentary behaviour provide re...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236956891_Habit_Formation_Among_Regular_Exercisers_at_Fitness_Centers_An_Exploratory_Study](https://www.researchgate.net/publication/236956891_Habit_Formation_Among_Regular_Exercisers_at_Fitness_Centers_An_Exploratory_Study)  
+   Link: <a href="https://www.researchgate.net/publication/236956891_Habit_Formation_Among_Regular_Exercisers_at_Fitness_Centers_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236956891_Habit_Formation_Among_Regular_Exercisers_at_Fitness_Centers_An_Exploratory_Study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd then to inform interventions to increase exercise adherence...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: healthline.com  
-   Link: [https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit](https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit)  
+   Link: <a href="https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: How Long It Takes and How to Start NowOne strategy is to identify the places, people, or activities that are linked in y...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: topics.consensus.app  
-   Link: [https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review](https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review)  
+   Link: <a href="https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review" target="_blank" rel="noopener noreferrer nofollow">https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>consensus.appMeta-analysis shows planning workouts enhances...22 Jan 2026 — Related studies consistently find that exercise adherence is...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: wjarr.com  
-   Link: [https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf](https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf)  
+   Link: <a href="https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1333.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, this review aims to highlight effective strategies for fostering positive behavioral...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: changeit.co.nz  
    Title: changing habits through [goal setting](&#123;&#123; 'goal-setting/' | relative_url &#125;&#125;) and planning  
-   Link: [https://www.changeit.co.nz/changing-habits-through-goal-setting-and-planning/](https://www.changeit.co.nz/changing-habits-through-goal-setting-and-planning/)  
+   Link: <a href="https://www.changeit.co.nz/changing-habits-through-goal-setting-and-planning/" target="_blank" rel="noopener noreferrer nofollow">https://www.changeit.co.nz/changing-habits-through-goal-setting-and-planning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Sept 2015 — While statistics confirm that most resolutions will never be kept, a few simple [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) may improve your chances of success...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: malpaper.com  
    Title: how to track your habits for long term success  
-   Link: [https://malpaper.com/blogs/news/how-to-track-your-habits-for-long-term-success?srsltid=AfmBOorkitl6Mpc8pOzaogWEQg8cxDaDpzGVIF_orrq_DPtUGMP0Dmx2](https://malpaper.com/blogs/news/how-to-track-your-habits-for-long-term-success?srsltid=AfmBOorkitl6Mpc8pOzaogWEQg8cxDaDpzGVIF_orrq_DPtUGMP0Dmx2)  
+   Link: <a href="https://malpaper.com/blogs/news/how-to-track-your-habits-for-long-term-success?srsltid=AfmBOorkitl6Mpc8pOzaogWEQg8cxDaDpzGVIF_orrq_DPtUGMP0Dmx2" target="_blank" rel="noopener noreferrer nofollow">https://malpaper.com/blogs/news/how-to-track-your-habits-for-long-term-success?srsltid=AfmBOorkitl6Mpc8pOzaogWEQg8cxDaDpzGVIF_orrq_DPtUGMP0Dmx2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Track Your Habits for Long-Term Success8 Jul 2024 — Daily tracking is essential for maintaining consistency and building momentum...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/snehworld/posts/changing-old-habits-varies-for-each-person-it-depends-on-habit-complexity-motiva/1016503583175684/](https://www.facebook.com/snehworld/posts/changing-old-habits-varies-for-each-person-it-depends-on-habit-complexity-motiva/1016503583175684/)  
+   Link: <a href="https://www.facebook.com/snehworld/posts/changing-old-habits-varies-for-each-person-it-depends-on-habit-complexity-motiva/1016503583175684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/snehworld/posts/changing-old-habits-varies-for-each-person-it-depends-on-habit-complexity-motiva/1016503583175684/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>takes 18 to 254 days for a person to form a new habit. The study...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: trainingbyrobyn.com  
    Title: This means that making exercise a habit  
-   Link: [https://trainingbyrobyn.com/blog/setting-fitness-goals-that-last-how-to-build-sustainable-habitsbr](https://trainingbyrobyn.com/blog/setting-fitness-goals-that-last-how-to-build-sustainable-habitsbr)  
+   Link: <a href="https://trainingbyrobyn.com/blog/setting-fitness-goals-that-last-how-to-build-sustainable-habitsbr" target="_blank" rel="noopener noreferrer nofollow">https://trainingbyrobyn.com/blog/setting-fitness-goals-that-last-how-to-build-sustainable-habitsbr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Setting Fitness Goals That Last: How to Build Sustainable...26 Jan 2026 — Wendy Wood, in her research on habit formation, found that nea...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK566046/](https://www.ncbi.nlm.nih.gov/books/NBK566046/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK566046/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO Guidelines on Physical Activity...Adults should do at least 150–300 minutes of moderate-intensity aerobic physical activity; or at l...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: marketing.wharton.upenn.edu  
    Title: Paper Wood Wendy 03 18 2013  
-   Link: [https://marketing.wharton.upenn.edu/wp-content/uploads/2020/07/Paper-Wood-Wendy-03-18-2013.pdf](https://marketing.wharton.upenn.edu/wp-content/uploads/2020/07/Paper-Wood-Wendy-03-18-2013.pdf)  
+   Link: <a href="https://marketing.wharton.upenn.edu/wp-content/uploads/2020/07/Paper-Wood-Wendy-03-18-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marketing.wharton.upenn.edu/wp-content/uploads/2020/07/Paper-Wood-Wendy-03-18-2013.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as External Self-RegulationThis prior research has focused on goal-incongruent behaviors because of their obvious adverse effects on heal...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: hingehealth.com  
    Title: smart goal examples  
-   Link: [https://www.hingehealth.com/resources/articles/smart-goal-examples/](https://www.hingehealth.com/resources/articles/smart-goal-examples/)  
+   Link: <a href="https://www.hingehealth.com/resources/articles/smart-goal-examples/" target="_blank" rel="noopener noreferrer nofollow">https://www.hingehealth.com/resources/articles/smart-goal-examples/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SMART Goals: Examples and How to Set Them7 Apr 2025 — One of the most popular goal-setting strategies is the SMART framework. It stands f...</p></details>

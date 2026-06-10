@@ -314,13 +314,13 @@ A simple way to evaluate an anchor is to ask three questions:
 
 </div>
 
-For example, “after I pour my [morning coffee]({{ 'coffee-cue/' | relative_url }})” may be an excellent anchor for taking vitamins because both actions occur in the kitchen. It is less useful for a twenty-minute workout if you are usually rushing out of the house. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3pje2TsLrsQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">3 Build the Perfect Routine, Change Habits Effectively, and Improve at Anything...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">An association is...Read more...</span></span></span>
+For example, “after I pour my morning coffee” may be an excellent anchor for taking vitamins because both actions occur in the kitchen. It is less useful for a twenty-minute workout if you are usually rushing out of the house. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3pje2TsLrsQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">3 Build the Perfect Routine, Change Habits Effectively, and Improve at Anything...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">An association is...Read more...</span></span></span>
 
 ### Behaviour-Based Cues Often Beat Time-Based Cues
 
 Many people try to build habits around the clock: “I will read at 7:00 pm.” This can work, but time-based cues often fail when schedules change.
 
-Behaviour-based cues are frequently more robust because they travel with your routine. “After I finish dinner, I will read for ten minutes” still works whether dinner happens at 6:00 pm or 8:00 pm. This idea closely resembles implementation intentions, which strengthen behaviour by linking a specific cue to a specific response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">An association is...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 892 — Psychological theory and evide...</span></span></span>
+Behaviour-based cues are frequently more robust because they travel with your routine. “After I finish dinner, I will read for ten minutes” still works whether dinner happens at 6:00 pm or 8:00 pm. This idea closely resembles implementation intentions, which strengthen behaviour by linking a specific cue to a specific response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">An association is...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 892 — Psychological theory and evide...</span></span></span>
 
 A useful formula is:
 
@@ -439,7 +439,7 @@ Examples:
 * After making lunch, fill a water bottle.
 * After unpacking groceries, wash vegetables immediately.
 
-These cues occur at the point where food decisions are actually made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCInstant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (stra...</span></span></span>
+These cues occur at the point where food decisions are actually made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Instant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (stra...</span></span></span>
 
 ### Sleep Habits
 
@@ -451,7 +451,7 @@ Examples:
 * After plugging in your phone, stop checking messages.
 * After changing into sleepwear, begin a wind-down routine.
 
-These anchors help create a predictable sequence leading into sleep rather than relying on [willpower]({{ 'willpower/' | relative_url }}) late at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — Also, implementation intentions to pe...</span></span></span>
+These anchors help create a predictable sequence leading into sleep rather than relying on [willpower]({{ 'willpower/' | relative_url }}) late at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — Also, implementation intentions to pe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LhFpU04idLA" title="Habit Stacking - Build the Perfect Routine, Change Habits Effectively, and Improve at Anything!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LhFpU04idLA" target="_blank" rel="noopener noreferrer">Habit Stacking - Build the Perfect Routine, Change Habits Effectively, and Improve at Anything!</a></p><p class="youtube-embed-meta">Channel: Upgraded Mentality &middot; Views: 8.8K &middot; Uploaded: August 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LhFpU04idLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LhFpU04idLA">Open on YouTube</a></p></div></div></div>
@@ -898,176 +898,176 @@ For that reason, the best daily anchors are usually the routines that are alread
 
 1. <a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C](https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When encountered, cues activate a single, specific well-learned behavioral response.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dornsife.usc.edu  
    Title: Dornsife How do habits guide behavior?  
-   Link: [https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf)  
+   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived and actual triggers...by DT Neal · 2011 · Cited by 675 — What are the psychological mechanisms that trigger habits in daily li...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 892 — Psychological theory and evide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 892 — Psychological theory and evide...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: health.com  
-   Link: [https://www.health.com/habit-stacking-resolutions-8759073](https://www.health.com/habit-stacking-resolutions-8759073)  
+   Link: <a href="https://www.health.com/habit-stacking-resolutions-8759073" target="_blank" rel="noopener noreferrer nofollow">https://www.health.com/habit-stacking-resolutions-8759073</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduced by S.J. Scott in his 2014 book, the method builds on established behavioral psychology principles dating back to B.F. Skinner...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An association is...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInstant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (stra...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (stra...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCApplying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — Also, implementation intentions to pe...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — Also, implementation intentions to pe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: good.you  
    Title: Habit Stacking and Implementation Intentions  
-   Link: [https://good.you/growth/habits/habit-stacking-implementation-intentions](https://good.you/growth/habits/habit-stacking-implementation-intentions)  
+   Link: <a href="https://good.you/growth/habits/habit-stacking-implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://good.you/growth/habits/habit-stacking-implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2026 — Research on habit formation consistently finds that intention alone is a poor predictor of behaviour. The &quot;intention-behaviour...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: TINY HABITS Audiobook | Book  
-   Link: [https://www.youtube.com/watch?v=37cbpZFhFU8](https://www.youtube.com/watch?v=37cbpZFhFU8)  
+   Link: <a href="https://www.youtube.com/watch?v=37cbpZFhFU8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=37cbpZFhFU8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Tiny Habits - BJ Fogg PhD [Mind Map Book Summary]...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Tiny Habits  
-   Link: [https://www.youtube.com/watch?v=3pje2TsLrsQ](https://www.youtube.com/watch?v=3pje2TsLrsQ)  
+   Link: <a href="https://www.youtube.com/watch?v=3pje2TsLrsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pje2TsLrsQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Build the Perfect Routine, Change Habits Effectively, and Improve at Anything...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640](https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1248 — To promote habit formation...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/good-spot/](https://tinyhabits.com/good-spot/)  
+   Link: <a href="https://tinyhabits.com/good-spot/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/good-spot/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsFind a Good Spot in Your LifeIn the Tiny Habits method, you pick an existing routine to remind you to do the new tiny behavior...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thrivestreetadvisors.com  
-   Link: [https://www.thrivestreetadvisors.com/leadership-library/tiny-habits](https://www.thrivestreetadvisors.com/leadership-library/tiny-habits)  
+   Link: <a href="https://www.thrivestreetadvisors.com/leadership-library/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.thrivestreetadvisors.com/leadership-library/tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsThe Anatomy of Tiny Habits. 1. ANCHOR MOMENT: “An existing routine (like brushing your teeth) or an event that happens (like a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/](https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/)  
+   Link: <a href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investiga...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: drpaulmccarthy.com  
    Title: Your habit becomes more reliable when your anchor is solid  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Paul McCarthyTiny Habits: The Breakthrough Method for Building Life-...10 Feb 2026 — Habit recipes work like this: &quot;After I [existing...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/habit-stacking](https://jamesclear.com/habit-stacking)  
+   Link: <a href="https://jamesclear.com/habit-stacking" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-stacking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Build New Habits by Taking Advantage of Old OnesThe quickest way to build a new habit into your life is to stack it on top of a cu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Habit](https://en.wikipedia.org/wiki/Habit)  
+   Link: <a href="https://en.wikipedia.org/wiki/Habit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HabitA habit is a routine of behavior that is repeated regularly and tends to occur subconsciously. Good Habits Poster. The concept of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: brain.health  
-   Link: [https://brain.health/tiny-habits/](https://brain.health/tiny-habits/)  
+   Link: <a href="https://brain.health/tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://brain.health/tiny-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits® by BJ FoggAnchor Moment. An existing routine (like brushing your teeth); New Tiny Behaviour. A simple version of the new ha...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: themindmapguy.com  
    Title: Tiny Habits  
-   Link: [https://themindmapguy.com/blogs/book-summaries/tiny-habits-bj-fogg-phd](https://themindmapguy.com/blogs/book-summaries/tiny-habits-bj-fogg-phd)  
+   Link: <a href="https://themindmapguy.com/blogs/book-summaries/tiny-habits-bj-fogg-phd" target="_blank" rel="noopener noreferrer nofollow">https://themindmapguy.com/blogs/book-summaries/tiny-habits-bj-fogg-phd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg PhD6 Oct 2021 — ANCHOR MOMENT An existing routine (like brushing your teeth) or an... Anchor to describe something in your life...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavior scientis...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: parkerklein.com  
    Title: tiny habits  
-   Link: [https://www.parkerklein.com/notes/tiny-habits](https://www.parkerklein.com/notes/tiny-habits)  
+   Link: <a href="https://www.parkerklein.com/notes/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.parkerklein.com/notes/tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by BJ Fogg24 Jan 2022 — 1. Anchor moment. - An existing routine or event that happens which reminds you to do the new tiny behavior · 2...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thebehavioralscientist.com  
-   Link: [https://www.thebehavioralscientist.com/articles/fogg-behavior-model](https://www.thebehavioralscientist.com/articles/fogg-behavior-model)  
+   Link: <a href="https://www.thebehavioralscientist.com/articles/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/articles/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>existing routine or event that reliably occurs.Read more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change](https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change)  
+   Link: <a href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change</a>  
 
 25. <a id="endnote-25"></a>
    Source: dialecticalbehaviortherapy.com  
-   Link: [https://dialecticalbehaviortherapy.com/act/move-toward/habit-stacking/](https://dialecticalbehaviortherapy.com/act/move-toward/habit-stacking/)  
+   Link: <a href="https://dialecticalbehaviortherapy.com/act/move-toward/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow">https://dialecticalbehaviortherapy.com/act/move-toward/habit-stacking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit StackingHabit Stacking (popularized by BJ Fogg and James Clear) captures that principle in one line: “After [current habit], I will...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cohorty.app  
-   Link: [https://www.cohorty.app/blog/habit-stacking-how-to-build-new-habits-on-top-of-old-ones](https://www.cohorty.app/blog/habit-stacking-how-to-build-new-habits-on-top-of-old-ones)  
+   Link: <a href="https://www.cohorty.app/blog/habit-stacking-how-to-build-new-habits-on-top-of-old-ones" target="_blank" rel="noopener noreferrer nofollow">https://www.cohorty.app/blog/habit-stacking-how-to-build-new-habits-on-top-of-old-ones</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Stacking: How to Build New Habits on Top of Old OnesUse existing habits as triggers for new ones. Habit stacking leverages your bra...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: realsimple.com  
-   Link: [https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking](https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking)  
+   Link: <a href="https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This technique capitalizes on the brain&#x27;s established neural pathways, making new habits easier to adopt by tying them to familiar routin...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: joanwestenberg.medium.com  
-   Link: [https://joanwestenberg.medium.com/how-to-build-a-habit-lab-a-guide-to-scientifically-re-engineering-your-own-behaviour-913356a0b37f](https://joanwestenberg.medium.com/how-to-build-a-habit-lab-a-guide-to-scientifically-re-engineering-your-own-behaviour-913356a0b37f)  
+   Link: <a href="https://joanwestenberg.medium.com/how-to-build-a-habit-lab-a-guide-to-scientifically-re-engineering-your-own-behaviour-913356a0b37f" target="_blank" rel="noopener noreferrer nofollow">https://joanwestenberg.medium.com/how-to-build-a-habit-lab-a-guide-to-scientifically-re-engineering-your-own-behaviour-913356a0b37f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Build a Habit Lab: A Guide to Scientifically Re...BJ Fogg&#x27;s Tiny Habits method advises tying a desired pattern, like 15 minutes of me...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/habit](https://www.merriam-webster.com/dictionary/habit)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; MeaningThe word habit most often refers to a usual way of behaving or a tendency that someone has settled into, as in...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661324002663](https://www.sciencedirect.com/science/article/pii/S1364661324002663)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661324002663</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 44 — Similarly, stable cues and reduced action monito...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
    Title: 32898894 How are habits formed Modeling habit formation in the real world  
-   Link: [https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world](https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFThird, contemporary habit-formation models (Lally et al., 2010) highlight the gra...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: surrey.ac.uk  
    Title: does it really take [66 days](&#123;&#123; '66-days/' | relative_url &#125;&#125;) form habit we asked expert dr pippa lally  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: workmate.com  
    Title: implementation intentions vs habit stacking for professionals  
-   Link: [https://www.workmate.com/blog/implementation-intentions-vs-habit-stacking-for-professionals](https://www.workmate.com/blog/implementation-intentions-vs-habit-stacking-for-professionals)  
+   Link: <a href="https://www.workmate.com/blog/implementation-intentions-vs-habit-stacking-for-professionals" target="_blank" rel="noopener noreferrer nofollow">https://www.workmate.com/blog/implementation-intentions-vs-habit-stacking-for-professionals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 3, 2025 — Implementation intentions provide precise if-then plans that reliably improve follow-through for high-impulsivity professio...</p></details>

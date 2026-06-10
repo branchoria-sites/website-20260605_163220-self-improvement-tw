@@ -510,7 +510,7 @@ The strongest case is practical rather than magical. Research on post-meal movem
 
 ## Why lunch is such a strong cue
 
-Many self-improvement plans fail because the desired behaviour floats around the day without a reliable trigger. “Walk more” is easy to endorse and easy to forget. “Walk after lunch” is different: it attaches the action to a stable event. In habit terms, the same context repeatedly prompts the same response until the cue-response link becomes easier to follow. Habit researchers describe habit formation as repeating a chosen behaviour in a consistent context; the point is not motivation on day one, but making the later decision smaller. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Advice for creating habits is...</span></span></span>
+Many self-improvement plans fail because the desired behaviour floats around the day without a reliable trigger. “Walk more” is easy to endorse and easy to forget. “Walk after lunch” is different: it attaches the action to a stable event. In habit terms, the same context repeatedly prompts the same response until the cue-response link becomes easier to follow. Habit researchers describe habit formation as repeating a chosen behaviour in a consistent context; the point is not motivation on day one, but making the later decision smaller. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Advice for creating habits is...</span></span></span>
 
 Lunch works especially well because it sits at a natural hinge point in the day. The morning is finished, the afternoon has not yet fully begun, and many people are about to move from eating to sitting. That makes the post-lunch period a useful place to insert a small movement rule before the next sedentary block starts.
 
@@ -534,7 +534,7 @@ The exact cue matters less than its repeatability. A person who works from home,
 
 The most specific evidence for walking after lunch comes from research on postprandial glucose, [meaning]({{ 'meaning/' | relative_url }}) blood glucose after eating. A 2023 systematic review and meta-analysis found that exercise such as walking has an acute beneficial effect on post-meal hyperglycaemia, and that doing it as soon as possible after the meal appears more useful than waiting longer or exercising before eating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-This does not mean a ten-minute walk is a cure-all. It means the timing is not arbitrary. After a meal, glucose enters the bloodstream; moving skeletal muscle can use some of that glucose, helping blunt the post-meal rise. Studies comparing sitting, standing and walking generally find that light walking is more effective than simply remaining seated, and often more effective than standing alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2095254620301708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEffects of interrupting prolonged sitting on postprandial...by M Quan · 2021 · Cited by 43 — Interrupting prolonged sitting...</span></span></span>
+This does not mean a ten-minute walk is a cure-all. It means the timing is not arbitrary. After a meal, glucose enters the bloodstream; moving skeletal muscle can use some of that glucose, helping blunt the post-meal rise. Studies comparing sitting, standing and walking generally find that light walking is more effective than simply remaining seated, and often more effective than standing alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2095254620301708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effects of interrupting prolonged sitting on postprandial...by M Quan · 2021 · Cited by 43 — Interrupting prolonged sitting...</span></span></span>
 
 A particularly memorable finding comes from a randomised crossover study in people with type 2 diabetes. Participants were advised either to walk for 30 minutes at any time of day or to walk for ten minutes after each main meal. The post-meal walking advice was more effective for lowering postprandial glycaemia than advice that did not specify timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27747394/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -582,7 +582,7 @@ A lunch walk often fails for trivial reasons that do not feel trivial in the mom
 
 Weather is one of the most common practical barriers. Research on lunchtime workplace walking has noted that adverse temperature, rain, wind and snow can interfere with attendance and adherence, particularly among adults who are not already regularly active. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2019/08/2014_ThogersenLoughrenDudaFox_JoPAH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">Self Determination Theory The Feasibility of a 16-Week Workplace Lunchtime</span><span class="citation-popover-snippet">Self Determination Theory The Feasibility of a 16-Week Workplace Lunchtime</span></span></span>
 
-The solution is not to pretend weather does not exist. It is to have a [weather plan]({{ 'weather-plan/' | relative_url }}) before the habit meets its first wet Tuesday.
+The solution is not to pretend weather does not exist. It is to have a weather plan before the habit meets its first wet Tuesday.
 
 Useful friction reducers include:
 
@@ -607,7 +607,7 @@ The route should also avoid unnecessary ambition. A scenic route is pleasant, bu
 
 Tracking helps when it makes behaviour visible. It hurts when it turns a small habit into an administrative burden. For a lunch walk, the most useful tracking system is usually the simplest one that answers: “Did I walk after lunch today?”
 
-Behaviour-change research often treats self-monitoring, prompts and cues, and goal setting as common active ingredients in digital and non-[digital interventions]({{ 'digital-tools/' | relative_url }}). The point is not that everyone needs a sophisticated dashboard; it is that feedback helps people notice whether the planned behaviour is actually happening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAfter Dinner Rest a While, After Supper Walk a Mile?</span><span class="citation-popover-snippet">A... - PMCby T Engeroff · 2023 · Cited by 77 — Exercise (such as 20 min of walking) has an acute beneficial impact on postprandial hyper...</span></span></span>
+Behaviour-change research often treats self-monitoring, prompts and cues, and [goal setting]({{ 'goal-setting/' | relative_url }}) as common active ingredients in digital and non-digital interventions. The point is not that everyone needs a sophisticated dashboard; it is that feedback helps people notice whether the planned behaviour is actually happening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAfter Dinner Rest a While, After Supper Walk a Mile?</span><span class="citation-popover-snippet">A... - PMCby T Engeroff · 2023 · Cited by 77 — Exercise (such as 20 min of walking) has an acute beneficial impact on postprandial hyper...</span></span></span>
 
 A lunch-walk tracker can be as simple as:
 
@@ -1045,200 +1045,200 @@ The post-lunch walk is therefore both a habit and a model. It shows how self imp
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAfter Dinner Rest a While, After Supper Walk a Mile?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10036272/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A... - PMCby T Engeroff · 2023 · Cited by 77 — Exercise (such as 20 min of walking) has an acute beneficial impact on postprandial hyper...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Advice for creating habits is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Advice for creating habits is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2095254620301708](https://www.sciencedirect.com/science/article/pii/S2095254620301708)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEffects of interrupting prolonged sitting on postprandial...by M Quan · 2021 · Cited by 43 — Interrupting prolonged sitting...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2095254620301708" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2095254620301708</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of interrupting prolonged sitting on postprandial...by M Quan · 2021 · Cited by 43 — Interrupting prolonged sitting...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12216464/</a>  
 
 5. <a id="endnote-5"></a>
    Source: nhs.uk  
    Title: Physical activity guidelines for adults aged 19 to 64  
-   Link: [https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/](https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/)  
+   Link: <a href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
 
 7. <a id="endnote-7"></a>
    Source: diabetes.org  
-   Link: [https://diabetes.org/health-wellness/fitness/blood-glucose-and-exercise](https://diabetes.org/health-wellness/fitness/blood-glucose-and-exercise)  
+   Link: <a href="https://diabetes.org/health-wellness/fitness/blood-glucose-and-exercise" target="_blank" rel="noopener noreferrer nofollow">https://diabetes.org/health-wellness/fitness/blood-glucose-and-exercise</a>  
 
 8. <a id="endnote-8"></a>
    Source: mydiabetesmyway.scot.nhs.uk  
    Title: scot.nhs.uk Exercise and Physical Activity: Healthy Living | Information Site  
-   Link: [https://mydiabetesmyway.scot.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/](https://mydiabetesmyway.scot.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/)  
+   Link: <a href="https://mydiabetesmyway.scot.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/" target="_blank" rel="noopener noreferrer nofollow">https://mydiabetesmyway.scot.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/</a>  
 
 9. <a id="endnote-9"></a>
    Source: who.int  
    Title: Physical activity  
-   Link: [https://www.who.int/initiatives/behealthy/physical-activity](https://www.who.int/initiatives/behealthy/physical-activity)  
+   Link: <a href="https://www.who.int/initiatives/behealthy/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/initiatives/behealthy/physical-activity</a>  
 
 10. <a id="endnote-10"></a>
    Source: who.int  
    Title: physical activity  
-   Link: [https://www.who.int/news-room/fact-sheets/detail/physical-activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)  
+   Link: <a href="https://www.who.int/news-room/fact-sheets/detail/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/fact-sheets/detail/physical-activity</a>  
 
 11. <a id="endnote-11"></a>
    Source: who.int  
-   Link: [https://www.who.int/publications/i/item/9789240015128](https://www.who.int/publications/i/item/9789240015128)  
+   Link: <a href="https://www.who.int/publications/i/item/9789240015128" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240015128</a>  
 
 12. <a id="endnote-12"></a>
    Source: nhs.uk  
    Title: www.nhs.uk Physical activity guidelines for older adults  
-   Link: [https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/](https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/)  
+   Link: <a href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/live-well/exercise/exercise-health-benefits/](https://www.nhs.uk/live-well/exercise/exercise-health-benefits/)  
+   Link: <a href="https://www.nhs.uk/live-well/exercise/exercise-health-benefits/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/exercise-health-benefits/</a>  
 
 14. <a id="endnote-14"></a>
    Source: diabetes.org  
-   Link: [https://diabetes.org/health-wellness/fitness/diabetes-walking-plan](https://diabetes.org/health-wellness/fitness/diabetes-walking-plan)  
+   Link: <a href="https://diabetes.org/health-wellness/fitness/diabetes-walking-plan" target="_blank" rel="noopener noreferrer nofollow">https://diabetes.org/health-wellness/fitness/diabetes-walking-plan</a>  
 
 15. <a id="endnote-15"></a>
    Source: diabetes.org  
-   Link: [https://diabetes.org/health-wellness/fitness/weekly-exercise-targets](https://diabetes.org/health-wellness/fitness/weekly-exercise-targets)  
+   Link: <a href="https://diabetes.org/health-wellness/fitness/weekly-exercise-targets" target="_blank" rel="noopener noreferrer nofollow">https://diabetes.org/health-wellness/fitness/weekly-exercise-targets</a>  
 
 16. <a id="endnote-16"></a>
    Source: diabetes.org  
-   Link: [https://diabetes.org/health-wellness/fitness/exercise-and-type-1](https://diabetes.org/health-wellness/fitness/exercise-and-type-1)  
+   Link: <a href="https://diabetes.org/health-wellness/fitness/exercise-and-type-1" target="_blank" rel="noopener noreferrer nofollow">https://diabetes.org/health-wellness/fitness/exercise-and-type-1</a>  
 
 17. <a id="endnote-17"></a>
    Source: diabetes.org  
-   Link: [https://diabetes.org/health-wellness/fitness](https://diabetes.org/health-wellness/fitness)  
+   Link: <a href="https://diabetes.org/health-wellness/fitness" target="_blank" rel="noopener noreferrer nofollow">https://diabetes.org/health-wellness/fitness</a>  
 
 18. <a id="endnote-18"></a>
    Source: diabetes.org  
-   Link: [https://diabetes.org/health-wellness/fitness/why-does-exercise-sometimes-raise-blood-sugar](https://diabetes.org/health-wellness/fitness/why-does-exercise-sometimes-raise-blood-sugar)  
+   Link: <a href="https://diabetes.org/health-wellness/fitness/why-does-exercise-sometimes-raise-blood-sugar" target="_blank" rel="noopener noreferrer nofollow">https://diabetes.org/health-wellness/fitness/why-does-exercise-sometimes-raise-blood-sugar</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0022316622001134](https://www.sciencedirect.com/science/article/pii/S0022316622001134)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022316622001134" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022316622001134</a>  
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0168822716303278](https://www.sciencedirect.com/science/article/abs/pii/S0168822716303278)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0168822716303278" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0168822716303278</a>  
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
    Title: Postprandial State  
-   Link: [https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/postprandial-state](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/postprandial-state)  
+   Link: <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/postprandial-state" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/postprandial-state</a>  
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S152586100900111X](https://www.sciencedirect.com/science/article/abs/pii/S152586100900111X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S152586100900111X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S152586100900111X</a>  
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
 24. <a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2018.00099/full](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2018.00099/full)  
+   Link: <a href="https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2018.00099/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2018.00099/full</a>  
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27747394/](https://pubmed.ncbi.nlm.nih.gov/27747394/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27747394/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27747394/</a>  
 
 26. <a id="endnote-26"></a>
    Source: selfdeterminationtheory.org  
    Title: Self Determination Theory The Feasibility of a 16-Week Workplace Lunchtime  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2019/08/2014_ThogersenLoughrenDudaFox_JoPAH.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2019/08/2014_ThogersenLoughrenDudaFox_JoPAH.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2019/08/2014_ThogersenLoughrenDudaFox_JoPAH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2019/08/2014_ThogersenLoughrenDudaFox_JoPAH.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/postprandial](https://www.merriam-webster.com/dictionary/postprandial)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/postprandial" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/postprandial</a>  
 
 28. <a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40594496/](https://pubmed.ncbi.nlm.nih.gov/40594496/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40594496/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40594496/</a>  
 
 29. <a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22874838/](https://pubmed.ncbi.nlm.nih.gov/22874838/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22874838/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22874838/</a>  
 
 30. <a id="endnote-30"></a>
    Source: cdc.gov  
    Title: physical activity  
-   Link: [https://www.cdc.gov/diabetes/living-with/physical-activity.html](https://www.cdc.gov/diabetes/living-with/physical-activity.html)  
+   Link: <a href="https://www.cdc.gov/diabetes/living-with/physical-activity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/diabetes/living-with/physical-activity.html</a>  
 
 31. <a id="endnote-31"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/physical-activity-basics/guidelines/adults.html](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html)  
+   Link: <a href="https://www.cdc.gov/physical-activity-basics/guidelines/adults.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity-basics/guidelines/adults.html</a>  
 
 32. <a id="endnote-32"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1708301/full](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1708301/full)  
+   Link: <a href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1708301/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1708301/full</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Postprandial](https://en.wikipedia.org/wiki/Postprandial)  
+   Link: <a href="https://en.wikipedia.org/wiki/Postprandial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Postprandial</a>  
 
 34. <a id="endnote-34"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/postprandial](https://www.vocabulary.com/dictionary/postprandial)  
+   Link: <a href="https://www.vocabulary.com/dictionary/postprandial" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/postprandial</a>  
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Can Walking After Meals ACTUALLY Help Lower Blood Sugar?  
-   Link: [https://www.youtube.com/watch?v=kU43nb0-WvA](https://www.youtube.com/watch?v=kU43nb0-WvA)  
+   Link: <a href="https://www.youtube.com/watch?v=kU43nb0-WvA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kU43nb0-WvA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walking workout after eating 10 minutes (Lower your blood sugar now!!)...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: 25-Minute After Meal Walk: Stabilize Blood Sugar and Boost Energy  
-   Link: [https://www.youtube.com/watch?v=RGrKhONQwwE](https://www.youtube.com/watch?v=RGrKhONQwwE)  
+   Link: <a href="https://www.youtube.com/watch?v=RGrKhONQwwE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RGrKhONQwwE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Walking After Meals ACTUALLY Help Lower Blood Sugar?...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Walking after Eating  
-   Link: [https://www.youtube.com/watch?v=xp9ZLY7EddU](https://www.youtube.com/watch?v=xp9ZLY7EddU)  
+   Link: <a href="https://www.youtube.com/watch?v=xp9ZLY7EddU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xp9ZLY7EddU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25-Minute After Meal Walk: Stabilize Blood Sugar and Boost Energy...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: dspace.library.uu.nl  
-   Link: [https://dspace.library.uu.nl/bitstreams/df64781b-08f5-4a1b-8d92-fde1069e3216/download](https://dspace.library.uu.nl/bitstreams/df64781b-08f5-4a1b-8d92-fde1069e3216/download)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DSpaceDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 156 — Habit formation is a process of strengthenin...</p></details>
+   Link: <a href="https://dspace.library.uu.nl/bitstreams/df64781b-08f5-4a1b-8d92-fde1069e3216/download" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstreams/df64781b-08f5-4a1b-8d92-fde1069e3216/download</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 156 — Habit formation is a process of strengthenin...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Move Like This After Eating (It Changes Everything)  
-   Link: [https://www.youtube.com/watch?v=zg3GBH6fG2I](https://www.youtube.com/watch?v=zg3GBH6fG2I)  
+   Link: <a href="https://www.youtube.com/watch?v=zg3GBH6fG2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zg3GBH6fG2I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walking after Eating - Here&#x27;s What It Does To Your Body...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/230566734_Walks4work_Rationale_and_study_design_to_investigate_walking_at_lunchtime_in_the_workplace_setting](https://www.researchgate.net/publication/230566734_Walks4work_Rationale_and_study_design_to_investigate_walking_at_lunchtime_in_the_workplace_setting)  
+   Link: <a href="https://www.researchgate.net/publication/230566734_Walks4work_Rationale_and_study_design_to_investigate_walking_at_lunchtime_in_the_workplace_setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230566734_Walks4work_Rationale_and_study_design_to_investigate_walking_at_lunchtime_in_the_workplace_setting</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359055813_The_Effects_of_Postprandial_Walking_on_the_Glucose_Response_after_Meals_with_Different_Characteristics](https://www.researchgate.net/publication/359055813_The_Effects_of_Postprandial_Walking_on_the_Glucose_Response_after_Meals_with_Different_Characteristics)  
+   Link: <a href="https://www.researchgate.net/publication/359055813_The_Effects_of_Postprandial_Walking_on_the_Glucose_Response_after_Meals_with_Different_Characteristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359055813_The_Effects_of_Postprandial_Walking_on_the_Glucose_Response_after_Meals_with_Different_Characteristics</a>  
 
 42. <a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour](https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour</a>  
 
 43. <a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/367551155_After_Dinner_Rest_a_While_After_Supper_Walk_a_Mile_A_Systematic_Review_with_Meta-analysis_on_the_Acute_Postprandial_Glycemic_Response_to_Exercise_Before_and_After_Meal_Ingestion_in_Healthy_Subjects_an](https://www.researchgate.net/publication/367551155_After_Dinner_Rest_a_While_After_Supper_Walk_a_Mile_A_Systematic_Review_with_Meta-analysis_on_the_Acute_Postprandial_Glycemic_Response_to_Exercise_Before_and_After_Meal_Ingestion_in_Healthy_Subjects_an)  
+   Link: <a href="https://www.researchgate.net/publication/367551155_After_Dinner_Rest_a_While_After_Supper_Walk_a_Mile_A_Systematic_Review_with_Meta-analysis_on_the_Acute_Postprandial_Glycemic_Response_to_Exercise_Before_and_After_Meal_Ingestion_in_Healthy_Subjects_an" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367551155_After_Dinner_Rest_a_While_After_Supper_Walk_a_Mile_A_Systematic_Review_with_Meta-analysis_on_the_Acute_Postprandial_Glycemic_Response_to_Exercise_Before_and_After_Meal_Ingestion_in_Healthy_Subjects_an</a>  
 
 44. <a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/235904566_Behavior_Change_Techniques_Used_to_Promote_Walking_and_Cycling_A_Systematic_Review](https://www.researchgate.net/publication/235904566_Behavior_Change_Techniques_Used_to_Promote_Walking_and_Cycling_A_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/235904566_Behavior_Change_Techniques_Used_to_Promote_Walking_and_Cycling_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235904566_Behavior_Change_Techniques_Used_to_Promote_Walking_and_Cycling_A_Systematic_Review</a>  

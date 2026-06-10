@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-specific/
 description: Focused pages that expand on Goal Setting.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_specific_behaviour_g_4d4ee0
 parent_title: Goal Setting | Self Improvement That Works

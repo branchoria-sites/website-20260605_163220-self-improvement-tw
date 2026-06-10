@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-behaviour/
 description: Focused pages that expand on Techniques.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_behaviour_change_tax_24790f
 parent_title: Techniques | Self Improvement That Works

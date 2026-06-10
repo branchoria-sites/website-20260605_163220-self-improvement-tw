@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:26:23'
 parent_title: Which Self Help Promises Should You Doubt? | Better Change
 parent_permalink: /self-help-myths/
 parent_nav_short_title: Self Help Myths
@@ -259,7 +260,6 @@ prev_link:
   permalink: /motivation-highs/
   short_title: Motivation Highs
   heading_title: Why Motivation Fades by Tuesday Afternoon
-date: '2026-06-05 15:26:23 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_self_help_social_pre_dec2e3-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_self_help_social_pre_dec2e3-Illustration-1.webp
@@ -276,11 +276,11 @@ Much self-help is presented as a path to personal freedom, but historically it h
 
 The question is not whether self-help can help. Clearly it can. The more interesting question is why particular forms of self-help become popular at particular moments.
 
-Across different periods, self-help literature has repeatedly promoted the type of person most valued by prevailing social and economic systems. Victorian readers were encouraged to cultivate thrift, discipline and perseverance. Twentieth-century readers were taught persuasion, confidence and interpersonal charm. Contemporary readers are urged to optimise productivity, emotional resilience, personal branding and continuous self-improvement. The specific traits change, but the underlying pattern remains remarkably stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bol.com/nl/nl/f/self-help/9300000106475404/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bol.com">[bol.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bol.com</span><span class="citation-popover-title">self help</span><span class="citation-popover-snippet">, Samuel Smiles | 9780199552450 | Boeken - BolA bestseller in 1859, Self-Help became one of Victorian Britain&#x27;s most important statements...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">EBSCOSmiles Publishes Self-Help | History | Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span> This does not mean authors consciously serve political or economic interests. Rather, self-help often reflects the assumptions of its time. Advice that appears universal may actually be highly dependent on the circumstances that reward certain behaviours.
+Across different periods, self-help literature has repeatedly promoted the type of person most valued by prevailing social and economic systems. Victorian readers were encouraged to cultivate thrift, discipline and perseverance. Twentieth-century readers were taught persuasion, confidence and interpersonal charm. Contemporary readers are urged to optimise productivity, emotional resilience, personal branding and continuous self-improvement. The specific traits change, but the underlying pattern remains remarkably stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bol.com/nl/nl/f/self-help/9300000106475404/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bol.com">[bol.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bol.com</span><span class="citation-popover-title">self help</span><span class="citation-popover-snippet">, Samuel Smiles &#124; 9780199552450 &#124; Boeken - BolA bestseller in 1859, Self-Help became one of Victorian Britain&#x27;s most important statements...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">Smiles Publishes Self-Help &#124; History &#124; Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span> This does not mean authors consciously serve political or economic interests. Rather, self-help often reflects the assumptions of its time. Advice that appears universal may actually be highly dependent on the circumstances that reward certain behaviours.
 
 ## What Early Self-Help Tied to Character and Independence
 
-The modern self-help tradition is usually traced to Samuel Smiles's 1859 book *Self-Help*. Smiles argued that character, perseverance, self-education and industriousness were the foundations of individual advancement. His work became enormously influential in Britain and internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">EBSCOSmiles Publishes Self-Help | History | Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infed.org">[2infed.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infed.org</span><span class="citation-popover-snippet">and, exhibited in the lives of many, it constitutes the true source of national...Read more...</span></span></span>
+The modern self-help tradition is usually traced to Samuel Smiles's 1859 book *Self-Help*. Smiles argued that character, perseverance, self-education and industriousness were the foundations of individual advancement. His work became enormously influential in Britain and internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">Smiles Publishes Self-Help &#124; History &#124; Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infed.org">[2infed.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infed.org</span><span class="citation-popover-snippet">and, exhibited in the lives of many, it constitutes the true source of national...Read more...</span></span></span>
 
 Smiles wrote during a period of industrialisation, urbanisation and social change. Workers faced new economic realities, and opportunities for advancement were often linked to literacy, discipline and adaptation to industrial life. In that context, advice about thrift and self-reliance was not merely personal guidance. It also reflected the social expectations placed upon people entering a rapidly changing economy. Historians of the period note that Smiles emphasised self-culture, character formation and individual effort as routes to improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/4048406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">active&quot; component of his thought stressed self-education, self- culture, the self-helping formation of character, and the need for indi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oll.libertyfund.org/titles/smiles-self-help-with-illustrations-of-character-and-conduct" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oll.libertyfund.org">[Online Library of Liberty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oll.libertyfund.org</span><span class="citation-popover-snippet">An early Victorian self-help book that combines Victorian morality with sound free market ideas into moral tales showing the...Read more...</span></span></span>
 
@@ -291,7 +291,7 @@ The key shift was subtle but powerful. Structural conditions such as industrial 
 
 ## How Later Manuals Sold Positivity, Productivity and Confidence
 
-As economies changed, self-help changed with them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">EBSCOSmiles Publishes Self-Help | History | Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span>
+As economies changed, self-help changed with them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">Smiles Publishes Self-Help &#124; History &#124; Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span>
 
 By the twentieth century, success manuals increasingly focused on social skills, influence and confidence. Books such as those associated with salesmanship, networking and workplace advancement reflected the growing importance of large organisations and professional careers. Instead of merely working hard, individuals were encouraged to become persuasive, charismatic and emotionally appealing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/06/07/what-our-biggest-best-sellers-tell-us-about-a-nations-soul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">McHugh&#x27;s thesis suggests these books reflect and perpetuate a national ideology or myth, despite their arbitrariness and exclusion of div...</span></span></span>
 
@@ -317,7 +317,7 @@ The language itself often disguises the shift. Long working hours become "high p
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_self_help_social_pre_dec2e3-Illustration-2-dark.svg" | relative_url }}" alt="Social Pressure illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_self_help_social_pre_dec2e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_self_help_social_pre_dec2e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Repackaging Is So Persuasive
 
-The appeal of self-help partly comes from its focus on factors individuals can control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">EBSCOSmiles Publishes Self-Help | History | Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span>
+The appeal of self-help partly comes from its focus on factors individuals can control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">Smiles Publishes Self-Help &#124; History &#124; Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span>
 
 Social problems are complex, slow-moving and frustrating. Personal habits feel immediate and actionable. A reader cannot easily reform an economy, redesign a workplace or reduce housing costs, but they can wake up earlier, organise their calendar or practise public speaking.
 
@@ -330,7 +330,7 @@ Critics of contemporary therapeutic and self-help culture have argued that many 
 
 ## Why Useful Advice Still Needs Social Context
 
-Recognising the social dimension of self-help does not require rejecting self-improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">EBSCOSmiles Publishes Self-Help | History | Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span>
+Recognising the social dimension of self-help does not require rejecting self-improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">smiles publishes self help</span><span class="citation-popover-snippet">Smiles Publishes Self-Help &#124; History &#124; Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</span></span></span>
 
 Many classic recommendations remain valuable:
 
@@ -357,10 +357,10 @@ The most useful self-improvement advice therefore combines personal agency with 
 
 One of the enduring myths of the self-help industry is that personal growth is always an inward journey. Historically, much self-help has been something more complicated: a guide to becoming the kind of person a particular era [rewards]({{ 'rewards/' | relative_url }}).
 
-Victorian self-help praised discipline because industrial society valued disciplined workers. Corporate-era manuals promoted confidence because organisations rewarded persuasive employees. Today's productivity culture celebrates optimisation because modern economies reward constant adaptation and measurable performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bol.com/nl/nl/f/self-help/9300000106475404/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bol.com">[bol.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bol.com</span><span class="citation-popover-title">self help</span><span class="citation-popover-snippet">, Samuel Smiles | 9780199552450 | Boeken - BolA bestseller in 1859, Self-Help became one of Victorian Britain&#x27;s most important statements...</span></span></span> Medium That does not make the advice useless. It simply means that personal growth should not be confused with neutrality. Self-help often carries h <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40IHPeditorialstaff/a-brief-history-of-the-self-help-industrial-complex-f04ca87af85e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Brief History of the Self-Help Industrial ComplexThe term “self-help” was formally introduced by Scottish author Samuel Smiles in his 1...</span></span></span> idden assumptions about what success looks like and whose expectations are being met. Understanding those assumptions makes it easier to keep the genuinely helpful parts while resisting the idea that every social pressure is really a personal development opportunity. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-helpSelf-help or self-improvement is a focus on self-guided, in contrast to professionally guided, efforts to cope with life prob...</span></span></span>
+Victorian self-help praised discipline because industrial society valued disciplined workers. Corporate-era manuals promoted confidence because organisations rewarded persuasive employees. Today's productivity culture celebrates optimisation because modern economies reward constant adaptation and measurable performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bol.com/nl/nl/f/self-help/9300000106475404/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bol.com">[bol.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bol.com</span><span class="citation-popover-title">self help</span><span class="citation-popover-snippet">, Samuel Smiles &#124; 9780199552450 &#124; Boeken - BolA bestseller in 1859, Self-Help became one of Victorian Britain&#x27;s most important statements...</span></span></span> Medium That does not make the advice useless. It simply means that personal growth should not be confused with neutrality. Self-help often carries h <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40IHPeditorialstaff/a-brief-history-of-the-self-help-industrial-complex-f04ca87af85e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Brief History of the Self-Help Industrial ComplexThe term “self-help” was formally introduced by Scottish author Samuel Smiles in his 1...</span></span></span> idden assumptions about what success looks like and whose expectations are being met. Understanding those assumptions makes it easier to keep the genuinely helpful parts while resisting the idea that every social pressure is really a personal development opportunity. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-helpSelf-help or self-improvement is a focus on self-guided, in contrast to professionally guided, efforts to cope with life prob...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qMmgDeyhamI" title="Self-Help: What Went Wrong?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qMmgDeyhamI" target="_blank" rel="noopener noreferrer">Self-Help: What Went Wrong?</a></p><p class="youtube-embed-meta">Channel: Wisecrack &middot; Views: 403.9K &middot; Uploaded: February 2021 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qMmgDeyhamI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qMmgDeyhamI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TANEzcjNDvc" title="The Self-Improvement Lie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TANEzcjNDvc" target="_blank" rel="noopener noreferrer">The Self-Improvement Lie</a></p><p class="youtube-embed-meta">Channel: Anna Bocca &middot; Views: 342.9K &middot; Uploaded: April 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TANEzcjNDvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TANEzcjNDvc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -449,7 +449,7 @@ Victorian self-help praised discipline because industrial society valued discipl
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -459,111 +459,36 @@ Victorian self-help praised discipline because industrial society valued discipl
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,15 +496,15 @@ Victorian self-help praised discipline because industrial society valued discipl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +512,15 @@ Victorian self-help praised discipline because industrial society valued discipl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,15 +528,15 @@ Victorian self-help praised discipline because industrial society valued discipl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,7 +544,7 @@ Victorian self-help praised discipline because industrial society valued discipl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-pressure-is-self-help-really-just-adaptation-advice-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-self-help-really-just-adaptation-advice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="is-self-help-really-just-adaptation-advice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -696,17 +621,31 @@ Victorian self-help praised discipline because industrial society valued discipl
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -719,42 +658,73 @@ Victorian self-help praised discipline because industrial society valued discipl
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -769,149 +739,153 @@ Victorian self-help praised discipline because industrial society valued discipl
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: infed.org  
-   Link: [https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/](https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/)  
+   Link: <a href="https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/" target="_blank" rel="noopener noreferrer nofollow">https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and, exhibited in the lives of many, it constitutes the true source of national...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bol.com  
    Title: self help  
-   Link: [https://www.bol.com/nl/nl/f/self-help/9300000106475404/](https://www.bol.com/nl/nl/f/self-help/9300000106475404/)  
+   Link: <a href="https://www.bol.com/nl/nl/f/self-help/9300000106475404/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/f/self-help/9300000106475404/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>, Samuel Smiles | 9780199552450 | Boeken - BolA bestseller in 1859, Self-Help became one of Victorian Britain&#x27;s most important statements...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ebsco.com  
    Title: smiles publishes self help  
-   Link: [https://www.ebsco.com/research-starters/history/smiles-publishes-self-help](https://www.ebsco.com/research-starters/history/smiles-publishes-self-help)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EBSCOSmiles Publishes Self-Help | History | Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</p></details>
+   Link: <a href="https://www.ebsco.com/research-starters/history/smiles-publishes-self-help" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/smiles-publishes-self-help</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smiles Publishes Self-Help | History | Research Starters&quot;Self-Help: With Illustrations of Character and Conduct,&quot; published in 1859...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vox.com  
-   Link: [https://www.vox.com/explain-it-to-me/462075/self-help-improvement-optimize-productivity](https://www.vox.com/explain-it-to-me/462075/self-help-improvement-optimize-productivity)  
+   Link: <a href="https://www.vox.com/explain-it-to-me/462075/self-help-improvement-optimize-productivity" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/explain-it-to-me/462075/self-help-improvement-optimize-productivity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through a conversation with author Jessica Lamb-Shapiro, the piece delves into how the self-help movement, although often criticized, rem...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/4048406](https://www.jstor.org/stable/4048406)  
+   Link: <a href="https://www.jstor.org/stable/4048406" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/4048406</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; active&quot; component of his thought stressed self-education, self- culture, the self-helping formation of character, and the need for indi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40IHPeditorialstaff/a-brief-history-of-the-self-help-industrial-complex-f04ca87af85e](https://medium.com/%40IHPeditorialstaff/a-brief-history-of-the-self-help-industrial-complex-f04ca87af85e)  
+   Link: <a href="https://medium.com/%40IHPeditorialstaff/a-brief-history-of-the-self-help-industrial-complex-f04ca87af85e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40IHPeditorialstaff/a-brief-history-of-the-self-help-industrial-complex-f04ca87af85e</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of the Self-Help Industrial ComplexThe term “self-help” was formally introduced by Scottish author Samuel Smiles in his 1...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: macleans.ca  
    Title: when it comes to resilience the self help industry has it all wrong  
-   Link: [https://macleans.ca/society/when-it-comes-to-resilience-the-self-help-industry-has-it-all-wrong/](https://macleans.ca/society/when-it-comes-to-resilience-the-self-help-industry-has-it-all-wrong/)  
+   Link: <a href="https://macleans.ca/society/when-it-comes-to-resilience-the-self-help-industry-has-it-all-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/society/when-it-comes-to-resilience-the-self-help-industry-has-it-all-wrong/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When it comes to resilience, the self-help industry has it all...23 May 2019 — In a new book, an expert in community resilience argues t...</p></details>
    Published: May 2019  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs Self-Care Sustainable Without Structural [Support](&#123;&#123; 'support/' | relative_url &#125;&#125;)?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11588309/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11588309/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11588309/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11588309/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A... - PMCby K Kaapu · 2023 · Cited by 13 — The purpose of this systematic review is to critically examine the state of social work inte...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Self-help](https://en.wikipedia.org/wiki/Self-help)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self-help" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-help</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-helpSelf-help or self-improvement is a focus on self-guided, in contrast to professionally guided, efforts to cope with life prob...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/illumination/you-are-more-profitable-unhappy-the-self-help-industry-is-ruining-our-lives-ii-38106987e06b](https://medium.com/illumination/you-are-more-profitable-unhappy-the-self-help-industry-is-ruining-our-lives-ii-38106987e06b)  
+   Link: <a href="https://medium.com/illumination/you-are-more-profitable-unhappy-the-self-help-industry-is-ruining-our-lives-ii-38106987e06b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/you-are-more-profitable-unhappy-the-self-help-industry-is-ruining-our-lives-ii-38106987e06b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gurus negate the nature of social and systemic problems...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/13607804241242345](https://journals.sagepub.com/doi/10.1177/13607804241242345)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/13607804241242345" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13607804241242345</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Re-Appraisal of Therapeutic Culture in a Time of Crisis3 Jun 2024 — In this article, I analyse constructions of the self i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/2021/06/07/what-our-biggest-best-sellers-tell-us-about-a-nations-soul](https://www.newyorker.com/magazine/2021/06/07/what-our-biggest-best-sellers-tell-us-about-a-nations-soul)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/06/07/what-our-biggest-best-sellers-tell-us-about-a-nations-soul" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/06/07/what-our-biggest-best-sellers-tell-us-about-a-nations-soul</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>McHugh&#x27;s thesis suggests these books reflect and perpetuate a national ideology or myth, despite their arbitrariness and exclusion of div...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oll.libertyfund.org  
-   Link: [https://oll.libertyfund.org/titles/smiles-self-help-with-illustrations-of-character-and-conduct](https://oll.libertyfund.org/titles/smiles-self-help-with-illustrations-of-character-and-conduct)  
+   Link: <a href="https://oll.libertyfund.org/titles/smiles-self-help-with-illustrations-of-character-and-conduct" target="_blank" rel="noopener noreferrer nofollow">https://oll.libertyfund.org/titles/smiles-self-help-with-illustrations-of-character-and-conduct</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An early Victorian self-help book that combines Victorian morality with sound free market ideas into moral tales showing the...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: executivesupportmagazine.com  
    Title: culture of confidence and self esteem  
-   Link: [https://executivesupportmagazine.com/culture-of-confidence-and-self-esteem/](https://executivesupportmagazine.com/culture-of-confidence-and-self-esteem/)  
+   Link: <a href="https://executivesupportmagazine.com/culture-of-confidence-and-self-esteem/" target="_blank" rel="noopener noreferrer nofollow">https://executivesupportmagazine.com/culture-of-confidence-and-self-esteem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building a Workplace Culture of Confidence and Self-Esteem25 Mar 2025 — Confidence and self-esteem, the basis of productivity and employe...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: aurore.unilim.fr  
-   Link: [https://aurore.unilim.fr/memoires/nxfile/default/b890f9a4-7547-47c5-a822-9020619f3024/blobholder%3A0/M-LMML12-2021-007.pdf](https://aurore.unilim.fr/memoires/nxfile/default/b890f9a4-7547-47c5-a822-9020619f3024/blobholder%3A0/M-LMML12-2021-007.pdf)  
+   Link: <a href="https://aurore.unilim.fr/memoires/nxfile/default/b890f9a4-7547-47c5-a822-9020619f3024/blobholder%3A0/M-LMML12-2021-007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aurore.unilim.fr/memoires/nxfile/default/b890f9a4-7547-47c5-a822-9020619f3024/blobholder%3A0/M-LMML12-2021-007.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-help culture within society and the publishing industryby C CALES — It teaches civilians what to do and what not to do among social...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: modernbioethics.com  
    Title: happy with less a feminist take on the personal growth self help industry  
-   Link: [https://modernbioethics.com/2021/07/12/happy-with-less-a-feminist-take-on-the-personal-growth-self-help-industry/](https://modernbioethics.com/2021/07/12/happy-with-less-a-feminist-take-on-the-personal-growth-self-help-industry/)  
+   Link: <a href="https://modernbioethics.com/2021/07/12/happy-with-less-a-feminist-take-on-the-personal-growth-self-help-industry/" target="_blank" rel="noopener noreferrer nofollow">https://modernbioethics.com/2021/07/12/happy-with-less-a-feminist-take-on-the-personal-growth-self-help-industry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Feminist Take on the Personal Growth Self-Help Industry12 Jul 2021 — This post calls for critical theory and feminism to analyze the ro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: psyche.co  
    Title: the self of self help books is adrift from social and economic facts  
-   Link: [https://psyche.co/ideas/the-self-of-self-help-books-is-adrift-from-social-and-economic-facts](https://psyche.co/ideas/the-self-of-self-help-books-is-adrift-from-social-and-economic-facts)  
+   Link: <a href="https://psyche.co/ideas/the-self-of-self-help-books-is-adrift-from-social-and-economic-facts" target="_blank" rel="noopener noreferrer nofollow">https://psyche.co/ideas/the-self-of-self-help-books-is-adrift-from-social-and-economic-facts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The self of self-help books is adrift from social and...20 Jul 2020 — In opposition to this, the self-help literature serves up a self o...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/11968942/The_Origins_of_Self_Help_Samuel_Smiles_and_the_Formative_Influences_on_an_Ex_Seminal_Work_The_Victorian_3_1_2015_](https://www.academia.edu/11968942/The_Origins_of_Self_Help_Samuel_Smiles_and_the_Formative_Influences_on_an_Ex_Seminal_Work_The_Victorian_3_1_2015_)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaThe Origins of Self-Help: Samuel Smiles and the Formative...The essay elucidates the origins and influences surrounding Smiles&#x27;s...</p></details>
+   Link: <a href="https://www.academia.edu/11968942/The_Origins_of_Self_Help_Samuel_Smiles_and_the_Formative_Influences_on_an_Ex_Seminal_Work_The_Victorian_3_1_2015_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/11968942/The_Origins_of_Self_Help_Samuel_Smiles_and_the_Formative_Influences_on_an_Ex_Seminal_Work_The_Victorian_3_1_2015_</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of Self-Help: Samuel Smiles and the Formative...The essay elucidates the origins and influences surrounding Smiles&#x27;s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ghpnews.digital  
    Title: building a workplace culture of confidence and self esteem  
-   Link: [https://ghpnews.digital/building-a-workplace-culture-of-confidence-and-self-esteem/](https://ghpnews.digital/building-a-workplace-culture-of-confidence-and-self-esteem/)  
+   Link: <a href="https://ghpnews.digital/building-a-workplace-culture-of-confidence-and-self-esteem/" target="_blank" rel="noopener noreferrer nofollow">https://ghpnews.digital/building-a-workplace-culture-of-confidence-and-self-esteem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building a Workplace Culture of Confidence and Self-Esteem13 Jan 2025 — Through [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) like mindfulness, positive self-talk, and goal...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: amazon.nl  
-   Link: [https://www.amazon.nl/-/en/Samuel-Smiles/dp/1330231937](https://www.amazon.nl/-/en/Samuel-Smiles/dp/1330231937)  
+   Link: <a href="https://www.amazon.nl/-/en/Samuel-Smiles/dp/1330231937" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Samuel-Smiles/dp/1330231937</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ndreds of thousands of people directly and no doubt many more by association...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Un-Help: Why Your Pain Is Profitable  
-   Link: [https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry](https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry)  
+   Link: <a href="https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Epistemic...29 May 2025 — This monograph offers an epistemic and psychological critique of the self-help and mindset industry, arguin...</p></details>
    Published: May 2025  
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
    Title: Self-help: with illustrations of character and conduct  
-   Link: [https://archive.org/download/selfhelpwithillu00smilrich/selfhelpwithillu00smilrich.pdf](https://archive.org/download/selfhelpwithillu00smilrich/selfhelpwithillu00smilrich.pdf)  
+   Link: <a href="https://archive.org/download/selfhelpwithillu00smilrich/selfhelpwithillu00smilrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/selfhelpwithillu00smilrich/selfhelpwithillu00smilrich.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF-HELP: WITH ILLUSTRATIONS OF. CHARACTER AND CONDUCT. BY SAMUEL SMILES. AUTHOR OF &quot; THE LIFE OF GEORGE STEPHKNSON. &quot; This above all...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: phaseapp.io  
-   Link: [https://www.phaseapp.io/blog/how-self-esteem-shapes-productivity-the-confidence-performance-connection](https://www.phaseapp.io/blog/how-self-esteem-shapes-productivity-the-confidence-performance-connection)  
+   Link: <a href="https://www.phaseapp.io/blog/how-self-esteem-shapes-productivity-the-confidence-performance-connection" target="_blank" rel="noopener noreferrer nofollow">https://www.phaseapp.io/blog/how-self-esteem-shapes-productivity-the-confidence-performance-connection</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Esteem Shapes Productivity: The Confidence-...27 Mar 2025 — Research shows that people with higher self-esteem tend to be more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375844277_Fostering_a_Positive_Workplace_Culture_Impacts_on_Performance_and_Agility](https://www.researchgate.net/publication/375844277_Fostering_a_Positive_Workplace_Culture_Impacts_on_Performance_and_Agility)  
+   Link: <a href="https://www.researchgate.net/publication/375844277_Fostering_a_Positive_Workplace_Culture_Impacts_on_Performance_and_Agility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375844277_Fostering_a_Positive_Workplace_Culture_Impacts_on_Performance_and_Agility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nce, leading to increased productivity, efficiency, and quality of work.Read more...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:58:40'
 parent_title: Do App Blockers Actually Help? | Better Change
 parent_permalink: /app-blockers/
 parent_nav_short_title: App Blockers
@@ -259,7 +260,6 @@ prev_link:
   permalink: /tap-delays/
   short_title: Tap Delays
   heading_title: Can a five second pause stop autopilot scrolling?
-date: '2026-06-05 14:58:40 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-1.webp
@@ -312,7 +312,7 @@ This matters because distraction is often triggered during task-switching moment
 
 Not every distraction deserves a block. Overly broad restrictions often create frustration and increase the likelihood of bypassing the system.
 
-Research examining digital self-control tools has found that users respond best when restrictions match their personal definition of distraction and their actual work context. A tool that blocks everything can interfere with legitimate work, while a tool that blocks nothing important becomes irrelevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0160791X21002530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectDigital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 86 — In this paper, we examine the quality of the...</span></span></span>
+Research examining digital self-control tools has found that users respond best when restrictions match their personal definition of distraction and their actual work context. A tool that blocks everything can interfere with legitimate work, while a tool that blocks nothing important becomes irrelevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0160791X21002530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Digital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 86 — In this paper, we examine the quality of the...</span></span></span>
 
 For deep work sessions, the highest-value targets are usually:
 
@@ -365,7 +365,7 @@ The principle is important because deep work requires alternating periods of eff
 
 The effectiveness of a scheduled block depends partly on how easy it is to remove.
 
-Many digital wellbeing tools now include strict modes, delayed overrides, approval requirements, or scheduled lockouts specifically because users often disable restrictions during moments of weakness. Reviews of digital self-control tools show that balancing flexibility with meaningful friction is one of the central design challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">The analysis...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0160791X21002530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectDigital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 86 — In this paper, we examine the quality of the...</span></span></span>
+Many digital wellbeing tools now include strict modes, delayed overrides, approval requirements, or scheduled lockouts specifically because users often disable restrictions during moments of weakness. Reviews of digital self-control tools show that balancing flexibility with meaningful friction is one of the central design challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">The analysis...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0160791X21002530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Digital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 86 — In this paper, we examine the quality of the...</span></span></span>
 
 For deep work, useful safeguards include:
 
@@ -834,117 +834,117 @@ This approach keeps the blocker focused on its real purpose: protecting a specif
 
 1. <a id="endnote-1"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/full/10.1145/3571810](https://dl.acm.org/doi/full/10.1145/3571810)  
+   Link: <a href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3571810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The analysis...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581](https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis](https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis)  
+   Link: <a href="https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving Digital Wellbeing Through Digital Self-Control...Aiming to guide future research in this important domain, this article presen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0160791X21002530](https://www.sciencedirect.com/science/article/pii/S0160791X21002530)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDigital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 86 — In this paper, we examine the quality of the...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0160791X21002530" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0160791X21002530</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 86 — In this paper, we examine the quality of the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/abs/10.1145/3571810](https://dl.acm.org/doi/abs/10.1145/3571810)  
+   Link: <a href="https://dl.acm.org/doi/abs/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/abs/10.1145/3571810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Wellbeing Through Digital Self-control...by AM Roffarello · 2023 · Cited by 156 — This article presents a systematic review and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review](https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From a search of the...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec](https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec)  
+   Link: <a href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by 57% after si...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: one-sec.app  
-   Link: [https://one-sec.app/ko/research/](https://one-sec.app/ko/research/)  
+   Link: <a href="https://one-sec.app/ko/research/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/ko/research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>y improves life...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: The other three  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1386505624003885](https://www.sciencedirect.com/science/article/pii/S1386505624003885)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Persuasive strategies in [digital interventions](&amp;#123;&amp;#123; &#x27;digital-tools/&#x27; | relative_url &amp;#125;&amp;#125;) to combat...by Y Theopilus · 2025 · Cited by 15 — Three showed promising efficacy in redu...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505624003885" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505624003885</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Persuasive strategies in digital interventions to combat...by Y Theopilus · 2025 · Cited by 15 — Three showed promising efficacy in redu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1071581923000435](https://www.sciencedirect.com/science/article/abs/pii/S1071581923000435)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1071581923000435" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1071581923000435</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial Understanding digital wellbeing within complex...by AM Roffarello · 2023 · Cited by 26 — The papers allow for a better underst...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralDirecting smartphone use through the self-nudge app one secby DJ Grüning · 2023 · Cited by 93 — In 6 wk, one sec successful...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralEvaluating the Effectiveness of Apps Designed to Reduce...by FI Rahmillah · 2023 · Cited by 32 — This paper investigated e...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: flown.com  
-   Link: [https://flown.com/blog/deep-work/time-blocking-apps](https://flown.com/blog/deep-work/time-blocking-apps)  
+   Link: <a href="https://flown.com/blog/deep-work/time-blocking-apps" target="_blank" rel="noopener noreferrer nofollow">https://flown.com/blog/deep-work/time-blocking-apps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time blocking apps: 16 top options, ranked4 days ago — 1. ⭐ TickTick – Time block your day, then run it with Pomodoro. TickTick is the “p...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/productivity/comments/15r02ur/best_apps_that_blocks_app_for_certain_time/](https://www.reddit.com/r/productivity/comments/15r02ur/best_apps_that_blocks_app_for_certain_time/)  
+   Link: <a href="https://www.reddit.com/r/productivity/comments/15r02ur/best_apps_that_blocks_app_for_certain_time/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/productivity/comments/15r02ur/best_apps_that_blocks_app_for_certain_time/</a>  
 
 15. <a id="endnote-15"></a>
    Source: calnewport.com  
    Title: deep habits the importance of planning every minute of your work day  
-   Link: [https://calnewport.com/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/](https://calnewport.com/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/)  
+   Link: <a href="https://calnewport.com/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/" target="_blank" rel="noopener noreferrer nofollow">https://calnewport.com/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I take time blocking seriously, dedicating ten to twenty minutes every evening to building my schedule for the next...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: elite.polito.it  
    Title: it"Achieving Digital Wellbeing Through Digital Self-Control  
-   Link: [https://elite.polito.it/news/2023/05/31/tochi-dscts](https://elite.polito.it/news/2023/05/31/tochi-dscts)  
+   Link: <a href="https://elite.polito.it/news/2023/05/31/tochi-dscts" target="_blank" rel="noopener noreferrer nofollow">https://elite.polito.it/news/2023/05/31/tochi-dscts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>polito.it&quot;Achieving Digital Wellbeing Through Digital Self-Control...May 31, 2023 — Our systematic literature review and meta-analysis o...</p></details>
    Published: May 31, 2023  
 
 17. <a id="endnote-17"></a>
    Source: pauso.io  
    Title: Why App Blockers Don't Work (And What Actually Does)  
-   Link: [https://pauso.io/blog/why-app-blockers-dont-work](https://pauso.io/blog/why-app-blockers-dont-work)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pauso13 Mar 2026 — Friction-based awareness interventions can reduce app openings by over 50% (PNAS study on one sec app); The most effec...</p></details>
+   Link: <a href="https://pauso.io/blog/why-app-blockers-dont-work" target="_blank" rel="noopener noreferrer nofollow">https://pauso.io/blog/why-app-blockers-dont-work</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2026 — Friction-based awareness interventions can reduce app openings by over 50% (PNAS study on one sec app); The most effec...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thedoctorpreneuracademy/posts/two-weeks-without-mobile-internet-helped-people-regain-attention-levels-similar-/1323246429814804/](https://www.facebook.com/thedoctorpreneuracademy/posts/two-weeks-without-mobile-internet-helped-people-regain-attention-levels-similar-/1323246429814804/)  
+   Link: <a href="https://www.facebook.com/thedoctorpreneuracademy/posts/two-weeks-without-mobile-internet-helped-people-regain-attention-levels-similar-/1323246429814804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedoctorpreneuracademy/posts/two-weeks-without-mobile-internet-helped-people-regain-attention-levels-similar-/1323246429814804/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ire internet—reduced constant stimulation and boosted focus, mood...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Achieving-Digital-Wellbeing-Through-Digital-Tools%3A-Roffarello-Russis/644dcfa1743129fc8d77a21ae896041687d34c49](https://www.semanticscholar.org/paper/Achieving-Digital-Wellbeing-Through-Digital-Tools%3A-Roffarello-Russis/644dcfa1743129fc8d77a21ae896041687d34c49)  
+   Link: <a href="https://www.semanticscholar.org/paper/Achieving-Digital-Wellbeing-Through-Digital-Tools%3A-Roffarello-Russis/644dcfa1743129fc8d77a21ae896041687d34c49" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Achieving-Digital-Wellbeing-Through-Digital-Tools%3A-Roffarello-Russis/644dcfa1743129fc8d77a21ae896041687d34c49</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-control allows insights on how to overcome a limited perspective that...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36795756/](https://pubmed.ncbi.nlm.nih.gov/36795756/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36795756/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apps 37% less than in the first week. In sum, one sec decreased users&#x27; actual opening of target apps by 57% after six consecutive weeks.R...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: zapier.com  
    Title: stay focused avoid distractions  
-   Link: [https://zapier.com/blog/stay-focused-avoid-distractions/](https://zapier.com/blog/stay-focused-avoid-distractions/)  
+   Link: <a href="https://zapier.com/blog/stay-focused-avoid-distractions/" target="_blank" rel="noopener noreferrer nofollow">https://zapier.com/blog/stay-focused-avoid-distractions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 7 best apps to help you focus and block distractions5 Nov 2024 — The 7 best focus apps; Freedom for blocking distractions on all you...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: usrtk.org  
-   Link: [https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/](https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/)  
+   Link: <a href="https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/" target="_blank" rel="noopener noreferrer nofollow">https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blocking mobile phone internet may boost mood, mental...24 Apr 2025 — Blocking mobile phone internet for two weeks may boost mood, menta...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:22:49'
 parent_title: Why the Habit Starts the Night Before | Better Change
 parent_permalink: /cycle-commute/
 parent_nav_short_title: Cycle Commute
@@ -265,7 +266,6 @@ next_link:
   permalink: /weather-plan/
   short_title: Weather Plan
   heading_title: Can You Plan Around Bad Cycling Weather?
-date: '2026-06-05 15:22:49 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-1.webp
@@ -278,17 +278,17 @@ One of the most common mistakes in cycle commuting is assuming that the shortest
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-1-dark.svg" | relative_url }}" alt="Route Backup illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Night-before preparation should therefore include route preparation. Instead of relying on a single path between home and work, experienced commuters often maintain a primary route and at least one backup. The goal is not maximum speed but consistent, low-stress travel that remains workable across changing conditions. Research on cycling route choice repeatedly finds that cyclists place high value on lower traffic stress, quieter streets, safer infrastructure, and predictable riding conditions rather than simply minimising distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0965856425003106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCycling route choice preferences: A taste heterogeneity...by T Lilasathapornkit · 2025 · Cited by 11 — The study highlighte...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">OSFModelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span>
+Night-before preparation should therefore include route preparation. Instead of relying on a single path between home and work, experienced commuters often maintain a primary route and at least one backup. The goal is not maximum speed but consistent, low-stress travel that remains workable across changing conditions. Research on cycling route choice repeatedly finds that cyclists place high value on lower traffic stress, quieter streets, safer infrastructure, and predictable riding conditions rather than simply minimising distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0965856425003106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cycling route choice preferences: A taste heterogeneity...by T Lilasathapornkit · 2025 · Cited by 11 — The study highlighte...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span>
 
 ## Why the Shortest Bike Route May Fail
 
 A commuting route is tested by reality, not by mapping software.
 
-The shortest route often reflects the priorities of motor traffic networks. Busy arterial roads, complex roundabouts, multi-lane junctions, and heavily trafficked corridors may be efficient for cars while creating substantial stress for cyclists. Many route-planning tools now explicitly offer "quiet", "balanced", or low-traffic alternatives because cyclists frequently prefer routes that trade a small amount of time for a large reduction in stress. Cycling UK <span class="citation-chip-wrap"><a class="citation-chip" href="https://cycle.travel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cycle.travel">[Cycle Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cycle.travel</span><span class="citation-popover-title">Travelcycle.travel | route-planner and maps</span><span class="citation-popover-snippet">| route-planner and maps - traffic-free &amp; quiet roadsPlan a bike route on quiet, scenic roads and paths. Free, easy-to-use cycle route pl...</span></span></span>
+The shortest route often reflects the priorities of motor traffic networks. Busy arterial roads, complex roundabouts, multi-lane junctions, and heavily trafficked corridors may be efficient for cars while creating substantial stress for cyclists. Many route-planning tools now explicitly offer "quiet", "balanced", or low-traffic alternatives because cyclists frequently prefer routes that trade a small amount of time for a large reduction in stress. Cycling UK <span class="citation-chip-wrap"><a class="citation-chip" href="https://cycle.travel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cycle.travel">[Cycle Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cycle.travel</span><span class="citation-popover-title">Travelcycle.travel &#124; route-planner and maps</span><span class="citation-popover-snippet">route-planner and maps - traffic-free &amp; quiet roadsPlan a bike route on quiet, scenic roads and paths. Free, easy-to-use cycle route pl...</span></span></span>
 
 This matters because commuting is repetitive. A junction that feels uncomfortable once may feel unbearable after encountering it ten times a week. A rider who repeatedly experiences close passes, difficult right turns, or aggressive traffic is more likely to abandon the commute altogether than a rider whose journey is slightly longer but calmer.
 
-Research into route choice consistently finds strong preferences for lower traffic stress and separation from motor traffic. Cyclists often accept longer journeys when those routes provide quieter roads, safer infrastructure, or a more comfortable riding experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">OSFModelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</span></span></span>
+Research into route choice consistently finds strong preferences for lower traffic stress and separation from motor traffic. Cyclists often accept longer journeys when those routes provide quieter roads, safer infrastructure, or a more comfortable riding experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</span></span></span>
 
 For self-improvement purposes, the relevant question is not "What is the fastest route today?" but "Which route am I still willing to ride in November, after a long day, in the rain?"
 
@@ -309,7 +309,7 @@ Useful route testing focuses on four practical factors:
 
 **Lighting conditions.** Well-lit streets can feel substantially safer and easier to navigate than isolated paths. Some riders deliberately choose slightly longer routes through populated, illuminated areas rather than darker shortcuts, particularly during winter commuting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclingweekly.com">[Cycling Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclingweekly.com</span><span class="citation-popover-snippet">Despite strong interest in night-time cycling, many women avoid it due to safety concerns, often choosing longer, populated routes over q...</span></span></span>
 
-**Traffic behaviour.** Traffic volume alone does not determine stress. A quieter road with higher speeds may feel worse than a busier street with slower traffic and dedicated cycling space. Studies of cyclist preferences repeatedly show that perceived traffic stress strongly influences route choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">OSFModelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</span></span></span>
+**Traffic behaviour.** Traffic volume alone does not determine stress. A quieter road with higher speeds may feel worse than a busier street with slower traffic and dedicated cycling space. Studies of cyclist preferences repeatedly show that perceived traffic stress strongly influences route choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</span></span></span>
 
 A useful exercise is to ride alternative routes at least once before relying on them. Experienced commuters often spend a weekend exploring different links between familiar points, gradually discovering calmer roads and more comfortable crossings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.londoncyclist.co.uk/route-planning-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londoncyclist.co.uk">[London Cyclist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londoncyclist.co.uk</span><span class="citation-popover-title">route planning tips</span><span class="citation-popover-snippet">London CyclistRoute Planning tips3 Jun 2016 — The best way to find a new route is to cycle around the roads between your location and des...</span></span></span>
 
@@ -337,7 +337,7 @@ Several modern cycling planners explicitly [support]({{ 'support/' | relative_ur
 The key insight is that route planning is not a one-time decision. It is an ongoing process of reducing friction and increasing reliability.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OWTm7DIrq8Q" title="Why I&#x27;ll Always Commute By Bike" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OWTm7DIrq8Q" target="_blank" rel="noopener noreferrer">Why I&#x27;ll Always Commute By Bike</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 158.4K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OWTm7DIrq8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OWTm7DIrq8Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iEYnyqWcC8E" title="Commuting Advice From Other Cyclists On Their Ride To Work!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iEYnyqWcC8E" target="_blank" rel="noopener noreferrer">Commuting Advice From Other Cyclists On Their Ride To Work!</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 121.4K &middot; Uploaded: May 2024 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iEYnyqWcC8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iEYnyqWcC8E">Open on YouTube</a></p></div></div></div>
 
 ## One-Way Rides, Train Links, and Mechanical Escape Plans
 
@@ -372,7 +372,7 @@ The route that survives darkness, rain, fatigue, roadworks, and occasional mecha
 Creating route backups the night before a commute is therefore not merely a safety measure. It is a way of protecting consistency. When commuting becomes predictable and low-stress, it requires less [willpower]({{ 'willpower/' | relative_url }}). And when a behaviour requires less willpower, it becomes easier to repeat week after week, which is ultimately what makes a cycling habit sustainable.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iEYnyqWcC8E" title="Commuting Advice From Other Cyclists On Their Ride To Work!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iEYnyqWcC8E" target="_blank" rel="noopener noreferrer">Commuting Advice From Other Cyclists On Their Ride To Work!</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 121.4K &middot; Uploaded: May 2024 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iEYnyqWcC8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iEYnyqWcC8E">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CxNtWo8thF4" title="How To Cycle In A City - 9 Top Tips For Riding On Busy Roads" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CxNtWo8thF4" target="_blank" rel="noopener noreferrer">How To Cycle In A City - 9 Top Tips For Riding On Busy Roads</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 60.1K &middot; Uploaded: March 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CxNtWo8thF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CxNtWo8thF4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -705,113 +705,113 @@ Creating route backups the night before a commute is therefore not merely a safe
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0965856425003106](https://www.sciencedirect.com/science/article/pii/S0965856425003106)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCycling route choice preferences: A taste heterogeneity...by T Lilasathapornkit · 2025 · Cited by 11 — The study highlighte...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0965856425003106" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0965856425003106</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling route choice preferences: A taste heterogeneity...by T Lilasathapornkit · 2025 · Cited by 11 — The study highlighte...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: osf.io  
-   Link: [https://osf.io/download/6946e68576605f66b0e077b3/](https://osf.io/download/6946e68576605f66b0e077b3/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSFModelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</p></details>
+   Link: <a href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/6946e68576605f66b0e077b3/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner](https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner)  
+   Link: <a href="https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Note that this last option might involve quite busy main roads, so keep that in mind when making your selection...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cycle.travel  
    Title: Travelcycle.travel | route-planner and maps  
-   Link: [https://cycle.travel/](https://cycle.travel/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| route-planner and maps - traffic-free &amp; quiet roadsPlan a bike route on quiet, scenic roads and paths. Free, easy-to-use cycle route pl...</p></details>
+   Link: <a href="https://cycle.travel/" target="_blank" rel="noopener noreferrer nofollow">https://cycle.travel/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>route-planner and maps - traffic-free &amp; quiet roadsPlan a bike route on quiet, scenic roads and paths. Free, easy-to-use cycle route pl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/journey-planner](https://www.cyclinguk.org/journey-planner)  
+   Link: <a href="https://www.cyclinguk.org/journey-planner" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/journey-planner</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journey plannerJourney planner · Routes · Places · Off-road routing · Cycle route inspiration and advice.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539](https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cyclingweekly.com  
-   Link: [https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face](https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face)  
+   Link: <a href="https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite strong interest in night-time cycling, many women avoid it due to safety concerns, often choosing longer, populated routes over q...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: londoncyclist.co.uk  
    Title: route planning tips  
-   Link: [https://www.londoncyclist.co.uk/route-planning-tips/](https://www.londoncyclist.co.uk/route-planning-tips/)  
+   Link: <a href="https://www.londoncyclist.co.uk/route-planning-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncyclist.co.uk/route-planning-tips/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>London CyclistRoute Planning tips3 Jun 2016 — The best way to find a new route is to cycle around the roads between your location and des...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: activetravelengland.gov.uk  
    Title: Active Travel England Cycle-rail guidance  
-   Link: [https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf](https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf)  
+   Link: <a href="https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Active Travel EnglandCycle-rail guidanceSeptember 21, 2023 — “Cycling facilities, such as safer bike routes and more bike parking, will m...</p></details>
    Published: September 21, 2023  
 
 10. <a id="endnote-10"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/beginners-guide-commuting](https://www.cyclinguk.org/article/beginners-guide-commuting)  
+   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-commuting" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-commuting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A beginners&#x27; guide to … commutingUse trusted online resources. There&#x27;s a lot to think about when starting out: where to lock your bike, h...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cyclinguk.org  
-   Link: [https://www.cyclinguk.org/article/beginners-guide-road-positioning-cycling](https://www.cyclinguk.org/article/beginners-guide-road-positioning-cycling)  
+   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-road-positioning-cycling" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-road-positioning-cycling</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A beginners&#x27; guide to … road positioning for cyclingStart on quieter streets, get used to looking over your shoulder and signal your inte...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CyclingUK/posts/what-if-the-daily-commute-could-be-the-best-part-of-your-dayusing-your-cycle-as-/1249421937226711/](https://www.facebook.com/CyclingUK/posts/what-if-the-daily-commute-could-be-the-best-part-of-your-dayusing-your-cycle-as-/1249421937226711/)  
+   Link: <a href="https://www.facebook.com/CyclingUK/posts/what-if-the-daily-commute-could-be-the-best-part-of-your-dayusing-your-cycle-as-/1249421937226711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CyclingUK/posts/what-if-the-daily-commute-could-be-the-best-part-of-your-dayusing-your-cycle-as-/1249421937226711/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>healthy, and fun. Our...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: bicycleinfrastructuremanuals.com  
-   Link: [https://bicycleinfrastructuremanuals.com/manuals3/NZ-cycle-network-and-route-planning.pdf](https://bicycleinfrastructuremanuals.com/manuals3/NZ-cycle-network-and-route-planning.pdf)  
+   Link: <a href="https://bicycleinfrastructuremanuals.com/manuals3/NZ-cycle-network-and-route-planning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bicycleinfrastructuremanuals.com/manuals3/NZ-cycle-network-and-route-planning.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycle network and route planning guideCycle route planning is the organisation of the most appropriate facilities and treatments into a c...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: raleigh.co.uk  
-   Link: [https://raleigh.co.uk/en-gb/blogs/news-guides/cycling-to-work-for-beginners](https://raleigh.co.uk/en-gb/blogs/news-guides/cycling-to-work-for-beginners)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Cycling to Work](&amp;#123;&amp;#123; &#x27;cycle-commute/&#x27; | relative_url &amp;#125;&amp;#125;) for BeginnersIf you&#x27;re new to the cycling commute or you&#x27;re still a bit unsure whether it&#x27;s feasible for you, we&#x27;ve put t...</p></details>
+   Link: <a href="https://raleigh.co.uk/en-gb/blogs/news-guides/cycling-to-work-for-beginners" target="_blank" rel="noopener noreferrer nofollow">https://raleigh.co.uk/en-gb/blogs/news-guides/cycling-to-work-for-beginners</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling to Work for BeginnersIf you&#x27;re new to the cycling commute or you&#x27;re still a bit unsure whether it&#x27;s feasible for you, we&#x27;ve put t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: britishcycling.org.uk  
-   Link: [https://www.britishcycling.org.uk/commuting/article/Daily-Commuting-Tips](https://www.britishcycling.org.uk/commuting/article/Daily-Commuting-Tips)  
+   Link: <a href="https://www.britishcycling.org.uk/commuting/article/Daily-Commuting-Tips" target="_blank" rel="noopener noreferrer nofollow">https://www.britishcycling.org.uk/commuting/article/Daily-Commuting-Tips</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Commuting TipsDaily tips to help you get the most from your commute. Over the next four weeks we will be giving you a new commuting...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cyclescheme.co.uk  
-   Link: [https://www.cyclescheme.co.uk/community/how-to/how-to-plan-your-route-to-work](https://www.cyclescheme.co.uk/community/how-to/how-to-plan-your-route-to-work)  
+   Link: <a href="https://www.cyclescheme.co.uk/community/how-to/how-to-plan-your-route-to-work" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-plan-your-route-to-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to plan your route to workPlanning your cycling [commute routes](&amp;#123;&amp;#123; &#x27;commute-route/&#x27; | relative_url &amp;#125;&amp;#125;) are easiest to research digitally, but let&#x27;s start with the old school...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: networkrailmediacentre.co.uk  
-   Link: [https://www.networkrailmediacentre.co.uk/news/network-rail-and-cycling-uk-launch-partnership-as-a-fifth-of-brits-say-theyre-considering-cycling-for-their-journey-to-work](https://www.networkrailmediacentre.co.uk/news/network-rail-and-cycling-uk-launch-partnership-as-a-fifth-of-brits-say-theyre-considering-cycling-for-their-journey-to-work)  
+   Link: <a href="https://www.networkrailmediacentre.co.uk/news/network-rail-and-cycling-uk-launch-partnership-as-a-fifth-of-brits-say-theyre-considering-cycling-for-their-journey-to-work" target="_blank" rel="noopener noreferrer nofollow">https://www.networkrailmediacentre.co.uk/news/network-rail-and-cycling-uk-launch-partnership-as-a-fifth-of-brits-say-theyre-considering-cycling-for-their-journey-to-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Network Rail and Cycling UK launch partnership as a fifth...3 Aug 2020 — Together, they will be offering cyclists practical tips on wher...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: epicroadrides.com  
-   Link: [https://epicroadrides.com/cycling-blog/best-cycling-routes-uk-ireland/](https://epicroadrides.com/cycling-blog/best-cycling-routes-uk-ireland/)  
+   Link: <a href="https://epicroadrides.com/cycling-blog/best-cycling-routes-uk-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://epicroadrides.com/cycling-blog/best-cycling-routes-uk-ireland/</a>  
 
 19. <a id="endnote-19"></a>
    Source: bike-components.de  
-   Link: [https://www.bike-components.de/blog/en/guides/cycling-commute-tips/](https://www.bike-components.de/blog/en/guides/cycling-commute-tips/)  
+   Link: <a href="https://www.bike-components.de/blog/en/guides/cycling-commute-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.bike-components.de/blog/en/guides/cycling-commute-tips/</a>  
 
 20. <a id="endnote-20"></a>
    Source: bikeforgood.org.uk  
-   Link: [https://www.bikeforgood.org.uk/blog/planning-cycle-routes/](https://www.bikeforgood.org.uk/blog/planning-cycle-routes/)  
+   Link: <a href="https://www.bikeforgood.org.uk/blog/planning-cycle-routes/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikeforgood.org.uk/blog/planning-cycle-routes/</a>  
 
 21. <a id="endnote-21"></a>
    Source: content.tfl.gov.uk  
-   Link: [https://content.tfl.gov.uk/smart-commuting-toolkit.pdf](https://content.tfl.gov.uk/smart-commuting-toolkit.pdf)  
+   Link: <a href="https://content.tfl.gov.uk/smart-commuting-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.tfl.gov.uk/smart-commuting-toolkit.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>commuting toolkitSmart commuting could include avoiding busy public transport routes, introducing policies to allow commuting at quieter...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: usandco.com  
-   Link: [https://usandco.com/london-bike-commuting-tips/](https://usandco.com/london-bike-commuting-tips/)  
+   Link: <a href="https://usandco.com/london-bike-commuting-tips/" target="_blank" rel="noopener noreferrer nofollow">https://usandco.com/london-bike-commuting-tips/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take the back roads · 2. Buying cycling equipment · 3. Breathe easy · 4. Store your bike safely · 5. Get your...Read more...</p></details>

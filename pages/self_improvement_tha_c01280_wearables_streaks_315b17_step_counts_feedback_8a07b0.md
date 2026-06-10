@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:45:02'
 parent_title: When Streaks Help and When They Trap You | Better Change
 parent_permalink: /wearables/
 parent_nav_short_title: Wearables
@@ -265,7 +266,6 @@ next_link:
   permalink: /streaks/
   short_title: Streaks
   heading_title: How to Keep a Streak From Owning You
-date: '2026-06-05 15:45:02 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_step_counts_feedback_8a07b0-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_step_counts_feedback_8a07b0-Illustration-1.webp
@@ -286,7 +286,7 @@ Many health behaviours are difficult to observe directly. Cardiovascular health 
 
 A person can see that they have taken 2,000 steps by lunchtime and decide to walk during a break. They can notice a low-movement day and take a short evening walk. The metric creates a clear link between behaviour and information.
 
-This simplicity is one reason wearable trackers have attracted so much attention. A major umbrella review published in *The Lancet Digital Health* found consistent evidence that activity trackers increase physical activity across many populations, with average gains equivalent to roughly 1,800 additional steps and around 40 extra minutes of walking per day. The trackers did not magically improve health on their own; they helped people notice and adjust their behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">The LancetEffectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 589 — Together, the results from thi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35868813/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedEffectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 589 — This systematic review of systemat...</span></span></span>
+This simplicity is one reason wearable trackers have attracted so much attention. A major umbrella review published in *The Lancet Digital Health* found consistent evidence that activity trackers increase physical activity across many populations, with average gains equivalent to roughly 1,800 additional steps and around 40 extra minutes of walking per day. The trackers did not magically improve health on their own; they helped people notice and adjust their behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">The LancetEffectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 589 — Together, the results from thi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35868813/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 589 — This systematic review of systemat...</span></span></span>
 
 For self-improvement, that distinction matters. The useful question is not whether a watch proves someone is healthy. The useful question is whether the feedback helps them move more often than they otherwise would.
 
@@ -314,7 +314,7 @@ A person may:
 
 </div>
 
-Public-health guidance reflects this broader reality. Physical activity recommendations include both aerobic activity and muscle-strengthening activity. A daily step count captures only part of that picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/physical-activity-basics/guidelines/adults.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCAdult Activity: An Overview | Physical Activity Basics20 Dec 2023 — Adults need at least 150 minutes of moderate-intensity physical ac...</span></span></span>
+Public-health guidance reflects this broader reality. Physical activity recommendations include both aerobic activity and muscle-strengthening activity. A daily step count captures only part of that picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/physical-activity-basics/guidelines/adults.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Adult Activity: An Overview &#124; Physical Activity Basics20 Dec 2023 — Adults need at least 150 minutes of moderate-intensity physical ac...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BFlZi52SdrY" title="How many steps do you need a day?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BFlZi52SdrY" target="_blank" rel="noopener noreferrer">How many steps do you need a day?</a></p><p class="youtube-embed-meta">Channel: PIX11 News &middot; Views: 297 &middot; Uploaded: October 2023 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BFlZi52SdrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BFlZi52SdrY">Open on YouTube</a></p></div></div></div>
@@ -821,149 +821,149 @@ The healthiest relationship with the metric is therefore practical rather than s
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/eurjpc/article/30/18/1975/7226309](https://academic.oup.com/eurjpc/article/30/18/1975/7226309)  
+   Link: <a href="https://academic.oup.com/eurjpc/article/30/18/1975/7226309" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/eurjpc/article/30/18/1975/7226309</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicThe association between daily step count and all-cause and...by M Banach · 2023 · Cited by 302 — This meta-analysis demonstr...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/physical-activity-basics/guidelines/adults.html](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCAdult Activity: An Overview | Physical Activity Basics20 Dec 2023 — Adults need at least 150 minutes of moderate-intensity physical ac...</p></details>
+   Link: <a href="https://www.cdc.gov/physical-activity-basics/guidelines/adults.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity-basics/guidelines/adults.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adult Activity: An Overview | Physical Activity Basics20 Dec 2023 — Adults need at least 150 minutes of moderate-intensity physical ac...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/physical-activity-basics/benefits/index.html](https://www.cdc.gov/physical-activity-basics/benefits/index.html)  
+   Link: <a href="https://www.cdc.gov/physical-activity-basics/benefits/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity-basics/benefits/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of Physical Activity4 Dec 2025 — For adults 60 and older, the risk of premature death leveled off at about 6,000 to 8,000 steps...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cdc.gov  
    Title: getting started  
-   Link: [https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html](https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html)  
+   Link: <a href="https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steps for Getting Started With Physical Activity4 Dec 2025 — Here are ways to get started: Federal guidelines for adults recommend at lea...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdc.gov  
    Title: older adults  
-   Link: [https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html)  
+   Link: <a href="https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Older Adult Activity: An Overview | Physical Activity Basics4 Dec 2025 — Moderate-intensity aerobic activity such as brisk walking for 15...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archive.cdc.gov  
-   Link: [https://archive.cdc.gov/www_cdc_gov/media/releases/2020/p0324-daily-step-count.html](https://archive.cdc.gov/www_cdc_gov/media/releases/2020/p0324-daily-step-count.html)  
+   Link: <a href="https://archive.cdc.gov/www_cdc_gov/media/releases/2020/p0324-daily-step-count.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/media/releases/2020/p0324-daily-step-count.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Step Count Linked with Lower All-cause...Mar 24, 2020 — Taking 12,000 steps per day was associated with a 65% lower risk compared...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cdc.gov  
    Title: what counts  
-   Link: [https://www.cdc.gov/physical-activity-basics/adding-older-adults/what-counts.html](https://www.cdc.gov/physical-activity-basics/adding-older-adults/what-counts.html)  
+   Link: <a href="https://www.cdc.gov/physical-activity-basics/adding-older-adults/what-counts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity-basics/adding-older-adults/what-counts.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>as Physical Activity for Older AdultsDec 4, 2025 — Older adults need 150 minutes of moderate-intensity aerobic physical activity each wee...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: who.int  
-   Link: [https://www.who.int/initiatives/behealthy/physical-activity](https://www.who.int/initiatives/behealthy/physical-activity)  
+   Link: <a href="https://www.who.int/initiatives/behealthy/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/initiatives/behealthy/physical-activity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical activityShould do at least 60 minutes of moderate to vigorous-intensity physical activity daily. · Should do at least 150 minute...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2822%2900111-X/fulltext</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetEffectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 589 — Together, the results from thi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2825%2900164-1/fulltext](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2825%2900164-1/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2825%2900164-1/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2825%2900164-1/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetDaily steps and health outcomes in adults: a systematic...by D Ding · 2025 · Cited by 113 — All consistently found that higher...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35868813/](https://pubmed.ncbi.nlm.nih.gov/35868813/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedEffectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 589 — This systematic review of systemat...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35868813/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35868813/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of wearable activity trackers to increase...by T Ferguson · 2022 · Cited by 589 — This systematic review of systemat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2821%2900302-9/fulltext](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2821%2900302-9/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2821%2900302-9/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667%2821%2900302-9/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetDaily steps and all-cause mortality: a meta-analysis of 15...by AE Paluch · 2022 · Cited by 604 — Although 10 000 steps per da...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralDaily steps and all-cause mortality: a meta-analysis of 15...by AE Paluch · 2022 · Cited by 641 — Although 10 000 steps pe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencemediacentre.org  
-   Link: [https://www.sciencemediacentre.org/expert-reaction-to-systematic-review-and-meta-analysis-of-daily-step-count-and-risk-of-chronic-diseases-cognitive-decline-and-death/](https://www.sciencemediacentre.org/expert-reaction-to-systematic-review-and-meta-analysis-of-daily-step-count-and-risk-of-chronic-diseases-cognitive-decline-and-death/)  
+   Link: <a href="https://www.sciencemediacentre.org/expert-reaction-to-systematic-review-and-meta-analysis-of-daily-step-count-and-risk-of-chronic-diseases-cognitive-decline-and-death/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencemediacentre.org/expert-reaction-to-systematic-review-and-meta-analysis-of-daily-step-count-and-risk-of-chronic-diseases-cognitive-decline-and-death/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>expert reaction to systematic review and meta-analysis of...23 Jul 2025 — “This study suggested that 5000-7000 steps per day can signifi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jamanetwork.com  
-   Link: [https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783711](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783711)  
+   Link: <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783711" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783711</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Steps per Day and All-Cause Mortality in Middle-aged Adultsby AE Paluch · 2021 · Cited by 200 — Adults taking at least 7000 steps/d, comp...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/37555441/](https://pubmed.ncbi.nlm.nih.gov/37555441/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37555441/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37555441/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>association between daily step count and all-cause...by M Banach · 2023 · Cited by 297 — This meta-analysis demonstrates a significant i...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jamanetwork.com  
-   Link: [https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802810](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802810)  
+   Link: <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802810" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802810</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Daily Step Patterns With Mortality in US Adultsby K Inoue · 2023 · Cited by 100 — Recently, a meta-analysis suggested that...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: henryford.com  
    Title: 10000 Steps Per Day  
-   Link: [https://www.henryford.com/Blog/2026/03/10000-Steps-Per-Day](https://www.henryford.com/Blog/2026/03/10000-Steps-Per-Day)  
+   Link: <a href="https://www.henryford.com/Blog/2026/03/10000-Steps-Per-Day" target="_blank" rel="noopener noreferrer nofollow">https://www.henryford.com/Blog/2026/03/10000-Steps-Per-Day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do You Really Need 10000 Steps A Day?7 days ago — Start slow: Instead of aiming for 7,000 steps right at the beginning, start with a few...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371001917_The_effectiveness_of_wearable_activity_trackers_for_increasing_physical_activity_and_reducing_sedentary_time_in_older_adults_A_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/371001917_The_effectiveness_of_wearable_activity_trackers_for_increasing_physical_activity_and_reducing_sedentary_time_in_older_adults_A_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/371001917_The_effectiveness_of_wearable_activity_trackers_for_increasing_physical_activity_and_reducing_sedentary_time_in_older_adults_A_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371001917_The_effectiveness_of_wearable_activity_trackers_for_increasing_physical_activity_and_reducing_sedentary_time_in_older_adults_A_systematic_review_and_meta-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The effectiveness of wearable activity trackers for...Apr 30, 2026 — This review showed that wearable activity trackers are an eff...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/9JNGEJ19/](https://ouci.dntb.gov.ua/en/works/9JNGEJ19/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/9JNGEJ19/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/9JNGEJ19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dntb.gov.uaSelf-tracking of daily physical activity using a fitness tracker...Results of mixed-effect multilevel analyses suggest that a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: acsm.org  
-   Link: [https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/](https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/)  
+   Link: <a href="https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/</a>  
 
 22. <a id="endnote-22"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4LRnV0q9/](https://ouci.dntb.gov.ua/en/works/4LRnV0q9/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4LRnV0q9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4LRnV0q9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Devices to Improve Physical Activity and Reduce...Effectiveness of wearable activity trackers to increase physical activity and improve...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: newswise.com  
-   Link: [https://www.newswise.com/pdf_docs/165828208454252_PIIS258975002200111X.pdf](https://www.newswise.com/pdf_docs/165828208454252_PIIS258975002200111X.pdf)  
+   Link: <a href="https://www.newswise.com/pdf_docs/165828208454252_PIIS258975002200111X.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/pdf_docs/165828208454252_PIIS258975002200111X.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d meta-analyses (umbrella review) aimed to examine the effectiveness of activity trackers for.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
    Title: 7000 steps a day could be enough to improve health say researchers  
-   Link: [https://www.theguardian.com/science/2025/jul/23/7000-steps-a-day-could-be-enough-to-improve-health-say-researchers](https://www.theguardian.com/science/2025/jul/23/7000-steps-a-day-could-be-enough-to-improve-health-say-researchers)  
+   Link: <a href="https://www.theguardian.com/science/2025/jul/23/7000-steps-a-day-could-be-enough-to-improve-health-say-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/jul/23/7000-steps-a-day-could-be-enough-to-improve-health-say-researchers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7000 steps a day could be enough to improve health, say...23 Jul 2025 — Compared with those who walked 2,000 steps a day, the researcher...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nih.gov  
-   Link: [https://www.nih.gov/news-events/nih-research-matters/number-steps-day-more-important-step-intensity](https://www.nih.gov/news-events/nih-research-matters/number-steps-day-more-important-step-intensity)  
+   Link: <a href="https://www.nih.gov/news-events/nih-research-matters/number-steps-day-more-important-step-intensity" target="_blank" rel="noopener noreferrer nofollow">https://www.nih.gov/news-events/nih-research-matters/number-steps-day-more-important-step-intensity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Number of steps per day more important than step intensity31 Mar 2020 — Taking 4,000 or fewer steps a day is considered a low level of ph...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: dtnext.in  
    Title: fitness trackers do not appear to improve health lancet report  
-   Link: [https://www.dtnext.in/lifestyle/wellbeing/fitness-trackers-do-not-appear-to-improve-health-lancet-report](https://www.dtnext.in/lifestyle/wellbeing/fitness-trackers-do-not-appear-to-improve-health-lancet-report)  
+   Link: <a href="https://www.dtnext.in/lifestyle/wellbeing/fitness-trackers-do-not-appear-to-improve-health-lancet-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dtnext.in/lifestyle/wellbeing/fitness-trackers-do-not-appear-to-improve-health-lancet-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fitness trackers do not appear to improve health: Lancet...Oct 5, 2016 — “However, we found no evidence that the device promoted weight...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: dr.ntu.edu.sg  
    Title: ntu.edu.sg Wearable activity trackers for promoting physical  
-   Link: [https://dr.ntu.edu.sg/server/api/core/bitstreams/a214eb20-98d2-4410-9d81-0c3a31bca745/content](https://dr.ntu.edu.sg/server/api/core/bitstreams/a214eb20-98d2-4410-9d81-0c3a31bca745/content)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DR-NTUby C Li · Cited by 88 — Conclusions: The use of wearable activity trackers effectively improves conscious exercise behavior, includ...</p></details>
+   Link: <a href="https://dr.ntu.edu.sg/server/api/core/bitstreams/a214eb20-98d2-4410-9d81-0c3a31bca745/content" target="_blank" rel="noopener noreferrer nofollow">https://dr.ntu.edu.sg/server/api/core/bitstreams/a214eb20-98d2-4410-9d81-0c3a31bca745/content</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTUby C Li · Cited by 88 — Conclusions: The use of wearable activity trackers effectively improves conscious exercise behavior, includ...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: uptonneurophysio.com  
    Title: wearable activity trackers recommended for everyone  
-   Link: [https://www.uptonneurophysio.com/beccas-blog/wearable-activity-trackers-recommended-for-everyone](https://www.uptonneurophysio.com/beccas-blog/wearable-activity-trackers-recommended-for-everyone)  
+   Link: <a href="https://www.uptonneurophysio.com/beccas-blog/wearable-activity-trackers-recommended-for-everyone" target="_blank" rel="noopener noreferrer nofollow">https://www.uptonneurophysio.com/beccas-blog/wearable-activity-trackers-recommended-for-everyone</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wearable Activity Trackers-recommended for everyoneNov 20, 2025 — Effectiveness of wearable activity trackers to increase physical activi...</p></details>

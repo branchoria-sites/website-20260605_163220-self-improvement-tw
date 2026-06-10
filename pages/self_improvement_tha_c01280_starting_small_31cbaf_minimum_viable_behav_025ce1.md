@@ -278,7 +278,7 @@ A tiny habit is only useful if it remains a real instance of the skill you are t
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_minimum_viable_behav_025ce1-Illustration-1-dark.svg" | relative_url }}" alt="Minimums illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_minimum_viable_behav_025ce1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_minimum_viable_behav_025ce1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because [starting small]({{ 'small-starts/' | relative_url }}) is meant to reduce friction, not replace practice. Research on habit formation, implementation intentions, and skill acquisition consistently points towards the same principle: repetition works best when the repeated action is closely connected to the capability being developed. Small actions become powerful when they are genuine repetitions of the target behaviour rather than symbolic substitutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPITime to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 92 — Healthy habit formation is a critical aspect...</span></span></span>
+This distinction matters because starting small is meant to reduce friction, not replace practice. Research on habit formation, implementation intentions, and skill acquisition consistently points towards the same principle: repetition works best when the repeated action is closely connected to the capability being developed. Small actions become powerful when they are genuine repetitions of the target behaviour rather than symbolic substitutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 92 — Healthy habit formation is a critical aspect...</span></span></span>
 
 ## What Makes a Behaviour Minimum but Useful?
 
@@ -298,7 +298,7 @@ A useful minimum behaviour usually has four characteristics:
 
 Consider writing. Opening a document every morning may help establish a routine, but writing one sentence is a stronger minimum because it practises the actual skill. The difference is subtle but important. One behaviour prepares for writing; the other is writing.
 
-The same logic appears in research on [deliberate practice]({{ 'skill-feedback/' | relative_url }}). Improvement comes from performing the target skill repeatedly, receiving information about performance, and refining execution over time. Activities that merely surround the skill often contribute far less than people assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Deliberate Practice</span><span class="citation-popover-snippet">ScienceDirectDeliberate Practice - an overviewEricsson et al. define deliberate practice as a well-defined task with immediate feedback...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">practice and acquisition of expert performanceby KA Ericsson · 2008 · Cited by 2809 — Traditionally, professional expertise has been judg...</span></span></span>
+The same logic appears in research on deliberate practice. Improvement comes from performing the target skill repeatedly, receiving information about performance, and refining execution over time. Activities that merely surround the skill often contribute far less than people assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Deliberate Practice</span><span class="citation-popover-snippet">Deliberate Practice - an overviewEricsson et al. define deliberate practice as a well-defined task with immediate feedback...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">practice and acquisition of expert performanceby KA Ericsson · 2008 · Cited by 2809 — Traditionally, professional expertise has been judg...</span></span></span>
 
 ### The Capability Test
 
@@ -315,7 +315,7 @@ GoalWeak minimumUseful minimumBecome a better writerOpen writing softwareWrite o
 The useful version remains tiny, but it creates genuine practice.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F-DnF37n_E" title="How to Actually Start a Habit | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F-DnF37n_E" target="_blank" rel="noopener noreferrer">How to Actually Start a Habit | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 15.0K &middot; Uploaded: January 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F-DnF37n_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F-DnF37n_E">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bdsc3Spm6Sw" title="Best Ways to Build Better Habits &amp; Break Bad Ones | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bdsc3Spm6Sw" target="_blank" rel="noopener noreferrer">Best Ways to Build Better Habits &amp; Break Bad Ones | James Clear</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 577.3K &middot; Uploaded: January 2026 &middot; Length: 2 hours 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bdsc3Spm6Sw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bdsc3Spm6Sw">Open on YouTube</a></p></div></div></div>
 
 ## Why Capability Requires Contact with the Real Skill
 
@@ -393,7 +393,7 @@ The behaviour remains small, but repetition becomes more reliable because the cu
 Research on habit formation also suggests that stable contexts help [automaticity]({{ 'automaticity/' | relative_url }}) develop over time. Consistency of situation can matter as much as consistency of effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investiga...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bdsc3Spm6Sw" title="Best Ways to Build Better Habits &amp; Break Bad Ones | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bdsc3Spm6Sw" target="_blank" rel="noopener noreferrer">Best Ways to Build Better Habits &amp; Break Bad Ones | James Clear</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 577.3K &middot; Uploaded: January 2026 &middot; Length: 2 hours 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bdsc3Spm6Sw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bdsc3Spm6Sw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F-DnF37n_E" title="How to Actually Start a Habit | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F-DnF37n_E" target="_blank" rel="noopener noreferrer">How to Actually Start a Habit | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 15.0K &middot; Uploaded: January 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F-DnF37n_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F-DnF37n_E">Open on YouTube</a></p></div></div></div>
 
 ## Signs the Starter Version Has Become Symbolic
 
@@ -430,7 +430,7 @@ If months pass without tangible outputs, the habit may be functioning as a ritua
 
 Capability grows when the skill is exercised, even at a small scale. If the habit has been engineered to remove every challenge, it may no longer train anything.
 
-Deliberate-practice research repeatedly emphasises focused engagement with performance, [feedback]({{ 'feedback/' | relative_url }}), and improvement rather than mere repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Deliberate Practice</span><span class="citation-popover-snippet">ScienceDirectDeliberate Practice - an overviewEricsson et al. define deliberate practice as a well-defined task with immediate feedback...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://litfl.com/deliberate-practice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: litfl.com">[2Life in the Fast Lane • LITFL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">litfl.com</span><span class="citation-popover-snippet">Life in the Fast Lane • LITFLDeliberate PracticeDeliberate practice: Rtitive performance of intended cognitive or psychomotor skills in a...</span></span></span>
+Deliberate-practice research repeatedly emphasises focused engagement with performance, [feedback]({{ 'feedback/' | relative_url }}), and improvement rather than mere repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Deliberate Practice</span><span class="citation-popover-snippet">Deliberate Practice - an overviewEricsson et al. define deliberate practice as a well-defined task with immediate feedback...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://litfl.com/deliberate-practice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: litfl.com">[2Life in the Fast Lane • LITFL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">litfl.com</span><span class="citation-popover-snippet">Life in the Fast Lane • LITFLDeliberate PracticeDeliberate practice: Rtitive performance of intended cognitive or psychomotor skills in a...</span></span></span>
 
 ### There Is No Obvious Growth Path
 
@@ -441,7 +441,7 @@ A healthy starter habit should answer a simple question:
 If no clear progression exists, the behaviour may be disconnected from the larger goal.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h35hy4LcVFw" title="Behavioral scientist BJ Fogg on building lasting habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer">Behavioral scientist BJ Fogg on building lasting habits</a></p><p class="youtube-embed-meta">Channel: Stanford &middot; Views: 14.9K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h35hy4LcVFw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n2SV81vh9vQ" title="4 Steps to Building a Habit | James Clear &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n2SV81vh9vQ" target="_blank" rel="noopener noreferrer">4 Steps to Building a Habit | James Clear &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 21.5K &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n2SV81vh9vQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n2SV81vh9vQ">Open on YouTube</a></p></div></div></div>
 
 ## The Smallest Rep That Counts
 
@@ -872,127 +872,127 @@ The ideal minimum viable behaviour feels almost embarrassingly modest, yet it re
 
 1. <a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-9032/12/23/2488](https://www.mdpi.com/2227-9032/12/23/2488)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPITime to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 92 — Healthy habit formation is a critical aspect...</p></details>
+   Link: <a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 92 — Healthy habit formation is a critical aspect...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Deliberate Practice  
-   Link: [https://www.sciencedirect.com/topics/psychology/deliberate-practice](https://www.sciencedirect.com/topics/psychology/deliberate-practice)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDeliberate Practice - an overviewEricsson et al. define deliberate practice as a well-defined task with immediate feedback...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/deliberate-practice</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deliberate Practice - an overviewEricsson et al. define deliberate practice as a well-defined task with immediate feedback...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: [https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0)  
+   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsSeveral reviews and meta-analyses have exp...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: litfl.com  
-   Link: [https://litfl.com/deliberate-practice/](https://litfl.com/deliberate-practice/)  
+   Link: <a href="https://litfl.com/deliberate-practice/" target="_blank" rel="noopener noreferrer nofollow">https://litfl.com/deliberate-practice/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Life in the Fast Lane • LITFLDeliberate PracticeDeliberate practice: Rtitive performance of intended cognitive or psychomotor skills in a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: Deliberate Practice  
-   Link: [https://www.sciencedirect.com/topics/computer-science/deliberate-practice](https://www.sciencedirect.com/topics/computer-science/deliberate-practice)  
+   Link: <a href="https://www.sciencedirect.com/topics/computer-science/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/deliberate-practice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewDeliberate practice in the context of Computer Science refers to engaging in effortful training activities over a long period...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: habit formation has been over valued as a behavior change  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661324002663](https://www.sciencedirect.com/science/article/pii/S1364661324002663)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661324002663</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 44 — Effectiveness of the use of implementation inten...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290](https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From intentions via planning and behavior to physical...by L Fleig · 2013 · Cited by 103 — Two field studies investigated the effect of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18778378/](https://pubmed.ncbi.nlm.nih.gov/18778378/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18778378/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>practice and acquisition of expert performanceby KA Ericsson · 2008 · Cited by 2809 — Traditionally, professional expertise has been judg...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/2094928/](https://pubmed.ncbi.nlm.nih.gov/2094928/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSpecificity and variability of practiceby CH Shea · 1990 · Cited by 335 — The specificity of learning principle proposes that motor...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/2094928/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/2094928/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specificity and variability of practiceby CH Shea · 1990 · Cited by 335 — The specificity of learning principle proposes that motor...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investiga...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-1-4614-6439-6_1710-4](https://link.springer.com/rwe/10.1007/978-1-4614-6439-6_1710-4)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-1-4614-6439-6_1710-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-1-4614-6439-6_1710-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions | Springer Nature Link27 Apr 2019 — Implementation intentions and goal achievement: A meta-analysis of effects and processes...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deliberate Practice and Proposed [Limits](&amp;#123;&amp;#123; &#x27;limits/&#x27; | relative_url &amp;#125;&amp;#125;) on the Effects of...by KA Ericsson · 2019 · Cited by 494 — The paper concludes with recommendati...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: jsomers.net  
    Title: deliberate practice  
-   Link: [https://jsomers.net/blog/deliberate-practice](https://jsomers.net/blog/deliberate-practice)  
+   Link: <a href="https://jsomers.net/blog/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://jsomers.net/blog/deliberate-practice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Deliberate Practice in the Acquisition of Expert...9 Feb 2010 — “The subjects should receive immediate informative feedback...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes](https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes)  
+   Link: <a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Breaking Habits With Implementation IntentionsImplementation intentions specifying the replacement of a habitual response with an a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bjfogg.com  
-   Link: [https://www.bjfogg.com/tiny-habits](https://www.bjfogg.com/tiny-habits)  
+   Link: <a href="https://www.bjfogg.com/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.bjfogg.com/tiny-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Scientist &amp; Author of Tiny HabitsBuilding on his groundbreaking model, which shows that behavior occurs when [motivation](&amp;#123;&amp;#123; &#x27;motivation/&#x27; | relative_url &amp;#125;&amp;#125;), ability...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sourcesofinsight.com  
-   Link: [https://sourcesofinsight.com/deliberate-practice/](https://sourcesofinsight.com/deliberate-practice/)  
+   Link: <a href="https://sourcesofinsight.com/deliberate-practice/" target="_blank" rel="noopener noreferrer nofollow">https://sourcesofinsight.com/deliberate-practice/</a>  
 
 18. <a id="endnote-18"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/979014585/Habit-Attitude-and-Planned-Behaviour-Is-Construct-or-an-Habit-an-Empty-Interesting-Case-Goal-directed-Automaticity](https://www.scribd.com/document/979014585/Habit-Attitude-and-Planned-Behaviour-Is-Construct-or-an-Habit-an-Empty-Interesting-Case-Goal-directed-Automaticity)  
+   Link: <a href="https://www.scribd.com/document/979014585/Habit-Attitude-and-Planned-Behaviour-Is-Construct-or-an-Habit-an-Empty-Interesting-Case-Goal-directed-Automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/979014585/Habit-Attitude-and-Planned-Behaviour-Is-Construct-or-an-Habit-an-Empty-Interesting-Case-Goal-directed-Automaticity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit and Goal-Directed Automaticity | PDF15 Apr 2011 — Forming implementation intentions only resulted in fat avoidance when no unhealth...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: studocu.vn  
-   Link: [https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/viet-luan-chuong-trinh-tien-tien/implementation-intentions-and-goal-achievement-a-review-of-effects-and/149995507](https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/viet-luan-chuong-trinh-tien-tien/implementation-intentions-and-goal-achievement-a-review-of-effects-and/149995507)  
+   Link: <a href="https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/viet-luan-chuong-trinh-tien-tien/implementation-intentions-and-goal-achievement-a-review-of-effects-and/149995507" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/viet-luan-chuong-trinh-tien-tien/implementation-intentions-and-goal-achievement-a-review-of-effects-and/149995507</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions and Goal AchievementThis article reviews the role of implementation intentions in achieving goals, highlighting...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: behaviormodel.org  
-   Link: [https://www.behaviormodel.org/prompts](https://www.behaviormodel.org/prompts)  
+   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design effective triggers tha...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavior scientis...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cris.brighton.ac.uk  
-   Link: [https://cris.brighton.ac.uk/ws/portalfiles/portal/391023/How%2Bexperts%2Bpractice-%2Ba%2Bnovel%2Btest%2Bof%2Bdeliberate%2Bpractice%2Btheory.pdf](https://cris.brighton.ac.uk/ws/portalfiles/portal/391023/How%2Bexperts%2Bpractice-%2Ba%2Bnovel%2Btest%2Bof%2Bdeliberate%2Bpractice%2Btheory.pdf)  
+   Link: <a href="https://cris.brighton.ac.uk/ws/portalfiles/portal/391023/How%2Bexperts%2Bpractice-%2Ba%2Bnovel%2Btest%2Bof%2Bdeliberate%2Bpractice%2Btheory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.brighton.ac.uk/ws/portalfiles/portal/391023/How%2Bexperts%2Bpractice-%2Ba%2Bnovel%2Btest%2Bof%2Bdeliberate%2Bpractice%2Btheory.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>novel test of deliberate practice theoryFirst, the “monotonic benefits assumption” (pp. 7. 368) holds that the amount of time invested in...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: drpaulmccarthy.com  
    Title: tiny habits the breakthrough method for building life changing behaviors  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...10 Feb 2026 — Use the B=MAP formula: Every behavior needs Motivation, Ability...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:58:59'
 parent_title: What to Do After You Miss a Day | Better Change
 parent_permalink: /missed-days/
 parent_nav_short_title: Missed Days
@@ -259,7 +260,6 @@ prev_link:
   permalink: /lapse-vs-relapse/
   short_title: Lapse vs relapse
   heading_title: Is One Missed Day Really a Relapse?
-date: '2026-06-05 15:58:59 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-1.webp
@@ -272,7 +272,7 @@ When a habit is interrupted, the most effective restart is usually not a full re
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-1-dark.svg" | relative_url }}" alt="Restart action illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on habit formation suggests that a single missed opportunity does not significantly damage the development of a habit, but long gaps and repeated misses are more problematic. The critical skill after a lapse is therefore rapid re-entry rather than compensation. A tiny restart action keeps the behaviour connected to its cue, protects the [identity]({{ 'identity/' | relative_url }}) of “someone who still does this”, and reduces the risk that one missed day becomes several. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">| UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">With repetition of a behaviour in a consistent...Read more...</span></span></span>
+Research on habit formation suggests that a single missed opportunity does not significantly damage the development of a habit, but long gaps and repeated misses are more problematic. The critical skill after a lapse is therefore rapid re-entry rather than compensation. A tiny restart action keeps the behaviour connected to its cue, protects the [identity]({{ 'identity/' | relative_url }}) of “someone who still does this”, and reduces the risk that one missed day becomes several. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">With repetition of a behaviour in a consistent...Read more...</span></span></span>
 
 ## Why the Next Action Should Shrink After a Miss
 
@@ -314,7 +314,7 @@ For example:
 
 Physically, the two actions are very different. Behaviourally, they serve the same purpose: the cue still leads to action.
 
-This distinction matters because habits are built around recurring situations more than around heroic effort. Studies of habit formation found that missing one opportunity did not materially disrupt the overall habit-building process, suggesting that preserving the pattern over time is more important than achieving perfection every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">| UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</span></span></span> ResearchGate A useful way to think about a minimum restart is that it protects the route even when traffic is light. The path from cue to action remains o <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">With repetition of a behaviour in a consistent...Read more...</span></span></span> pen.
+This distinction matters because habits are built around recurring situations more than around heroic effort. Studies of habit formation found that missing one opportunity did not materially disrupt the overall habit-building process, suggesting that preserving the pattern over time is more important than achieving perfection every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</span></span></span> ResearchGate A useful way to think about a minimum restart is that it protects the route even when traffic is light. The path from cue to action remains o <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">With repetition of a behaviour in a consistent...Read more...</span></span></span> pen.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S_8e-6ZHKLs" title="TINY HABITS by BJ Fogg | Core Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer">TINY HABITS by BJ Fogg | Core Message</a></p><p class="youtube-embed-meta">Channel: Productivity Game &middot; Views: 121.3K &middot; Uploaded: November 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S_8e-6ZHKLs">Open on YouTube</a></p></div></div></div>
@@ -445,7 +445,7 @@ The minimum version should be viewed as part of the habit system, not evidence t
 
 The most effective restart action is rarely impressive. It is deliberately modest, designed for difficult days rather than ideal ones.
 
-What preserves momentum is not intensity but continuity. A habit survives because the next repetition happens before the interruption becomes the new normal. Research on habit formation consistently suggests that occasional misses are less important than maintaining the long-term pattern, and tiny restart actions provide a practical way to do exactly that. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">| UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</span></span></span> ResearchGate When a habit has been missed <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">With repetition of a behaviour in a consistent...Read more...</span></span></span>, the question is not “How do I get back to full performance?” The better question is: “What is the smallest version I can complete today?” The answer is often the shortest path back to momentum.
+What preserves momentum is not intensity but continuity. A habit survives because the next repetition happens before the interruption becomes the new normal. Research on habit formation consistently suggests that occasional misses are less important than maintaining the long-term pattern, and tiny restart actions provide a practical way to do exactly that. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</span></span></span> ResearchGate When a habit has been missed <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">With repetition of a behaviour in a consistent...Read more...</span></span></span>, the question is not “How do I get back to full performance?” The better question is: “What is the smallest version I can complete today?” The answer is often the shortest path back to momentum.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -868,143 +868,143 @@ What preserves momentum is not intensity but continuity. A habit survives becaus
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world](https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>With repetition of a behaviour in a consistent...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: brain.health  
-   Link: [https://brain.health/tiny-habits/](https://brain.health/tiny-habits/)  
+   Link: <a href="https://brain.health/tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://brain.health/tiny-habits/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NetworkTiny Habits® by BJ FoggThe essence of Tiny Habits is this: Take a behaviour you want, make it tiny, find where it fits naturally i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles](https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles)  
+   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/230576965_Habit_as_automaticity_not_frequency](https://www.researchgate.net/publication/230576965_Habit_as_automaticity_not_frequency)  
+   Link: <a href="https://www.researchgate.net/publication/230576965_Habit_as_automaticity_not_frequency" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230576965_Habit_as_automaticity_not_frequency</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit as [automaticity](&amp;#123;&amp;#123; &#x27;automaticity/&#x27; | relative_url &amp;#125;&amp;#125;), not frequencyFrequency, or repeated performance, is necessary for behaviors to become habitual in the first...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf](https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: ucl.ac.uk  
    Title: University College London How long does it take to form a habit?  
-   Link: [https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</p></details>
+   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: behaviordesign.stanford.edu  
-   Link: [https://behaviordesign.stanford.edu/resources/fogg-behavior-model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model)  
+   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Psychological theor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsTiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing res...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: drpaulmccarthy.com  
    Title: tiny habits the breakthrough method for building life changing behaviors  
-   Link: [https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors](https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors)  
+   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By making behaviors tiny enough to need little ability and linking them to reliable...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: coachpedropinto.com  
    Title: habit formation science backed strategies for leaders  
-   Link: [https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/](https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/)  
+   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coach Pedro PintoHabit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Effective recovery strategies include: The “never...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: goalsandprogress.com  
    Title: two day rule habit recovery  
-   Link: [https://goalsandprogress.com/two-day-rule-habit-recovery/](https://goalsandprogress.com/two-day-rule-habit-recovery/)  
+   Link: <a href="https://goalsandprogress.com/two-day-rule-habit-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/two-day-rule-habit-recovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goals and ProgressThe Two-day Rule: Recover From a Missed Habit (2026)4 days ago — The Two-day rule for habit recovery: one missed day is...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheFrustratedResearchers/posts/tiny-habits-to-change-your-lifefollow-the-frustrated-researchers/1196568505358683/](https://www.facebook.com/TheFrustratedResearchers/posts/tiny-habits-to-change-your-lifefollow-the-frustrated-researchers/1196568505358683/)  
+   Link: <a href="https://www.facebook.com/TheFrustratedResearchers/posts/tiny-habits-to-change-your-lifefollow-the-frustrated-researchers/1196568505358683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrustratedResearchers/posts/tiny-habits-to-change-your-lifefollow-the-frustrated-researchers/1196568505358683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits To Change Your Life: Follow The Frustrated...Don&#x27;t Miss Twice When you miss a mini habit, get back on track as soon as possible...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nehrlich.com  
    Title: tiny habits by bj fogg  
-   Link: [https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/](https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/)  
+   Link: <a href="https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits, by BJ Fogg3 Mar 2020 — Fogg suggests that rather than rely on motivation, we can explore the space of Ability and Prompts to...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: drbeurkens.com  
-   Link: [https://www.drbeurkens.com/podcast/tiny-habits-for-creating-lasting-change-in-children-and-adults/](https://www.drbeurkens.com/podcast/tiny-habits-for-creating-lasting-change-in-children-and-adults/)  
+   Link: <a href="https://www.drbeurkens.com/podcast/tiny-habits-for-creating-lasting-change-in-children-and-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.drbeurkens.com/podcast/tiny-habits-for-creating-lasting-change-in-children-and-adults/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s implement small habits in order to create lasting change...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=S_8e-6ZHKLs](https://www.youtube.com/watch?v=S_8e-6ZHKLs)  
+   Link: <a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_8e-6ZHKLs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TINY HABITS by BJ Fogg | Core MessageForget big change, start with a tiny habit: BJ Fogg at TEDxFremont. TEDx Talks &amp;middot; 2.3M views...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bagerbach.com  
    Title: Tiny Habits by B.J Fogg  
-   Link: [https://bagerbach.com/books/tiny-habits/](https://bagerbach.com/books/tiny-habits/)  
+   Link: <a href="https://bagerbach.com/books/tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://bagerbach.com/books/tiny-habits/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary &amp; Notes30 Jul 2022 — The essence of Tiny Habits is this: Take a behavior you want, make it tiny, find where it fits naturally in...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: hubermanlab.com  
-   Link: [https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools](https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools)  
+   Link: <a href="https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools" target="_blank" rel="noopener noreferrer nofollow">https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Build or Break Habits Using Science-Based ToolsBased on my read of the literature, I suggest people pick six new habits to incorporate pe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: rti.org  
-   Link: [https://www.rti.org/publication/experiences-habit-formation-qualitative-study](https://www.rti.org/publication/experiences-habit-formation-qualitative-study)  
+   Link: <a href="https://www.rti.org/publication/experiences-habit-formation-qualitative-study" target="_blank" rel="noopener noreferrer nofollow">https://www.rti.org/publication/experiences-habit-formation-qualitative-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences of habit formationThis study documented experiences of habit development in 10 participants enrolled on a weight loss interve...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model](https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelBJ Fogg: The inventor of the Fogg Behavior Model who is considered one of the pioneers of the study of behavior change...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: epyst.com  
-   Link: [https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802](https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802)  
+   Link: <a href="https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802" target="_blank" rel="noopener noreferrer nofollow">https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2-Day Rule: Why Missing Twice Kills HabitsNever miss twice. The behavioral science behind why two consecutive misses collapse a habit...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theonlinegp.com  
-   Link: [https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick](https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick)  
+   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...12 Aug 2025 — Effective habit stacks follow the formula: &quot;After I [existing habit]...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40TheChosenVictor/never-miss-twice-c430ea069833](https://medium.com/%40TheChosenVictor/never-miss-twice-c430ea069833)  
+   Link: <a href="https://medium.com/%40TheChosenVictor/never-miss-twice-c430ea069833" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40TheChosenVictor/never-miss-twice-c430ea069833</a>  
 
 24. <a id="endnote-24"></a>
    Source: mentalzon.com  
    Title: [66 days](&#123;&#123; '66-days/' | relative_url &#125;&#125;) to build a new habit why it’s not a myth but real habit psychology  
-   Link: [https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology](https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology)  
+   Link: <a href="https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology" target="_blank" rel="noopener noreferrer nofollow">https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>66 Days to Build a New Habit: Why It&#x27;s Not a Myth, But Real...Nov 1, 2025 — The result: on average, it took 66 days for the new behavior...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: surrey.ac.uk  
    Title: does it really take 66 days form habit we asked expert dr pippa lally  
-   Link: [https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally](https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally)  
+   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...There&#x27;s Motivation to do the behavior, Ability to do the behavior, and a...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: productivity-hub.app  
-   Link: [https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily](https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily)  
+   Link: <a href="https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily" target="_blank" rel="noopener noreferrer nofollow">https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>never miss twice&#x27; rule, ensuring you resume the habit the very next day.Read more...</p></details>

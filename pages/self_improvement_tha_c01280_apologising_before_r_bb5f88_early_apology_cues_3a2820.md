@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:46:00'
 parent_title: How to Apologise Before Resentment Grows | Better Change
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
@@ -265,7 +266,6 @@ next_link:
   permalink: /first-sentence/
   short_title: First Sentence
   heading_title: The First Sentence That Makes Repair Easier
-date: '2026-06-05 15:46:00 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-1.webp
@@ -280,7 +280,7 @@ Most relationship damage does not begin with a major betrayal. It begins with a 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-1-dark.svg" | relative_url }}" alt="Early Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Spotting apology cues early is therefore less about mind-reading and more about noticing signals that a rupture may have occurred. Research on relationship repair suggests that successful relationships are not conflict-free; they are characterised by frequent, early repair attempts that prevent negative emotions from escalating. The earlier a repair begins, the less emotional weight an apology has to carry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">r is for repair</span><span class="citation-popover-snippet">The Gottman InstituteR is for Repair3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yesmagazine.org/health-happiness/2019/12/31/repair-relationships-apology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yesmagazine.org">[2YES! Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yesmagazine.org</span><span class="citation-popover-title">repair relationships apology</span><span class="citation-popover-snippet">This Is Better Than an Apology31 Dec 2019 — John Gottman had newlywed couples enter into a 15-minute conflict discussion and coded their...</span></span></span>
 
-Within the broader practice of [apologising before]({{ 'apologies/' | relative_url }}) resentment hardens, the key skill is learning to recognise when hurt is present before it becomes a grievance.
+Within the broader practice of apologising before resentment hardens, the key skill is learning to recognise when hurt is present before it becomes a grievance.
 
 ## Common Cues That a Rupture Has Happened
 
@@ -325,7 +325,7 @@ Consider the difference:
 The first statement centres the speaker's intentions. The second creates room for both realities. Early repair is often nothing more complicated than recognising that impact deserves attention even when harm was unintended.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1xBCYkvoMAg" title="How to Heal and Process a Fight - The Gottmans Act it out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1xBCYkvoMAg" target="_blank" rel="noopener noreferrer">How to Heal and Process a Fight - The Gottmans Act it out</a></p><p class="youtube-embed-meta">Channel: The Gottman Institute &middot; Views: 46.1K &middot; Uploaded: October 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1xBCYkvoMAg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1xBCYkvoMAg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b74k1Q6FrmE" title="How to Make a Repair Attempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b74k1Q6FrmE" target="_blank" rel="noopener noreferrer">How to Make a Repair Attempt</a></p><p class="youtube-embed-meta">Channel: Affair Recovery &middot; Views: 12.3K &middot; Uploaded: March 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b74k1Q6FrmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b74k1Q6FrmE">Open on YouTube</a></p></div></div></div>
 
 ## How Hurt Becomes a Grievance
 
@@ -414,7 +414,7 @@ The practical skill is learning to notice deviations: the pause after a joke, th
 People who repair early are not necessarily more virtuous than everyone else. They are simply quicker to recognise that relationships are shaped by countless small moments of adjustment. A brief acknowledgement today can prevent a much larger apology tomorrow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">r is for repair</span><span class="citation-popover-snippet">The Gottman InstituteR is for Repair3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://verilymag.com/relationships/repair-attempts-apologies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verilymag.com">[2verilymag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verilymag.com</span><span class="citation-popover-title">repair attempts apologies</span><span class="citation-popover-snippet">Here&#x27;s Why &#x27;Repair Attempts&#x27; Are Even More Powerful Than...31 Mar 2017 — These “repair attempts,” as Gottman puts it, could mean saying...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b74k1Q6FrmE" title="How to Make a Repair Attempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b74k1Q6FrmE" target="_blank" rel="noopener noreferrer">How to Make a Repair Attempt</a></p><p class="youtube-embed-meta">Channel: Affair Recovery &middot; Views: 12.3K &middot; Uploaded: March 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b74k1Q6FrmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b74k1Q6FrmE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QhlvBy0K9M4" title="How to heal your relationship: Repair Attempts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QhlvBy0K9M4" target="_blank" rel="noopener noreferrer">How to heal your relationship: Repair Attempts</a></p><p class="youtube-embed-meta">Channel: Inland Empire Couples Counseling &middot; Views: 2.3K &middot; Uploaded: May 2018 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QhlvBy0K9M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QhlvBy0K9M4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -839,139 +839,139 @@ People who repair early are not necessarily more virtuous than everyone else. Th
 1. <a id="endnote-1"></a>
    Source: gottman.com  
    Title: r is for repair  
-   Link: [https://www.gottman.com/blog/r-is-for-repair/](https://www.gottman.com/blog/r-is-for-repair/)  
+   Link: <a href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/r-is-for-repair/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteR is for Repair3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gottman.com  
    Title: The Gottman Institute Manage Conflict: Repair and De-Escalate Dr  
-   Link: [https://www.gottman.com/blog/manage-conflict-repair-and-de-escalate/](https://www.gottman.com/blog/manage-conflict-repair-and-de-escalate/)  
+   Link: <a href="https://www.gottman.com/blog/manage-conflict-repair-and-de-escalate/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/manage-conflict-repair-and-de-escalate/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Gottman&#x27;s scientific studies involving thousands of couples have revealed the usefulness of several constructive steps to making and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gottman.com  
-   Link: [https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/)  
+   Link: <a href="https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteThe Four Horsemen: Criticism, Contempt, Defensiveness...31 Mar 2026 — Defensiveness will only escalate the conflict...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: gottman.com  
    Title: its not my fault why defensiveness is damaging  
-   Link: [https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/](https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/)  
+   Link: <a href="https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It&#x27;s Not My Fault!&#x27;: Why Defensiveness is Damaging31 Mar 2022 — Defensiveness is the &quot;horsemen&quot; that escalates conflict. See why it hurt...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: verilymag.com  
    Title: repair attempts apologies  
-   Link: [https://verilymag.com/relationships/repair-attempts-apologies/](https://verilymag.com/relationships/repair-attempts-apologies/)  
+   Link: <a href="https://verilymag.com/relationships/repair-attempts-apologies/" target="_blank" rel="noopener noreferrer nofollow">https://verilymag.com/relationships/repair-attempts-apologies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s Why &#x27;Repair Attempts&#x27; Are Even More Powerful Than...31 Mar 2017 — These “repair attempts,” as Gottman puts it, could mean saying...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: gottman.com  
    Title: the art of the mindful apology why sorry is not enough  
-   Link: [https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/](https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/)  
+   Link: <a href="https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a process of compassionate communication that takes two of you, not just the one who messed up.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: gottman.com  
    Title: how we used the aftermath of a fight to repair our relationship  
-   Link: [https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/](https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/)  
+   Link: <a href="https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Used the Aftermath of a Fight to Repair Our...9 Jan 2019 — As John Gottman&#x27;s research has shown, it&#x27;s not you fight about that ma...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: gottman.com  
-   Link: [https://www.gottman.com/about/research/](https://www.gottman.com/about/research/)  
+   Link: <a href="https://www.gottman.com/about/research/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/about/research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGottman and Levenson discovered that couples interaction had enormous stability over time (about 80% stability in conflict discus...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: complicated.life  
    Title: how to apologise rupture and repair in relationships  
-   Link: [https://complicated.life/blog/how-to-apologise-rupture-and-repair-in-relationships/](https://complicated.life/blog/how-to-apologise-rupture-and-repair-in-relationships/)  
+   Link: <a href="https://complicated.life/blog/how-to-apologise-rupture-and-repair-in-relationships/" target="_blank" rel="noopener noreferrer nofollow">https://complicated.life/blog/how-to-apologise-rupture-and-repair-in-relationships/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Apologise: Rupture and Repair in Relationships25 Jun 2025 — Repair in relationships is about recognising when there&#x27;s been a ruptu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: yesmagazine.org  
    Title: repair relationships apology  
-   Link: [https://www.yesmagazine.org/health-happiness/2019/12/31/repair-relationships-apology](https://www.yesmagazine.org/health-happiness/2019/12/31/repair-relationships-apology)  
+   Link: <a href="https://www.yesmagazine.org/health-happiness/2019/12/31/repair-relationships-apology" target="_blank" rel="noopener noreferrer nofollow">https://www.yesmagazine.org/health-happiness/2019/12/31/repair-relationships-apology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Is Better Than an Apology31 Dec 2019 — John Gottman had newlywed couples enter into a 15-minute conflict discussion and coded their...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: news.osu.edu  
    Title: Ohio State News​The 6 elements of an effective apology, according to science  
-   Link: [https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/)  
+   Link: <a href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: psychologicalscience.org  
    Title: effective apologies include six elements  
-   Link: [https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html](https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html)  
+   Link: <a href="https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEffective Apologies Include Six Elements24 May 2016 — Expression of regret; Explanation of what went...</p></details>
    Published: May 2016  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/how-many-times-do-we-try-to-repair-after-a-fight-before-we-admit-its-not-working/1279613770880288/](https://www.facebook.com/GottmanInstitute/posts/how-many-times-do-we-try-to-repair-after-a-fight-before-we-admit-its-not-working/1279613770880288/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/how-many-times-do-we-try-to-repair-after-a-fight-before-we-admit-its-not-working/1279613770880288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/how-many-times-do-we-try-to-repair-after-a-fight-before-we-admit-its-not-working/1279613770880288/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/](https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteIt’s tough to find the right words after a stressful period of time or after an argument, but repair attempts are ke...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/](https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteMaking amends takes more than an apology, it takes deep listening, emotional attunement, and a commitment to rebuild...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: couplestherapyinc.com  
-   Link: [https://couplestherapyinc.com/gottman-repair-attempts/](https://couplestherapyinc.com/gottman-repair-attempts/)  
+   Link: <a href="https://couplestherapyinc.com/gottman-repair-attempts/" target="_blank" rel="noopener noreferrer nofollow">https://couplestherapyinc.com/gottman-repair-attempts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gottman Repair AttemptsLearning to fight well and repair relationship conflicts before they spiral out of control is a skill. It&#x27;s one of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: medium.com  
-   Link: [https://medium.com/p-s-i-love-you/how-to-make-repair-attempts-so-your-partner-feels-loved-3f62d9e2a473](https://medium.com/p-s-i-love-you/how-to-make-repair-attempts-so-your-partner-feels-loved-3f62d9e2a473)  
+   Link: <a href="https://medium.com/p-s-i-love-you/how-to-make-repair-attempts-so-your-partner-feels-loved-3f62d9e2a473" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/p-s-i-love-you/how-to-make-repair-attempts-so-your-partner-feels-loved-3f62d9e2a473</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Repair Attempts So Your Partner Feels LovedA repair attempt is any statement or action — verbal, physical, or otherwise — mea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mylifepsychologists.com.au  
-   Link: [https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/](https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/)  
+   Link: <a href="https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/" target="_blank" rel="noopener noreferrer nofollow">https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Conflict: The Art of RepairAccording to Dr John Gottman, a renowned relationships researcher, repair attempts are the “happy...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387412229_Development_of_the_Repair_Attempts_Scale_A_Validity_and_Reliability_Study](https://www.researchgate.net/publication/387412229_Development_of_the_Repair_Attempts_Scale_A_Validity_and_Reliability_Study)  
+   Link: <a href="https://www.researchgate.net/publication/387412229_Development_of_the_Repair_Attempts_Scale_A_Validity_and_Reliability_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387412229_Development_of_the_Repair_Attempts_Scale_A_Validity_and_Reliability_Study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Development of the Repair Attempts Scale: A Validity and...1 May 2026 — This study aimed to develop and test a Repair Attempts Scale to...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: couples who make repair attempts are both willing to admit responsibility for th  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/](https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Couples who make repair attempts are both willing to admit...Couples who make repair attempts are both willing to admit responsibility f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SqPvgDYmJnY](https://www.youtube.com/watch?v=SqPvgDYmJnY)  
+   Link: <a href="https://www.youtube.com/watch?v=SqPvgDYmJnY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqPvgDYmJnY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Repair that Works | Dr. John GottmanDr. Gottman describes how the &quot;masters&quot; of relationships make repairing their relationsh...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GottmanInstitute/posts/every-couple-faces-conflict-but-what-matters-most-is-how-they-repairdr-john-gott/1043357967839204/](https://www.facebook.com/GottmanInstitute/posts/every-couple-faces-conflict-but-what-matters-most-is-how-they-repairdr-john-gott/1043357967839204/)  
+   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/every-couple-faces-conflict-but-what-matters-most-is-how-they-repairdr-john-gott/1043357967839204/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/every-couple-faces-conflict-but-what-matters-most-is-how-they-repairdr-john-gott/1043357967839204/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. John Gottman found that the success or failure of repair attempts is a key predictor...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: howcommunicationworks.com  
    Title: relationship communication john gottmans repair attempts  
-   Link: [https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts](https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts)  
+   Link: <a href="https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts" target="_blank" rel="noopener noreferrer nofollow">https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Communication: John Gottman&#x27;s Repair...4 Jan 2021 — I&#x27;m going to give you a list of exact phrases you can use to repair the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: lakemichigandates.com  
-   Link: [https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology](https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology)  
+   Link: <a href="https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology" target="_blank" rel="noopener noreferrer nofollow">https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman Apology for Travel: 4 Steps to Repair After Conflict22 Oct 2025 — The Gottman apology is a structured way of repairing after...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bristolcbt.co.uk  
-   Link: [https://www.bristolcbt.co.uk/publications/the-cycle-of-rupture-and-repair-in-close-relationships/](https://www.bristolcbt.co.uk/publications/the-cycle-of-rupture-and-repair-in-close-relationships/)  
+   Link: <a href="https://www.bristolcbt.co.uk/publications/the-cycle-of-rupture-and-repair-in-close-relationships/" target="_blank" rel="noopener noreferrer nofollow">https://www.bristolcbt.co.uk/publications/the-cycle-of-rupture-and-repair-in-close-relationships/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He describes repair attempts as “any statement or action —...Read more...</p></details>

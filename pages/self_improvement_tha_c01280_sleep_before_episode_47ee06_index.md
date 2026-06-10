@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-sleep/
 description: Focused pages that expand on Sleep First.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: self_improvement_tha_c01280_sleep_before_episode_47ee06
 parent_title: Sleep First | Self Improvement That Works

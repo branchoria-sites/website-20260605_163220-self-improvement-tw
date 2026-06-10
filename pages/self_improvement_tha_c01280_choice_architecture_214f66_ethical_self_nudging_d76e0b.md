@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 15:55:48'
 parent_title: How Defaults Quietly Shape Your Day | Better Change
 parent_permalink: /defaults/
 parent_nav_short_title: Defaults
@@ -265,7 +266,6 @@ next_link:
   permalink: /payday-saving/
   short_title: Payday saving
   heading_title: Can payday defaults make saving less fragile?
-date: '2026-06-05 15:55:48 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_eth
 
 ## Introduction
 
-Self-nudging is one of the most practical forms of [choice architecture]({{ 'defaults/' | relative_url }}) for self-improvement: you deliberately arrange your [environment]({{ 'environment/' | relative_url }}) so that the behaviour you already want becomes easier to carry out. The ethical question is not whether you influence yourself. Everyone does. The question is whether the influence remains visible, reversible and aligned with your own goals.
+Self-nudging is one of the most practical forms of choice architecture for self-improvement: you deliberately arrange your [environment]({{ 'environment/' | relative_url }}) so that the behaviour you already want becomes easier to carry out. The ethical question is not whether you influence yourself. Everyone does. The question is whether the influence remains visible, reversible and aligned with your own goals.
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-dark.svg" | relative_url }}" alt="Ethical nudges illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ Within everyday self-improvement, the distinction matters because successful sys
 
 ## When is a self-nudge still free choice?
 
-The standard definition of a nudge is a change in choice architecture that predictably influences behaviour without banning alternatives or significantly changing incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkNudge and Nudging in Public Policy | Springer Nature LinkA nudge refers to any aspect of the choice architecture that...</span></span></span>
+The standard definition of a nudge is a change in choice architecture that predictably influences behaviour without banning alternatives or significantly changing incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkNudge and Nudging in Public Policy &#124; Springer Nature LinkA nudge refers to any aspect of the choice architecture that...</span></span></span>
 
 For self-improvement, a useful practical test is whether the arrangement passes three conditions:
 
@@ -408,13 +408,13 @@ A simple quarterly review can include questions such as:
 
 The review should cover practical systems, including:
 
-* [Automatic savings]({{ 'money-defaults/' | relative_url }}) and transfers.
+* Automatic savings and transfers.
+* Recurring calendar commitments.
+* Subscription services.
+* App restrictions and website [blockers]({{ 'blockers/' | relative_url }}).
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
-* Recurring calendar commitments.
-* Subscription services.
-* App restrictions and website blockers.
 * Notification settings.
 * Shopping and delivery defaults.
 * Health and exercise routines.
@@ -536,7 +536,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -546,111 +546,36 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/orkAAeSwHVhpwYNq/s-l225.jpg" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Taylor Swift - Taylor Swift Self Titled Debut CD Album NEW 2008 Big Machine"><img src="{{ '/assets/images/marketplace-covers/c78242d629ac476e5920.jpg' | relative_url }}" alt="Listing image for Taylor Swift - Taylor Swift Self Titled Debut CD Album NEW 2008 Big Machine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Taylor Swift - Taylor Swift Self Titled Debut CD Album NEW 2008 Big Machine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: self memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,15 +583,15 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SELF ESTEEM Concert poster - Glasgow 2018 live music show tour - Gig memorabilia"><img src="{{ '/assets/images/marketplace-covers/07e2a12a3afc71013374.jpg' | relative_url }}" alt="Listing image for SELF ESTEEM Concert poster - Glasgow 2018 live music show tour - Gig memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL 1964 CHINESE POSTER &quot;STRIVE FOR SELF-IMPROVEMENT.&quot; approx 107 x 76 cms"><img src="https://i.ebayimg.com/images/g/0y4AAeSw~IxpndhJ/s-l225.jpg" alt="Listing image for ORIGINAL 1964 CHINESE POSTER &quot;STRIVE FOR SELF-IMPROVEMENT.&quot; approx 107 x 76 cms" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SELF ESTEEM Concert poster - Glasgow 2018 live music show tour - Gig memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL 1964 CHINESE POSTER &quot;STRIVE FOR SELF-IMPROVEMENT.&quot; approx 107 x 76 cms</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: self memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -674,15 +599,15 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roll of Self adhesive SALE WAS / NOW Price label stickers Woolworths Memorabilia"><img src="{{ '/assets/images/marketplace-covers/509f0126fc636f8792ed.jpg' | relative_url }}" alt="Listing image for Roll of Self adhesive SALE WAS / NOW Price label stickers Woolworths Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/JYIAAeSwBxJp2SEh/s-l225.jpg" alt="Listing image for Self improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Roll of Self adhesive SALE WAS / NOW Price label stickers Woolworths Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: self memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -690,15 +615,15 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SLIPKNOT JOEY JORDISON RHINESTONE SELF TITLED STITCHMOUTH MASK MEMORABILIA GIFT"><img src="{{ '/assets/images/marketplace-covers/61714acdf6f53d9434f8.jpg' | relative_url }}" alt="Listing image for SLIPKNOT JOEY JORDISON RHINESTONE SELF TITLED STITCHMOUTH MASK MEMORABILIA GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimal Self-Improvement Text Desig Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/9ecAAeSwwZhp2SDY/s-l225.jpg" alt="Listing image for Minimal Self-Improvement Text Desig Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SLIPKNOT JOEY JORDISON RHINESTONE SELF TITLED STITCHMOUTH MASK MEMORABILIA GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Minimal Self-Improvement Text Desig Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: self memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -706,7 +631,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethical-nudges-when-is-a-self-nudge-still-free-choice-self-improvement-that-works-self-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -783,17 +708,31 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -806,42 +745,73 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -856,202 +826,206 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html](https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ct to ethical considerations that can arise at any point from scoping to policy...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools and Ethics for Applied Behavioural InsightsThis toolkit presents both general principles for the ethical application of BI and a se...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots](https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots)  
+   Link: <a href="https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethical Considerations of Digital Nudging Based on Its...28 May 2019 — Three important ethical considerations for digital nudges are dis...</p></details>
    Published: May 2019  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1](https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkNudge and Nudging in Public Policy | Springer Nature LinkA nudge refers to any aspect of the choice architecture that...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
    Title: Dark commercial patterns (EN)  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2025 — The OECD Committee on Consumer Policy proposes a working definition of dark patterns to facilitate near-term discussion am...</p></details>
    Published: May 14, 2025  
 
 6. <a id="endnote-6"></a>
    Source: drcf.org.uk  
-   Link: [https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506](https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506)  
+   Link: <a href="https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506" target="_blank" rel="noopener noreferrer nofollow">https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>design in digital markets: How Online Choice...This paper provides further clarity on how certain [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) could contravene data prote...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: finnegan.com  
    Title: dark patterns regulation in the uk and us  
-   Link: [https://www.finnegan.com/en/insights/articles/dark-patterns-regulation-in-the-uk-and-us.html](https://www.finnegan.com/en/insights/articles/dark-patterns-regulation-in-the-uk-and-us.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Finnegan | Leading IP+ Law FirmDark Patterns Regulation in the UK and US | Articles7 May 2025 — Dark patterns are design elements and pra...</p></details>
+   Link: <a href="https://www.finnegan.com/en/insights/articles/dark-patterns-regulation-in-the-uk-and-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/articles/dark-patterns-regulation-in-the-uk-and-us.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading IP+ Law FirmDark Patterns Regulation in the UK and US | Articles7 May 2025 — Dark patterns are design elements and pra...</p></details>
    Published: May 2025  
 
 8. <a id="endnote-8"></a>
    Source: oecd.ai  
    Title: ai act manipulation methods  
-   Link: [https://oecd.ai/en/wonk/ai-act-manipulation-methods](https://oecd.ai/en/wonk/ai-act-manipulation-methods)  
+   Link: <a href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/ai-act-manipulation-methods</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: oecd.org  
    Title: LOGI C: Good Practice Principles for Mainstreaming  
-   Link: [https://www.oecd.org/en/publications/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_6cb52de2-en/full-report/component-13.html](https://www.oecd.org/en/publications/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_6cb52de2-en/full-report/component-13.html)  
+   Link: <a href="https://www.oecd.org/en/publications/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_6cb52de2-en/full-report/component-13.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_6cb52de2-en/full-report/component-13.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOGIC: Good Practice Principles for Mainstreaming...May 23, 2024 — This report outlines good practice principles intended to encourage t...</p></details>
    Published: May 23, 2024  
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/good-practice-principles-for-ethical-behavioural-science-in-public-policy_8be8043a/e19a9be9-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/good-practice-principles-for-ethical-behavioural-science-in-public-policy_8be8043a/e19a9be9-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/good-practice-principles-for-ethical-behavioural-science-in-public-policy_8be8043a/e19a9be9-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/good-practice-principles-for-ethical-behavioural-science-in-public-policy_8be8043a/e19a9be9-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>icy, both in the development of tools and standards to serve the BI community and as a...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en.html](https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools and Ethics for Applied Behavioural InsightsThis toolkit provides practitioners and policy makers with a step-by-step process for an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en.html](https://www.oecd.org/en.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD: The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
+   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/behavioural-insights-for-public-integrity_9789264297067-en.html](https://www.oecd.org/en/publications/behavioural-insights-for-public-integrity_9789264297067-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/behavioural-insights-for-public-integrity_9789264297067-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/behavioural-insights-for-public-integrity_9789264297067-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityThis report describes how behavioural insights can help make integrity and anti-corruption polic...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/behavioural-science.html](https://www.oecd.org/en/topics/behavioural-science.html)  
+   Link: <a href="https://www.oecd.org/en/topics/behavioural-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/behavioural-science.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural scienceAt the OECD, we research context-specific behavioural drivers and barriers, and support countries in the use of behavi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5/9789264297067-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5/9789264297067-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5/9789264297067-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5/9789264297067-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityMoments of ethical reflection can be integrated in many policies. Sometimes, people are not even...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: oecd.org  
    Title: 9789264270480 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/behavioural-insights-and-public-policy_g1g7590e/9789264270480-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/behavioural-insights-and-public-policy_g1g7590e/9789264270480-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/behavioural-insights-and-public-policy_g1g7590e/9789264270480-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/behavioural-insights-and-public-policy_g1g7590e/9789264270480-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights and Public Policy (EN)15 Mar 2017 — The case studies are for the benefit of public officials and practitioners when...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/oecd-good-practice-principles-for-data-ethics-in-the-public-sector_caa35b76-en.html](https://www.oecd.org/en/publications/oecd-good-practice-principles-for-data-ethics-in-the-public-sector_caa35b76-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/oecd-good-practice-principles-for-data-ethics-in-the-public-sector_caa35b76-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-good-practice-principles-for-data-ethics-in-the-public-sector_caa35b76-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Good Practice Principles for Data Ethics in the...The Good Practice Principles for Data Ethics in the Public Sector presented in th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/04/behavioural-insights-and-organisations_3b0933c2/e6ef217d-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/04/behavioural-insights-and-organisations_3b0933c2/e6ef217d-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/04/behavioural-insights-and-organisations_3b0933c2/e6ef217d-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/04/behavioural-insights-and-organisations_3b0933c2/e6ef217d-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stand how human behaviour influences policy outcomes.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5.html](https://www.oecd.org/en/publications/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityThis report describes how behavioural insights can help make integrity and anti-corruption polic...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944.html](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944.html)  
+   Link: <a href="https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>be put in place to help keep actors “nudging for good,” as 2017 Nobel Laureate...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: link.springer.com  
    Title: We conducted 81 in-depth  
-   Link: [https://link.springer.com/article/10.1007/s11299-025-00333-0](https://link.springer.com/article/10.1007/s11299-025-00333-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11299-025-00333-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11299-025-00333-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>behavioural insights in the policy process: on...by F Spitzer · 2025 · Cited by 2 — This study investigates how behavioural insights are...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/337902696_Institutionalisation_of_Behavioural_Insights_in_Public_Policy](https://www.researchgate.net/publication/337902696_Institutionalisation_of_Behavioural_Insights_in_Public_Policy)  
+   Link: <a href="https://www.researchgate.net/publication/337902696_Institutionalisation_of_Behavioural_Insights_in_Public_Policy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337902696_Institutionalisation_of_Behavioural_Insights_in_Public_Policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institutionalisation of Behavioural Insights in Public PolicyThis study explores the nuances of South Koreans&#x27; approval for nudge policie...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: europeanlawinstitute.eu  
    Title: GP 5. Explainability.Read more  
-   Link: [https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf](https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf)  
+   Link: <a href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Law InstituteA Framework for Good Green NudgingA nudge is transparent when the person being nudged is, or could reasonably becom...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: termsfeed.com  
    Title: dark patterns  
-   Link: [https://www.termsfeed.com/blog/dark-patterns/](https://www.termsfeed.com/blog/dark-patterns/)  
+   Link: <a href="https://www.termsfeed.com/blog/dark-patterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/blog/dark-patterns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, the FTC and the GDPR8 Feb 2026 — Dark patterns are an underhanded, manipulative way to get people to do what you want them to on your c...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: elgaronline.com  
-   Link: [https://www.elgaronline.com/display/book/9781802207736/chapter30.pdf](https://www.elgaronline.com/display/book/9781802207736/chapter30.pdf)  
+   Link: <a href="https://www.elgaronline.com/display/book/9781802207736/chapter30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/display/book/9781802207736/chapter30.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30. Behavioural public policyBehavioural scientists oper- ating transparently, ethically, and with integrity are more likely to build the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: oecd-opsi.org  
-   Link: [https://oecd-opsi.org/guide/behavioural-insights/](https://oecd-opsi.org/guide/behavioural-insights/)  
+   Link: <a href="https://oecd-opsi.org/guide/behavioural-insights/" target="_blank" rel="noopener noreferrer nofollow">https://oecd-opsi.org/guide/behavioural-insights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural InsightsBehavioural insights (BI) is an inductive approach to policy making that combines insights from psychology, cognitive...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: digital-skills-jobs.europa.eu  
-   Link: [https://digital-skills-jobs.europa.eu/en/learning-space/resources/oecds-good-practice-principles-data-ethics-public-sector](https://digital-skills-jobs.europa.eu/en/learning-space/resources/oecds-good-practice-principles-data-ethics-public-sector)  
+   Link: <a href="https://digital-skills-jobs.europa.eu/en/learning-space/resources/oecds-good-practice-principles-data-ethics-public-sector" target="_blank" rel="noopener noreferrer nofollow">https://digital-skills-jobs.europa.eu/en/learning-space/resources/oecds-good-practice-principles-data-ethics-public-sector</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>europa.euOECD&#x27;s Good Practice Principles for Data Ethics in the Public...Embrace Ethical Data Governance: Dive into the OECD&#x27;s visionary...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: paulvittles.medium.com  
-   Link: [https://paulvittles.medium.com/good-practice-principles-for-deliberative-participative-democracy-shared-principles-with-c5fc28a786df](https://paulvittles.medium.com/good-practice-principles-for-deliberative-participative-democracy-shared-principles-with-c5fc28a786df)  
+   Link: <a href="https://paulvittles.medium.com/good-practice-principles-for-deliberative-participative-democracy-shared-principles-with-c5fc28a786df" target="_blank" rel="noopener noreferrer nofollow">https://paulvittles.medium.com/good-practice-principles-for-deliberative-participative-democracy-shared-principles-with-c5fc28a786df</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>practice principles for deliberative &amp; participative...The OECD (and others) have suggested we promote and support innovation in democra...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: globalgovernmentforum.com  
    Title: behavioural insights have taken root in governments oecd report  
-   Link: [https://www.globalgovernmentforum.com/behavioural-insights-have-taken-root-in-governments-oecd-report/](https://www.globalgovernmentforum.com/behavioural-insights-have-taken-root-in-governments-oecd-report/)  
+   Link: <a href="https://www.globalgovernmentforum.com/behavioural-insights-have-taken-root-in-governments-oecd-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgovernmentforum.com/behavioural-insights-have-taken-root-in-governments-oecd-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural insights &#x27;have taken root&#x27; in governments12 Apr 2017 — The use of &#x27;behavioural insight&#x27; techniques in public policy is enteri...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: publicpolicy.ie  
-   Link: [https://publicpolicy.ie/environment/nudges-and-other-behavioural-public-policy-instruments-to-encourage-environmentally-friendly-behaviour/](https://publicpolicy.ie/environment/nudges-and-other-behavioural-public-policy-instruments-to-encourage-environmentally-friendly-behaviour/)  
+   Link: <a href="https://publicpolicy.ie/environment/nudges-and-other-behavioural-public-policy-instruments-to-encourage-environmentally-friendly-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://publicpolicy.ie/environment/nudges-and-other-behavioural-public-policy-instruments-to-encourage-environmentally-friendly-behaviour/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nticipate how people actually react to policies and to design behaviourally informed...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: bar.anpad.org.br  
    Title: Behavioural insights and public policy: Lessons from around the world.Read more  
-   Link: [https://bar.anpad.org.br/index.php/bar/article/view/580/507](https://bar.anpad.org.br/index.php/bar/article/view/580/507)  
+   Link: <a href="https://bar.anpad.org.br/index.php/bar/article/view/580/507" target="_blank" rel="noopener noreferrer nofollow">https://bar.anpad.org.br/index.php/bar/article/view/580/507</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Tax Compliance in the wild: Critical review of nudging...by HC Carvalho · 2023 · Cited by 5 — Most OECD countries have implemented in...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: resolve.cambridge.org  
    Title: Most policy mak- ers, insofar as they were concerned with studies.Read more  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/87141221C86C1A52B76C0AB068A2D046/9781108425636c28_414-427.pdf/behavioral_insights_public_policy_and_human_rights.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/87141221C86C1A52B76C0AB068A2D046/9781108425636c28_414-427.pdf/behavioral_insights_public_policy_and_human_rights.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/87141221C86C1A52B76C0AB068A2D046/9781108425636c28_414-427.pdf/behavioral_insights_public_policy_and_human_rights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/87141221C86C1A52B76C0AB068A2D046/9781108425636c28_414-427.pdf/behavioral_insights_public_policy_and_human_rights.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.org28 Behavioral Insights, Public Policy, and Human RightsUntil relatively recently, psychology did not play a major part in pu...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: bm.wel.by  
-   Link: [https://bm.wel.by/2021/03/15/oecd-good-practice-principles-for-data-ethics-in-the-public-sector/](https://bm.wel.by/2021/03/15/oecd-good-practice-principles-for-data-ethics-in-the-public-sector/)  
+   Link: <a href="https://bm.wel.by/2021/03/15/oecd-good-practice-principles-for-data-ethics-in-the-public-sector/" target="_blank" rel="noopener noreferrer nofollow">https://bm.wel.by/2021/03/15/oecd-good-practice-principles-for-data-ethics-in-the-public-sector/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Practice Principles for Data Ethics in the Public...Mar 15, 2021 — Citizens expect more: transparency, fairness, inclusion, and acc...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: oneplanetnetwork.org  
-   Link: [https://www.oneplanetnetwork.org/sites/default/files/from-crm/BASIC-Toolkit-web.pdf](https://www.oneplanetnetwork.org/sites/default/files/from-crm/BASIC-Toolkit-web.pdf)  
+   Link: <a href="https://www.oneplanetnetwork.org/sites/default/files/from-crm/BASIC-Toolkit-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oneplanetnetwork.org/sites/default/files/from-crm/BASIC-Toolkit-web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TOOLS AND ETHICS FOR APPLIED BEHAVIOURAL...Issues around privacy, consent and ethics of applying certain solutions to only some groups c...</p></details>

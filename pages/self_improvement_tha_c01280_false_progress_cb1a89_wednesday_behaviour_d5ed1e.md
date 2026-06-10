@@ -334,7 +334,7 @@ A useful stress test is to imagine several common Wednesday scenarios:
 
 If the entire system collapses under any one of these conditions, the system was probably too fragile.
 
-This principle appears across behaviour-change research. Interventions that create structure around action tend to outperform approaches that depend primarily on enthusiasm. Clear triggers, [reminders]({{ 'reminders/' | relative_url }}), [environmental cues]({{ 'cues-195d40/' | relative_url }}) and predefined responses reduce the need for repeated acts of willpower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.03248" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCImplementation Intention and Reminder Effects on Behavior...by P Pirolli · 2017 · Cited by 87 — Implementation intentions are mental...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allard.ubc.ca">[Peter A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allard.ubc.ca</span><span class="citation-popover-snippet">Allard School of LawImplementation IntentionsImplementation Intentions are “if-then” plans. Research has found that they are an effective...</span></span></span>. Allard School of Law
+This principle appears across behaviour-change research. Interventions that create structure around action tend to outperform approaches that depend primarily on enthusiasm. Clear triggers, [reminders]({{ 'reminders/' | relative_url }}), environmental cues and predefined responses reduce the need for repeated acts of [willpower]({{ 'willpower/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.03248" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation Intention and Reminder Effects on Behavior...by P Pirolli · 2017 · Cited by 87 — Implementation intentions are mental...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allard.ubc.ca">[Peter A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allard.ubc.ca</span><span class="citation-popover-snippet">Allard School of LawImplementation IntentionsImplementation Intentions are “if-then” plans. Research has found that they are an effective...</span></span></span>. Allard School of Law
 
 A practical example illustrates the difference:
 
@@ -837,125 +837,125 @@ That shift—from designing for motivation to designing for ordinary reality—i
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232586066_Implementation_Intentions](https://www.researchgate.net/publication/232586066_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation IntentionsJuly 1, 1999 — intentions are formed for the purpose of enhancing the translation of goal inte...</p></details>
    Published: July 1, 1999  
 
 2. <a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: [https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)  
+   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 136 — The idea is that intention realization can be promoted by forming if-then plans...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCImplementation Intention and Reminder Effects on Behavior...by P Pirolli · 2017 · Cited by 87 — Implementation intentions are mental...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intention and Reminder Effects on Behavior...by P Pirolli · 2017 · Cited by 87 — Implementation intentions are mental...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure](https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure)  
+   Link: <a href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Nature of Procrastination: A Meta-Analytic and...Research proves that procrastination is strongly associated with emotional av...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: allard.ubc.ca  
-   Link: [https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf](https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf)  
+   Link: <a href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allard School of LawImplementation IntentionsImplementation Intentions are “if-then” plans. Research has found that they are an effective...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.03248](https://arxiv.org/abs/2604.03248)  
+   Link: <a href="https://arxiv.org/abs/2604.03248" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.03248</a>  
 
 7. <a id="endnote-7"></a>
    Source: triagemethod.com  
-   Link: [https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/](https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding The Basics of Behaviour Change and Habit...Understanding the basics of behaviour change and habit formation is critical if...</p></details>
+   Link: <a href="https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding The Basics of [Behaviour Change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) and Habit...Understanding the basics of behaviour change and habit formation is critical if...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 290193001 Implementation Intentions  
-   Link: [https://www.researchgate.net/publication/290193001_Implementation_Intentions](https://www.researchgate.net/publication/290193001_Implementation_Intentions)  
+   Link: <a href="https://www.researchgate.net/publication/290193001_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290193001_Implementation_Intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions12 Jan 2016 — Implementation intentions have been used extensively to promote health behaviour change. Res...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...These studies [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) the notion that procrastination in...</p></details>
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...These studies support the notion that procrastination in...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: willow-psychology.co.uk  
    Title: the psychology of procrastination why do we delay tasks  
-   Link: [https://www.willow-psychology.co.uk/post/the-psychology-of-procrastination-why-do-we-delay-tasks](https://www.willow-psychology.co.uk/post/the-psychology-of-procrastination-why-do-we-delay-tasks)  
+   Link: <a href="https://www.willow-psychology.co.uk/post/the-psychology-of-procrastination-why-do-we-delay-tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.willow-psychology.co.uk/post/the-psychology-of-procrastination-why-do-we-delay-tasks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tim Pychyl, a leading expert on procrastination, explains that procrastination is a &quot;short-term mood repair.&quot; We avoid the task not becau...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: coachpedropinto.com  
    Title: Coach Pedro Pinto Habit Formation: Science-Backed Strategies For Leaders  
-   Link: [https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/](https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/)  
+   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coach Pedro PintoHabit Formation: Science-Backed Strategies For Leaders...June 4, 2025 — 4 Jun 2025 — Natural variations in motivation u...</p></details>
    Published: June 4, 2025  
 
 12. <a id="endnote-12"></a>
    Source: realsimple.com  
-   Link: [https://www.realsimple.com/starting-a-habit-on-wednesday-11863304](https://www.realsimple.com/starting-a-habit-on-wednesday-11863304)  
+   Link: <a href="https://www.realsimple.com/starting-a-habit-on-wednesday-11863304" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/starting-a-habit-on-wednesday-11863304</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental health professionals suggest that midweek habit initiation reduces pressure and perfectionism often associated with Sunday or Mond...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by psychologist Peter Gollwitzer, transforms vague intentions into spe...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: prospectivepsych.org  
-   Link: [https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf)  
+   Link: <a href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation IntentionsImplementation intention participants initiated their counterarguments more immediately when good op- portunitie...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieve Your Goals: The Simple Trick That Doubles...A surprising research study that reveals why motivation isn&#x27;t the key to helping you...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNRBQEzRRdu/](https://www.instagram.com/reel/DNRBQEzRRdu/)  
+   Link: <a href="https://www.instagram.com/reel/DNRBQEzRRdu/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNRBQEzRRdu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRAIN YOUR MIND — Ep. 1: The Power of Habit ⁠ Most...A book that breaks down how real change actually happens. The core idea, every habi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: wp.nyu.edu  
-   Link: [https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf](https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf)  
+   Link: <a href="https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nyu.edu7 If-Then Plans and the Intentional Control of Thoughts...by AL Cohen · Cited by 8 — Furthermore, implementation intentions faci...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC of academic procrastination: Functional analysis of a...by F Svartdal · 2022 · Cited by 60 — Researchers agree that behavioral delay...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dspace.library.uu.nl  
    Title: Adriaanse Verhoeven2018 Chapter BreakingHabitsUsingImplementat  
-   Link: [https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1](https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1)  
+   Link: <a href="https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/bitstream/handle/1874/414549/Adriaanse_Verhoeven2018_Chapter_BreakingHabitsUsingImplementat.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits Using Implementation Intentionsby MA Adriaanse · 2018 · Cited by 46 — Indeed, implementation intentions involve the formation of a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: Martijn 2008 Blocked goals persistent action implementation  
-   Link: [https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/74369981/Martijn_2008_Blocked_goals_persistent_action_implementation.pdf](https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/74369981/Martijn_2008_Blocked_goals_persistent_action_implementation.pdf)  
+   Link: <a href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/74369981/Martijn_2008_Blocked_goals_persistent_action_implementation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/74369981/Martijn_2008_Blocked_goals_persistent_action_implementation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>intentions engender tenacious goal strivingby C Martijn · 2008 · Cited by 54 — Previous research has shown that forming if– then plans do...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWjNK_ukbZh/](https://www.instagram.com/p/DWjNK_ukbZh/)  
+   Link: <a href="https://www.instagram.com/p/DWjNK_ukbZh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWjNK_ukbZh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s face it, your habits won&#x27;t stick if you&#x27;re relying on...Behavior science says it fades fast, but systems are forever...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/peterattiamd/posts/how-to-improve-motivation-james-clear-james-clearthis-clip-is-from-episode-183-o/1432900961527513/](https://www.facebook.com/peterattiamd/posts/how-to-improve-motivation-james-clear-james-clearthis-clip-is-from-episode-183-o/1432900961527513/)  
+   Link: <a href="https://www.facebook.com/peterattiamd/posts/how-to-improve-motivation-james-clear-james-clearthis-clip-is-from-episode-183-o/1432900961527513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peterattiamd/posts/how-to-improve-motivation-james-clear-james-clearthis-clip-is-from-episode-183-o/1432900961527513/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ation and change: - Make it Obvious: Design your environment to...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: deconstructingstigma.org  
-   Link: [https://deconstructingstigma.org/guides/procrastination](https://deconstructingstigma.org/guides/procrastination)  
+   Link: <a href="https://deconstructingstigma.org/guides/procrastination" target="_blank" rel="noopener noreferrer nofollow">https://deconstructingstigma.org/guides/procrastination</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Putting It Off: A Guide to Understanding Procrastination13 Jul 2025 — Several studies have linked procrastination to depression, anx...</p></details>

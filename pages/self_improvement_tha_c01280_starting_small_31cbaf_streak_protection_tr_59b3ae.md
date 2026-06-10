@@ -290,7 +290,7 @@ The person continues succeeding at the original habit while avoiding the more ch
 
 The core mechanism is subtle. Tracking starts by measuring behaviour. Over time, the metric itself can become the target.
 
-Behaviour-change technologies and habit-tracking systems often focus on engagement, checkmarks and [visible progress]({{ 'visible-records/' | relative_url }}) indicators because these features encourage continued participation. Yet researchers examining motivation in behaviour-change technologies have warned that systems can end up strengthening attachment to the intervention itself rather than to the underlying behavioural goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDesigning for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+Behaviour-change technologies and habit-tracking systems often focus on engagement, checkmarks and visible progress indicators because these features encourage continued participation. Yet researchers examining motivation in behaviour-change technologies have warned that systems can end up strengthening attachment to the intervention itself rather than to the underlying behavioural goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
 Several shifts commonly occur:
 
@@ -304,7 +304,7 @@ Several shifts commonly occur:
 
 </div>
 
-A writer who once aimed to become better at writing may end up prioritising “writing something every day” over learning difficult techniques. A language learner may continue easy review sessions because they preserve a streak while avoiding more demanding speaking practice. A runner may protect a daily running streak by repeating comfortable distances instead of attempting training that requires recovery and variation.
+A writer who once aimed to become better at writing may end up prioritising “writing something every day” over learning difficult [techniques]({{ 'techniques/' | relative_url }}). A language learner may continue easy review sessions because they preserve a streak while avoiding more demanding speaking practice. A runner may protect a daily running streak by repeating comfortable distances instead of attempting training that requires recovery and variation.
 
 In each case, the habit survives, but development slows.
 
@@ -342,7 +342,7 @@ Someone may start thinking:
 
 The [identity]({{ 'identity/' | relative_url }}) becomes attached to consistency itself rather than to the purpose behind the behaviour.
 
-This is one reason why breaking a streak can feel disproportionately painful. Some people report losing motivation entirely after a broken streak because the symbolic loss overshadows the actual behaviour. Community discussions among habit-tracking users frequently describe this all-or-nothing reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHas anyone else struggled with habit trackers because of...I&#x27;ve noticed that when the streak breaks, I often lose motivation and s...</span></span></span>
+This is one reason why breaking a streak can feel disproportionately painful. Some people report losing motivation entirely after a broken streak because the symbolic loss overshadows the actual behaviour. Community discussions among habit-tracking users frequently describe this all-or-nothing reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Has anyone else struggled with habit trackers because of...I&#x27;ve noticed that when the streak breaks, I often lose motivation and s...</span></span></span>
 
 ### Comfort disguised as discipline
 
@@ -437,7 +437,7 @@ That framing aligns the score with the purpose.
 
 ## The Goal Is Not a Perfect Record
 
-Research and practical habit-building experience both suggest that consistency is valuable because it helps behaviours become established. But the purpose of [starting small]({{ 'small-starts/' | relative_url }}) is not to remain small forever. Tiny actions are training wheels, not the destination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</span></span></span> Graduate School of Business <span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</span></span></span>
+Research and practical habit-building experience both suggest that consistency is valuable because it helps behaviours become established. But the purpose of starting small is not to remain small forever. Tiny actions are training wheels, not the destination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</span></span></span> Graduate School of Business <span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</span></span></span>
 
 A streak is useful when it lowers resistance and helps a behaviour become normal. It becomes problematic when preserving the record matters more than increasing capability.
 
@@ -867,101 +867,101 @@ It is “What is the next challenge this habit now makes possible?”
 1. <a id="endnote-1"></a>
    Source: ehm-tech.com  
    Title: habit streaks do they actually work  
-   Link: [https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/](https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/)  
+   Link: <a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Habit streaks tap into loss aversion, dopamine loops, and ident...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2402.00121](https://arxiv.org/abs/2402.00121)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDesigning for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Sustained Motivation: A Review of Self-Determination Theory in [Behaviour Change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologiesJanuary 31, 2024...</p></details>
    Published: January 31, 2024  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/](https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHas anyone else struggled with habit trackers because of...I&#x27;ve noticed that when the streak breaks, I often lose motivation and s...</p></details>
+   Link: <a href="https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has anyone else struggled with habit trackers because of...I&#x27;ve noticed that when the streak breaks, I often lose motivation and s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: gsb.stanford.edu  
-   Link: [https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change](https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change)  
+   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: keelify.com  
    Title: case against gamified habits  
-   Link: [https://keelify.com/blog/case-against-gamified-habits](https://keelify.com/blog/case-against-gamified-habits)  
+   Link: <a href="https://keelify.com/blog/case-against-gamified-habits" target="_blank" rel="noopener noreferrer nofollow">https://keelify.com/blog/case-against-gamified-habits</a>  
 
 6. <a id="endnote-6"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/habit-tracker](https://jamesclear.com/habit-tracker)  
+   Link: <a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mariashriver.com  
-   Link: [https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/](https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/)  
+   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_SG&id=com.adrienblc.habitstracker](https://play.google.com/store/apps/details?hl=en_SG&id=com.adrienblc.habitstracker)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_SG&amp;id=com.adrienblc.habitstracker" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_SG&amp;id=com.adrienblc.habitstracker</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracker - Habit Streak – Apps on Google Play11 Feb 2026 — Habit Streak is the most powerful habit tracker and daily planner app designed...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: iheart.com  
    Title: stanford behaviour change expert bj fogg 57869504  
-   Link: [https://www.iheart.com/podcast/239-how-i-work-31072293/episode/stanford-behaviour-change-expert-bj-fogg-57869504/](https://www.iheart.com/podcast/239-how-i-work-31072293/episode/stanford-behaviour-change-expert-bj-fogg-57869504/)  
+   Link: <a href="https://www.iheart.com/podcast/239-how-i-work-31072293/episode/stanford-behaviour-change-expert-bj-fogg-57869504/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/239-how-i-work-31072293/episode/stanford-behaviour-change-expert-bj-fogg-57869504/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford behaviour change expert, BJ Fogg, on how he...Stanford behaviour change expert, BJ Fogg, on how he decides which habits to form...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: bjsrestaurants.com  
-   Link: [https://www.bjsrestaurants.com/](https://www.bjsrestaurants.com/)  
+   Link: <a href="https://www.bjsrestaurants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bjsrestaurants.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ&#x27;s Restaurants and BrewhouseDiscover our brewhouse menu featuring deep dish pizza, handcrafted burgers, seasonal specials, popular favo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/design-bootcamp/streaks-and-daily-rewards-as-habit-forming-systems-dab7f5a34539](https://medium.com/design-bootcamp/streaks-and-daily-rewards-as-habit-forming-systems-dab7f5a34539)  
+   Link: <a href="https://medium.com/design-bootcamp/streaks-and-daily-rewards-as-habit-forming-systems-dab7f5a34539" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/streaks-and-daily-rewards-as-habit-forming-systems-dab7f5a34539</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks and Daily Rewards as Habit-Forming SystemsThis text explores streaks and daily rewards not as features, but as habit-forming syst...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/nudge-notes/the-science-behind-habit-forming-products-b0be52dec61e](https://medium.com/nudge-notes/the-science-behind-habit-forming-products-b0be52dec61e)  
+   Link: <a href="https://medium.com/nudge-notes/the-science-behind-habit-forming-products-b0be52dec61e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/nudge-notes/the-science-behind-habit-forming-products-b0be52dec61e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Habit-Forming ProductsAccording to BJ Fogg&#x27;s Behavior Model, three elements must converge simultaneously for a behavio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tinyhabits.com  
-   Link: [https://tinyhabits.com/](https://tinyhabits.com/)  
+   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40webbercookn/why-some-people-achieve-their-goals-while-others-quit-dd9d0297033a](https://medium.com/%40webbercookn/why-some-people-achieve-their-goals-while-others-quit-dd9d0297033a)  
+   Link: <a href="https://medium.com/%40webbercookn/why-some-people-achieve-their-goals-while-others-quit-dd9d0297033a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40webbercookn/why-some-people-achieve-their-goals-while-others-quit-dd9d0297033a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Some People Achieve Their Goals While Others QuitThe people who reach long‑term goals typically turn important actions into habits so...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/the-architecture-of-influence-a-comprehensive-analysis-of-gamification-in-behavioral-change-strategies/](https://gc-bs.org/articles/the-architecture-of-influence-a-comprehensive-analysis-of-gamification-in-behavioral-change-strategies/)  
+   Link: <a href="https://gc-bs.org/articles/the-architecture-of-influence-a-comprehensive-analysis-of-gamification-in-behavioral-change-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/the-architecture-of-influence-a-comprehensive-analysis-of-gamification-in-behavioral-change-strategies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Architecture of Influence: A Comprehensive Analysis...10 Nov 2025 — Self-Determination Theory, a macro-theory of human motivation de...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf](https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Dependency in Habit Formation AppsStreaks motivated participants by providing a challenge to maintain a streak, a form of &#x27;gamifi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: oneyoufeed.net  
-   Link: [https://www.oneyoufeed.net/why-[willpower](https://www.oneyoufeed.net/why-[willpower)  
+   Link: <a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Willpower Isn&#x27;t Enough: The Tiny Habits Method...23 Dec 2025 — Eric and Dr. BJ Fogg discuss why willpower isn&#x27;t enough as they explo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: happily.ai  
-   Link: [https://happily.ai/blog/using-gamification-to-change-workplace-outcomes-how-play-transforms-anxiety-into-progress/](https://happily.ai/blog/using-gamification-to-change-workplace-outcomes-how-play-transforms-anxiety-into-progress/)  
+   Link: <a href="https://happily.ai/blog/using-gamification-to-change-workplace-outcomes-how-play-transforms-anxiety-into-progress/" target="_blank" rel="noopener noreferrer nofollow">https://happily.ai/blog/using-gamification-to-change-workplace-outcomes-how-play-transforms-anxiety-into-progress/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;Play&#x27; is the Cure for Workplace Anxiety (According to...14 Nov 2025 — This approach satisfies all three psychological needs from Se...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: [https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/](https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/)  
+   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Self-Determination Theory is the most empirically validated motivation framewo...</p></details>
    Published: May 2026  

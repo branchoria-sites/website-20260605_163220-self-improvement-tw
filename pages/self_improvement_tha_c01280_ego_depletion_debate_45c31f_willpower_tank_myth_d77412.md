@@ -301,7 +301,7 @@ The strongest challenge to the fuel-tank idea comes from replication research. A
 
 At the same time, researchers examining the literature found evidence that publication bias may have inflated confidence in the effect. Positive findings are often more likely to be published than null findings, making a phenomenon appear stronger and more reliable than it really is. Analyses by Evan Carter and Michael McCullough argued that the published ego-depletion literature showed signs of exactly this problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://experts.umn.edu/en/publications/a-series-of-meta-analytic-tests-of-the-depletion-effect-self-cont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experts.umn.edu">[Experts@Minnesota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experts.umn.edu</span><span class="citation-popover-title">Evan C. Carter;, Lilly M.Read more</span><span class="citation-popover-snippet">Experts@MinnesotaA series of meta-analytic tests of the depletion effect: Self-...by EC Carter · 2015 · Cited by 813 — A series of meta...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00823/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Evan C. Carter.Read more</span><span class="citation-popover-snippet">FrontiersPublication bias and the limited strength model of self-controlby EC Carter · 2014 · Cited by 557 — Publication bias and the lim...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Multiple laboratories (k = 23, total N = 2,141)...Read more...</span></span></span>
 
-This does not prove that self-control never becomes harder after effort. Some later studies have found small effects under certain conditions, and researchers continue to debate the issue. However, the evidence is much less consistent than a literal fuel-tank model would suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4115664/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPublication bias and the limited strength model of self-controlby EC Carter · 2014 · Cited by 557 — Publication bias and the limited s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The role of task similarity for ego depletion: A registered...by P Primoceri · 2021 · Cited by 16 — This registered report examined the...</span></span></span>
+This does not prove that self-control never becomes harder after effort. Some later studies have found small effects under certain conditions, and researchers continue to debate the issue. However, the evidence is much less consistent than a literal fuel-tank model would suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4115664/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Publication bias and the limited strength model of self-controlby EC Carter · 2014 · Cited by 557 — Publication bias and the limited s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The role of task similarity for ego depletion: A registered...by P Primoceri · 2021 · Cited by 16 — This registered report examined the...</span></span></span>
 
 For self-improvement, the practical implication is important: a person who fails to exercise after work may not be experiencing the exhaustion of a finite willpower substance. Something more specific may be happening.
 
@@ -339,7 +339,7 @@ This does not mean beliefs create reality from nothing. Sleep deprivation, stres
 A person who thinks, “I've used up all my self-control today” may stop trying sooner than someone who thinks, “I'm tired, but I can still follow my plan if I make it easy.”
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oBTLQBImgF0" title="Is Willpower a Finite Resource? The Truth About Ego Depletion Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oBTLQBImgF0" target="_blank" rel="noopener noreferrer">Is Willpower a Finite Resource? The Truth About Ego Depletion Theory</a></p><p class="youtube-embed-meta">Channel: Mindvalley &middot; Views: 4.4K &middot; Uploaded: March 2023 &middot; Length: 3 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oBTLQBImgF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oBTLQBImgF0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HD-dxUZxMcs" title="Baumeister&#x27;s &quot;Ego Depletion Theory&quot; - affected by the replication crisis in psychology?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HD-dxUZxMcs" target="_blank" rel="noopener noreferrer">Baumeister&#x27;s &quot;Ego Depletion Theory&quot; - affected by the replication crisis in psychology?</a></p><p class="youtube-embed-meta">Channel: Loyola Productions Munich - Visualizing Minds &middot; Views: 2.5K &middot; Uploaded: June 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HD-dxUZxMcs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HD-dxUZxMcs">Open on YouTube</a></p></div></div></div>
 
 ## How the Tank Metaphor Can Create Practical Mistakes
 
@@ -809,85 +809,85 @@ Within the broader ego-depletion debate, this is the main reason the metaphor ca
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4115664/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4115664/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPublication bias and the limited strength model of self-controlby EC Carter · 2014 · Cited by 557 — Publication bias and the limited s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4115664/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4115664/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publication bias and the limited strength model of self-controlby EC Carter · 2014 · Cited by 557 — Publication bias and the limited s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103121000330](https://www.sciencedirect.com/science/article/abs/pii/S0022103121000330)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000330" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103121000330</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of task similarity for ego depletion: A registered...by P Primoceri · 2021 · Cited by 16 — This registered report examined the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: phrepo.phbern.ch  
-   Link: [https://phrepo.phbern.ch/7417/1/job-et-al-2013-beliefs-about-willpower-determine-the-impact-of-glucose-on-self-control__1_.pdf](https://phrepo.phbern.ch/7417/1/job-et-al-2013-beliefs-about-willpower-determine-the-impact-of-glucose-on-self-control__1_.pdf)  
+   Link: <a href="https://phrepo.phbern.ch/7417/1/job-et-al-2013-beliefs-about-willpower-determine-the-impact-of-glucose-on-self-control__1_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phrepo.phbern.ch/7417/1/job-et-al-2013-beliefs-about-willpower-determine-the-impact-of-glucose-on-self-control__1_.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(28) found that only people with a limited resource theory performed more poorly on cognitive and self-control tasks as demands on self...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604262/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604262/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604262/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604262/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>about willpower moderate the effect of previous day...14 Oct 2015 — Research suggests that beliefs about willpower affect self-regulatio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0272494423000725](https://www.sciencedirect.com/science/article/pii/S0272494423000725)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe role of lay beliefs about willpower and daily demands...by JM Jankowski · 2023 · Cited by 17 — People with a limited wi...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0272494423000725" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0272494423000725</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of lay beliefs about willpower and daily demands...by JM Jankowski · 2023 · Cited by 17 — People with a limited wi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27474142/](https://pubmed.ncbi.nlm.nih.gov/27474142/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27474142/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple laboratories (k = 23, total N = 2,141)...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1745691616652873](https://journals.sagepub.com/doi/10.1177/1745691616652873)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1745691616652873</a>  
 
 8. <a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1745691616652873](https://journals.sagepub.com/doi/abs/10.1177/1745691616652873)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1745691616652873</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>S. Hagger... The analyses served as a catalyst for the current Registered Replication...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
    Title: Evan C. Carter.Read more  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00823/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00823/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00823/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00823/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersPublication bias and the limited strength model of self-controlby EC Carter · 2014 · Cited by 557 — Publication bias and the lim...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25126083/](https://pubmed.ncbi.nlm.nih.gov/25126083/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25126083/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25126083/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bias and the limited strength model of self-control30 Jul 2014 — We argue that the evidence for the depletion effect is a useful case stu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: experts.umn.edu  
    Title: Evan C. Carter;, Lilly M.Read more  
-   Link: [https://experts.umn.edu/en/publications/a-series-of-meta-analytic-tests-of-the-depletion-effect-self-cont/](https://experts.umn.edu/en/publications/a-series-of-meta-analytic-tests-of-the-depletion-effect-self-cont/)  
+   Link: <a href="https://experts.umn.edu/en/publications/a-series-of-meta-analytic-tests-of-the-depletion-effect-self-cont/" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/a-series-of-meta-analytic-tests-of-the-depletion-effect-self-cont/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts@MinnesotaA series of meta-analytic tests of the depletion effect: Self-...by EC Carter · 2015 · Cited by 813 — A series of meta...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: replicationindex.com  
    Title: Replicability Index Is Ego Depletion Real?  
-   Link: [https://replicationindex.com/wp-content/uploads/2018/12/e2e74-is-ego-depletion-real.pdf](https://replicationindex.com/wp-content/uploads/2018/12/e2e74-is-ego-depletion-real.pdf)  
+   Link: <a href="https://replicationindex.com/wp-content/uploads/2018/12/e2e74-is-ego-depletion-real.pdf" target="_blank" rel="noopener noreferrer nofollow">https://replicationindex.com/wp-content/uploads/2018/12/e2e74-is-ego-depletion-real.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Analysis of Argumentsby M Friese · 2018 · Cited by 474 — A reanalysis of the data investigated the presence of small study effects suc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: assets.csom.umn.edu  
-   Link: [https://assets.csom.umn.edu/assets/lib/assets/AssetLibrary/2012/Vohs%20Baumeister%20Schmeichel%202012%20JESP%20this%20time%20for%20real.pdf](https://assets.csom.umn.edu/assets/lib/assets/AssetLibrary/2012/Vohs%20Baumeister%20Schmeichel%202012%20JESP%20this%20time%20for%20real.pdf)  
+   Link: <a href="https://assets.csom.umn.edu/assets/lib/assets/AssetLibrary/2012/Vohs%20Baumeister%20Schmeichel%202012%20JESP%20this%20time%20for%20real.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.csom.umn.edu/assets/lib/assets/AssetLibrary/2012/Vohs%20Baumeister%20Schmeichel%202012%20JESP%20this%20time%20for%20real.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Csom AssetsErratum to “Motivation, personal beliefs, and limited...October 15, 2012 — by KD Vohs · 2012 · Cited by 402 — Effect of willp...</p></details>
    Published: October 15, 2012  
 
 14. <a id="endnote-14"></a>
    Source: carlsonschool.umn.edu  
-   Link: [https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/baumeister_vohs_2016_perspectives_comment_on_hagger_rrr_misguided_effort_with_elusive_implications_2_0.pdf](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/baumeister_vohs_2016_perspectives_comment_on_hagger_rrr_misguided_effort_with_elusive_implications_2_0.pdf)  
+   Link: <a href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/baumeister_vohs_2016_perspectives_comment_on_hagger_rrr_misguided_effort_with_elusive_implications_2_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/baumeister_vohs_2016_perspectives_comment_on_hagger_rrr_misguided_effort_with_elusive_implications_2_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carlson School of ManagementMisguided Effort With Elusive Implicationsby RF Baumeister · 2016 · Cited by 256 — When planning the Register...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multilab Preregistered Replication of the Ego-Depletion...by J Dang · 2016 · Cited by 108 — The ego depletion effect has not been repl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: oamonitor.ireland.openaire.eu  
-   Link: [https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.3389%2Ffpsyg.2014.00823](https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.3389%2Ffpsyg.2014.00823)  
+   Link: <a href="https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.3389%2Ffpsyg.2014.00823" target="_blank" rel="noopener noreferrer nofollow">https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.3389%2Ffpsyg.2014.00823</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bias and the limited strength model of self-controlEgo depletion and the strength model of self-control: A meta-analysis...</p></details>
 
 ### Additional References
@@ -895,56 +895,56 @@ Within the broader ego-depletion debate, this is the main reason the metaphor ca
 17. <a id="endnote-17"></a>
    Source: psychologicalscience.org  
    Title: replication project investigates self control as limited resource 2  
-   Link: [https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2](https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2)  
+   Link: <a href="https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceReplication Project Investigates Self-Control as Limited...31 Aug 2016 — The findings are published...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: michael-inzlicht.squarespace.com  
-   Link: [https://michael-inzlicht.squarespace.com/s/Bias-correction-[techniques](https://michael-inzlicht.squarespace.com/s/Bias-correction-[techniques)  
+   Link: <a href="https://michael-inzlicht.squarespace.com/s/Bias-correction-[techniques" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/Bias-correction-[techniques</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>squarespace.comBias-correction techniques alone cannot determine the...by M Inzlicht · Cited by 103 — Carter, Kofler, Forster, &amp; McCullo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 327979382 A Multilab Preregistered Replication of the Ego Depletion Effect  
-   Link: [https://www.researchgate.net/publication/327979382_A_Multilab_Preregistered_Replication_of_the_Ego-Depletion_Effect](https://www.researchgate.net/publication/327979382_A_Multilab_Preregistered_Replication_of_the_Ego-Depletion_Effect)  
+   Link: <a href="https://www.researchgate.net/publication/327979382_A_Multilab_Preregistered_Replication_of_the_Ego-Depletion_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327979382_A_Multilab_Preregistered_Replication_of_the_Ego-Depletion_Effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Multilab Preregistered Replication of the Ego-...27 Feb 2026 — In line with the results from PET-PEESE, subsequent highlypowered...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCA Multilab Replication of the Ego Depletion Effect - PMCby J Dang · 2020 · Cited by 202 — In the current research, we conducted a prer...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multilab Replication of the Ego Depletion Effect - PMCby J Dang · 2020 · Cited by 202 — In the current research, we conducted a prer...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
    Title: Willpower Beliefs and Self-Regulation | PDFVeronika Job, Carol S  
-   Link: [https://www.scribd.com/document/917315643/Job-2010](https://www.scribd.com/document/917315643/Job-2010)  
+   Link: <a href="https://www.scribd.com/document/917315643/Job-2010" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917315643/Job-2010</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dweck, and Gregory M. Walton. Stanford University. Abstract Much recent research suggests that willpower—the capacity to exert self-...R...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
    Title: Publication bias and the limited strength model of self-control  
-   Link: [https://www.researchgate.net/publication/263965097_Publication_bias_and_the_limited_strength_model_of_self-control_has_the_evidence_for_ego_depletion_been_overestimated](https://www.researchgate.net/publication/263965097_Publication_bias_and_the_limited_strength_model_of_self-control_has_the_evidence_for_ego_depletion_been_overestimated)  
+   Link: <a href="https://www.researchgate.net/publication/263965097_Publication_bias_and_the_limited_strength_model_of_self-control_has_the_evidence_for_ego_depletion_been_overestimated" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263965097_Publication_bias_and_the_limited_strength_model_of_self-control_has_the_evidence_for_ego_depletion_been_overestimated</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carter EC and McCullough ME (2014) Publication bias and the limited. strength model of self-control: has the evidence for ego depletion b...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/255986818_Beliefs_about_willpower_determine_the_impact_of_glucose_on_self-control](https://www.researchgate.net/publication/255986818_Beliefs_about_willpower_determine_the_impact_of_glucose_on_self-control)  
+   Link: <a href="https://www.researchgate.net/publication/255986818_Beliefs_about_willpower_determine_the_impact_of_glucose_on_self-control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255986818_Beliefs_about_willpower_determine_the_impact_of_glucose_on_self-control</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sensitivity to the depletion of self-control resources and their desire to preserve...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: spsp.org  
    Title: when does belief willpower unlimited help motivation and when  
-   Link: [https://spsp.org/news-center/character-context-blog/when-does-belief-willpower-unlimited-help-motivation-and-when](https://spsp.org/news-center/character-context-blog/when-does-belief-willpower-unlimited-help-motivation-and-when)  
+   Link: <a href="https://spsp.org/news-center/character-context-blog/when-does-belief-willpower-unlimited-help-motivation-and-when" target="_blank" rel="noopener noreferrer nofollow">https://spsp.org/news-center/character-context-blog/when-does-belief-willpower-unlimited-help-motivation-and-when</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Does a Belief that Willpower is Unlimited Help...12 Dec 2016 — The findings consistently revealed that those who naturally endorse...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pages.ucsd.edu  
    Title: Ego Depletion Meta Analysis Text Revision for circulation  
-   Link: [https://pages.ucsd.edu/~memccullough/Papers/EgoDepletionMetaAnalysis_Text_Revision_for_circulation.pdf](https://pages.ucsd.edu/~memccullough/Papers/EgoDepletionMetaAnalysis_Text_Revision_for_circulation.pdf)  
+   Link: <a href="https://pages.ucsd.edu/~memccullough/Papers/EgoDepletionMetaAnalysis_Text_Revision_for_circulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~memccullough/Papers/EgoDepletionMetaAnalysis_Text_Revision_for_circulation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Series of Meta-Analytic Tests of the Depletion Effectby EC Carter · Cited by 813 — We found compelling evi- dence that small-study effect...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: michael-inzlicht.squarespace.com  
    Title: Paradigmatic test of the ego depletion effect  
-   Link: [https://michael-inzlicht.squarespace.com/s/Paradigmatic-test-of-the-ego-depletion-effect.pdf](https://michael-inzlicht.squarespace.com/s/Paradigmatic-test-of-the-ego-depletion-effect.pdf)  
+   Link: <a href="https://michael-inzlicht.squarespace.com/s/Paradigmatic-test-of-the-ego-depletion-effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/Paradigmatic-test-of-the-ego-depletion-effect.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by KD Vohs · 2021 · Cited by 295 — forms: meta-analytic analyses (Carter et al., 2015) and a multisite registered replication study (Hagg...</p></details>

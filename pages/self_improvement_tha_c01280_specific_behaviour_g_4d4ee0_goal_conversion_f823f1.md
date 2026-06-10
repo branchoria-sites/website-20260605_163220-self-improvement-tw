@@ -278,7 +278,7 @@ Most self-improvement efforts fail at the point where intention is supposed to b
 
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_conversion_f823f1-Illustration-1-dark.svg" | relative_url }}" alt="Goal Conversion illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_conversion_f823f1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_conversion_f823f1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on [goal setting]({{ 'goal-setting/' | relative_url }}) and behaviour change consistently shows that specific, actionable goals outperform vague “do your best” intentions because they reduce ambiguity and create a clear standard for action. Goals become easier to start, easier to monitor and harder to reinterpret after the fact. Observable behaviour goals work because they turn aspirations into actions that can actually be seen, counted and repeated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford MedicineBuilding a Practically Useful Theory of Goal Setting and...by EA Locke · 2002 · Cited by 15543 — We found that specific...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They describe the core findings of the theory, the mechanisms by which goals...Read more...</span></span></span>
+Research on [goal setting]({{ 'goal-setting/' | relative_url }}) and [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently shows that specific, actionable goals outperform vague “do your best” intentions because they reduce ambiguity and create a clear standard for action. Goals become easier to start, easier to monitor and harder to reinterpret after the fact. Observable behaviour goals work because they turn aspirations into actions that can actually be seen, counted and repeated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford MedicineBuilding a Practically Useful Theory of Goal Setting and...by EA Locke · 2002 · Cited by 15543 — We found that specific...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They describe the core findings of the theory, the mechanisms by which goals...Read more...</span></span></span>
 
 ## What Vague Intentions Leave Undecided
 
@@ -382,7 +382,7 @@ Examples include:
 
 The minimum is not the ideal outcome. It is the threshold that keeps the behaviour alive.
 
-Behaviour-change research repeatedly identifies self-regulatory [techniques]({{ 'techniques/' | relative_url }}) such as goal setting, action planning and self-monitoring as effective components of successful interventions. Small, clearly defined actions are easier to track and maintain than ambitious but poorly specified intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCby F Wieber · 2015 · Cited by 215 — Finally, behavioral studies also observed that implementation intentions can be used to control au...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[3digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Note: if... 2.3, Self-monitoring of behavior; if monitoring is by someone else...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://njl-admin.nihr.ac.uk/document/download/2002785" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: njl-admin.nihr.ac.uk">[3njl-admin.nihr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">njl-admin.nihr.ac.uk</span><span class="citation-popover-snippet">Behaviour change techniques: the development and...They found that interventions with the combination of self-monitoring, goal-setting a...</span></span></span>
+Behaviour-change research repeatedly identifies self-regulatory [techniques]({{ 'techniques/' | relative_url }}) such as goal setting, action planning and self-monitoring as effective components of successful interventions. Small, clearly defined actions are easier to track and maintain than ambitious but poorly specified intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — Finally, behavioral studies also observed that implementation intentions can be used to control au...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[3digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Note: if... 2.3, Self-monitoring of behavior; if monitoring is by someone else...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://njl-admin.nihr.ac.uk/document/download/2002785" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: njl-admin.nihr.ac.uk">[3njl-admin.nihr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">njl-admin.nihr.ac.uk</span><span class="citation-popover-snippet">Behaviour change techniques: the development and...They found that interventions with the combination of self-monitoring, goal-setting a...</span></span></span>
 
 The critical question becomes not “How much progress did I make?” but “Did I perform the behaviour?”
 
@@ -625,149 +625,149 @@ That distinction may appear small, but it changes how improvement is managed. Wi
 
 1. <a id="endnote-1"></a>
    Source: med.stanford.edu  
-   Link: [https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf](https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf)  
+   Link: <a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MedicineBuilding a Practically Useful Theory of Goal Setting and...by EA Locke · 2002 · Cited by 15543 — We found that specific...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
-   Link: [https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions)  
+   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X](https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 564 — Implementation intentions are plans that s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Wieber · 2015 · Cited by 215 — Finally, behavioral studies also observed that implementation intentions can be used to control au...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — Finally, behavioral studies also observed that implementation intentions can be used to control au...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectImplementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5041 — Implementation intentio...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5041 — Implementation intentio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: digitalwellbeing.org  
-   Link: [https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf)  
+   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Note: if... 2.3, Self-monitoring of behavior; if monitoring is by someone else...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: njl-admin.nihr.ac.uk  
-   Link: [https://njl-admin.nihr.ac.uk/document/download/2002785](https://njl-admin.nihr.ac.uk/document/download/2002785)  
+   Link: <a href="https://njl-admin.nihr.ac.uk/document/download/2002785" target="_blank" rel="noopener noreferrer nofollow">https://njl-admin.nihr.ac.uk/document/download/2002785</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change techniques: the development and...They found that interventions with the combination of self-monitoring, goal-setting a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — Previous meta-analyses have consistently shown that interv...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0191886920306917](https://www.sciencedirect.com/science/article/pii/S0191886920306917)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0191886920306917" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886920306917</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual differences in if-then planning: Insights from the...by M Bieleke · 2021 · Cited by 54 — A self-regulation strategy that can...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: [https://www.sciencedirect.com/topics/psychology/behavior-change-technique](https://www.sciencedirect.com/topics/psychology/behavior-change-technique)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewThis is a specific set of techniques involving the prompting of the person to provide self-motivating statements and evaluatio...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211335522002352](https://www.sciencedirect.com/science/article/pii/S2211335522002352)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211335522002352" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211335522002352</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the application of behaviour change technique...by D Chakraborty · 2022 · Cited by 22 — This scoping review sought to examine...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Goal Setting Theory  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory](https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewA key finding from goal-setting research is that difficult, specific goals that are accepted result in better performance than...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12237980/](https://pubmed.ncbi.nlm.nih.gov/12237980/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12237980/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They describe the core findings of the theory, the mechanisms by which goals...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36476147/](https://pubmed.ncbi.nlm.nih.gov/36476147/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36476147/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36476147/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This may be achieved by mentally forming stimulus...Read mo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/implementation](https://dictionary.cambridge.org/dictionary/english/implementation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionarythe act of putting a plan into action or of starting to use something: implementation of a change...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/implementation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionarythe act of putting a plan into action or of starting to use something: implementation of a change...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Implementation](https://en.wikipedia.org/wiki/Implementation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: [https://thriva.co/hub/behaviour-change/implementation-intentions](https://thriva.co/hub/behaviour-change/implementation-intentions)  
+   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by psychologist Peter Gollwitzer, transforms vague intentions into spe...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/implementation](https://www.merriam-webster.com/dictionary/implementation)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IMPLEMENTATION Definition &amp; Meaning3 days ago — The meaning of IMPLEMENTATION is an act or instance of implementing something: the proce...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf](https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying and Applying Behaviour Change TechniquesWhilst the BCTs identified within the Taxonomy aren&#x27;t new, some of them such as “goal...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory](https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting TheoryThe experiment showed that setting a specific, high-difficulty goal resulted in better crew performance than setting a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: allard.ubc.ca  
-   Link: [https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf](https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf)  
+   Link: <a href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IntentionsImplementation Intentions (&#x27;If-then&#x27; planning) are an effective strategy for turning goals into action. Whereas goal intentions...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wsu.pressbooks.pub  
-   Link: [https://wsu.pressbooks.pub/theoreticalmodelsforteachingandresearch/chapter/goal-setting-theory/](https://wsu.pressbooks.pub/theoreticalmodelsforteachingandresearch/chapter/goal-setting-theory/)  
+   Link: <a href="https://wsu.pressbooks.pub/theoreticalmodelsforteachingandresearch/chapter/goal-setting-theory/" target="_blank" rel="noopener noreferrer nofollow">https://wsu.pressbooks.pub/theoreticalmodelsforteachingandresearch/chapter/goal-setting-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(1981) also provided evidence that goal setting has a positive influence on task performance. Latham and Locke (2007) explained that “a s...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: wp.nyu.edu  
-   Link: [https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/sheeran-et-al-2005-the-interplay-between-goal-intentions-and-implementation-intentions.pdf](https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/sheeran-et-al-2005-the-interplay-between-goal-intentions-and-implementation-intentions.pdf)  
+   Link: <a href="https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/sheeran-et-al-2005-the-interplay-between-goal-intentions-and-implementation-intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/sheeran-et-al-2005-the-interplay-between-goal-intentions-and-implementation-intentions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interplay Between Goal Intentions and Implementation...by P Sheeran · 2005 · Cited by 871 — Two studies tested whether action control by...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: openaccess.city.ac.uk  
    Title: Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1  
-   Link: [https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf](https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Taxonomy (v1) of 93 hierarchic...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: leantime.io  
    Title: how to use implementation intentions to reach your goals  
-   Link: [https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/](https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/)  
+   Link: <a href="https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/" target="_blank" rel="noopener noreferrer nofollow">https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: A Tried and True Approach...Nov 3, 2024 — Implementation intentions serve as a tried and true approach to acc...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)  
+   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>king to our goals, whether it&#x27;s writing down the exact time and date of...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
    Title: 232501090 A Theory of Goal Setting Task Performance  
-   Link: [https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance](https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance)  
+   Link: <a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Goal Setting &amp; Task PerformanceGoal setting theory (Locke &amp; Latham, 1984, 199Oa) is based on the simplest of introspective ob...</p></details>

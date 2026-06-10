@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 14:40:51'
 parent_title: Better Change
 parent_permalink: /self-improvement-that-works/
 parent_nav_short_title: Better Change
@@ -493,7 +494,6 @@ next_link:
   permalink: /motivation/
   short_title: Motivation
   heading_title: Why Chosen Goals Last Longer
-date: '2026-06-05 14:40:51 '
 header:
   og_image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249-overview-social.jpg
   preview_image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249-overview.webp
@@ -512,7 +512,7 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
 
 The word “relapse” is useful, but it can be too heavy for ordinary self improvement unless it is handled carefully. In clinical relapse-prevention work, a distinction is often made between a lapse and a relapse: a lapse is a slip or brief return to the old behaviour, while relapse is a broader collapse back into the previous pattern. That distinction matters for everyday goals too. Skipping one workout, ordering takeaway once, missing one writing session or sleeping late after a bad night is not the same as abandoning the wider change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
-The risk is that people interpret a small interruption as a total [identity]({{ 'identity/' | relative_url }}) failure. Marlatt’s relapse-prevention model describes the “[abstinence violation]({{ 'guilt-spiral/' | relative_url }}) effect”, where a lapse can trigger guilt, shame, lowered self-efficacy and a feeling that control has been lost. Although this model comes from addiction research, the mechanism is recognisable in ordinary self-improvement failures: one missed morning routine becomes “the week is ruined”; one unplanned snack becomes “the diet is over”; one unproductive day becomes “I am not a disciplined person.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
+The risk is that people interpret a small interruption as a total [identity]({{ 'identity/' | relative_url }}) failure. Marlatt’s relapse-prevention model describes the “abstinence violation effect”, where a lapse can trigger guilt, shame, lowered self-efficacy and a feeling that control has been lost. Although this model comes from addiction research, the mechanism is recognisable in ordinary self-improvement failures: one missed morning routine becomes “the week is ruined”; one unplanned snack becomes “the diet is over”; one unproductive day becomes “I am not a disciplined person.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
 That interpretation is dangerous because it turns a small event into permission to stop trying. In dieting research, related “what-the-hell” or counterregulatory effects describe how people who believe they have broken a strict rule may abandon restraint and consume more than they otherwise would. The lesson is not limited to food. Rigid all-or-nothing rules can make any missed day feel catastrophic, which increases the chance of a second missed day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Counterregulatory_eating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Counterregulatory eating</span><span class="citation-popover-snippet">Counterregulatory eating</span></span></span>
 
@@ -520,7 +520,7 @@ A more useful frame is: “This was a lapse in execution, not a final assessment
 
 ## Why interruption is normal in real behaviour change
 
-Real behaviour change happens in ordinary life, not in a laboratory schedule. People get ill, travel, work late, argue, feel low, lose childcare, forget equipment, face [bad weather]({{ 'bad-weather/' | relative_url }}), or simply meet a day where their planned behaviour had too much friction. A system that only works on calm, well-rested days has not yet been tested.
+Real [behaviour change]({{ 'behaviour-change/' | relative_url }}) happens in ordinary life, not in a laboratory schedule. People get ill, travel, work late, argue, feel low, lose childcare, forget equipment, face [bad weather]({{ 'bad-weather/' | relative_url }}), or simply meet a day where their planned behaviour had too much friction. A system that only works on calm, well-rested days has not yet been tested.
 
 The evidence on habit formation supports a less brittle view of consistency. In a well-known real-world habit formation study, participants chose a simple eating, drinking or activity behaviour and repeated it in a stable context over 12 weeks. Automaticity increased gradually and varied widely between people and behaviours. Importantly, missing one opportunity did not materially derail the habit formation process. A later review for general practice put the practical point plainly: occasional missed opportunities did not seriously impair habit formation, and automaticity gains resumed after a missed performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Online Library Modelling habit formation in the real world</span></span></span>
 
@@ -612,7 +612,7 @@ This form of review fits the broader evidence on behaviour maintenance: sustaine
 The important word is “pattern”. A lapse review should not be triggered by every tiny imperfection. Over-analysis can become another avoidance behaviour. But when the same miss repeats, the system is sending a message.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mNeXuCYiE0U" title="1% Better Every Day - James Clear at ConvertKit Craft + Commerce 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mNeXuCYiE0U" target="_blank" rel="noopener noreferrer">1% Better Every Day - James Clear at ConvertKit Craft + Commerce 2017</a></p><p class="youtube-embed-meta">Channel: Kit &middot; Views: 1.5M &middot; Uploaded: August 2017 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mNeXuCYiE0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mNeXuCYiE0U">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spvtY0edGVA" title="TLDR Addiction: #6 - Why counting days isn&#x27;t always the best idea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spvtY0edGVA" target="_blank" rel="noopener noreferrer">TLDR Addiction: #6 - Why counting days isn&#x27;t always the best idea</a></p><p class="youtube-embed-meta">Channel: Aaron Weiner, PhD, ABPP &middot; Views: 320 &middot; Uploaded: July 2019 &middot; Length: 3 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spvtY0edGVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spvtY0edGVA">Open on YouTube</a></p></div></div></div>
 
 ## The risk of compensation
 
@@ -669,7 +669,7 @@ Self-compassion is often misunderstood as letting oneself off the hook. In this 
 That distinction is central to self improvement that works. The most reliable people are not those who never lapse. They are those whose systems make lapses less contagious.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spvtY0edGVA" title="TLDR Addiction: #6 - Why counting days isn&#x27;t always the best idea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spvtY0edGVA" target="_blank" rel="noopener noreferrer">TLDR Addiction: #6 - Why counting days isn&#x27;t always the best idea</a></p><p class="youtube-embed-meta">Channel: Aaron Weiner, PhD, ABPP &middot; Views: 320 &middot; Uploaded: July 2019 &middot; Length: 3 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spvtY0edGVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spvtY0edGVA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I9KzCt3shH4" title="Lapse vs. Relapse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I9KzCt3shH4" target="_blank" rel="noopener noreferrer">Lapse vs. Relapse</a></p><p class="youtube-embed-meta">Channel: Pure Desire Ministries &middot; Views: 4.2K &middot; Uploaded: October 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I9KzCt3shH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I9KzCt3shH4">Open on YouTube</a></p></div></div></div>
 
 ## A resilient missed-day system
 
@@ -1125,149 +1125,149 @@ The core rule is simple: **missed days are feedback before they are failure**. T
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Counterregulatory eating  
-   Link: [https://en.wikipedia.org/wiki/Counterregulatory_eating](https://en.wikipedia.org/wiki/Counterregulatory_eating)  
+   Link: <a href="https://en.wikipedia.org/wiki/Counterregulatory_eating" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counterregulatory_eating</a>  
 
 2. <a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
 
 3. <a id="endnote-3"></a>
    Source: cykelvaeksthuset.dk  
    Title: Promoting habit formation  
-   Link: [https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf](https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf)  
+   Link: <a href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: self-compassion.org  
-   Link: [https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf](https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf)  
+   Link: <a href="https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&d2101103_page=2&ref_=b2b_cm_3p_cs_t_ww](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&d2101103_page=2&ref_=b2b_cm_3p_cs_t_ww)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Implementation](https://en.wikipedia.org/wiki/Implementation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Relapse Prevention: An Overview of Marlatt's Cognitive  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby ME Larimer · 1999 · Cited by 1172 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by ME Larimer · 1999 · Cited by 1172 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23512568/](https://pubmed.ncbi.nlm.nih.gov/23512568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24591064/](https://pubmed.ncbi.nlm.nih.gov/24591064/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24591064/</a>  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/</a>  
 
 14. <a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372](https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372</a>  
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Goal pursuit increases more after dietary success than  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/</a>  
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277](https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277</a>  
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21749245/](https://pubmed.ncbi.nlm.nih.gov/21749245/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Abstinence Violation  
-   Link: [https://www.sciencedirect.com/topics/psychology/abstinence-violation](https://www.sciencedirect.com/topics/psychology/abstinence-violation)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/abstinence-violation</a>  
 
 19. <a id="endnote-19"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full)  
+   Link: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full</a>  
 
 20. <a id="endnote-20"></a>
    Source: adf.org.au  
-   Link: [https://adf.org.au/reducing-risk/relapse/](https://adf.org.au/reducing-risk/relapse/)  
+   Link: <a href="https://adf.org.au/reducing-risk/relapse/" target="_blank" rel="noopener noreferrer nofollow">https://adf.org.au/reducing-risk/relapse/</a>  
 
 21. <a id="endnote-21"></a>
    Source: ojs.lib.uwo.ca  
-   Link: [https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249](https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249)  
+   Link: <a href="https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249" target="_blank" rel="noopener noreferrer nofollow">https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249</a>  
 
 22. <a id="endnote-22"></a>
    Source: southshorerecovery.com  
    Title: abstinence violation effect  
-   Link: [https://southshorerecovery.com/abstinence-violation-effect/](https://southshorerecovery.com/abstinence-violation-effect/)  
+   Link: <a href="https://southshorerecovery.com/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://southshorerecovery.com/abstinence-violation-effect/</a>  
 
 23. <a id="endnote-23"></a>
    Source: feedyourmental.com  
    Title: self compassion as a behavior change tool  
-   Link: [https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool](https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool)  
+   Link: <a href="https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool" target="_blank" rel="noopener noreferrer nofollow">https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)  
-   Link: [https://www.youtube.com/watch?v=jkafQlNX3eE](https://www.youtube.com/watch?v=jkafQlNX3eE)  
+   Link: <a href="https://www.youtube.com/watch?v=jkafQlNX3eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jkafQlNX3eE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear &quot;never miss twice&quot; rule Never Miss Two Days: James Clear’s Best Habit Rule Revealed Stoic Shift...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: "Build Wealth & Discipline Using Atomic Habits"  
-   Link: [https://www.youtube.com/watch?v=WaLJq6Txhqo](https://www.youtube.com/watch?v=WaLJq6Txhqo)  
+   Link: <a href="https://www.youtube.com/watch?v=WaLJq6Txhqo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WaLJq6Txhqo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: TLDR Addiction: #6  
-   Link: [https://www.youtube.com/watch?v=spvtY0edGVA](https://www.youtube.com/watch?v=spvtY0edGVA)  
+   Link: <a href="https://www.youtube.com/watch?v=spvtY0edGVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=spvtY0edGVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your goals aren&#x27;t the problem, your method is...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233302898_Beyond_intentional_processes_The_role_of_action_and_coping_planning_in_explaining_exercise_behaviour_among_adolescents](https://www.researchgate.net/publication/233302898_Beyond_intentional_processes_The_role_of_action_and_coping_planning_in_explaining_exercise_behaviour_among_adolescents)  
+   Link: <a href="https://www.researchgate.net/publication/233302898_Beyond_intentional_processes_The_role_of_action_and_coping_planning_in_explaining_exercise_behaviour_among_adolescents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233302898_Beyond_intentional_processes_The_role_of_action_and_coping_planning_in_explaining_exercise_behaviour_among_adolescents</a>  
 
 28. <a id="endnote-28"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world](https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world)  
+   Link: <a href="https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention](https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention)  
+   Link: <a href="https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention](https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention)  
+   Link: <a href="https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions](https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions)  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen](https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen)  
+   Link: <a href="https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen</a>  
 
 33. <a id="endnote-33"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095?mi=3icuj5](https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095?mi=3icuj5)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095?mi=3icuj5" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095?mi=3icuj5</a>  
